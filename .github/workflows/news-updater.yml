@@ -2,14 +2,19 @@ name: Update news.json from RSS
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # Каждый 30 минут по UTC
-  workflow_dispatch:         # Возможен ручной запуск из Actions
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -27,5 +32,5 @@ jobs:
           git config --global user.email "bot@github-actions"
           git config --global user.name "GitHub Actions"
           git add news.json
-          git commit -m "Update news.json from RSS" || echo "No changes"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update news.json from RSS"
           git push
