@@ -1,0 +1,31 @@
+name: Update news.json from RSS
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # Каждый 30 минут по UTC
+  workflow_dispatch:         # Возможен ручной запуск из Actions
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install rss-parser axios
+
+      - name: Run script & generate news.json
+        run: node rss-to-news.js
+
+      - name: Commit and push news.json
+        run: |
+          git config --global user.email "bot@github-actions"
+          git config --global user.name "GitHub Actions"
+          git add news.json
+          git commit -m "Update news.json from RSS" || echo "No changes"
+          git push
