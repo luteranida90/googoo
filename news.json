@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "People: умерла актриса Дайан Китон",
-    "description": "Ей было 79 лет",
-    "fullText": "Ей было 79 лет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/25320265",
-    "time": "2025-10-11T19:23:19.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Узнаете клуб по фэйковому лого из футсима? Тут не только «Пьемонте Кальчо»",
     "description": "Есть даже российская команда.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4078566-reliz-little-nightmares-iii-tsena-i-otzyvy?from=rss",
     "time": "2025-10-10T07:25:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
