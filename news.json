@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Контракт на постройку ж/д участка Решт - Астара подпишут в ближайшее время",
-    "description": "Ожидается, что сразу после подписания контракта проект вступит в фазу реализации",
-    "fullText": "Ожидается, что сразу после подписания контракта проект вступит в фазу реализации",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25318653",
-    "time": "2025-10-11T09:53:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Игрок какого клуба лидирует по голам в финалах? И еще 8 вопросов о FONBET Кубке России",
     "description": "Тест с классными призами.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чудо-пас Кузнецова: в первом же матче за «Металлург» разбудил молодежь",
-    "description": "«Неплохой, но медленный».",
-    "fullText": "«Неплохой, но медленный».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f9/20f1ad12746b6ab997ebbe96076a6.jpeg",
+    "title": "Пирло – амбассадор «Фонбета», объявил Романо. Мощный ответ Роналдиньо и Winline",
+    "description": "Новая звезда в России.",
+    "fullText": "Новая звезда в России.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7a/734b012f1493d914745578f50f0df.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3356510.html",
-    "time": "2025-10-11T05:05:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3356211.html",
+    "time": "2025-10-11T06:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4078833-predzagruzka-the-outer-worlds-2-xbox-series-x-s?from=rss",
     "time": "2025-10-10T09:33:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
