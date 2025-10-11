@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Над Курской и Белгородской областями сбили четыре украинских БПЛА",
+    "description": "Силы ПВО уничтожили дроны в период с 12:00 до 15:00 мск",
+    "fullText": "Силы ПВО уничтожили дроны в период с 12:00 до 15:00 мск",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25319275",
+    "time": "2025-10-11T12:54:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Депутаты каждый год «развивают» киберспорт в России. А толк?",
     "description": "Кибер посчитал.",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В России скупают антидепрессанты на рекордные суммы. Звучит жутко, но на самом деле это хорошо",
-    "description": "Главное – без самолечения.",
-    "fullText": "Главное – без самолечения.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/f1/14bcbf62346e7be9de45792b4b08d.jpeg",
+    "title": "Таким должно быть завершение карьеры Леброна",
+    "description": "Своевременным и красивым.",
+    "fullText": "Своевременным и красивым.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/94/1a0626cf34e28b4180265dfd19552.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3355415.html",
-    "time": "2025-10-11T07:45:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3355798.html",
+    "time": "2025-10-11T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Xbox Series X|S стартовала предзагрузка The Outer Worlds 2 — требуется почти 80 ГБ",
-    "description": "Судя по всему, игра ушла «на золото».",
-    "fullText": "Судя по всему, игра ушла «на золото».",
-    "image": "https://leonardo.osnova.io/929ac040-b5b3-59d3-aa2a-29402e1b519d/",
+    "title": "Состоялся релиз Little Nightmares III",
+    "description": "В российском Steam цена начинается от 2849 рублей.",
+    "fullText": "В российском Steam цена начинается от 2849 рублей.",
+    "image": "https://leonardo.osnova.io/f58c2da4-78c5-553d-9c9a-294dcf8ae8d5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4078833-predzagruzka-the-outer-worlds-2-xbox-series-x-s?from=rss",
-    "time": "2025-10-10T09:33:32.000Z"
+    "url": "https://dtf.ru/games/4078566-reliz-little-nightmares-iii-tsena-i-otzyvy?from=rss",
+    "time": "2025-10-10T07:25:36.000Z"
   }
 ]
