@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Артиллеристы ВС РФ уничтожили пункты управления БПЛА и живую силу ВСУ",
+    "description": "Расчеты артиллерии Южной группировки войск ведут постоянную работу в ближнем тылу врага, отметили в Минобороны",
+    "fullText": "Расчеты артиллерии Южной группировки войск ведут постоянную работу в ближнем тылу врага, отметили в Минобороны",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25318883",
+    "time": "2025-10-11T11:04:14.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Игрок какого клуба лидирует по голам в финалах? И еще 8 вопросов о FONBET Кубке России",
     "description": "Тест с классными призами.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пирло – амбассадор «Фонбета», объявил Романо. Мощный ответ Роналдиньо и Winline",
-    "description": "Новая звезда в России.",
-    "fullText": "Новая звезда в России.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7a/734b012f1493d914745578f50f0df.jpeg",
+    "title": "Майкл Бизли – величайший баскетболист современности. По версии самих игроков НБА",
+    "description": "Почему он им не стал.",
+    "fullText": "Почему он им не стал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f4/eab59463c4ca5a799c2e5ed2a59ca.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3356211.html",
-    "time": "2025-10-11T06:30:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3353198.html",
+    "time": "2025-10-11T06:43:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4078833-predzagruzka-the-outer-worlds-2-xbox-series-x-s?from=rss",
     "time": "2025-10-10T09:33:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
