@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сосновоборске поврежденный пожаром дом пока остается обесточенным",
-    "description": "Идет просыхание магистральных линий электроснабжения и распределительных этажных щитов, сообщил мэр города Алексей Кудрявцев",
-    "fullText": "Идет просыхание магистральных линий электроснабжения и распределительных этажных щитов, сообщил мэр города Алексей Кудрявцев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25319433",
-    "time": "2025-10-11T13:43:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Депутаты каждый год «развивают» киберспорт в России. А толк?",
     "description": "Кибер посчитал.",
@@ -23,25 +12,25 @@
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Забирайте ретроджерси «МЮ» – Кантона или любую другую",
-    "description": "В нашей «Аркаде».",
-    "fullText": "В нашей «Аркаде».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/1c/c07d4691348a1b8c1adcfc7ae475c.png",
+    "title": "«Сити», «Реал», «Интер» – потопите всех?",
+    "description": "Морской бой для чемпионов.",
+    "fullText": "Морской бой для чемпионов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/4c/6b89976ab45268ae1c2f2c8ea34d8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-11T09:30:00.000Z"
+    "url": "https://sirena.world/33soza",
+    "time": "2025-10-11T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Мбаппе гол и травма, Киммиха штопали степлером, швед опередил время, Украина выиграла 5:3. Главное в отборе ЧМ",
-    "description": "Швейцария близка к выходу.",
-    "fullText": "Швейцария близка к выходу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/37/65330688b427594623692b50c0476.jpeg",
+    "title": "Переворот в гонке АПЛ: «Ливерпуль» повалился – шансы рухнули в два раза",
+    "description": "В чемпионате – новый фаворит.",
+    "fullText": "В чемпионате – новый фаворит.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/14/1f128685b47048f8b94cb46cf89a3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3356532.html",
-    "time": "2025-10-11T09:05:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3355261.html",
+    "time": "2025-10-11T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4078566-reliz-little-nightmares-iii-tsena-i-otzyvy?from=rss",
     "time": "2025-10-10T07:25:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
