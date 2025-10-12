@@ -1,25 +1,47 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Всего три американца брали «Везина Трофи». Вспомните хоть одного?",
-    "description": "Проверьте себя.",
-    "fullText": "Проверьте себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/b0/d3c1d858f4c07ae19864eefbd3f17.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Битва за чемпионский щит в нашем регби – «Стрела-Ак Барс» против «Динамо». Показываем матч на ВидеоСпортсе’’",
+    "description": "Будет новый чемпион.",
+    "fullText": "Будет новый чемпион.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/1f/9e918ce204eba9d3bbe3593455682.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/b79iva",
-    "time": "2025-10-11T21:30:00.000Z"
+    "url": "https://video.sports.ru/stream/an7xDufuwGb62wJ1qOHJ8fGkGftUyrl1oC2v7nB7-ek",
+    "time": "2025-10-12T09:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Силы ПВО за сутки сбили 72 БПЛА и ракету \"Нептун",
+    "description": "Противник также потерял девять снарядов реактивных систем залпового огня HIMARS, сообщили в Минобороны России",
+    "fullText": "Противник также потерял девять снарядов реактивных систем залпового огня HIMARS, сообщили в Минобороны России",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25321899",
+    "time": "2025-10-12T09:06:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Сити», «Реал», «Интер» – потопите всех?",
+    "description": "Морской бой для чемпионов.",
+    "fullText": "Морской бой для чемпионов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/4c/6b89976ab45268ae1c2f2c8ea34d8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/33soza",
+    "time": "2025-10-12T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как там наши в Европе: Чалов забил Лодыгину, Хайкин рубится в ЛЧ, Сафонов сидит, Кокорин лечится",
-    "description": "А команда Миранчука валится в США.",
-    "fullText": "А команда Миранчука валится в США.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/21/275d5f9ef4282b5ccf67d48e770fa.jpeg",
+    "title": "Что на фото? Под газоном «Сантьяго Бернабеу» – практически Колизей!",
+    "description": "Мадридское чудо.",
+    "fullText": "Мадридское чудо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3a/f96974d154264914531f13ad51781.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3356265.html",
-    "time": "2025-10-11T19:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3355092.html",
+    "time": "2025-10-11T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4079864-art-direktor-halo-glen-izrael-pokinul-studiyu?from=rss",
     "time": "2025-10-10T16:41:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
