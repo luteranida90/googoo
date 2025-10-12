@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Белоруссии заинтересованы в опыте использования китайской военной техники",
-    "description": "Помощник министра обороны республики Валерий Ревенко, КНР отличается тем, что там высочайшая дисциплина и ответственность военнослужащих",
-    "fullText": "Помощник министра обороны республики Валерий Ревенко, КНР отличается тем, что там высочайшая дисциплина и ответственность военнослужащих",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25324053",
-    "time": "2025-10-12T18:57:20.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Игрок какого клуба лидирует по голам в финалах? И еще 8 вопросов о FONBET Кубке России",
     "description": "Тест с классными призами.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Назовете 17 команд, которым не забивал Холанд?",
-    "description": "С кем он играл.",
-    "fullText": "С кем он играл.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/01/2b0fe71364f30a69e88d7f7180a13.jpeg",
+    "title": "5 мыслей о (не)популярности фигурного катания",
+    "description": "Иван Кузнецов – о парадоксах.",
+    "fullText": "Иван Кузнецов – о парадоксах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/80/6c5dbdf5b46b4bac5a2e3f3c0d706.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3356718.html",
-    "time": "2025-10-12T15:55:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3356569.html",
+    "time": "2025-10-12T16:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4079468-demoversiya-heroes-of-might-and-magic-olden-era?from=rss",
     "time": "2025-10-10T14:22:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
