@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Шахматистка Шухман назвала неровной свою игру на чемпионате России",
+    "description": "16-летняя спортсменка стала самой юной чемпионкой России",
+    "fullText": "16-летняя спортсменка стала самой юной чемпионкой России",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25323955",
+    "time": "2025-10-12T18:09:52.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Игрок какого клуба лидирует по голам в финалах? И еще 8 вопросов о FONBET Кубке России",
     "description": "Тест с классными призами.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4079468-demoversiya-heroes-of-might-and-magic-olden-era?from=rss",
     "time": "2025-10-10T14:22:28.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
