@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Театр \"Эрмитаж\" выпустил премьеру по \"Старушкам\" Горенштейна",
+    "description": "Постановка создана в рамках проекта \"Театр Михаила Левитина глазами его учеников\"",
+    "fullText": "Постановка создана в рамках проекта \"Театр Михаила Левитина глазами его учеников\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25323381",
+    "time": "2025-10-12T15:55:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Киберспортсмены носят спортивные рукава. А им-то зачем?",
     "description": "Чисто понты?",
@@ -11,47 +22,36 @@
     "time": "2025-10-12T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Авиакомпания Vietjet Air открыла рейсы из Красноярска в Нячанг",
-    "description": "Вылеты будут осуществляться два раза в неделю",
-    "fullText": "Вылеты будут осуществляться два раза в неделю",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25323259",
-    "time": "2025-10-12T14:47:30.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Знаете, с какой командой Зинэтула Билялетдинов выиграл три Кубка Гагарина?",
-    "description": "И 12 других вопросов.",
-    "fullText": "И 12 других вопросов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a6/a47a591c24b7b88bc72575a1f3b8b.png",
+    "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
+    "description": "Привет из прошлого.",
+    "fullText": "Привет из прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/0z5rhs",
-    "time": "2025-10-12T11:30:00.000Z"
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-10-12T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Грузия выдала супернеделю в фигурке – и хочет повторить это на Олимпиаде",
-    "description": "Теперь – топ-сборная?",
-    "fullText": "Теперь – топ-сборная?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/98/05d57c6b04500a209fbdacf903daa.jpeg",
+    "title": "Исторический финал в нашем регби: «Стрела-Ак Барс» впервые забрала чемпионский щит",
+    "description": "У нас новый победитель!",
+    "fullText": "У нас новый победитель!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c0/a066d728c4aabba82e965baf846f4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3356720.html",
-    "time": "2025-10-12T11:18:00.000Z"
+    "url": "https://www.sports.ru/rugby/blogs/3356649.html",
+    "time": "2025-10-12T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Арт-директор Halo покинул студию после 17 лет работы",
-    "description": "Ветеран франшизы намекнул на серьёзные проблемы внутри команды.",
-    "fullText": "Ветеран франшизы намекнул на серьёзные проблемы внутри команды.",
-    "image": "https://leonardo.osnova.io/e64a8de4-8fc0-58ce-9bd0-165f58acc045/",
+    "title": "Онлайн демоверсии Heroes of Might and Magic: Olden Era в Steam превысил 20 тысяч человек",
+    "description": "Первые отзывы оказались очень положительными — игру сравнивают с третьей частью.",
+    "fullText": "Первые отзывы оказались очень положительными — игру сравнивают с третьей частью.",
+    "image": "https://leonardo.osnova.io/03e9e1be-6252-59fa-9bb6-c13284907c32/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4079864-art-direktor-halo-glen-izrael-pokinul-studiyu?from=rss",
-    "time": "2025-10-10T16:41:32.000Z"
+    "url": "https://dtf.ru/games/4079468-demoversiya-heroes-of-might-and-magic-olden-era?from=rss",
+    "time": "2025-10-10T14:22:28.000Z"
   }
 ]
