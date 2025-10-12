@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сборная Белоруссии потеряла шансы на выход на чемпионат мира по футболу",
-    "description": "Команда за четыре матча не набрала ни одного очка",
-    "fullText": "Команда за четыре матча не набрала ни одного очка",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Игрок какого клуба лидирует по голам в финалах? И еще 8 вопросов о FONBET Кубке России",
+    "description": "Тест с классными призами.",
+    "fullText": "Тест с классными призами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/10/56aee577c4495a28907dfd61fcf8a.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25323897",
-    "time": "2025-10-12T17:59:33.000Z"
+    "url": "https://sirena.world/v37hq4",
+    "time": "2025-10-12T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,26 +22,15 @@
     "time": "2025-10-12T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
-    "description": "Привет из прошлого.",
-    "fullText": "Привет из прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-12T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Куда пропал Эндрик?",
-    "description": "Не играет 5 месяцев.",
-    "fullText": "Не играет 5 месяцев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/96/1a4ee79fd4697a394a347128336a0.jpeg",
+    "title": "Постекоглу выгоняют из «Ноттингема» – спустя всего месяц",
+    "description": "Ноль побед.",
+    "fullText": "Ноль побед.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4b/4c1f5cc114666bce03f3f1bba2b00.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3356736.html",
-    "time": "2025-10-12T13:16:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3356678.html",
+    "time": "2025-10-12T14:37:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4079468-demoversiya-heroes-of-might-and-magic-olden-era?from=rss",
     "time": "2025-10-10T14:22:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
