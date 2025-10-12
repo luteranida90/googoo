@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сержант ВС РФ помог артиллерии уничтожить скопление пехоты и техники ВСУ",
-    "description": "Находясь вблизи линии боевого соприкосновения и ведя наблюдение, военнослужащий Дмитрий Похабов обнаружил большое скопление живой силы и техники противника",
-    "fullText": "Находясь вблизи линии боевого соприкосновения и ведя наблюдение, военнослужащий Дмитрий Похабов обнаружил большое скопление живой силы и техники противника",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25324263",
-    "time": "2025-10-12T21:03:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Пау и Ферран – найдете мостик между Торресами?",
     "description": "Россиянин в ответах!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чудо в Шанхае: элитный титул взял игрок, не попадавший даже в квал",
-    "description": "Прорыв Валентина Вашеро.",
-    "fullText": "Прорыв Валентина Вашеро.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/de/597d55d754aec9eda33edf0bdf1c4.jpeg",
+    "title": "Nike изменил слоган ради зумеров: «Зачем это делать?» вместо «Просто сделай это»",
+    "description": "Реклама с Винисиусом, Леброном и Алькарасом.",
+    "fullText": "Реклама с Винисиусом, Леброном и Алькарасом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/28/b918081d54d45a809bb93afdf8734.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3356733.html",
-    "time": "2025-10-12T17:10:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3353095.html",
+    "time": "2025-10-12T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4079468-demoversiya-heroes-of-might-and-magic-olden-era?from=rss",
     "time": "2025-10-10T14:22:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
