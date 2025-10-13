@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российский рынок акций перешел к снижению на основной торговой сессии",
-    "description": "К 11:28 мск индексы опускались до 2 566,04 и 995,64 пункта",
-    "fullText": "К 11:28 мск индексы опускались до 2 566,04 и 995,64 пункта",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25327615",
-    "time": "2025-10-13T08:36:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чудо в Шанхае: элитный титул взял игрок, не попадавший даже в квал",
-    "description": "Прорыв Валентина Вашеро.",
-    "fullText": "Прорыв Валентина Вашеро.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/de/597d55d754aec9eda33edf0bdf1c4.jpeg",
+    "title": "История в нашем регби: «Стрела-Ак Барс» впервые забрала чемпионский щит",
+    "description": "У нас новый победитель!",
+    "fullText": "У нас новый победитель!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c0/a066d728c4aabba82e965baf846f4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3356733.html",
-    "time": "2025-10-12T22:35:00.000Z"
+    "url": "https://www.sports.ru/rugby/blogs/3356649.html",
+    "time": "2025-10-13T01:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сигурни Уивер обсуждала с Disney возможное возвращение к роли Эллен Рипли из «Чужого»",
-    "description": "Актрисе понравились идеи продюсера франшизы Уолтера Хилла касательно судьбы героини.",
-    "fullText": "Актрисе понравились идеи продюсера франшизы Уолтера Хилла касательно судьбы героини.",
-    "image": "https://leonardo.osnova.io/36c77205-9bb5-5a6e-a64d-8a8a6573d5cd/",
+    "title": "Indiana Jones and the Great Circle получила обновление с режимом «Новая игра+»",
+    "description": "А также ещё одним костюмом и несколькими приятными мелочами.",
+    "fullText": "А также ещё одним костюмом и несколькими приятными мелочами.",
+    "image": "https://leonardo.osnova.io/cc5f088b-9779-5131-938a-f7593dc1d885/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4080905-sigurni-uiver-vozvrashchenie-ellen-ripli?from=rss",
-    "time": "2025-10-11T08:01:59.000Z"
+    "url": "https://dtf.ru/games/4081156-obnovlenie-indiana-jones-i-velikiy-krug?from=rss",
+    "time": "2025-10-11T10:19:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
