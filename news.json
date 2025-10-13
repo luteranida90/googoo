@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лавров: Иран не собирался нарушать СВПД",
+    "description": "Глава МИД РФ отметил, что США вышли из этого соглашения и Европа \"не выполнила свои обязательства\"",
+    "fullText": "Глава МИД РФ отметил, что США вышли из этого соглашения и Европа \"не выполнила свои обязательства\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250311/8110409.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25329895",
+    "time": "2025-10-13T10:30:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "История в нашем регби: «Стрела-Ак Барс» впервые забрала чемпионский щит",
-    "description": "У нас новый победитель!",
-    "fullText": "У нас новый победитель!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c0/a066d728c4aabba82e965baf846f4.jpeg",
+    "title": "Тренировки звезд: что за упражнения делают Шакира, Леди Гага, Бейонсе и Майли Сайрус, чтобы быть в такой форме",
+    "description": "Звезды, которые точно смогут пробежать марафон.",
+    "fullText": "Звезды, которые точно смогут пробежать марафон.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/12/ff981703240abb9416deeb0cdc39c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/rugby/blogs/3356649.html",
-    "time": "2025-10-13T01:55:00.000Z"
+    "url": "https://www.sports.ru/health/blogs/3334560.html",
+    "time": "2025-10-13T03:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Indiana Jones and the Great Circle получила обновление с режимом «Новая игра+»",
-    "description": "А также ещё одним костюмом и несколькими приятными мелочами.",
-    "fullText": "А также ещё одним костюмом и несколькими приятными мелочами.",
-    "image": "https://leonardo.osnova.io/cc5f088b-9779-5131-938a-f7593dc1d885/",
+    "title": "EA извинилась за проблемы со своим лаунчером на запуске Battlefield 6 и предложила компенсацию",
+    "description": "Те, кого задела проблема, получат боевой пропуск первого сезона и не только.",
+    "fullText": "Те, кого задела проблема, получат боевой пропуск первого сезона и не только.",
+    "image": "https://leonardo.osnova.io/54088995-6e11-5dd1-a5a1-d7e6eb82b4b7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4081156-obnovlenie-indiana-jones-i-velikiy-krug?from=rss",
-    "time": "2025-10-11T10:19:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4081425-ea-izvinilas-za-problemy-s-battlefield-6?from=rss",
+    "time": "2025-10-11T13:03:26.000Z"
   }
 ]
