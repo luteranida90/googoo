@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Anadolu: cамолет с Эрдоганом со второй попытки приземлился в Шарм-эш-Шейхе",
+    "description": "По данным агентства, самолет сначала проскочил взлетно-посадочную полосу аэропорта",
+    "fullText": "По данным агентства, самолет сначала проскочил взлетно-посадочную полосу аэропорта",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25330579",
+    "time": "2025-10-13T11:25:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "5 мыслей о (не)популярности фигурного катания",
-    "description": "Иван Кузнецов – о парадоксах.",
-    "fullText": "Иван Кузнецов – о парадоксах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/80/6c5dbdf5b46b4bac5a2e3f3c0d706.jpeg",
+    "title": "В Орске провалилось школьное футбольное поле. У нас много вопросов к этой странной истории",
+    "description": "Любовь Курчавова – из-под земли.",
+    "fullText": "Любовь Курчавова – из-под земли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/69/d1de1b78646909d971874bb746968.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3356569.html",
-    "time": "2025-10-13T05:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3356752.html",
+    "time": "2025-10-13T06:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4082633-mortal-kombat-3-v-razrabotke?from=rss",
     "time": "2025-10-12T06:18:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
