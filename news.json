@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На \"Госуслугах\" появилась возможность подключения доверенного контакта",
-    "description": "Это поможет защитить аккаунт от мошенников",
-    "fullText": "Это поможет защитить аккаунт от мошенников",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251014/8523713.jpg",
+    "title": "РБК: крупные банки РФ разрабатывают концепцию новой платежной системы без карт",
+    "description": "Возможными учредителями могут стать Сбер, Альфа-банк и Т-банк",
+    "fullText": "Возможными учредителями могут стать Сбер, Альфа-банк и Т-банк",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25338091",
-    "time": "2025-10-14T09:25:50.000Z"
+    "url": "https://tass.ru/ekonomika/25339359",
+    "time": "2025-10-14T10:25:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Франция увязла в Исландии, Швеция опять проиграла Косово, у Вольтемаде первый гол. Главное в отборе на ЧМ",
+    "description": "А матч Уэльса и Бельгии прервали из-за крысы.",
+    "fullText": "А матч Уэльса и Бельгии прервали из-за крысы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4c/f90689c5d42d782f3551cd50d5a67.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3357022.html",
+    "time": "2025-10-14T06:12:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-14T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Редкий прием, который принес золото в регби. Что сделал Давыдов?!",
-    "description": "Рискнул и не прогадал.",
-    "fullText": "Рискнул и не прогадал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e6/6cc0b4a264d0c9250571f50afe908.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/rugby/blogs/3356920.html",
-    "time": "2025-10-13T23:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Исследование мира и управление империей — первый геймплейный трейлер Disciples: Domination",
-    "description": "Фэнтезийная стратегическая RPG выйдет в 2026 году.",
-    "fullText": "Фэнтезийная стратегическая RPG выйдет в 2026 году.",
-    "image": "https://leonardo.osnova.io/42129292-96a7-5d49-bdd6-bff605dfbe1d/-/format/mp4/",
+    "title": "Фэнтезийный ролевой экшен Of Ash and Steel от российских разработчиков выйдет 6 ноября",
+    "description": "Демоверсия игры, вдохновлённой классическими представителями жанра, появилась в Steam.",
+    "fullText": "Демоверсия игры, вдохновлённой классическими представителями жанра, появилась в Steam.",
+    "image": "https://leonardo.osnova.io/84060460-1fc0-563d-9275-cd7bd65c65d6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4085431-gejmplejnyj-trejler-disciples-domination?from=rss",
-    "time": "2025-10-13T15:02:08.000Z"
+    "url": "https://dtf.ru/games/4085600-fenteziynyj-ekshen-of-ash-and-steel?from=rss",
+    "time": "2025-10-13T16:08:53.000Z"
   }
 ]
