@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Российскую энергетическую неделю в Москве посетят 5 тыс. представителей из 85 стран",
+    "description": "РЭН пройдет под девизом \"Создавая энергетику будущего вместе\"",
+    "fullText": "РЭН пройдет под девизом \"Создавая энергетику будущего вместе\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25344415",
+    "time": "2025-10-14T21:04:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Петр Ян снова идет за поясом UFC. Нужно невозможное – остановить Мераба",
+    "description": "Новая встреча спустя почти три года.",
+    "fullText": "Новая встреча спустя почти три года.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e6/d54a90fbf46ff827f1e00fe56333c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3357067.html",
+    "time": "2025-10-14T16:32:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -11,17 +33,6 @@
     "time": "2025-10-14T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Италия снова рискует остаться без ЧМ: неужели нужно будет побеждать Норвегию 10:0?",
-    "description": "Альтернатива – забить 20 Молдове.",
-    "fullText": "Альтернатива – забить 20 Молдове.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/2a/a0080c8914f92ba99314da3306cce.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3356965.html",
-    "time": "2025-10-14T15:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Инсайдер: Assassin&#039;s Creed Shadows выйдет на Nintendo Switch 2 в декабре",
     "description": "Физическое издание будет стоить около 50 евро.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4087447-assassins-creed-shadows-dlya-nintendo-switch-2?from=rss",
     "time": "2025-10-14T12:28:30.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
