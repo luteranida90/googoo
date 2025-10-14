@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Карелии стартовал проект для ветеранов СВО",
+    "description": "В нем примут участие 19 человек с нарушением опорно-двигательного аппарата",
+    "fullText": "В нем примут участие 19 человек с нарушением опорно-двигательного аппарата",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/spb-news/25342827",
+    "time": "2025-10-14T19:18:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4087336-blupoint-games-ishchet-dizaynera-dlya-novogo-proekta?from=rss",
     "time": "2025-10-14T11:34:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
