@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп заявил, что был бы не против долларизации экономики Аргентины",
-    "description": "По версии американского лидера, страны БРИКС якобы проводят политику \"нападок на доллар\"",
-    "fullText": "По версии американского лидера, страны БРИКС якобы проводят политику \"нападок на доллар\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25344171",
-    "time": "2025-10-14T19:54:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Макларен» проигрывает уже три гонки подряд. Доминированию конец?",
-    "description": "Анализируем.",
-    "fullText": "Анализируем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a0/9242c55344549a61696e90353313c.jpeg",
+    "title": "Италия снова рискует остаться без ЧМ: неужели нужно будет побеждать Норвегию 10:0?",
+    "description": "Альтернатива – забить 20 Молдове.",
+    "fullText": "Альтернатива – забить 20 Молдове.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/2a/a0080c8914f92ba99314da3306cce.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3356675.html",
-    "time": "2025-10-14T15:24:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3356965.html",
+    "time": "2025-10-14T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4087447-assassins-creed-shadows-dlya-nintendo-switch-2?from=rss",
     "time": "2025-10-14T12:28:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
