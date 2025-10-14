@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Шеин: тема коррупции в руках ЕС превратилась в инструмент давления на Украину",
-    "description": "Интерес Брюсселя к проявлениям коррупции в Киеве объясняется не только политическими или геополитическими причинами, подчеркнул директор Аспирантской школы по международным отношениям и зарубежным региональным исследованиям НИУ ВШЭ",
-    "fullText": "Интерес Брюсселя к проявлениям коррупции в Киеве объясняется не только политическими или геополитическими причинами, подчеркнул директор Аспирантской школы по международным отношениям и зарубежным региональным исследованиям НИУ ВШЭ",
+    "title": "Виктор Дробыш ожидает интересную игру от футболистов сборных России и Боливии",
+    "description": "Товарищеский матч пройдет во вторник на \"ВТБ-Арене\"",
+    "fullText": "Товарищеский матч пройдет во вторник на \"ВТБ-Арене\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25342749",
-    "time": "2025-10-14T15:22:21.000Z"
+    "url": "https://tass.ru/sport/25343275",
+    "time": "2025-10-14T16:32:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
+    "description": "Привет из прошлого.",
+    "fullText": "Привет из прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-10-14T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,36 +44,25 @@
     "time": "2025-10-14T13:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
-    "description": "Есть еще 12 вариантов.",
-    "fullText": "Есть еще 12 вариантов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/35/80ea294654827a397fafc88e431d3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/b79iva",
-    "time": "2025-10-14T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Петр Ян снова идет за поясом UFC. Нужно невозможное – остановить Мераба",
-    "description": "Новая встреча спустя почти три года.",
-    "fullText": "Новая встреча спустя почти три года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e6/d54a90fbf46ff827f1e00fe56333c.jpeg",
+    "title": "Соловьев вернулся в фигурку: не комментировал 11 лет, говорил, что не отличает Медведеву и Загитову",
+    "description": "«Я чужак для этого мира».",
+    "fullText": "«Я чужак для этого мира».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/21/54476dd3a4157a955fd6848a07af2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3357067.html",
-    "time": "2025-10-14T10:40:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3357169.html",
+    "time": "2025-10-14T12:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Netflix вышел мультсериал «Splinter Cell: Караул смерти»",
-    "description": "Возвращение Сэма Фишера.",
-    "fullText": "Возвращение Сэма Фишера.",
-    "image": "https://leonardo.osnova.io/c03ef787-757d-5884-a45c-82091a0507fb/",
+    "title": "Авторы Helldivers 2 замедлят выпуск крупных обновлений, чтобы улучшить производительность игры",
+    "description": "Команда понимает претензии фанатов и уже занимается решениями.",
+    "fullText": "Команда понимает претензии фанатов и уже занимается решениями.",
+    "image": "https://leonardo.osnova.io/431c6533-bc62-5f0d-825b-ae11532b3404/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4086972-multserial-splinter-cell-karau-dyemti?from=rss",
-    "time": "2025-10-14T08:20:25.000Z"
+    "url": "https://dtf.ru/games/4087331-helldivers-2-zamedlyaet-obnovleniya-dlya-uluchsheniya-proizvoditelnosti-igry?from=rss",
+    "time": "2025-10-14T11:24:51.000Z"
   }
 ]
