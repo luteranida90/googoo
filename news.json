@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Курс доллара на межбанке опустился ниже 78 рублей впервые с 22 июля",
+    "description": "По данным на 19:32 мск, показатель составлял 77,94 рубля",
+    "fullText": "По данным на 19:32 мск, показатель составлял 77,94 рубля",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25343347",
+    "time": "2025-10-14T16:51:21.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4087331-helldivers-2-zamedlyaet-obnovleniya-dlya-uluchsheniya-proizvoditelnosti-igry?from=rss",
     "time": "2025-10-14T11:24:51.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
