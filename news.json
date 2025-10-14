@@ -12,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Сан-Марино есть шанс на ЧМ-2026. Для этого нужно проиграть как можно крупнее",
-    "description": "Справятся?",
-    "fullText": "Справятся?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/ed/caaaf72ab4cc3b47e8fbafecf10a0.jpeg",
+    "title": "«Платили $5000 в месяц – гораздо больше, чем в «Локомотиве». Как помощник Семина стал чемпионом Боливии",
+    "description": "Шевченко в «Боливаре».",
+    "fullText": "Шевченко в «Боливаре».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/63/ba27dd1254739aa9aa5f6e3bace01.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357115.html",
-    "time": "2025-10-14T14:21:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3356868.html",
+    "time": "2025-10-14T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Helldivers 2 замедлят выпуск крупных обновлений, чтобы улучшить производительность игры",
-    "description": "Команда понимает претензии фанатов и уже занимается решениями.",
-    "fullText": "Команда понимает претензии фанатов и уже занимается решениями.",
-    "image": "https://leonardo.osnova.io/431c6533-bc62-5f0d-825b-ae11532b3404/",
+    "title": "Студия авторов ремейка Demon&#039;s Souls ищет дизайнера с пониманием механик ближнего боя от третьего лица",
+    "description": "Похоже, после отмены сервисной игры по God of War команда начала трудиться над новым проектом.",
+    "fullText": "Похоже, после отмены сервисной игры по God of War команда начала трудиться над новым проектом.",
+    "image": "https://leonardo.osnova.io/d0bf2613-0863-528c-8ace-5b3acdea0c71/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4087331-helldivers-2-zamedlyaet-obnovleniya-dlya-uluchsheniya-proizvoditelnosti-igry?from=rss",
-    "time": "2025-10-14T11:24:51.000Z"
+    "url": "https://dtf.ru/gameindustry/4087336-blupoint-games-ishchet-dizaynera-dlya-novogo-proekta?from=rss",
+    "time": "2025-10-14T11:34:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
