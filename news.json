@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Донецкий \"Шахтер\" намерен играть во Второй лиге чемпионата России по футболу",
-    "description": "На прошлой неделе руководство ФНЛ провело рабочую встречу с представителями клуба",
-    "fullText": "На прошлой неделе руководство ФНЛ провело рабочую встречу с представителями клуба",
+    "title": "\"Автостат\": Haval Jolion стал самым продаваемым новым автомобилем с \"автоматом\"",
+    "description": "За девять месяцев 2025 года продано 40,5 тыс. кроссоверов, на втором месте Lada Vesta",
+    "fullText": "За девять месяцев 2025 года продано 40,5 тыс. кроссоверов, на втором месте Lada Vesta",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25356481",
-    "time": "2025-10-15T15:23:36.000Z"
+    "url": "https://tass.ru/ekonomika/25357107",
+    "time": "2025-10-15T16:24:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Русский народный киберпанк. Впечатления от второго сезона «Кибердеревни»",
+    "description": "Венерианский централ, ветер северный.",
+    "fullText": "Венерианский централ, ветер северный.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/94/bb2934d734af49b12312c8ada2d01.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3356781.html",
+    "time": "2025-10-15T15:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Демидов включился в гонку за «Колдер»: вовремя помог вытащить матч с «Сиэтлом»",
+    "description": "Посмотрите, как его любят в Монреале.",
+    "fullText": "Посмотрите, как его любят в Монреале.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/83/65fb09d4a424ab613f4b2f5579234.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3357290.html",
+    "time": "2025-10-15T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +44,14 @@
     "time": "2025-10-15T11:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рэпер Megan Thee Stallion помогала Клэю Томпсону готовиться к сезону. Они пара",
-    "description": "Даже тренируются вместе.",
-    "fullText": "Даже тренируются вместе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/81/3e3bcb7074d59a7dfdc98251560dc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3357086.html",
-    "time": "2025-10-15T10:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Директор Banjo-Kazooie покинул студию Rare после 36 лет работы",
-    "description": "В последние годы он занимался отменённой Everwild.",
-    "fullText": "В последние годы он занимался отменённой Everwild.",
-    "image": "https://leonardo.osnova.io/bdfe00b9-a602-52b4-8a0e-7787f0b69543/",
+    "title": "В AMC допустили, что «Ходячие мертвецы» могут продолжаться ещё много лет",
+    "description": "По словам руководителей франшизы, в мире много континентов, которые герои серии не посетили.",
+    "fullText": "По словам руководителей франшизы, в мире много континентов, которые герои серии не посетили.",
+    "image": "https://leonardo.osnova.io/7f35af57-69a7-5524-8411-1c08f5806e0b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4089214-greg-mayles-pokinul-rare?from=rss",
-    "time": "2025-10-15T09:35:41.000Z"
+    "url": "https://dtf.ru/cinema/4088928-hodjachiemertvecy-prodolzhatsya-dolgo?from=rss",
+    "time": "2025-10-15T06:48:47.000Z"
   }
 ]
