@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Эксперт Любин: цены на элитное жилье в Сочи достигли исторического максимума",
+    "description": "Генеральный директор федерального девелопера премиальной недвижимости Parade Development отметил, что при этом продажи в премиальном сегменте региона остаются стабильными",
+    "fullText": "Генеральный директор федерального девелопера премиальной недвижимости Parade Development отметил, что при этом продажи в премиальном сегменте региона остаются стабильными",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251015/8525737.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25345511",
+    "time": "2025-10-15T03:12:17.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сити», «Реал», «Интер» – потопите всех?",
     "description": "Морской бой для чемпионов.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Скандал с голом СКА (которого не было) – не первый. КХЛ уже извинялась и отстраняла судей",
-    "description": "Но не навсегда.",
-    "fullText": "Но не навсегда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/dd/ac211e58f4401b524f913eaef481e.jpeg",
+    "title": "Йокич, Шэй или Яннис? Кто будет претендовать на MVP в новом сезоне НБА",
+    "description": "Размышляет Игорь Сошников.",
+    "fullText": "Размышляет Игорь Сошников.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ae/f035dbbf4497d8efa1b2a7ac97ca2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3357205.html",
-    "time": "2025-10-14T16:42:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3356539.html",
+    "time": "2025-10-14T17:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4087447-assassins-creed-shadows-dlya-nintendo-switch-2?from=rss",
     "time": "2025-10-14T12:28:30.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
