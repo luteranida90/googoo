@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ расценивает параметры нового бюджета, как способствующие снижению инфляции",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25347427",
-    "time": "2025-10-15T07:20:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Раскатка для мозгов. Хоккейный пасьянс уже в сети!",
     "description": "Это даже бодрит!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Трактор» и «Авангард» выдали лучший матч сезона – 13 шайб, замена вратаря, 10 бросков защитника",
-    "description": "Ливо и Потуральски уже лучшие бомбардиры сезона.",
-    "fullText": "Ливо и Потуральски уже лучшие бомбардиры сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/5e/7cd6a371b40879f8024a5564fb71e.jpeg",
+    "title": "Россия разгромила Боливию! Миранчук сравнялся с Мостовым, у Сергеева 1+1",
+    "description": "Максимально легко.",
+    "fullText": "Максимально легко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a7/fc49891314d93ad2df0270dfc0852.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3357243.html",
-    "time": "2025-10-14T20:41:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357228.html",
+    "time": "2025-10-15T04:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4087580-nvidia-dgx-spark-za-3999-dollarov?from=rss",
     "time": "2025-10-14T13:17:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
