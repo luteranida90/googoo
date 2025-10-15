@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Цхинвал призвал ОБСЕ заняться гарантиями безопасности вместо популизма",
-    "description": "В Южной Осетии выразили сожаление, что представители некогда авторитетной организации вместо признания реальности и факта существования республики из года в год говорят фразы, в которые на самом деле и сами не верят",
-    "fullText": "В Южной Осетии выразили сожаление, что представители некогда авторитетной организации вместо признания реальности и факта существования республики из года в год говорят фразы, в которые на самом деле и сами не верят",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Файзуллин сообщил о начале отопительного сезона в 73 регионах РФ",
+    "description": "По словам министра, готовность коммунальной инфраструктуры составляет 98,6%",
+    "fullText": "По словам министра, готовность коммунальной инфраструктуры составляет 98,6%",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250529/8261987.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25357587",
-    "time": "2025-10-15T17:29:35.000Z"
+    "url": "https://tass.ru/nedvizhimost/25357795",
+    "time": "2025-10-15T18:31:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3356781.html",
     "time": "2025-10-15T15:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Sci-fi-адвенчура 1000xRESIST выйдет на PS5, Xbox Series X|S и в Game Pass уже 4 ноября — трейлер",
+    "description": "Игра о заговоре в постапокалиптическом будущем получила 89 баллов на OpenCritic и удостоилась номинаций на престижные премии.",
+    "fullText": "Игра о заговоре в постапокалиптическом будущем получила 89 баллов на OpenCritic и удостоилась номинаций на престижные премии.",
+    "image": "https://leonardo.osnova.io/63899700-b90f-5e90-8c9d-6cfa4ff636cb/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4089689-1000xresist-na-ps5-i-xbox-series-x-s-vyidet-4-noyabrya?from=rss",
+    "time": "2025-10-15T14:56:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Цирк в «Торпедо»: вернули Кононова. 5-й тренер за сезон, Парфенов продержался 32 дня",
-    "description": "Страдания продолжаются.",
-    "fullText": "Страдания продолжаются.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/99/3a2ff317544f4bf67145c5d660b73.jpeg",
+    "title": "Я 50 лет работаю в «Торпедо»",
+    "description": "Монолог про черно-белые счастье и боль.",
+    "fullText": "Монолог про черно-белые счастье и боль.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/bb/6d78b218146a69dd90bc7e8079816.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357337.html",
-    "time": "2025-10-15T12:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Ghost of Yotei показала старт в Европе на уровне Ghost of Tsushima",
-    "description": "Удачный запуск для PlayStation.",
-    "fullText": "Удачный запуск для PlayStation.",
-    "image": "https://leonardo.osnova.io/bd25d5ab-2904-50f5-a404-d7d53d701fd2/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4088982-ghost-of-yotei-start-v-europe?from=rss",
-    "time": "2025-10-15T07:25:40.000Z"
+    "url": "https://www.sports.ru/football/blogs/3356972.html",
+    "time": "2025-10-15T13:40:00.000Z"
   }
 ]
