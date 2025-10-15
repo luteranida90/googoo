@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кабмин обсудит поддержку малых народов и критерии допуска спортсменов",
+    "description": "В частности, предполагается установление единых методологических подходов к медико-биологическому обеспечению спортсменов",
+    "fullText": "В частности, предполагается установление единых методологических подходов к медико-биологическому обеспечению спортсменов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25359395",
+    "time": "2025-10-15T21:02:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Касорла и Эдегор – кто в «Арсенале» застал обоих?",
     "description": "Проверьте в «Комбо»!",
@@ -11,26 +22,15 @@
     "time": "2025-10-15T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Русский народный киберпанк. Впечатления от второго сезона «Кибердеревни»",
-    "description": "Венерианский централ, ветер северный.",
-    "fullText": "Венерианский централ, ветер северный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/94/bb2934d734af49b12312c8ada2d01.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3356781.html",
-    "time": "2025-10-15T15:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ф-1» захватывает США: на нее грузят как на Супербоул, UFC и выборы! Откуда такой интерес?",
-    "description": "Мировой феномен.",
-    "fullText": "Мировой феномен.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/05/69f6a40da4e4e9b978ef923eb5bd6.jpeg",
+    "title": "Швеция с Исаком и Дьокерешем проваливает отбор к ЧМ-2026. Тренер уже уволен",
+    "description": "Не могут забить.",
+    "fullText": "Не могут забить.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/fc/0210839984278a9de110bcba78075.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3357159.html",
-    "time": "2025-10-15T15:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357174.html",
+    "time": "2025-10-15T16:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4089306-tencent-anonsirovala-takticheskiy-shuter-rules-of-engagement-the-grey-state?from=rss",
     "time": "2025-10-15T11:15:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
