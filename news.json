@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Вологде 11 человек подозревают в незаконной организации азартных игр",
-    "description": "Трое подозреваемых задержаны",
-    "fullText": "Трое подозреваемых задержаны",
+    "title": "Цивилев призвал к энергосправедливости в области доступа к электричеству",
+    "description": "По словам главы Минэнерго, сейчас около 1 млрд человек пользуются для приготовления пищи открытым огнем",
+    "fullText": "По словам главы Минэнерго, сейчас около 1 млрд человек пользуются для приготовления пищи открытым огнем",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25361871",
-    "time": "2025-10-16T06:27:04.000Z"
+    "url": "https://tass.ru/ekonomika/25362413",
+    "time": "2025-10-16T07:18:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Нужно выгнать большинство иностранцев на хрен, там три червя». Кокорин о лимите – цитата дня!",
+    "description": "Вспомнил еще о тюрьме, «Спартаке» и «Зените».",
+    "fullText": "Вспомнил еще о тюрьме, «Спартаке» и «Зените».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/5f/3f01740d6424fbb7a74c42316ae6f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3357390.html",
+    "time": "2025-10-15T19:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-15T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Цирк в «Торпедо»: вернули Кононова. 5-й тренер за сезон, Парфенов продержался 32 дня",
-    "description": "Страдания продолжаются.",
-    "fullText": "Страдания продолжаются.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/99/3a2ff317544f4bf67145c5d660b73.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357337.html",
-    "time": "2025-10-15T18:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Battlefield 6 исправят баг со штурмовыми лестницами — с помощью них игроки «прыгают» на большие расстояния",
-    "description": "Полезно для некоторых ситуаций, но многим такой баг скорее мешает.",
-    "fullText": "Полезно для некоторых ситуаций, но многим такой баг скорее мешает.",
-    "image": "https://leonardo.osnova.io/18426999-ffde-527b-a309-e91481bd6a27/-/format/mp4/",
+    "title": "Apple представила iPad Pro с чипом M5",
+    "description": "По цене от 999 долларов.",
+    "fullText": "По цене от 999 долларов.",
+    "image": "https://leonardo.osnova.io/6e2ccf2e-c180-544b-a8d3-3958de588336/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4089395-ispravlenie-baga-so-shturmovymi-lestnicami-v-battlefield-6?from=rss",
-    "time": "2025-10-15T11:48:05.000Z"
+    "url": "https://dtf.ru/hard/4089709-apple-anonsirovala-novyy-ipad-pro-s-chipom-m5?from=rss",
+    "time": "2025-10-15T14:07:24.000Z"
   }
 ]
