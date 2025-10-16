@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВГА: ВС РФ ведут успешное наступление на нескольких участках харьковского фронта",
+    "title": "Песков: РФ ориентируется на официальные заявления Индии и Китая по закупкам нефти",
     "description": "",
     "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251009/8512883.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25363479",
-    "time": "2025-10-16T08:40:16.000Z"
+    "url": "https://tass.ru/politika/25364177",
+    "time": "2025-10-16T09:25:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Дорываю ахилл, уезжаю на 3-4 месяца»: воспоминания Кокорина об игре с Бразилией. А так ли все было?",
+    "description": "В том же сезоне забил и подрался.",
+    "fullText": "В том же сезоне забил и подрался.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/b0/6f6d84db04d2384b46d43ded720b3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3357489.html",
+    "time": "2025-10-15T21:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-15T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Нужно убирать халяву в игре». Никитин вернулся в Ярославль и загрустил",
-    "description": "Его ЦСКА вне зоны плей-офф.",
-    "fullText": "Его ЦСКА вне зоны плей-офф.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/5c/87da8c3df47c9865401a751f7fd49.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3357482.html",
-    "time": "2025-10-15T20:59:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Анонсирован 14-дюймовый MacBook Pro с чипом M5 — по прежней цене от 1600 долларов",
-    "description": "Базовая модель получила новый процессор, более быстрый накопитель и увеличенную автономность.",
-    "fullText": "Базовая модель получила новый процессор, более быстрый накопитель и увеличенную автономность.",
-    "image": "https://leonardo.osnova.io/27c49153-13d8-501d-965a-4965c6735d07/",
+    "title": "Apple представила обновлённую гарнитуру Vision Pro с процессором M5 и удобным ремешком",
+    "description": "Цена модели составила 3500 долларов.",
+    "fullText": "Цена модели составила 3500 долларов.",
+    "image": "https://leonardo.osnova.io/a0a6a2e8-13ce-591a-8c21-66eca31f2ac9/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4089712-14-dyuymovyy-macbook-pro-s-chipom-m5?from=rss",
-    "time": "2025-10-15T13:49:22.000Z"
+    "url": "https://dtf.ru/hard/4089659-apple-vision-pro-m5-remeshok-dual-knit-band?from=rss",
+    "time": "2025-10-15T13:32:20.000Z"
   }
 ]
