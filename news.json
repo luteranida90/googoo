@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Россия и Таджикистан обсуждают проекты по разработке нефтяных месторождений",
-    "description": "",
-    "fullText": "",
+    "title": "Музыкальный проект \"Скрипка. Фестиваль. Санкт-Петербург\" посвятят Бетховену",
+    "description": "Он пройдет с 18 по 30 октября",
+    "fullText": "Он пройдет с 18 по 30 октября",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25369559",
-    "time": "2025-10-16T15:25:56.000Z"
+    "url": "https://tass.ru/kultura/25370161",
+    "time": "2025-10-16T16:33:08.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +22,36 @@
     "time": "2025-10-16T14:49:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Shadow Tactics: Blades of the Shogun получила апгрейд под PS5 — 4K, 60 fps и более быстрые загрузки",
-    "description": "Стелс-игра доступна в подписке PS Plus Extra.",
-    "fullText": "Стелс-игра доступна в подписке PS Plus Extra.",
-    "image": "https://leonardo.osnova.io/e12a8141-eb26-546c-a3da-d9421f78475a/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4091585-shadow-tactics-blades-of-the-shogun-dlya-ps5?from=rss",
-    "time": "2025-10-16T11:16:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему рано говорить о возрождении Ансу Фати",
-    "description": "Лучший бомбардир Лиги 1.",
-    "fullText": "Лучший бомбардир Лиги 1.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/07/f370f5ecf4ff1b416a18ce988c2d5.jpeg",
+    "title": "В Луках ремонтируют стадион ровно перед «Спартаком-2» и «Зенитом-2». Похоже, чтобы не ехали фанаты из Москвы и Петербурга",
+    "description": "Абсурд.",
+    "fullText": "Абсурд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/a7/8239a563c4d0cba17697bae2a46d4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357235.html",
-    "time": "2025-10-16T09:58:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3356944.html",
+    "time": "2025-10-16T12:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте футболку легенды «Ювентуса» Дель Пьеро!",
-    "description": "Легенды итальянского футбола.",
-    "fullText": "Легенды итальянского футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/21/ad1eb755d41d093941b63d7ef21ae.png",
+    "title": "Кто играл в «Реале» и «Ливерпуле»? 51% пользователей называют только одного игрока",
+    "description": "И сейчас он тренирует.",
+    "fullText": "И сейчас он тренирует.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/60/ed5861bc849fda9dc95c1de05e5e1.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-16T09:30:00.000Z"
+    "url": "https://sirena.world/pweyv2",
+    "time": "2025-10-16T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В The Outer Worlds 2 не будут учитывать концовки первой игры, так как действие происходит в другой колонии",
+    "description": "Но без отсылок не обойдётся.",
+    "fullText": "Но без отсылок не обойдётся.",
+    "image": "https://leonardo.osnova.io/ee7d59a3-aaab-5ed6-98fe-59bf016b6dd9/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4091233-the-outer-worlds-2-ne-budut-uchityvat-kontsovki-pervoy-igry?from=rss",
+    "time": "2025-10-16T08:18:09.000Z"
   }
 ]
