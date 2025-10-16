@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Вологде 11 человек подозревают в незаконной организации азартных игр",
+    "description": "Трое подозреваемых задержаны",
+    "fullText": "Трое подозреваемых задержаны",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25361871",
+    "time": "2025-10-16T06:27:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Tencent анонсировала Rules of Engagement: The Grey State — тактический шутер с элементами хоррора и extraction-механиками",
-    "description": "В условно-бесплатной игре геймерам предстоит исследовать потустороннее измерение в поисках ценных артефактов.",
-    "fullText": "В условно-бесплатной игре геймерам предстоит исследовать потустороннее измерение в поисках ценных артефактов.",
-    "image": "https://leonardo.osnova.io/9287b015-1cbc-5d92-b784-f87d92d8fc80/",
+    "title": "В Battlefield 6 исправят баг со штурмовыми лестницами — с помощью них игроки «прыгают» на большие расстояния",
+    "description": "Полезно для некоторых ситуаций, но многим такой баг скорее мешает.",
+    "fullText": "Полезно для некоторых ситуаций, но многим такой баг скорее мешает.",
+    "image": "https://leonardo.osnova.io/18426999-ffde-527b-a309-e91481bd6a27/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4089306-tencent-anonsirovala-takticheskiy-shuter-rules-of-engagement-the-grey-state?from=rss",
-    "time": "2025-10-15T11:15:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4089395-ispravlenie-baga-so-shturmovymi-lestnicami-v-battlefield-6?from=rss",
+    "time": "2025-10-15T11:48:05.000Z"
   }
 ]
