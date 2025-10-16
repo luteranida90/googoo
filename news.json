@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Индекс Мосбиржи на открытии утренней торговой сессии демонстрирует снижение",
-    "description": "К 07:10 мск он находился на отметке в 2 542,45 пункта",
-    "fullText": "К 07:10 мск он находился на отметке в 2 542,45 пункта",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25361027",
-    "time": "2025-10-16T04:14:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4089306-tencent-anonsirovala-takticheskiy-shuter-rules-of-engagement-the-grey-state?from=rss",
     "time": "2025-10-15T11:15:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
