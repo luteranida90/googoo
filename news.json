@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российский рынок акций закрылся ростом основных индексов",
-    "description": "Курс юаня вырос до 11,19 рубля",
-    "fullText": "Курс юаня вырос до 11,19 рубля",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Ушаков: разговор Путина с Трампом состоялся по инициативе России",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033169.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25370407",
-    "time": "2025-10-16T17:13:47.000Z"
+    "url": "https://tass.ru/politika/25371043",
+    "time": "2025-10-16T18:14:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Авангард» крупно влетел «Барысу» – 2:6. Что это вообще было?",
+    "description": "Показывали на ВидеоСпортсе’’.",
+    "fullText": "Показывали на ВидеоСпортсе’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/19/07f3658b64341a4b69c28e43917ae.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/barys-avangard",
+    "time": "2025-10-16T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +33,25 @@
     "time": "2025-10-16T14:49:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Интер» на прицеле – бейте точно!",
-    "description": "Без пенальти, только меткость.",
-    "fullText": "Без пенальти, только меткость.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/34/28a6fb886495f89ad9fa3c5ed42f7.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/33soza",
-    "time": "2025-10-16T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я вернулся на поле после открытого перелома и 4 операции",
-    "description": "Лучший форвард Медиалиги.",
-    "fullText": "Лучший форвард Медиалиги.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/43/9c9fb0eb04bdba93f8ade229d23b0.jpeg",
+    "title": "Маклауд – звездный центр для КХЛ. Чем же он уникален?",
+    "description": "«Авангард» его дождался!",
+    "fullText": "«Авангард» его дождался!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/71/01b9e7f1642c9aebc073b8993f518.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3357177.html",
-    "time": "2025-10-16T13:18:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3357438.html",
+    "time": "2025-10-16T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Майкл Джей Фокс рассказал о первой встрече с Эриком Столцем, который изначально играл главного героя «Назад в будущее»",
-    "description": "Актёры впервые пообщались через 40 лет после съёмок фильма.",
-    "fullText": "Актёры впервые пообщались через 40 лет после съёмок фильма.",
-    "image": "https://leonardo.osnova.io/afea51d0-5873-5f2a-999e-d7460546f37b/",
+    "title": "На консолях Switch состоялся релиз Pokémon Legends: Z‑A",
+    "description": "Прошлая игра по франшизе от студии Game Freak разошлась тиражом в 27 миллионов копий.",
+    "fullText": "Прошлая игра по франшизе от студии Game Freak разошлась тиражом в 27 миллионов копий.",
+    "image": "https://leonardo.osnova.io/8442cc9f-4357-5a10-9439-48ed0c1fa9ce/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4091291-majkl-dzhej-foks-i-erik-stolc-vstretilis?from=rss",
-    "time": "2025-10-16T09:14:20.000Z"
+    "url": "https://dtf.ru/games/4091563-reliz-pokemon-legends-z-a-na-nintendo-switch-i-switch-2?from=rss",
+    "time": "2025-10-16T11:16:42.000Z"
   }
 ]
