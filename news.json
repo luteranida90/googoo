@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин: препятствие свободе распространения информации от Запада устранят",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529905.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/25381523",
-    "time": "2025-10-17T16:31:30.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "АПЛ возвращается, а значит Предиктор тоже! Какие матчи возьмете в экспресс для победы?",
     "description": "Мы скучали!",
@@ -34,35 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что в кабинете Михаила Дегтярева: иконы, яйца Фаберже (одно пропало) и флаг МОК",
-    "description": "«По домам!» с министром спорта.",
-    "fullText": "«По домам!» с министром спорта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ae/8889c387845349a653b779eab3524.jpeg",
+    "title": "Новый «Ливерпуль» заметно хуже чемпионского. В чем проблемы?",
+    "description": "Разбор Вадима Лукомского.",
+    "fullText": "Разбор Вадима Лукомского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ed/872a8715148aeba87e90accd830a1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/athletics/blogs/3357331.html",
-    "time": "2025-10-17T11:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Самое время отдать свой голос за лучшего работодателя – есть возможность поддержать Спортс’’",
-    "description": "Идет опрос соискателей.",
-    "fullText": "Идет опрос соискателей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/d6/218063d604a2cad56b27c71044f75.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/1dtowl",
-    "time": "2025-10-17T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357374.html",
+    "time": "2025-10-17T12:29:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloomberg: Apple выпустит MacBook Pro с сенсорным экраном, «усиленным» корпусом и «динамической» камерой в 2026-2027 годах",
-    "description": "Компания пока не приступила к разработке и изучает реакцию рынка.",
-    "fullText": "Компания пока не приступила к разработке и изучает реакцию рынка.",
-    "image": "https://leonardo.osnova.io/17212313-aad2-5813-b5bc-971a75e3a7dc/",
+    "title": "Авторы «Очень странных дел» на съёмках финального сезона надеялись, что шоу не повторит судьбу «Игры престолов»",
+    "description": "Плюсом послужило то, что братья Даффер уже давно представляли, как закончится сериал.",
+    "fullText": "Плюсом послужило то, что братья Даффер уже давно представляли, как закончится сериал.",
+    "image": "https://leonardo.osnova.io/4bcf3384-9427-54bf-85fa-0ab7d9207fe3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4093579-apple-vypustit-novyy-macbook-pro-s-sensornym-ekranom?from=rss",
-    "time": "2025-10-17T09:54:33.000Z"
+    "url": "https://dtf.ru/cinema/4093576-finalnyj-sezon-ochen-strannyh-del?from=rss",
+    "time": "2025-10-17T10:19:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
