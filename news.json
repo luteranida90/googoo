@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Медведев: контракт с ВС РФ в 2025 году заключили 336 тыс. человек",
-    "description": "Еще 28 тыс. стали добровольцами, сообщил замглавы Совбеза",
-    "fullText": "Еще 28 тыс. стали добровольцами, сообщил замглавы Совбеза",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250124/8025041.jpg",
+    "title": "Путин: препятствие свободе распространения информации от Запада устранят",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529905.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25380805",
-    "time": "2025-10-17T15:14:25.000Z"
+    "url": "https://tass.ru/politika/25381523",
+    "time": "2025-10-17T16:31:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90Lm1lL3Np",
+    "title": "АПЛ возвращается, а значит Предиктор тоже! Какие матчи возьмете в экспресс для победы?",
+    "description": "Мы скучали!",
+    "fullText": "Мы скучали!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cd/e8142be7148d5b8b269c5f726f8fc.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://t.me/sirena_predictor_bot?start=tg_native",
+    "time": "2025-10-17T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +33,17 @@
     "time": "2025-10-17T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что в кабинете Михаила Дегтярева: иконы, яйца Фаберже (одно пропало) и флаг МОК",
+    "description": "«По домам!» с министром спорта.",
+    "fullText": "«По домам!» с министром спорта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ae/8889c387845349a653b779eab3524.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/athletics/blogs/3357331.html",
+    "time": "2025-10-17T11:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Самое время отдать свой голос за лучшего работодателя – есть возможность поддержать Спортс’’",
     "description": "Идет опрос соискателей.",
@@ -33,25 +55,14 @@
     "time": "2025-10-17T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Луис Диас был очень нужен «Баварии»",
-    "description": "Артем Денисов – о мгновенном усилении.",
-    "fullText": "Артем Денисов – о мгновенном усилении.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ad/9c44a224a4b41a1e767dee0f925d7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357231.html",
-    "time": "2025-10-17T10:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи ремейка Silent Hill 2 превысили 2,5 миллиона копий",
-    "description": "А общий показатель франшизы — 10 миллионов.",
-    "fullText": "А общий показатель франшизы — 10 миллионов.",
-    "image": "https://leonardo.osnova.io/028bff15-ec8b-51e1-98c6-f5650c829b8e/",
+    "title": "Bloomberg: Apple выпустит MacBook Pro с сенсорным экраном, «усиленным» корпусом и «динамической» камерой в 2026-2027 годах",
+    "description": "Компания пока не приступила к разработке и изучает реакцию рынка.",
+    "fullText": "Компания пока не приступила к разработке и изучает реакцию рынка.",
+    "image": "https://leonardo.osnova.io/17212313-aad2-5813-b5bc-971a75e3a7dc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4093212-prodazhi-silent-hill-2-remeika-dostigli-25-milliona-kopij?from=rss",
-    "time": "2025-10-17T06:19:45.000Z"
+    "url": "https://dtf.ru/hard/4093579-apple-vypustit-novyy-macbook-pro-s-sensornym-ekranom?from=rss",
+    "time": "2025-10-17T09:54:33.000Z"
   }
 ]
