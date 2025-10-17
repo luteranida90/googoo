@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Более 1,3 тыс. госзакупок провели с ЭКГ-рейтингом в 37 регионах с начала года",
+    "description": "Закупки были проведены по федеральному закону \"О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд\"",
+    "fullText": "Закупки были проведены по федеральному закону \"О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25379757",
+    "time": "2025-10-17T13:00:22.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Самое время отдать свой голос за лучшего работодателя – есть возможность поддержать Спортс’’",
     "description": "Идет опрос соискателей.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/1dtowl",
     "time": "2025-10-17T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новак: цены на бензин в среднем растут на уровень продовольственной инфляции",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250211/8056953.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25378899",
-    "time": "2025-10-17T11:16:51.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Nw",
@@ -33,36 +33,25 @@
     "time": "2025-10-17T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте футболку легенды «Ювентуса» Дель Пьеро!",
-    "description": "Легенды итальянского футбола.",
-    "fullText": "Легенды итальянского футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/21/ad1eb755d41d093941b63d7ef21ae.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-17T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тренды сезона у фигуристов: рисуют пресс, стоят на голове и бьются за права на музыку",
-    "description": "Крутихина с наблюдениями.",
-    "fullText": "Крутихина с наблюдениями.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/df/e4f05a2dc4fe693a56c4cc1e4fdfe.jpeg",
+    "title": "НХЛ негодует: главную хоккейную арену Олимпиады-2026 не сдадут вовремя",
+    "description": "Проблемный стадион в Милане.",
+    "fullText": "Проблемный стадион в Милане.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/95/b218d6c3e4241bb0f3acae5b9169f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3356865.html",
-    "time": "2025-10-17T06:45:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3357603.html",
+    "time": "2025-10-17T07:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фэнтезийный «survivors-лайк» BALL x PIT про шары продался тиражом 100 тысяч копий за сутки",
-    "description": "Рейтинг игры от издателя Devolver Digital — 96%.",
-    "fullText": "Рейтинг игры от издателя Devolver Digital — 96%.",
-    "image": "https://leonardo.osnova.io/c18017f2-87c7-59c2-af84-e97d02ab2658/-/format/mp4/",
+    "title": "Quantic Dream представила MOBA-игру Spellcasters Chronicles — первый тизер и скриншоты",
+    "description": "Она сочетает механики стратегии в реальном времени и экшена от третьего лица.",
+    "fullText": "Она сочетает механики стратегии в реальном времени и экшена от третьего лица.",
+    "image": "https://leonardo.osnova.io/07cb16ca-7ad2-570d-87c5-1721f39087ec/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4092613-ball-x-pit-fenteziynyj-survivors-lajk?from=rss",
-    "time": "2025-10-16T19:37:56.000Z"
+    "url": "https://dtf.ru/games/4092042-quantic-dream-anonsirovala-moba-igru-spellcasters-chronicles?from=rss",
+    "time": "2025-10-16T15:40:12.000Z"
   }
 ]
