@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Директора пивоваренного завода в Хакасии осудили за уход от налогов",
+    "description": "Александра Зубарева приговорили к трем годам шести месяцам лишения свободы",
+    "fullText": "Александра Зубарева приговорили к трем годам шести месяцам лишения свободы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25373851",
+    "time": "2025-10-17T04:12:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "FONBET Кубок России вернулся! Проверьте, как вы помните историю турнира",
     "description": "Тест с классными призами.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4091843-prodazha-rog-xbox-ally-portativnyj-igrovoy-pk?from=rss",
     "time": "2025-10-16T13:46:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
