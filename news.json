@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Жителя Петербурга задержали за жестокое убийство бойца СВО на почве ревности",
-    "description": "Задержанный избил до смерти бывшего мужа своей возлюбленной, замотал его тело в тент, обмотал цепью и утопил в озере",
-    "fullText": "Задержанный избил до смерти бывшего мужа своей возлюбленной, замотал его тело в тент, обмотал цепью и утопил в озере",
+    "title": "МИД призвал зафиксировать преступления Киева на правобережье Херсонской области",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25376267",
-    "time": "2025-10-17T08:35:47.000Z"
+    "url": "https://tass.ru/politika/25376973",
+    "time": "2025-10-17T09:23:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Зенит» сомнет удобный «Сочи», «Динамо» начнет рывок, «Спартак» не заметит «Ростов». Что будет в туре РПЛ: вероятности",
+    "description": "Вспоминаем про Фэнтези – замены до субботы.",
+    "fullText": "Вспоминаем про Фэнтези – замены до субботы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/5c/51d7799e34ba1b29d51f7cace6aa5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3357617.html",
+    "time": "2025-10-16T21:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-16T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Клубы потратили на легионеров годовой бюджет города». Дегтярев пытается объяснить новый лимит",
-    "description": "РФС против.",
-    "fullText": "РФС против.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/e0/05eb572364ffa9dcf2855378ebb4b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357668.html",
-    "time": "2025-10-16T20:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Crew 2 получила офлайн-режим спустя семь лет после релиза",
-    "description": "Ubisoft выполнила обещание, которое дала в 2024 году.",
-    "fullText": "Ubisoft выполнила обещание, которое дала в 2024 году.",
-    "image": "https://leonardo.osnova.io/42f99f53-0c6f-5c91-bc00-38a355e23591/",
+    "title": "СМИ: Microsoft перенесёт производство Surface из Китая — под вопросом и Xbox",
+    "description": "Компания хочет сократить зависимость от китайских производителей.",
+    "fullText": "Компания хочет сократить зависимость от китайских производителей.",
+    "image": "https://leonardo.osnova.io/22b8e9ac-765f-5902-b112-1a05f5c97fd9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4092413-the-crew-2-oflayn-rezhim-spustya-semyu-let-posle-reliza?from=rss",
-    "time": "2025-10-16T17:56:29.000Z"
+    "url": "https://dtf.ru/gameindustry/4092570-microsoft-pereneset-proizvodstvo-surface-iz-kitaya?from=rss",
+    "time": "2025-10-16T19:03:26.000Z"
   }
 ]
