@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ЦСКА победил \"Торпедо\" в 700-м матче Никитина в КХЛ",
+    "description": "Встреча завершилась со счетом 1:0 в пользу армейцев",
+    "fullText": "Встреча завершилась со счетом 1:0 в пользу армейцев",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251017/8533895.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25382367",
+    "time": "2025-10-17T18:12:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "АПЛ возвращается, а значит Предиктор тоже! Какие матчи возьмете в экспресс для победы?",
     "description": "Мы скучали!",
@@ -11,26 +22,15 @@
     "time": "2025-10-17T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "От дебюта в 2005-м до рекорда Гретцки. Игра-экскурсия по карьере Овечкина!",
-    "description": "Вам точно понравится!",
-    "fullText": "Вам точно понравится!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9c3fa2aba4da2a559cc64897c9826.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iha53v",
-    "time": "2025-10-17T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новый «Ливерпуль» заметно хуже чемпионского. В чем проблемы?",
-    "description": "Разбор Вадима Лукомского.",
-    "fullText": "Разбор Вадима Лукомского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ed/872a8715148aeba87e90accd830a1.jpeg",
+    "title": "Почему рано говорить о возрождении Ансу Фати",
+    "description": "Лучший бомбардир Лиги 1.",
+    "fullText": "Лучший бомбардир Лиги 1.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/07/f370f5ecf4ff1b416a18ce988c2d5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357374.html",
-    "time": "2025-10-17T12:29:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357235.html",
+    "time": "2025-10-17T14:09:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4093576-finalnyj-sezon-ochen-strannyh-del?from=rss",
     "time": "2025-10-17T10:19:02.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
