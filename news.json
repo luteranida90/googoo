@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Балицкий: границы Запорожской области должны быть как при УССР",
+    "description": "Будет ли столица в Запорожье или останется в Мелитополе - это вопрос, заявил губернатор региона",
+    "fullText": "Будет ли столица в Запорожье или останется в Мелитополе - это вопрос, заявил губернатор региона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25382851",
+    "time": "2025-10-17T19:53:42.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Отличный способ расслабиться перед выходными. Хоккейный пасьянс уже в сети!",
     "description": "Красивая победная анимация!",
@@ -11,15 +22,15 @@
     "time": "2025-10-17T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Чугуевском районе Харьковской области произошли взрывы",
-    "description": "В Харьковской и некоторых других областях действует воздушная тревога",
-    "fullText": "В Харьковской и некоторых других областях действует воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "А мне нравится игра «Нижнего». Колонка Романа Шаронова",
+    "description": "Возможно, вы измените мнение о Шпилевском.",
+    "fullText": "Возможно, вы измените мнение о Шпилевском.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/75/01a8b54534196a908fa8dc15dabf1.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25382571",
-    "time": "2025-10-17T18:58:49.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357161.html",
+    "time": "2025-10-17T16:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
@@ -33,25 +44,14 @@
     "time": "2025-10-17T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ливерпуль» – «МЮ», главный матч Германии. Топ-лиги после сборных: что посмотреть?",
-    "description": "Лучшие вывески.",
-    "fullText": "Лучшие вывески.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/94/6756361164067bbbc315aca4c08bb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357832.html",
-    "time": "2025-10-17T15:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы «Очень странных дел» на съёмках финального сезона надеялись, что шоу не повторит судьбу «Игры престолов»",
-    "description": "Плюсом послужило то, что братья Даффер уже давно представляли, как закончится сериал.",
-    "fullText": "Плюсом послужило то, что братья Даффер уже давно представляли, как закончится сериал.",
-    "image": "https://leonardo.osnova.io/4bcf3384-9427-54bf-85fa-0ab7d9207fe3/",
+    "title": "СМИ: Nintendo хочет произвести 25 миллионов единиц Switch 2 к апрелю 2026-го — чтобы достичь рекордных продаж консоли за первый год",
+    "description": "Результат заметно превзойдёт показатели первого поколения и PS5.",
+    "fullText": "Результат заметно превзойдёт показатели первого поколения и PS5.",
+    "image": "https://leonardo.osnova.io/8f4fcba5-f259-51d4-bc35-250a406622ad/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4093576-finalnyj-sezon-ochen-strannyh-del?from=rss",
-    "time": "2025-10-17T10:19:02.000Z"
+    "url": "https://dtf.ru/gameindustry/4093630-nintendo-planiruet-vypustit-25-millionov-switch-2?from=rss",
+    "time": "2025-10-17T10:58:57.000Z"
   }
 ]
