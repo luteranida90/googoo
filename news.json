@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Херсоне произошли взрывы",
-    "description": "Воздушную тревогу в подконтрольном Киеву городе не объявляли",
-    "fullText": "Воздушную тревогу в подконтрольном Киеву городе не объявляли",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25386591",
-    "time": "2025-10-18T14:52:49.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Бавария» – «Боруссия» уже сегодня! Выбирайте фаворита с бонусом до 15 000",
     "description": "Акция от FONBET.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Длинные ауты в РПЛ – тренд сезона. Это они лишают нас футбола?",
-    "description": "Разбираются Дорский и Тихонов.",
-    "fullText": "Разбираются Дорский и Тихонов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ed/02f81b058465cae83f8af39cd5c39.jpeg",
+    "title": "Догонит ли Овечкин Гретцки по голам с учетом плей-офф? Онлайн новой погони!",
+    "description": "Считаем, сколько забьет в этом сезоне.",
+    "fullText": "Считаем, сколько забьет в этом сезоне.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/41/92e830b68412ebaad47186c8bf077.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357679.html",
-    "time": "2025-10-18T12:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3358112.html",
+    "time": "2025-10-18T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4093844-glen-skofil-dlya-call-of-duty-budushchee-pod-microsoft?from=rss",
     "time": "2025-10-17T13:03:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
