@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Избежал антирекорда. Овечкин забросил первую шайбу в новом сезоне НХЛ",
-    "description": "Форвард отличился в матче с \"Миннесотой\"",
-    "fullText": "Форвард отличился в матче с \"Миннесотой\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25384951",
-    "time": "2025-10-18T08:02:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "У Холанда 12 голов в девяти матчах. Угадайте в Предикторе, сколько забьет норвежец сегодня",
     "description": "Мы скучали!",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Говорят, Ямаль опоздал на тренировку, но Деку его отмазал. А что Флик?",
-    "description": "Якобы беспокоит образ жизни.",
-    "fullText": "Якобы беспокоит образ жизни.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/10/0df59e8d3426095a0cb500ec76bad.jpeg",
+    "title": "«Зенит» сомнет удобный «Сочи», «Динамо» начнет рывок, «Спартак» не заметит «Ростов». Что будет в туре РПЛ: вероятности",
+    "description": "В Фэнтези замены до 13:00.",
+    "fullText": "В Фэнтези замены до 13:00.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/5c/51d7799e34ba1b29d51f7cace6aa5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358023.html",
-    "time": "2025-10-17T22:30:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3357617.html",
+    "time": "2025-10-17T22:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На ПК и консолях стартовал открытый тест ARC Raiders",
-    "description": "Он продлится до 19 октября.",
-    "fullText": "Он продлится до 19 октября.",
-    "image": "https://leonardo.osnova.io/23c2b603-f399-5da1-a145-1a71604dab83/-/format/mp4/",
+    "title": "Разработчики Battlefield 6 увеличат количество получаемого игроками опыта",
+    "description": "Так, при завершении матчей его будут давать на 10% больше.",
+    "fullText": "Так, при завершении матчей его будут давать на 10% больше.",
+    "image": "https://leonardo.osnova.io/e7b202fa-81cc-59b1-8431-b45f807b9464/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4093460-otkrytyy-test-arc-raiders?from=rss",
-    "time": "2025-10-17T08:55:12.000Z"
+    "url": "https://dtf.ru/games/4093727-battlefield-6-uvelichenie-opyta?from=rss",
+    "time": "2025-10-17T11:37:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
