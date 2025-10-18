@@ -1,36 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Стивен Сигал хотел бы сняться в российском кино",
-    "description": "Актер отметил, что у него уже есть предварительные планы, но не стал раскрывать подробностей",
-    "fullText": "Актер отметил, что у него уже есть предварительные планы, но не стал раскрывать подробностей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/25384371",
-    "time": "2025-10-18T05:02:30.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Фэнтези НБА: пора собирать команды! Йокич, Дончич, Яннис, Шэй уже ждут вас",
-    "description": "Новый сезон близко.",
-    "fullText": "Новый сезон близко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/ca/47baec6b546329f837b8b80226d79.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/366f1v",
-    "time": "2025-10-17T20:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Неандерталец» из Германии – новая звезда ММА. Это он вцепился в ногу соперника и ползал за ним по клетке",
-    "description": "Блогер или боец?",
-    "fullText": "Блогер или боец?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/c4/e9732d2e14696a72bc4093371cbf4.gif",
+    "title": "Камбэк Слуцкого против девятерых. Сомнительно, но окей для чемпионской гонки",
+    "description": "Спас главный джокер.",
+    "fullText": "Спас главный джокер.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/3c/32f18f1b94a58a9675942eb31abea.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3357541.html",
-    "time": "2025-10-17T20:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357902.html",
+    "time": "2025-10-17T21:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4093630-nintendo-planiruet-vypustit-25-millionov-switch-2?from=rss",
     "time": "2025-10-17T10:58:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
