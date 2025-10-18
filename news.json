@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Камбэк Слуцкого против девятерых. Сомнительно, но окей для чемпионской гонки",
-    "description": "Спас главный джокер.",
-    "fullText": "Спас главный джокер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/3c/32f18f1b94a58a9675942eb31abea.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Эксперт Ван рассказал, что может ускорить перемирие по Украине",
+    "description": "По мнению специалиста Института исследования России, Восточной Европы и Центральной Азии при Китайской академии общественных наук, речь идет о компромиссах по менее значимым вопросам",
+    "fullText": "По мнению специалиста Института исследования России, Восточной Европы и Центральной Азии при Китайской академии общественных наук, речь идет о компромиссах по менее значимым вопросам",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25384701",
+    "time": "2025-10-18T07:01:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90Lm1lL3Np",
+    "title": "У Холанда 12 голов в девяти матчах. Угадайте в Предикторе, сколько забьет норвежец сегодня",
+    "description": "Мы скучали!",
+    "fullText": "Мы скучали!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/54/74ae27a8c4c4d89003dc5b77ce455.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357902.html",
-    "time": "2025-10-17T21:15:00.000Z"
+    "url": "https://t.me/sirena_predictor_bot?start=tg_native",
+    "time": "2025-10-18T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Друга-гонщика Мика Шумахера судят за изнасилование медсестры Михаэля! Что?!",
+    "description": "Прямо в доме семикратного чемпиона «Ф-1».",
+    "fullText": "Прямо в доме семикратного чемпиона «Ф-1».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/44/922c0dca944bd8a8b27904335dd00.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3357454.html",
+    "time": "2025-10-17T22:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4093630-nintendo-planiruet-vypustit-25-millionov-switch-2?from=rss",
     "time": "2025-10-17T10:58:57.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
