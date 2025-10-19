@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Армия Израиля возобновила соблюдение режима прекращения огня в Газе",
+    "description": "ЦАХАЛ также заявил, что будет жестко реагировать на любое нарушение",
+    "fullText": "ЦАХАЛ также заявил, что будет жестко реагировать на любое нарушение",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25390773",
+    "time": "2025-10-19T18:36:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "В FC 26 признали ошибочные рейтинги. И перезагрузили карточки",
     "description": "Учли голоса игроков.",
@@ -11,47 +22,36 @@
     "time": "2025-10-19T18:28:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Fox: Спецслужбы США нашли вышку с видом на зону приземления самолета Трампа",
-    "description": "Позиция, предположительно, была оборудована несколько месяцев назад",
-    "fullText": "Позиция, предположительно, была оборудована несколько месяцев назад",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Новый тур Лиги чемпионов – новая команда в Основе! Кого возьмете в пятерку?",
+    "description": "Холанд или Ямаль?",
+    "fullText": "Холанд или Ямаль?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/e1/4479efcee4b228b26e923cbf1202b.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25390649",
-    "time": "2025-10-19T18:21:30.000Z"
+    "url": "https://sirena.world/lduhto",
+    "time": "2025-10-19T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Медведев и Рыбакина синхронно взяли важные титулы. Она почти отобралась на итоговый, он не побеждал больше 2 лет",
-    "description": "Заслужили.",
-    "fullText": "Заслужили.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/32/f6120023b48af8da6dd5aa492fab0.jpeg",
+    "title": "Виртца и Кунью называют «агентами 007». Что это значит?",
+    "description": "Главный мем сезона.",
+    "fullText": "Главный мем сезона.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/14/8b5d748f1456f931d557c55687ed0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3358323.html",
-    "time": "2025-10-19T14:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
-    "description": "Стиль-2005.",
-    "fullText": "Стиль-2005.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-19T14:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358253.html",
+    "time": "2025-10-19T14:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Никита Буянов об Escape from Tarkov 1.0: «Не все смогут сбежать из Таркова»",
-    "description": "Также он анонсировал консольные версии шутера.",
-    "fullText": "Также он анонсировал консольные версии шутера.",
-    "image": "https://leonardo.osnova.io/cd446f8e-6151-5098-8152-ce2ca5c05dec/",
+    "title": "Съёмки следующей части «Зловещих мертвецов» завершились — фильм выйдет в июле 2026 года",
+    "description": "За хоррор отвечает постановщик «Паутины страха».",
+    "fullText": "За хоррор отвечает постановщик «Паутины страха».",
+    "image": "https://leonardo.osnova.io/edfbe2f8-3ac1-5e83-943c-50b9e6b35bdb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4094759-nikita-buyanov-o-slozhnosti-escape-from-tarkov?from=rss",
-    "time": "2025-10-17T19:53:23.000Z"
+    "url": "https://dtf.ru/cinema/4095437-zaversheny-syomki-novogo-filma-zloveshchie-mertvetsy?from=rss",
+    "time": "2025-10-18T09:10:59.000Z"
   }
 ]
