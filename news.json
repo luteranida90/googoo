@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Петербурге арестовали мать, бросившую у мусорных баков коляску с ребенком",
-    "description": "Женщина указала, что не желала зла своей дочке",
-    "fullText": "Женщина указала, что не желала зла своей дочке",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25390381",
-    "time": "2025-10-19T16:36:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
     "description": "Стиль-2005.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4094759-nikita-buyanov-o-slozhnosti-escape-from-tarkov?from=rss",
     "time": "2025-10-17T19:53:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
