@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Репетиции спектакля \"Фауст\" в Театре Вахтангова начнутся в конце ноября",
+    "description": "Главную роль в постановке исполнит народный артист России Евгений Князев",
+    "fullText": "Главную роль в постановке исполнит народный артист России Евгений Князев",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25388769",
+    "time": "2025-10-19T07:52:23.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Основа возвращается! Теперь по «Мастерсу» в Париже",
     "description": "Соберите команду на первый раунд.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пустой стаканчик попал в судью – матч сорван. Что спровоцировало?",
-    "description": "Судья довел или судью довели.",
-    "fullText": "Судья довел или судью довели.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/82/5fd8e723744d58abdf8ed4d9d4515.jpeg",
+    "title": "Медведев возвращается! Разогнался и вышел в 40-й финал за карьеру",
+    "description": "Шанс за первый титул за 2,5 года.",
+    "fullText": "Шанс за первый титул за 2,5 года.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/cb/5817930ed4425a0d53d588cab9803.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358234.html",
-    "time": "2025-10-18T22:45:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3358127.html",
+    "time": "2025-10-19T00:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Глен Скофилд: «С тех пор как я ушёл из Sledgehammer, ни одна Call of Duty не была действительно хорошей»",
-    "description": "Геймдизайнер опасается за будущее франшизы под крылом Microsoft.",
-    "fullText": "Геймдизайнер опасается за будущее франшизы под крылом Microsoft.",
-    "image": "https://leonardo.osnova.io/eacc680f-8ba6-5c58-877d-7ebfaf747b7e/",
+    "title": "Продажи «роглайт»-битемапа Absolum от авторов Streets of Rage 4 превысили 200 тысяч копий",
+    "description": "За неделю после релиза.",
+    "fullText": "За неделю после релиза.",
+    "image": "https://leonardo.osnova.io/9d7076fd-1cdd-53ce-b8ed-28958454ee51/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4093844-glen-skofil-dlya-call-of-duty-budushchee-pod-microsoft?from=rss",
-    "time": "2025-10-17T13:03:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4094353-prodazhi-roglayt-bitomapa-absolum?from=rss",
+    "time": "2025-10-17T16:21:40.000Z"
   }
 ]
