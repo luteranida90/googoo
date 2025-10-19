@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Хоккеисты \"Авангарда\" впервые в сезоне обыграли \"Автомобилист\"",
-    "description": "В двух предыдущих встречах сильнее были екатеринбуржцы",
-    "fullText": "В двух предыдущих встречах сильнее были екатеринбуржцы",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251019/8536209.jpg",
+    "title": "В четырех регионах Украины объявили воздушную тревогу",
+    "description": "Сирены сработали в Днепропетровской, Полтавской, Черниговской и Харьковской областях",
+    "fullText": "Сирены сработали в Днепропетровской, Полтавской, Черниговской и Харьковской областях",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25389943",
-    "time": "2025-10-19T13:44:12.000Z"
+    "url": "https://tass.ru/proisshestviya/25390129",
+    "time": "2025-10-19T14:52:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
+    "description": "Стиль-2005.",
+    "fullText": "Стиль-2005.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-10-19T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новый «Ливерпуль» заметно хуже чемпионского. В чем проблемы?",
-    "description": "Разбор Вадима Лукомского.",
-    "fullText": "Разбор Вадима Лукомского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ed/872a8715148aeba87e90accd830a1.jpeg",
+    "title": "Хет-трик Месси закрыл регулярку МЛС. Дальше плей-офф – какие расклады?",
+    "description": "Шапи и Миранчук не вышли.",
+    "fullText": "Шапи и Миранчук не вышли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/50/446c1a27e49c9bc6e1d6f8655cfa7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357374.html",
-    "time": "2025-10-19T09:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Ливерпуль» принимает «МЮ» в АПЛ, а вы можете забрать до трех фрибетов",
-    "description": "За регистрацию в БЕТСИТИ!",
-    "fullText": "За регистрацию в БЕТСИТИ!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/d3/15e4d32aa4f0da260f4c1f2803ea5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/hpaltn",
-    "time": "2025-10-19T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358281.html",
+    "time": "2025-10-19T10:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экс-продюсер God of War: крупным издателям нужно выпускать больше AA-игр",
-    "description": "По её словам, игроки немного устали от красивой графики, размаха и масштаба — им главное, чтобы игра была увлекательной.",
-    "fullText": "По её словам, игроки немного устали от красивой графики, размаха и масштаба — им главное, чтобы игра была увлекательной.",
-    "image": "https://leonardo.osnova.io/3c1386ab-0180-5775-8b9f-f3a3b5d51465/",
+    "title": "Линейно и однообразно: Vampire: The Masquerade — Bloodlines 2 получила 67 баллов из 100 на Metacritic",
+    "description": "Игра разочаровала некоторых журналистов, хотя есть и положительные рецензии.",
+    "fullText": "Игра разочаровала некоторых журналистов, хотя есть и положительные рецензии.",
+    "image": "https://leonardo.osnova.io/f153efa2-03f2-5e6b-bf18-da635dcfc233/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4094440-eks-produser-god-of-war-izdateli-dolzhny-vypuskat-bolshe-aa-igr?from=rss",
-    "time": "2025-10-17T17:18:41.000Z"
+    "url": "https://dtf.ru/games/4093936-vampire-the-masquerade-bloodlines-2-otsenki-i-mneniya-kritikov?from=rss",
+    "time": "2025-10-17T13:30:32.000Z"
   }
 ]
