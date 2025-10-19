@@ -1,5 +1,38 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В FC 26 признали ошибочные рейтинги. И перезагрузили карточки",
+    "description": "Учли голоса игроков.",
+    "fullText": "Учли голоса игроков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/dd/225bdc03f4672bd1d6a63ef86cca7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3356609.html",
+    "time": "2025-10-19T18:28:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Fox: Спецслужбы США нашли вышку с видом на зону приземления самолета Трампа",
+    "description": "Позиция, предположительно, была оборудована несколько месяцев назад",
+    "fullText": "Позиция, предположительно, была оборудована несколько месяцев назад",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25390649",
+    "time": "2025-10-19T18:21:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Медведев и Рыбакина синхронно взяли важные титулы. Она почти отобралась на итоговый, он не побеждал больше 2 лет",
+    "description": "Заслужили.",
+    "fullText": "Заслужили.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/32/f6120023b48af8da6dd5aa492fab0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3358323.html",
+    "time": "2025-10-19T14:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
     "description": "Стиль-2005.",
@@ -11,17 +44,6 @@
     "time": "2025-10-19T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рост Вембаньямы измерили – и нашли пару новых дюймов. 226 см – лишь пять игроков в истории были выше!",
-    "description": "Чит-код НБА.",
-    "fullText": "Чит-код НБА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/21/f357a60a84d80944c1e0b3eba96c7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3358209.html",
-    "time": "2025-10-19T12:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Никита Буянов об Escape from Tarkov 1.0: «Не все смогут сбежать из Таркова»",
     "description": "Также он анонсировал консольные версии шутера.",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4094759-nikita-buyanov-o-slozhnosti-escape-from-tarkov?from=rss",
     "time": "2025-10-17T19:53:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
