@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Курской области в ДТП погиб ребенок",
-    "description": "Еще четыре человека пострадали",
-    "fullText": "Еще четыре человека пострадали",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "\"Россия-1\": военные РФ при боях за Новомихайловку прошли 8 км под землей",
+    "description": "Военнослужащим группировки \"Восток\" во время операции в декабре 2023 года пришлось преодолевать весь путь в согнутом положении",
+    "fullText": "Военнослужащим группировки \"Восток\" во время операции в декабре 2023 года пришлось преодолевать весь путь в согнутом положении",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251019/8536437.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25390165",
-    "time": "2025-10-19T15:05:06.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25390267",
+    "time": "2025-10-19T15:58:03.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-10-19T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Грандиозный день Ферстаппена в США: уничтожил конкурентов на фоне трудностей «Макларена»",
+    "description": "Уверенный поул «Ф-1» в Остине.",
+    "fullText": "Уверенный поул «Ф-1» в Остине.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/95f335be947e988b1c49329622ab2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3358239.html",
+    "time": "2025-10-19T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "Матч тура АПЛ: «Ливерпуль» – «МЮ». Угадайте, как закончится матч, в нашем конкурсе прогнозистов!",
     "description": "Слот или Аморим?",
@@ -33,25 +44,14 @@
     "time": "2025-10-19T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хет-трик Месси закрыл регулярку МЛС. Дальше плей-офф – какие расклады?",
-    "description": "Шапи и Миранчук не вышли.",
-    "fullText": "Шапи и Миранчук не вышли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/50/446c1a27e49c9bc6e1d6f8655cfa7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358281.html",
-    "time": "2025-10-19T10:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Линейно и однообразно: Vampire: The Masquerade — Bloodlines 2 получила 67 баллов из 100 на Metacritic",
-    "description": "Игра разочаровала некоторых журналистов, хотя есть и положительные рецензии.",
-    "fullText": "Игра разочаровала некоторых журналистов, хотя есть и положительные рецензии.",
-    "image": "https://leonardo.osnova.io/f153efa2-03f2-5e6b-bf18-da635dcfc233/",
+    "title": "Никита Буянов об Escape from Tarkov 1.0: «Не все смогут сбежать из Таркова»",
+    "description": "Также он анонсировал консольные версии шутера.",
+    "fullText": "Также он анонсировал консольные версии шутера.",
+    "image": "https://leonardo.osnova.io/cd446f8e-6151-5098-8152-ce2ca5c05dec/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4093936-vampire-the-masquerade-bloodlines-2-otsenki-i-mneniya-kritikov?from=rss",
-    "time": "2025-10-17T13:30:32.000Z"
+    "url": "https://dtf.ru/games/4094759-nikita-buyanov-o-slozhnosti-escape-from-tarkov?from=rss",
+    "time": "2025-10-17T19:53:23.000Z"
   }
 ]
