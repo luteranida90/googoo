@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Володин поздравил россиян с Днем отца",
-    "description": "Председатель Госдумы пожелал \"всем крепкого здоровья и семейного счастья\"",
-    "fullText": "Председатель Госдумы пожелал \"всем крепкого здоровья и семейного счастья\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250409/8163443.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25388555",
-    "time": "2025-10-19T06:44:07.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Основа возвращается! Теперь по «Мастерсу» в Париже",
     "description": "Соберите команду на первый раунд.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4093844-glen-skofil-dlya-call-of-duty-budushchee-pod-microsoft?from=rss",
     "time": "2025-10-17T13:03:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
