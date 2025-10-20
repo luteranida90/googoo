@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Аэропорт Гонконга продолжает работу после ЧП с грузовым самолетом",
-    "description": "Идет расследование причин катастрофы, сообщил исполнительный директор по эксплуатации управления аэропорта Стивен Ю",
-    "fullText": "Идет расследование причин катастрофы, сообщил исполнительный директор по эксплуатации управления аэропорта Стивен Ю",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25392215",
-    "time": "2025-10-20T02:58:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В XXI веке всего три американца брали «Везина Трофи». Вспомните хоть одного?",
     "description": "Проверьте себя!",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/b79iva",
     "time": "2025-10-19T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Магуайр вырвал победу для «МЮ»! «Ливерпуль» и Слот в кризисе",
+    "description": "Амориму два очка до ЛЧ.",
+    "fullText": "Амориму два очка до ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/09/29004c86c44678bb50948942c31cd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3358391.html",
+    "time": "2025-10-19T18:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,17 +33,6 @@
     "time": "2025-10-19T18:28:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Илья Малинин раздает стиль: кожаные штаны, косуха и рукава епископа",
-    "description": "Три лука из Франции.",
-    "fullText": "Три лука из Франции.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d3/19e5fa7bf4e1398061db1f5e85511.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3358354.html",
-    "time": "2025-10-19T17:17:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Съёмки следующей части «Зловещих мертвецов» завершились — фильм выйдет в июле 2026 года",
     "description": "За хоррор отвечает постановщик «Паутины страха».",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4095437-zaversheny-syomki-novogo-filma-zloveshchie-mertvetsy?from=rss",
     "time": "2025-10-18T09:10:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
