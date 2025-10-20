@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Миллер: архитектуру мирового газового рынка скоро будут определять РФ и КНР",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "От дебюта в 2005-м до рекорда Гретцки. Игра-экскурсия по карьере Овечкина!",
+    "description": "Вам точно понравится!",
+    "fullText": "Вам точно понравится!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9c3fa2aba4da2a559cc64897c9826.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25395515",
-    "time": "2025-10-20T09:28:49.000Z"
+    "url": "https://sirena.world/iha53v",
+    "time": "2025-10-20T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что случилось на Гран-при США: как «Макларен» почти слил «Феррари»? Битва Норриса и Леклера – 🤩",
-    "description": "Все обгоны и быстрые мысли.",
-    "fullText": "Все обгоны и быстрые мысли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/20/2431141c34a3ebd0c7a9c981334a3.jpeg",
+    "title": "Ямаль забил в испанской медиалиге – и потроллил Кунде!",
+    "description": "«Я показал ему, как это делается!»",
+    "fullText": "«Я показал ему, как это делается!»",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/6b/eb2669d55413dbe971ec3761a8b64.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3358260.html",
-    "time": "2025-10-20T06:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Только 15% игроков удается собрать хоккейный пасьянс с первого раза. А у вас?",
-    "description": "Мы в вас верим!",
-    "fullText": "Мы в вас верим!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9b/86d0d063249069116f713c5362828.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/k0sbd7",
-    "time": "2025-10-20T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358418.html",
+    "time": "2025-10-20T06:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4097509-gejmplej-vampirskaya-zavarushka-v-sietle?from=rss",
     "time": "2025-10-19T10:42:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
