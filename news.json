@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В некоторых регионах Приволжья ожидается погода теплее нормы",
+    "description": "В ночные часы прогнозируются слабые заморозки",
+    "fullText": "В ночные часы прогнозируются слабые заморозки",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25397363",
+    "time": "2025-10-20T11:25:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Основа возвращается! Теперь по «Мастерсу» в Париже",
     "description": "Соберите команду на первый раунд.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Золотой мяч» в Excel, торжество Зеленого Мыса и много личных историй. Главное с Трибуны за неделю",
-    "description": "Такое нельзя пропускать!",
-    "fullText": "Такое нельзя пропускать!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/e3/2a9d67cd845b881b763aefa109f8c.png",
+    "title": "Винисиус вышел – и у «Хетафе» 2 удаления за 7 минут. «Реал» дожал голом Мбаппе",
+    "description": "Первые перед класико.",
+    "fullText": "Первые перед класико.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/31/65df3dace4fe3a49701a0f1d59135.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358123.html",
-    "time": "2025-10-20T07:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358439.html",
+    "time": "2025-10-20T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4094715-sara-bond-podtverdila-chto-microsoft-prodolzhaet-razrabotki-xbox?from=rss",
     "time": "2025-10-19T12:12:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
