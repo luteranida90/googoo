@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В районе села Средний Бурлук ВС РФ \"Геранями\" поразили пункт дислокации ВСУ",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25392783",
+    "time": "2025-10-20T05:22:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В XXI веке всего три американца брали «Везина Трофи». Вспомните хоть одного?",
     "description": "Проверьте себя!",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4095437-zaversheny-syomki-novogo-filma-zloveshchie-mertvetsy?from=rss",
     "time": "2025-10-18T09:10:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
