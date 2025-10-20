@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Суд отказался взыскать средства по иску челябинского экс-губернатора к Малахову",
+    "description": "Иск о защите чести и достоинства на 120 млн рублей был подан в июне 2024 года",
+    "fullText": "Иск о защите чести и достоинства на 120 млн рублей был подан в июне 2024 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25400419",
+    "time": "2025-10-20T17:06:21.000Z"
+  },
+  {
     "id": "aHR0cDovL3QubWUvcGlj",
     "title": "«Арсенал» или «Атлетико», «Реал» или «Ювентус» – кто победит? Голосуйте",
     "description": "В Пикере Спортса’‘.",
@@ -11,15 +22,15 @@
     "time": "2025-10-20T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "The Times: Британия и Польша близки к подписанию соглашения о безопасности",
-    "description": "В документе предусмотрены меры по сдерживанию России",
-    "fullText": "В документе предусмотрены меры по сдерживанию России",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Только «Локо» забивает в каждом матче РПЛ. Атакующий феномен",
+    "description": "Лишь один матч 2025-го без гола.",
+    "fullText": "Лишь один матч 2025-го без гола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a9/de1168e7940719e935df6eef902b9.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25400221",
-    "time": "2025-10-20T16:28:28.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3358213.html",
+    "time": "2025-10-20T13:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2025-10-20T12:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Артета вдохновился Моуринью, эксперимент «Юве» провалился, покер Гринвуда. Тактика топ-лиг",
-    "description": "«Барсе» снова тяжело.",
-    "fullText": "«Барсе» снова тяжело.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/88/28981293e45a097db5926d9c68515.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358534.html",
-    "time": "2025-10-20T12:27:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Дизайнер ARC Raiders признался, что одновременное тестирование с Marathon помогло команде принять некоторые решения",
-    "description": "Он считает художественный стиль конкурента «выразительным» и надеется, что в будущем увидит больше его примеров.",
-    "fullText": "Он считает художественный стиль конкурента «выразительным» и надеется, что в будущем увидит больше его примеров.",
-    "image": "https://leonardo.osnova.io/9ccb91c5-5b50-576e-8600-ca450dd02912/",
+    "title": "В работе некоторых сервисов и онлайн-игр произошёл массовый сбой",
+    "description": "Проблема на стороне Amazon.",
+    "fullText": "Проблема на стороне Amazon.",
+    "image": "https://leonardo.osnova.io/a6d64e16-9b86-5c7c-a17c-8d9c5d19b699/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4099225-dizayner-arc-raiders-o-testirovanii-s-marathon?from=rss",
-    "time": "2025-10-20T07:31:14.000Z"
+    "url": "https://dtf.ru/gameindustry/4099471-sboy-v-rabote-servisov-i-onlajn-igr-iz-za-amazon-web-services?from=rss",
+    "time": "2025-10-20T09:24:04.000Z"
   }
 ]
