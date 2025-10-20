@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Кабардино-Балкарии объявили режим опасности БПЛА",
+    "description": "Жителей призвали соблюдать меры безопасности при обнаружении беспилотников",
+    "fullText": "Жителей призвали соблюдать меры безопасности при обнаружении беспилотников",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25401443",
+    "time": "2025-10-20T21:37:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Сравнили звезд в FC 26 и eFootball 2026. Где Ямаль больше похож, а где – Мбаппе?",
     "description": "Смотрим лица.",
@@ -11,37 +22,26 @@
     "time": "2025-10-20T20:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ваш тотальный гид по мультвселенной НБА",
-    "description": "Не только «Симпсоны».",
-    "fullText": "Не только «Симпсоны».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ff/d315e25fd44acb7efeefd1b301b38.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3357364.html",
-    "time": "2025-10-20T17:15:00.000Z"
-  },
-  {
-    "id": "aHR0cDovL3QubWUvcGlj",
-    "title": "«Арсенал» или «Атлетико», «Реал» или «Ювентус» – кто победит? Голосуйте",
-    "description": "В Пикере Спортса’‘.",
-    "fullText": "В Пикере Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b7/e4b0c7cd2409990acb35e50a12a1b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "http://t.me/picker_sports_bot/lch?startapp=utm_tg_native",
-    "time": "2025-10-20T16:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кейн, Холанд или Мбаппе? Сложнейший выбор перед новым туром ЛЧ",
-    "description": "Кого берем в команду?",
-    "fullText": "Кого берем в команду?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b7/cd7f51f66400cb7b5e6c438d31086.png",
+    "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
+    "description": "Стиль-2005.",
+    "fullText": "Стиль-2005.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/lduhto",
-    "time": "2025-10-20T16:10:00.000Z"
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-10-20T19:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Главная загадка «Спартака»: зачем Маркиньос подворачивает штанину?",
+    "description": "Чернявский наконец-то узнал ответ.",
+    "fullText": "Чернявский наконец-то узнал ответ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/ca/5bf9e071f479c941ea374d16709fe.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3358496.html",
+    "time": "2025-10-20T18:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4100006-motion-twin-vybrala-windblown-vmesto-dead-cells-2?from=rss",
     "time": "2025-10-20T14:02:15.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
