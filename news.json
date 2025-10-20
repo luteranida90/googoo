@@ -11,6 +11,17 @@
     "time": "2025-10-20T20:05:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Ваш тотальный гид по мультвселенной НБА",
+    "description": "Не только «Симпсоны».",
+    "fullText": "Не только «Симпсоны».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ff/d315e25fd44acb7efeefd1b301b38.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3357364.html",
+    "time": "2025-10-20T17:15:00.000Z"
+  },
+  {
     "id": "aHR0cDovL3QubWUvcGlj",
     "title": "«Арсенал» или «Атлетико», «Реал» или «Ювентус» – кто победит? Голосуйте",
     "description": "В Пикере Спортса’‘.",
@@ -33,17 +44,6 @@
     "time": "2025-10-20T16:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Знаете отчества главных тренеров РПЛ?",
-    "description": "Тест имени Михаила Михайловича Галактионова.",
-    "fullText": "Тест имени Михаила Михайловича Галактионова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a2/80d9b3ebe484bb37bfaa1791720c6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358563.html",
-    "time": "2025-10-20T15:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Motion Twin решила не заниматься Dead Cells 2, так как «последовала зову сердца», выбрав разработку Windblown",
     "description": "Однако ситуация могла сложиться иначе, если бы команда была частью какой-то крупной компании.",
@@ -53,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4100006-motion-twin-vybrala-windblown-vmesto-dead-cells-2?from=rss",
     "time": "2025-10-20T14:02:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
