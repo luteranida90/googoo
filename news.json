@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Чечне появится новый военный городок на 1,5 тыс. военнослужащих",
-    "description": "Объект возводят для размещения подразделений полка \"Ахмат-Россия\"",
-    "fullText": "Объект возводят для размещения подразделений полка \"Ахмат-Россия\"",
+    "title": "На Ставрополье подключили к газу более 8 тыс. домов по президентской программе",
+    "description": "Для отдельных категорий участников программы предусмотрены льготы",
+    "fullText": "Для отдельных категорий участников программы предусмотрены льготы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25411347",
-    "time": "2025-10-21T18:19:24.000Z"
+    "url": "https://tass.ru/obschestvo/25411647",
+    "time": "2025-10-21T18:57:49.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,36 +33,25 @@
     "time": "2025-10-21T15:30:00.000Z"
   },
   {
-    "id": "aHR0cDovL3QubWUvcGlj",
-    "title": "«Арсенал» или «Атлетико», «Реал» или «Ювентус» – кто победит? Голосуйте",
-    "description": "В Пикере Спортса’‘.",
-    "fullText": "В Пикере Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b7/e4b0c7cd2409990acb35e50a12a1b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "http://t.me/picker_sports_bot/lch?startapp=utm_tg_native",
-    "time": "2025-10-21T14:15:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Третий сезон «Терапии» стартует 28 января 2026 года",
+    "description": "Появились первые кадры продолжения.",
+    "fullText": "Появились первые кадры продолжения.",
+    "image": "https://leonardo.osnova.io/1d104cd8-bb88-5868-8dd4-49ebc9e8e8a4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4102242-tretiy-sezon-terapii-startuet-28-yanvarya?from=rss",
+    "time": "2025-10-21T15:21:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Он на 10 лет опережал всех». 76 дней Моуринью в «Бенфике»-2000",
-    "description": "10 матчей хватило, чтобы сверкнуть.",
-    "fullText": "10 матчей хватило, чтобы сверкнуть.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/7b/f391de3b642df9dc3329d8a518681.jpeg",
+    "title": "В теннисе правда замедляют корты под Алькараса и Синнера?",
+    "description": "Теория заговора.",
+    "fullText": "Теория заговора.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/73/78ade640b4caaa6593c7c97865414.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358722.html",
-    "time": "2025-10-21T13:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Ninja Gaiden 4 — у игры 83 балла на Metacritic",
-    "description": "Критикам экшен понравился, но они предупредили, что со временем он может начать казаться однообразным.",
-    "fullText": "Критикам экшен понравился, но они предупредили, что со временем он может начать казаться однообразным.",
-    "image": "https://leonardo.osnova.io/8ea93bf9-45bf-5d11-bd00-aeb77fecf253/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4101235-reliz-ninja-gaiden-4-83-balla-na-metacritic?from=rss",
-    "time": "2025-10-21T06:26:32.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3357551.html",
+    "time": "2025-10-21T15:05:00.000Z"
   }
 ]
