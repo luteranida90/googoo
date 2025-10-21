@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропорту Краснодара ввели ограничения",
+    "description": "Временные меры касаются приема и выпуска самолетов",
+    "fullText": "Временные меры касаются приема и выпуска самолетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25411875",
+    "time": "2025-10-21T19:55:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новые таланты Guardian уже в ЛЧ. Форвард «Барсы», Сатпаев в «Кайрате. А кто из «ПСЖ», «Баварии» и «Милана»?",
+    "description": "А еще норвежский вратарь.",
+    "fullText": "А еще норвежский вратарь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/b1/088a0543a4daca7f816d14fc7fc13.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3357619.html",
+    "time": "2025-10-21T16:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сыграйте с футбольными комментаторами Okko в игре «100к1»",
     "description": "Новинка на Спортсе’’.",
@@ -11,28 +33,6 @@
     "time": "2025-10-21T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Леброн начинает 23-й, беспрецедентный сезон в НБА. В чем он номер 1, а в чем еще может подтянуться?",
-    "description": "Старый интриган против всех.",
-    "fullText": "Старый интриган против всех.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/b3/390d4174948238094a2d7d566c7af.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3358657.html",
-    "time": "2025-10-21T15:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Поговорили о качестве на Спортсе’’ – когда тестирование можно заканчивать?",
-    "description": "Слушайте в нашем подкасте.",
-    "fullText": "Слушайте в нашем подкасте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/3e/f466a5c344f5aaad2756966f8eba6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/6djm61",
-    "time": "2025-10-21T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Третий сезон «Терапии» стартует 28 января 2026 года",
     "description": "Появились первые кадры продолжения.",
@@ -42,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4102242-tretiy-sezon-terapii-startuet-28-yanvarya?from=rss",
     "time": "2025-10-21T15:21:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
