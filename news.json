@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Росатом получил награду Национального конгресса Бразилии",
-    "description": "Премия присуждается за вклад в инновации и устойчивые энергетические решения",
-    "fullText": "Премия присуждается за вклад в инновации и устойчивые энергетические решения",
+    "title": "В Чечне появится новый военный городок на 1,5 тыс. военнослужащих",
+    "description": "Объект возводят для размещения подразделений полка \"Ахмат-Россия\"",
+    "fullText": "Объект возводят для размещения подразделений полка \"Ахмат-Россия\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25411073",
-    "time": "2025-10-21T17:10:05.000Z"
+    "url": "https://tass.ru/obschestvo/25411347",
+    "time": "2025-10-21T18:19:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Сыграйте с футбольными комментаторами Okko в игре «100к1»",
+    "description": "Новинка на Спортсе’’.",
+    "fullText": "Новинка на Спортсе’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/b6/9ae87de514cbb85904a043a0fe344.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/stokkodnomu/?utm_source=supertop",
+    "time": "2025-10-21T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,36 +44,25 @@
     "time": "2025-10-21T14:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» за 1.57 – большой фаворит матча с «Атлетико». Верим?",
-    "description": "Ставьте на ЛЧ с бонусом до 15 000.",
-    "fullText": "Ставьте на ЛЧ с бонусом до 15 000.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/9c/0144f269e41db80bac07de949ac4e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/oz8t07",
-    "time": "2025-10-21T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучшие бомбардиры каждого клуба НБА. Карри, Яннис, Букер – лидеры, а кто еще?",
-    "description": "Вечная гонка.",
-    "fullText": "Вечная гонка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f8/0b4dc21f04f90a76d9fdfedd97ba6.jpeg",
+    "title": "«Он на 10 лет опережал всех». 76 дней Моуринью в «Бенфике»-2000",
+    "description": "10 матчей хватило, чтобы сверкнуть.",
+    "fullText": "10 матчей хватило, чтобы сверкнуть.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/7b/f391de3b642df9dc3329d8a518681.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3356468.html",
-    "time": "2025-10-21T13:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358722.html",
+    "time": "2025-10-21T13:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи фэнтезийного «роглайта» BALL x PIT достигли 300 тысяч копий",
-    "description": "За пять дней с релиза.",
-    "fullText": "За пять дней с релиза.",
-    "image": "https://leonardo.osnova.io/a2765428-96b6-5c54-bdfc-0b18e65cb084/-/format/mp4/",
+    "title": "Состоялся релиз Ninja Gaiden 4 — у игры 83 балла на Metacritic",
+    "description": "Критикам экшен понравился, но они предупредили, что со временем он может начать казаться однообразным.",
+    "fullText": "Критикам экшен понравился, но они предупредили, что со временем он может начать казаться однообразным.",
+    "image": "https://leonardo.osnova.io/8ea93bf9-45bf-5d11-bd00-aeb77fecf253/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4101736-prodazhi-ball-x-pit-prevysili-300-tysyach-kopiy?from=rss",
-    "time": "2025-10-21T10:59:20.000Z"
+    "url": "https://dtf.ru/games/4101235-reliz-ninja-gaiden-4-83-balla-na-metacritic?from=rss",
+    "time": "2025-10-21T06:26:32.000Z"
   }
 ]
