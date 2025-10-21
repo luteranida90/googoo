@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пострадавших в ДТП с участием 12 машин в Башкирии выписали из больницы",
-    "description": "Авария произошла 15 октября на пересечении Уфимского шоссе и улицы Новоженова в Уфе",
-    "fullText": "Авария произошла 15 октября на пересечении Уфимского шоссе и улицы Новоженова в Уфе",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Штучки 8-го тура АПЛ: секретная записка «Челси» и конфеты от сэра Алекса для легенды «Ливерпуля»",
+    "description": "Хет-трик с извинениями.",
+    "fullText": "Хет-трик с извинениями.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/1f/b9ce03cca423b8e819febfefcd781.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25407967",
-    "time": "2025-10-21T11:15:24.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358555.html",
+    "time": "2025-10-21T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-10-21T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Посмотрите на это уродство». Стадион во Владикавказе строят уже 5 лет – завели уголовку",
-    "description": "О хищении 200 млн.",
-    "fullText": "О хищении 200 млн.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/9b/7486802b34165a89af23063a8635c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358317.html",
-    "time": "2025-10-21T06:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Перезапуску «Побега» дали «зелёный свет» — первые детали",
     "description": "Сериал расскажет другую историю с новыми персонажами.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4100663-perezapusk-seriala-pobeg-na-hulu?from=rss",
     "time": "2025-10-20T19:02:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
