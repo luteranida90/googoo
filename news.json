@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве подготовили к зиме наземный городской пассажирский транспорт",
+    "description": "Сезонную подготовку прошли более 5 тыс. автобусов и свыше 2,6 тыс. электробусов Мосгортранса",
+    "fullText": "Сезонную подготовку прошли более 5 тыс. автобусов и свыше 2,6 тыс. электробусов Мосгортранса",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25403701",
+    "time": "2025-10-21T06:31:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто играл в «Реале» и «Ливерпуле»? 51% пользователей называют только одного игрока",
+    "description": "И сейчас он тренирует.",
+    "fullText": "И сейчас он тренирует.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/60/ed5861bc849fda9dc95c1de05e5e1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/pweyv2",
+    "time": "2025-10-20T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Сравнили звезд в FC 26 и eFootball 2026. Где Ямаль больше похож, а где – Мбаппе?",
     "description": "Смотрим лица.",
@@ -11,47 +33,25 @@
     "time": "2025-10-20T20:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
-    "description": "Стиль-2005.",
-    "fullText": "Стиль-2005.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Штучки 8-го тура АПЛ: секретная записка «Челси» и конфеты от сэра Алекса для легенды «Ливерпуля»",
+    "description": "Хет-трик с извинениями.",
+    "fullText": "Хет-трик с извинениями.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/1f/b9ce03cca423b8e819febfefcd781.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/nlnlli",
+    "url": "https://www.sports.ru/football/blogs/3358555.html",
     "time": "2025-10-20T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главная загадка «Спартака»: зачем Маркиньос подворачивает штанину?",
-    "description": "Чернявский наконец-то узнал ответ.",
-    "fullText": "Чернявский наконец-то узнал ответ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/ca/5bf9e071f479c941ea374d16709fe.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358496.html",
-    "time": "2025-10-20T18:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Motion Twin решила не заниматься Dead Cells 2, так как «последовала зову сердца», выбрав разработку Windblown",
-    "description": "Однако ситуация могла сложиться иначе, если бы команда была частью какой-то крупной компании.",
-    "fullText": "Однако ситуация могла сложиться иначе, если бы команда была частью какой-то крупной компании.",
-    "image": "https://leonardo.osnova.io/bb005b4d-9c1f-507e-a30b-e9f7d0208861/",
+    "title": "Keeper от Double Fine достигла 191 игрока на пике в Steam",
+    "description": "Однако у адвенчуры больше 90% положительных отзывов.",
+    "fullText": "Однако у адвенчуры больше 90% положительных отзывов.",
+    "image": "https://leonardo.osnova.io/41fb5086-85f8-559f-a6cd-157ce837d25d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4100006-motion-twin-vybrala-windblown-vmesto-dead-cells-2?from=rss",
-    "time": "2025-10-20T14:02:15.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4099394-keeper-ot-double-fine-pikovyj-onlajn-191-igrok?from=rss",
+    "time": "2025-10-20T09:07:51.000Z"
   }
 ]
