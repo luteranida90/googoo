@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Министр культуры Дати: системы безопасности Лувра при ограблении были исправны",
-    "description": "По ее словам, произошедшее \"стало глубокой раной для всего французского общества\"",
-    "fullText": "По ее словам, произошедшее \"стало глубокой раной для всего французского общества\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Поговорили о качестве на Спортсе’’ – когда тестирование можно заканчивать?",
+    "description": "Слушайте в нашем подкасте.",
+    "fullText": "Слушайте в нашем подкасте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/3e/f466a5c344f5aaad2756966f8eba6.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25409617",
-    "time": "2025-10-21T14:16:44.000Z"
+    "url": "https://sprts.cc/6djm61",
+    "time": "2025-10-21T15:30:00.000Z"
   },
   {
     "id": "aHR0cDovL3QubWUvcGlj",
@@ -19,7 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "http://t.me/picker_sports_bot/lch?startapp=utm_tg_native",
-    "time": "2025-10-21T13:20:00.000Z"
+    "time": "2025-10-21T14:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +34,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Водник» в беде: не платят зарплату. Это чемпион мира и самый посещаемый клуб России",
-    "description": "Старые проблемы русского хоккея.",
-    "fullText": "Старые проблемы русского хоккея.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/d5/a44d44d7842aea5cdc7e920a57fc1.png",
+    "title": "«Он на 10 лет опережал всех». 76 дней Моуринью в «Бенфике»-2000",
+    "description": "10 матчей хватило, чтобы сверкнуть.",
+    "fullText": "10 матчей хватило, чтобы сверкнуть.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/7b/f391de3b642df9dc3329d8a518681.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/bandy/blogs/3358604.html",
-    "time": "2025-10-21T10:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358722.html",
+    "time": "2025-10-21T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер Silent Hill пояснил, что в 2022 году Konami анонсировала сразу три игры, чтобы фанаты были уверены в будущем франшизы",
-    "description": "Компания не хотела ограничиваться «безопасным ремейком».",
-    "fullText": "Компания не хотела ограничиваться «безопасным ремейком».",
-    "image": "https://leonardo.osnova.io/e6f8e9f2-8301-5949-a16b-8c133b2286a8/",
+    "title": "Ремейк Silent Hill 2 добавили в расширенную подписку PS Plus",
+    "description": "Вместе с шестью другими играми, среди которых есть обновлённая Until Dawn.",
+    "fullText": "Вместе с шестью другими играми, среди которых есть обновлённая Until Dawn.",
+    "image": "https://leonardo.osnova.io/2a61b880-e472-52a9-967e-8d3a4e221f16/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4101353-silent-hill-konami-anonsirovala-tri-igry?from=rss",
-    "time": "2025-10-21T07:27:39.000Z"
+    "url": "https://dtf.ru/games/4101475-remeik-silent-hill-2-i-drugie-igry-v-ps-plus-extra?from=rss",
+    "time": "2025-10-21T08:54:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
