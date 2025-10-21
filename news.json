@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Ставрополье подключили к газу более 8 тыс. домов по президентской программе",
-    "description": "Для отдельных категорий участников программы предусмотрены льготы",
-    "fullText": "Для отдельных категорий участников программы предусмотрены льготы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25411647",
-    "time": "2025-10-21T18:57:49.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сыграйте с футбольными комментаторами Okko в игре «100к1»",
     "description": "Новинка на Спортсе’’.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.sports.ru/stokkodnomu/?utm_source=supertop",
     "time": "2025-10-21T16:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Леброн начинает 23-й, беспрецедентный сезон в НБА. В чем он номер 1, а в чем еще может подтянуться?",
+    "description": "Старый интриган против всех.",
+    "fullText": "Старый интриган против всех.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/b3/390d4174948238094a2d7d566c7af.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3358657.html",
+    "time": "2025-10-21T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -44,14 +44,14 @@
     "time": "2025-10-21T15:21:14.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В теннисе правда замедляют корты под Алькараса и Синнера?",
-    "description": "Теория заговора.",
-    "fullText": "Теория заговора.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/73/78ade640b4caaa6593c7c97865414.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3357551.html",
-    "time": "2025-10-21T15:05:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
