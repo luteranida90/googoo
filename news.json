@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ЦСКА обыграл СКА в матче Континентальной хоккейной лиги",
+    "description": "СКА проиграл восемь из девяти последних матчей",
+    "fullText": "СКА проиграл восемь из девяти последних матчей",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251022/8545303.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25423999",
+    "time": "2025-10-22T18:52:29.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Арсенал» хорош, но рекорд сезона-2003/04 не повторит. Разыгрываем ретроджерси того состава в «Аркаде»",
     "description": "Нужно закатить мяч в ворота.",
@@ -12,13 +23,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Три страны задавили FIS и не пустили российские лыжи на Олимпиаду",
-    "description": "Потому что могут.",
-    "fullText": "Потому что могут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/af/77af9db9f4ef188f8291416f8d2b0.jpeg",
+    "title": "Это только начало. Егор Дёмин дебютирует в НБА и заводит блог на Спортсе″",
+    "description": "Привет, Спортс″.",
+    "fullText": "Привет, Спортс″.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/52/d9b9498d0436c80ff898a5e9a9f95.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3358948.html",
+    "url": "https://www.sports.ru/basketball/blogs/3358003.html",
     "time": "2025-10-22T14:00:00.000Z"
   },
   {
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4103958-warhammer-40000-rogue-trader-patch-1-5?from=rss",
     "time": "2025-10-22T10:30:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
