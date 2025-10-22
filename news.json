@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Депутата гордумы Батайска задержали по делу о растрате",
-    "description": "Олега Никитченко заключили под стражу",
-    "fullText": "Олега Никитченко заключили под стражу",
+    "title": "В Грузии за сутки задержали 12 участников митингов",
+    "description": "Демонстранты нарушили новый закон о протестах, перекрыв проезжую часть и закрыв лица масками",
+    "fullText": "Демонстранты нарушили новый закон о протестах, перекрыв проезжую часть и закрыв лица масками",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25419687",
-    "time": "2025-10-22T11:30:18.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25421035",
+    "time": "2025-10-22T13:34:13.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-10-22T10:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Барса» развлеклась в ЛЧ: 6:1 – идеал перед класико. А что за Дро теперь бьет юные рекорды?",
+    "description": "Хет-трик Фермина, дубль Рэшфорда.",
+    "fullText": "Хет-трик Фермина, дубль Рэшфорда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/58/a7a1bc58c464485888eee64fc6006.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3358911.html",
+    "time": "2025-10-22T09:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Буффон – 30 очков. Ибрагимович – 10. Мбаппе – 5. При ответе на какой вопрос получилось это распределение в игре с экспертами Okko?",
     "description": "Сыграйте и узнайте.",
@@ -33,25 +44,14 @@
     "time": "2025-10-22T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это только начало. Егор Дёмин дебютирует в НБА и заводит блог на Спортсе″",
-    "description": "Привет, Спортс″.",
-    "fullText": "Привет, Спортс″.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/52/d9b9498d0436c80ff898a5e9a9f95.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3358003.html",
-    "time": "2025-10-22T07:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Нуарный шутер MOUSE: P.I. for Hire перенесли на 2026 год",
-    "description": "Однако новый трейлер покажут уже 23 октября.",
-    "fullText": "Однако новый трейлер покажут уже 23 октября.",
-    "image": "https://leonardo.osnova.io/7a00f234-9de5-5ba7-8af0-6f553e088f43/",
+    "title": "Starbreeze передала поддержку ПК-версии Payday 2 сторонней студии",
+    "description": "Сама компания сосредоточится на третьей части.",
+    "fullText": "Сама компания сосредоточится на третьей части.",
+    "image": "https://leonardo.osnova.io/ad9304d3-1684-5fc3-894c-44d73d13ce3e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4103499-mouse-pi-for-hire-perenesli-na-2026-god?from=rss",
-    "time": "2025-10-22T06:49:09.000Z"
+    "url": "https://dtf.ru/games/4103625-starbreeze-peredala-podderzhku-payday-2-storonnei-studii-sidetrack-games?from=rss",
+    "time": "2025-10-22T08:11:07.000Z"
   }
 ]
