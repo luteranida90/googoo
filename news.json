@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Ъ\": онлайн-кинотеатры могут оценить на традиционные ценности",
+    "description": "Результаты проверки будут учитываться при распределении финансирования",
+    "fullText": "Результаты проверки будут учитываться при распределении финансирования",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25429609",
+    "time": "2025-10-23T08:35:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Медведев или Алькарас – кого возьмете в команду на «Мастерс» в Париже?",
     "description": "Выберите теннисистов в Основе.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Уэстбрук не подписал детям майки «Лейкерс», и его захейтили. На самом деле все было доброжелательно",
-    "description": "А почему он так не любит бывшую команду?",
-    "fullText": "А почему он так не любит бывшую команду?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/d2/1ef7a845b49a2ab82408525b61ae5.jpeg",
+    "title": "«Челси» грохнул «Аякс»: 6 голов, удаление, три пенальти и разбитое лицо Вегорста",
+    "description": "Было весело.",
+    "fullText": "Было весело.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/df/377b445514829b0c251f7123a162e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3359116.html",
-    "time": "2025-10-22T20:39:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3359196.html",
+    "time": "2025-10-22T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Apple резко сократила производство iPhone Air из-за слабого спроса",
-    "description": "Заказы уменьшились почти до того минимума, который обычно бывает перед снятием модели с производства.",
-    "fullText": "Заказы уменьшились почти до того минимума, который обычно бывает перед снятием модели с производства.",
-    "image": "https://leonardo.osnova.io/d1a0dbab-5c17-58c6-9c99-1d8117ef3afe/",
+    "title": "«Мир на грани взрыва»: трейлер первого сезона Battlefield 6",
+    "description": "Игроков ждут новые карты, режимы, оружие и техника.",
+    "fullText": "Игроков ждут новые карты, режимы, оружие и техника.",
+    "image": "https://leonardo.osnova.io/dd2e1b5b-a5a2-5466-aa66-4b8ccbf41adb/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4104384-apple-sokratila-proizvodstvo-iphone-air?from=rss",
-    "time": "2025-10-22T13:55:43.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4104546-trejler-pervogo-sezona-battlefield-6?from=rss",
+    "time": "2025-10-22T15:10:52.000Z"
   }
 ]
