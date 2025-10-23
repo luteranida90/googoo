@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "МВД Сирии арестовало планировавших покушения на сотрудников СМИ в Латакии",
+    "description": "В ведомстве отметили, что в провинции наблюдается эскалация ситуации в сфере безопасности, в частности предпринимаются \"попытки саботажа и нападений\"",
+    "fullText": "В ведомстве отметили, что в провинции наблюдается эскалация ситуации в сфере безопасности, в частности предпринимаются \"попытки саботажа и нападений\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25437373",
+    "time": "2025-10-23T18:18:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "В CS обвалили рынок – одним движением. Люди потеряли миллионы долларов",
     "description": "Черный четверг.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3359308.html",
     "time": "2025-10-23T17:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Львова-Белова будет проводить встречи для восстановления родительских прав",
-    "description": "Уполномоченный при президенте РФ по правам ребенка рассказала, что первая такая встреча прошла 23 октября",
-    "fullText": "Уполномоченный при президенте РФ по правам ребенка рассказала, что первая такая встреча прошла 23 октября",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25437017",
-    "time": "2025-10-23T17:05:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-10-23T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Amazon показала трейлер Crime 101 — криминального триллера о похитителе драгоценностей со звёздным актёрским составом",
-    "description": "Прокат за рубежом начнётся в феврале 2026 года.",
-    "fullText": "Прокат за рубежом начнётся в феврале 2026 года.",
-    "image": "https://leonardo.osnova.io/cab9f875-99d6-5a45-b8fb-fe432df035cc/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4106490-trejler-crime-101-ot-amazon?from=rss",
-    "time": "2025-10-23T13:27:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Марокко – чемпионы мира! Пока U20: обыграли Аргентину и вообще всех топов",
-    "description": "Цветут.",
-    "fullText": "Цветут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/96/b1cc4eb7943228773049535b82816.jpeg",
+    "title": "Как Кузнецов вписался в «Металлург» и сделал его сильнее",
+    "description": "Звезда за 10 млн.",
+    "fullText": "Звезда за 10 млн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/fc/35e4ae5624b5aaa982c0cc1fb95e9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358964.html",
-    "time": "2025-10-23T12:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3359212.html",
+    "time": "2025-10-23T13:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Дальше будет только хуже»: фанаты Battlefield 6 вновь раскритиковали разработчиков за яркие скины для шутера",
+    "description": "Они появятся уже в первом сезоне.",
+    "fullText": "Они появятся уже в первом сезоне.",
+    "image": "https://leonardo.osnova.io/18870873-1837-5a36-8024-5ded60415931/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4105819-fanaty-battlefield-6-raskritikovali-yarkie-skini?from=rss",
+    "time": "2025-10-23T07:43:08.000Z"
   }
 ]
