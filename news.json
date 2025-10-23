@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МВД Сирии арестовало планировавших покушения на сотрудников СМИ в Латакии",
-    "description": "В ведомстве отметили, что в провинции наблюдается эскалация ситуации в сфере безопасности, в частности предпринимаются \"попытки саботажа и нападений\"",
-    "fullText": "В ведомстве отметили, что в провинции наблюдается эскалация ситуации в сфере безопасности, в частности предпринимаются \"попытки саботажа и нападений\"",
+    "title": "В Твери четыре человека пострадали во время наезда автомобиля на остановку",
+    "description": "Среди пострадавших есть несовершеннолетний",
+    "fullText": "Среди пострадавших есть несовершеннолетний",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25437373",
-    "time": "2025-10-23T18:18:19.000Z"
+    "url": "https://tass.ru/proisshestviya/25437441",
+    "time": "2025-10-23T18:32:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3359308.html",
     "time": "2025-10-23T17:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Assassin&#039;s Creed Shadows выпустят на Nintendo Switch 2 уже 2 декабря по цене 60 долларов",
+    "description": "Ubisoft также поделилась подробностями о патчах — в игре улучшат паркур и добавят дополнительные задания.",
+    "fullText": "Ubisoft также поделилась подробностями о патчах — в игре улучшат паркур и добавят дополнительные задания.",
+    "image": "https://leonardo.osnova.io/38ac9e88-f4dd-5610-a380-c71bdb845203/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4106911-assassins-creed-shadows-vyhodit-na-nintendo-switch-2?from=rss",
+    "time": "2025-10-23T17:13:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Кузнецов вписался в «Металлург» и сделал его сильнее",
-    "description": "Звезда за 10 млн.",
-    "fullText": "Звезда за 10 млн.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/fc/35e4ae5624b5aaa982c0cc1fb95e9.jpeg",
+    "title": "«Ливерпуль» без Салаха, почему посыпался «Атлетико» и новый вундеркинд «Баварии». Тактика ЛЧ",
+    "description": "И тотальный Нуну Мендеш.",
+    "fullText": "И тотальный Нуну Мендеш.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/84/94291828a4a968f1d37ce6abd0f69.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3359212.html",
-    "time": "2025-10-23T13:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Дальше будет только хуже»: фанаты Battlefield 6 вновь раскритиковали разработчиков за яркие скины для шутера",
-    "description": "Они появятся уже в первом сезоне.",
-    "fullText": "Они появятся уже в первом сезоне.",
-    "image": "https://leonardo.osnova.io/18870873-1837-5a36-8024-5ded60415931/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4105819-fanaty-battlefield-6-raskritikovali-yarkie-skini?from=rss",
-    "time": "2025-10-23T07:43:08.000Z"
+    "url": "https://www.sports.ru/football/blogs/3359313.html",
+    "time": "2025-10-23T13:40:00.000Z"
   }
 ]
