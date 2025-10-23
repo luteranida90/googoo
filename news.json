@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ближайших к месту взрыва в Луганске зданиях повреждено остекление и фасады",
-    "description": "В ЧП пострадали два человека",
-    "fullText": "В ЧП пострадали два человека",
+    "title": "Финляндия закупит у США вооружение на €100 млн для Украины",
+    "description": "По информации Helsingin Sanomat, покупка вооружения будет произведена за счет средств, взятых властями республики в долг",
+    "fullText": "По информации Helsingin Sanomat, покупка вооружения будет произведена за счет средств, взятых властями республики в долг",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25432039",
-    "time": "2025-10-23T10:31:55.000Z"
+    "url": "https://tass.ru/ekonomika/25432699",
+    "time": "2025-10-23T11:16:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,6 +22,17 @@
     "time": "2025-10-23T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Егора Дёмина лучший дебют в НБА в истории российского баскетбола",
+    "description": "Два рекорда.",
+    "fullText": "Два рекорда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/53/f025b3ef0415fb3d3c9abb1b179e6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3359214.html",
+    "time": "2025-10-23T07:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Медведев или Алькарас – кого возьмете в команду на «Мастерс» в Париже?",
     "description": "Выберите теннисистов в Основе.",
@@ -33,25 +44,14 @@
     "time": "2025-10-23T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вершитель судьбы мировых гонок – жена Экклстоуна. Как так вышло?",
-    "description": "Скандал на выборах главбосса автоспорта.",
-    "fullText": "Скандал на выборах главбосса автоспорта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/68/d9d9d770b47758872ceb01697f2d9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3358049.html",
-    "time": "2025-10-23T06:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Выручка Borderlands 4 в США стала рекордной для серии — почти на 30% выше, чем у третьей части",
-    "description": "Шутер оказался в лидерах по продажам за 2025 год.",
-    "fullText": "Шутер оказался в лидерах по продажам за 2025 год.",
-    "image": "https://leonardo.osnova.io/c00738c7-c6ba-5908-b1d4-50e1c1711f12/",
+    "title": "Автор «Клана Сопрано» и HBO работают над сериалом о руководителе МК-Ультра — тайной программы ЦРУ",
+    "description": "Это первое шоу кинематографиста со времён завершения его культовой криминальной драмы.",
+    "fullText": "Это первое шоу кинематографиста со времён завершения его культовой криминальной драмы.",
+    "image": "https://leonardo.osnova.io/3cf6a11b-b3c3-51ae-85f5-ac1bb38cf965/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4104960-vyruchka-borderlands-4-v-ssha-rekordnaya?from=rss",
-    "time": "2025-10-22T18:24:01.000Z"
+    "url": "https://dtf.ru/cinema/4105251-david-cheyz-hbo-serial-mk-ultra?from=rss",
+    "time": "2025-10-22T21:22:31.000Z"
   }
 ]
