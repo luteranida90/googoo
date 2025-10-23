@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Шойгу выступил за создание в РФ отрасли по освоению редкоземельных металлов",
-    "description": "Страна должна получать максимальную пользу из своих недр и не зависеть от других государств, считает секретарь Совета безопасности",
-    "fullText": "Страна должна получать максимальную пользу из своих недр и не зависеть от других государств, считает секретарь Совета безопасности",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250424/8191389.jpg",
+    "title": "В Петербурге в ЦВЗ \"Манеж\" стартует фестиваль \"Архитектон\"",
+    "description": "Мероприятие продлится девять дней",
+    "fullText": "Мероприятие продлится девять дней",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25438119",
-    "time": "2025-10-23T21:01:36.000Z"
+    "url": "https://tass.ru/obschestvo/25438099",
+    "time": "2025-10-23T21:03:28.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +33,17 @@
     "time": "2025-10-23T16:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Умер 29-летний топ-шахматист из США – почему из-за этого все переругались и при чем тут Крамник",
+    "description": "ФИДЕ начала расследование.",
+    "fullText": "ФИДЕ начала расследование.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/a6/090ab746c4daa9e157a29ff50bfba.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/chess/blogs/3359234.html",
+    "time": "2025-10-23T15:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся релиз Farthest Frontier 1.0 — средневекового градостроительного симулятора от авторов Grim Dawn",
     "description": "Игру называют хардкорной, но вместе с этим и уютной, в духе Banished.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4106611-reliz-farthest-frontier-1-0-srednevekovyj-gradostroitelnij-simulator?from=rss",
     "time": "2025-10-23T14:44:08.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Госдума приняла в 1-м чтении закон, которого боятся букмекеры. Насколько ближе новые налоги?",
-    "description": "Почему (пока) это мало что значит.",
-    "fullText": "Почему (пока) это мало что значит.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/ef/e04fb09654d31a50d3345a897600e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/industry/blogs/3359246.html",
-    "time": "2025-10-23T14:36:00.000Z"
   }
 ]
