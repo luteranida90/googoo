@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В ближайших к месту взрыва в Луганске зданиях повреждено остекление и фасады",
+    "description": "В ЧП пострадали два человека",
+    "fullText": "В ЧП пострадали два человека",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25432039",
+    "time": "2025-10-23T10:31:55.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Спортсу’’ нужен комьюнити-менеджер – не ждите и откликайтесь на вакансию!",
     "description": "Ищем голос Трибуны.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/4lu8rq",
     "time": "2025-10-23T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЕС ввел санкции против производителей электроники и оборудования из регионов РФ",
-    "description": "Дата включения всех компаний в санкционные списки - 24 октября",
-    "fullText": "Дата включения всех компаний в санкционные списки - 24 октября",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25430037",
-    "time": "2025-10-23T09:27:53.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "7 мыслей о проблемах СКА. Команда Ларионова совсем безнадежна?",
-    "description": "Все против нее.",
-    "fullText": "Все против нее.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/12/867ad7bf445a5884d42911f339636.jpeg",
+    "title": "Вершитель судьбы мировых гонок – жена Экклстоуна. Как так вышло?",
+    "description": "Скандал на выборах главбосса автоспорта.",
+    "fullText": "Скандал на выборах главбосса автоспорта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/68/d9d9d770b47758872ceb01697f2d9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3359203.html",
-    "time": "2025-10-22T22:23:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3358049.html",
+    "time": "2025-10-23T06:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышли первые эпизоды Dispatch — комедийной игры про диспетчера агентства супергероев от бывших сотрудников Telltale",
-    "description": "Стоимость адвенчуры в Steam — 990 рублей c учётом скидки.",
-    "fullText": "Стоимость адвенчуры в Steam — 990 рублей c учётом скидки.",
-    "image": "https://leonardo.osnova.io/8223ff7b-79c6-57cc-b089-8fa57e5cafc5/-/format/mp4/",
+    "title": "Выручка Borderlands 4 в США стала рекордной для серии — почти на 30% выше, чем у третьей части",
+    "description": "Шутер оказался в лидерах по продажам за 2025 год.",
+    "fullText": "Шутер оказался в лидерах по продажам за 2025 год.",
+    "image": "https://leonardo.osnova.io/c00738c7-c6ba-5908-b1d4-50e1c1711f12/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4104371-vysli-epizody-dispatch-komediynaya-igra-pro-dispetchera-supergeroev?from=rss",
-    "time": "2025-10-22T14:02:10.000Z"
+    "url": "https://dtf.ru/gameindustry/4104960-vyruchka-borderlands-4-v-ssha-rekordnaya?from=rss",
+    "time": "2025-10-22T18:24:01.000Z"
   }
 ]
