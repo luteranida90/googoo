@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Литва временно закрыла два погранперехода на границе с Белоруссией",
+    "description": "Это связано с инцидентом с метеорологическими зондами",
+    "fullText": "Это связано с инцидентом с метеорологическими зондами",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25448371",
+    "time": "2025-10-24T20:03:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "Три выигрыша «МЮ» до стрижки! Берите победу «Юнайтед» в Предикторе, если верите в серию",
     "description": "Аморим-бол заработал?",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Месси продлился с «Майами» – он точно остается до конца 2028-го!",
-    "description": "Официально.",
-    "fullText": "Официально.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ac/f918f987649728bc0385e15119e50.jpeg",
+    "title": "Почему я скучаю без Хабиба в UFC",
+    "description": "Тихомиров – о пяти годах без чемпиона.",
+    "fullText": "Тихомиров – о пяти годах без чемпиона.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/41/8712c80374118bf5472a20fe4ab79.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3359469.html",
-    "time": "2025-10-24T14:25:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3359532.html",
+    "time": "2025-10-24T15:51:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Выживач» Pacific Drive вышел на Xbox и получил сюжетное дополнение",
-    "description": "Игру также добавили в Game Pass.",
-    "fullText": "Игру также добавили в Game Pass.",
-    "image": "https://leonardo.osnova.io/47eebcdf-1269-5e34-b23a-796c436e1d8c/-/format/mp4/",
+    "title": "Фил Спенсер заверил, что в Xbox не заставляют разработчиков использовать ИИ",
+    "description": "А глава Take-Two Штраус Зельник в очередной раз заявил, что технология не способна заменить творчество людей.",
+    "fullText": "А глава Take-Two Штраус Зельник в очередной раз заявил, что технология не способна заменить творчество людей.",
+    "image": "https://leonardo.osnova.io/dc20a9b0-5128-5c6c-839d-2c6150d48627/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4108136-pacific-drive-vyshel-na-xbox-i-poluchil-dopolnenie?from=rss",
-    "time": "2025-10-24T09:49:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4108064-fil-spenser-o-ii-v-xbox?from=rss",
+    "time": "2025-10-24T09:05:32.000Z"
   }
 ]
