@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "У берегов Хоккайдо произошло землетрясение магнитудой 5,8",
-    "description": "Очаг залегал на глубине 41 км",
-    "fullText": "Очаг залегал на глубине 41 км",
+    "title": "Кабмин одобрил проект взаимного признания образования с ЮАР",
+    "description": "Минобрнауки поручено провести переговоры с Южно-Африканской Республикой",
+    "fullText": "Минобрнауки поручено провести переговоры с Южно-Африканской Республикой",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25447585",
-    "time": "2025-10-24T17:10:51.000Z"
+    "url": "https://tass.ru/politika/25447939",
+    "time": "2025-10-24T18:24:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2025-10-24T16:45:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Арестованы тренер и игрок НБА: Биллапс был приманкой ради мафии, Розир симулировал для ставок. Как накажут?",
+    "description": "«Тюремные сроки могут измеряться годами».",
+    "fullText": "«Тюремные сроки могут измеряться годами».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/6c/5db4e1e84423089807a37ded7e2ec.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3359453.html",
+    "time": "2025-10-24T14:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
     "description": "Ответят только знатоки!",
@@ -33,25 +44,14 @@
     "time": "2025-10-24T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Пиппен взял чайник – и об пол, бдыщ: «Ты чего, молодой!» Интервью второго русского в НБА",
-    "description": "Победитель Евробаскета-2007 Никита Моргунов.",
-    "fullText": "Победитель Евробаскета-2007 Никита Моргунов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/fb/621de830440f1a4334792abd192b2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3359425.html",
-    "time": "2025-10-24T13:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Fatshark анонсировала несколько ивентов для Darktide и Vermintide 2 в честь десятилетия франшизы Tide",
-    "description": "Для игры по Warhammer 40,000 также анонсируют ещё один класс.",
-    "fullText": "Для игры по Warhammer 40,000 также анонсируют ещё один класс.",
-    "image": "https://leonardo.osnova.io/76a799da-a9e7-588a-8bed-f65fd25b40bb/",
+    "title": "«Выживач» Pacific Drive вышел на Xbox и получил сюжетное дополнение",
+    "description": "Игру также добавили в Game Pass.",
+    "fullText": "Игру также добавили в Game Pass.",
+    "image": "https://leonardo.osnova.io/47eebcdf-1269-5e34-b23a-796c436e1d8c/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4108306-fatshark-anonsirovala-sobytiya-dlya-darktide-i-vermintide-2?from=rss",
-    "time": "2025-10-24T11:12:39.000Z"
+    "url": "https://dtf.ru/games/4108136-pacific-drive-vyshel-na-xbox-i-poluchil-dopolnenie?from=rss",
+    "time": "2025-10-24T09:49:29.000Z"
   }
 ]
