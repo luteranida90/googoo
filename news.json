@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Киевской области объявили воздушную тревогу",
+    "description": "В красной зоне также находятся Днепропетровская, Полтавская, Сумская, Харьковская и Черниговская области Украины",
+    "fullText": "В красной зоне также находятся Днепропетровская, Полтавская, Сумская, Харьковская и Черниговская области Украины",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25446929",
+    "time": "2025-10-24T15:13:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
     "description": "Ответят только знатоки!",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Интервью с лучшим русским тяжеловесом UFC Александром Волковым – это он читает Сенеку",
-    "description": "Идет за поясом.",
-    "fullText": "Идет за поясом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/de/7ffc3bb5a4db1a079a3711e2ee4ed.png",
+    "title": "«Спартак» переедет аутсайдера, «Балтика» полетит в топ-3, «Ростов» не пропустит. Что будет в туре РПЛ: вероятности",
+    "description": "Пора вспомнить про замены в Фэнтези.",
+    "fullText": "Пора вспомнить про замены в Фэнтези.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/fb/5ffdf94954068ae5a16b9da68ab7b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3358593.html",
-    "time": "2025-10-24T11:25:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3359486.html",
+    "time": "2025-10-24T11:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатели командного киберпанк-шутера Defect показали четырёхминутный геймплейный трейлер",
-    "description": "Под саундтрек Мика Гордона.",
-    "fullText": "Под саундтрек Мика Гордона.",
-    "image": "https://leonardo.osnova.io/fa3bf68a-c6a1-5a58-9e7d-29c43812cd1e/-/format/mp4/",
+    "title": "Авторы Hades II расширят истинную концовку игры в первом крупном патче",
+    "description": "Даты его выхода пока нет, но бета уже доступна.",
+    "fullText": "Даты его выхода пока нет, но бета уже доступна.",
+    "image": "https://leonardo.osnova.io/cc6de945-26b2-5b93-a502-9ca4ad9133a5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4107842-geymplejnyj-trejler-defect?from=rss",
-    "time": "2025-10-24T06:33:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4107971-hades-ii-patch-rasshirenie-kontsy?from=rss",
+    "time": "2025-10-24T07:42:57.000Z"
   }
 ]
