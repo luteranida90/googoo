@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Еврокомиссар Лябиб признала, что ЕС не готов к экспроприации активов России",
-    "description": "Это беспрецедентно, подчеркнула Аджа Лябиб",
-    "fullText": "Это беспрецедентно, подчеркнула Аджа Лябиб",
+    "title": "У берегов Хоккайдо произошло землетрясение магнитудой 5,8",
+    "description": "Очаг залегал на глубине 41 км",
+    "fullText": "Очаг залегал на глубине 41 км",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25447349",
-    "time": "2025-10-24T16:21:54.000Z"
+    "url": "https://tass.ru/proisshestviya/25447585",
+    "time": "2025-10-24T17:10:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "ГОООООООООООЛ!",
+    "description": "Полюбуйтесь.",
+    "fullText": "Полюбуйтесь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d2/6ba1d2f9444df8de9a4281597c86f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/6RXzvjLrwbQuVx4DNciVmsD-D7Ks91fp4g4pSjM1lRc",
+    "time": "2025-10-24T16:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,25 @@
     "time": "2025-10-24T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Наши обыграли Северную Македонию. Смотрите матч женской сборной Юрия Красножана",
-    "description": "Комментатор: Владимир Заводников.",
-    "fullText": "Комментатор: Владимир Заводников.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/05/23847d25e4535bf3272ae6a6062c6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/zo7pG1y2g2r_k4X0oPPXoYm4dYmJ88xgAMRf_YaV_y8",
-    "time": "2025-10-24T12:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Легионеры из КХЛ обожают сырники. Со сгущенкой или сметаной?",
-    "description": "А с чем полезнее?",
-    "fullText": "А с чем полезнее?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/04/8d24fd78f49248b9ef5695105c6de.jpeg",
+    "title": "«Пиппен взял чайник – и об пол, бдыщ: «Ты чего, молодой!» Интервью второго русского в НБА",
+    "description": "Победитель Евробаскета-2007 Никита Моргунов.",
+    "fullText": "Победитель Евробаскета-2007 Никита Моргунов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/fb/621de830440f1a4334792abd192b2.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3355569.html",
-    "time": "2025-10-24T12:10:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3359425.html",
+    "time": "2025-10-24T13:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Актёры Джеймса и Марии из ремейка Silent Hill 2 намекнули, что снова поработают с Bloober Team",
-    "description": "И долго ждать якобы не придётся.",
-    "fullText": "И долго ждать якобы не придётся.",
-    "image": "https://leonardo.osnova.io/4bf47a89-8df5-57c2-b56b-813d59187fc6/",
+    "title": "Fatshark анонсировала несколько ивентов для Darktide и Vermintide 2 в честь десятилетия франшизы Tide",
+    "description": "Для игры по Warhammer 40,000 также анонсируют ещё один класс.",
+    "fullText": "Для игры по Warhammer 40,000 также анонсируют ещё один класс.",
+    "image": "https://leonardo.osnova.io/76a799da-a9e7-588a-8bed-f65fd25b40bb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4108154-aktyory-silent-hill-2-dzheyms-i-mariya-s-novoy-rabotoy-s-bloober-team?from=rss",
-    "time": "2025-10-24T09:40:34.000Z"
+    "url": "https://dtf.ru/games/4108306-fatshark-anonsirovala-sobytiya-dlya-darktide-i-vermintide-2?from=rss",
+    "time": "2025-10-24T11:12:39.000Z"
   }
 ]
