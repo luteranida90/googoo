@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Бурятии ввели ограничения для автомобилей из-за снегопада",
-    "description": "К расчистке трассы привлекли погрузчик и комбинированную дорожную машину",
-    "fullText": "К расчистке трассы привлекли погрузчик и комбинированную дорожную машину",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ВСУ за неделю потеряли до 490 военных в зоне ответственности группировки \"Днепр\"",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251024/8549239.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25441727",
-    "time": "2025-10-24T08:35:02.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25442391",
+    "time": "2025-10-24T09:24:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Наши сыграют с Северной Македонией. А почему она вообще северная и где тогда южная?",
+    "description": "Посмотрим оттуда трансляцию.",
+    "fullText": "Посмотрим оттуда трансляцию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c7/4d5b88fad4272b088238442e72664.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3359483.html",
+    "time": "2025-10-24T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +44,14 @@
     "time": "2025-10-24T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кучеров гнался за 1000-м очком в НХЛ, а привез в свои ворота",
-    "description": "Пока не везет.",
-    "fullText": "Пока не везет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/51/11f7237f341e680d9c64150bbd816.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3359487.html",
-    "time": "2025-10-24T03:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Path of Exile представили масштабное обновление «Хранители Пламени» — с механикой наростов и асинхронной торговлей",
-    "description": "А также с тремя убер-боссами, десятью дополнительными классами Восхождения и ещё одним древом прокачки.",
-    "fullText": "А также с тремя убер-боссами, десятью дополнительными классами Восхождения и ещё одним древом прокачки.",
-    "image": "https://leonardo.osnova.io/5e571975-0da2-5910-8d40-95cf16840ea6/-/format/mp4/",
+    "title": "EA и Stability AI объявили о партнёрстве — они разработают ИИ-инструменты для создания игр",
+    "description": "Они должны помочь людям, а не заменить их, заверили в компании.",
+    "fullText": "Они должны помочь людям, а не заменить их, заверили в компании.",
+    "image": "https://leonardo.osnova.io/effe8ca6-e9bb-5ddc-adc5-fab91a3cbe3e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4107217-obnovlenie-khraniteli-plameni-dlya-path-of-exile?from=rss",
-    "time": "2025-10-23T19:53:43.000Z"
+    "url": "https://dtf.ru/gameindustry/4107382-ea-i-stability-ai-ii-instrumenty-dlya-razrabotki-igr?from=rss",
+    "time": "2025-10-23T20:43:29.000Z"
   }
 ]
