@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Более 1,4 тыс. человек задержали в рамках профилактического мероприятия \"Розыск\"",
-    "description": "Наибольшее количество разыскиваемых лиц установлено сотрудниками ГУ ФСИН России по Московской области, по Пермскому краю, по Москве, а также по Санкт-Петербургу и Ленинградской области",
-    "fullText": "Наибольшее количество разыскиваемых лиц установлено сотрудниками ГУ ФСИН России по Московской области, по Пермскому краю, по Москве, а также по Санкт-Петербургу и Ленинградской области",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25440295",
-    "time": "2025-10-24T06:26:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "ГОООООООООООЛ!",
     "description": "Полюбуйтесь.",
@@ -23,35 +12,46 @@
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В XXI веке всего три американца брали «Везина Трофи». Вспомните хоть одного?",
-    "description": "Проверьте себя!",
-    "fullText": "Проверьте себя!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/b0/d3c1d858f4c07ae19864eefbd3f17.png",
+    "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
+    "description": "Раньше было ярче...",
+    "fullText": "Раньше было ярче...",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/45/29c64aa2945bdb73a90687464e97f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/b79iva",
-    "time": "2025-10-23T21:30:00.000Z"
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-10-24T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Расселл дожал «Мерседес»: $40 млн в год, №3 по гонорарам в «Ф-1». Заслужил?",
-    "description": "Все о новом суперконтракте.",
-    "fullText": "Все о новом суперконтракте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f1/28f71df304d3daf87d1679b53c364.jpeg",
+    "title": "«Ливерпуль» без Салаха, почему посыпался «Атлетико» и новый вундеркинд «Баварии». Тактика ЛЧ",
+    "description": "И тотальный Нуну Мендеш.",
+    "fullText": "И тотальный Нуну Мендеш.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/84/94291828a4a968f1d37ce6abd0f69.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3357751.html",
-    "time": "2025-10-23T21:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3359313.html",
+    "time": "2025-10-23T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Farthest Frontier 1.0 — средневекового градостроительного симулятора от авторов Grim Dawn",
-    "description": "Игру называют хардкорной, но вместе с этим и уютной, в духе Banished.",
-    "fullText": "Игру называют хардкорной, но вместе с этим и уютной, в духе Banished.",
-    "image": "https://leonardo.osnova.io/795eda55-ce9a-53e0-881a-7305a044c6c6/-/format/mp4/",
+    "title": "Вышел Tormented Souls 2 — сиквел survival-хоррора в стиле игр из 90-х с фиксированной камерой",
+    "description": "Каролина Уокер вернулась.",
+    "fullText": "Каролина Уокер вернулась.",
+    "image": "https://leonardo.osnova.io/6775ae41-95ea-506f-aa7f-ccb5cfe5f58f/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4106611-reliz-farthest-frontier-1-0-srednevekovyj-gradostroitelnij-simulator?from=rss",
-    "time": "2025-10-23T14:44:08.000Z"
+    "url": "https://dtf.ru/games/4106695-tormented-souls-2-novyy-survival-horror?from=rss",
+    "time": "2025-10-23T15:35:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
