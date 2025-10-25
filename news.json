@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В \"Сенеже\" стартовал второй поток программы \"Школа муниципальных команд\"",
-    "description": "На обучении собрались более 70 управленцев из 17 регионов России",
-    "fullText": "На обучении собрались более 70 управленцев из 17 регионов России",
+    "title": "Артист Казанского цирка потерял сознание после падения во время выступления",
+    "description": "Матвей Циренщиков находится в клинике и проходит необходимые медицинские процедуры",
+    "fullText": "Матвей Циренщиков находится в клинике и проходит необходимые медицинские процедуры",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25452303",
-    "time": "2025-10-25T13:08:24.000Z"
+    "url": "https://tass.ru/proisshestviya/25452581",
+    "time": "2025-10-25T14:02:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Возьми эти очки и уезжай с ними в фавелы». «Спартак» огненно снял выезд в Махачкалу от первого лица",
+    "description": "Особенно зажег Довбня.",
+    "fullText": "Особенно зажег Довбня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/1f/025b8cd2f44f096601ade3fc2a38e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3359484.html",
+    "time": "2025-10-25T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-25T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Не смейте пропускать UFC 321: идущие за титульниками Волков и Умар и «русский» бразилец, скручивающий пятки",
-    "description": "Плотнейший кард.",
-    "fullText": "Плотнейший кард.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/0e/62459886a4d019eb205b750a76500.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3359200.html",
-    "time": "2025-10-25T08:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Ratatan, духовного наследника Patapon, превысили 100 тысяч копий за пять недель",
-    "description": "Уже 30 октября ритм-«роглайк» получит первый крупный апдейт.",
-    "fullText": "Уже 30 октября ритм-«роглайк» получит первый крупный апдейт.",
-    "image": "https://leonardo.osnova.io/74f31f48-a14e-50a9-bb96-5de609dc0411/",
+    "title": "СМИ: Остин Батлер и Майкл Б. Джордан претендуют на главные роли в «Полиции Майами» Джозефа Косински",
+    "description": "Криминальный триллер от автора «Топ Ган: Мэверик» и «Формулы-1» будет вдохновлён первым сезоном классического сериала 1980-х.",
+    "fullText": "Криминальный триллер от автора «Топ Ган: Мэверик» и «Формулы-1» будет вдохновлён первым сезоном классического сериала 1980-х.",
+    "image": "https://leonardo.osnova.io/ce2d0fb6-f970-561c-9e6d-446a49d4e866/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4108850-prodazhi-ratatan-prevysili-100-tysyach-kopiy?from=rss",
-    "time": "2025-10-24T15:28:16.000Z"
+    "url": "https://dtf.ru/cinema/4109185-ostin-batler-i-majkl-b-dzhordan-v-politsii-majami?from=rss",
+    "time": "2025-10-24T17:43:28.000Z"
   }
 ]
