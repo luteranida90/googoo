@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В \"Сенеже\" стартовал второй поток программы \"Школа муниципальных команд\"",
+    "description": "На обучении собрались более 70 управленцев из 17 регионов России",
+    "fullText": "На обучении собрались более 70 управленцев из 17 регионов России",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25452303",
+    "time": "2025-10-25T13:08:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Наполи» vs «Интер» – кто будет сильнее? Ставьте на Серию А и получите фрибет",
     "description": "1500 рублей от БЕТСИТИ.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Месси с дубля начал плей-офф. Забил даже головой",
-    "description": "Отметил продление контракта.",
-    "fullText": "Отметил продление контракта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/04/ee267cd1046acacd1e2867ebc8692.jpeg",
+    "title": "Не смейте пропускать UFC 321: идущие за титульниками Волков и Умар и «русский» бразилец, скручивающий пятки",
+    "description": "Плотнейший кард.",
+    "fullText": "Плотнейший кард.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/0e/62459886a4d019eb205b750a76500.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3359716.html",
-    "time": "2025-10-25T07:55:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3359200.html",
+    "time": "2025-10-25T08:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4108850-prodazhi-ratatan-prevysili-100-tysyach-kopiy?from=rss",
     "time": "2025-10-24T15:28:16.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
