@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кириенко: СРЗП активно участвует в отстаивании идей социальной справедливости",
+    "description": "Первый заместитель руководителя Администрации президента РФ отметил роль участников и сторонников партии в СВО, которые \"с оружием в руках\" отстаивают суверенитет и безопасность России",
+    "fullText": "Первый заместитель руководителя Администрации президента РФ отметил роль участников и сторонников партии в СВО, которые \"с оружием в руках\" отстаивают суверенитет и безопасность России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250806/8382617.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25451175",
+    "time": "2025-10-25T09:10:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Верите в Медведева на «Мастерсе» в Париже? Тогда возьмите Даню в свою команду",
     "description": "Выберите теннисистов в Основе.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "15 фактов об Ангелине Мельниковой, которая верит в силу красной помады",
-    "description": "Наша суперчемпионка в гимнастике!",
-    "fullText": "Наша суперчемпионка в гимнастике!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/b6/45a1f8ec341648b2d63e08b410640.png",
+    "title": "Главные соперницы Петросян на Олимпиаде-2026: кто в порядке, а кто нет?",
+    "description": "У них есть ультра-си.",
+    "fullText": "У них есть ультра-си.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f0/829b225154f2bb37b7ddf9efd55e1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3359600.html",
-    "time": "2025-10-24T23:50:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3356199.html",
+    "time": "2025-10-25T04:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam вышел Malys — сюжетный карточный «роглайт» об экзорцисте от студии Дэвида Гейдера",
-    "description": "Стоимость игры в российском регионе составляет 550 рублей.",
-    "fullText": "Стоимость игры в российском регионе составляет 550 рублей.",
-    "image": "https://leonardo.osnova.io/2b4bb87f-bb55-50b2-b01e-1133f17d09cf/-/format/mp4/",
+    "title": "На Netflix вышел «Дом из динамита» — политический триллер с Ребеккой Фергюсон и Идрисом Эльбой",
+    "description": "Оценка фильма, который сняла постановщица Кэтрин Бигелоу («На гребне волны», «Повелитель бури»), составила 76 баллов на Metacritic.",
+    "fullText": "Оценка фильма, который сняла постановщица Кэтрин Бигелоу («На гребне волны», «Повелитель бури»), составила 76 баллов на Metacritic.",
+    "image": "https://leonardo.osnova.io/5dbc911c-d878-5970-af90-4dcccb478c13/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4108444-vyshel-malys-syuzhetnyy-kartochniy-roglayt-ot-devida-geydera?from=rss",
-    "time": "2025-10-24T12:26:37.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4108611-domizdinamita-na-netflix?from=rss",
+    "time": "2025-10-24T13:30:28.000Z"
   }
 ]
