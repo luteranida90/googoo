@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Герасимов проверил работу на передовых пунктах управления \"Центра\" в зоне СВО",
-    "description": "Группировка войск действует на красноармейском направлении",
-    "fullText": "Группировка войск действует на красноармейском направлении",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25450677",
-    "time": "2025-10-25T07:01:19.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Верите в Медведева на «Мастерсе» в Париже? Тогда возьмите Даню в свою команду",
     "description": "Выберите теннисистов в Основе.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему я скучаю без Хабиба в UFC",
-    "description": "Тихомиров – о пяти годах без чемпиона.",
-    "fullText": "Тихомиров – о пяти годах без чемпиона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/41/8712c80374118bf5472a20fe4ab79.jpeg",
+    "title": "15 фактов об Ангелине Мельниковой, которая верит в силу красной помады",
+    "description": "Наша суперчемпионка в гимнастике!",
+    "fullText": "Наша суперчемпионка в гимнастике!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/b6/45a1f8ec341648b2d63e08b410640.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3359532.html",
-    "time": "2025-10-24T21:42:00.000Z"
+    "url": "https://www.sports.ru/gymnastics/blogs/3359600.html",
+    "time": "2025-10-24T23:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фил Спенсер заверил, что в Xbox не заставляют разработчиков использовать ИИ",
-    "description": "А глава Take-Two Штраус Зельник в очередной раз заявил, что технология не способна заменить творчество людей.",
-    "fullText": "А глава Take-Two Штраус Зельник в очередной раз заявил, что технология не способна заменить творчество людей.",
-    "image": "https://leonardo.osnova.io/dc20a9b0-5128-5c6c-839d-2c6150d48627/",
+    "title": "В Steam вышел Malys — сюжетный карточный «роглайт» об экзорцисте от студии Дэвида Гейдера",
+    "description": "Стоимость игры в российском регионе составляет 550 рублей.",
+    "fullText": "Стоимость игры в российском регионе составляет 550 рублей.",
+    "image": "https://leonardo.osnova.io/2b4bb87f-bb55-50b2-b01e-1133f17d09cf/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4108064-fil-spenser-o-ii-v-xbox?from=rss",
-    "time": "2025-10-24T09:05:32.000Z"
+    "url": "https://dtf.ru/games/4108444-vyshel-malys-syuzhetnyy-kartochniy-roglayt-ot-devida-geydera?from=rss",
+    "time": "2025-10-24T12:26:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
