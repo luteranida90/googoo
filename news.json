@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ЦСКА возглавил турнирную таблицу РПЛ, обыграв \"Крылья Советов\"",
+    "description": "Встреча завершилась со счетом 1:0",
+    "fullText": "Встреча завершилась со счетом 1:0",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251025/8552265.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25453173",
+    "time": "2025-10-25T17:56:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9nb2wuZ28u",
     "title": "В чем Кейн сильнее Мбаппе и Холанда? Все ответы – в приложении ГОЛ",
     "description": "Скачивайте!",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://gol.go.link/eVQx2",
     "time": "2025-10-25T16:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Индонезии не стали комментировать санкции со стороны МОК",
-    "description": "Ранее МОК рекомендовал спортивным федерациям лишить Индонезию права на проведение международных турниров",
-    "fullText": "Ранее МОК рекомендовал спортивным федерациям лишить Индонезию права на проведение международных турниров",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25453005",
-    "time": "2025-10-25T16:25:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,26 +33,15 @@
     "time": "2025-10-25T16:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Как создавали «Кибердеревню»? Интервью с режиссером самого модного российского сериала",
-    "description": "О втором сезоне, сатире и киберпанке.",
-    "fullText": "О втором сезоне, сатире и киберпанке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/bd/48cef3d1e4f2fbfef2d6bb23402b7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3359438.html",
-    "time": "2025-10-25T14:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "50 лучших вратарей в истории НХЛ. Финал",
-    "description": "Места с 10-го по 1-е.",
-    "fullText": "Места с 10-го по 1-е.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/53/92f53c84b4afaad6781e6da877c2e.png",
+    "title": "Почему «Балтика» такая сухая?",
+    "description": "Объясняет Илья Васильев.",
+    "fullText": "Объясняет Илья Васильев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9f/3211a106049a7abc0c612990d35af.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3357440.html",
-    "time": "2025-10-25T13:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3358859.html",
+    "time": "2025-10-25T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
