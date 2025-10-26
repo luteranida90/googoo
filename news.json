@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Захарова: мягкая сила для Запада является лишь инструментом влияния",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250120/8017909.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/25455803",
-    "time": "2025-10-26T09:03:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Зенит» сыграет с «Динамо» в РПЛ. Как закончится матч?",
     "description": "Решайте с фрибетом до 15 000!",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/0viujq",
     "time": "2025-10-26T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У «Сити» забивает только Холанд. Это проблема?",
+    "description": "Команда одного игрока?",
+    "fullText": "Команда одного игрока?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/e252c3d84489d9b8b469b8a4a3fe2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3359613.html",
+    "time": "2025-10-26T05:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
@@ -33,17 +33,6 @@
     "time": "2025-10-26T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тяжелая победа Волкова в UFC – больше 10 минут пролежал под соперником в партере",
-    "description": "Кажется, подерется за пояс.",
-    "fullText": "Кажется, подерется за пояс.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/d9/d48de3f104ed1bbd73132cbfd8e30.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3359843.html",
-    "time": "2025-10-26T04:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "СМИ: Остин Батлер и Майкл Б. Джордан претендуют на главные роли в «Полиции Майами» Джозефа Косински",
     "description": "Криминальный триллер от автора «Топ Ган: Мэверик» и «Формулы-1» будет вдохновлён первым сезоном классического сериала 1980-х.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4109185-ostin-batler-i-majkl-b-dzhordan-v-politsii-majami?from=rss",
     "time": "2025-10-24T17:43:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
