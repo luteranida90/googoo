@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Степашин: гибридная третья мировая уже началась",
-    "description": "Бывший премьер-министр России считает, что Москва не проиграет в ней",
-    "fullText": "Бывший премьер-министр России считает, что Москва не проиграет в ней",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Собянин: силы ПВО сбили летевший на Москву БПЛА",
+    "description": "На месте падения обломков работают специалисты оперативных служб",
+    "fullText": "На месте падения обломков работают специалисты оперативных служб",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251026/8553141.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25457641",
-    "time": "2025-10-26T13:53:54.000Z"
+    "url": "https://tass.ru/proisshestviya/25457809",
+    "time": "2025-10-26T14:42:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Football Manager 26: первые впечатления. Крутые матчи, но что с интерфейсом?",
+    "description": "А еще много багов.",
+    "fullText": "А еще много багов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/79/adcfd61f9453faec5a0e062aedb1a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3359985.html",
+    "time": "2025-10-26T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9nb2wuZ28u",
@@ -45,24 +56,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Единственный матч Карпина против Семака. Как это было?",
-    "description": "Начало 90-х, пустая арена и телеграфные ставки.",
-    "fullText": "Начало 90-х, пустая арена и телеграфные ставки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/eb/d48085a734bb3b054b3cd41c4240c.jpeg",
+    "title": "Степанова – не голос российских лыж. Просто она кричит громче всех",
+    "description": "Реплика Владимира Иванова.",
+    "fullText": "Реплика Владимира Иванова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/88/20b2c22ca463ca14f1260f67d8e38.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3359916.html",
-    "time": "2025-10-26T09:45:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3359941.html",
+    "time": "2025-10-26T10:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Outer Worlds 2 от Obsidian вышла для владельцев Premium-издания",
-    "description": "За пять дней до общего релиза.",
-    "fullText": "За пять дней до общего релиза.",
-    "image": "https://leonardo.osnova.io/7e3a4d69-7f19-5d52-bb91-00f8f82917d0/-/format/mp4/",
+    "title": "Работает хуже, чем на Xbox: в DF протестировали The Outer Worlds 2 на ПК",
+    "description": "Проблемы типичные для Unreal Engine 5 — подтормаживания из-за компиляции шейдеров и в открытом мире.",
+    "fullText": "Проблемы типичные для Unreal Engine 5 — подтормаживания из-за компиляции шейдеров и в открытом мире.",
+    "image": "https://leonardo.osnova.io/d35fa27d-fa2d-5653-ba7d-4635c9006fe7/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4109039-the-outer-worlds-2-premium-izdaniya?from=rss",
-    "time": "2025-10-24T17:00:38.000Z"
+    "url": "https://dtf.ru/hard/4108606-problemy-proizvoditelnosti-the-outer-worlds-2-na-pk?from=rss",
+    "time": "2025-10-24T14:15:18.000Z"
   }
 ]
