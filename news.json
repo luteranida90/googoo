@@ -11,17 +11,6 @@
     "time": "2025-10-26T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин: СВО нужно продолжать в соответствии с замыслом",
-    "description": "Глава государства отметил успехи российской армии по окружению группировки противника в районе Красноармейска и Димитрова",
-    "fullText": "Глава государства отметил успехи российской армии по окружению группировки противника в районе Красноармейска и Димитрова",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250131/8038683.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25455083",
-    "time": "2025-10-26T06:54:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "«Сити» едет к очнувшейся «Астон Вилле». Угадайте счет матча в Предикторе",
     "description": "Эмери против Пепа.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тычок в глаз, который сорвал титульник UFC. Грязь?",
-    "description": "Разочарование вечера.",
-    "fullText": "Разочарование вечера.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/00/119998d064d6f84296c54a5325b4b.jpeg",
+    "title": "Юран уходит от Садыгова и в Турции: не платят. Говорят, даже послал самого Туфана",
+    "description": "«О каком футболе речь?»",
+    "fullText": "«О каком футболе речь?»",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/3e/06b2cd4fa49ae8f64017d2d69c3b9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3359912.html",
-    "time": "2025-10-25T22:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3359913.html",
+    "time": "2025-10-26T00:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4109185-ostin-batler-i-majkl-b-dzhordan-v-politsii-majami?from=rss",
     "time": "2025-10-24T17:43:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
