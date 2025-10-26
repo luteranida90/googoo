@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пловец Бородин рассказал, что не хотел бы встретиться с крокодилом в воде",
+    "description": "Ранее стало известно, что река Фицрой, где водятся крокодилы, может стать олимпийским объектом на Играх 2032 года в Австралии",
+    "fullText": "Ранее стало известно, что река Фицрой, где водятся крокодилы, может стать олимпийским объектом на Играх 2032 года в Австралии",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251026/8552799.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25456307",
+    "time": "2025-10-26T10:05:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Зенит» сыграет с «Динамо» в РПЛ. Как закончится матч?",
     "description": "Решайте с фрибетом до 15 000!",
@@ -12,46 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Сити» забивает только Холанд. Это проблема?",
-    "description": "Команда одного игрока?",
-    "fullText": "Команда одного игрока?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/e252c3d84489d9b8b469b8a4a3fe2.jpeg",
+    "title": "А как теперь Слуцкому стать чемпионом?",
+    "description": "Календарь и расклады.",
+    "fullText": "Календарь и расклады.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/a6/902f737c04f13885b7c98eaf7f81d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3359613.html",
-    "time": "2025-10-26T05:01:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90Lm1lL3Np",
-    "title": "«Сити» едет к очнувшейся «Астон Вилле». Угадайте счет матча в Предикторе",
-    "description": "Эмери против Пепа.",
-    "fullText": "Эмери против Пепа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ae/77a7b1f5e4f23b4284085e484898d.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/sirena_predictor_bot?start=tg_native",
-    "time": "2025-10-26T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3359591.html",
+    "time": "2025-10-26T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Остин Батлер и Майкл Б. Джордан претендуют на главные роли в «Полиции Майами» Джозефа Косински",
-    "description": "Криминальный триллер от автора «Топ Ган: Мэверик» и «Формулы-1» будет вдохновлён первым сезоном классического сериала 1980-х.",
-    "fullText": "Криминальный триллер от автора «Топ Ган: Мэверик» и «Формулы-1» будет вдохновлён первым сезоном классического сериала 1980-х.",
-    "image": "https://leonardo.osnova.io/ce2d0fb6-f970-561c-9e6d-446a49d4e866/",
+    "title": "«Оттепель, заработало»: российские игроки сообщили, что проблемы с подключением к Battlefield 6 исчезли",
+    "description": "Те, кто вернули средства за шутер, явно поторопились.",
+    "fullText": "Те, кто вернули средства за шутер, явно поторопились.",
+    "image": "https://leonardo.osnova.io/17767b37-25a1-5ea6-86af-2a6d46a2abb9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4109185-ostin-batler-i-majkl-b-dzhordan-v-politsii-majami?from=rss",
-    "time": "2025-10-24T17:43:28.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4108793-problemy-s-battlefield-6-v-rossii-resheny?from=rss",
+    "time": "2025-10-24T14:59:21.000Z"
   }
 ]
