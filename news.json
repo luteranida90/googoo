@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Калининграде камерный оркестр Лундстрема впервые исполнил \"Волшебную флейту\"",
+    "description": "Премьера прошла в рамках церемонии открытия школы-фестиваля",
+    "fullText": "Премьера прошла в рамках церемонии открытия школы-фестиваля",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25459223",
+    "time": "2025-10-26T19:38:08.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Больше 10 клубов этого сезона Ла Лиги играли в ЛЧ. Назовете хотя бы шесть?",
     "description": "Испытайте себя в «Клубах на карте».",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первый супертрансфер «Реала». Самора стоил как стадион и чудом спасся от расстрела",
-    "description": "И сверкал в «Барселоне».",
-    "fullText": "И сверкал в «Барселоне».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f2/209d3fb5b41e5aa340fcd8e4eff67.png",
+    "title": "Мегаразвязка: на 90+5 из убойной точки в перекладину – и «Кайрат» чемпион!",
+    "description": "«Астана» была так близко.",
+    "fullText": "«Астана» была так близко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/20/062858a6f4d9d8c18abcd4cd7e799.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3355590.html",
-    "time": "2025-10-26T15:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360018.html",
+    "time": "2025-10-26T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4108606-problemy-proizvoditelnosti-the-outer-worlds-2-na-pk?from=rss",
     "time": "2025-10-24T14:15:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
