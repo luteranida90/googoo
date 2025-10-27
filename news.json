@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Даниил Медведев обошел Хачанова и вновь стал первой ракеткой России",
-    "description": "Теннисист поднялся на 13-е место в рейтинге",
-    "fullText": "Теннисист поднялся на 13-е место в рейтинге",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25461183",
-    "time": "2025-10-27T04:22:15.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вот такая лего-сова прилетит к вам после теста о FONBET Кубке России",
     "description": "Набирайте баллы и ждите письма.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4108606-problemy-proizvoditelnosti-the-outer-worlds-2-na-pk?from=rss",
     "time": "2025-10-24T14:15:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
