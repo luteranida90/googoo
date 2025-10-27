@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Все больше компаний проходят второй этап ЭКГ-рейтинга",
+    "description": "Управляющий директор \"Казанькомпрессормаша\" Ильнур Сагдиев рассказал, что благодаря анкетированию предприятие смогло не только повысить свой рейтинг, но и принять новые решения по доработке социального пакета",
+    "fullText": "Управляющий директор \"Казанькомпрессормаша\" Ильнур Сагдиев рассказал, что благодаря анкетированию предприятие смогло не только повысить свой рейтинг, но и принять новые решения по доработке социального пакета",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25469337",
+    "time": "2025-10-27T18:52:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
     "description": "Раньше было ярче...",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Петросян прямо сейчас – далеко не лучшая в мире",
-    "description": "Будет ли медаль в Милане?",
-    "fullText": "Будет ли медаль в Милане?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/cb/f9652543948859d0d0a7c177075be.jpeg",
+    "title": "Стадионы в Италии не принадлежат клубам – это наследие Муссолини",
+    "description": "Рассказывает Юрий Истомин.",
+    "fullText": "Рассказывает Юрий Истомин.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d2/1500caee34f00a2d6af3eca215015.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3360107.html",
-    "time": "2025-10-27T14:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3359832.html",
+    "time": "2025-10-27T14:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фил Спенсер заявил, что серия Forza Motorsport не мертва, но в Xbox сфокусированы на играх, релиз которых «должен состояться раньше»",
-    "description": "Иными словами, следующую часть пока можно не ждать.",
-    "fullText": "Иными словами, следующую часть пока можно не ждать.",
-    "image": "https://leonardo.osnova.io/0fc0081e-06dc-5794-b823-4ad3c9f5e179/",
+    "title": "Escape from Duckov достигла 300 тысяч одновременных игроков в Steam и попала в топ-50 по онлайну на платформе",
+    "description": "Одиночный extraction-шутер улучшил свои показатели на вторые выходные после релиза.",
+    "fullText": "Одиночный extraction-шутер улучшил свои показатели на вторые выходные после релиза.",
+    "image": "https://leonardo.osnova.io/f0ff4654-5c5d-5cd7-86a0-e2e1f8bff89a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4114866-fil-spenser-o-forza-motorsport-igra-ne-mertva?from=rss",
-    "time": "2025-10-27T10:50:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4115221-escape-from-dukov-300-tysyach-igrokov?from=rss",
+    "time": "2025-10-27T13:48:34.000Z"
   }
 ]
