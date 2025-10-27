@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ИКИ РАН предположили, что яркий болид над Подмосковьем мог быть астероидом",
-    "description": "При этом специалисты подчеркнули, что природа объекта пока остается не вполне понятной.",
-    "fullText": "При этом специалисты подчеркнули, что природа объекта пока остается не вполне понятной.",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/25468861",
-    "time": "2025-10-27T17:04:49.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
     "description": "Раньше было ярче...",
@@ -23,35 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Драться с одним глазом – обычное дело». Чемпиона UFC захейтили за снятие с титульника",
-    "description": "А он снял про это фильм.",
-    "fullText": "А он снял про это фильм.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/c8/687dbb8e9413abf6b20d4d577c7ae.jpeg",
+    "title": "Петросян прямо сейчас – далеко не лучшая в мире",
+    "description": "Будет ли медаль в Милане?",
+    "fullText": "Будет ли медаль в Милане?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/cb/f9652543948859d0d0a7c177075be.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3360176.html",
-    "time": "2025-10-27T14:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Россия разгромила Северную Македонию – 5:0. Смотрите полный матч сборной Красножана",
-    "description": "Комментатор: Андрей Кусков.",
-    "fullText": "Комментатор: Андрей Кусков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/05/23847d25e4535bf3272ae6a6062c6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/9bg_aAOVSZV-jPCjmHjAVG6uvggX5Yvf9ojzfdn4fhw",
-    "time": "2025-10-27T14:00:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3360107.html",
+    "time": "2025-10-27T14:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Правил нет»: трейлер сериала Last Samurai Standing от Netflix",
-    "description": "Шоу выйдет 13 ноября.",
-    "fullText": "Шоу выйдет 13 ноября.",
-    "image": "https://leonardo.osnova.io/169d6e4b-1090-5ab3-aaa5-d666dda6c5f2/-/format/mp4/",
+    "title": "Фил Спенсер заявил, что серия Forza Motorsport не мертва, но в Xbox сфокусированы на играх, релиз которых «должен состояться раньше»",
+    "description": "Иными словами, следующую часть пока можно не ждать.",
+    "fullText": "Иными словами, следующую часть пока можно не ждать.",
+    "image": "https://leonardo.osnova.io/0fc0081e-06dc-5794-b823-4ad3c9f5e179/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4114688-treyler-seriala-last-samurai-standing?from=rss",
-    "time": "2025-10-27T09:04:41.000Z"
+    "url": "https://dtf.ru/games/4114866-fil-spenser-o-forza-motorsport-igra-ne-mertva?from=rss",
+    "time": "2025-10-27T10:50:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
