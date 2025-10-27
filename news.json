@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Карелии намерены создать турмаршрут по фильму \"А зори здесь тихие\"",
-    "description": "Считаем это важным нашим достоянием, отметил глава республики Артур Парфенчиков",
-    "fullText": "Считаем это важным нашим достоянием, отметил глава республики Артур Парфенчиков",
+    "title": "В Петербурге девушку отправили в колонию-поселение за сожжение паспорта",
+    "description": "Суд назначил наказание в виде лишения свободы сроком на 2 года",
+    "fullText": "Суд назначил наказание в виде лишения свободы сроком на 2 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25467573",
-    "time": "2025-10-27T14:30:09.000Z"
+    "url": "https://tass.ru/proisshestviya/25468005",
+    "time": "2025-10-27T15:12:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2025-10-27T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лидеры «Ф-1» дружно срезали повороты, но наказали только Хэмилтона. Неужели справедливо?",
+    "description": "Размытые правила.",
+    "fullText": "Размытые правила.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/fe/32d768a7a4712a13f6ff1ab0b8f73.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3360103.html",
+    "time": "2025-10-27T12:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "От дебюта в 2005-м до рекорда Гретцки. Игра-экскурсия по карьере Овечкина!",
     "description": "Вам точно понравится!",
@@ -33,25 +44,14 @@
     "time": "2025-10-27T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Степанова – не голос российских лыж. Просто она кричит громче всех",
-    "description": "Реплика Владимира Иванова.",
-    "fullText": "Реплика Владимира Иванова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/88/20b2c22ca463ca14f1260f67d8e38.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3359941.html",
-    "time": "2025-10-27T10:31:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Fatshark собирается развивать сюжет Darktide с будущими обновлениями",
-    "description": "Повествование не всегда будут привязывать к новому классу.",
-    "fullText": "Повествование не всегда будут привязывать к новому классу.",
-    "image": "https://leonardo.osnova.io/c4e567fb-d548-578a-8df9-23b1317f5cba/",
+    "title": "На HBO Max стартовал сериал «Оно: Добро пожаловать в Дерри»",
+    "description": "Возвращение во вселенную на ближайшие полтора месяца.",
+    "fullText": "Возвращение во вселенную на ближайшие полтора месяца.",
+    "image": "https://leonardo.osnova.io/ecfc211e-c66e-5030-9b2f-d77aa23f940e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4114458-fatshark-budet-razvivat-syuzhet-darktide?from=rss",
-    "time": "2025-10-27T07:08:41.000Z"
+    "url": "https://dtf.ru/cinema/4114457-serial-ono-dobro-pozhalovat-v-derri?from=rss",
+    "time": "2025-10-27T07:00:17.000Z"
   }
 ]
