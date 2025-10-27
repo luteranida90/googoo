@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп рассчитывает посетить Китай в начале 2026 года",
+    "description": "Американский лидер выразил надежду, что председатель КНР Си Цзиньпин нанесет ответный визит в США",
+    "fullText": "Американский лидер выразил надежду, что председатель КНР Си Цзиньпин нанесет ответный визит в США",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25461909",
+    "time": "2025-10-27T06:37:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вот такая лего-сова прилетит к вам после теста о FONBET Кубке России",
     "description": "Набирайте баллы и ждите письма.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Защита «Динамо» – карикатура",
-    "description": "Разочаровывают вообще во всем.",
-    "fullText": "Разочаровывают вообще во всем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/30/b4b85c45b4fa7aa0d4a7e3dfecdd2.jpeg",
+    "title": "Ну как же так, Леонид! Оба конкурента ошиблись, а Слуцкий не обыграл середняка – упустил чемпионство?",
+    "description": "На 100-й только сравняли.",
+    "fullText": "На 100-й только сравняли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/8b/ace97a0724ec4839832bcef90d650.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360055.html",
-    "time": "2025-10-26T20:03:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360008.html",
+    "time": "2025-10-26T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Работает хуже, чем на Xbox: в DF протестировали The Outer Worlds 2 на ПК",
-    "description": "Проблемы типичные для Unreal Engine 5 — подтормаживания из-за компиляции шейдеров и в открытом мире.",
-    "fullText": "Проблемы типичные для Unreal Engine 5 — подтормаживания из-за компиляции шейдеров и в открытом мире.",
-    "image": "https://leonardo.osnova.io/d35fa27d-fa2d-5653-ba7d-4635c9006fe7/-/format/mp4/",
+    "title": "«Знай своего врага»: трейлер ARC Raiders",
+    "description": "Посвящённый роботам всех форм и размеров.",
+    "fullText": "Посвящённый роботам всех форм и размеров.",
+    "image": "https://leonardo.osnova.io/0792237f-38bf-58e8-87ce-c66f3065f788/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4108606-problemy-proizvoditelnosti-the-outer-worlds-2-na-pk?from=rss",
-    "time": "2025-10-24T14:15:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4109459-arc-raiders-treiler-novogo-shutera-ot-studii-embark?from=rss",
+    "time": "2025-10-24T19:42:05.000Z"
   }
 ]
