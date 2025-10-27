@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве и Подмосковье 27 октября после 21:00 мск начнется сильный дождь",
-    "description": "В Гидрометцентре РФ сообщили, что ночью на фоне облачной погоды и осадков воздух в столице прогреется до 4-6 градусов",
-    "fullText": "В Гидрометцентре РФ сообщили, что ночью на фоне облачной погоды и осадков воздух в столице прогреется до 4-6 градусов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Чекунков: мастер-планы АЗРФ стратегически важны для логистики Севморпути",
+    "description": "В перечень включены 19 опорных населенных пунктов, которые играют роль в обеспечении обороноспособности и безопасности страны",
+    "fullText": "В перечень включены 19 опорных населенных пунктов, которые играют роль в обеспечении обороноспособности и безопасности страны",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250618/8296995.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25465421",
-    "time": "2025-10-27T11:31:38.000Z"
+    "url": "https://tass.ru/ekonomika/25466397",
+    "time": "2025-10-27T13:26:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Россия vs Северная Македония – смотрим женскую сборную Красножана в прямом эфире на ВидеоСпортсе’‘",
+    "description": "Комментатор: Андрей Кусков.",
+    "fullText": "Комментатор: Андрей Кусков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/05/23847d25e4535bf3272ae6a6062c6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/9bg_aAOVSZV-jPCjmHjAVG6uvggX5Yvf9ojzfdn4fhw",
+    "time": "2025-10-27T12:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дмитрий – первое имя Кучерова в НХЛ. Что-о-о-о?",
-    "description": "Да.",
-    "fullText": "Да.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/8e/0fe6f412f4ebbbe234eb056432a45.jpeg",
+    "title": "Кто выше в таблице? А кто забил больше? Сравниваем «МЮ» и «Ливерпуль»",
+    "description": "Тест про страдальцев.",
+    "fullText": "Тест про страдальцев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/42/c5bd969584db5b156281c057150c7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3357922.html",
-    "time": "2025-10-27T08:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360117.html",
+    "time": "2025-10-27T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Завершились съёмки сериала «Кэрри» по роману Стивена Кинга",
-    "description": "Над ним работают Amazon MGM и режиссёр Майк Флэнаган.",
-    "fullText": "Над ним работают Amazon MGM и режиссёр Майк Флэнаган.",
-    "image": "https://leonardo.osnova.io/baba4323-f7e5-599e-9155-2dc27881384a/",
+    "title": "Аниме «Человек-бензопила: История Резе» возглавило прокат в США",
+    "description": "А байопик про Брюса Спрингстина показал неудачный старт.",
+    "fullText": "А байопик про Брюса Спрингстина показал неудачный старт.",
+    "image": "https://leonardo.osnova.io/03dbd6f9-0777-567e-b1b8-5019c748d38d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4112441-zavershilis-semki-seriala-kerri-po-romanu-stivena-kinga?from=rss",
-    "time": "2025-10-26T08:43:31.000Z"
+    "url": "https://dtf.ru/cinema/4113225-anime-chelovek-benzopila-prokat-ssha?from=rss",
+    "time": "2025-10-26T15:26:42.000Z"
   }
 ]
