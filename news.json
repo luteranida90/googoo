@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Казани пройдет инвестиционный форум ВТБ \"Россия зовет!\"",
-    "description": "В мероприятии примут участие частные инвесторы, представители компаний и регулятора",
-    "fullText": "В мероприятии примут участие частные инвесторы, представители компаний и регулятора",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У России два чемпиона мира по боксу, у США – в 10 раз больше. Почему?",
+    "description": "Посчитали всех.",
+    "fullText": "Посчитали всех.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/87/05c4cb5514bf7907c2636c6993029.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25469685",
-    "time": "2025-10-27T21:04:33.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3358875.html",
+    "time": "2025-10-27T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-10-27T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Да в жопу! Я ухожу из команды!» Истерика Винисиуса из-за замены в класико: так орал на своих",
-    "description": "Обновленная картина.",
-    "fullText": "Обновленная картина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/68/7bef09eeb43a5a7e0e43d0bfb0dd9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360051.html",
-    "time": "2025-10-27T17:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Sony не заинтересована в покупке активов Warner Bros. Discovery — в компании сфокусированы на растущих рынках",
     "description": "Например, аниме.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4115073-sony-ne-nameren-pokupat-aktivy-warner-bros-discovery?from=rss",
     "time": "2025-10-27T12:27:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
