@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: Путин 28 октября проведет несколько селекторных звонков с министрами",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250113/8004219.jpg",
+    "title": "Гид по задачам машинного обучения. Как искусственный интеллект программирует сам себя",
+    "description": "Машинное обучение (ML, от англ. machine learning) — это область искусственного интеллекта, в которой алгоритмы обучаются находить закономерности в данных и принимать решения на основе полученного опыта. Рассказываем основные принципы такого подхода, сводящего к минимуму участие человека",
+    "fullText": "Машинное обучение (ML, от англ. machine learning) — это область искусственного интеллекта, в которой алгоритмы обучаются находить закономерности в данных и принимать решения на основе полученного опыта. Рассказываем основные принципы такого подхода, сводящего к минимуму участие человека",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25474461",
-    "time": "2025-10-28T09:26:58.000Z"
+    "url": "https://tass.ru/obschestvo/25421117",
+    "time": "2025-10-28T10:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Психи Винисиуса – это неприемлемо. Но не слишком ли суров Алонсо?",
-    "description": "Колонка об эмоциях в «Реале».",
-    "fullText": "Колонка об эмоциях в «Реале».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/48/ff76834fd438e81944bcf24f7c7c9.jpeg",
+    "title": "Новое супероружие «Бостона»: Джейлен Браун окрашивает соперников своей прической",
+    "description": "Контрабандный товар?",
+    "fullText": "Контрабандный товар?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/72/8750aaa7e40dab0bdcb683e49ea6d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360272.html",
-    "time": "2025-10-27T22:10:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3360157.html",
+    "time": "2025-10-28T03:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Variety: спин-офф «Однажды в… Голливуде» с Брэдом Питтом планируют выпустить летом 2026 года",
-    "description": "Фильм Дэвида Финчера может получить широкий прокат.",
-    "fullText": "Фильм Дэвида Финчера может получить широкий прокат.",
-    "image": "https://leonardo.osnova.io/c0425a70-c1a3-5410-b3f1-cf46ac696cbf/",
+    "title": "«Вступай. Борись»: релизный трейлер ARC Raiders",
+    "description": "Игра выйдет 30 октября на ПК, Xbox Series X|S и PS5.",
+    "fullText": "Игра выйдет 30 октября на ПК, Xbox Series X|S и PS5.",
+    "image": "https://leonardo.osnova.io/c905924f-cda1-5171-99bc-190f8efb8bb4/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4115977-spin-off-odnazhdy-v-gollivude-s-bradom-pittom-vyidet-v-2026-godu?from=rss",
-    "time": "2025-10-27T19:37:28.000Z"
+    "url": "https://dtf.ru/games/4115540-reliznyj-trejler-arc-raiders?from=rss",
+    "time": "2025-10-27T16:06:21.000Z"
   }
 ]
