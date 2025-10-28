@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В поселке на Камчатке зафиксировали ураганный ветер с порывами до 42 м/с",
+    "description": "Штормовое предупреждение сохранится до 07:00 мск 29 октября",
+    "fullText": "Штормовое предупреждение сохранится до 07:00 мск 29 октября",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25471767",
+    "time": "2025-10-28T06:33:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вот такая лего-сова прилетит к вам после теста о FONBET Кубке России",
     "description": "Набирайте баллы и ждите письма.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что случилось на Гран-при Мексики: Ферстаппену подарили подиум, Хэмилтон – провал!",
-    "description": "Все обгоны и быстрые мысли.",
-    "fullText": "Все обгоны и быстрые мысли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b4/9b6b3120f4995b9d0f2c0b9e71ab4.jpeg",
+    "title": "Я выиграл поездку на «Мастерс» ATP в Шанхае и вживую увидел Джоковича, Медведева и Федерера",
+    "description": "Рассказ победителя.",
+    "fullText": "Рассказ победителя.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/5c/2ae6472c54540bf3848cd1d7e3d65.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3359714.html",
-    "time": "2025-10-27T18:30:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3359365.html",
+    "time": "2025-10-27T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony не заинтересована в покупке активов Warner Bros. Discovery — в компании сфокусированы на растущих рынках",
-    "description": "Например, аниме.",
-    "fullText": "Например, аниме.",
-    "image": "https://leonardo.osnova.io/b4321a66-3546-5302-a182-f6be102f3550/",
+    "title": "Авторы Vampire: The Masquerade — Bloodhunt объявили о закрытии серверов в апреле 2026 года",
+    "description": "«Над Прагой взойдёт солнце».",
+    "fullText": "«Над Прагой взойдёт солнце».",
+    "image": "https://leonardo.osnova.io/4c484042-5384-57b3-a1cf-73734f6c3809/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4115073-sony-ne-nameren-pokupat-aktivy-warner-bros-discovery?from=rss",
-    "time": "2025-10-27T12:27:27.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4114991-zakrytie-serverov-vampire-the-masquerade-bloodhunt?from=rss",
+    "time": "2025-10-27T11:42:20.000Z"
   }
 ]
