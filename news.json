@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Спартак\" прервал серию ЦСКА из четырех побед в КХЛ",
+    "description": "Победную шайбу на последней минуте забросил Адам Ружичка",
+    "fullText": "Победную шайбу на последней минуте забросил Адам Ружичка",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251028/8558905.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25480921",
+    "time": "2025-10-28T18:53:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Cамые недооцененные футболисты мира. Кто и почему – спор на ВидеоСпортсе’‘",
     "description": "С участием Алхазова и Журавлева.",
@@ -11,36 +22,25 @@
     "time": "2025-10-28T18:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Старой Руссе впервые за 52 года модернизируют старейшую картинную галерею",
-    "description": "Также будет проведен текущий ремонт и реставрация кровли старорусского Спасо-Преображенского монастыря, где расположена галерея",
-    "fullText": "Также будет проведен текущий ремонт и реставрация кровли старорусского Спасо-Преображенского монастыря, где расположена галерея",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/25480547",
-    "time": "2025-10-28T18:16:29.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В Турции массово поймали судей на ставках. 152 человека!",
-    "description": "Операция «Чистые руки».",
-    "fullText": "Операция «Чистые руки».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/f6/dfb84bde6411b9012ff9e3b661b6a.jpeg",
+    "title": "«Парень, которого оставили без присмотра, сильно облажался». В Испании мочат Ямаля после класико",
+    "description": "Недоволен даже Рафинья.",
+    "fullText": "Недоволен даже Рафинья.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/b8/20d395ebe4d5b9b2add449dfff290.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3360371.html",
-    "time": "2025-10-28T13:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360279.html",
+    "time": "2025-10-28T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фанаты Bully представили онлайн-режим для игры",
-    "description": "Доступ к моду начнут открывать в декабре.",
-    "fullText": "Доступ к моду начнут открывать в декабре.",
-    "image": "https://leonardo.osnova.io/4650b16b-c347-5716-a602-d637b5a7c13e/-/format/mp4/",
+    "title": "Продажи Escape from Duckov достигли двух миллионов копий",
+    "description": "Кря.",
+    "fullText": "Кря.",
+    "image": "https://leonardo.osnova.io/7c34cf95-4ca8-5bfa-9499-eb2c13b37f8f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4116661-bully-onlajn-rezhim-fanaty-predstavili-novyy-mod?from=rss",
-    "time": "2025-10-28T08:18:42.000Z"
+    "url": "https://dtf.ru/gameindustry/4116982-prodazhi-escape-from-dukov-dostigli-2-millionov-kopiy?from=rss",
+    "time": "2025-10-28T10:48:03.000Z"
   }
 ]
