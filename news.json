@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эйсмонт: \"Орешник\" поставят на боевое дежурство в Белоруссии в декабре",
-    "description": "",
-    "fullText": "",
+    "title": "Россияне не обращались в посольство РФ на Ямайке из-за урагана",
+    "description": "Пока метеорологическая ситуация в столичном регионе некритическая, но в некоторых районах острова уже довольно настораживающая, сообщил пресс-секретарь диппредставительства Константин Пашуто",
+    "fullText": "Пока метеорологическая ситуация в столичном регионе некритическая, но в некоторых районах острова уже довольно настораживающая, сообщил пресс-секретарь диппредставительства Константин Пашуто",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25480261",
-    "time": "2025-10-28T16:36:03.000Z"
+    "url": "https://tass.ru/obschestvo/25480445",
+    "time": "2025-10-28T17:11:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кучеров – гений. Но в историю войдет вместе с командой",
+    "description": "Идеальный мэтч.",
+    "fullText": "Идеальный мэтч.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/53/f464649034284b963844135ec7660.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3360130.html",
+    "time": "2025-10-28T12:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,25 +33,14 @@
     "time": "2025-10-28T12:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Необычный бросок дня – что на этот раз придумал Виктор Вембаньяма?",
-    "description": "Хайлайт-машина НБА.",
-    "fullText": "Хайлайт-машина НБА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b1/2af6bfa1f4032a2fc324896ca4f2c.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3360384.html",
-    "time": "2025-10-28T11:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Мультиплеер Call of Duty: Black Ops 6 вновь сделают бесплатным — в день запуска сезона Battlefield 6",
-    "description": "Но без сюжетной кампании.",
-    "fullText": "Но без сюжетной кампании.",
-    "image": "https://leonardo.osnova.io/a78bf5b8-5a00-5c8a-9026-8d6142a76377/",
+    "title": "Авторы Civilization VII тестируют возможность играть за одну цивилизацию на протяжении нескольких веков",
+    "description": "Это «одна из самых запрашиваемых особенностей».",
+    "fullText": "Это «одна из самых запрашиваемых особенностей».",
+    "image": "https://leonardo.osnova.io/27e9129d-f271-504c-9cae-009f5ba6fec8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4116519-multiplayer-call-of-duty-black-ops-6-besplatnyj-battlefield-6?from=rss",
-    "time": "2025-10-28T06:31:49.000Z"
+    "url": "https://dtf.ru/games/4116876-civilization-vii-vozmozhnost-igrat-za-odnu-tsivilizatsiyu-na-veka?from=rss",
+    "time": "2025-10-28T10:03:08.000Z"
   }
 ]
