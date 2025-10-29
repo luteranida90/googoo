@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин: все, кто находится на фронте, ведут себя героически",
+    "title": "Всемирный банк: геополитическая напряженность может привести к повышению цен на нефть",
     "description": "",
     "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529905.jpg",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25487871",
-    "time": "2025-10-29T11:35:15.000Z"
+    "url": "https://tass.ru/ekonomika/25489641",
+    "time": "2025-10-29T13:32:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Мэддисон взял «Динамо» в Football Manager 26. Показать Карпину, как рулить клубом",
+    "description": "Назвал Фомина «русским Лэмпардом».",
+    "fullText": "Назвал Фомина «русским Лэмпардом».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/c9/9442dcfc346578b306850a36b2435.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3360585.html",
+    "time": "2025-10-29T12:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,25 @@
     "time": "2025-10-29T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90Lm1lL3Np",
-    "title": "У какого из этих клубов на эмблеме нет орла?",
-    "description": "И другие вопросы в «Квиз-боте».",
-    "fullText": "И другие вопросы в «Квиз-боте».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1e/f4f63dd904b1bbf8df2b860c2eba9.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/sirena_quiz_bot?start=tg_native",
-    "time": "2025-10-29T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Захарян забил «Негрейре»!",
-    "description": "Первый гол в сезоне.",
-    "fullText": "Первый гол в сезоне.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/32/406d25a6647889526f7351b4302c6.jpeg",
+    "title": "Дорофеев накидал уже 9 шайб! Идет за «Ришаром»?",
+    "description": "А Свечников забросил первую.",
+    "fullText": "А Свечников забросил первую.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/26/ecd1e0d3b47278f686d5172ddaa29.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360513.html",
-    "time": "2025-10-29T06:11:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3360528.html",
+    "time": "2025-10-29T07:43:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sci-fi-хоррор Routine выйдет 4 декабря — его анонсировали ещё в 2012 году",
-    "description": "Долгострой наконец доберётся до релиза.",
-    "fullText": "Долгострой наконец доберётся до релиза.",
-    "image": "https://leonardo.osnova.io/57de6f67-f019-5167-98a9-f8f0d248430d/-/format/mp4/",
+    "title": "Стримеры The Sims 4 устроили протест против продажи EA саудовскому фонду",
+    "description": "«Ценности новых владельцев EA полностью противоречат духу сообщества The Sims».",
+    "fullText": "«Ценности новых владельцев EA полностью противоречат духу сообщества The Sims».",
+    "image": "https://leonardo.osnova.io/5d85371e-98a1-5b58-94b6-2d43e886813d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4118061-nauchnofantasticheskiy-horror-routine-vyydet-4-dekabrya?from=rss",
-    "time": "2025-10-28T19:38:36.000Z"
+    "url": "https://dtf.ru/gameindustry/4118160-protest-streamerov-the-sims-4-protiv-prodazhi-ea-saudovskomu-fondu?from=rss",
+    "time": "2025-10-28T20:03:38.000Z"
   }
 ]
