@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: \"Орешник\" позволит Белоруссии \"завтра\" ощутить себя в безопасности",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250528/8259135.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/25490347",
-    "time": "2025-10-29T14:29:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Мэддисон взял «Динамо» в Football Manager 26. Показать Карпину, как рулить клубом",
     "description": "Назвал Фомина «русским Лэмпардом».",
@@ -23,35 +12,46 @@
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
-    "description": "Фото справа сделано, когда Ямаль еще не родился.",
-    "fullText": "Фото справа сделано, когда Ямаль еще не родился.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/1a/fbb9866bf4ccda5de2078dffc832e.png",
+    "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
+    "description": "Только он догоняет, а не убегает.",
+    "fullText": "Только он догоняет, а не убегает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/aa/adcf42a654e9894fe408d6413a1f5.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-29T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Crusader Kings III вышло крупное дополнение All Under Heaven про Азию",
-    "description": "Оно получает очень положительные отзывы от игроков в Steam.",
-    "fullText": "Оно получает очень положительные отзывы от игроков в Steam.",
-    "image": "https://leonardo.osnova.io/6e2a144d-37c2-5372-a40f-c1b46bb5278d/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4118886-obnovlenie-all-under-heaven-dlya-crusader-kings-iii?from=rss",
-    "time": "2025-10-29T08:00:07.000Z"
+    "url": "https://sirena.world/iha53v",
+    "time": "2025-10-29T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сможет ли Кучеров догнать Овечкина?",
-    "description": "По очкам, только по очкам.",
-    "fullText": "По очкам, только по очкам.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/26/8d82be12245379e3d550249b89f62.jpeg",
+    "title": "Рентген-столы и меченые карты: как работала покерная схема, за которую судят Биллапса?",
+    "description": "В деле итало-американская мафия.",
+    "fullText": "В деле итало-американская мафия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b5/7b973a34e4a21a70af26ece29a641.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3360159.html",
-    "time": "2025-10-29T07:54:00.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3360333.html",
+    "time": "2025-10-29T11:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Для Vampire Survivors вышло бесплатное обновление-кроссовер с Balatro",
+    "description": "А также новый патч с онлайн-кооперативом.",
+    "fullText": "А также новый патч с онлайн-кооперативом.",
+    "image": "https://leonardo.osnova.io/f84456c7-4c87-5ead-9d16-04f5b08de885/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4118736-obnovlenie-dlya-vampire-survivors-s-krossoverom-balatro?from=rss",
+    "time": "2025-10-29T06:56:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
