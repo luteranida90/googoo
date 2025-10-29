@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Всемирный банк: геополитическая напряженность может привести к повышению цен на нефть",
+    "title": "Песков: \"Орешник\" позволит Белоруссии \"завтра\" ощутить себя в безопасности",
     "description": "",
     "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250528/8259135.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25489641",
-    "time": "2025-10-29T13:32:36.000Z"
+    "url": "https://tass.ru/politika/25490347",
+    "time": "2025-10-29T14:29:41.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,25 +33,25 @@
     "time": "2025-10-29T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дорофеев накидал уже 9 шайб! Идет за «Ришаром»?",
-    "description": "А Свечников забросил первую.",
-    "fullText": "А Свечников забросил первую.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/26/ecd1e0d3b47278f686d5172ddaa29.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3360528.html",
-    "time": "2025-10-29T07:43:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стримеры The Sims 4 устроили протест против продажи EA саудовскому фонду",
-    "description": "«Ценности новых владельцев EA полностью противоречат духу сообщества The Sims».",
-    "fullText": "«Ценности новых владельцев EA полностью противоречат духу сообщества The Sims».",
-    "image": "https://leonardo.osnova.io/5d85371e-98a1-5b58-94b6-2d43e886813d/",
+    "title": "Для Crusader Kings III вышло крупное дополнение All Under Heaven про Азию",
+    "description": "Оно получает очень положительные отзывы от игроков в Steam.",
+    "fullText": "Оно получает очень положительные отзывы от игроков в Steam.",
+    "image": "https://leonardo.osnova.io/6e2a144d-37c2-5372-a40f-c1b46bb5278d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4118160-protest-streamerov-the-sims-4-protiv-prodazhi-ea-saudovskomu-fondu?from=rss",
-    "time": "2025-10-28T20:03:38.000Z"
+    "url": "https://dtf.ru/games/4118886-obnovlenie-all-under-heaven-dlya-crusader-kings-iii?from=rss",
+    "time": "2025-10-29T08:00:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сможет ли Кучеров догнать Овечкина?",
+    "description": "По очкам, только по очкам.",
+    "fullText": "По очкам, только по очкам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/26/8d82be12245379e3d550249b89f62.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3360159.html",
+    "time": "2025-10-29T07:54:00.000Z"
   }
 ]
