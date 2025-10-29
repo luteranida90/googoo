@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Вице-спикер ГД Кузнецова считает ситуацию с разводами в России тяжелой",
+    "description": "Для предотвращения такой тенденции нужно демонстрировать образы успешных крепких семей, считает парламентарий",
+    "fullText": "Для предотвращения такой тенденции нужно демонстрировать образы успешных крепких семей, считает парламентарий",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25493121",
+    "time": "2025-10-29T22:12:51.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Эти русские набрали 1000 очков в НХЛ",
-    "description": "Кучеров в компании великих.",
-    "fullText": "Кучеров в компании великих.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/6f/ec6685a7d4ed7816d815f804f6d5d.jpeg",
+    "title": "Пиастри провалил два Гран-при и потерял лидерство «Ф-1». Что происходит? Саботаж «Макларена»?",
+    "description": "Отрыв в 34 балла обнулился.",
+    "fullText": "Отрыв в 34 балла обнулился.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3f/cefe150f84dfb801ba847ef563bf1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3357912.html",
-    "time": "2025-10-29T17:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3360281.html",
+    "time": "2025-10-29T18:47:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Отчёт Remedy: продажи игр и роялти выросли, но выручка и прибыльность снизились",
-    "description": "FBC: Firebreak продолжат поддерживать согласно озвученным планам, но основные ресурсы распределили между другими проектами.",
-    "fullText": "FBC: Firebreak продолжат поддерживать согласно озвученным планам, но основные ресурсы распределили между другими проектами.",
-    "image": "https://leonardo.osnova.io/db93b0b2-1b6e-52d1-9936-89f0f3f805aa/",
+    "title": "Embark работает над ещё двумя сервисными играми вдобавок к The Finals и ARC Raiders",
+    "description": "И при этом не собирается расширяться.",
+    "fullText": "И при этом не собирается расширяться.",
+    "image": "https://leonardo.osnova.io/950debb8-9e3c-5f17-9592-2d94f075d988/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4119142-finansovyy-otchet-remedy-prodazhi-igr-vyrosli-no-pribyl-snizilas?from=rss",
-    "time": "2025-10-29T10:17:56.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4119107-embark-razrabatyvaet-novye-servisnye-igry?from=rss",
+    "time": "2025-10-29T10:08:12.000Z"
   }
 ]
