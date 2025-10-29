@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "СП рекомендовала Минтрансу найти деньги на ремонт дорог, поврежденных из-за М-12",
-    "description": "Также госзаказчикам дорожных работ необходимо вернуть в федеральный бюджет почти 4 млрд рублей",
-    "fullText": "Также госзаказчикам дорожных работ необходимо вернуть в федеральный бюджет почти 4 млрд рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25492939",
-    "time": "2025-10-29T21:04:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -22,36 +11,36 @@
     "time": "2025-10-29T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9nb2wuZ28u",
-    "title": "Пеп звонит поговорить о статистике даже ночью. Скачай ГОЛ и позвони ему сам!",
-    "description": "Лучшее приложение о футболе.",
-    "fullText": "Лучшее приложение о футболе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/3f/9d344c56d426186b49cba8df86e93.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://gol.go.link/eVQx2",
-    "time": "2025-10-29T17:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Хьюстон» строит гигантобол. Как дела у самой большой пятерки в истории НБА",
-    "description": "Пока не получается.",
-    "fullText": "Пока не получается.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e5/4de2280e147d2a98be50ee66034e0.jpeg",
+    "title": "Эти русские набрали 1000 очков в НХЛ",
+    "description": "Кучеров в компании великих.",
+    "fullText": "Кучеров в компании великих.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/6f/ec6685a7d4ed7816d815f804f6d5d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3360632.html",
-    "time": "2025-10-29T17:05:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3357912.html",
+    "time": "2025-10-29T17:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Embark работает над ещё двумя сервисными играми вдобавок к The Finals и ARC Raiders",
-    "description": "И при этом не собирается расширяться.",
-    "fullText": "И при этом не собирается расширяться.",
-    "image": "https://leonardo.osnova.io/950debb8-9e3c-5f17-9592-2d94f075d988/",
+    "title": "Отчёт Remedy: продажи игр и роялти выросли, но выручка и прибыльность снизились",
+    "description": "FBC: Firebreak продолжат поддерживать согласно озвученным планам, но основные ресурсы распределили между другими проектами.",
+    "fullText": "FBC: Firebreak продолжат поддерживать согласно озвученным планам, но основные ресурсы распределили между другими проектами.",
+    "image": "https://leonardo.osnova.io/db93b0b2-1b6e-52d1-9936-89f0f3f805aa/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4119107-embark-razrabatyvaet-novye-servisnye-igry?from=rss",
-    "time": "2025-10-29T10:08:12.000Z"
+    "url": "https://dtf.ru/gameindustry/4119142-finansovyy-otchet-remedy-prodazhi-igr-vyrosli-no-pribyl-snizilas?from=rss",
+    "time": "2025-10-29T10:17:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
