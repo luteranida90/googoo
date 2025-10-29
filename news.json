@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Благоустройство территории будущей академии \"Факела\" завершат летом 2026 года",
+    "description": "Капитальный ремонт основного здания уже завершен",
+    "fullText": "Капитальный ремонт основного здания уже завершен",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25492071",
+    "time": "2025-10-29T18:15:05.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9nb2wuZ28u",
     "title": "Пеп звонит поговорить о статистике даже ночью. Скачай ГОЛ и позвони ему сам!",
     "description": "Лучшее приложение о футболе.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://gol.go.link/eVQx2",
     "time": "2025-10-29T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минтруд упростит процедуру временного перевода медработников в пределах субъекта",
-    "description": "Это решит проблему доступности квалифицированных специалистов для жителей отдаленных районов",
-    "fullText": "Это решит проблему доступности квалифицированных специалистов для жителей отдаленных районов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251029/8562003.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25491805",
-    "time": "2025-10-29T17:09:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,36 +33,25 @@
     "time": "2025-10-29T16:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Лучшие теннисистки мира на итоговом турнире. Кто победит в Эр-Рияде?",
-    "description": "Выбирайте в Основе Finals.",
-    "fullText": "Выбирайте в Основе Finals.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/05/0b5eb44ab4693bcb0e2eb6503b7e6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/kmw55s",
-    "time": "2025-10-29T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пиастри провалил два Гран-при и потерял лидерство «Ф-1». Что происходит? Саботаж «Макларена»?",
-    "description": "Отрыв в 34 балла обнулился.",
-    "fullText": "Отрыв в 34 балла обнулился.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3f/cefe150f84dfb801ba847ef563bf1.jpeg",
+    "title": "Вершитель судьбы мировых гонок – жена Экклстоуна. Как так вышло?",
+    "description": "Скандал на выборах главбосса автоспорта.",
+    "fullText": "Скандал на выборах главбосса автоспорта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/68/d9d9d770b47758872ceb01697f2d9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3360281.html",
-    "time": "2025-10-29T13:10:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3358049.html",
+    "time": "2025-10-29T14:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Don’t Nod показала второй трейлер Aphelion — адвенчуры об астронавтах на опасной планете",
-    "description": "Релиз планируется в 2026 году.",
-    "fullText": "Релиз планируется в 2026 году.",
-    "image": "https://leonardo.osnova.io/d4762916-23c1-5556-a390-197c19ba314d/-/format/mp4/",
+    "title": "«Для инноваций нужна высокая рентабельность»: глава Microsoft об игровом бизнесе",
+    "description": "Он тоже считает главным конкурентом Xbox короткие видео.",
+    "fullText": "Он тоже считает главным конкурентом Xbox короткие видео.",
+    "image": "https://leonardo.osnova.io/b8dbead2-6c52-517d-8655-b8b3051ef91d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4119004-aphelion-ot-dont-nod-novyy-treyler-adventury-ob-astronavtakh?from=rss",
-    "time": "2025-10-29T08:51:42.000Z"
+    "url": "https://dtf.ru/gameindustry/4118735-glava-microsoft-satya-nadella-o-budushchem-igrovogo-biznesa?from=rss",
+    "time": "2025-10-29T06:50:10.000Z"
   }
 ]
