@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Тамбовской области ввели мораторий на приватизацию сельхозземель до 2050 года",
+    "description": "Инициатива позволит обеспечить стабильный доход бюджета и создаст условия для экономического роста региона",
+    "fullText": "Инициатива позволит обеспечить стабильный доход бюджета и создаст условия для экономического роста региона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25487029",
+    "time": "2025-10-29T10:30:50.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
     "description": "Фото справа сделано, когда Ямаль еще не родился.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/nlnlli",
     "time": "2025-10-29T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ подготовил предложения об урегулировании конкуренции для банков маркетплейсов",
-    "description": "Эти предложения направили в правительство",
-    "fullText": "Эти предложения направили в правительство",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25486151",
-    "time": "2025-10-29T09:24:35.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мамаев в гостях у Смолова: восторги «Краснодаром», что не так со «Спартаком» и «Динамо»",
-    "description": "Большой разговор.",
-    "fullText": "Большой разговор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/83/c329ea90b46f5af6688c44c046ee4.jpeg",
+    "title": "Кажется, Уорд-Проуз сыграл в медиалиге: в черной маске – чтобы не узнали!",
+    "description": "Выдала техника штрафного.",
+    "fullText": "Выдала техника штрафного.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/83/e7935510742fa8ff266ca64fcaa03.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360502.html",
-    "time": "2025-10-28T21:40:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3360503.html",
+    "time": "2025-10-28T22:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Don’t Nod объявила о разработке игры по крупной франшизе Netflix",
-    "description": "Lost Records: Bloom & Rage не оправдала ожиданий студии, но выручка компании выросла.",
-    "fullText": "Lost Records: Bloom & Rage не оправдала ожиданий студии, но выручка компании выросла.",
-    "image": "https://leonardo.osnova.io/f683901d-8c1d-55e0-8c53-a4eb66cee2b9/",
+    "title": "Sci-fi-хоррор Routine выйдет 4 декабря — его анонсировали ещё в 2012 году",
+    "description": "Долгострой наконец доберётся до релиза.",
+    "fullText": "Долгострой наконец доберётся до релиза.",
+    "image": "https://leonardo.osnova.io/57de6f67-f019-5167-98a9-f8f0d248430d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4117907-dont-nod-razrabotka-igry-po-franchize-netflix?from=rss",
-    "time": "2025-10-28T17:49:51.000Z"
+    "url": "https://dtf.ru/games/4118061-nauchnofantasticheskiy-horror-routine-vyydet-4-dekabrya?from=rss",
+    "time": "2025-10-28T19:38:36.000Z"
   }
 ]
