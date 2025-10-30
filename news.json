@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Урале более 100 айтишников стали участниками киберучений",
-    "description": "Победители поедут на международный киберфестиваль в Москву",
-    "fullText": "Победители поедут на международный киберфестиваль в Москву",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251030/8562767.jpg",
+    "title": "Shell за девять месяцев снизила производство СПГ на 6%",
+    "description": "Показатель составил 20,6 млн тонн",
+    "fullText": "Показатель составил 20,6 млн тонн",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25495317",
-    "time": "2025-10-30T06:33:40.000Z"
+    "url": "https://tass.ru/ekonomika/25496067",
+    "time": "2025-10-30T07:23:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Александр Плющенко выигрывает турниры без соперников, но по правилам их нельзя проводить",
+    "description": "Авдохин разобрался.",
+    "fullText": "Авдохин разобрался.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4d/d5db466d44c6eadbc40b767caa8f6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3360506.html",
+    "time": "2025-10-29T21:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-29T21:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что творит Лэмпард! Ведет «Ковентри» в АПЛ: нет поражений, очень много голов",
-    "description": "Они 25-й сезон вне элиты.",
-    "fullText": "Они 25-й сезон вне элиты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c2/372d29d734bb78a25a74a917a24b3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360392.html",
-    "time": "2025-10-29T20:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джон Ромеро всё ещё надеется возродить свой шутер после отказа Xbox от него",
-    "description": "Или использовать наработки для чего-то нового.",
-    "fullText": "Или использовать наработки для чего-то нового.",
-    "image": "https://leonardo.osnova.io/e461af71-9c2f-5740-9c1a-99c4d25d8d39/",
+    "title": "Stray, EA Sports WRC 24 и Totally Accurate Battle Simulator раздадут подписчикам PS Plus",
+    "description": "Уже 4 ноября.",
+    "fullText": "Уже 4 ноября.",
+    "image": "https://leonardo.osnova.io/74c6c138-724b-574d-a94a-48357da0467f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4119397-dzhon-romero-nadeetsya-vozrodit-shuter-posle-otkaza-xbox?from=rss",
-    "time": "2025-10-29T12:09:00.000Z"
+    "url": "https://dtf.ru/games/4119908-stray-ea-sports-wrc-24-totally-accurate-battle-simulator-ps-plus?from=rss",
+    "time": "2025-10-29T15:34:25.000Z"
   }
 ]
