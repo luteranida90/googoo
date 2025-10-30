@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошел взрыв",
-    "description": "В Сумской области звучат сирены воздушной тревоги",
-    "fullText": "В Сумской области звучат сирены воздушной тревоги",
+    "title": "Эксперт Мокрышева отметила низкое потребление йода в России",
+    "description": "Тяжелая ситуация с йододефицитом отмечается в Якутии, Алтае, Башкортостане и Пермском крае, рассказала директор НМИЦ эндокринологии Минздрава",
+    "fullText": "Тяжелая ситуация с йододефицитом отмечается в Якутии, Алтае, Башкортостане и Пермском крае, рассказала директор НМИЦ эндокринологии Минздрава",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25497929",
-    "time": "2025-10-30T09:23:18.000Z"
+    "url": "https://tass.ru/obschestvo/25497687",
+    "time": "2025-10-30T10:33:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Пиастри провалил два Гран-при и потерял лидерство в «Ф-1» – это что, саботаж «Макларена»?",
+    "description": "Отрыв в 34 балла обнулился.",
+    "fullText": "Отрыв в 34 балла обнулился.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3f/cefe150f84dfb801ba847ef563bf1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3360281.html",
+    "time": "2025-10-30T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-10-30T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Челси» вел 3:0 в Кубке – но чуть все не упустил. Как так?",
-    "description": "Делап удалился за 25 минут.",
-    "fullText": "Делап удалился за 25 минут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/0a/cc92434f24898a1be36b9feaaa26b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360750.html",
-    "time": "2025-10-29T23:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "TheWrap: Legendary работает над фильмом о Баке Роджерсе — культовом персонаже из научной фантастики XX века",
-    "description": "Сценарий напишет соавтор «Дэдпула и Росомахи».",
-    "fullText": "Сценарий напишет соавтор «Дэдпула и Росомахи».",
-    "image": "https://leonardo.osnova.io/b25b3bf6-4712-52e2-a61e-5c0f3f450933/",
+    "title": "Вышли третий и четвёртый эпизоды комедийной адвенчуры Dispatch об агентстве для супергероев",
+    "description": "Приключение с Робертом и его коллегами продолжается.",
+    "fullText": "Приключение с Робертом и его коллегами продолжается.",
+    "image": "https://leonardo.osnova.io/ca482032-1c9f-5197-9a11-34fdaeb72a4f/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4120253-film-o-bake-rodzherse-ot-legendary?from=rss",
-    "time": "2025-10-29T18:26:26.000Z"
+    "url": "https://dtf.ru/games/4119968-vysli-novye-epizody-komediynoy-igry-dispatch-ob-agentstve-supergeroev?from=rss",
+    "time": "2025-10-29T16:07:16.000Z"
   }
 ]
