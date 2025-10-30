@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Осужденного за поджог ресторана экс-депутата этапировали в ИК-1 Ярославля",
-    "description": "Дмитрия Соколова осудили на 6 лет и 10 месяцев колонии общего режима",
-    "fullText": "Дмитрия Соколова осудили на 6 лет и 10 месяцев колонии общего режима",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25503971",
-    "time": "2025-10-30T18:54:08.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих игроков – рекордсмен по количеству побед в FONBET Кубке России?",
     "description": "Узнайте в «Кубке огня».",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4121954-pitomtsy-sputniki-v-fortnite?from=rss",
     "time": "2025-10-30T14:35:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
