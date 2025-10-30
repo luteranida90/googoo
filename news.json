@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Джонни Депп пожертвовал деньги музыкальной школе, пострадавшей от урагана",
+    "description": "Центр музыкального инструктажа в Валенсии получил от актера $65 тыс.",
+    "fullText": "Центр музыкального инструктажа в Валенсии получил от актера $65 тыс.",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25504233",
+    "time": "2025-10-30T20:05:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих игроков – рекордсмен по количеству побед в FONBET Кубке России?",
     "description": "Узнайте в «Кубке огня».",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Медиалигу убеждают разрешить ставки. Кто и зачем?",
-    "description": "Лоббируют президенты клубов.",
-    "fullText": "Лоббируют президенты клубов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/23/c02bf1fbf49bcbc7d8648b57c38d1.jpeg",
+    "title": "Игрок «Марселя» рухнул на поле во время матча. Напугал",
+    "description": "Но все обошлось.",
+    "fullText": "Но все обошлось.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/20/064fd6ca44bd0964d840f57cc60b4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3360518.html",
-    "time": "2025-10-30T15:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360819.html",
+    "time": "2025-10-30T15:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Fortnite появятся питомцы-спутники",
-    "description": "Играть с ними разрешат уже 1 ноября.",
-    "fullText": "Играть с ними разрешат уже 1 ноября.",
-    "image": "https://leonardo.osnova.io/4f1fca6a-3b2f-5174-b96a-5e5af24a4be9/-/format/mp4/",
+    "title": "Состоялся релиз сборника Mortal Kombat: Legacy Kollection",
+    "description": "В него вошло одиннадцать релизов.",
+    "fullText": "В него вошло одиннадцать релизов.",
+    "image": "https://leonardo.osnova.io/581597a3-65a6-5cf3-8a10-c498eef14dc6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4121954-pitomtsy-sputniki-v-fortnite?from=rss",
-    "time": "2025-10-30T14:35:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4121714-reliz-mortal-kombat-legacy-kollection?from=rss",
+    "time": "2025-10-30T12:32:01.000Z"
   }
 ]
