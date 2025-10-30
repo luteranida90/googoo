@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На Урале более 100 айтишников стали участниками киберучений",
+    "description": "Победители поедут на международный киберфестиваль в Москву",
+    "fullText": "Победители поедут на международный киберфестиваль в Москву",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251030/8562767.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25495317",
+    "time": "2025-10-30T06:33:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Уникальный немец из «Челси»: вспомнили только 20% пользователей! А вы сможете?",
     "description": "Проверьте себя.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Дренте инсульт. Уже пару недель в больнице",
-    "description": "Тусовщика подвело здоровье.",
-    "fullText": "Тусовщика подвело здоровье.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e1/df69241f74985a0d39ada3568c703.jpeg",
+    "title": "Что творит Лэмпард! Ведет «Ковентри» в АПЛ: нет поражений, очень много голов",
+    "description": "Они 25-й сезон вне элиты.",
+    "fullText": "Они 25-й сезон вне элиты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c2/372d29d734bb78a25a74a917a24b3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360096.html",
-    "time": "2025-10-29T19:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360392.html",
+    "time": "2025-10-29T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Embark работает над ещё двумя сервисными играми вдобавок к The Finals и ARC Raiders",
-    "description": "И при этом не собирается расширяться.",
-    "fullText": "И при этом не собирается расширяться.",
-    "image": "https://leonardo.osnova.io/950debb8-9e3c-5f17-9592-2d94f075d988/",
+    "title": "Джон Ромеро всё ещё надеется возродить свой шутер после отказа Xbox от него",
+    "description": "Или использовать наработки для чего-то нового.",
+    "fullText": "Или использовать наработки для чего-то нового.",
+    "image": "https://leonardo.osnova.io/e461af71-9c2f-5740-9c1a-99c4d25d8d39/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4119107-embark-razrabatyvaet-novye-servisnye-igry?from=rss",
-    "time": "2025-10-29T10:08:12.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4119397-dzhon-romero-nadeetsya-vozrodit-shuter-posle-otkaza-xbox?from=rss",
+    "time": "2025-10-29T12:09:00.000Z"
   }
 ]
