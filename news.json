@@ -33,6 +33,17 @@
     "time": "2025-11-01T17:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Долина, Агутин и Майданов стали лауреатами юбилейного \"Золотого граммофона\"",
+    "description": "Всего статуэтки получили 24 исполнителя",
+    "fullText": "Всего статуэтки получили 24 исполнителя",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251101/8568005.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25513781",
+    "time": "2025-10-31T21:31:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Оно: Добро пожаловать в Дерри» показал один из лучших стартов среди сериалов на HBO Max — 5,7 миллиона просмотров в США за три дня",
     "description": "Шоу уступило лишь «Дому дракона» и «Одним из нас».",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4122445-ono-dobro-pozhalovat-v-derri?from=rss",
     "time": "2025-10-30T17:57:12.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
