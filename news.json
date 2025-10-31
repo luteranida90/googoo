@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ДОМ.РФ поддержал фестиваль \"Архитектон\" в Санкт-Петербурге",
-    "description": "В рамках фестиваля 1 и 2 ноября при участии ДОМ.РФ запланирована деловая программа",
-    "fullText": "В рамках фестиваля 1 и 2 ноября при участии ДОМ.РФ запланирована деловая программа",
+    "title": "ЦБ Турции аннулировал лицензию платежной системы Papara за нарушение законов",
+    "description": "Прокуратура Стамбула возбудила расследование в отношении сервиса виртуальных карт за незаконную букмекерскую деятельность",
+    "fullText": "Прокуратура Стамбула возбудила расследование в отношении сервиса виртуальных карт за незаконную букмекерскую деятельность",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/25506579",
-    "time": "2025-10-31T07:14:01.000Z"
+    "url": "https://tass.ru/ekonomika/25506945",
+    "time": "2025-10-31T08:26:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сафонов 22 матча подряд на скамейке «ПСЖ». Почему так?",
+    "description": "Хотя Шевалье ошибается в важных играх.",
+    "fullText": "Хотя Шевалье ошибается в важных играх.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c9/75a1c65d74095bcd16f199f4ffcf1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3360777.html",
+    "time": "2025-10-31T01:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2025-10-30T22:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Из небесной лиги в еврокубки за 3 года: вот так удачно в Казахстане возродили клуб",
-    "description": "«Аль-Наср» попадал тут в скандал.",
-    "fullText": "«Аль-Наср» попадал тут в скандал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/fe/bbc78f0c446ffb13b3d2501828e79.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360532.html",
-    "time": "2025-10-30T21:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90Lm1lL2N5",
-    "title": "Тамагочи как в детстве вернулся! Теперь в телеграме и с призами",
-    "description": "Станьте лучшим хозяином.",
-    "fullText": "Станьте лучшим хозяином.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/4c/4909ea30f4f5b9519109da57cb466.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/cyber_tamagotchi_bot?startapp=sports_post",
-    "time": "2025-10-30T21:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Крик 7» — дебютный трейлер",
-    "description": "Прокат начнётся 27 февраля 2026 года.",
-    "fullText": "Прокат начнётся 27 февраля 2026 года.",
-    "image": "https://leonardo.osnova.io/54de4c16-f1fe-5b8e-ad1a-9303ce3cd53d/-/format/mp4/",
+    "title": "СМИ: в Японии отказали Nintendo в регистрации патента по механике поимки созданий в играх",
+    "description": "Однако компания может продолжить попытки добиться своего.",
+    "fullText": "Однако компания может продолжить попытки добиться своего.",
+    "image": "https://leonardo.osnova.io/6363d602-d69f-552d-9d12-867f3e240dcb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4121823-krik-7-treyler-i-data-vyhoda?from=rss",
-    "time": "2025-10-30T13:19:27.000Z"
+    "url": "https://dtf.ru/gameindustry/4121619-otkaz-nintendo-v-patente-na-mehaniku-poimki-sozdaniy?from=rss",
+    "time": "2025-10-30T11:43:30.000Z"
   }
 ]
