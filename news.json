@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Брянской области утвердили состав регионального правительства",
-    "description": "В его структуре не произошло изменений",
-    "fullText": "В его структуре не произошло изменений",
+    "title": "ТАСС публикует кадры из освобожденной Новоалександровки",
+    "description": "На видео показана боевая работа военнослужащих 36-й отдельной гвардейской мотострелковой бригады 29-й армии группировки войск \"Восток\"",
+    "fullText": "На видео показана боевая работа военнослужащих 36-й отдельной гвардейской мотострелковой бригады 29-й армии группировки войск \"Восток\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25507783",
-    "time": "2025-10-31T09:12:28.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25508885",
+    "time": "2025-10-31T10:23:33.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сафонов 22 матча подряд на скамейке «ПСЖ». Почему так?",
-    "description": "Хотя Шевалье ошибается в важных играх.",
-    "fullText": "Хотя Шевалье ошибается в важных играх.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c9/75a1c65d74095bcd16f199f4ffcf1.jpeg",
+    "id": "aHR0cHM6Ly9nb2wuZ28u",
+    "title": "В чем Кейн сильнее Мбаппе и Холанда?",
+    "description": "Все ответы – в приложении ГОЛ. Скачивайте!",
+    "fullText": "Все ответы – в приложении ГОЛ. Скачивайте!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/ca/dd7d46d284d6c94e66f620e729c3a.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360777.html",
-    "time": "2025-10-31T01:20:00.000Z"
+    "url": "https://gol.go.link/eVQx2",
+    "time": "2025-10-31T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
-    "description": "Фото справа сделано, когда Ямаль еще не родился.",
-    "fullText": "Фото справа сделано, когда Ямаль еще не родился.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/1a/fbb9866bf4ccda5de2078dffc832e.png",
+    "title": "Выиграйте хоккейную джерси Спортса”, настольный хоккей Stiga или ноутбук!",
+    "description": "В офисе КХЛ.",
+    "fullText": "В офисе КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/c6/4ab9766c5409284473dacae9ebbde.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-10-31T00:30:00.000Z"
+    "url": "https://sirena.world/lmbpk1",
+    "time": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему теннисисты так сильно устают? Взгляд изнутри с Надеждой Петровой",
+    "description": "Новый выпуск блога.",
+    "fullText": "Новый выпуск блога.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3c/d1148c7a74c14a9fcc1f87c0cd608.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3360810.html",
+    "time": "2025-10-31T05:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: в Японии отказали Nintendo в регистрации патента по механике поимки созданий в играх",
-    "description": "Однако компания может продолжить попытки добиться своего.",
-    "fullText": "Однако компания может продолжить попытки добиться своего.",
-    "image": "https://leonardo.osnova.io/6363d602-d69f-552d-9d12-867f3e240dcb/",
+    "title": "Онлайн The Outer Worlds 2 в день релиза достиг 13 тысяч игроков в Steam",
+    "description": "Лишь немногим больше, чем в раннем доступе.",
+    "fullText": "Лишь немногим больше, чем в раннем доступе.",
+    "image": "https://leonardo.osnova.io/343a5aca-4ba3-548b-a0da-fcd90877f4de/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4121619-otkaz-nintendo-v-patente-na-mehaniku-poimki-sozdaniy?from=rss",
-    "time": "2025-10-30T11:43:30.000Z"
+    "url": "https://dtf.ru/games/4121481-the-outer-worlds-2-onlayn-v-steam?from=rss",
+    "time": "2025-10-30T10:42:30.000Z"
   }
 ]
