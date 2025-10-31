@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Wildberries: в 2025 году у россиян упал спрос на товары в стилистике Хэллоуина",
-    "description": "Фокус потребителей сместился в сторону традиционных русских товаров, отметили в компании",
-    "fullText": "Фокус потребителей сместился в сторону традиционных русских товаров, отметили в компании",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25505141",
-    "time": "2025-10-31T02:56:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90Lm1lL2N5",
     "title": "Тамагочи как в детстве вернулся! Теперь в телеграме и с призами",
     "description": "Станьте лучшим хозяином.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Спаллетти ставит особый футбол. Минус в том, что «Юве» не дает времени",
-    "description": "И не бойтесь за Локателли.",
-    "fullText": "И не бойтесь за Локателли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/66/7e276b5c94e81bd70eb619b3148c3.jpeg",
+    "title": "«Лейкерс» побеждают без Леброна и Дончича. Почему это важно?",
+    "description": "Остин Ривз на троне Короля и Луки.",
+    "fullText": "Остин Ривз на троне Короля и Луки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ae/0654cf1e4429b9fd85f40c4f1f21b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360823.html",
-    "time": "2025-10-30T18:05:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3360794.html",
+    "time": "2025-10-30T18:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4121954-pitomtsy-sputniki-v-fortnite?from=rss",
     "time": "2025-10-30T14:35:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
