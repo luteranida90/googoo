@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Aktuality: в Словакии предложили аннулировать браки сменивших пол граждан",
-    "description": "Минюст республики считает, что это должно происходить автоматически",
-    "fullText": "Минюст республики считает, что это должно происходить автоматически",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25513467",
-    "time": "2025-10-31T19:57:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Что не так с «Первым на Олимпе» – фильмом о победе советского гребца на Олимпиаде-1952",
     "description": "Обзор Кибера.",
@@ -19,7 +8,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3356131.html",
-    "time": "2025-10-31T18:10:00.000Z"
+    "time": "2025-11-01T18:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -30,18 +19,29 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/fp5ltm",
-    "time": "2025-10-31T17:30:00.000Z"
+    "time": "2025-11-01T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Байер» после Алонсо: что у вас здесь происходит?",
-    "description": "Артем Денисов – с первыми выводами.",
-    "fullText": "Артем Денисов – с первыми выводами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/0c/1e66e1b6d49a59cf7cfb30ab0aad8.jpeg",
+    "title": "У Спаллетти огромное тату «Наполи» на руке – и как с таким работать в «Ювентусе»?",
+    "description": "«Ничего не изменится, Неаполь навсегда в сердце».",
+    "fullText": "«Ничего не изменится, Неаполь навсегда в сердце».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/98/353d17a0a41c296f1b908622612e0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361090.html",
-    "time": "2025-10-31T16:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360664.html",
+    "time": "2025-11-01T16:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Белоруссии нетрезвый мужчина похитил из церкви почитаемую святыню",
+    "description": "Он планировал продать мощи святого Спиридона, рассказали в МВД республики",
+    "fullText": "Он планировал продать мощи святого Спиридона, рассказали в МВД республики",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25513603",
+    "time": "2025-10-31T20:59:28.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
