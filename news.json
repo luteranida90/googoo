@@ -1,7 +1,18 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Виктора Козлова наградили орденом Салавата Юлаева",
+    "description": "С 2022 года Козлов является главным тренером хоккейного клуба \"Салават Юлаев\"",
+    "fullText": "С 2022 года Козлов является главным тренером хоккейного клуба \"Салават Юлаев\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25511675",
+    "time": "2025-10-31T14:31:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Слуцкий ведет в ключевом матче: пока остается в чемпионской гонке. Следим в компании Лукомского и Терентьева",
+    "title": "Слуцкий победил в ключевом матче – судьба титула решится в финальном туре. Следили в компании Лукомского и Терентьева",
     "description": "На пути «Шэньчжэнь».",
     "fullText": "На пути «Шэньчжэнь».",
     "image": "https://photobooth.cdn.sports.ru/preset/article/6/a4/06b70d4dc4c75babacecb5f8efd94.png",
@@ -34,35 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто этот молодой из «Бакс», наказавший «Голден Стэйт»? Экс-игрок ГСВ, еще недавно воровал хозтовары",
-    "description": "Заменил Лилларда.",
-    "fullText": "Заменил Лилларда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/18/68f08728a4d40ba888cd049c51a6e.jpeg",
+    "title": "Какое чудо нужно Слуцкому, чтобы стать чемпионом?",
+    "description": "Расклады.",
+    "fullText": "Расклады.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/c6/5ae52c8334f6cb785b2362169e3dd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3360983.html",
-    "time": "2025-10-31T08:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3360797.html",
+    "time": "2025-10-31T09:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Он хочет уничтожить весь мир»: трейлер пятого сезона «Очень странных дел»",
-    "description": "Долгое ожидание подходит к концу.",
-    "fullText": "Долгое ожидание подходит к концу.",
-    "image": "https://leonardo.osnova.io/d7ee4a26-89f1-5e94-a25e-b386e0530cc7/-/format/mp4/",
+    "title": "«Оно: Добро пожаловать в Дерри» показал один из лучших стартов среди сериалов на HBO Max — 5,7 миллиона просмотров в США за три дня",
+    "description": "Шоу уступило лишь «Дому дракона» и «Одним из нас».",
+    "fullText": "Шоу уступило лишь «Дому дракона» и «Одним из нас».",
+    "image": "https://leonardo.osnova.io/c3500504-f65b-5b6e-9ae1-e743631bb268/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4121815-treyler-pyatogo-sezona-ochen-strannyh-del?from=rss",
-    "time": "2025-10-30T13:09:17.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4122445-ono-dobro-pozhalovat-v-derri?from=rss",
+    "time": "2025-10-30T17:57:12.000Z"
   }
 ]
