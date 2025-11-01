@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЮKassa: более трети россиян планируют онлайн-покупки во время осенних распродаж",
-    "description": "Большинство опрошенных специально ждут акций",
-    "fullText": "Большинство опрошенных специально ждут акций",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25514827",
-    "time": "2025-11-01T04:17:51.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих игроков – рекордсмен по победам в FONBET Кубке России?",
     "description": "Узнайте в «Кубке огня».",
@@ -23,13 +12,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Игроки «Спартака» в метро: вернули 2006-й. Тогда чуть не опоздали на ЛЧ с «Интером»",
-    "description": "Станкович еще играл.",
-    "fullText": "Станкович еще играл.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/40/33257493c47aea0547e215da75d28.jpeg",
+    "title": "«МЮ» в погоне за четвертой победой, «Тоттенхэм» – «Челси», дебют Спаллетти. Лучшие матчи в топ-лигах",
+    "description": "Что посмотреть?",
+    "fullText": "Что посмотреть?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/22/fbcbec8924ca6af8ac9a34ea3e17c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361132.html",
+    "url": "https://www.sports.ru/football/blogs/3361053.html",
     "time": "2025-10-31T18:30:00.000Z"
   },
   {
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4122445-ono-dobro-pozhalovat-v-derri?from=rss",
     "time": "2025-10-30T17:57:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
