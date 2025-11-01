@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Южная группировка уничтожила 11 пунктов управления БПЛА ВСУ у Константиновки",
-    "description": "Также ВС России ликвидировали наземный транспортный роботехнический комплекс и квадроцикл противника",
-    "fullText": "Также ВС России ликвидировали наземный транспортный роботехнический комплекс и квадроцикл противника",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Слуцкого остался шанс на золото. Вот единственный чемпионский расклад",
+    "description": "Микрошанс выглядит так.",
+    "fullText": "Микрошанс выглядит так.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/45/91c29b5fe4dff9c2f66061bf18b04.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25515461",
-    "time": "2025-11-01T06:05:19.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361096.html",
+    "time": "2025-10-31T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-10-31T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мбаппе получил «Золотую бутсу» в випе «Бернабеу». Впервые",
-    "description": "Крутое дополнение к «бутсам» с ЧМ и ЛЧ.",
-    "fullText": "Крутое дополнение к «бутсам» с ЧМ и ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a4/09ffb0e604483a764491b4884db0a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361100.html",
-    "time": "2025-10-31T19:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Оно: Добро пожаловать в Дерри» показал один из лучших стартов среди сериалов на HBO Max — 5,7 миллиона просмотров в США за три дня",
     "description": "Шоу уступило лишь «Дому дракона» и «Одним из нас».",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4122445-ono-dobro-pozhalovat-v-derri?from=rss",
     "time": "2025-10-30T17:57:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
