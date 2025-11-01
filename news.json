@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Луганске РВИО восстановит памятник воинам-освободителям в 2026 году",
+    "description": "Уже принимают решение о художественном облике, сообщил зампредседателя Российского военно-исторического общества Николай Овсиенко",
+    "fullText": "Уже принимают решение о художественном облике, сообщил зампредседателя Российского военно-исторического общества Николай Овсиенко",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25518057",
+    "time": "2025-11-01T11:16:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Зенит» vs «Локо» – битва за очки в Петербурге! Ставьте на фаворита c фрибетом от БЕТСИТИ",
     "description": "До 1500 рублей за регистрацию.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CNBC: Netflix нанял финансовых консультантов для рассмотрения покупки активов Warner Bros. Discovery",
-    "description": "Онлайн-кинотеатр серьёзно обдумывает сделку.",
-    "fullText": "Онлайн-кинотеатр серьёзно обдумывает сделку.",
-    "image": "https://leonardo.osnova.io/7a561970-7da0-559c-9e36-19dd4e7dfd01/",
+    "title": "AMD перестанет оптимизировать игры под видеокарты на RDNA 1 и RDNA 2",
+    "description": "Драйверы для них будут включать исправления багов.",
+    "fullText": "Драйверы для них будут включать исправления багов.",
+    "image": "https://leonardo.osnova.io/c0965cbc-d1e2-5e66-be6f-be2992a89f0d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4123337-netflix-rassmatrivaet-pokupku-aktivov-warner-bros-discovery?from=rss",
-    "time": "2025-10-31T06:48:08.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/hard/4123429-amd-prekratit-optimizatsiyu-igr-dlya-videokart-rdna-1-i-rdna-2?from=rss",
+    "time": "2025-10-31T07:33:22.000Z"
   }
 ]
