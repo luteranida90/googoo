@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Основной экипаж \"Союза МС-28\" сдал экзамен по управлению кораблем на отлично",
+    "description": "В частности, Сергей Кудь-Сверчков, Сергей Микаев и Кристофер Уильямс отработали предстартовую подготовку",
+    "fullText": "В частности, Сергей Кудь-Сверчков, Сергей Микаев и Кристофер Уильямс отработали предстартовую подготовку",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kosmos/25518683",
+    "time": "2025-11-01T12:59:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Зенит» vs «Локо» – битва за очки в Петербурге! Ставьте на фаворита c фрибетом от БЕТСИТИ",
     "description": "До 1500 рублей за регистрацию.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мбаппе получил «Золотую бутсу» в випе «Бернабеу». Впервые",
-    "description": "Крутое дополнение к «бутсам» с ЧМ и ЛЧ.",
-    "fullText": "Крутое дополнение к «бутсам» с ЧМ и ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a4/09ffb0e604483a764491b4884db0a.jpeg",
+    "title": "Самый вялый старт в карьере Овечкина? Не забил «Айлендерс» и собрал «-3»",
+    "description": "900-й гол откладывается.",
+    "fullText": "900-й гол откладывается.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/92/febf66df1415ca900965559d3fe30.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361100.html",
-    "time": "2025-11-01T08:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3361249.html",
+    "time": "2025-11-01T09:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4123429-amd-prekratit-optimizatsiyu-igr-dlya-videokart-rdna-1-i-rdna-2?from=rss",
     "time": "2025-10-31T07:33:22.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
