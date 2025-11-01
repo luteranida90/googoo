@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Подмосковье почти 3,5 млн жителей вакцинировались от гриппа",
-    "description": "Сделать прививку от гриппа можно в поликлинике по месту прикрепления, а также в мобильном комплексе",
-    "fullText": "Сделать прививку от гриппа можно в поликлинике по месту прикрепления, а также в мобильном комплексе",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251101/8568459.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25516341",
-    "time": "2025-11-01T08:20:47.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих игроков – рекордсмен по победам в FONBET Кубке России?",
     "description": "Узнайте в «Кубке огня».",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "СКА потерял 19-летнего лидера. И это хуже нового поражения",
-    "description": "Хорошо, что у Матвея Короткого нет перелома.",
-    "fullText": "Хорошо, что у Матвея Короткого нет перелома.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/0c/621aaa67a46309eabe1d0ca2b37c1.jpeg",
+    "title": "Мирра в костюме, Соболенко в красном, Паолини в платье за €6000 – теннисистки на последнем турнире сезона",
+    "description": "Рассматриваем.",
+    "fullText": "Рассматриваем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c5/dd72bff4b4115a5786cf0a5261987.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3361227.html",
-    "time": "2025-11-01T04:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3361208.html",
+    "time": "2025-11-01T04:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышли ремейки Dragon Quest I & II HD-2D",
-    "description": "Оценка на OpenCritic — 85 баллов из 100.",
-    "fullText": "Оценка на OpenCritic — 85 баллов из 100.",
-    "image": "https://leonardo.osnova.io/f652a3d8-1065-591d-942b-7efd3cad4513/-/format/mp4/",
+    "title": "Онлайн ARC Raiders в Steam превысил 250 тысяч человек — шутер превзошёл результат условно-бесплатной The Finals, предыдущей игры Embark",
+    "description": "У новинки 88% положительных отзывов — хвалят в том числе атмосферу, ИИ врагов-роботов, оптимизацию и аудио-дизайн.",
+    "fullText": "У новинки 88% положительных отзывов — хвалят в том числе атмосферу, ИИ врагов-роботов, оптимизацию и аудио-дизайн.",
+    "image": "https://leonardo.osnova.io/e3f6bdbc-988d-53d2-9126-21e2de883884/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4122508-remeiki-dragon-quest-i-i-ii-hd-2d?from=rss",
-    "time": "2025-10-30T18:46:04.000Z"
+    "url": "https://dtf.ru/games/4122622-arc-raiders-v-steam-250-tysyach-igrokov?from=rss",
+    "time": "2025-10-30T19:52:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
