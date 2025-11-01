@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Луганске РВИО восстановит памятник воинам-освободителям в 2026 году",
-    "description": "Уже принимают решение о художественном облике, сообщил зампредседателя Российского военно-исторического общества Николай Овсиенко",
-    "fullText": "Уже принимают решение о художественном облике, сообщил зампредседателя Российского военно-исторического общества Николай Овсиенко",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25518057",
-    "time": "2025-11-01T11:16:53.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Зенит» vs «Локо» – битва за очки в Петербурге! Ставьте на фаворита c фрибетом от БЕТСИТИ",
     "description": "До 1500 рублей за регистрацию.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Байер» после Алонсо: что у вас здесь происходит?",
-    "description": "Артем Денисов – с первыми выводами.",
-    "fullText": "Артем Денисов – с первыми выводами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/0c/1e66e1b6d49a59cf7cfb30ab0aad8.jpeg",
+    "title": "Мбаппе получил «Золотую бутсу» в випе «Бернабеу». Впервые",
+    "description": "Крутое дополнение к «бутсам» с ЧМ и ЛЧ.",
+    "fullText": "Крутое дополнение к «бутсам» с ЧМ и ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a4/09ffb0e604483a764491b4884db0a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361090.html",
-    "time": "2025-11-01T07:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361100.html",
+    "time": "2025-11-01T08:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4123429-amd-prekratit-optimizatsiyu-igr-dlya-videokart-rdna-1-i-rdna-2?from=rss",
     "time": "2025-10-31T07:33:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
