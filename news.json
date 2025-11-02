@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Полина Гагарина считает, что написанные ИИ песни лишены \"искры божьей\"",
-    "description": "Искусственный интеллект никогда не сможет заменить живого артиста, уверена певица",
-    "fullText": "Искусственный интеллект никогда не сможет заменить живого артиста, уверена певица",
+    "title": "АСИ: фокус на водных ресурсах позволит улучшить общественное благополучие",
+    "description": "Заместитель генерального директора агентства Георгий Белозеров считает, что это позволит улучшить здоровье граждан, повысить доступность качественной питьевой воды",
+    "fullText": "Заместитель генерального директора агентства Георгий Белозеров считает, что это позволит улучшить здоровье граждан, повысить доступность качественной питьевой воды",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/25522305",
-    "time": "2025-11-02T08:01:47.000Z"
+    "url": "https://tass.ru/ekonomika/25522039",
+    "time": "2025-11-02T08:20:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В XXI веке всего три американца брали «Везина Трофи». Вспомните хоть одного?",
+    "description": "Проверьте себя!",
+    "fullText": "Проверьте себя!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/b0/d3c1d858f4c07ae19864eefbd3f17.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-11-02T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-02T00:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Буффон – 30 очков. Ибрагимович – 10. Мбаппе – 5. При ответе на какой вопрос получилось это распределение в игре с экспертами Okko?",
-    "description": "Сыграйте и узнайте.",
-    "fullText": "Сыграйте и узнайте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/cd/3d89985604e4681f6f58b370c6f0b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/5g357d",
-    "time": "2025-11-02T00:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo выиграла суд против стримера, который транслировал ещё не вышедшие игры компании — он заплатит 17,5 тысяч долларов",
-    "description": "Сам он не сильно пытался защищаться.",
-    "fullText": "Сам он не сильно пытался защищаться.",
-    "image": "https://leonardo.osnova.io/fd9b2471-dbaf-51f0-856a-302f573bf79c/",
+    "title": "Xbox-версия ремейка Silent Hill 2 получила возрастной рейтинг от ESRB",
+    "description": "Похоже, до релиза осталось недолго.",
+    "fullText": "Похоже, до релиза осталось недолго.",
+    "image": "https://leonardo.osnova.io/d16bdca9-0fe0-55ef-8770-5d95cf581513/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4123762-nintendo-vyigrala-sud-protiv-streamera?from=rss",
-    "time": "2025-10-31T10:13:00.000Z"
+    "url": "https://dtf.ru/gameindustry/4124111-xbox-versiya-silent-hill-2-rating-esrb?from=rss",
+    "time": "2025-10-31T12:04:43.000Z"
   }
 ]
