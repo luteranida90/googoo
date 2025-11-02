@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Угожаев отметил, что ему несложно выступать на двух этапах Гран-при подряд",
-    "description": "Ранее спортсмен занял третье место на первом этапе Гран-при России в Магнитогорске",
-    "fullText": "Ранее спортсмен занял третье место на первом этапе Гран-при России в Магнитогорске",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251102/8570781.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25523307",
-    "time": "2025-11-02T12:47:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих игроков – рекордсмен по победам в FONBET Кубке России?",
     "description": "Узнайте в «Кубке огня».",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Почему всегда красная икра на завтрак?» Вратарь «Родины» Волков теперь на Спортсе” – и рассказывает про академию Коноплева",
-    "description": "Русский футбольный Хогвартс.",
-    "fullText": "Русский футбольный Хогвартс.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/7e/1baaddee64d21b4e4c9d92f13ecc5.png",
+    "title": "«Реал» разнес «Валенсию» – 4:0. Как же Мбаппе сверкает!",
+    "description": "Зря делился с Винисиусом.",
+    "fullText": "Зря делился с Винисиусом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e5/2e50cd2f84fcbbe9a054b38424339.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3358770.html",
-    "time": "2025-11-02T07:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361470.html",
+    "time": "2025-11-02T08:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4124373-finalnyj-trejler-frankenshtejna-gilermo-del-toro?from=rss",
     "time": "2025-10-31T13:29:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
