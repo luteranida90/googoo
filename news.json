@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Число погибших от наводнения во Вьетнаме возросло до 35 человек",
-    "description": "Еще 60 получили различные ранения и травмы",
-    "fullText": "Еще 60 получили различные ранения и травмы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25522853",
-    "time": "2025-11-02T10:31:32.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -23,24 +12,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Не забыли про Тарасенко? Выбил 1+2 – и помог «Миннесоте» одержать важную победу",
-    "description": "Прервали серию поражений.",
-    "fullText": "Прервали серию поражений.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/f7/a9ab79c2a4a67a45ba169baf8781f.png",
+    "title": "Покажут ли Олимпиаду-2026 в России?",
+    "description": "И кто будет ее смотреть?",
+    "fullText": "И кто будет ее смотреть?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e7/3c439345442008d9745b62b1188d6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3361485.html",
-    "time": "2025-11-02T06:00:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3361299.html",
+    "time": "2025-11-02T06:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Первое DLC для Frostpunk 2 выйдет 8 декабря",
-    "description": "Его посвятили режиму «Конструктор утопии».",
-    "fullText": "Его посвятили режиму «Конструктор утопии».",
-    "image": "https://leonardo.osnova.io/9fb0775e-def5-5eb0-9dff-b58788f904ca/-/format/mp4/",
+    "title": "Триллер «Долгая прогулка» вошёл в тройку самых популярных фильмов октября у российских «пиратов»",
+    "description": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
+    "fullText": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
+    "image": "https://leonardo.osnova.io/dcb05006-5a4e-5c85-ae5f-124c019d06af/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4124394-pervoe-dlc-dlya-frostpunk-2-konstruktor-utopii-vyhodit-8-dekabrya?from=rss",
-    "time": "2025-10-31T13:39:53.000Z"
+    "url": "https://dtf.ru/cinema/4122488-triller-dolgaa-progulka-v-troike-populyarnykh-filmov-oktyabrya-u-piratov?from=rss",
+    "time": "2025-10-31T13:14:52.000Z"
   }
 ]
