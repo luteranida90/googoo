@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Шайба Гаврикова помогла \"Рейнджерс\" победить \"Сиэтл\" в матче НХЛ",
+    "description": "Встреча завершилась со счетом 3:2 в овертайме",
+    "fullText": "Встреча завершилась со счетом 3:2 в овертайме",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25521673",
+    "time": "2025-11-02T05:11:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сколько шайб забросил Овечкин до попадания на обложку NHL 2K10? Экскурсия по карьере",
     "description": "Великая погоня!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Зенит» победил и обошел «Локо»: Педро и Глушенков блеснули. Нет больше тех, кто не проигрывал",
-    "description": "Закрыли последний ноль.",
-    "fullText": "Закрыли последний ноль.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/dd/5a37e4de44c63a68b56f14fd008e0.jpeg",
+    "title": "ЦСКА пропустил на последней минуте! И проиграл еще одно дерби",
+    "description": "Привет от бывшего игрока.",
+    "fullText": "Привет от бывшего игрока.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/9c/733e59fee4524a2c32e271da47c74.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361440.html",
-    "time": "2025-11-01T20:35:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3361448.html",
+    "time": "2025-11-01T20:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4123762-nintendo-vyigrala-sud-protiv-streamera?from=rss",
     "time": "2025-10-31T10:13:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
