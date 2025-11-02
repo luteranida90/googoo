@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Четвертый сезон «Ведьмака» – скорее порно-пародия, а не эпичный сериал",
+    "description": "Обзор Кибера.",
+    "fullText": "Обзор Кибера.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/8e/2c49779344ab89d4ed20457e38da0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3361128.html",
+    "time": "2025-11-02T18:02:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новый посол Израиля Одед Йосеф прибыл в Москву",
-    "description": "В диппредставительстве еврейского государства уточнили, что его предшественница Симона Гальперин уже покинула Россию",
-    "fullText": "В диппредставительстве еврейского государства уточнили, что его предшественница Симона Гальперин уже покинула Россию",
+    "title": "Президент Мексики: застреленный мэр Уруапана находился под федеральной защитой",
+    "description": "Клаудия Шейнбаум также выразила соболезнования родным и близким погибшего",
+    "fullText": "Клаудия Шейнбаум также выразила соболезнования родным и близким погибшего",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25523843",
-    "time": "2025-11-02T16:54:06.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25523931",
+    "time": "2025-11-02T17:16:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Худший боксер в мире – рекорд 1-100 за семь лет карьеры!",
+    "description": "Бедолага Джейк Поллард.",
+    "fullText": "Бедолага Джейк Поллард.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/40/6a1289c054869b37ad91ac1c2c2ac.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3361359.html",
+    "time": "2025-11-02T13:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +44,14 @@
     "time": "2025-11-02T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кришито – тренер «Дженоа». Надо спасать от вылета после Виейра",
-    "description": "Пока временный.",
-    "fullText": "Пока временный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/4f/1516aefbd4b46bf9294f6d67f4bec.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361361.html",
-    "time": "2025-11-02T12:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я создал нечто воистину ужасное»: финальный трейлер «Франкенштейна» — готической драмы Гильермо дель Торо",
-    "description": "До релиза фильма осталась неделя.",
-    "fullText": "До релиза фильма осталась неделя.",
-    "image": "https://leonardo.osnova.io/08998229-9240-546d-b231-afcc26ce0aa1/-/format/mp4/",
+    "title": "Триллер «Долгая прогулка» вошёл в тройку самых популярных фильмов октября у российских «пиратов»",
+    "description": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
+    "fullText": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
+    "image": "https://leonardo.osnova.io/dcb05006-5a4e-5c85-ae5f-124c019d06af/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4124373-finalnyj-trejler-frankenshtejna-gilermo-del-toro?from=rss",
-    "time": "2025-10-31T13:29:05.000Z"
+    "url": "https://dtf.ru/cinema/4122488-triller-dolgaa-progulka-v-troike-populyarnykh-filmov-oktyabrya-u-piratov?from=rss",
+    "time": "2025-10-31T13:14:52.000Z"
   }
 ]
