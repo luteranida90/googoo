@@ -1,24 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В регионах России подготовили программы празднования Дня народного единства",
-    "description": "Они включают ярмарки, выставки, мастер-классы и концерты",
-    "fullText": "Они включают ярмарки, выставки, мастер-классы и концерты",
+    "title": "В Волгоградской области произошло возгорание на электроподстанции",
+    "description": "Причиной стало падение обломков БПЛА",
+    "fullText": "Причиной стало падение обломков БПЛА",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25529389",
-    "time": "2025-11-03T21:02:58.000Z"
+    "url": "https://tass.ru/proisshestviya/25529461",
+    "time": "2025-11-03T21:15:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Судьи утверждают, что Степанова и Букин – лучшие в наших танцах. Это действительно так?",
+    "description": "Крутихина с разбором.",
+    "fullText": "Крутихина с разбором.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/fe/0dda268f44175aaeb6480e2354a39.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3361754.html",
+    "time": "2025-11-03T16:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Буффон и Нойер – кто играл с обоими?",
+    "description": "Девять счастливчиков.",
+    "fullText": "Девять счастливчиков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/30/8bdc5ff0648e6a9dad6cd76bf1211.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2025-11-03T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Добро пожаловать в Спрингфилд»: в Fortnite начался сезон-кроссовер с мультсериалом «Симпсоны»",
-    "description": "Он продлится месяц.",
-    "fullText": "Он продлится месяц.",
-    "image": "https://leonardo.osnova.io/da698101-ae67-5cb7-bad8-ce5e6a7d5bdb/-/format/mp4/",
+    "title": "S.T.A.L.K.E.R. 2 и ещё четыре игры уберут из Game Pass в ноябре",
+    "description": "Шутер от GSC Game World пробыл в подписке год.",
+    "fullText": "Шутер от GSC Game World пробыл в подписке год.",
+    "image": "https://leonardo.osnova.io/90a4cb66-6fb4-5762-9b82-3edb2800a040/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4128537-sezon-krossover-fortnite-i-simpsony?from=rss",
-    "time": "2025-11-02T08:45:41.000Z"
+    "url": "https://dtf.ru/games/4128956-stalker-2-i-drugie-igry-pokinut-game-pass-v-noyabre?from=rss",
+    "time": "2025-11-02T12:47:03.000Z"
   }
 ]
