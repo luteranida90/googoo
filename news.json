@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Моржаретто прокомментировал арест за отказ снять обложку с прав",
-    "description": "Наказания за это нарушение единичны, отметил член общественного совета при МВД России",
-    "fullText": "Наказания за это нарушение единичны, отметил член общественного совета при МВД России",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему теннисисты так сильно устают? Взгляд изнутри с Надеждой Петровой",
+    "description": "Новый выпуск блога.",
+    "fullText": "Новый выпуск блога.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3c/d1148c7a74c14a9fcc1f87c0cd608.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25526621",
-    "time": "2025-11-03T08:55:20.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3360810.html",
+    "time": "2025-11-03T05:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-03T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Синнер – снова король мужского тенниса. Пока на неделю",
-    "description": "Чемпион в Париже.",
-    "fullText": "Чемпион в Париже.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/da/64599b51f473da588b832d2714c68.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3361611.html",
-    "time": "2025-11-02T23:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Авторы ARC Raiders поделились «дорожной картой» до конца 2025 года",
     "description": "К примеру, разработчики планируют добавить новую карту.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4126779-arc-raiders-dorozhnaya-karta-obnovleniy-do-kontsa-2025-goda?from=rss",
     "time": "2025-11-01T09:11:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
