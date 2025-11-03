@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ОП РФ рассказали о росте пособий вслед за прожиточным минимумом",
-    "description": "Речь идет о росте пособий семьям с детьми, доплат пенсионерам и других соцвыплат",
-    "fullText": "Речь идет о росте пособий семьям с детьми, доплат пенсионерам и других соцвыплат",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251103/8571123.jpg",
+    "title": "В Сумах произошли взрывы",
+    "description": "В Сумской области действует воздушная тревога",
+    "fullText": "В Сумской области действует воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25524597",
-    "time": "2025-11-02T22:08:26.000Z"
+    "url": "https://tass.ru/proisshestviya/25524739",
+    "time": "2025-11-02T23:55:35.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-11-02T19:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Овечкин – спартанец, русские братки в «Рейнджерс» и группа ABBA. Как в НХЛ отметили Хэллоуин",
+    "description": "Креативные не только на льду.",
+    "fullText": "Креативные не только на льду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/d8/dd28d2aac4694afffde68a8b6c7b1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3361506.html",
+    "time": "2025-11-02T18:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Четвертый сезон «Ведьмака» – скорее порно-пародия, а не эпичный сериал",
     "description": "Обзор Кибера.",
@@ -33,25 +44,14 @@
     "time": "2025-11-02T18:02:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самое быстрое серийное авто – теперь китайское: 496 км/ч. Но рекорд – фэйк?",
-    "description": "Зато какая реклама!",
-    "fullText": "Зато какая реклама!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a4/4cc3d51eb45f0895680d347f50dc3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3353786.html",
-    "time": "2025-11-02T17:41:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Триллер «Долгая прогулка» вошёл в тройку самых популярных фильмов октября у российских «пиратов»",
-    "description": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
-    "fullText": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
-    "image": "https://leonardo.osnova.io/dcb05006-5a4e-5c85-ae5f-124c019d06af/",
+    "title": "Вышел ремастер Tales of Xillia — с текстовым переводом на русский язык",
+    "description": "Обновлённую версию JRPG продают в Steam за 2849 рублей.",
+    "fullText": "Обновлённую версию JRPG продают в Steam за 2849 рублей.",
+    "image": "https://leonardo.osnova.io/d8f8579e-69cf-528f-9102-1551595fa16d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4122488-triller-dolgaa-progulka-v-troike-populyarnykh-filmov-oktyabrya-u-piratov?from=rss",
-    "time": "2025-10-31T13:14:52.000Z"
+    "url": "https://dtf.ru/games/4123829-remaster-tales-of-xillia-s-russkim-perevodom?from=rss",
+    "time": "2025-10-31T10:52:22.000Z"
   }
 ]
