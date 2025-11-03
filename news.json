@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мишустин прибыл в Пекин",
+    "description": "Премьер-министр России встретится там 4 ноября с председателем КНР Си Цзинпином",
+    "fullText": "Премьер-министр России встретится там 4 ноября с председателем КНР Си Цзинпином",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8299357.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25528525",
+    "time": "2025-11-03T15:37:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой картинке?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«В 20 лет увидел немецкую голую бабу. Все, блин». 8 историй от Николая Давыденко",
-    "description": "Сходил на подкаст к Весниной.",
-    "fullText": "Сходил на подкаст к Весниной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/c8/55a75000c4f7f9f8a0453b72af9f6.jpeg",
+    "title": "Шансы на титул после 14-го тура: «Спартак» просел, «Зенит» ушел в отрыв",
+    "description": "На дне таблицы заруба.",
+    "fullText": "На дне таблицы заруба.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/7a/a0327359746eea0880a252351211e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3361693.html",
-    "time": "2025-11-03T10:50:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3361700.html",
+    "time": "2025-11-03T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Эдгар Райт заявил, что у «Малыша на драйве 2» уже есть сценарий — но пока режиссёр не знает, когда сможет заняться фильмом",
-    "description": "В кинопроизводстве есть множество факторов, которые не всегда удаётся контролировать.",
-    "fullText": "В кинопроизводстве есть множество факторов, которые не всегда удаётся контролировать.",
-    "image": "https://leonardo.osnova.io/04307a01-a24c-51d4-ac8b-bf176efe1580/",
+    "title": "Condemned: Criminal Origins сняли с продажи в Steam и на Xbox",
+    "description": "Причина неизвестна.",
+    "fullText": "Причина неизвестна.",
+    "image": "https://leonardo.osnova.io/9adf7585-10c9-52d6-bcdf-5b5837ded9c0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4128797-edgar-rait-o-scenarii-malyshe-na-draive-2?from=rss",
-    "time": "2025-11-02T11:34:28.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4128605-condemned-criminal-origins-ubraly-iz-steam-i-xbox-store?from=rss",
+    "time": "2025-11-02T10:39:34.000Z"
   }
 ]
