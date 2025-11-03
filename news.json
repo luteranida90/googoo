@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Euractiv: ЕС рассматривает новые функции Frontex, включая защиту от БПЛА",
-    "description": "Расширение мандата Frontex могут потребовать внесения изменений в регламент агентства, что предполагает разрешение агентству вмешиваться по запросу государства-члена в ситуации гибридных угроз",
-    "fullText": "Расширение мандата Frontex могут потребовать внесения изменений в регламент агентства, что предполагает разрешение агентству вмешиваться по запросу государства-члена в ситуации гибридных угроз",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25527329",
-    "time": "2025-11-03T11:00:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
     "description": "Фото сделано, когда Ямаль не родился.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чумовой камбэк на последних минутах! «Айлендерс» тащит 18-летний защитник",
-    "description": "С 1:2 на 59-й – в 3:2 на 60-й.",
-    "fullText": "С 1:2 на 59-й – в 3:2 на 60-й.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/33/62275c8884779817263f0e0e3c859.jpeg",
+    "title": "У Оздоева два дубля подряд за ПАОК! Лидирует в Греции и второй в гонке бомбардиров",
+    "description": "Впереди матч против Рафы Бенитеса.",
+    "fullText": "Впереди матч против Рафы Бенитеса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f5/3c68d54254de3bd3724320b3c82af.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3361685.html",
-    "time": "2025-11-03T07:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361668.html",
+    "time": "2025-11-03T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Без шансов»: Вуди Харрельсон о возможном возвращении к «Настоящему детективу» с Мэттью Макконахи",
-    "description": "Актёр опасается, что продолжение истории первого сезона может испортить её.",
-    "fullText": "Актёр опасается, что продолжение истории первого сезона может испортить её.",
-    "image": "https://leonardo.osnova.io/8ce9ae2a-ce08-56ac-b16a-a15a6ffcfd5b/",
+    "title": "Rockstar обвинили в увольнении не менее 30 сотрудников, которые хотели организовать профсоюз",
+    "description": "В Take-Two говорят, что с разработчиками расстались из-за «грубых нарушений» на рабочих местах.",
+    "fullText": "В Take-Two говорят, что с разработчиками расстались из-за «грубых нарушений» на рабочих местах.",
+    "image": "https://leonardo.osnova.io/8a7972cb-a774-5d4e-b625-73ce19d62b5d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4126892-vudi-harrelson-o-vozvrashchenii-k-nastoyashchemu-detektivu?from=rss",
-    "time": "2025-11-01T10:12:49.000Z"
+    "url": "https://dtf.ru/gameindustry/4126996-rockstar-uvolila-30-sotrudnikov-za-popytku-sozdaniya-profsouza?from=rss",
+    "time": "2025-11-01T11:14:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
