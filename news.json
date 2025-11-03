@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Lebanon 24: делегация из Ливии обсудит в Бейруте условия выдачи сына Каддафи",
+    "description": "С этой целью в Ливан прибыл политический советник ливийского премьер-министра Ибрагим Дбейба",
+    "fullText": "С этой целью в Ливан прибыл политический советник ливийского премьер-министра Ибрагим Дбейба",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25528323",
+    "time": "2025-11-03T14:40:10.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой картинке?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мусорное удаление!» Журавель вскипел из-за красной Мелкадзе – самой нелепой в сезоне?",
-    "description": "Никто не понял решения.",
-    "fullText": "Никто не понял решения.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/03/65790d83642eea12485efd463b05a.jpeg",
+    "title": "Лучший прокат в истории фигурки! Малинина встречали, крича по-русски «молодец!»",
+    "description": "Совершенство?",
+    "fullText": "Совершенство?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/66/e629b062647f1a06b94cd0f64f49c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361600.html",
-    "time": "2025-11-03T10:30:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3361683.html",
+    "time": "2025-11-03T10:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Главное из интервью Лекса Фридмана с Дэном Хаузером — о работе над GTA и Red Dead Redemption, а также отменённой Agent",
-    "description": "Беседа длилась почти три часа.",
-    "fullText": "Беседа длилась почти три часа.",
-    "image": "https://leonardo.osnova.io/61b57256-efba-596b-abb6-7ebd08a0c2dc/",
+    "title": "Эдгар Райт заявил, что у «Малыша на драйве 2» уже есть сценарий — но пока режиссёр не знает, когда сможет заняться фильмом",
+    "description": "В кинопроизводстве есть множество факторов, которые не всегда удаётся контролировать.",
+    "fullText": "В кинопроизводстве есть множество факторов, которые не всегда удаётся контролировать.",
+    "image": "https://leonardo.osnova.io/04307a01-a24c-51d4-ac8b-bf176efe1580/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4127427-intervyu-leksa-fridmana-s-denom-khauzern-o-gta-i-red-dead-redemption?from=rss",
-    "time": "2025-11-01T15:37:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4128797-edgar-rait-o-scenarii-malyshe-na-draive-2?from=rss",
+    "time": "2025-11-02T11:34:28.000Z"
   }
 ]
