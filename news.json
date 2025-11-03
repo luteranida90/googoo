@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Министр ОАЭ аль-Джабер: мировой спрос на СПГ увеличится на 50% к 2040 году",
-    "description": "Министр промышленности и передовых технологий ОАЭ также спрогнозировал рост спроса на авиатопливо более чем на 30%",
-    "fullText": "Министр промышленности и передовых технологий ОАЭ также спрогнозировал рост спроса на авиатопливо более чем на 30%",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25526053",
-    "time": "2025-11-03T07:03:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ЦСКА выменял Самонова из Уфы. Плата за топ-вратаря – 10 млн рублей",
-    "description": "Да-да, всего.",
-    "fullText": "Да-да, всего.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ff/69e6c6fab437fa8013669503d6b2c.jpeg",
+    "title": "«Мусорное удаление!» Журавель вскипел из-за красной Мелкадзе – самой нелепой в сезоне?",
+    "description": "Никто не понял решения.",
+    "fullText": "Никто не понял решения.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/03/65790d83642eea12485efd463b05a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3361662.html",
-    "time": "2025-11-02T22:33:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361600.html",
+    "time": "2025-11-02T23:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Никита Буянов объявил, что Escape from Tarkov ушла «на золото»",
-    "description": "«Мы на месте».",
-    "fullText": "«Мы на месте».",
-    "image": "https://leonardo.osnova.io/aae62309-003b-5134-ba73-5d364eb4b2a3/",
+    "title": "Для Hades II вышло первое обновление после релиза игры — авторы расширили концовку",
+    "description": "С его анонса прошло чуть больше недели.",
+    "fullText": "С его анонса прошло чуть больше недели.",
+    "image": "https://leonardo.osnova.io/aca754d7-d2ba-53ad-a438-2d5c7cf64f4a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4124080-escape-from-tarkov-ushla-na-zoloto?from=rss",
-    "time": "2025-10-31T11:53:45.000Z"
+    "url": "https://dtf.ru/games/4126652-hades-ii-obnovlenie-rasshirennaya-kontsa?from=rss",
+    "time": "2025-11-01T07:56:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
