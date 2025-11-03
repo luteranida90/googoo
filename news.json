@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Кузбассе нашли девочку, ушедшую из дома",
+    "description": "Она сама пришла в отдел полиции",
+    "fullText": "Она сама пришла в отдел полиции",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25526467",
+    "time": "2025-11-03T08:29:50.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов взял три Кубка Гагарина?",
     "description": "И 12 других вопросов.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Hades II вышло первое обновление после релиза игры — авторы расширили концовку",
-    "description": "С его анонса прошло чуть больше недели.",
-    "fullText": "С его анонса прошло чуть больше недели.",
-    "image": "https://leonardo.osnova.io/aca754d7-d2ba-53ad-a438-2d5c7cf64f4a/",
+    "title": "Авторы ARC Raiders поделились «дорожной картой» до конца 2025 года",
+    "description": "К примеру, разработчики планируют добавить новую карту.",
+    "fullText": "К примеру, разработчики планируют добавить новую карту.",
+    "image": "https://leonardo.osnova.io/ddf293e9-497c-54f0-b9ed-9737ddab14d4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4126652-hades-ii-obnovlenie-rasshirennaya-kontsa?from=rss",
-    "time": "2025-11-01T07:56:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4126779-arc-raiders-dorozhnaya-karta-obnovleniy-do-kontsa-2025-goda?from=rss",
+    "time": "2025-11-01T09:11:06.000Z"
   }
 ]
