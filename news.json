@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Липецкой области отменили желтый уровень опасности",
-    "description": "Сообщение о введении режима опубликовали в 14:24 мск",
-    "fullText": "Сообщение о введении режима опубликовали в 14:24 мск",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25528425",
-    "time": "2025-11-03T15:05:58.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой картинке?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший прокат в истории фигурки! Малинина встречали, крича по-русски «молодец!»",
-    "description": "Совершенство?",
-    "fullText": "Совершенство?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/66/e629b062647f1a06b94cd0f64f49c.jpeg",
+    "title": "«В 20 лет увидел немецкую голую бабу. Все, блин». 8 историй от Николая Давыденко",
+    "description": "Сходил на подкаст к Весниной.",
+    "fullText": "Сходил на подкаст к Весниной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/c8/55a75000c4f7f9f8a0453b72af9f6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3361683.html",
-    "time": "2025-11-03T10:40:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3361693.html",
+    "time": "2025-11-03T10:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4128797-edgar-rait-o-scenarii-malyshe-na-draive-2?from=rss",
     "time": "2025-11-02T11:34:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
