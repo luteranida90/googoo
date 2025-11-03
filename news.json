@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "МИД: РФ выступает за защиту нейтралитета Панамского канала",
+    "description": "В дипведомстве отметили, что одним из наиболее ярких событий в истории двусторонних отношений стало прохождение в ноябре-декабре 1942 года отряда советских подводных лодок через Панамский канал",
+    "fullText": "В дипведомстве отметили, что одним из наиболее ярких событий в истории двусторонних отношений стало прохождение в ноябре-декабре 1942 года отряда советских подводных лодок через Панамский канал",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25527157",
+    "time": "2025-11-03T10:16:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Уникальный немец из «Челси»: вспомнили только 20% пользователей! А вы сможете?",
     "description": "Проверьте себя.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Победа «Барсы» после класико – 3:1 с «Эльче». Рэшфорд сияет, Ямаль забил",
-    "description": "Гонка жива?",
-    "fullText": "Гонка жива?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/3f/2f70cc8ad475d8571e5991037ce0d.jpeg",
+    "title": "Предассист Талалаева! Этот аут запустил победу над «Ахматом» Черчесова",
+    "description": "«Балтика» не останавливается.",
+    "fullText": "«Балтика» не останавливается.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/38/38118d4214be7a049a2d21d47c7a0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361658.html",
-    "time": "2025-11-03T06:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361608.html",
+    "time": "2025-11-03T06:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4126779-arc-raiders-dorozhnaya-karta-obnovleniy-do-kontsa-2025-goda?from=rss",
     "time": "2025-11-01T09:11:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
