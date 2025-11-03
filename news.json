@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Генконструктор Соломонов: залповый пуск \"Булавы\" поверг в шок противников РФ",
-    "description": "Боевые блоки ракет успешно достигли полигона Чижа",
-    "fullText": "Боевые блоки ракет успешно достигли полигона Чижа",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25528161",
-    "time": "2025-11-03T13:56:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой картинке?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сульшер, Тен Хаг или Роджерс: «Вулвз» убрали Перейру – кто вместо него?",
-    "description": "Новая безумная гонка в АПЛ.",
-    "fullText": "Новая безумная гонка в АПЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/43/ea81f35b94405930f391b53ccb612.jpeg",
+    "title": "«Мусорное удаление!» Журавель вскипел из-за красной Мелкадзе – самой нелепой в сезоне?",
+    "description": "Никто не понял решения.",
+    "fullText": "Никто не понял решения.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/03/65790d83642eea12485efd463b05a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3361574.html",
-    "time": "2025-11-03T10:11:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361600.html",
+    "time": "2025-11-03T10:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Rockstar обвинили в увольнении не менее 30 сотрудников, которые хотели организовать профсоюз",
-    "description": "В Take-Two говорят, что с разработчиками расстались из-за «грубых нарушений» на рабочих местах.",
-    "fullText": "В Take-Two говорят, что с разработчиками расстались из-за «грубых нарушений» на рабочих местах.",
-    "image": "https://leonardo.osnova.io/8a7972cb-a774-5d4e-b625-73ce19d62b5d/",
+    "title": "Главное из интервью Лекса Фридмана с Дэном Хаузером — о работе над GTA и Red Dead Redemption, а также отменённой Agent",
+    "description": "Беседа длилась почти три часа.",
+    "fullText": "Беседа длилась почти три часа.",
+    "image": "https://leonardo.osnova.io/61b57256-efba-596b-abb6-7ebd08a0c2dc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4126996-rockstar-uvolila-30-sotrudnikov-za-popytku-sozdaniya-profsouza?from=rss",
-    "time": "2025-11-01T11:14:54.000Z"
+    "url": "https://dtf.ru/gameindustry/4127427-intervyu-leksa-fridmana-s-denom-khauzern-o-gta-i-red-dead-redemption?from=rss",
+    "time": "2025-11-01T15:37:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
