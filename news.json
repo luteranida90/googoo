@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Непале после лавины на связь не выходят 15 альпинистов",
+    "description": "В группу входили как местные, так и иностранные граждане, которые пытались забраться на гору Долма Кханг высотой 6 332 м",
+    "fullText": "В группу входили как местные, так и иностранные граждане, которые пытались забраться на гору Долма Кханг высотой 6 332 м",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25527949",
+    "time": "2025-11-03T12:56:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сколько заработают пилоты «Ф-1» в 2026-м? $339 млн на всех, Ферстаппен впереди Хэмилтона на $5 млн",
+    "description": "Считаем быстрые деньги.",
+    "fullText": "Считаем быстрые деньги.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/4f/cf03252dc4b0aa0e350a051e0cc9c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3361131.html",
+    "time": "2025-11-03T09:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
     "description": "Фото сделано, когда Ямаль не родился.",
@@ -11,17 +33,6 @@
     "time": "2025-11-03T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Оздоева два дубля подряд за ПАОК! Лидирует в Греции и второй в гонке бомбардиров",
-    "description": "Впереди матч против Рафы Бенитеса.",
-    "fullText": "Впереди матч против Рафы Бенитеса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f5/3c68d54254de3bd3724320b3c82af.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361668.html",
-    "time": "2025-11-03T08:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Rockstar обвинили в увольнении не менее 30 сотрудников, которые хотели организовать профсоюз",
     "description": "В Take-Two говорят, что с разработчиками расстались из-за «грубых нарушений» на рабочих местах.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4126996-rockstar-uvolila-30-sotrudnikov-za-popytku-sozdaniya-profsouza?from=rss",
     "time": "2025-11-01T11:14:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
