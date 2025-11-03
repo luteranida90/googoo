@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп обвинил РФ, Китай и КНДР в проведении тайных испытаний ядерного оружия",
+    "description": "Президент США заявил, что эти страны проводят испытания \"глубоко под землей, где люди не знают, что именно происходит\"",
+    "fullText": "Президент США заявил, что эти страны проводят испытания \"глубоко под землей, где люди не знают, что именно происходит\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25525779",
+    "time": "2025-11-03T05:57:14.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартак» ничему не учится. «Краснодар» даже не напрягался",
-    "description": "Мнение Ильи Васильева.",
-    "fullText": "Мнение Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/0c/d1677d3274730ad0e238253ccb70b.jpeg",
+    "title": "Два удаления – и все равно «Краснодар» победил «Спартак»! Станкович бесился, но отстает уже на 10 очков",
+    "description": "Драма.",
+    "fullText": "Драма.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/67/ca55af8af4dfd8ae8a04f00f7a794.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361654.html",
-    "time": "2025-11-02T19:42:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361624.html",
+    "time": "2025-11-02T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел ремастер Tales of Xillia — с текстовым переводом на русский язык",
-    "description": "Обновлённую версию JRPG продают в Steam за 2849 рублей.",
-    "fullText": "Обновлённую версию JRPG продают в Steam за 2849 рублей.",
-    "image": "https://leonardo.osnova.io/d8f8579e-69cf-528f-9102-1551595fa16d/-/format/mp4/",
+    "title": "Триллер «Долгая прогулка» вошёл в тройку самых популярных фильмов октября у российских «пиратов»",
+    "description": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
+    "fullText": "Лидером стала чёрная комедия «Пойман с поличным» Даррена Аронофски, а на второй строчке — «Код 3».",
+    "image": "https://leonardo.osnova.io/dcb05006-5a4e-5c85-ae5f-124c019d06af/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4123829-remaster-tales-of-xillia-s-russkim-perevodom?from=rss",
-    "time": "2025-10-31T10:52:22.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4122488-triller-dolgaa-progulka-v-troike-populyarnykh-filmov-oktyabrya-u-piratov?from=rss",
+    "time": "2025-10-31T13:14:52.000Z"
   }
 ]
