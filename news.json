@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Певица Зара: Николаев объединял зрителей совершенно разных поколений",
+    "description": "Артистка отметила, что телеведущий открыл много новых имен, артистов, сформировавших современную сцену",
+    "fullText": "Артистка отметила, что телеведущий открыл много новых имен, артистов, сформировавших современную сцену",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25536015",
+    "time": "2025-11-04T21:06:29.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Ливерпуль» vs «Реал»: еврокубковый триллер на горизонте! Не упустите матч — получите фрибет",
     "description": "7777 рублей от Лиги Ставок.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бекхэм посвящен в рыцари. Теперь он сэр Дэвид",
-    "description": "Вслед за Саутгейтом.",
-    "fullText": "Вслед за Саутгейтом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/54/738dd5d144427b6a590cee775deb9.jpeg",
+    "title": "Хаби в «Ливерпуле»: два мяча со своей половины, дуэт с Джеррардом и гол в стамбульском финале",
+    "description": "Жил в центре города.",
+    "fullText": "Жил в центре города.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/6b/ac14bb70c4c4496091f8a5c479aab.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361979.html",
-    "time": "2025-11-04T16:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361781.html",
+    "time": "2025-11-04T17:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4132035-kinoskazka-gorynych-sobrala-milliard-rubley-v-prokate-rossii?from=rss",
     "time": "2025-11-04T04:44:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
