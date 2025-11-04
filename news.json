@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МИД Нигерии ответили на слова Трампа о преследованиях христиан",
-    "description": "Глава нигерийского внешнеполитического ведомства Юсуф Туггар заявил, что его государство привержено свободе вероисповедания",
-    "fullText": "Глава нигерийского внешнеполитического ведомства Юсуф Туггар заявил, что его государство привержено свободе вероисповедания",
+    "title": "По делу о ранении россиянки в Аланье назначили судебное заседание",
+    "description": "Россиянин нанес своей жене ножевые ранения, позже его задержала местная полиция",
+    "fullText": "Россиянин нанес своей жене ножевые ранения, позже его задержала местная полиция",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25532483",
-    "time": "2025-11-04T10:22:39.000Z"
+    "url": "https://tass.ru/proisshestviya/25532699",
+    "time": "2025-11-04T10:50:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Ямаль зажжет в Брюгге, Лаутаро отыграется на «Кайрате», «Бавария» – не фаворит. Что будет в туре ЛЧ: вероятности",
+    "description": "Время для замен в Фэнтези ЛЧ.",
+    "fullText": "Время для замен в Фэнтези ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/46/1222f9cb94cd6a13402b237624838.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3361714.html",
+    "time": "2025-11-04T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-04T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рыбакина – в 1/2, Мирра может сыграть. Что происходит на итоговом турнире?",
-    "description": "Итоги понедельника.",
-    "fullText": "Итоги понедельника.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/24/59d8023c94693a299abd224993b29.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3361841.html",
-    "time": "2025-11-04T04:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Звезда Red Dead Redemption 2 Роджер Кларк озвучит рассказчика в ролевой игре Starfinder: Afterlight",
-    "description": "Он присоединился к Нилу Ньюбону и прочим артистам.",
-    "fullText": "Он присоединился к Нилу Ньюбону и прочим артистам.",
-    "image": "https://leonardo.osnova.io/c8f5a1a8-ab2c-5f9e-b3bb-17396d59155f/",
+    "title": "Дизайнер Doom заявил, что MMO по Halo отменили в 2008 году ради премии Дона Мэттрика",
+    "description": "Разработчик поделился общими подробностями проекта.",
+    "fullText": "Разработчик поделился общими подробностями проекта.",
+    "image": "https://leonardo.osnova.io/01d19503-f8f3-5596-a8a4-80b02128d072/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4130923-roger-klark-ozvuchit-rasskazchika-v-starfinder-afterlight?from=rss",
-    "time": "2025-11-03T14:25:04.000Z"
+    "url": "https://dtf.ru/gameindustry/4130679-otmena-mmo-po-halo-v-2008-godu?from=rss",
+    "time": "2025-11-03T12:23:34.000Z"
   }
 ]
