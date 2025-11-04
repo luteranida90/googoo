@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Хуснуллин и Пасечник подписали программу по развитию дорожной сети ЛНР",
-    "description": "В ходе совещания также рассмотрели вопросы жилищного строительства и модернизации коммунальной инфраструктуры в республике",
-    "fullText": "В ходе совещания также рассмотрели вопросы жилищного строительства и модернизации коммунальной инфраструктуры в республике",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25535723",
-    "time": "2025-11-04T20:04:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Ливерпуль» vs «Реал»: еврокубковый триллер на горизонте! Не упустите матч — получите фрибет",
     "description": "7777 рублей от Лиги Ставок.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Расистский скандал во Франции: игрок помахал перед носом. Сделал «фу», потому что у соперника плохо пахло изо рта",
-    "description": "Просят 10 матчей бана.",
-    "fullText": "Просят 10 матчей бана.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/0d/859a6e5a443acb46438547075fe2a.jpeg",
+    "title": "Бекхэм посвящен в рыцари. Теперь он сэр Дэвид",
+    "description": "Вслед за Саутгейтом.",
+    "fullText": "Вслед за Саутгейтом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/54/738dd5d144427b6a590cee775deb9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361796.html",
-    "time": "2025-11-04T16:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361979.html",
+    "time": "2025-11-04T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4132035-kinoskazka-gorynych-sobrala-milliard-rubley-v-prokate-rossii?from=rss",
     "time": "2025-11-04T04:44:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
