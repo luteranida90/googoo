@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Си Цзиньпин высоко оценил вклад Мишустина в развитие сотрудничества РФ и КНР",
-    "description": "Китайский лидер назвал российского премьера \"хорошим другом\" народа республики",
-    "fullText": "Китайский лидер назвал российского премьера \"хорошим другом\" народа республики",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250507/8219141.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Барса» другая без Педри, игроки «Реала» кайфуют от обороны, первый матч «Юве» Спаллетти. Тактика топ-лиг",
+    "description": "И борьба с длинными аутами.",
+    "fullText": "И борьба с длинными аутами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/39/8eb5e916749ff8a9ea56a8a81546c.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25530177",
-    "time": "2025-11-04T04:02:51.000Z"
+    "url": "https://www.sports.ru/football/blogs/3361733.html",
+    "time": "2025-11-03T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-03T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гонка с Глебовым из ЦСКА, уникальные детали о матчах «Барсы», главные интриги АПЛ. Лучшее на ВидеоСпортсе’‘",
-    "description": "Самое сочное.",
-    "fullText": "Самое сочное.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/3b/5b1a2eaef41168e4651c86725f862.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361735.html",
-    "time": "2025-11-03T17:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "СМИ: выходные с 31 октября по 2 ноября стали худшими в США по кассовым сборам за 2025 год",
     "description": "А прошедший месяц стал самым слабым октябрём для проката страны за 27 лет.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4130170-khudshie-vykhodnye-v-ssha-po-kassovym-sboram?from=rss",
     "time": "2025-11-03T07:08:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
