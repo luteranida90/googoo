@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Рябков: Россия и США постоянно ведут контакты",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/25539381",
-    "time": "2025-11-05T08:18:04.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
     "description": "Выбирайте теннисисток в Основе Finals.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Издательство Kodansha и постановщица «Земли кочевников» основали студию по производству игровых экранизаций манги",
-    "description": "Хлоя Чжао заняла должность творческого директора.",
-    "fullText": "Хлоя Чжао заняла должность творческого директора.",
-    "image": "https://leonardo.osnova.io/91a96b2b-349f-5955-8f12-51c04a22cb63/",
+    "title": "Отгрузки Nintendo Switch 2 достигли 10,3 миллиона единиц — за четыре месяца продаж",
+    "description": "Mario Kart World есть почти у всех владельцев консоли.",
+    "fullText": "Mario Kart World есть почти у всех владельцев консоли.",
+    "image": "https://leonardo.osnova.io/65a796a5-11e5-545a-8384-273bc6e1eaac/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4132768-kodansha-otkryvaet-studiyu-dlya-ekranizatsiy-mangi?from=rss",
-    "time": "2025-11-04T12:20:48.000Z"
+    "url": "https://dtf.ru/gameindustry/4132180-prodazhi-nintendo-switch-2-dostigli-10-3-milliona?from=rss",
+    "time": "2025-11-04T07:26:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
