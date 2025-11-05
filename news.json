@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин: работа по межнацотношениям не должна восприниматься второстепенной",
-    "description": "Она должна быть определенным образом унифицирована и не выстраиваться по остаточному принципу, отметил президент России",
-    "fullText": "Она должна быть определенным образом унифицирована и не выстраиваться по остаточному принципу, отметил президент России",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529901.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Поздно пить боржоми, Женя». Рылов вдруг захотел нейтральный статус",
+    "description": "А что случилось?",
+    "fullText": "А что случилось?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ac/7811276a442919f915d75797358ac.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/25546581",
-    "time": "2025-11-05T18:52:42.000Z"
+    "url": "https://www.sports.ru/aquatics/blogs/3362220.html",
+    "time": "2025-11-05T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,25 @@
     "time": "2025-11-05T15:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "90% молодежи вовлечено в спорт, Fan ID расширят «на новые матчи и кубки». Свежие идеи и подсчеты Дегтярева",
-    "description": "Выступил в Самаре.",
-    "fullText": "Выступил в Самаре.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/a3/29c6ec7fb404b852950828cce14f4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/athletics/blogs/3362209.html",
-    "time": "2025-11-05T15:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Обзор Football Manager 26. Крутая игра, которой нужен еще год",
-    "description": "Красивые матчи, но сломанный интерфейс.",
-    "fullText": "Красивые матчи, но сломанный интерфейс.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/33/7efd8e63a44359c0bafce2328d9ad.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/games/blogs/3361910.html",
-    "time": "2025-11-05T15:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Олдскульный сайд-скроллер Terminator 2D: No Fate перенесли с ноября на 12 декабря",
-    "description": "Издателю понадобится ещё немного времени, чтобы подготовить физические издания.",
-    "fullText": "Издателю понадобится ещё немного времени, чтобы подготовить физические издания.",
-    "image": "https://leonardo.osnova.io/d7a537a0-060e-5cc3-b252-a244232305ec/",
+    "title": "Состоялся анонс игры «Киберслав: Затмение» по мотивам анимационного сериала",
+    "description": "Её планируют выпустить в 2027 году.",
+    "fullText": "Её планируют выпустить в 2027 году.",
+    "image": "https://leonardo.osnova.io/f11f5e0b-05ba-57fd-a634-64f856292a06/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4134858-perenos-reliza-terminator-2d-no-fate?from=rss",
-    "time": "2025-11-05T12:46:26.000Z"
+    "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
+    "time": "2025-11-05T09:56:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
