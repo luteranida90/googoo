@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Жители Земли смогут наблюдать в ноябре второе суперлуние",
-    "description": "Луна будет находиться менее чем в 360 тыс. км от нашей планеты",
-    "fullText": "Луна будет находиться менее чем в 360 тыс. км от нашей планеты",
+    "title": "Песков: Путин поручил не готовить ядерные испытания, а изучить целесообразность",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/25544239",
-    "time": "2025-11-05T14:27:15.000Z"
+    "url": "https://tass.ru/politika/25544821",
+    "time": "2025-11-05T15:03:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Обзор Football Manager 26. Крутая игра, которой нужен еще год",
+    "description": "Красивые матчи, но сломанный интерфейс.",
+    "fullText": "Красивые матчи, но сломанный интерфейс.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/33/7efd8e63a44359c0bafce2328d9ad.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3361910.html",
+    "time": "2025-11-05T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Президент Сербии не знает имени сына Станковича. Знакомим с Александаром – номинантом Golden Boy",
-    "description": "И участником ЛЧ.",
-    "fullText": "И участником ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/27/4e141ce5e4672bcaccb43cc400286.jpeg",
+    "title": "«Бавария» идеальна и с «ПСЖ», «Ливерпуль» задавил «Реал», «Арсенал» закодирован. Главное в ЛЧ",
+    "description": "С шедевром Ван де Вена.",
+    "fullText": "С шедевром Ван де Вена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/05/e6193fa084e508323e32ee6a0464d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362125.html",
-    "time": "2025-11-05T09:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362027.html",
+    "time": "2025-11-05T10:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Во что поиграть: главные релизы ноября 2025",
-    "description": "Сезон интересных новинок ещё не окончен.",
-    "fullText": "Сезон интересных новинок ещё не окончен.",
-    "image": "https://leonardo.osnova.io/00a08df7-5dcc-58ce-b4c7-abb160b64fab/",
+    "title": "Nintendo: 84% текущих владельцев Switch 2 покупали оригинальную консоль",
+    "description": "Компания также намекнула на большие планы в кино.",
+    "fullText": "Компания также намекнула на большие планы в кино.",
+    "image": "https://leonardo.osnova.io/f4ec6374-bca1-5f7d-aa2b-ca1c9c57fa9e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4119170-glavnye-igry-noyabrya-2025-relizy-strategii-i-klassika?from=rss",
-    "time": "2025-11-04T19:19:18.000Z"
+    "url": "https://dtf.ru/gameindustry/4134223-nintendo-84procent-vladecev-switch-2?from=rss",
+    "time": "2025-11-05T06:48:47.000Z"
   }
 ]
