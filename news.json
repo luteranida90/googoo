@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Поздно пить боржоми, Женя». Рылов вдруг захотел нейтральный статус",
-    "description": "А что случилось?",
-    "fullText": "А что случилось?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ac/7811276a442919f915d75797358ac.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В подконтрольной Киеву части ДНР прекратили движение некоторых поездов",
+    "description": "Украинские власти остановили железнодорожное сообщение со Славянском и Краматорском",
+    "fullText": "Украинские власти остановили железнодорожное сообщение со Славянском и Краматорском",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3362220.html",
-    "time": "2025-11-05T16:00:00.000Z"
+    "url": "https://tass.ru/obschestvo/25547081",
+    "time": "2025-11-05T20:13:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сегодня «Сити» – «Дортмунд». Играйте в «100к1» с комментаторами ЛЧ и смотрите матч в Okko",
-    "description": "Начало – в 23:00.",
-    "fullText": "Начало – в 23:00.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a2/0df2773ce486ea0c2bef4fee59f13.jpeg",
+    "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
+    "description": "Узнайте в новом тесте.",
+    "fullText": "Узнайте в новом тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/a6/304361836480a9c73d87f48f829b2.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/5g357d",
-    "time": "2025-11-05T15:50:00.000Z"
+    "url": "https://sirena.world/lno55y",
+    "time": "2025-11-05T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Президент Сербии не знает имени сына Станковича. Знакомим с Александаром – номинантом Golden Boy",
+    "description": "И участником ЛЧ.",
+    "fullText": "И участником ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/27/4e141ce5e4672bcaccb43cc400286.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362125.html",
+    "time": "2025-11-05T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
     "time": "2025-11-05T09:56:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
