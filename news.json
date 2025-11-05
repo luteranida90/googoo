@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В России пациенты чаще обращаются к ИИ с симптомами гипотиреоза и депрессии",
-    "description": "По данным исследования компании \"Сберздоровье\", также россияне просят подсказать, как правильно оказать первую помощь при порезах, ушибах, ожогах и в экстренных случаях",
-    "fullText": "По данным исследования компании \"Сберздоровье\", также россияне просят подсказать, как правильно оказать первую помощь при порезах, ушибах, ожогах и в экстренных случаях",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25538399",
-    "time": "2025-11-05T07:04:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
     "description": "Выбирайте теннисисток в Основе Finals.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рука в штрафной «Реала» – не пенальти. У «Ливерпуля» отняли даже штрафной",
-    "description": "Естественное положение?",
-    "fullText": "Естественное положение?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c6/21d5d57294fc78e3ccc4ed023a7dd.jpeg",
+    "title": "Первый командный вид спорта, в котором Россия вернулась",
+    "description": "Камбэк в водном поло.",
+    "fullText": "Камбэк в водном поло.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4c/2f3084739429689cbdb1bb63aea8d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362064.html",
-    "time": "2025-11-04T21:40:00.000Z"
+    "url": "https://www.sports.ru/aquatics/blogs/3361984.html",
+    "time": "2025-11-04T22:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4132768-kodansha-otkryvaet-studiyu-dlya-ekranizatsiy-mangi?from=rss",
     "time": "2025-11-04T12:20:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
