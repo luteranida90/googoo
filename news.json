@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Рябков: Россия и США постоянно ведут контакты",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25539381",
+    "time": "2025-11-05T08:18:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
     "description": "Выбирайте теннисисток в Основе Finals.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первый командный вид спорта, в котором Россия вернулась",
-    "description": "Камбэк в водном поло.",
-    "fullText": "Камбэк в водном поло.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4c/2f3084739429689cbdb1bb63aea8d.jpeg",
+    "title": "«Бавария» вытерпела «ПСЖ» в меньшинстве. У Компани 16 побед из 16",
+    "description": "Парижане потеряли Дембеле и Хакими.",
+    "fullText": "Парижане потеряли Дембеле и Хакими.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/18/8b254c18748d88bfc83ef90f0779a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3361984.html",
-    "time": "2025-11-04T22:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362075.html",
+    "time": "2025-11-04T23:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4132768-kodansha-otkryvaet-studiyu-dlya-ekranizatsiy-mangi?from=rss",
     "time": "2025-11-04T12:20:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
