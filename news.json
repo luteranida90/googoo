@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Премьер Бельгии запланировал заседание Совбеза из-за инцидентов с дронами",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25541539",
-    "time": "2025-11-05T10:33:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
-    "description": "Выбирайте теннисисток в Основе Finals.",
-    "fullText": "Выбирайте теннисисток в Основе Finals.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/10/39488cf1f4687b7dead63ca11ac19.png",
+    "title": "Кто из этих игроков – рекордсмен по победам в FONBET Кубке России?",
+    "description": "Узнайте в «Кубке огня».",
+    "fullText": "Узнайте в «Кубке огня».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ff/212e73fbc42d3a15bfdc5aa279b4b.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/kmw55s",
-    "time": "2025-11-05T04:30:00.000Z"
+    "url": "https://sirena.world/v37hq4",
+    "time": "2025-11-05T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«В 20 лет увидел немецкую голую бабу. Все, блин». 8 историй от Николая Давыденко",
-    "description": "Сходил на подкаст к Весниной.",
-    "fullText": "Сходил на подкаст к Весниной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/c8/55a75000c4f7f9f8a0453b72af9f6.jpeg",
+    "title": "9 секунд величия Ван де Вена: промчал все поле с мячом и забил. ЦЗ – лучший бомбардир «Тоттенхэма»!",
+    "description": "И в ЛЧ, и в АПЛ.",
+    "fullText": "И в ЛЧ, и в АПЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/b7/e5814ae73447a9ed8f3efb3af8595.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3361693.html",
-    "time": "2025-11-05T04:07:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362073.html",
+    "time": "2025-11-05T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4132704-zemskij-sobor-novyy-spin-off-igry-smuty?from=rss",
     "time": "2025-11-04T11:40:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
