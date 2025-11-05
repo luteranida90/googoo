@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "КПРФ просит запретить аутсорсинг для экстренных служб",
-    "description": "По словам депутата Юрия Афонина, опыт некоторых регионов показал, что передача автомобилей скорой помощи сторонним организациям приводит риску невыезда бригад на вызовы",
-    "fullText": "По словам депутата Юрия Афонина, опыт некоторых регионов показал, что передача автомобилей скорой помощи сторонним организациям приводит риску невыезда бригад на вызовы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25547787",
-    "time": "2025-11-05T22:17:15.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
     "description": "Ответят только знатоки.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Аманда Анисимова вдохновляет",
-    "description": "Восторг.",
-    "fullText": "Восторг.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f2/ae833a2364e84b02ea6d1ccf735d8.jpeg",
+    "title": "«Карабах» отнял очки у «Челси»! Играют смелее, чем вы думаете: есть даже элементы «Барселоны»",
+    "description": "Впечатления Вадима Лукомского.",
+    "fullText": "Впечатления Вадима Лукомского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/be/8a7e6c0344722a1d2a382ff505ecd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3362314.html",
-    "time": "2025-11-05T19:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362165.html",
+    "time": "2025-11-05T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
     "time": "2025-11-05T09:56:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
