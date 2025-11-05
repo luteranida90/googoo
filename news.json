@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "У экс-замгубернатора Рязанской области конфисковали имущество на 70,4 млн рублей",
-    "description": "Игоря Грекова осудили по делу о мошенничестве и получении взяток",
-    "fullText": "Игоря Грекова осудили по делу о мошенничестве и получении взяток",
+    "title": "Жители Земли смогут наблюдать в ноябре второе суперлуние",
+    "description": "Луна будет находиться менее чем в 360 тыс. км от нашей планеты",
+    "fullText": "Луна будет находиться менее чем в 360 тыс. км от нашей планеты",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25544003",
-    "time": "2025-11-05T14:03:48.000Z"
+    "url": "https://tass.ru/kosmos/25544239",
+    "time": "2025-11-05T14:27:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "6 раундов, 54 вопроса – большая игра на знание футболистов",
+    "description": "Вы в деле?",
+    "fullText": "Вы в деле?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/ea/d120797c444bba17ba2ced01764ae.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/pweyv2",
+    "time": "2025-11-05T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-05T09:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Ямаль, Холанд или Гирасси – кого возьмете на новый игровой день ЛЧ?",
-    "description": "Соберите команду в Основе.",
-    "fullText": "Соберите команду в Основе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/b7/564cbda9743a5a84077d8117c302e.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/lduhto",
-    "time": "2025-11-05T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«2025-й был только началом» — релизный трейлер Call of Duty: Black Ops 7",
-    "description": "Шутер выйдет 14 ноября.",
-    "fullText": "Шутер выйдет 14 ноября.",
-    "image": "https://leonardo.osnova.io/cb622143-22a8-50e7-8b6c-00f2f520cac8/-/format/mp4/",
+    "title": "Во что поиграть: главные релизы ноября 2025",
+    "description": "Сезон интересных новинок ещё не окончен.",
+    "fullText": "Сезон интересных новинок ещё не окончен.",
+    "image": "https://leonardo.osnova.io/00a08df7-5dcc-58ce-b4c7-abb160b64fab/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4133463-reliznyj-trejler-call-of-duty-black-ops-7?from=rss",
-    "time": "2025-11-04T17:55:38.000Z"
+    "url": "https://dtf.ru/games/4119170-glavnye-igry-noyabrya-2025-relizy-strategii-i-klassika?from=rss",
+    "time": "2025-11-04T19:19:18.000Z"
   }
 ]
