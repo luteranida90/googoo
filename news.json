@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Самарской области отменили опасность атаки БПЛА",
-    "description": "Режим был введен в регионе в 02:13 мск",
-    "fullText": "Режим был введен в регионе в 02:13 мск",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Рука в штрафной «Реала» – не пенальти. У «Ливерпуля» отняли даже штрафной",
+    "description": "Естественное положение?",
+    "fullText": "Естественное положение?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c6/21d5d57294fc78e3ccc4ed023a7dd.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25537271",
-    "time": "2025-11-05T03:53:53.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362064.html",
+    "time": "2025-11-04T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-04T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "15-летний сыграл в ЛЧ – рекорд! Макс Доуман из «Арсенала»",
-    "description": "Обошел Мукоко и Ямаля.",
-    "fullText": "Обошел Мукоко и Ямаля.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e0/eeef5f3ef462a9030b8dee17dfcf4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362060.html",
-    "time": "2025-11-04T21:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Киносказка «Горыныч» собрала миллиард рублей в российском прокате",
     "description": "Ей понадобилось меньше двух недель на покорение рубежа.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4132035-kinoskazka-gorynych-sobrala-milliard-rubley-v-prokate-rossii?from=rss",
     "time": "2025-11-04T04:44:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
