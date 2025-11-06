@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Часть Курчатова Курской области осталась без электричества",
-    "description": "Произошло аварийное отключение",
-    "fullText": "Произошло аварийное отключение",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25557659",
-    "time": "2025-11-06T19:55:48.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "6 раундов, 54 вопроса – большая игра на знание футболистов",
     "description": "Вы в деле?",
@@ -33,17 +22,6 @@
     "time": "2025-11-06T16:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "ЦСКА проиграл четвертый матч подряд. Показывали на ВидеоСпортсе’’",
-    "description": "«Торпедо» взяло реванш.",
-    "fullText": "«Торпедо» взяло реванш.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e8/f15a8d03c4a8aa8d6b320b1eb4e26.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/eGiBodYVXT07DHFdYX79sugD4aTzlNbbnfX1N52gJ8M",
-    "time": "2025-11-06T16:22:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Геймдиректор World of Warcraft уточнил, что Blizzard не работает над консольными версиями игры",
     "description": "По его словам, студия не стала бы скрывать подобное.",
@@ -53,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4137045-geimdirektor-world-of-warcraft-blizzard-ne-delayet-konsolnye-versii-igry?from=rss",
     "time": "2025-11-06T14:38:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
