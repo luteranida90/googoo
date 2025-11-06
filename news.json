@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Командир Ловец: за пять дней ВС РФ освободят восточную часть Купянска",
-    "description": "Командир штурмового отряда 1486-го мотострелкового полка с позывным Ловец отметил, что российские военные \"дожимают врага\"",
-    "fullText": "Командир штурмового отряда 1486-го мотострелкового полка с позывным Ловец отметил, что российские военные \"дожимают врага\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Песков объяснил, почему у Путина в Самаре не ожидается встречи с Федорищевым",
+    "description": "Отдельная встреча президента и губернатора была совсем недавно в ходе прошлого посещения Самары, указал пресс-секретарь",
+    "fullText": "Отдельная встреча президента и губернатора была совсем недавно в ходе прошлого посещения Самары, указал пресс-секретарь",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250113/8004245.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25556317",
-    "time": "2025-11-06T16:03:31.000Z"
+    "url": "https://tass.ru/politika/25556559",
+    "time": "2025-11-06T16:33:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "ЦСКА – «Торпедо»: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e8/f15a8d03c4a8aa8d6b320b1eb4e26.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/eGiBodYVXT07DHFdYX79sugD4aTzlNbbnfX1N52gJ8M",
+    "time": "2025-11-06T16:22:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,25 @@
     "time": "2025-11-06T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Каким был «Вашингтон» до Овечкина?",
-    "description": "Эпоха до эпохи.",
-    "fullText": "Эпоха до эпохи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/54/805b86f114419978abe3ce0fcd6d5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3316890.html",
-    "time": "2025-11-06T11:54:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Switch 2 состоялся релиз «мусоу»-экшена Hyrule Warriors: Age of Imprisonment",
-    "description": "Стоимость составила уже традиционные 70 долларов.",
-    "fullText": "Стоимость составила уже традиционные 70 долларов.",
-    "image": "https://leonardo.osnova.io/0afc274a-80e6-5e6d-b144-9f835c4ef17b/-/format/mp4/",
+    "title": "Warner Bros. работает над третьими «Гремлинами» — вместе со Стивеном Спилбергом и Крисом Коламбусом",
+    "description": "Релиз назначили на ноябрь 2027 года.",
+    "fullText": "Релиз назначили на ноябрь 2027 года.",
+    "image": "https://leonardo.osnova.io/f432476b-0405-5baa-bfd3-dd533938f57f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4136619-reliz-hyrule-warriors-age-of-imprisonment-na-switch-2?from=rss",
-    "time": "2025-11-06T11:17:50.000Z"
+    "url": "https://dtf.ru/cinema/4136937-gremlini-3-novyy-film-ot-warner-bros?from=rss",
+    "time": "2025-11-06T13:28:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Герои тура ЛЧ: боль «Барсы», звезды «Пафоса», аж троица из «Ньюкасла»",
+    "description": "С «Галатасараем» и «Карабахом».",
+    "fullText": "С «Галатасараем» и «Карабахом».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/68/993ceb3874ce1a4dcea6314651ea6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362303.html",
+    "time": "2025-11-06T12:23:00.000Z"
   }
 ]
