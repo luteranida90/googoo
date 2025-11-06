@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Народные облигации Якутска объемом 30 млн рублей раскупили за 20 минут",
-    "description": "Номинальная стоимость одной облигации составила 1 тыс. рублей",
-    "fullText": "Номинальная стоимость одной облигации составила 1 тыс. рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Чернышенко призвал решить логистические проблемы в детско-юношеском спорте",
+    "description": "Вице-премьер РФ отметил, что самой уязвимой частью населения в качестве доступности спорта являются многодетные семьи, семьи участников СВО, семьи в сельских регионах",
+    "fullText": "Вице-премьер РФ отметил, что самой уязвимой частью населения в качестве доступности спорта являются многодетные семьи, семьи участников СВО, семьи в сельских регионах",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8299553.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25556679",
-    "time": "2025-11-06T16:50:56.000Z"
+    "url": "https://tass.ru/obschestvo/25557001",
+    "time": "2025-11-06T17:24:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В EGS началась раздача Felix the Reaper — головоломки о танцующем работнике Министерства смерти",
+    "description": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
+    "fullText": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
+    "image": "https://leonardo.osnova.io/dde09566-285e-5abe-9ef4-0561842fd040/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4137384-razdacha-felix-the-reaper-v-egs?from=rss",
+    "time": "2025-11-06T16:52:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +44,14 @@
     "time": "2025-11-06T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Warner Bros. работает над третьими «Гремлинами» — вместе со Стивеном Спилбергом и Крисом Коламбусом",
-    "description": "Релиз назначили на ноябрь 2027 года.",
-    "fullText": "Релиз назначили на ноябрь 2027 года.",
-    "image": "https://leonardo.osnova.io/f432476b-0405-5baa-bfd3-dd533938f57f/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4136937-gremlini-3-novyy-film-ot-warner-bros?from=rss",
-    "time": "2025-11-06T13:28:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Моуринью незаслуженно проиграл, у «Сити» забил не только Холанд, Салиба – опорник. Тактика ЛЧ",
-    "description": "И катеначчо от «Айнтрахта».",
-    "fullText": "И катеначчо от «Айнтрахта».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6c/224d44a1140b49ee91bf99b4c3cc2.jpeg",
+    "title": "«Макларен» F1 – легенда: первый гиперкар, сборник мегатехнологий и мечта богачей",
+    "description": "Машина, открывшая эру гиперкаров.",
+    "fullText": "Машина, открывшая эру гиперкаров.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3d/275d6536a427083bc62ad0d4e0fa6.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362436.html",
+    "url": "https://www.sports.ru/automoto/blogs/3348255.html",
     "time": "2025-11-06T12:53:00.000Z"
   }
 ]
