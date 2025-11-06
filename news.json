@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Чернышенко призвал решить логистические проблемы в детско-юношеском спорте",
-    "description": "Вице-премьер РФ отметил, что самой уязвимой частью населения в качестве доступности спорта являются многодетные семьи, семьи участников СВО, семьи в сельских регионах",
-    "fullText": "Вице-премьер РФ отметил, что самой уязвимой частью населения в качестве доступности спорта являются многодетные семьи, семьи участников СВО, семьи в сельских регионах",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8299553.jpg",
+    "title": "Aftonbladet: аэропорт Гетеборг-Ландветтер приостановил работу из-за БПЛА",
+    "description": "Очевидец снял объект на камеру",
+    "fullText": "Очевидец снял объект на камеру",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25557001",
-    "time": "2025-11-06T17:24:34.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS началась раздача Felix the Reaper — головоломки о танцующем работнике Министерства смерти",
-    "description": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
-    "fullText": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
-    "image": "https://leonardo.osnova.io/dde09566-285e-5abe-9ef4-0561842fd040/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4137384-razdacha-felix-the-reaper-v-egs?from=rss",
-    "time": "2025-11-06T16:52:44.000Z"
+    "url": "https://tass.ru/ekonomika/25557201",
+    "time": "2025-11-06T17:57:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,6 +22,17 @@
     "time": "2025-11-06T16:22:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "ЦСКА никак не выйдет из кризиса. Почему же?",
+    "description": "Не только из-за вратарей.",
+    "fullText": "Не только из-за вратарей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/0c/e7f8b9e684a3fbc4be4e39e7e8dd8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3362438.html",
+    "time": "2025-11-06T13:35:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
     "description": "Узнайте в новом тесте.",
@@ -44,14 +44,14 @@
     "time": "2025-11-06T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Макларен» F1 – легенда: первый гиперкар, сборник мегатехнологий и мечта богачей",
-    "description": "Машина, открывшая эру гиперкаров.",
-    "fullText": "Машина, открывшая эру гиперкаров.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3d/275d6536a427083bc62ad0d4e0fa6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3348255.html",
-    "time": "2025-11-06T12:53:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "NetEase закроет студию бывших авторов Watch Dogs — они опубликовали пятиминутный ролик с геймплеем своего проекта",
+    "description": "Его ещё может спасти другой издатель.",
+    "fullText": "Его ещё может спасти другой издатель.",
+    "image": "https://leonardo.osnova.io/3cae0b49-0924-508d-a6cc-77567eea30c6/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4136693-neteiz-zakryvaet-studiyu-bad-brain-game-studios?from=rss",
+    "time": "2025-11-06T11:40:33.000Z"
   }
 ]
