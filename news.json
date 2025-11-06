@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Aftonbladet: аэропорт Гетеборг-Ландветтер приостановил работу из-за БПЛА",
-    "description": "Очевидец снял объект на камеру",
-    "fullText": "Очевидец снял объект на камеру",
+    "title": "В Ханое концерт арт-групп \"Хор Турецкого\" и \"Сопрано\" собрал около 800 зрителей",
+    "description": "В программу выступления российских музыкантов вошли классические оперные арии, народные песни и мировые хиты",
+    "fullText": "В программу выступления российских музыкантов вошли классические оперные арии, народные песни и мировые хиты",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25557201",
-    "time": "2025-11-06T17:57:10.000Z"
+    "url": "https://tass.ru/kultura/25556475",
+    "time": "2025-11-06T18:19:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В EGS началась раздача Felix the Reaper — головоломки о танцующем работнике Министерства смерти",
+    "description": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
+    "fullText": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
+    "image": "https://leonardo.osnova.io/dde09566-285e-5abe-9ef4-0561842fd040/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4137384-razdacha-felix-the-reaper-v-egs?from=rss",
+    "time": "2025-11-06T16:52:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +33,17 @@
     "time": "2025-11-06T16:22:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
+    "description": "Фото сделано, когда Ямаль не родился.",
+    "fullText": "Фото сделано, когда Ямаль не родился.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/1a/fbb9866bf4ccda5de2078dffc832e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-11-06T15:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "ЦСКА никак не выйдет из кризиса. Почему же?",
     "description": "Не только из-за вратарей.",
@@ -31,27 +53,5 @@
     "category": "all",
     "url": "https://www.sports.ru/hockey/blogs/3362438.html",
     "time": "2025-11-06T13:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/a6/304361836480a9c73d87f48f829b2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-11-06T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "NetEase закроет студию бывших авторов Watch Dogs — они опубликовали пятиминутный ролик с геймплеем своего проекта",
-    "description": "Его ещё может спасти другой издатель.",
-    "fullText": "Его ещё может спасти другой издатель.",
-    "image": "https://leonardo.osnova.io/3cae0b49-0924-508d-a6cc-77567eea30c6/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4136693-neteiz-zakryvaet-studiyu-bad-brain-game-studios?from=rss",
-    "time": "2025-11-06T11:40:33.000Z"
   }
 ]
