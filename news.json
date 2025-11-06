@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Орловской области отменили авиационную опасность",
-    "description": "Угрозу объявляли трижды с начала суток",
-    "fullText": "Угрозу объявляли трижды с начала суток",
+    "title": "Армия Израиля заявила, что целью ударов по Ливану были объекты спецсил \"Хезболлах\"",
+    "description": "По версии израильской стороны, силы \"Радван\" пытаются восстановить свою инфраструктуру на юге Ливана с целью причинения вреда еврейскому государству",
+    "fullText": "По версии израильской стороны, силы \"Радван\" пытаются восстановить свою инфраструктуру на юге Ливана с целью причинения вреда еврейскому государству",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25557357",
-    "time": "2025-11-06T18:33:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS началась раздача Felix the Reaper — головоломки о танцующем работнике Министерства смерти",
-    "description": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
-    "fullText": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
-    "image": "https://leonardo.osnova.io/dde09566-285e-5abe-9ef4-0561842fd040/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4137384-razdacha-felix-the-reaper-v-egs?from=rss",
-    "time": "2025-11-06T16:52:44.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25557405",
+    "time": "2025-11-06T18:49:28.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,6 +22,17 @@
     "time": "2025-11-06T16:22:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Адекватные в ворота не встают». Как живет Довбня в «Спартаке»",
+    "description": "«Да какой я пахан?»",
+    "fullText": "«Да какой я пахан?»",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/53/3772fc5c54350b82028c1db31185c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3360889.html",
+    "time": "2025-11-06T15:41:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
     "description": "Фото сделано, когда Ямаль не родился.",
@@ -44,14 +44,14 @@
     "time": "2025-11-06T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это самый сексуальный спортсмен мира по версии британок с сайта знакомств для замужних",
-    "description": "«Новый эталон привлекательности».",
-    "fullText": "«Новый эталон привлекательности».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/10/4e58059a14a6fbb3e5921cb5dd733.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/exotic/blogs/3362442.html",
-    "time": "2025-11-06T13:49:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Геймдиректор World of Warcraft уточнил, что Blizzard не работает над консольными версиями игры",
+    "description": "По его словам, студия не стала бы скрывать подобное.",
+    "fullText": "По его словам, студия не стала бы скрывать подобное.",
+    "image": "https://leonardo.osnova.io/9eebc0bc-5b8b-52c9-9f7d-27502df263b8/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4137045-geimdirektor-world-of-warcraft-blizzard-ne-delayet-konsolnye-versii-igry?from=rss",
+    "time": "2025-11-06T14:38:42.000Z"
   }
 ]
