@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В ФХР обдумывают возможность оспорить решение IIHF о недопуске россиян",
+    "description": "В середине октября апелляционный трибунал Международной федерации бобслея и скелетона признал незаконным решение конгресса организации о запрете на участие российских спортсменов в соревнованиях",
+    "fullText": "В середине октября апелляционный трибунал Международной федерации бобслея и скелетона признал незаконным решение конгресса организации о запрете на участие российских спортсменов в соревнованиях",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25550903",
+    "time": "2025-11-06T08:35:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой фотографии?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Бенфики», «Аякса» и «Вильярреала» 1 очко на троих к середине ЛЧ. Как так?",
-    "description": "Они все в пятерке худших.",
-    "fullText": "Они все в пятерке худших.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/be/e49bcd7824823af0a57ad77ad93cb.jpeg",
+    "title": "«Карабах» задавил «Челси» и забил 2 за 10 минут – дельная ничья! Идут вровень",
+    "description": "Кто бы мог подумать!",
+    "fullText": "Кто бы мог подумать!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ca/8fa1ef4e64e5580f5ee3eb4beb28f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3362354.html",
-    "time": "2025-11-06T00:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362304.html",
+    "time": "2025-11-06T00:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4135165-battlefield-6-samaya-skachivayemaya-igra-na-ps5-v-oktyabre?from=rss",
     "time": "2025-11-05T15:49:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
