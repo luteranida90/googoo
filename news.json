@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Escape from Tarkov добавили в список желаемого в Steam более 750 тысяч раз — почти за два месяца",
+    "description": "Разработчики поделились списком наград за участие в бета-тесте и предзаказы версии 1.0.",
+    "fullText": "Разработчики поделились списком наград за участие в бета-тесте и предзаказы версии 1.0.",
+    "image": "https://leonardo.osnova.io/ef2234a7-529c-5f06-97cb-3a776c14c7a2/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4136933-escape-from-tarkov-dostig-750-tysyach-dobavleniy-v-steam?from=rss",
+    "time": "2025-11-06T13:38:54.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Башкирии отменили режим беспилотной опасности",
-    "description": "Угроза действовала второй раз за сутки",
-    "fullText": "Угроза действовала второй раз за сутки",
+    "title": "Поправки в проект бюджета предусматривают 2,6 млрд рублей на беспилотные авиасистемы",
+    "description": "Министр финансов Антон Силуанов заявил, что эти средства позволят предоставить необходимые грантовые поддержки",
+    "fullText": "Министр финансов Антон Силуанов заявил, что эти средства позволят предоставить необходимые грантовые поддержки",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25554273",
-    "time": "2025-11-06T13:12:48.000Z"
+    "url": "https://tass.ru/ekonomika/25554593",
+    "time": "2025-11-06T13:35:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Споэльстра не дает «Хит» сливать. Теперь он радикально перестроил атаку",
+    "description": "Не баг, а фича.",
+    "fullText": "Не баг, а фича.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/37/c64963e2b4ce1907e22f53f5ede76.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3362015.html",
+    "time": "2025-11-06T09:57:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/0z5rhs",
     "time": "2025-11-06T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вот это магия Дёмина: непредсказуемый пас за голову",
-    "description": "Напомнил себя из университета.",
-    "fullText": "Напомнил себя из университета.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/38/c5ca23f8f478ba139e3723d704b48.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3362362.html",
-    "time": "2025-11-06T08:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: сиквел «Кейпоп-охотниц на демонов» планируют выпустить в 2029 году",
-    "description": "Netflix и Sony подписали контракт на производство второй части.",
-    "fullText": "Netflix и Sony подписали контракт на производство второй части.",
-    "image": "https://leonardo.osnova.io/ebe6e2fd-f357-5cd7-94b3-0e532323713c/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4135623-sikvel-key-pop-ohotnits-na-demonov-vyidet-v-2029-godu?from=rss",
-    "time": "2025-11-05T19:50:41.000Z"
   }
 ]
