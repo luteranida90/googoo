@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Экс-советник Саркози считает Макрона худшим президентом Франции",
+    "description": "По словам Алена Минка, французский президент ошибочно \"считает себя самым умным и хитрым, чтобы решать любые проблемы\"",
+    "fullText": "По словам Алена Минка, французский президент ошибочно \"считает себя самым умным и хитрым, чтобы решать любые проблемы\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25549551",
+    "time": "2025-11-06T06:04:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой фотографии?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся анонс игры «Киберслав: Затмение» по мотивам анимационного сериала",
-    "description": "Её планируют выпустить в 2027 году.",
-    "fullText": "Её планируют выпустить в 2027 году.",
-    "image": "https://leonardo.osnova.io/f11f5e0b-05ba-57fd-a634-64f856292a06/",
+    "title": "Режиссёр «Игры в имитацию» снимет биографический фильм об Ibelin — игроке в World of Warcraft, который страдал мышечной дистрофией",
+    "description": "У ленты появился актёрский состав — в него вошли Стивен Грэм, Изабела Мерсед, Энтони Хопкинс и другие артисты.",
+    "fullText": "У ленты появился актёрский состав — в него вошли Стивен Грэм, Изабела Мерсед, Энтони Хопкинс и другие артисты.",
+    "image": "https://leonardo.osnova.io/87fd89b6-477e-53d3-a67a-f1cfb642c94f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
-    "time": "2025-11-05T09:56:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4135011-biograficheskiy-film-ob-ibelin-geymer-ez-world-of-warcraft?from=rss",
+    "time": "2025-11-05T14:20:02.000Z"
   }
 ]
