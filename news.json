@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Гендиректор ФХР: надо не заниматься фантазиями, а делать свое дело",
+    "description": "Дмитрий Курбатов — об отстранении россиян от международных соревнований и общении с IIHF",
+    "fullText": "Дмитрий Курбатов — об отстранении россиян от международных соревнований и общении с IIHF",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/interviews/25544677",
+    "time": "2025-11-06T05:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой фотографии?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Пафоса» 1-я победа в ЛЧ! Сразу над соперником из топ-лиги",
-    "description": "Так засушили «Вильярреал».",
-    "fullText": "Так засушили «Вильярреал».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/75/b7dd08e6444d5a75044e2b69b6342.jpeg",
+    "title": "Овечкин не забивает, у «Вашингтона» 4 поражения подряд. Что вообще происходит?",
+    "description": "Все пошло не по плану.",
+    "fullText": "Все пошло не по плану.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e5/f6c3a01c641538a4572895fa7b581.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362328.html",
-    "time": "2025-11-05T21:15:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3361748.html",
+    "time": "2025-11-05T21:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
     "time": "2025-11-05T09:56:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
