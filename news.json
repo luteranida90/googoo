@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропортах Краснодара и Самары ввели ограничения",
+    "description": "Решение было принято с целью обеспечения безопасности полетов",
+    "fullText": "Решение было принято с целью обеспечения безопасности полетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25548181",
+    "time": "2025-11-06T00:43:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
     "description": "Ответят только знатоки.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Карабах» отнял очки у «Челси»! Играют смелее, чем вы думаете: есть даже элементы «Барселоны»",
-    "description": "Впечатления Вадима Лукомского.",
-    "fullText": "Впечатления Вадима Лукомского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/be/8a7e6c0344722a1d2a382ff505ecd.jpeg",
+    "title": "Стратегия РПЛ-2030: что обещают? Новые форматы турнира, международный кубок зимой, кодекс этики",
+    "description": "И позитивное восприятие судей.",
+    "fullText": "И позитивное восприятие судей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/67/d927427e343c9b748d74d044825ec.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362165.html",
-    "time": "2025-11-05T20:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362122.html",
+    "time": "2025-11-05T20:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
     "time": "2025-11-05T09:56:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
