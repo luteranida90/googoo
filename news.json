@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На северо-западе России ожидаются небольшие осадки и ночные заморозки",
-    "description": "В НАО ожидается температура минус 2-7 градусов, на западе округа до плюс 3, на востоке до минус 12 градусов",
-    "fullText": "В НАО ожидается температура минус 2-7 градусов, на западе округа до плюс 3, на востоке до минус 12 градусов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25548893",
-    "time": "2025-11-06T04:01:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
-    "description": "Ответят только знатоки.",
-    "fullText": "Ответят только знатоки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/f4/3e83eb941434f99387a29829f82a6.jpeg",
+    "title": "Кого мы закрасили на этой фотографии?",
+    "description": "Вопрос из квиза про ЛЧ.",
+    "fullText": "Вопрос из квиза про ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/94/e1ad42fc24ef389630708b0cd24c9.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/z69vfk",
-    "time": "2025-11-05T21:30:00.000Z"
+    "time": "2025-11-06T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартак» – в топ-3 Первой лиги. Тренер раскрыл секреты дерзкого новичка",
-    "description": "Как Кострома приближается к РПЛ.",
-    "fullText": "Как Кострома приближается к РПЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/8b/3b4be1e57410ba062dff462ecbfc0.jpeg",
+    "title": "У «Пафоса» 1-я победа в ЛЧ! Сразу над соперником из топ-лиги",
+    "description": "Так засушили «Вильярреал».",
+    "fullText": "Так засушили «Вильярреал».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/75/b7dd08e6444d5a75044e2b69b6342.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362251.html",
-    "time": "2025-11-05T21:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362328.html",
+    "time": "2025-11-05T21:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4134533-anons-igry-kiberslav-zatmenie?from=rss",
     "time": "2025-11-05T09:56:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
