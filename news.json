@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российскую фигуристку Костылеву приглашали выступать за Китай",
-    "description": "По словам спортсменки, она ответила отказом, так как хочет представлять только Россию",
-    "fullText": "По словам спортсменки, она ответила отказом, так как хочет представлять только Россию",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251107/8580191.jpg",
+    "title": "Песков: праздник 7 ноября потерял свою историческую релевантность",
+    "description": "В Кремле не слышали подобных предложений",
+    "fullText": "В Кремле не слышали подобных предложений",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250110/8001287.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25562443",
-    "time": "2025-11-07T10:04:37.000Z"
+    "url": "https://tass.ru/politika/25562233",
+    "time": "2025-11-07T10:29:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-11-07T09:45:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кого мы закрасили на этой фотографии?",
+    "description": "Вопрос из квиза про ЛЧ.",
+    "fullText": "Вопрос из квиза про ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/94/e1ad42fc24ef389630708b0cd24c9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/z69vfk",
+    "time": "2025-11-07T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "У Овечкина идеальная концовка карьеры. Может ли она стать еще круче?",
     "description": "«Вашингтону» нельзя его отпускать.",
@@ -33,25 +44,14 @@
     "time": "2025-11-07T05:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
-    "description": "Выбирайте теннисисток в Основе Finals.",
-    "fullText": "Выбирайте теннисисток в Основе Finals.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/10/39488cf1f4687b7dead63ca11ac19.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/kmw55s",
-    "time": "2025-11-07T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Мы не хотим, чтобы студия исчезла из-за одного неудачного проекта»: главное из интервью с руководителями Obsidian",
-    "description": "Они рассказали о желании определить, что значит быть игрой студии, и осторожности в разработке.",
-    "fullText": "Они рассказали о желании определить, что значит быть игрой студии, и осторожности в разработке.",
-    "image": "https://leonardo.osnova.io/f02e784a-6198-5a58-baa9-ad1cdb614fdf/",
+    "title": "В Steam и на Xbox Series X|S стартовали бесплатные выходные Kingdom Come: Deliverance II",
+    "description": "Средневековую RPG также временно продают по скидке 40%.",
+    "fullText": "Средневековую RPG также временно продают по скидке 40%.",
+    "image": "https://leonardo.osnova.io/e1e682fc-c352-54dd-abd8-bb8fd59fdc41/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4136760-obsuzhdenie-budushchego-obsidian?from=rss",
-    "time": "2025-11-06T12:37:51.000Z"
+    "url": "https://dtf.ru/games/4137477-besplatnye-vykhodnye-v-kingdom-come-deliverance-ii?from=rss",
+    "time": "2025-11-06T18:00:34.000Z"
   }
 ]
