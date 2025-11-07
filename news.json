@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Большом театре состоится концерт \"Симфония инноваций\"",
+    "description": "Мероприятие пройдет 12 ноября",
+    "fullText": "Мероприятие пройдет 12 ноября",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25565643",
+    "time": "2025-11-07T14:56:13.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего восемь вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
     "description": "В хоккейном «Три на Три».",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Иосифов забил, Оздоев ассистировал, у Антони – гол «Лиону», «Фиорентина» опять проиграла. Главное в ЛЕ и ЛК",
-    "description": "«Мидтьюлланд» – единоличный лидер.",
-    "fullText": "«Мидтьюлланд» – единоличный лидер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/22/2e64b8d244729840b7cb12363cd43.jpeg",
+    "title": "У Тутберидзе новая жемчужина: набрала сложность до Этери, а теперь готова сиять",
+    "description": "Знакомимся с Диной Хуснутдиновой.",
+    "fullText": "Знакомимся с Диной Хуснутдиновой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ed/41a9a7b5c455c861c5bb28acf469d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362532.html",
-    "time": "2025-11-07T09:50:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3361747.html",
+    "time": "2025-11-07T10:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Отчёт Take-Two: четвёртая Mafia превзошла ожидания, а тираж GTA V превысил 220 миллионов копий",
-    "description": "Borderlands 4 стартовала не так хорошо, как рассчитывал издатель.",
-    "fullText": "Borderlands 4 стартовала не так хорошо, как рассчитывал издатель.",
-    "image": "https://leonardo.osnova.io/05a59e45-5657-5d95-a854-138ee9679e4a/",
+    "title": "Square Enix проведёт массовые сокращения из-за «реорганизации операций» в Европе и Северной Америке",
+    "description": "Компания хочет сосредоточиться на разработке игр у себя на родине.",
+    "fullText": "Компания хочет сосредоточиться на разработке игр у себя на родине.",
+    "image": "https://leonardo.osnova.io/a9176a93-2ac2-5fb6-85f3-f82ff66ecca3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4138545-otchet-take-two-mafija-4-prevzoshla-ozhidaniya-gta-v-prodano-220-millionov?from=rss",
-    "time": "2025-11-07T09:03:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4138648-square-enix-sokrashcheniya-v-evrope-i-severnoy-amerike?from=rss",
+    "time": "2025-11-07T10:02:10.000Z"
   }
 ]
