@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Украине уволили двух заместителей секретаря СНБО",
-    "description": "Должности лишились Сергей Демедюк и Андрей Кононенко",
-    "fullText": "Должности лишились Сергей Демедюк и Андрей Кононенко",
+    "title": "В Липецкой области объявили воздушную опасность",
+    "description": "Об угрозе сообщили в ГУ МЧС по региону",
+    "fullText": "Об угрозе сообщили в ГУ МЧС по региону",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25567051",
-    "time": "2025-11-07T19:39:32.000Z"
+    "url": "https://tass.ru/proisshestviya/25567075",
+    "time": "2025-11-07T19:45:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-11-07T17:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Крылья» и «Зенит» все-таки сыграют в Самаре. Несмотря на грустный газон",
+    "description": "Все из-за форума.",
+    "fullText": "Все из-за форума.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/26/90a1f09d64a6484fd5c04692ebea5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362714.html",
+    "time": "2025-11-07T16:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Новый «Франкенштейн» Дель Торо – вы уже это видели. Но есть причина посмотреть снова",
     "description": "Обзор Андрея Загудаева.",
@@ -31,17 +42,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3362448.html",
     "time": "2025-11-07T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нокаут торнадо-киком – издевательство от главного танцора MMA",
-    "description": "В дебютном бою.",
-    "fullText": "В дебютном бою.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/b2/5ae4f157140da98223d88de31693c.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3361716.html",
-    "time": "2025-11-07T15:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
