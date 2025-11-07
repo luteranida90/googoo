@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Орбан: Венгрия получила от США освобождение от санкций по поставкам нефти из РФ",
-    "description": "Страна сможет спокойно получать нефть по трубопроводу \"Дружба\" и газ по \"Турецкому потоку\", отметил премьер-министр",
-    "fullText": "Страна сможет спокойно получать нефть по трубопроводу \"Дружба\" и газ по \"Турецкому потоку\", отметил премьер-министр",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25567283",
-    "time": "2025-11-07T20:46:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
     "description": "Великая погоня!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Крылья» и «Зенит» все-таки сыграют в Самаре. Несмотря на грустный газон",
-    "description": "Все из-за форума.",
-    "fullText": "Все из-за форума.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/26/90a1f09d64a6484fd5c04692ebea5.jpeg",
+    "title": "Каким был «Вашингтон» до Овечкина?",
+    "description": "Эпоха до эпохи.",
+    "fullText": "Эпоха до эпохи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/54/805b86f114419978abe3ce0fcd6d5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362714.html",
-    "time": "2025-11-07T16:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3316890.html",
+    "time": "2025-11-07T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4138987-the-outer-worlds-2-v-topy-prodazh-evropy?from=rss",
     "time": "2025-11-07T12:50:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
