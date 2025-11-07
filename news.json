@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВС РФ зачистили от солдат ВСУ около 45 зданий в населенных пунктах Гнатовка и Рог",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Российскую фигуристку Костылеву приглашали выступать за Китай",
+    "description": "По словам спортсменки, она ответила отказом, так как хочет представлять только Россию",
+    "fullText": "По словам спортсменки, она ответила отказом, так как хочет представлять только Россию",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251107/8580191.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25561571",
-    "time": "2025-11-07T09:32:35.000Z"
+    "url": "https://tass.ru/sport/25562443",
+    "time": "2025-11-07T10:04:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Обзор Football Manager 26. Крутая игра, которой нужен еще год",
+    "description": "Красивые матчи, но сломанный интерфейс.",
+    "fullText": "Красивые матчи, но сломанный интерфейс.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/33/7efd8e63a44359c0bafce2328d9ad.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3361910.html",
+    "time": "2025-11-07T09:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Овечкина идеальная концовка карьеры. Может ли она стать еще круче?",
+    "description": "«Вашингтону» нельзя его отпускать.",
+    "fullText": "«Вашингтону» нельзя его отпускать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/3f/b99b853ae495187f3d10d1bc58153.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3362383.html",
+    "time": "2025-11-07T05:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +44,14 @@
     "time": "2025-11-07T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это самый сексуальный спортсмен мира по версии британок с сайта знакомств для замужних",
-    "description": "«Новый эталон привлекательности».",
-    "fullText": "«Новый эталон привлекательности».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/10/4e58059a14a6fbb3e5921cb5dd733.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/exotic/blogs/3362442.html",
-    "time": "2025-11-07T04:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Это то, чего хотят люди»: трейлер байопика о Майкле Джексоне — с племянником певца в главной роли",
-    "description": "Фильм от режиссёра «Тренировочного дня» и «Великого уравнителя» выйдет в апреле 2026 года.",
-    "fullText": "Фильм от режиссёра «Тренировочного дня» и «Великого уравнителя» выйдет в апреле 2026 года.",
-    "image": "https://leonardo.osnova.io/6fa78997-2b54-5949-897a-1e5b1dba36d5/-/format/mp4/",
+    "title": "«Мы не хотим, чтобы студия исчезла из-за одного неудачного проекта»: главное из интервью с руководителями Obsidian",
+    "description": "Они рассказали о желании определить, что значит быть игрой студии, и осторожности в разработке.",
+    "fullText": "Они рассказали о желании определить, что значит быть игрой студии, и осторожности в разработке.",
+    "image": "https://leonardo.osnova.io/f02e784a-6198-5a58-baa9-ad1cdb614fdf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4137017-debyutnyj-trejler-bajopika-o-majkle-dzheksonie?from=rss",
-    "time": "2025-11-06T14:06:46.000Z"
+    "url": "https://dtf.ru/gameindustry/4136760-obsuzhdenie-budushchego-obsidian?from=rss",
+    "time": "2025-11-06T12:37:51.000Z"
   }
 ]
