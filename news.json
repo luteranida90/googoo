@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Двоих пострадавших при крушении вертолета в Дагестане перевезут в ожоговый центр",
-    "description": "Один из раненых в крайне тяжелом состоянии",
-    "fullText": "Один из раненых в крайне тяжелом состоянии",
+    "title": "Дело экс-сотрудников Росгвардии Варенцова и Чепкасова направили в суд",
+    "description": "Мужчин обвиняют в превышении полномочий при реализации нацпроекта с ущербом в 350 млн рублей",
+    "fullText": "Мужчин обвиняют в превышении полномочий при реализации нацпроекта с ущербом в 350 млн рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25564813",
-    "time": "2025-11-07T13:28:27.000Z"
+    "url": "https://tass.ru/proisshestviya/25565135",
+    "time": "2025-11-07T13:59:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Всего восемь вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
+    "description": "В хоккейном «Три на Три».",
+    "fullText": "В хоккейном «Три на Три».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/4a/9fe91e9b84f36a5c75d6d6753e495.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-11-07T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Иосифов забил, Оздоев ассистировал, у Антони – гол «Лиону», «Фиорентина» опять проиграла. Главное в ЛЕ и ЛК",
+    "description": "«Мидтьюлланд» – единоличный лидер.",
+    "fullText": "«Мидтьюлланд» – единоличный лидер.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/22/2e64b8d244729840b7cb12363cd43.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362532.html",
+    "time": "2025-11-07T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +44,14 @@
     "time": "2025-11-07T09:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Хотите ретроджерси Зидана, Роналдо или другой легенды детства? Велком в нашу новую игру!",
-    "description": "Фото сделано, когда Ямаль не родился.",
-    "fullText": "Фото сделано, когда Ямаль не родился.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/1a/fbb9866bf4ccda5de2078dffc832e.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-11-07T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бывший защитник «Авангарда» и «Сибири» восстанавливает и продает дома в США! Мы узнали у него детали",
-    "description": "Интервью с Виталием Меньшиковым.",
-    "fullText": "Интервью с Виталием Меньшиковым.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/61/fcdbb64484b81b2885ee1487d37cf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3362087.html",
-    "time": "2025-11-07T08:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стример Shroud призвал фанатов онлайн-игр «не допустить победы» Expedition 33 в наградной сезон и голосовать за ARC Raiders",
-    "description": "Он также назвал поклонников мультиплеерных тайтлов «меньшинством».",
-    "fullText": "Он также назвал поклонников мультиплеерных тайтлов «меньшинством».",
-    "image": "https://leonardo.osnova.io/a15e1dac-1174-5463-acb7-bccc57d5d1a2/",
+    "title": "Экшен Marvel 1943: Rise of Hydra перенесли на неопределённый срок",
+    "description": "Игра должна была выйти в начале 2026 года.",
+    "fullText": "Игра должна была выйти в начале 2026 года.",
+    "image": "https://leonardo.osnova.io/1e8e370b-a4cf-5020-b220-cda03416d295/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4137162-shroud-prizval-golosovat-za-arc-raiders?from=rss",
-    "time": "2025-11-06T15:41:32.000Z"
+    "url": "https://dtf.ru/games/4138200-perenos-ekshena-marvel-1943-rise-of-hydra?from=rss",
+    "time": "2025-11-07T05:02:08.000Z"
   }
 ]
