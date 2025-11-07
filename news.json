@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ВС РФ зачистили от солдат ВСУ около 45 зданий в населенных пунктах Гнатовка и Рог",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25561571",
+    "time": "2025-11-07T09:32:35.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
     "description": "Выбирайте теннисисток в Основе Finals.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Он привел Лью к золоту ЧМ и вернул на лед Шибутани. Большое интервью Массимо Скали",
-    "description": "Поговорил с Багрянцевой.",
-    "fullText": "Поговорил с Багрянцевой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/37/05297eb42405b9e0089a1286b13b6.jpeg",
+    "title": "Это самый сексуальный спортсмен мира по версии британок с сайта знакомств для замужних",
+    "description": "«Новый эталон привлекательности».",
+    "fullText": "«Новый эталон привлекательности».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/10/4e58059a14a6fbb3e5921cb5dd733.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3362331.html",
-    "time": "2025-11-07T01:15:00.000Z"
+    "url": "https://www.sports.ru/exotic/blogs/3362442.html",
+    "time": "2025-11-07T04:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix показал тизер анимационного сериала по «Очень странным делам»",
-    "description": "Его действие развернётся между вторым и третьим сезонами оригинального шоу.",
-    "fullText": "Его действие развернётся между вторым и третьим сезонами оригинального шоу.",
-    "image": "https://leonardo.osnova.io/77539c21-1978-5ae9-84f5-84d0b038f690/-/format/mp4/",
+    "title": "«Это то, чего хотят люди»: трейлер байопика о Майкле Джексоне — с племянником певца в главной роли",
+    "description": "Фильм от режиссёра «Тренировочного дня» и «Великого уравнителя» выйдет в апреле 2026 года.",
+    "fullText": "Фильм от режиссёра «Тренировочного дня» и «Великого уравнителя» выйдет в апреле 2026 года.",
+    "image": "https://leonardo.osnova.io/6fa78997-2b54-5949-897a-1e5b1dba36d5/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4137289-animatsionnyy-serial-ochen-strannym-delam?from=rss",
-    "time": "2025-11-06T16:09:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4137017-debyutnyj-trejler-bajopika-o-majkle-dzheksonie?from=rss",
+    "time": "2025-11-06T14:06:46.000Z"
   }
 ]
