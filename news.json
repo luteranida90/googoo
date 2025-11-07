@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве мужчина вытолкнул гражданку Нигерии с балкона пятого этажа",
-    "description": "Пострадавшая была передана сотрудникам медицинской бригады",
-    "fullText": "Пострадавшая была передана сотрудникам медицинской бригады",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25560789",
-    "time": "2025-11-07T08:30:33.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Рыбакина впервые в карьере в полуфинале итогового. Верите в нее?",
     "description": "Выбирайте теннисисток в Основе Finals.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Escape from Tarkov добавили в список желаемого в Steam более 750 тысяч раз — почти за два месяца",
-    "description": "Разработчики поделились списком наград за участие в бета-тесте и предзаказы версии 1.0.",
-    "fullText": "Разработчики поделились списком наград за участие в бета-тесте и предзаказы версии 1.0.",
-    "image": "https://leonardo.osnova.io/ef2234a7-529c-5f06-97cb-3a776c14c7a2/",
+    "title": "Netflix показал тизер анимационного сериала по «Очень странным делам»",
+    "description": "Его действие развернётся между вторым и третьим сезонами оригинального шоу.",
+    "fullText": "Его действие развернётся между вторым и третьим сезонами оригинального шоу.",
+    "image": "https://leonardo.osnova.io/77539c21-1978-5ae9-84f5-84d0b038f690/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4136933-escape-from-tarkov-dostig-750-tysyach-dobavleniy-v-steam?from=rss",
-    "time": "2025-11-06T13:38:54.000Z"
+    "url": "https://dtf.ru/cinema/4137289-animatsionnyy-serial-ochen-strannym-delam?from=rss",
+    "time": "2025-11-06T16:09:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
