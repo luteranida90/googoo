@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кондрашов: ИИ не заменит журналистов, но кардинально поменяет эту профессию",
+    "description": "При помощи искусственного интеллекта исчезнет рутина и будет больше времени на сложные расследования, уверен генеральный директор информационного агентства ТАСС",
+    "fullText": "При помощи искусственного интеллекта исчезнет рутина и будет больше времени на сложные расследования, уверен генеральный директор информационного агентства ТАСС",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/25559699",
+    "time": "2025-11-07T06:06:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Моуринью незаслуженно проиграл, у «Сити» забил не только Холанд, Салиба – опорник. Тактика ЛЧ",
+    "description": "И катеначчо от «Айнтрахта».",
+    "fullText": "И катеначчо от «Айнтрахта».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6c/224d44a1140b49ee91bf99b4c3cc2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362436.html",
+    "time": "2025-11-06T19:43:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Буффон и Нойер – кто играл с обоими?",
     "description": "Девять счастливчиков.",
@@ -11,36 +33,14 @@
     "time": "2025-11-06T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Овечкина идеальная концовка карьеры. Может ли она стать еще круче?",
-    "description": "«Вашингтону» нельзя его отпускать.",
-    "fullText": "«Вашингтону» нельзя его отпускать.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/3f/b99b853ae495187f3d10d1bc58153.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3362383.html",
-    "time": "2025-11-06T18:57:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS началась раздача Felix the Reaper — головоломки о танцующем работнике Министерства смерти",
-    "description": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
-    "fullText": "Игру можно забрать в течение недели, в том числе в российском регионе магазина.",
-    "image": "https://leonardo.osnova.io/dde09566-285e-5abe-9ef4-0561842fd040/-/format/mp4/",
+    "title": "Ubisoft заявила, что люди «любили ненавидеть» Assassin&#039;s Creed Shadows, но компании удалось противостоять «даже самым громким хейтерам»",
+    "description": "Необычное видео о скандалах вокруг тайтла показали в Париже.",
+    "fullText": "Необычное видео о скандалах вокруг тайтла показали в Париже.",
+    "image": "https://leonardo.osnova.io/582da875-b015-57fc-9761-5faef714536d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4137384-razdacha-felix-the-reaper-v-egs?from=rss",
-    "time": "2025-11-06T16:52:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4136592-ubisoft-o-skandale-s-assassins-creed-shadows?from=rss",
+    "time": "2025-11-06T10:49:59.000Z"
   }
 ]
