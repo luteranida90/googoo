@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дело экс-сотрудников Росгвардии Варенцова и Чепкасова направили в суд",
-    "description": "Мужчин обвиняют в превышении полномочий при реализации нацпроекта с ущербом в 350 млн рублей",
-    "fullText": "Мужчин обвиняют в превышении полномочий при реализации нацпроекта с ущербом в 350 млн рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25565135",
-    "time": "2025-11-07T13:59:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего восемь вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
     "description": "В хоккейном «Три на Три».",
@@ -33,25 +22,25 @@
     "time": "2025-11-07T09:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Обзор Football Manager 26. Крутая игра, которой нужен еще год",
-    "description": "Красивые матчи, но сломанный интерфейс.",
-    "fullText": "Красивые матчи, но сломанный интерфейс.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/33/7efd8e63a44359c0bafce2328d9ad.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/games/blogs/3361910.html",
-    "time": "2025-11-07T09:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экшен Marvel 1943: Rise of Hydra перенесли на неопределённый срок",
-    "description": "Игра должна была выйти в начале 2026 года.",
-    "fullText": "Игра должна была выйти в начале 2026 года.",
-    "image": "https://leonardo.osnova.io/1e8e370b-a4cf-5020-b220-cda03416d295/",
+    "title": "Отчёт Take-Two: четвёртая Mafia превзошла ожидания, а тираж GTA V превысил 220 миллионов копий",
+    "description": "Borderlands 4 стартовала не так хорошо, как рассчитывал издатель.",
+    "fullText": "Borderlands 4 стартовала не так хорошо, как рассчитывал издатель.",
+    "image": "https://leonardo.osnova.io/05a59e45-5657-5d95-a854-138ee9679e4a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4138200-perenos-ekshena-marvel-1943-rise-of-hydra?from=rss",
-    "time": "2025-11-07T05:02:08.000Z"
+    "url": "https://dtf.ru/gameindustry/4138545-otchet-take-two-mafija-4-prevzoshla-ozhidaniya-gta-v-prodano-220-millionov?from=rss",
+    "time": "2025-11-07T09:03:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
