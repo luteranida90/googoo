@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Dawn: Пакистан и Афганистан достигли некоторого прогресса на переговорах",
-    "description": "Как пишет издание, потенциальными областями сближения позиций двух стран могут стать сотрудничество в борьбе с терроризмом и общие меры по обеспечению безопасности границ",
-    "fullText": "Как пишет издание, потенциальными областями сближения позиций двух стран могут стать сотрудничество в борьбе с терроризмом и общие меры по обеспечению безопасности границ",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В Брянской области три сотрудницы предприятия пострадали при атаке ВСУ",
+    "description": "Украинские боевики нанесли целенаправленный удар, заявил губернатор Александр Богомаз",
+    "fullText": "Украинские боевики нанесли целенаправленный удар, заявил губернатор Александр Богомаз",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251107/8582113.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25566289",
-    "time": "2025-11-07T16:50:25.000Z"
+    "url": "https://tass.ru/proisshestviya/25566425",
+    "time": "2025-11-07T17:14:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3362448.html",
     "time": "2025-11-07T16:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Europa Universalis V получила первый апдейт — в нём устранили почти 500 ошибок в русском переводе и проблемы с достижениями",
+    "description": "А также баги, из-за которых игра вылетала на рабочий стол.",
+    "fullText": "А также баги, из-за которых игра вылетала на рабочий стол.",
+    "image": "https://leonardo.osnova.io/b08070a2-d73f-5faf-a597-5cd32b312494/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4139173-europa-universalis-v-obnovlenie-1-0-2?from=rss",
+    "time": "2025-11-07T13:54:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Рэтклиффа могут отжать «МЮ»?",
-    "description": "Разбор Игоря Сергеева.",
-    "fullText": "Разбор Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0e/521d8032a494d86facef4835322c0.jpeg",
+    "title": "В «Бруклине» Дёмина 10 тренеров. Кто все эти люди?",
+    "description": "Ассистенты и ассистенты ассистентов.",
+    "fullText": "Ассистенты и ассистенты ассистентов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b9/d02331c2c4377b0ff66daf1ec775c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362467.html",
-    "time": "2025-11-07T12:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Apple TV стартовал сериал «Из многих» от автора «Во все тяжкие» и «Лучше звоните Солу»",
-    "description": "На Rotten Tomatoes у шоу пока 100% одобрения критиков.",
-    "fullText": "На Rotten Tomatoes у шоу пока 100% одобрения критиков.",
-    "image": "https://leonardo.osnova.io/f36baecf-fe8b-52be-8616-b590ab2a4685/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4138249-serial-iz-mnogikh-na-apple-tv?from=rss",
-    "time": "2025-11-07T05:45:44.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3361674.html",
+    "time": "2025-11-07T13:10:00.000Z"
   }
 ]
