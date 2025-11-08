@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сенатор Дягилева: в Мурманской области могут в будущем снимать дорамы",
+    "description": "Интерес к киносъемкам в Кольском Заполярье уже проявляют кинематографисты из Индии и Китая",
+    "fullText": "Интерес к киносъемкам в Кольском Заполярье уже проявляют кинематографисты из Индии и Китая",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25569281",
+    "time": "2025-11-08T07:11:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Тоттенхэм» играет с «МЮ», а для вас – бонус до 15 000",
     "description": "Новым пользователям от FONBET.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Outer Worlds 2 стартовала в топ-10 европейского чарта продаж, а Battlefield 6 осталась лидером",
-    "description": "Данных об ARC Raiders нет, поэтому её не включили в список.",
-    "fullText": "Данных об ARC Raiders нет, поэтому её не включили в список.",
-    "image": "https://leonardo.osnova.io/08ef3322-3006-5702-abaa-e4345e0992c3/",
+    "title": "Третий сезон аниме «Магическая битва» стартует 8 января",
+    "description": "Его будут показывать на Crunchyroll.",
+    "fullText": "Его будут показывать на Crunchyroll.",
+    "image": "https://leonardo.osnova.io/54ee5819-3b91-55a1-98b4-8b9731fe4a67/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4138987-the-outer-worlds-2-v-topy-prodazh-evropy?from=rss",
-    "time": "2025-11-07T12:50:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/anime/4138890-tretiy-sezon-anime-magicheskaya-bitva?from=rss",
+    "time": "2025-11-07T11:56:58.000Z"
   }
 ]
