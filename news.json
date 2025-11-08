@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему теннисисты так сильно устают? Взгляд изнутри с Надеждой Петровой",
-    "description": "Новый выпуск блога.",
-    "fullText": "Новый выпуск блога.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3c/d1148c7a74c14a9fcc1f87c0cd608.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Россиянин Аристархов завоевал бронзу на ЧМ по пулевой стрельбе",
+    "description": "Российский стрелок впервые с 2018 года завоевал награду на чемпионате мира",
+    "fullText": "Российский стрелок впервые с 2018 года завоевал награду на чемпионате мира",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251108/8582691.jpg",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3360810.html",
-    "time": "2025-11-08T07:20:00.000Z"
+    "url": "https://tass.ru/sport/25570601",
+    "time": "2025-11-08T11:54:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Тоттенхэм» против «МЮ»: в кого верите вы? Проверьте интуицию с фрибетом",
-    "description": "7777 рублей от Лиги Ставок.",
-    "fullText": "7777 рублей от Лиги Ставок.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/73/5e17d495d41278a58c908300fc553.jpeg",
+    "title": "Выберите фаворитов итогового турнира ATP. Старт уже завтра!",
+    "description": "Пока ждете финала WTA.",
+    "fullText": "Пока ждете финала WTA.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/82/eb7d41f9d435a97118919139480f4.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/zxc7t0",
-    "time": "2025-11-08T07:10:00.000Z"
+    "url": "https://sirena.world/kmw55s",
+    "time": "2025-11-08T09:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Расклады «Ф-1» в Бразилии: двум фаворитам нужен камбэк, а на радаре – дождь и шанс сенсации",
+    "description": "Пиастри, Ферстаппен или Норрис?",
+    "fullText": "Пиастри, Ферстаппен или Норрис?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1c/039f737a44423b4d1543d976337d8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3361941.html",
+    "time": "2025-11-08T08:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4138601-kris-avellon-obsidian-ne-delayet-the-outer-worlds-3-avowed-2?from=rss",
     "time": "2025-11-07T09:30:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
