@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве в районе улицы Авиамоторная задерживались трамваи",
+    "description": "Задержки произошли по техническим причинам",
+    "fullText": "Задержки произошли по техническим причинам",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25569523",
+    "time": "2025-11-08T07:42:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Тоттенхэм» играет с «МЮ», а для вас – бонус до 15 000",
     "description": "Новым пользователям от FONBET.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» вернулась на «Камп Ноу». Пока только тренировка, Лапорта обещает матч в ноябре",
-    "description": "Возвращение близко.",
-    "fullText": "Возвращение близко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/11/b9516befb417c9ba9d93e81e81776.jpeg",
+    "title": "У Тутберидзе новая жемчужина: набрала сложность до Этери, а теперь готова сиять",
+    "description": "Знакомимся с Диной Хуснутдиновой.",
+    "fullText": "Знакомимся с Диной Хуснутдиновой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ed/41a9a7b5c455c861c5bb28acf469d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362738.html",
-    "time": "2025-11-07T23:10:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3361747.html",
+    "time": "2025-11-08T03:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4138890-tretiy-sezon-anime-magicheskaya-bitva?from=rss",
     "time": "2025-11-07T11:56:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
