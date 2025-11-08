@@ -11,6 +11,17 @@
     "time": "2025-11-08T16:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Новгородской области подростки попали в больницу после покоса борщевика",
+    "description": "Пострадали несколько несовершеннолетних, один оказался в реанимации",
+    "fullText": "Пострадали несколько несовершеннолетних, один оказался в реанимации",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25571555",
+    "time": "2025-11-08T16:25:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jbGNrLnJ1",
     "title": "PWL 10 – эксклюзивно на Кинопоиске",
     "description": "8 ноября в 20:00.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Петросян нужно только поддерживать или честно указывать на ошибки? Разговор с Ягудиным",
-    "description": "ТВ, комменты, хейт.",
-    "fullText": "ТВ, комменты, хейт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/55/a4f464b604d65a4982fb5f8d94486.jpeg",
+    "title": "«Месси и Роналду не жаловались». «Лех» высмеял раздевалку «Райо» – испанцы взбесились",
+    "description": "«Реалу» играть там в воскресенье.",
+    "fullText": "«Реалу» играть там в воскресенье.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/49/07d5efed74faebf82450bb2ff4da7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3362581.html",
-    "time": "2025-11-08T12:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362835.html",
+    "time": "2025-11-08T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4138601-kris-avellon-obsidian-ne-delayet-the-outer-worlds-3-avowed-2?from=rss",
     "time": "2025-11-07T09:30:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
