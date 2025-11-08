@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сенатор Дягилева: в Мурманской области могут в будущем снимать дорамы",
-    "description": "Интерес к киносъемкам в Кольском Заполярье уже проявляют кинематографисты из Индии и Китая",
-    "fullText": "Интерес к киносъемкам в Кольском Заполярье уже проявляют кинематографисты из Индии и Китая",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25569281",
-    "time": "2025-11-08T07:11:27.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Тоттенхэм» играет с «МЮ», а для вас – бонус до 15 000",
     "description": "Новым пользователям от FONBET.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Чикаго» лучший старт со времен Джордана. Но это же понарошку?",
-    "description": "Победы – дымовая завеса.",
-    "fullText": "Победы – дымовая завеса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f0/de555ad70415fab0f26a9f5b9adb3.jpeg",
+    "title": "«Барса» вернулась на «Камп Ноу». Пока только тренировка, Лапорта обещает матч в ноябре",
+    "description": "Возвращение близко.",
+    "fullText": "Возвращение близко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/11/b9516befb417c9ba9d93e81e81776.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3362473.html",
-    "time": "2025-11-07T22:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362738.html",
+    "time": "2025-11-07T23:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4138890-tretiy-sezon-anime-magicheskaya-bitva?from=rss",
     "time": "2025-11-07T11:56:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
