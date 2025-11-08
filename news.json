@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Нью-Джерси\" обыграл \"Питтсбург\" в матче НХЛ. Грицюк забросил шайбу",
-    "description": "Российский форвард \"Нью-Джерси\" в текущем сезоне отметился тремя голами",
-    "fullText": "Российский форвард \"Нью-Джерси\" в текущем сезоне отметился тремя голами",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25572239",
-    "time": "2025-11-08T20:22:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бориско и Агкацев идут за рекордами Овчинникова. У обоих приличные шансы",
-    "description": "Сухари до сборной довели.",
-    "fullText": "Сухари до сборной довели.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d2/997277a5549ffbdce572a42d0839c.jpeg",
+    "title": "«Жаль наших болельщиков». От «Далласа» плюется даже Дирк Новицки",
+    "description": "Сломанная система.",
+    "fullText": "Сломанная система.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ec/ea954ec474d00ae60268cccf2e10d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3362710.html",
-    "time": "2025-11-08T16:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3362885.html",
+    "time": "2025-11-08T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4138601-kris-avellon-obsidian-ne-delayet-the-outer-worlds-3-avowed-2?from=rss",
     "time": "2025-11-07T09:30:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
