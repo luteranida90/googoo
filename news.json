@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Топ-10 звезд в Football Manager 26. Мбаппе – лучший, Салах выше Холанда",
+    "description": "Рейтинги.",
+    "fullText": "Рейтинги.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/42/c8df9ef164bfaa2339ac99d2f7269.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3362724.html",
+    "time": "2025-11-08T21:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Камерный оркестр России сыграет сочинения Боккерини и Вивальди в Москве",
+    "description": "Программа будет состоять из барочной музыки",
+    "fullText": "Программа будет состоять из барочной музыки",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25572347",
+    "time": "2025-11-08T21:03:33.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -12,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Жаль наших болельщиков». От «Далласа» плюется даже Дирк Новицки",
-    "description": "Сломанная система.",
-    "fullText": "Сломанная система.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ec/ea954ec474d00ae60268cccf2e10d.jpeg",
+    "title": "Кармен в шортах, Бойкова с Мишиной одинаково ошиблись и еще 4 сюжета фигурки в Казани",
+    "description": "Как вам Муравьева?",
+    "fullText": "Как вам Муравьева?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ae/5bc5aa57842048780977d49c84336.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3362885.html",
-    "time": "2025-11-08T17:10:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3362953.html",
+    "time": "2025-11-08T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4138601-kris-avellon-obsidian-ne-delayet-the-outer-worlds-3-avowed-2?from=rss",
     "time": "2025-11-07T09:30:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
