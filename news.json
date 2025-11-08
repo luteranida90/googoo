@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Семь россиян вышли в финал турнира по рукопашному бою \"Кубок Победы\"",
+    "description": "Турнир проходит в Москве",
+    "fullText": "Турнир проходит в Москве",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251108/8583031.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25571635",
+    "time": "2025-11-08T16:46:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
     "description": "Проверьте себя.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/pweyv2",
     "time": "2025-11-08T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Новгородской области подростки попали в больницу после покоса борщевика",
-    "description": "Пострадали несколько несовершеннолетних, один оказался в реанимации",
-    "fullText": "Пострадали несколько несовершеннолетних, один оказался в реанимации",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25571555",
-    "time": "2025-11-08T16:25:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jbGNrLnJ1",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Месси и Роналду не жаловались». «Лех» высмеял раздевалку «Райо» – испанцы взбесились",
-    "description": "«Реалу» играть там в воскресенье.",
-    "fullText": "«Реалу» играть там в воскресенье.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/49/07d5efed74faebf82450bb2ff4da7.jpeg",
+    "title": "У Рэтклиффа могут отжать «МЮ»?",
+    "description": "Разбор Игоря Сергеева.",
+    "fullText": "Разбор Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0e/521d8032a494d86facef4835322c0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362835.html",
-    "time": "2025-11-08T12:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3362467.html",
+    "time": "2025-11-08T13:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
