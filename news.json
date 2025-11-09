@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Дизен: Европе нужно договориться с Москвой по архитектуре безопасности",
-    "description": "Европа должна избежать колоссальных убытков из-за российских активов, считает политолог",
-    "fullText": "Европа должна избежать колоссальных убытков из-за российских активов, считает политолог",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25575357",
-    "time": "2025-11-09T15:34:01.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
     "description": "Проверьте себя.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4139260-kinematograficheskiy-treyler-escape-from-tarkov?from=rss",
     "time": "2025-11-07T14:21:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
