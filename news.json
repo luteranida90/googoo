@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве в ДТП погибли два человека",
+    "description": "Автомобиль Lamborghini врезался в ограждение, опрокинулся и загорелся",
+    "fullText": "Автомобиль Lamborghini врезался в ограждение, опрокинулся и загорелся",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25573155",
+    "time": "2025-11-09T05:48:55.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
     "description": "Великая погоня!",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джоковичу не надоело обижать молодых – отнял у Музетти титул (но пустил на итоговый турнир)",
-    "description": "Чемпион навсегда.",
-    "fullText": "Чемпион навсегда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/e5/c71d097364bebb964236daf0b7e4d.jpeg",
+    "title": "Этот первый круг ЦСКА – среди лучших в истории клуба. Круче Челестини за 15 матчей только Долматов и Газзаев",
+    "description": "А забивали чаще при Слуцком.",
+    "fullText": "А забивали чаще при Слуцком.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/53/59271093849f48fa190057b51c58f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3362978.html",
-    "time": "2025-11-08T20:00:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3362973.html",
+    "time": "2025-11-08T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4138601-kris-avellon-obsidian-ne-delayet-the-outer-worlds-3-avowed-2?from=rss",
     "time": "2025-11-07T09:30:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
