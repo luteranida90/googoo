@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Им Пеп только проигрывал: Слот, Мотта, и.о. из «Лейпцига» и два британца",
+    "description": "А еще не побеждал Хиддинка и Кумана.",
+    "fullText": "А еще не побеждал Хиддинка и Кумана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b3/2675b5a354a0cbaca906d06c0b047.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3362905.html",
+    "time": "2025-11-09T07:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Ман Сити» – фаворит за 1.88, но «Ливерпуль» может удивить!",
     "description": "Фрибет до 15 000 новичкам.",
@@ -11,17 +22,6 @@
     "time": "2025-11-09T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что за временная петля у «Оренбурга»? Забивает одинаковые голы",
-    "description": "Андрей Савин – о перестройке после Слишковича.",
-    "fullText": "Андрей Савин – о перестройке после Слишковича.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/5d/00fafcc3e4412a940c02a5791cab3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362475.html",
-    "time": "2025-11-09T06:32:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Owlcat опубликовала заглавную тему The Expanse: Osiris Reborn от Павла Перепелицы",
     "description": "Студия выбрала для этого интересный день.",
@@ -31,16 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4139254-owlcat-predstavila-zaglavnuyu-temu-the-expanse-osiris-reborn?from=rss",
     "time": "2025-11-07T14:16:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
