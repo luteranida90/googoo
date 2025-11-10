@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Россиян с Sea Bridge планируется начать отправлять на родину с 11 ноября",
+    "description": "Пока пассажиры - граждане России находятся на пароме",
+    "fullText": "Пока пассажиры - граждане России находятся на пароме",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25578729",
+    "time": "2025-11-10T08:09:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "В женской НБА надвигается локаут. В самый неподходящий момент",
+    "description": "Только-только пошли в гору.",
+    "fullText": "Только-только пошли в гору.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/cb/2c05935bc45808122bf0e1145500d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3362734.html",
+    "time": "2025-11-09T23:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого мы закрасили на этой фотографии?",
     "description": "Вопрос из квиза про ЛЧ.",
@@ -11,36 +33,14 @@
     "time": "2025-11-09T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что случилось на Гран-при в Бразилии: как Ферстаппен прорвался на подиум с пит-лейн?!",
-    "description": "Все обгоны и быстрые мысли.",
-    "fullText": "Все обгоны и быстрые мысли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/73/1d548d1b84136924077037a2de6fa.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3362962.html",
-    "time": "2025-11-09T20:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы ремейка Gothic выпустили ролик о русском дубляже — Пётр Гланц-Иващенко озвучил главного героя",
-    "description": "Безымянный говорил голосом актёра в оригинальной второй части.",
-    "fullText": "Безымянный говорил голосом актёра в оригинальной второй части.",
-    "image": "https://leonardo.osnova.io/89b9b921-949f-5dc6-96b5-f4847625d0a2/",
+    "title": "Объявлены номинанты на «Грэмми-2026» — Кендрик Ламар претендует на девять наград",
+    "description": "А за лучший саундтрек к играм в том числе поборются Helldivers 2, Indiana Jones and the Great Circle и Sword of the Sea.",
+    "fullText": "А за лучший саундтрек к играм в том числе поборются Helldivers 2, Indiana Jones and the Great Circle и Sword of the Sea.",
+    "image": "https://leonardo.osnova.io/fe107418-6a8e-5bf1-a77f-004b5b57f6d1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4139309-remeik-gothic-russkiy-dublazh?from=rss",
-    "time": "2025-11-07T15:04:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/music/4139559-nomination-gryemmi-2026-kendrik-lamar?from=rss",
+    "time": "2025-11-07T17:21:15.000Z"
   }
 ]
