@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Красноярске осудили мужчину, задавившего на автомобиле пешехода",
-    "description": "Суд приговорил его к 2,5 года колонии",
-    "fullText": "Суд приговорил его к 2,5 года колонии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25576859",
-    "time": "2025-11-10T03:27:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бориско и Агкацев идут за рекордами Овчинникова. У обоих приличные шансы",
-    "description": "Сухари до сборной довели.",
-    "fullText": "Сухари до сборной довели.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d2/997277a5549ffbdce572a42d0839c.jpeg",
+    "title": "Станкович победил Черчесова. Помог дубль Солари, который не забивал с лета",
+    "description": "Мелкадзе сверкнул после отмены бана.",
+    "fullText": "Мелкадзе сверкнул после отмены бана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/5b/d80872a74448386da2b0344578cfa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3362710.html",
-    "time": "2025-11-09T18:07:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363157.html",
+    "time": "2025-11-09T18:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4139260-kinematograficheskiy-treyler-escape-from-tarkov?from=rss",
     "time": "2025-11-07T14:21:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
