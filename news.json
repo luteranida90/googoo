@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Продюсер Мао назвал картину \"Иван Грозный и сын его Иван…\" своей любимой",
-    "description": "Американец хочет увидеть полотно своими глазами",
-    "fullText": "Американец хочет увидеть полотно своими глазами",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25577585",
-    "time": "2025-11-10T06:07:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Настало время побега»: кинематографический трейлер Escape from Tarkov",
-    "description": "Extraction-шутер выйдет 15 ноября — после восьми лет тестирования.",
-    "fullText": "Extraction-шутер выйдет 15 ноября — после восьми лет тестирования.",
-    "image": "https://leonardo.osnova.io/70085b9b-0df6-523d-b67f-a824437d8572/-/format/mp4/",
+    "title": "BioWare: следующая Mass Effect остаётся в разработке, а сериал расскажет новую историю после оригинальной трилогии",
+    "description": "Студия поздравила фанатов с днём N7.",
+    "fullText": "Студия поздравила фанатов с днём N7.",
+    "image": "https://leonardo.osnova.io/4b1faa07-0021-5551-b2f7-2425cc782f18/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4139260-kinematograficheskiy-treyler-escape-from-tarkov?from=rss",
-    "time": "2025-11-07T14:21:03.000Z"
+    "url": "https://dtf.ru/games/4139570-bioware-novaya-mass-effect-i-serial?from=rss",
+    "time": "2025-11-07T16:31:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
