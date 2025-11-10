@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Омбудсмен Сорока: для защиты прав человека в Донбассе нужно сократить бюрократию",
-    "description": "Законодательное закрепление понятия \"требование уполномоченного\" позволит ускорить защиту граждан, заявила омбудсмен в ЛНР Анна Сорока",
-    "fullText": "Законодательное закрепление понятия \"требование уполномоченного\" позволит ускорить защиту граждан, заявила омбудсмен в ЛНР Анна Сорока",
+    "title": "В Карелии ликвидировали лесную свалку площадью более 1,5 тыс. куб. м",
+    "description": "Мусор годами сбрасывали на неарендованную территорию лесного фонда",
+    "fullText": "Мусор годами сбрасывали на неарендованную территорию лесного фонда",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25582347",
-    "time": "2025-11-10T13:27:25.000Z"
+    "url": "https://tass.ru/obschestvo/25582623",
+    "time": "2025-11-10T13:55:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вот почему Италия не получит пятую путевку ЛЧ. Объясняют клубные блогеры",
+    "description": "Трясет даже «Интер».",
+    "fullText": "Трясет даже «Интер».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0d/be94cf1144f4f8bc24a4a559c18d6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362777.html",
+    "time": "2025-11-10T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-10T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Егор Дёмин – все увереннее: показал арсенал средних атак против «Никс»",
-    "description": "Очередной разгром.",
-    "fullText": "Очередной разгром.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/17/88be1d8a547ecb3ecc4850215161d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3363241.html",
-    "time": "2025-11-10T08:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шоураннер «Во все тяжкие»: «Я ненавижу ИИ — это самая дорогая и энергозатратная машина для плагиата»",
-    "description": "Винс Гиллиган также рассказал, что видит как минимум четыре сезона своего нового сериала «Из многих».",
-    "fullText": "Винс Гиллиган также рассказал, что видит как минимум четыре сезона своего нового сериала «Из многих».",
-    "image": "https://leonardo.osnova.io/625d6386-c0e6-55c4-8975-67b94d590825/",
+    "title": "«Хищник: Планета смерти» превзошёл все прогнозы и поставил рекорд франшизы по стартовым сборам в США",
+    "description": "Фильм Дэна Трахтенберга также получил лучшую оценку CinemaScore от зрителей среди всех частей серии.",
+    "fullText": "Фильм Дэна Трахтенберга также получил лучшую оценку CinemaScore от зрителей среди всех частей серии.",
+    "image": "https://leonardo.osnova.io/7c0ca3c2-e211-51da-a375-2bbb541c2415/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4142647-vins-gilligan-o-ii-i-novom-seriale-iz-mnogikh?from=rss",
-    "time": "2025-11-09T11:16:13.000Z"
+    "url": "https://dtf.ru/cinema/4142941-khishchnik-planeta-smerti-rekord-startovykh-sborov?from=rss",
+    "time": "2025-11-09T16:04:26.000Z"
   }
 ]
