@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Ульяновской области сняли режим беспилотной опасности",
+    "description": "Режим был введен около 04:00 мск",
+    "fullText": "Режим был введен около 04:00 мск",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25578093",
+    "time": "2025-11-10T07:04:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что случилось на Гран-при в Бразилии: как Ферстаппен прорвался на подиум с пит-лейн?!",
+    "description": "Все обгоны и быстрые мысли.",
+    "fullText": "Все обгоны и быстрые мысли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/73/1d548d1b84136924077037a2de6fa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3362962.html",
+    "time": "2025-11-09T20:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -11,17 +33,6 @@
     "time": "2025-11-09T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сити» разнес «Ливерпуль» – 3:0 в тысячном матче Гвардиолы! Как же прекрасен Доку",
-    "description": "Без шансов.",
-    "fullText": "Без шансов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/67/1154ffaf74e53bd9257c2c9a457cb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363198.html",
-    "time": "2025-11-09T19:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "BioWare: следующая Mass Effect остаётся в разработке, а сериал расскажет новую историю после оригинальной трилогии",
     "description": "Студия поздравила фанатов с днём N7.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4139570-bioware-novaya-mass-effect-i-serial?from=rss",
     "time": "2025-11-07T16:31:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
