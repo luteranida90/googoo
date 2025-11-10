@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Медведев выразил соболезнования в связи со смертью профессора СПБГУ Толстого",
-    "description": "Зампред Совбеза РФ подчеркнул, что профессору по праву принадлежит особая страница в истории университета",
-    "fullText": "Зампред Совбеза РФ подчеркнул, что профессору по праву принадлежит особая страница в истории университета",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250212/8058445.jpg",
+    "title": "Almodon: адвокаты сына Каддафи оплатили залог в $896 тыс. перед освобождением",
+    "description": "Ганнибала Каддафи похитили в 2015 году боевики шиитского движения \"Амаль\" из соседней Сирии, где он жил в качестве политического изгнанника, а затем его передали ливанским правоохранительным органам",
+    "fullText": "Ганнибала Каддафи похитили в 2015 году боевики шиитского движения \"Амаль\" из соседней Сирии, где он жил в качестве политического изгнанника, а затем его передали ливанским правоохранительным органам",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25584395",
-    "time": "2025-11-10T18:27:47.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25584405",
+    "time": "2025-11-10T18:37:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Главное доминирование сезона, Симеоне с 74% владения и как «Милан» теряет очки. Тактика топ-лиг",
+    "description": "И уловка «Сандерленда» против «Арсенала».",
+    "fullText": "И уловка «Сандерленда» против «Арсенала».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/0b/eb69c670b47a1879fc92d7ba0b554.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3363307.html",
+    "time": "2025-11-10T15:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-10T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Игра «Рейнджерс» – парадокс: лучшие в гостях, но сливают дома вообще всем",
-    "description": "Необъяснимо, но факт.",
-    "fullText": "Необъяснимо, но факт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/32/30e490aa248d2825191cd2d64f155.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3363294.html",
-    "time": "2025-11-10T15:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo запустила отдельный сайт для проверки совместимости игр между версиями Switch",
-    "description": "Однако пока на нём приводится довольно общая информация.",
-    "fullText": "Однако пока на нём приводится довольно общая информация.",
-    "image": "https://leonardo.osnova.io/b1344dfe-adea-5ff9-a409-9e834ed05fd7/",
+    "title": "Дополнение для Elden Ring Nightreign планируют выпустить до конца марта 2026 года",
+    "description": "Игра превзошла ожидания Kadokawa.",
+    "fullText": "Игра превзошла ожидания Kadokawa.",
+    "image": "https://leonardo.osnova.io/cbd14d5b-7d2c-5f50-8e83-9e3c3a8997da/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4144842-nintendo-sait-dlya-proverki-sovmestimosti-igr-na-switch?from=rss",
-    "time": "2025-11-10T12:48:06.000Z"
+    "url": "https://dtf.ru/games/4144709-elden-ring-nightreign-dlc-do-kontsa-marta-2026?from=rss",
+    "time": "2025-11-10T11:44:00.000Z"
   }
 ]
