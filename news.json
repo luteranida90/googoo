@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ульяновской области сняли режим беспилотной опасности",
-    "description": "Режим был введен около 04:00 мск",
-    "fullText": "Режим был введен около 04:00 мск",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кого мы закрасили на этой фотографии?",
+    "description": "Вопрос из квиза про ЛЧ.",
+    "fullText": "Вопрос из квиза про ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/94/e1ad42fc24ef389630708b0cd24c9.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25578093",
-    "time": "2025-11-10T07:04:17.000Z"
+    "url": "https://sirena.world/z69vfk",
+    "time": "2025-11-09T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +22,25 @@
     "time": "2025-11-09T20:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
-    "description": "И 11 других вопросов про КХЛ.",
-    "fullText": "И 11 других вопросов про КХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/5d/c8775fbf146cf9390a8d213aff8e2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/0z5rhs",
-    "time": "2025-11-09T19:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "BioWare: следующая Mass Effect остаётся в разработке, а сериал расскажет новую историю после оригинальной трилогии",
-    "description": "Студия поздравила фанатов с днём N7.",
-    "fullText": "Студия поздравила фанатов с днём N7.",
-    "image": "https://leonardo.osnova.io/4b1faa07-0021-5551-b2f7-2425cc782f18/",
+    "title": "Авторы ремейка Gothic выпустили ролик о русском дубляже — Пётр Гланц-Иващенко озвучил главного героя",
+    "description": "Безымянный говорил голосом актёра в оригинальной второй части.",
+    "fullText": "Безымянный говорил голосом актёра в оригинальной второй части.",
+    "image": "https://leonardo.osnova.io/89b9b921-949f-5dc6-96b5-f4847625d0a2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4139570-bioware-novaya-mass-effect-i-serial?from=rss",
-    "time": "2025-11-07T16:31:59.000Z"
+    "url": "https://dtf.ru/games/4139309-remeik-gothic-russkiy-dublazh?from=rss",
+    "time": "2025-11-07T15:04:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
