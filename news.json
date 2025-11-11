@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МИД Литвы: ситуация на границе с Белоруссией зависит от обстановки в небе",
-    "description": "Если в воздухе все будет хорошо, то на земле ситуация также изменится, заявил глава литовского внешнеполитического ведомства Кестутис Будрис",
-    "fullText": "Если в воздухе все будет хорошо, то на земле ситуация также изменится, заявил глава литовского внешнеполитического ведомства Кестутис Будрис",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Спартак» вошел в топ-2 по частоте смены тренеров. Но лидер далековато!",
+    "description": "Статистика за 10 сезонов.",
+    "fullText": "Статистика за 10 сезонов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/26/a595962544134ab985a31ad841bbf.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25597045",
-    "time": "2025-11-11T21:13:16.000Z"
+    "url": "https://www.sports.ru/football/blogs/3355668.html",
+    "time": "2025-11-11T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-11T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Станкович провалился в «Спартаке»? Осмысление Чернявского",
-    "description": "Все было предрешено?",
-    "fullText": "Все было предрешено?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/b1/00a1bdecf46b6931fc63fdec49b48.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363578.html",
-    "time": "2025-11-11T17:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Трой Бейкер о взаимоотношениях с Нилом Дракманном: «Мы обожаем спорить друг с другом»",
     "description": "Коллеги придерживаются того же подхода при работе над Intergalactic: The Heretic Prophet.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4147409-troy-beyker-i-nil-drakmann-tvorcheskie-spory?from=rss",
     "time": "2025-11-11T14:17:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
