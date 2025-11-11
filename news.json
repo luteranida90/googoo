@@ -1,7 +1,29 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Это как Медиалига в футболе: почему сражения стримеров так популярны",
+    "description": "Киберспорт устал от серьезности.",
+    "fullText": "Киберспорт устал от серьезности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/67/5071439c14c0bae4ece697cb5c048.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3359644.html",
+    "time": "2025-11-11T12:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "YouGov: большинство жителей США ощутили на себе последствия шатдауна",
+    "description": "Мнения американцев относительно того, кто несет ответственность за шатдаун, разделились",
+    "fullText": "Мнения американцев относительно того, кто несет ответственность за шатдаун, разделились",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25591881",
+    "time": "2025-11-11T12:16:47.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В такой форме Месси дебютировал за «Барсу» – ее можно выиграть у нас в «Аркаде»!",
+    "title": "В такой форме Месси взял ЛЧ с Пепом – ее можно выиграть у нас в «Аркаде»!",
     "description": "Стиль-2005.",
     "fullText": "Стиль-2005.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/3/34/e67d5c4cb451e89d49cd7e65a9f73.png",
@@ -11,36 +33,25 @@
     "time": "2025-11-11T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ростовские онкологи будут ежемесячно приезжать в Запорожскую область",
-    "description": "Поручение дал министр здравоохранения РФ Михаила Мурашко",
-    "fullText": "Поручение дал министр здравоохранения РФ Михаила Мурашко",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25590817",
-    "time": "2025-11-11T11:26:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура РПЛ: много новых лиц и знакомый Мелкадзе",
-    "description": "И самый недооцененный.",
-    "fullText": "И самый недооцененный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ac/8f2c1bb2244fbb693c31a0b4c003a.jpeg",
+    "title": "Ривз, Осар Томпсон, Гидди и еще 7 игроков, удививших на старте НБА",
+    "description": "Без суперзвезд.",
+    "fullText": "Без суперзвезд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/40/ee24bd9974755a27b9f59f2269df6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363387.html",
-    "time": "2025-11-11T07:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3362859.html",
+    "time": "2025-11-11T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "VGC: в разработке находится ремастер Fallout 3 по аналогии с Oblivion Remastered",
-    "description": "Тодд Говард тем временем заявил, что до TES VI ещё далеко.",
-    "fullText": "Тодд Говард тем временем заявил, что до TES VI ещё далеко.",
-    "image": "https://leonardo.osnova.io/02f1f5f2-6cd2-570f-9631-ae6f023a9589/",
+    "title": "Шарлто Копли о роли Лео Бонарта в сериале «Ведьмак» от Netflix: «Я старался сохранить персонажа верным духу книг»",
+    "description": "Зрителям очень понравилось, как звезда «Района №9» изобразил наёмника.",
+    "fullText": "Зрителям очень понравилось, как звезда «Района №9» изобразил наёмника.",
+    "image": "https://leonardo.osnova.io/df9aad8d-8364-562c-809f-7b9a64d169ae/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4145144-remaster-fallout-3-bethesda?from=rss",
-    "time": "2025-11-10T15:01:30.000Z"
+    "url": "https://dtf.ru/cinema/4145054-sharlto-kopli-o-leo-bonarte-v-vedmake?from=rss",
+    "time": "2025-11-10T14:46:27.000Z"
   }
 ]
