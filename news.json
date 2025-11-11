@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Shomrim: США построят военную базу за $500 млн на границе Израиля и Газы",
-    "description": "Она предназначена для использования международными силами по стабилизации, которые будут действовать в анклаве",
-    "fullText": "Она предназначена для использования международными силами по стабилизации, которые будут действовать в анклаве",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Соберите состав сборной, который понравится Карпину",
+    "description": "Дзюбу лучше не брать...",
+    "fullText": "Дзюбу лучше не брать...",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/87/54d44ba29488291b423ee9faf4f8a.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25588925",
-    "time": "2025-11-11T09:25:15.000Z"
+    "url": "https://sirena.world/2ucipp",
+    "time": "2025-11-11T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2025-11-11T04:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Только 30% игроков верят в Зверева. Выбирайте своих фаворитов на второй круг итогового",
-    "description": "И получайте ракетку с автографом.",
-    "fullText": "И получайте ракетку с автографом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/7b/285dd4af64d5f9bc8b9643e5b8803.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/kmw55s",
-    "time": "2025-11-11T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Никита Буянов о возможном ревью-бомбинге Escape from Tarkov в Steam: «Пускай»",
     "description": "Глава Battlestate Games считает, что авторов шутера ненавидит лишь маленькая доля аудитории.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4144570-nikita-buyanov-o-revyu-bombinge-escape-from-tarkov-v-steam?from=rss",
     "time": "2025-11-10T10:50:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
