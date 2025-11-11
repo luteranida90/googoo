@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Ивановской области объявили опасность атаки БПЛА",
+    "description": "Спецслужбы отслеживают оперативную обстановку",
+    "fullText": "Спецслужбы отслеживают оперативную обстановку",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25597113",
+    "time": "2025-11-11T22:09:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
+    "description": "Великая погоня!",
+    "fullText": "Великая погоня!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/aa/adcf42a654e9894fe408d6413a1f5.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/iha53v",
+    "time": "2025-11-11T20:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "«Спартак» вошел в топ-2 по частоте смены тренеров. Но лидер далековато!",
     "description": "Статистика за 10 сезонов.",
@@ -11,36 +33,14 @@
     "time": "2025-11-11T19:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Всего восемь вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
-    "description": "В хоккейном «Три на Три».",
-    "fullText": "В хоккейном «Три на Три».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/4a/9fe91e9b84f36a5c75d6d6753e495.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/b79iva",
-    "time": "2025-11-11T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Трой Бейкер о взаимоотношениях с Нилом Дракманном: «Мы обожаем спорить друг с другом»",
-    "description": "Коллеги придерживаются того же подхода при работе над Intergalactic: The Heretic Prophet.",
-    "fullText": "Коллеги придерживаются того же подхода при работе над Intergalactic: The Heretic Prophet.",
-    "image": "https://leonardo.osnova.io/9f0bf18e-c47c-572b-a0ed-33f12fcc9a6b/",
+    "title": "Финансовый директор Sony заявила, что PS5 находится «в середине жизненного цикла»",
+    "description": "И его планируют расширить.",
+    "fullText": "И его планируют расширить.",
+    "image": "https://leonardo.osnova.io/5fe6526a-eb77-5cac-82a0-2ef1baa1603c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4147409-troy-beyker-i-nil-drakmann-tvorcheskie-spory?from=rss",
-    "time": "2025-11-11T14:17:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4147170-finansovyy-direktor-sony-o-ps5?from=rss",
+    "time": "2025-11-11T11:57:30.000Z"
   }
 ]
