@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Разведчик Фокус: для захода в Рыбное российские бойцы прошли 24 км",
+    "description": "Военным ВС РФ также пришлось форсировать реку Янчур, рассказал командир разведгруппы 37-й гвардейской мотострелковой бригады 36-й армии группировки войск \"Восток\"",
+    "fullText": "Военным ВС РФ также пришлось форсировать реку Янчур, рассказал командир разведгруппы 37-й гвардейской мотострелковой бригады 36-й армии группировки войск \"Восток\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25585503",
+    "time": "2025-11-11T02:12:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
     "description": "Великая погоня!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ривз, Осар Томпсон, Гидди и еще 7 игроков, удививших на старте НБА",
-    "description": "Без суперзвезд.",
-    "fullText": "Без суперзвезд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/40/ee24bd9974755a27b9f59f2269df6.jpeg",
+    "title": "СКА испортил «Авангарду» праздник. Омск столкнулся с вратарем-стеной",
+    "description": "Иванов сделал 43 сэйва.",
+    "fullText": "Иванов сделал 43 сэйва.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/1d/c2f68b53f4e86bda7b825d4cf2967.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3362859.html",
-    "time": "2025-11-10T17:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3363376.html",
+    "time": "2025-11-10T18:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4144856-shon-levi-o-novom-filme-zvezdnye-voyny-s-ryanom-goslingom?from=rss",
     "time": "2025-11-10T13:03:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
