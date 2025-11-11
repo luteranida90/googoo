@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС опубликовал фото грузовых машин на границе Белоруссии с Литвой",
-    "description": "На снимке можно увидеть большое количество фур на подъезде к расположенному в Гродненской области международному автомобильному пункту пропуска \"Каменный Лог\"",
-    "fullText": "На снимке можно увидеть большое количество фур на подъезде к расположенному в Гродненской области международному автомобильному пункту пропуска \"Каменный Лог\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251111/8589685.jpg",
+    "title": "Спикер парламента Грузии соболезнует семьям погибших в катастрофе самолета ВС",
+    "description": "Шалва Папуашвили также выразил солидарность Турции в этот час скорби",
+    "fullText": "Шалва Папуашвили также выразил солидарность Турции в этот час скорби",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25594451",
-    "time": "2025-11-11T14:30:21.000Z"
+    "url": "https://tass.ru/obschestvo/25594807",
+    "time": "2025-11-11T15:08:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,25 +33,25 @@
     "time": "2025-11-11T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Адвенчуру Mixtape от авторов The Artful Escape отложили до 2026 года",
-    "description": "Игра почти готова, но создателям ещё нужно время.",
-    "fullText": "Игра почти готова, но создателям ещё нужно время.",
-    "image": "https://leonardo.osnova.io/3f1af7a8-040c-57c3-822a-84514826f268/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4146957-mixtape-ot-beethoven-i-dinosaur-otlozhen-do-2026-goda?from=rss",
-    "time": "2025-11-11T10:23:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У НХЛ проблема: лига растет, а таланта больше не становится",
-    "description": "Петухов глобальный.",
-    "fullText": "Петухов глобальный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e5/c9bd27a5e4d90b0786d6e8f850eec.jpeg",
+    "title": "ЦСКА и «Краснодар» – лидеры, «Зенит» – фаворит. Как изменились шансы на титул после 1-го круга РПЛ",
+    "description": "«Динамо» Карпина ниже «Балтики».",
+    "fullText": "«Динамо» Карпина ниже «Балтики».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c1/982571f5b4b8999e78ae0588c6e3d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3361288.html",
-    "time": "2025-11-11T09:55:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3363298.html",
+    "time": "2025-11-11T10:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Кинопоиск» представил дополнительные витрины телеканалов и продажи подписок на сервисы партнёров без оформления «Яндекс Плюса»",
+    "description": "А также анонсировал «персональные рецензии» на базе Alice AI и галочки верификации для знаменитостей и брендов.",
+    "fullText": "А также анонсировал «персональные рецензии» на базе Alice AI и галочки верификации для знаменитостей и брендов.",
+    "image": "https://leonardo.osnova.io/390567c0-a95f-5815-84f0-a716bafb3de7/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4146352-kinopoisk-novye-vitriny-i-podpiski?from=rss",
+    "time": "2025-11-11T05:33:54.000Z"
   }
 ]
