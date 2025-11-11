@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Новгородской области опровергли данные о разрушениях от метеорита",
-    "description": "Никаких повреждений нет",
-    "fullText": "Никаких повреждений нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Станкович уволен из «Спартака». Главное",
+    "description": "Пообщались и решили.",
+    "fullText": "Пообщались и решили.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/af/e370a105b463cbf5c130aa1dd4c5c.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25596733",
-    "time": "2025-11-11T19:39:27.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363576.html",
+    "time": "2025-11-11T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-11-11T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» дружит с медиалигой Пике – ради молодой аудитории. Клуб есть и у Ямаля, Лапорта прыгал на трибуне",
-    "description": "Но Хави отказал.",
-    "fullText": "Но Хави отказал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/18/fa6596b054c318a2505f6b799af27.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3363003.html",
-    "time": "2025-11-11T16:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ARC Raiders вновь лидирует в недельном чарте Steam среди платных игр, а KCD II вернулась в топ-10",
-    "description": "Новая Europa Universalis стартовала с третьей строчки, а Dispatch продолжает держаться в топ-5.",
-    "fullText": "Новая Europa Universalis стартовала с третьей строчки, а Dispatch продолжает держаться в топ-5.",
-    "image": "https://leonardo.osnova.io/3ae95625-2310-590e-b2c7-6a8c356028d0/",
+    "title": "Google Play начнёт предупреждать о приложениях, которые чрезмерно расходуют заряд аккумулятора",
+    "description": "Изменения введут с 1 марта 2026 года.",
+    "fullText": "Изменения введут с 1 марта 2026 года.",
+    "image": "https://leonardo.osnova.io/f1625dd3-6fa8-5c7f-90f3-01e3dde22153/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4147510-arc-raiders-vnov-na-pervom-meste-v-chartah-steam?from=rss",
-    "time": "2025-11-11T14:59:23.000Z"
+    "url": "https://dtf.ru/mobile/4147578-google-play-preduprezhdat-o-prilozheniyakh-s-vysokim-rashodom-batarei?from=rss",
+    "time": "2025-11-11T15:06:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
