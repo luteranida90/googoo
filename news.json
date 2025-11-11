@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Донбасс и Новороссия получат более 1,6 млрд рублей на капремонт школ и детсадов",
-    "description": "Финансирование поступит в 2025-2027 годах",
-    "fullText": "Финансирование поступит в 2025-2027 годах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25587279",
-    "time": "2025-11-11T07:04:31.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Снежный финал чемпионата Канады: супергол в падении через себя и празднования в сугробах",
-    "description": "Жаркие эмоции в холодную погоду.",
-    "fullText": "Жаркие эмоции в холодную погоду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/67/a3ad468dd46959f78602deab9c75b.jpeg",
+    "title": "Герои тура РПЛ: много новых лиц и знакомый Мелкадзе",
+    "description": "И самый недооцененный.",
+    "fullText": "И самый недооцененный.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ac/8f2c1bb2244fbb693c31a0b4c003a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363306.html",
-    "time": "2025-11-10T20:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363387.html",
+    "time": "2025-11-10T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Инсайдер показал, как будет выглядеть Steam Controller 2 — с момента предыдущей утечки дизайн почти не изменился",
-    "description": "Вероятно, анонс уже скоро.",
-    "fullText": "Вероятно, анонс уже скоро.",
-    "image": "https://leonardo.osnova.io/a485d6de-f284-5236-9699-10f6638a8de2/",
+    "title": "Спортивная драма «Кристи» с Сидни Суини показала один из худших стартов в широком прокате США",
+    "description": "По статистике релизов на более чем две тысячи кинотеатров.",
+    "fullText": "По статистике релизов на более чем две тысячи кинотеатров.",
+    "image": "https://leonardo.osnova.io/a5fa4b13-55bc-5e49-9f8f-9bb6e510cd66/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4144441-steam-controller-2-novyy-dizayn-i-detali-ot-insaydera-bred-lincha?from=rss",
-    "time": "2025-11-10T09:40:55.000Z"
+    "url": "https://dtf.ru/cinema/4144704-sportivnaya-drama-kristi-s-sidni-suini-hudshiy-start-v-ssha?from=rss",
+    "time": "2025-11-10T11:55:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
