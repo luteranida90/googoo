@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Харькове произошел взрыв",
+    "description": "В области, а также в Киеве и других регионах Украины действует воздушная тревога",
+    "fullText": "В области, а также в Киеве и других регионах Украины действует воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25586513",
+    "time": "2025-11-11T05:22:43.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
     "description": "Великая погоня!",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шон Леви о фильме по «Звёздным войнам» с Райаном Гослингом: «Это не сиквел или приквел»",
-    "description": "Картина полностью обособлена.",
-    "fullText": "Картина полностью обособлена.",
-    "image": "https://leonardo.osnova.io/a2ae778f-dcb0-5767-852a-1b810023fbac/",
+    "title": "Следующая презентация State of Play пройдёт в ночь на 12 ноября — её посвятят играм из Японии",
+    "description": "Трансляция продлится более 40 минут.",
+    "fullText": "Трансляция продлится более 40 минут.",
+    "image": "https://leonardo.osnova.io/595ec60e-37de-554f-91da-ea928a56aa1e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4144856-shon-levi-o-novom-filme-zvezdnye-voyny-s-ryanom-goslingom?from=rss",
-    "time": "2025-11-10T13:03:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4144927-prezentatsiya-state-of-play-12-noyabrya-igry-iz-yaponii?from=rss",
+    "time": "2025-11-10T13:11:03.000Z"
   }
 ]
