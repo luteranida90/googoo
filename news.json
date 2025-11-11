@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ненефтегазовые доходы бюджета РФ за 10 месяцев выросли на 11,3%",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ТАСС опубликовал фото грузовых машин на границе Белоруссии с Литвой",
+    "description": "На снимке можно увидеть большое количество фур на подъезде к расположенному в Гродненской области международному автомобильному пункту пропуска \"Каменный Лог\"",
+    "fullText": "На снимке можно увидеть большое количество фур на подъезде к расположенному в Гродненской области международному автомобильному пункту пропуска \"Каменный Лог\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251111/8589685.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25594165",
-    "time": "2025-11-11T14:05:33.000Z"
+    "url": "https://tass.ru/obschestvo/25594451",
+    "time": "2025-11-11T14:30:21.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,25 +33,25 @@
     "time": "2025-11-11T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Открытое письмо незрячего болельщика к комментаторам. Вы можете изменить наше восприятие футбола",
-    "description": "13 ноября − Международный день слепых.",
-    "fullText": "13 ноября − Международный день слепых.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/81/4cd62fa0646ef938f73a48416e3f5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363326.html",
-    "time": "2025-11-11T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышла Fallout 4: Anniversary Edition — со всеми дополнениями и контентом из Creation Club",
-    "description": "Первые игроки сообщили, что апдейт по традиции «сломал» моды.",
-    "fullText": "Первые игроки сообщили, что апдейт по традиции «сломал» моды.",
-    "image": "https://leonardo.osnova.io/61d8330b-90b5-59d1-ad93-e8eaba297e72/",
+    "title": "Адвенчуру Mixtape от авторов The Artful Escape отложили до 2026 года",
+    "description": "Игра почти готова, но создателям ещё нужно время.",
+    "fullText": "Игра почти готова, но создателям ещё нужно время.",
+    "image": "https://leonardo.osnova.io/3f1af7a8-040c-57c3-822a-84514826f268/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4145491-fallout-4-anniversary-edition-vse-dopolneniya-i-problemy-s-modami?from=rss",
-    "time": "2025-11-10T19:36:09.000Z"
+    "url": "https://dtf.ru/games/4146957-mixtape-ot-beethoven-i-dinosaur-otlozhen-do-2026-goda?from=rss",
+    "time": "2025-11-11T10:23:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У НХЛ проблема: лига растет, а таланта больше не становится",
+    "description": "Петухов глобальный.",
+    "fullText": "Петухов глобальный.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e5/c9bd27a5e4d90b0786d6e8f850eec.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3361288.html",
+    "time": "2025-11-11T09:55:00.000Z"
   }
 ]
