@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В двух регионах Украины отменили воздушную тревогу",
+    "description": "Сирены перестали звучать в Одесской и Черниговской областях",
+    "fullText": "Сирены перестали звучать в Одесской и Черниговской областях",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25596915",
+    "time": "2025-11-11T20:57:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего восемь вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
     "description": "В хоккейном «Три на Три».",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартак» убрал Станковича. Правильно?",
-    "description": "Расстались.",
-    "fullText": "Расстались.",
-    "image": "https://photobooth.cdn.sports.ru/preset/poll/4/96/f8f34897b4aa6a0a4ff019ce3163e.jpeg",
+    "title": "Алькарас запугал и погубил Фрица движением – и выжил в суперматче",
+    "description": "Крадется.",
+    "fullText": "Крадется.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/1c/013e8e92142e19bfd7cdc52d7731b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/poll/1116975451.html",
-    "time": "2025-11-11T16:45:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3363575.html",
+    "time": "2025-11-11T17:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/mobile/4147578-google-play-preduprezhdat-o-prilozheniyakh-s-vysokim-rashodom-batarei?from=rss",
     "time": "2025-11-11T15:06:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
