@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как трусость и идейный кризис захватили фигурку",
-    "description": "Колонка Кузнецова.",
-    "fullText": "Колонка Кузнецова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/cb/ff26cbeea474ea67346d4768bbcb1.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: на Днепропетровщине ударами ФАБ уничтожили два расчета БПЛА ВСУ",
+    "description": "В российских силовых структурах уточнили, что шесть военных противника ликвидированы, двое тяжело ранены",
+    "fullText": "В российских силовых структурах уточнили, что шесть военных противника ликвидированы, двое тяжело ранены",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3363000.html",
-    "time": "2025-11-11T20:50:00.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25598563",
+    "time": "2025-11-12T05:13:08.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
-    "description": "Великая погоня!",
-    "fullText": "Великая погоня!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/aa/adcf42a654e9894fe408d6413a1f5.png",
+    "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
+    "description": "Проверьте себя.",
+    "fullText": "Проверьте себя.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/24/084b127fd4f808b6c848753daf8bb.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/iha53v",
-    "time": "2025-11-11T20:40:00.000Z"
+    "url": "https://sirena.world/pweyv2",
+    "time": "2025-11-12T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кто лучший тренер «Спартака» после Карреры? Версии авторов Спортca’‘",
+    "description": "Вы точно знаете, кто на 1-м месте.",
+    "fullText": "Вы точно знаете, кто на 1-м месте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/75/8c854a07a4b0fbd0265af9fcd5721.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3363620.html",
+    "time": "2025-11-11T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4147170-finansovyy-direktor-sony-o-ps5?from=rss",
     "time": "2025-11-11T11:57:30.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
