@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Котюков призвал решать вопрос кадров с учетом автоматизации, цифровизации и ИИ",
-    "description": "Кадровый потенциал выступает фундаментом технологического лидерства страны, отметил губернатор Красноярского края",
-    "fullText": "Кадровый потенциал выступает фундаментом технологического лидерства страны, отметил губернатор Красноярского края",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25600199",
-    "time": "2025-11-12T08:34:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
     "description": "Проверьте себя.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наши больше не доминируют в художественной гимнастике – и это справедливо",
-    "description": "Впереди «обучение с нуля».",
-    "fullText": "Впереди «обучение с нуля».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/86/c04a8b63f482b91c580d74538e069.jpeg",
+    "title": "Алькарас запугал и погубил Фрица движением – и выжил в суперматче",
+    "description": "Крадется.",
+    "fullText": "Крадется.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/1c/013e8e92142e19bfd7cdc52d7731b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3363337.html",
-    "time": "2025-11-11T22:00:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3363575.html",
+    "time": "2025-11-12T03:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4147608-reliz-dopolneniya-mysteria-ecclesiae-kingdom-come-deliverance-ii?from=rss",
     "time": "2025-11-11T15:59:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
