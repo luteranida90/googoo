@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Почему Владивосток не попал в «Золото»? Киров вылетел в «Серебро», а «Велес» лидирует | Обзор игровой недели во Второй Лиге",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/6R32ieCaAczrxvbSL6XQ6wpuRpgFEoOVZC_a5PQahF0",
+    "time": "2025-11-12T16:02:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Россети Северный Кавказ\" по решению суда демонтировали подвесы ВОЛС с 636 опор ЛЭП в КБР",
-    "description": "Демонтаж произвели в пяти населенных пунктах Майского района республики",
-    "fullText": "Демонтаж произвели в пяти населенных пунктах Майского района республики",
+    "title": "Россия и Казахстан подписали меморандум о развитии ОЭЗ",
+    "description": "Цель документа - придать новый импульс развитию сотрудничества двух стран по вопросам привлечения и увеличения инвестиций в особых экономических зонах",
+    "fullText": "Цель документа - придать новый импульс развитию сотрудничества двух стран по вопросам привлечения и увеличения инвестиций в особых экономических зонах",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/novosti-regionov/25607451",
-    "time": "2025-11-12T15:02:42.000Z"
+    "url": "https://tass.ru/ekonomika/25607909",
+    "time": "2025-11-12T15:30:59.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,25 @@
     "time": "2025-11-12T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90Lm1lL3Nw",
-    "title": "Разыгрываем футболки сборной России и «Монако»! Конечно, с автографами Головина",
-    "description": "За подписку в телеграме.",
-    "fullText": "За подписку в телеграме.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/12/2bde971974358add0fecd16380232.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/sportsru/117891",
-    "time": "2025-11-12T11:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почти идеальный матч Эдвардса – и речь не об Энтони. Это очередной молодой из «Филадельфии»!",
-    "description": "Неожиданный герой.",
-    "fullText": "Неожиданный герой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9c/232677b3d4900ba66d1b573ca20b0.jpeg",
+    "title": "Сборная Перу-2018 – где они сейчас? Есть даже пастор!",
+    "description": "Тут и Фарфан.",
+    "fullText": "Тут и Фарфан.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/45/6196723de4a9ca753dca39465baf7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3363711.html",
-    "time": "2025-11-12T11:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363223.html",
+    "time": "2025-11-12T11:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "PR-менеджер Warhorse: «Мы хотим зарекомендовать себя в качестве новых королей жанра RPG»",
-    "description": "У студии амбициозные планы.",
-    "fullText": "У студии амбициозные планы.",
-    "image": "https://leonardo.osnova.io/ddb051ec-b17d-546d-abd2-f0f37052f2f2/",
+    "title": "Арториас в Elden Ring Nightreign, дата выхода ремейка Fatal Frame II и метроидвания о юной ведьме: что показали на State of Play Japan",
+    "description": "Каждый найдёт во что поиграть.",
+    "fullText": "Каждый найдёт во что поиграть.",
+    "image": "https://leonardo.osnova.io/41d39041-956b-5b5c-b2b0-f05d79c7aa62/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4148049-warhorse-novye-koroli-rpg?from=rss",
-    "time": "2025-11-11T19:05:58.000Z"
+    "url": "https://dtf.ru/games/4148403-pryamoy-efir-state-of-play-japan?from=rss",
+    "time": "2025-11-11T21:58:08.000Z"
   }
 ]
