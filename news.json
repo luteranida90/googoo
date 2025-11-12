@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В \"Барселоне\" заявили об отсутствии планов по подписанию Месси",
+    "description": "Ранее СМИ сообщали, что аргентинец может уйти в аренду из \"Интер Майами\" во время паузы в MLS ради подготовки к чемпионату мира",
+    "fullText": "Ранее СМИ сообщали, что аргентинец может уйти в аренду из \"Интер Майами\" во время паузы в MLS ради подготовки к чемпионату мира",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25601275",
+    "time": "2025-11-12T09:33:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все проблемы Станковича – из-за самого Станковича",
+    "description": "Мнение Андрея Савина.",
+    "fullText": "Мнение Андрея Савина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e7/982e8971a4303b9c3eba1a5932e10.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3363597.html",
+    "time": "2025-11-12T05:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
     "description": "Проверьте себя.",
@@ -11,36 +33,14 @@
     "time": "2025-11-12T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алькарас запугал и погубил Фрица движением – и выжил в суперматче",
-    "description": "Крадется.",
-    "fullText": "Крадется.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/1c/013e8e92142e19bfd7cdc52d7731b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3363575.html",
-    "time": "2025-11-12T03:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз третьего сюжетного дополнения для Kingdom Come: Deliverance II о «смертельной тайне» в монастыре",
-    "description": "Оно получило название Mysteria Ecclesiae.",
-    "fullText": "Оно получило название Mysteria Ecclesiae.",
-    "image": "https://leonardo.osnova.io/0a226c78-b932-5916-83cf-2172c567c02f/",
+    "title": "Игроки сообщили о багах и вылетах в Fallout 4 после выхода Anniversary Edition",
+    "description": "У нового набора Creations Bundle «в основном отрицательные» отзывы в Steam.",
+    "fullText": "У нового набора Creations Bundle «в основном отрицательные» отзывы в Steam.",
+    "image": "https://leonardo.osnova.io/86133350-f11c-52a3-b8dd-bc4537792ba9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4147608-reliz-dopolneniya-mysteria-ecclesiae-kingdom-come-deliverance-ii?from=rss",
-    "time": "2025-11-11T15:59:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4146974-problemy-s-fallout-4-posle-vyhoda-anniversary-edition?from=rss",
+    "time": "2025-11-11T10:51:34.000Z"
   }
 ]
