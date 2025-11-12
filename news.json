@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В прокуратуре подтвердили факт убийства ребенка в Москве, возбудили дело",
-    "description": "Работу правоохранительных органов на месте происшествия координирует никулинский межрайонный прокурор Данилкин",
-    "fullText": "Работу правоохранительных органов на месте происшествия координирует никулинский межрайонный прокурор Данилкин",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25609361",
-    "time": "2025-11-12T18:31:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Зверев против Синнера – смотрите матч прямо в Основе!",
     "description": "Теперь следить за фэнтези-командой можно в прямом эфире.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Букмекеры добились смягчения нового налога. Похоже, заплатят на 50 млрд меньше",
-    "description": "Но 40+ млрд все же отдадут.",
-    "fullText": "Но 40+ млрд все же отдадут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/8f/42c44b37943e2b3ab0ef9b90ee4d8.jpeg",
+    "title": "Сафонов привез подарок из Парижа. Исполнил мечту ребенка!",
+    "description": "«Надеюсь, сделаем счастливым».",
+    "fullText": "«Надеюсь, сделаем счастливым».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e4/f5d59001e4f35a6aa8a88780e37d8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/industry/blogs/3363630.html",
-    "time": "2025-11-12T14:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363791.html",
+    "time": "2025-11-12T14:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
