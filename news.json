@@ -1,25 +1,47 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Это не цирк, а шапито дешевое». Самые яркие реакции на увольнение Станковича",
-    "description": "Только Ловчев против отставки.",
-    "fullText": "Только Ловчев против отставки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/7b/180dea1fa4bfb8c20aebc33d708df.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "NBC: в Калифорнии, Техасе и Флориде из-за магнитной бури увидели северное сияние",
+    "description": "Не исключено, что 12 ноября буря может усилиться",
+    "fullText": "Не исключено, что 12 ноября буря может усилиться",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25603465",
+    "time": "2025-11-12T12:26:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90Lm1lL3Nw",
+    "title": "Разыгрываем футболки сборной России и «Монако»! Конечно, с автографами Головина",
+    "description": "За подписку в телеграме.",
+    "fullText": "За подписку в телеграме.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/12/2bde971974358add0fecd16380232.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363596.html",
-    "time": "2025-11-12T07:20:00.000Z"
+    "url": "https://t.me/sportsru/117891",
+    "time": "2025-11-12T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Левандовски и Кейн – кто их объединил?",
-    "description": "Раскройте пары в «Комбо»!",
-    "fullText": "Раскройте пары в «Комбо»!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/8b/4cf91269a472095a13dfdbe467e10.png",
+    "title": "Знаете, сколько индивидуальных наград взял Овечкин в НХЛ? Тогда вам в наш спецпроект",
+    "description": "По карьере Александра.",
+    "fullText": "По карьере Александра.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/2e/390bf979042208e4364ff51f6eefe.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2025-11-12T07:00:00.000Z"
+    "url": "https://sirena.world/iha53v",
+    "time": "2025-11-12T09:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Босс «Феррари» заткнул Хэмилтона: в провалах виновны пилоты, а команда «Ф-1» – супер. Он совсем?!",
+    "description": "Проверяем Элканна.",
+    "fullText": "Проверяем Элканна.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ea/3d2a6fa06435e939d6a56dd7c55c1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3363571.html",
+    "time": "2025-11-12T08:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4147653-remaster-sacred-2-negativnye-otzyvy-i-problemy-s-interfeysom?from=rss",
     "time": "2025-11-11T17:22:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
