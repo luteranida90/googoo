@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Почему Владивосток не попал в «Золото»? Киров вылетел в «Серебро», а «Велес» лидирует | Обзор игровой недели во Второй Лиге",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/6R32ieCaAczrxvbSL6XQ6wpuRpgFEoOVZC_a5PQahF0",
-    "time": "2025-11-12T16:02:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Россия и Казахстан подписали меморандум о развитии ОЭЗ",
-    "description": "Цель документа - придать новый импульс развитию сотрудничества двух стран по вопросам привлечения и увеличения инвестиций в особых экономических зонах",
-    "fullText": "Цель документа - придать новый импульс развитию сотрудничества двух стран по вопросам привлечения и увеличения инвестиций в особых экономических зонах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Российские специалисты помогли пробурить более 20 водных скважин в ЦАР",
+    "description": "Четыре из них предназначены для нужд Центральноафриканских вооруженных сил",
+    "fullText": "Четыре из них предназначены для нужд Центральноафриканских вооруженных сил",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251112/8592607.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25607909",
-    "time": "2025-11-12T15:30:59.000Z"
+    "url": "https://tass.ru/obschestvo/25608333",
+    "time": "2025-11-12T16:04:15.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +22,25 @@
     "time": "2025-11-12T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сборная Перу-2018 – где они сейчас? Есть даже пастор!",
-    "description": "Тут и Фарфан.",
-    "fullText": "Тут и Фарфан.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/45/6196723de4a9ca753dca39465baf7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363223.html",
-    "time": "2025-11-12T11:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Арториас в Elden Ring Nightreign, дата выхода ремейка Fatal Frame II и метроидвания о юной ведьме: что показали на State of Play Japan",
-    "description": "Каждый найдёт во что поиграть.",
-    "fullText": "Каждый найдёт во что поиграть.",
-    "image": "https://leonardo.osnova.io/41d39041-956b-5b5c-b2b0-f05d79c7aa62/",
+    "title": "Идрис Эльба вернётся к роли Лютера для ещё одного фильма на Netflix",
+    "description": "В картине также появится Рут Уилсон из сериала.",
+    "fullText": "В картине также появится Рут Уилсон из сериала.",
+    "image": "https://leonardo.osnova.io/1cfe76cc-29f7-5417-bc43-0886628a09b0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4148403-pryamoy-efir-state-of-play-japan?from=rss",
-    "time": "2025-11-11T21:58:08.000Z"
+    "url": "https://dtf.ru/cinema/4149460-idris-elba-i-ruth-wilson-v-novom-filme-ljuter-na-netflix?from=rss",
+    "time": "2025-11-12T12:37:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "13 фактов о Джеке Делла Маддалене – чемпионе, за которым идет Махачев",
+    "description": "Бывший регбист, работавший в финансах.",
+    "fullText": "Бывший регбист, работавший в финансах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2c/b57fa69ef4c148f455a5b1f6987d0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3322267.html",
+    "time": "2025-11-12T12:20:00.000Z"
   }
 ]
