@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В России ведется разработка девяти новых машин и оборудования для пищепрома",
-    "description": "Отечественная доля в этой отрасли на внутреннем рынке составляет в среднем 54%, отметил министр промышленности и торговли Антон Алиханов",
-    "fullText": "Отечественная доля в этой отрасли на внутреннем рынке составляет в среднем 54%, отметил министр промышленности и торговли Антон Алиханов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Это не цирк, а шапито дешевое». Самые яркие реакции на увольнение Станковича",
+    "description": "Только Ловчев против отставки.",
+    "fullText": "Только Ловчев против отставки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/7b/180dea1fa4bfb8c20aebc33d708df.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25602369",
-    "time": "2025-11-12T10:33:50.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363596.html",
+    "time": "2025-11-12T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-11-12T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "901-я шайба Овечкина: забросил в пустые «Каролине». А до этого сделал победный гол Строуму",
-    "description": "До рекорда Гретцки – 38 голов.",
-    "fullText": "До рекорда Гретцки – 38 голов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/0f/6b21fa4044d158bd9f2858bbf9f32.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3363680.html",
-    "time": "2025-11-12T06:04:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игроки сообщили о багах и вылетах в Fallout 4 после выхода Anniversary Edition",
-    "description": "У нового набора Creations Bundle «в основном отрицательные» отзывы в Steam.",
-    "fullText": "У нового набора Creations Bundle «в основном отрицательные» отзывы в Steam.",
-    "image": "https://leonardo.osnova.io/86133350-f11c-52a3-b8dd-bc4537792ba9/",
+    "title": "«Лучше перепройду старую версию»: ремастер Sacred 2 стартовал с «в основном отрицательными отзывами» в Steam",
+    "description": "А на OpenCritic у переиздания 66 баллов из 100 от СМИ.",
+    "fullText": "А на OpenCritic у переиздания 66 баллов из 100 от СМИ.",
+    "image": "https://leonardo.osnova.io/273e073a-6892-57a1-84c2-f0615fe45441/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4146974-problemy-s-fallout-4-posle-vyhoda-anniversary-edition?from=rss",
-    "time": "2025-11-11T10:51:34.000Z"
+    "url": "https://dtf.ru/games/4147653-remaster-sacred-2-negativnye-otzyvy-i-problemy-s-interfeysom?from=rss",
+    "time": "2025-11-11T17:22:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
