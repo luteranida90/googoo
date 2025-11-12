@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фидан: ХАМАС демонстрирует готовность к урегулированию в Газе",
-    "description": "Такое же понимание должно быть продемонстрировано и со стороны Израиля, заявил глава МИД Турции",
-    "fullText": "Такое же понимание должно быть продемонстрировано и со стороны Израиля, заявил глава МИД Турции",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путина и Токаева в Большом театре встретили министры культуры двух стран",
+    "description": "Ольга Любимова и Аида Балаева проводили лидеров России и Казахстана в Царскую ложу",
+    "fullText": "Ольга Любимова и Аида Балаева проводили лидеров России и Казахстана в Царскую ложу",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251112/8592703.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25608549",
-    "time": "2025-11-12T16:30:56.000Z"
+    "url": "https://tass.ru/politika/25608759",
+    "time": "2025-11-12T16:57:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Азиатские магнаты захватывают озеро Комо. С помощью футбола!",
+    "description": "Денис Пузырев о футбольном Диснейленде.",
+    "fullText": "Денис Пузырев о футбольном Диснейленде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/17/2c340a77c458d88d625f959c42270.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3362249.html",
+    "time": "2025-11-12T13:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ремейк The Legend of Heroes: Trails in the Sky SC выйдет «до сентября 2026 года»",
-    "description": "Общие продажи франшизы тем временем превысили девять миллионов копий.",
-    "fullText": "Общие продажи франшизы тем временем превысили девять миллионов копий.",
-    "image": "https://leonardo.osnova.io/16b29dcc-7d5b-58d3-b149-38f3059b77b4/",
+    "title": "Стартовали съёмки «Джуманджи 3»",
+    "description": "Со всеми ключевыми актёрами, включая Дуэйна Джонсона.",
+    "fullText": "Со всеми ключевыми актёрами, включая Дуэйна Джонсона.",
+    "image": "https://leonardo.osnova.io/20ca3118-c892-566a-a992-26e216c40849/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4149555-remeik-trails-in-the-sky-sc-vyidet-do-sentyabrya-2026-goda?from=rss",
-    "time": "2025-11-12T13:14:11.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "13 фактов о Джеке Делла Маддалене – чемпионе, за которым идет Махачев",
-    "description": "Бывший регбист, работавший в финансах.",
-    "fullText": "Бывший регбист, работавший в финансах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2c/b57fa69ef4c148f455a5b1f6987d0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3322267.html",
-    "time": "2025-11-12T12:20:00.000Z"
+    "url": "https://dtf.ru/cinema/4149213-start-syomok-dzhumandzhi-3?from=rss",
+    "time": "2025-11-12T10:52:11.000Z"
   }
 ]
