@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Япония считает неприемлемыми санкции со стороны России",
-    "description": "При этом Токио хочет сохранить диалог с Москвой, заявил генсек кабмина Японии Минору Кихара",
-    "fullText": "При этом Токио хочет сохранить диалог с Москвой, заявил генсек кабмина Японии Минору Кихара",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25597877",
-    "time": "2025-11-12T03:14:54.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
     "description": "Великая погоня!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Баззер-фестиваль в НБА: сразу три (!) точных броска под сирену",
-    "description": "За это и любим лигу.",
-    "fullText": "За это и любим лигу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a9/ca371b0a1414b97dd311d4b2b4255.jpeg",
+    "title": "Кто лучший тренер «Спартака» после Карреры? Версии авторов Спортca’‘",
+    "description": "Вы точно знаете, кто на 1-м месте.",
+    "fullText": "Вы точно знаете, кто на 1-м месте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/75/8c854a07a4b0fbd0265af9fcd5721.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3363455.html",
-    "time": "2025-11-11T19:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363620.html",
+    "time": "2025-11-11T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4147170-finansovyy-direktor-sony-o-ps5?from=rss",
     "time": "2025-11-11T11:57:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
