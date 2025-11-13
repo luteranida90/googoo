@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Бюджет Бурятии запланировали с дефицитом в 7,9 млрд рублей",
+    "description": "Основные приоритеты республики - социальная поддержка и повышение качества жизни граждан",
+    "fullText": "Основные приоритеты республики - социальная поддержка и повышение качества жизни граждан",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25617447",
+    "time": "2025-11-13T12:24:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Ищем человека, который прочтет весь Спортс’‘",
     "description": "Уникальная вакансия!",
@@ -11,47 +22,36 @@
     "time": "2025-11-13T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Инвестиции Ставрополья вырастут почти вдвое к концу 2025 года",
-    "description": "По итогам первого полугодия общий объем вложений составил 141,7 млрд рублей",
-    "fullText": "По итогам первого полугодия общий объем вложений составил 141,7 млрд рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто выиграет итоговый турнир ATP? Выбирайте фаворитов ближайших матчей",
+    "description": "И выигрывайте призы.",
+    "fullText": "И выигрывайте призы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/5c/74296ed8d4b9d94952b4a3051a43d.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25616575",
-    "time": "2025-11-13T11:28:03.000Z"
+    "url": "https://sirena.world/kmw55s",
+    "time": "2025-11-13T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«В отборе Сафонов, может, и не играл бы». Суровый Карпин после гола Перу",
-    "description": "Реакция на ошибку Матвея.",
-    "fullText": "Реакция на ошибку Матвея.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b5/f2d9022984851bd7137babd649b66.jpeg",
+    "title": "Никола Йокич обрушил 55 очков на «Клипперс». Это больше, чем у их стартовой пятерки",
+    "description": "Просто лучший.",
+    "fullText": "Просто лучший.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c9/f3d42d25c4323b86d9c5dc26967fe.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363882.html",
-    "time": "2025-11-13T07:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Больше 10 клубов этого сезона Ла Лиги играли в ЛЧ. Назовете хотя бы шесть?",
-    "description": "Испытайте себя в «Клубах на карте».",
-    "fullText": "Испытайте себя в «Клубах на карте».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e7/c02244beb4a74a839b9b509866735.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2025-11-13T07:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3363904.html",
+    "time": "2025-11-13T08:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Valve представила VR-гарнитуру Steam Frame, а также новые модели Steam Machine и Steam Controller",
-    "description": "Масштабный анонс.",
-    "fullText": "Масштабный анонс.",
-    "image": "https://leonardo.osnova.io/0e90951e-fc4e-517c-b2b7-3bdf1b5e3c36/",
+    "title": "Kojima Productions анонсировала мультсериал Death Stranding Isolations — он выйдет в 2027 году на Disney+",
+    "description": "Название пока лишь рабочее.",
+    "fullText": "Название пока лишь рабочее.",
+    "image": "https://leonardo.osnova.io/6d0d1cb6-23dc-55b1-ace7-1b26366cdea9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4150277-valve-predstavila-vr-garnituru-steam-frame?from=rss",
-    "time": "2025-11-12T18:00:08.000Z"
+    "url": "https://dtf.ru/anime/4151077-anons-multseriala-death-stranding-isolations?from=rss",
+    "time": "2025-11-13T05:08:27.000Z"
   }
 ]
