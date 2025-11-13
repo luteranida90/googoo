@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Уралвагонзавод\" нанес на машину ТОС-1А \"Солнцепек\" надпись \"За Кириллова!\"",
+    "description": "В концерне подчеркнули, что огнеметные системы показывают потрясающую эффективность в уничтожении укреплений противника",
+    "fullText": "В концерне подчеркнули, что огнеметные системы показывают потрясающую эффективность в уничтожении укреплений противника",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25614745",
+    "time": "2025-11-13T09:11:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Валера, который забил сборной России. Кто это такой?",
+    "description": "Пробивался через мини-футбол и пляжку.",
+    "fullText": "Пробивался через мини-футбол и пляжку.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/85/ea669388340c78f505ebb8ccd0f26.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3363865.html",
+    "time": "2025-11-13T05:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Помогите Карпину собрать состав и получите билеты на матч сборной",
     "description": "Или джерси с автографами.",
@@ -11,36 +33,14 @@
     "time": "2025-11-13T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Дома превращаюсь в котенка: только не обижайте». Арина Соболенко – о тусовках, отношениях и красоте Шараповой",
-    "description": "Сходила на подкаст к Соколовскому.",
-    "fullText": "Сходила на подкаст к Соколовскому.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/8e/36c65724b49a9ac3ca85cc3dbefee.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3363805.html",
-    "time": "2025-11-13T02:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "GTA V, Still Wakes the Deep, Pacific Drive и The Talos Principle 2 добавят в расширенную подписку PS Plus",
-    "description": "Каталог обновят уже 18 ноября — в нём появятся и другие игры.",
-    "fullText": "Каталог обновят уже 18 ноября — в нём появятся и другие игры.",
-    "image": "https://leonardo.osnova.io/d5cd72f5-5ab0-5ad2-953a-22eed2a7558b/",
+    "title": "Авторы Bloodlines 2 опубликовали «дорожную карту» поддержки — до конца года в экшен-RPG появятся настройка поля зрения и кастомная сложность",
+    "description": "Разработчики также готовят апдейт ко Дню святого Валентина.",
+    "fullText": "Разработчики также готовят апдейт ко Дню святого Валентина.",
+    "image": "https://leonardo.osnova.io/b9a3b859-1f44-5521-abc0-ee9d559f39ea/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4150102-gta-v-pacific-drive-still-wakes-the-deep-ps-plus?from=rss",
-    "time": "2025-11-12T16:40:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4149958-bloodlines-2-dorozhnaya-karta-obnovleniy?from=rss",
+    "time": "2025-11-12T16:00:08.000Z"
   }
 ]
