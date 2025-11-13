@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВСУ пытаются атаковать Донецк беспилотниками",
-    "description": "БПЛА слышны сразу в нескольких районах города",
-    "fullText": "БПЛА слышны сразу в нескольких районах города",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251113/8595095.jpg",
+    "title": "Telegraph: Би-би-си исказила речь Трампа еще в 2022 году",
+    "description": "По информации газеты, впервые это произошло 9 июня 2022 года в вечерней аналитической программе новостей BBC Newsnight",
+    "fullText": "По информации газеты, впервые это произошло 9 июня 2022 года в вечерней аналитической программе новостей BBC Newsnight",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25620571",
-    "time": "2025-11-13T18:19:46.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25620699",
+    "time": "2025-11-13T18:59:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +33,25 @@
     "time": "2025-11-13T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Второй сезон сериала «„Монарх“: Наследие монстров» стартует 27 февраля 2026 года",
-    "description": "Появился дебютный тизер — с Конгом и морским чудовищем.",
-    "fullText": "Появился дебютный тизер — с Конгом и морским чудовищем.",
-    "image": "https://leonardo.osnova.io/ff0ceaaf-82bc-5178-ba22-5713e78ce924/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4152093-vtoroy-sezon-monark-start-27-fevralya?from=rss",
-    "time": "2025-11-13T15:16:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Федор подерется с КроКопом? Соперник – после инсульта, фанаты – против",
-    "description": "«Как такое может быть законным?»",
-    "fullText": "«Как такое может быть законным?»",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/9e/6cf6f09e34ca9b151a65498e06a79.jpeg",
+    "title": "Комтуа – разочарование осени в «Динамо». Отсюда и слухи об обмене",
+    "description": "Не смотрите на очки.",
+    "fullText": "Не смотрите на очки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d4/cb085bc424ea49892df8903afad5c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3363751.html",
-    "time": "2025-11-13T15:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3363962.html",
+    "time": "2025-11-13T15:55:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В Steam открылись предзаказы Escape from Tarkov — они составляют от 1800 до 4000 рублей",
+    "description": "Однако некоторое время действует скидка 25% на все версии.",
+    "fullText": "Однако некоторое время действует скидка 25% на все версии.",
+    "image": "https://leonardo.osnova.io/0856e2dc-0ebe-5fbd-b38f-e3a44312565d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4151532-predzakazy-escape-from-tarkov-v-steam?from=rss",
+    "time": "2025-11-13T09:44:16.000Z"
   }
 ]
