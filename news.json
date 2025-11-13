@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Страна\": у Миндича есть лазейки для обхода санкционных ограничений",
-    "description": "По данным издания, Киев вряд ли будет запрашивать у другой страны выдачу не гражданина Украины",
-    "fullText": "По данным издания, Киев вряд ли будет запрашивать у другой страны выдачу не гражданина Украины",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25618589",
-    "time": "2025-11-13T14:02:23.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
     "description": "Раньше было ярче...",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сказки». Конте думает уйти из «Наполи» или нет?",
-    "description": "Де Лаурентис опроверг.",
-    "fullText": "Де Лаурентис опроверг.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/f2/6f91570234df6a922901178aee942.jpeg",
+    "title": "Они считают, что Махачев проиграет в походе за вторым поясом",
+    "description": "И таких много.",
+    "fullText": "И таких много.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/db/85ac552f145069dbd0237c1b02390.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363412.html",
-    "time": "2025-11-13T09:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3363064.html",
+    "time": "2025-11-13T10:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4151142-final-dispatch-sobral-220-tysyach-igrokov-v-steam?from=rss",
     "time": "2025-11-13T06:09:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
