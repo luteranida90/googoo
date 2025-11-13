@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Филиппины депортируют обвиняемого в России в мошенничестве создателя ОПГ",
-    "description": "Ущерб, причиненный гражданам от деятельности преступной группы, превысил 3,6 млн рублей",
-    "fullText": "Ущерб, причиненный гражданам от деятельности преступной группы, превысил 3,6 млн рублей",
+    "title": "В Челябинске задержали замначальника следственного отдела полиции",
+    "description": "Женщину подозревают в том, что она занималась покровительством объединению \"Махонинские\"",
+    "fullText": "Женщину подозревают в том, что она занималась покровительством объединению \"Махонинские\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25619129",
-    "time": "2025-11-13T14:58:05.000Z"
+    "url": "https://tass.ru/proisshestviya/25619371",
+    "time": "2025-11-13T15:18:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Второй сезон сериала «„Монарх“: Наследие монстров» стартует 27 февраля 2026 года",
+    "description": "Появился дебютный тизер — с Конгом и морским чудовищем.",
+    "fullText": "Появился дебютный тизер — с Конгом и морским чудовищем.",
+    "image": "https://leonardo.osnova.io/ff0ceaaf-82bc-5178-ba22-5713e78ce924/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4152093-vtoroy-sezon-monark-start-27-fevralya?from=rss",
+    "time": "2025-11-13T15:16:55.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,15 +33,15 @@
     "time": "2025-11-13T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хендерсон: утёкшие изображения Far Cry относятся к отменённой версии седьмой части",
-    "description": "А extraction-шутер по франшизе тоже могут отменить.",
-    "fullText": "А extraction-шутер по франшизе тоже могут отменить.",
-    "image": "https://leonardo.osnova.io/300db507-1618-5947-9d5a-6f1e6f78ebc7/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4151810-hendersson-utekshie-izobrazheniya-far-cry-7?from=rss",
-    "time": "2025-11-13T12:27:15.000Z"
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Эволюция Ислама Махачева – от спарринг-партнера Хабиба до сильнейшего универсала UFC",
+    "description": "Исследование Артема Нагорного.",
+    "fullText": "Исследование Артема Нагорного.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/3e/9fa6947dd400786f2cb5ee86c8cd8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3363646.html",
+    "time": "2025-11-13T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://sprts.cc/aftbmc",
     "time": "2025-11-13T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Норрис теперь точно чемпион «Ф-1»? Вот все сценарии шансов Ферстаппена и Пиастри",
-    "description": "Возможна драма с полным равенством очков в финале.",
-    "fullText": "Возможна драма с полным равенством очков в финале.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/2a/f71b2140a46dc949f6249f2bad54d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3363546.html",
-    "time": "2025-11-13T11:05:00.000Z"
   }
 ]
