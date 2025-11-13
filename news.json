@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ГД внесли законопроект об уведомлении через \"Госуслуги\" о подписании кредита",
-    "description": "Для этого банки и МФО должны будут передавать в бюро кредитных историй сведения о подписании заемщиком индивидуальных условий кредитного договора",
-    "fullText": "Для этого банки и МФО должны будут передавать в бюро кредитных историй сведения о подписании заемщиком индивидуальных условий кредитного договора",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251113/8595035.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25620303",
-    "time": "2025-11-13T17:22:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В EGS раздают фэнтезийную стратегию Songs of Silence и «роглайт»-платформер ScourgeBringer",
     "description": "А также тактический шутер Zero Hour, недоступный в регионе РФ.",
@@ -23,9 +12,9 @@
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Ак Барс» и «Динамо» уже забили 7 голов. Смотрим на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "title": "Результативная драма у «Ак Барса» и «Динамо» – 5:4! Показывали на ВидеоСпортсе’’",
+    "description": "Хет-трик у Миллера.",
+    "fullText": "Хет-трик у Миллера.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/7/28/a0c30f1304886936bae0af7e75767.jpeg",
     "source": "Sports.ru",
     "category": "all",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что «Питтсбургу» делать с Малкиным?",
-    "description": "Менять или нет?",
-    "fullText": "Менять или нет?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c8/360c5b66844cdb6ac6dac1c67803d.jpeg",
+    "title": "Бывший алкоголик – звезда соцсетей: казнит фитнес-блогеров, рушит мифы о ПП и богатеет",
+    "description": "Игорь Воронцов #####.",
+    "fullText": "Игорь Воронцов #####.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/34/d8704f740479d919a2bc75a5abafd.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3361508.html",
-    "time": "2025-11-13T13:00:00.000Z"
+    "url": "https://www.sports.ru/health/blogs/3363087.html",
+    "time": "2025-11-13T13:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
