@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Челябинске задержали замначальника следственного отдела полиции",
-    "description": "Женщину подозревают в том, что она занималась покровительством объединению \"Махонинские\"",
-    "fullText": "Женщину подозревают в том, что она занималась покровительством объединению \"Махонинские\"",
+    "title": "В Петербурге откроют 20 новых заводов и две технологические долины",
+    "description": "В новой промполитике упор сделан на достижение технологического лидерства и глобальной конкурентоспособности города",
+    "fullText": "В новой промполитике упор сделан на достижение технологического лидерства и глобальной конкурентоспособности города",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25619371",
-    "time": "2025-11-13T15:18:48.000Z"
+    "url": "https://tass.ru/ekonomika/25619855",
+    "time": "2025-11-13T16:03:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Ак Барс» – «Динамо»: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/28/a0c30f1304886936bae0af7e75767.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/embed/vGUCXykrGhTqoOgMRb9ItUD-msNKkTpFZA6f2ExnNns?loop=1",
+    "time": "2025-11-13T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://www.sports.ru/boxing/blogs/3363646.html",
     "time": "2025-11-13T11:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Ищем человека, который прочтет весь Спортс’‘",
-    "description": "Уникальная вакансия!",
-    "fullText": "Уникальная вакансия!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/fd/e6c427b5e4cfdae3a176c4d6e4540.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/aftbmc",
-    "time": "2025-11-13T11:30:00.000Z"
   }
 ]
