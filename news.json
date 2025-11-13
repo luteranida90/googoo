@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МВФ не видит серьезного негативного влияния шатдауна в США на другие страны",
-    "description": "Однако, это все еще может оказать какой-то эффект на другие государства, заявила официальный представитель фонда Джули Козак",
-    "fullText": "Однако, это все еще может оказать какой-то эффект на другие государства, заявила официальный представитель фонда Джули Козак",
+    "title": "Bild: доля прибывающих в ФРГ с Украины мужчин растет \"от месяца к месяцу\"",
+    "description": "По данным газеты, на границе наблюдается новый феномен - микроавтобусы, заполненные группами молодых украинцев, что связано, по оценке издания, с постановлением украинских властей, разрешающим мужчинам от 18 до 22 лет выезд из страны во время действия военного положения",
+    "fullText": "По данным газеты, на границе наблюдается новый феномен - микроавтобусы, заполненные группами молодых украинцев, что связано, по оценке издания, с постановлением украинских властей, разрешающим мужчинам от 18 до 22 лет выезд из страны во время действия военного положения",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25619985",
-    "time": "2025-11-13T16:20:46.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25620105",
+    "time": "2025-11-13T16:45:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В EGS раздают фэнтезийную стратегию Songs of Silence и «роглайт»-платформер ScourgeBringer",
+    "description": "А также тактический шутер Zero Hour, недоступный в регионе РФ.",
+    "fullText": "А также тактический шутер Zero Hour, недоступный в регионе РФ.",
+    "image": "https://leonardo.osnova.io/75d73fb1-43d4-5f27-8ff6-ebf8536f9166/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4152161-razdacha-igr-v-egs-songs-of-silence-scourgebringer-i-zero-hour?from=rss",
+    "time": "2025-11-13T16:22:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +44,14 @@
     "time": "2025-11-13T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шутер The Finals закончат поддерживать на PS4 в марте 2026 года",
-    "description": "На консоли прошлого поколения всё сложнее развивать игру.",
-    "fullText": "На консоли прошлого поколения всё сложнее развивать игру.",
-    "image": "https://leonardo.osnova.io/22901da5-e698-5ad0-8703-e6efb97c963c/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4151885-podderzhka-shutera-the-finals-na-ps4-zavershitsya?from=rss",
-    "time": "2025-11-13T13:09:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Стефанос Циципас стал посредственностью. Что разрушило его карьеру?",
-    "description": "Ищем причины везде.",
-    "fullText": "Ищем причины везде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1f/7b0aa8f5048d8ba62dc64375720fc.jpeg",
+    "title": "«Аталанта» хочет нового гасперинизма. Вот в чем смысл смены тренера",
+    "description": "Пришел Палладино.",
+    "fullText": "Пришел Палладино.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/cc/0b11b49ad420f87da59501fea93d9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3362416.html",
-    "time": "2025-11-13T12:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363559.html",
+    "time": "2025-11-13T12:35:00.000Z"
   }
 ]
