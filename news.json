@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ульянов: мировая реакция на заявления США о ядерных испытаниях разочаровывает",
-    "description": "Постоянный представитель РФ при международных организациях в Вене отметил, что такая ситуация очень тревожна",
-    "fullText": "Постоянный представитель РФ при международных организациях в Вене отметил, что такая ситуация очень тревожна",
+    "title": "\"Страна\": у Миндича есть лазейки для обхода санкционных ограничений",
+    "description": "По данным издания, Киев вряд ли будет запрашивать у другой страны выдачу не гражданина Украины",
+    "fullText": "По данным издания, Киев вряд ли будет запрашивать у другой страны выдачу не гражданина Украины",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25618191",
-    "time": "2025-11-13T13:16:58.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25618589",
+    "time": "2025-11-13T14:02:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
+    "description": "Раньше было ярче...",
+    "fullText": "Раньше было ярче...",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/45/29c64aa2945bdb73a90687464e97f.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-11-13T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +33,25 @@
     "time": "2025-11-13T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто выиграет итоговый турнир ATP? Выбирайте фаворитов ближайших матчей",
-    "description": "И выигрывайте призы.",
-    "fullText": "И выигрывайте призы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/5c/74296ed8d4b9d94952b4a3051a43d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/kmw55s",
-    "time": "2025-11-13T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дочка Недведа – новая теннисная жена",
-    "description": "Обручилась с Кордой.",
-    "fullText": "Обручилась с Кордой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/65/bc27d830441fda2bea7270c918d37.jpeg",
+    "title": "«Сказки». Конте думает уйти из «Наполи» или нет?",
+    "description": "Де Лаурентис опроверг.",
+    "fullText": "Де Лаурентис опроверг.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/f2/6f91570234df6a922901178aee942.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3363552.html",
-    "time": "2025-11-13T09:14:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363412.html",
+    "time": "2025-11-13T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "NCSOFT анонсировала MMORPG Horizon Steel Frontiers для ПК и мобильных устройств",
-    "description": "Даты релиза пока нет.",
-    "fullText": "Даты релиза пока нет.",
-    "image": "https://leonardo.osnova.io/25e674a5-5197-5926-9082-2df78c3e1b7b/",
+    "title": "Финал Dispatch привлёк 220 тысяч одновременных игроков в Steam",
+    "description": "Фанаты требуют второй сезон.",
+    "fullText": "Фанаты требуют второй сезон.",
+    "image": "https://leonardo.osnova.io/bc7948d0-2ee1-5320-b77c-22a7fa8ea56e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4151110-ncsoft-horizon-steel-frontiers?from=rss",
-    "time": "2025-11-13T05:34:25.000Z"
+    "url": "https://dtf.ru/games/4151142-final-dispatch-sobral-220-tysyach-igrokov-v-steam?from=rss",
+    "time": "2025-11-13T06:09:05.000Z"
   }
 ]
