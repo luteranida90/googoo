@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ZALA представит на Dubai Airshow модернизированный \"Ланцет-Э\"",
-    "description": "В компании добавили, что на выставке состоится важное событие, которое \"откроет новые возможности для развития беспилотных технологий на международной арене\"",
-    "fullText": "В компании добавили, что на выставке состоится важное событие, которое \"откроет новые возможности для развития беспилотных технологий на международной арене\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25613479",
-    "time": "2025-11-13T07:26:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Помогите Карпину собрать состав и получите билеты на матч сборной",
     "description": "Или джерси с автографами.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Травма Самсонова прибила худший клуб КХЛ. С 2:0 улетели на 3:5",
-    "description": "Держались два периода.",
-    "fullText": "Держались два периода.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/15/a8e6af81f429a91c23c20672c6789.jpeg",
+    "title": "Кузнецов ярко вернулся – сделал ассист на победный гол. Разин наконец-то доволен",
+    "description": "Но что с обороной?",
+    "fullText": "Но что с обороной?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c8/f7cade77443729354667f8e4dd235.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3363876.html",
-    "time": "2025-11-12T21:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3363829.html",
+    "time": "2025-11-12T23:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4149701-nintendo-pokazala-treyler-filma-the-super-mario-galaxy-movie?from=rss",
     "time": "2025-11-12T14:11:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
