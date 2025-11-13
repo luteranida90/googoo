@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Ищем человека, который прочтет весь Спортс’‘",
+    "description": "Уникальная вакансия!",
+    "fullText": "Уникальная вакансия!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/fd/e6c427b5e4cfdae3a176c4d6e4540.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/aftbmc",
+    "time": "2025-11-13T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ГД обсудит строительство медучреждений в регионах 19 ноября",
-    "description": "Председатель Госдумы Вячеслав Володин отметил, что недопустимо относиться \"спустя рукава\" к реализации задач, поставленных в рамках госпрограмм",
-    "fullText": "Председатель Госдумы Вячеслав Володин отметил, что недопустимо относиться \"спустя рукава\" к реализации задач, поставленных в рамках госпрограмм",
+    "title": "Инвестиции Ставрополья вырастут почти вдвое к концу 2025 года",
+    "description": "По итогам первого полугодия общий объем вложений составил 141,7 млрд рублей",
+    "fullText": "По итогам первого полугодия общий объем вложений составил 141,7 млрд рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25616219",
-    "time": "2025-11-13T10:58:14.000Z"
+    "url": "https://tass.ru/ekonomika/25616575",
+    "time": "2025-11-13T11:28:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«В отборе Сафонов, может, и не играл бы». Суровый Карпин после гола Перу",
+    "description": "Реакция на ошибку Матвея.",
+    "fullText": "Реакция на ошибку Матвея.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b5/f2d9022984851bd7137babd649b66.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3363882.html",
+    "time": "2025-11-13T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +44,14 @@
     "time": "2025-11-13T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Валера отнял у России победу. Сафонов пропустил издали",
-    "description": "Карпин готовил к другой схеме.",
-    "fullText": "Карпин готовил к другой схеме.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/65/0af8a778b4d5b9edadba68575dd60.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363825.html",
-    "time": "2025-11-13T06:47:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony поделилась статистикой PS5 в честь пятилетия консоли — Assassin’s Creed Valhalla стала одной из самых популярных одиночных игр",
-    "description": "Владельцы устройства заработали 110 миллионов «платин».",
-    "fullText": "Владельцы устройства заработали 110 миллионов «платин».",
-    "image": "https://leonardo.osnova.io/6be0b662-cb2f-56aa-88a8-9716438d3e71/",
+    "title": "Valve представила VR-гарнитуру Steam Frame, а также новые модели Steam Machine и Steam Controller",
+    "description": "Масштабный анонс.",
+    "fullText": "Масштабный анонс.",
+    "image": "https://leonardo.osnova.io/0e90951e-fc4e-517c-b2b7-3bdf1b5e3c36/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4150206-sony-statistika-ps5-pyat-let?from=rss",
-    "time": "2025-11-12T17:27:14.000Z"
+    "url": "https://dtf.ru/hard/4150277-valve-predstavila-vr-garnituru-steam-frame?from=rss",
+    "time": "2025-11-12T18:00:08.000Z"
   }
 ]
