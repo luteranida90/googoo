@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Петербурге откроют 20 новых заводов и две технологические долины",
-    "description": "В новой промполитике упор сделан на достижение технологического лидерства и глобальной конкурентоспособности города",
-    "fullText": "В новой промполитике упор сделан на достижение технологического лидерства и глобальной конкурентоспособности города",
+    "title": "МВФ не видит серьезного негативного влияния шатдауна в США на другие страны",
+    "description": "Однако, это все еще может оказать какой-то эффект на другие государства, заявила официальный представитель фонда Джули Козак",
+    "fullText": "Однако, это все еще может оказать какой-то эффект на другие государства, заявила официальный представитель фонда Джули Козак",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25619855",
-    "time": "2025-11-13T16:03:25.000Z"
+    "url": "https://tass.ru/ekonomika/25619985",
+    "time": "2025-11-13T16:20:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,17 +22,6 @@
     "time": "2025-11-13T15:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Второй сезон сериала «„Монарх“: Наследие монстров» стартует 27 февраля 2026 года",
-    "description": "Появился дебютный тизер — с Конгом и морским чудовищем.",
-    "fullText": "Появился дебютный тизер — с Конгом и морским чудовищем.",
-    "image": "https://leonardo.osnova.io/ff0ceaaf-82bc-5178-ba22-5713e78ce924/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4152093-vtoroy-sezon-monark-start-27-fevralya?from=rss",
-    "time": "2025-11-13T15:16:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
     "description": "Раньше было ярче...",
@@ -44,14 +33,25 @@
     "time": "2025-11-13T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Шутер The Finals закончат поддерживать на PS4 в марте 2026 года",
+    "description": "На консоли прошлого поколения всё сложнее развивать игру.",
+    "fullText": "На консоли прошлого поколения всё сложнее развивать игру.",
+    "image": "https://leonardo.osnova.io/22901da5-e698-5ad0-8703-e6efb97c963c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4151885-podderzhka-shutera-the-finals-na-ps4-zavershitsya?from=rss",
+    "time": "2025-11-13T13:09:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Эволюция Ислама Махачева – от спарринг-партнера Хабиба до сильнейшего универсала UFC",
-    "description": "Исследование Артема Нагорного.",
-    "fullText": "Исследование Артема Нагорного.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/3e/9fa6947dd400786f2cb5ee86c8cd8.png",
+    "title": "Стефанос Циципас стал посредственностью. Что разрушило его карьеру?",
+    "description": "Ищем причины везде.",
+    "fullText": "Ищем причины везде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1f/7b0aa8f5048d8ba62dc64375720fc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3363646.html",
-    "time": "2025-11-13T11:45:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3362416.html",
+    "time": "2025-11-13T12:25:00.000Z"
   }
 ]
