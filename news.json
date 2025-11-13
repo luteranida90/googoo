@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Поджегшая трансформатор в Приангарье призвала не повторять ее опыт",
-    "description": "Она попросила граждан не дать преступникам использовать их в противоправных целях",
-    "fullText": "Она попросила граждан не дать преступникам использовать их в противоправных целях",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В Перу заявили о готовности провести у себя повторный матч с россиянами",
+    "description": "12 ноября перуанцы сыграли вничью со сборной России в Санкт-Петербурге",
+    "fullText": "12 ноября перуанцы сыграли вничью со сборной России в Санкт-Петербурге",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251113/8593375.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25613035",
-    "time": "2025-11-13T06:37:50.000Z"
+    "url": "https://tass.ru/sport/25613267",
+    "time": "2025-11-13T07:00:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новый суперболид «Формулы E» – с беспроводной зарядкой и разгоном до сотни за 1,8 секунды! Конкурент «Ф-1»?",
+    "description": "Футуризм.",
+    "fullText": "Футуризм.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/84/b4946d6ed4f1da90035a061e0efd6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3362556.html",
+    "time": "2025-11-12T21:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-12T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Травма Самсонова прибила худший клуб КХЛ. С 2:0 улетели на 3:5",
-    "description": "Держались два периода.",
-    "fullText": "Держались два периода.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/15/a8e6af81f429a91c23c20672c6789.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3363876.html",
-    "time": "2025-11-12T21:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Боевик «Бегущий человек» Эдгара Райта получил 64% одобрения на Rotten Tomatoes",
-    "description": "И 59 баллов на Metacritic.",
-    "fullText": "И 59 баллов на Metacritic.",
-    "image": "https://leonardo.osnova.io/bb25c57c-5a8a-55d4-bff8-31978808d9ff/",
+    "title": "Nintendo представила первый трейлер анимационного фильма The Super Mario Galaxy Movie",
+    "description": "В картине появится Розалина в озвучке Бри Ларсон, а также Боузер-младший, которого сыграл Бенни Сэфди.",
+    "fullText": "В картине появится Розалина в озвучке Бри Ларсон, а также Боузер-младший, которого сыграл Бенни Сэфди.",
+    "image": "https://leonardo.osnova.io/8cd3f21d-1e36-5b1f-9e5c-cfcd04dfdb3c/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4149448-begushchij-chelovek-edgara-rajta?from=rss",
-    "time": "2025-11-12T12:51:06.000Z"
+    "url": "https://dtf.ru/cinema/4149701-nintendo-pokazala-treyler-filma-the-super-mario-galaxy-movie?from=rss",
+    "time": "2025-11-12T14:11:02.000Z"
   }
 ]
