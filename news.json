@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Telegraph: Би-би-си исказила речь Трампа еще в 2022 году",
-    "description": "По информации газеты, впервые это произошло 9 июня 2022 года в вечерней аналитической программе новостей BBC Newsnight",
-    "fullText": "По информации газеты, впервые это произошло 9 июня 2022 года в вечерней аналитической программе новостей BBC Newsnight",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Примаков: Россотрудничество не накажет молдаван за шаги Кишинева",
+    "description": "Глава агентства отметил, что \"нельзя становиться на сторону злобной глупости\"",
+    "fullText": "Глава агентства отметил, что \"нельзя становиться на сторону злобной глупости\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251113/8595127.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25620699",
-    "time": "2025-11-13T18:59:27.000Z"
+    "url": "https://tass.ru/politika/25620823",
+    "time": "2025-11-13T19:40:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2025-11-13T17:55:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Трэй Янг переоценен. Теперь это подтверждает и сама «Атланта»",
+    "description": "Конец зависимости?",
+    "fullText": "Конец зависимости?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ab/6ff597a9d4b888c6b400e33dcff30.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3363804.html",
+    "time": "2025-11-13T16:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Разбор Карпина, тайны раздевалки сборной. «За кадром» матча России с Перу – на ВидеоСпортсе’‘",
     "description": "Влог из Петербурга.",
@@ -33,25 +44,14 @@
     "time": "2025-11-13T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Комтуа – разочарование осени в «Динамо». Отсюда и слухи об обмене",
-    "description": "Не смотрите на очки.",
-    "fullText": "Не смотрите на очки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d4/cb085bc424ea49892df8903afad5c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3363962.html",
-    "time": "2025-11-13T15:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam открылись предзаказы Escape from Tarkov — они составляют от 1800 до 4000 рублей",
-    "description": "Однако некоторое время действует скидка 25% на все версии.",
-    "fullText": "Однако некоторое время действует скидка 25% на все версии.",
-    "image": "https://leonardo.osnova.io/0856e2dc-0ebe-5fbd-b38f-e3a44312565d/",
+    "title": "Valve: пользователи без проблем смогут перенести игры со Steam Deck на другие устройства компании с помощью карт microSD",
+    "description": "Студия хотела, что бы всё её игровое «железо» чувствовалось как единая экосистема.",
+    "fullText": "Студия хотела, что бы всё её игровое «железо» чувствовалось как единая экосистема.",
+    "image": "https://leonardo.osnova.io/038ece6a-bf9b-5638-9943-8215a612ca30/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4151532-predzakazy-escape-from-tarkov-v-steam?from=rss",
-    "time": "2025-11-13T09:44:16.000Z"
+    "url": "https://dtf.ru/hard/4151691-valve-perenos-igr-so-steam-deck?from=rss",
+    "time": "2025-11-13T11:16:11.000Z"
   }
 ]
