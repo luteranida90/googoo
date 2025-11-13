@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропорт Внуково доставили багаж пассажиров рейса из Антальи",
+    "description": "В аэропорту сообщили, что пассажиры могут прибыть для получения вещей",
+    "fullText": "В аэропорту сообщили, что пассажиры могут прибыть для получения вещей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25612545",
+    "time": "2025-11-13T05:10:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "«Подумал, что мне выпить – кофе или водки?» Александр Могильный – в Зале хоккейной славы!",
     "description": "От Хабаровска до Торонто.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Роглайк» Cult of the Lamb о ягнёнке-сектанте появится на iPhone, iPad и AR-гарнитуре Vision — тизер",
-    "description": "Игра будет эксклюзивом Apple Arcade.",
-    "fullText": "Игра будет эксклюзивом Apple Arcade.",
-    "image": "https://leonardo.osnova.io/7547ab72-d5b7-5fe1-ae7e-c28bf3b7de0d/",
+    "title": "Авторы ARC Raiders скорректируют цены некоторых косметических предметов после жалоб игроков",
+    "description": "И вернут разницу во внутриигровой валюте.",
+    "fullText": "И вернут разницу во внутриигровой валюте.",
+    "image": "https://leonardo.osnova.io/d9d07546-f175-57fc-ae09-c65779e3e49e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4149872-cult-of-the-lamb-na-iphone-i-ipad?from=rss",
-    "time": "2025-11-12T15:24:15.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4149953-arc-raiders-izmenyat-tseny-na-kosmeticheskie-predmety?from=rss",
+    "time": "2025-11-12T15:54:26.000Z"
   }
 ]
