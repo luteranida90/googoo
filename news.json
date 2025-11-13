@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве открылась выставка молодых архитекторов о городской мобильности",
-    "description": "Посетить экспозицию можно до 16 ноября",
-    "fullText": "Посетить экспозицию можно до 16 ноября",
+    "title": "В Польшу прибыли из Южной Кореи последние 20 из 180 танков K2",
+    "description": "Глава польского МО Владислав Косиняк-Камыш добавил, что в 2026 году начнется поставка 180 танков по очередному контракту, подписанному в августе",
+    "fullText": "Глава польского МО Владислав Косиняк-Камыш добавил, что в 2026 году начнется поставка 180 танков по очередному контракту, подписанному в августе",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25620873",
-    "time": "2025-11-13T20:06:45.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25621047",
+    "time": "2025-11-13T20:59:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2025-11-13T17:55:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Продлит ли Кейн серию голов за сборную на «Уэмбли»? Узнаем уже сегодня с Сербией!",
+    "description": "Следите за исходом с бонусом до 15 000.",
+    "fullText": "Следите за исходом с бонусом до 15 000.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/7352773db46dfac5eaffe52829a0c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/5medpv",
+    "time": "2025-11-13T17:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Трэй Янг переоценен. Теперь это подтверждает и сама «Атланта»",
     "description": "Конец зависимости?",
@@ -33,25 +44,14 @@
     "time": "2025-11-13T16:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Разбор Карпина, тайны раздевалки сборной. «За кадром» матча России с Перу – на ВидеоСпортсе’‘",
-    "description": "Влог из Петербурга.",
-    "fullText": "Влог из Петербурга.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/ec/a8aa9c28e429e887895ddef93efe8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/TeamRus_Zakadr1",
-    "time": "2025-11-13T16:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Valve о Steam Deck 2: «Нам неинтересен прирост производительности на 20%, 30% или даже 50%»",
-    "description": "Компания ждёт подходящего чипа.",
-    "fullText": "Компания ждёт подходящего чипа.",
-    "image": "https://leonardo.osnova.io/3eddd510-4fd8-5c0b-9027-079af92ae720/",
+    "title": "Valve: пользователи без проблем смогут перенести игры со Steam Deck на другие устройства компании с помощью карт microSD",
+    "description": "Студия хотела, что бы всё её игровое «железо» чувствовалось как единая экосистема.",
+    "fullText": "Студия хотела, что бы всё её игровое «железо» чувствовалось как единая экосистема.",
+    "image": "https://leonardo.osnova.io/038ece6a-bf9b-5638-9943-8215a612ca30/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4151371-valve-o-steam-deck-2-ozhidaniya-i-otsutstvie-novykh-chipov?from=rss",
-    "time": "2025-11-13T08:23:39.000Z"
+    "url": "https://dtf.ru/hard/4151691-valve-perenos-igr-so-steam-deck?from=rss",
+    "time": "2025-11-13T11:16:11.000Z"
   }
 ]
