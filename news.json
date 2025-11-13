@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Филиппины депортируют обвиняемого в России в мошенничестве создателя ОПГ",
+    "description": "Ущерб, причиненный гражданам от деятельности преступной группы, превысил 3,6 млн рублей",
+    "fullText": "Ущерб, причиненный гражданам от деятельности преступной группы, превысил 3,6 млн рублей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25619129",
+    "time": "2025-11-13T14:58:05.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
     "description": "Раньше было ярче...",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sirena.world/nlnlli",
     "time": "2025-11-13T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Хендерсон: утёкшие изображения Far Cry относятся к отменённой версии седьмой части",
+    "description": "А extraction-шутер по франшизе тоже могут отменить.",
+    "fullText": "А extraction-шутер по франшизе тоже могут отменить.",
+    "image": "https://leonardo.osnova.io/300db507-1618-5947-9d5a-6f1e6f78ebc7/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4151810-hendersson-utekshie-izobrazheniya-far-cry-7?from=rss",
+    "time": "2025-11-13T12:27:15.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -23,35 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Они считают, что Махачев проиграет в походе за вторым поясом",
-    "description": "И таких много.",
-    "fullText": "И таких много.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/db/85ac552f145069dbd0237c1b02390.jpeg",
+    "title": "Норрис теперь точно чемпион «Ф-1»? Вот все сценарии шансов Ферстаппена и Пиастри",
+    "description": "Возможна драма с полным равенством очков в финале.",
+    "fullText": "Возможна драма с полным равенством очков в финале.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/2a/f71b2140a46dc949f6249f2bad54d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3363064.html",
-    "time": "2025-11-13T10:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Финал Dispatch привлёк 220 тысяч одновременных игроков в Steam",
-    "description": "Фанаты требуют второй сезон.",
-    "fullText": "Фанаты требуют второй сезон.",
-    "image": "https://leonardo.osnova.io/bc7948d0-2ee1-5320-b77c-22a7fa8ea56e/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4151142-final-dispatch-sobral-220-tysyach-igrokov-v-steam?from=rss",
-    "time": "2025-11-13T06:09:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3363546.html",
+    "time": "2025-11-13T11:05:00.000Z"
   }
 ]
