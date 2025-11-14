@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Оренбургской области объявили опасность атаки БПЛА",
+    "description": "Губернатор региона Евгений Солнцев призвал граждан сохранять бдительность",
+    "fullText": "Губернатор региона Евгений Солнцев призвал граждан сохранять бдительность",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25632749",
+    "time": "2025-11-14T22:00:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Дома превращаюсь в котенка: только не обижайте». Арина Соболенко – о тусовках, отношениях и красоте Шараповой",
-    "description": "Сходила на подкаст к Соколовскому.",
-    "fullText": "Сходила на подкаст к Соколовскому.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/8e/36c65724b49a9ac3ca85cc3dbefee.jpeg",
+    "title": "«Балтика» смотрит нападающего из команды Генича – второй раз за осень!",
+    "description": "«Талалаев любит искать бриллианты».",
+    "fullText": "«Талалаев любит искать бриллианты».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/4e/ae0b4e8e446f49161957f66ef4944.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3363805.html",
-    "time": "2025-11-14T17:30:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3357715.html",
+    "time": "2025-11-14T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4156627-reliz-call-of-duty-black-ops-7?from=rss",
     "time": "2025-11-14T06:51:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
