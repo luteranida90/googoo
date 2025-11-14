@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жизнь Патрика Клюйверта: обвинение в убийстве, измена, кутеж в Минске до утра",
-    "description": "Герой финала ЛЧ-1995.",
-    "fullText": "Герой финала ЛЧ-1995.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/78/9018b367e49dfb171cfc8e81fcb9e.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сержант Вологжанин в траншейном бою уничтожил пять солдат ВСУ",
+    "description": "Боец также взял в плен двух военных противника",
+    "fullText": "Боец также взял в плен двух военных противника",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363892.html",
-    "time": "2025-11-14T16:50:00.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25632585",
+    "time": "2025-11-14T21:05:43.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
-    "description": "Раньше было ярче...",
-    "fullText": "Раньше было ярче...",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/45/29c64aa2945bdb73a90687464e97f.png",
+    "title": "Левандовски и Кейн – кто их объединил?",
+    "description": "Раскройте пары в «Комбо»!",
+    "fullText": "Раскройте пары в «Комбо»!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/8b/4cf91269a472095a13dfdbe467e10.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/nlnlli",
-    "time": "2025-11-14T16:30:00.000Z"
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2025-11-14T19:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Отвечать «Ну и?» не было повода». Карпин пообщался со школьниками – понравились больше журналистов",
+    "description": "Берет пример с Гвардиолы.",
+    "fullText": "Берет пример с Гвардиолы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/06/aaa3a7c4547669f5da64de7d28f71.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3364208.html",
+    "time": "2025-11-14T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4156627-reliz-call-of-duty-black-ops-7?from=rss",
     "time": "2025-11-14T06:51:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
