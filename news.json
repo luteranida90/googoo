@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве произошли взрывы",
-    "description": "Других подробностей не приводится",
-    "fullText": "Других подробностей не приводится",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жизнь Патрика Клюйверта: обвинение в убийстве, измена, кутеж в Минске до утра",
+    "description": "Герой финала ЛЧ-1995.",
+    "fullText": "Герой финала ЛЧ-1995.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/78/9018b367e49dfb171cfc8e81fcb9e.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25632321",
-    "time": "2025-11-14T19:37:12.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363892.html",
+    "time": "2025-11-14T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-14T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вспомните состав России на последний официальный матч – с Хорватией? Прошло уже четыре года",
-    "description": "23 фамилии.",
-    "fullText": "23 фамилии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/96/2364736824bf18e7c7c7c033adb43.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3361845.html",
-    "time": "2025-11-14T15:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся релиз Call of Duty: Black Ops 7",
     "description": "Шутер доступен в Game Pass Ultimate.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4156627-reliz-call-of-duty-black-ops-7?from=rss",
     "time": "2025-11-14T06:51:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
