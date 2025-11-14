@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Чибис указал на возможности научного центра на Шпицбергене",
-    "description": "Его создание открывает новые перспективы для взаимодействия и объединения усилий, отметил губернатор Мурманской области",
-    "fullText": "Его создание открывает новые перспективы для взаимодействия и объединения усилий, отметил губернатор Мурманской области",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/25623749",
-    "time": "2025-11-14T07:02:48.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Полузащитник, 27 лет, играет в «Ростове». Берем на матч с Чили?",
     "description": "Соберите состав сборной.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Netflix вышел сериал «Икусагами: Последний самурай» о «королевской битве» японских воинов",
-    "description": "В шоу вошло шесть эпизодов.",
-    "fullText": "В шоу вошло шесть эпизодов.",
-    "image": "https://leonardo.osnova.io/6939c3d1-2bca-50ea-8c15-a9c259443bfd/-/format/mp4/",
+    "title": "Sony показала мобильный арена-шутер по серии Ratchet & Clank",
+    "description": "Игру разрабатывает французская студия Oh BiBi.",
+    "fullText": "Игру разрабатывает французская студия Oh BiBi.",
+    "image": "https://leonardo.osnova.io/3a1aded1-2393-520e-a138-5a191df5ca45/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4151931-sereal-ikusagami-posledniy-samuray-na-netflix?from=rss",
-    "time": "2025-11-13T13:43:22.000Z"
+    "url": "https://dtf.ru/games/4151813-sony-anonsirovala-mobilnyj-arena-shuter-po-ratchet-clank?from=rss",
+    "time": "2025-11-13T12:33:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
