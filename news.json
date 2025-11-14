@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве легковая машина упала с третьего этажа паркинга",
-    "description": "Причиной происшествия стал водитель, который перепутал педали",
-    "fullText": "Причиной происшествия стал водитель, который перепутал педали",
+    "title": "Синоптик объяснил необычную окраску неба над Москвой",
+    "description": "Данное явление может указывать на приближение атмосферного фронта, отметил руководитель прогностического центра \"Метео\" Александр Шувалов",
+    "fullText": "Данное явление может указывать на приближение атмосферного фронта, отметил руководитель прогностического центра \"Метео\" Александр Шувалов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25630427",
-    "time": "2025-11-14T15:00:44.000Z"
+    "url": "https://tass.ru/obschestvo/25630561",
+    "time": "2025-11-14T15:22:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все красные в карьере Криша: срывы, симуляции и удары соперников локтями",
+    "description": "Теперь их 13.",
+    "fullText": "Теперь их 13.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f8/e09761ef8435aad170bd11caf8318.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3364118.html",
+    "time": "2025-11-14T12:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-14T12:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Милуоки» открыл сезон охоты на братьев Адетокумбо. Три есть, осталась еще парочка",
-    "description": "Собери их всех.",
-    "fullText": "Собери их всех.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/6f/e4aaecbca40eaae5c085c16ef93a8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3363301.html",
-    "time": "2025-11-14T11:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Официально: Red Dead Redemption выйдет на PS5, Xbox Series, Switch 2 и мобильных платформах 2 декабря",
-    "description": "Для владельцев игры апдейт будет бесплатным.",
-    "fullText": "Для владельцев игры апдейт будет бесплатным.",
-    "image": "https://leonardo.osnova.io/c982025a-80d7-52d4-9606-e6beca6075ea/",
+    "title": "Номинантов The Game Awards 2025 объявят 17 ноября",
+    "description": "Так или иначе, кому-то места не хватит.",
+    "fullText": "Так или иначе, кому-то места не хватит.",
+    "image": "https://leonardo.osnova.io/86794519-bedc-5cea-b311-020eb31153ed/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4153368-red-dead-redemption-na-ps5-xbox-series-switch-2-i-mobilnykh-platformakh?from=rss",
-    "time": "2025-11-13T19:23:04.000Z"
+    "url": "https://dtf.ru/games/4153928-nominanty-the-game-awards-2025-17-noyabrya?from=rss",
+    "time": "2025-11-13T21:02:48.000Z"
   }
 ]
