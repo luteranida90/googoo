@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Китай испытал самый большой в мире воздушный змей",
+    "description": "Он создан для выработки электричества",
+    "fullText": "Он создан для выработки электричества",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/25624551",
+    "time": "2025-11-14T08:07:55.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Полузащитник, 27 лет, играет в «Ростове». Берем на матч с Чили?",
     "description": "Соберите состав сборной.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Иньесту подозревают в мошенничестве – в Перу. Что натворил?",
-    "description": "Инвесторы потеряли 600+ тысяч.",
-    "fullText": "Инвесторы потеряли 600+ тысяч.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/4a/795430ca24c06a5e7fde791b8fcfe.jpeg",
+    "title": "Улица Панарина в Коркино – уже существует такая?",
+    "description": "Тест про географию и хоккей.",
+    "fullText": "Тест про географию и хоккей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/19/efc1c5abb4b0fad25dc681cd07b20.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363810.html",
-    "time": "2025-11-13T21:05:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3362128.html/?utm_source=native",
+    "time": "2025-11-13T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony показала мобильный арена-шутер по серии Ratchet & Clank",
-    "description": "Игру разрабатывает французская студия Oh BiBi.",
-    "fullText": "Игру разрабатывает французская студия Oh BiBi.",
-    "image": "https://leonardo.osnova.io/3a1aded1-2393-520e-a138-5a191df5ca45/-/format/mp4/",
+    "title": "ARC Raiders получила первый крупный апдейт — в нём добавили карту «Стелла Монтис» и ещё двух роботов",
+    "description": "А также скорректировали цену «косметики» во внутриигровом магазине и добавили возможность разделить пачки ресурсов.",
+    "fullText": "А также скорректировали цену «косметики» во внутриигровом магазине и добавили возможность разделить пачки ресурсов.",
+    "image": "https://leonardo.osnova.io/912b9a27-0eaa-5add-ba2f-4ba6bbb3997e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4151813-sony-anonsirovala-mobilnyj-arena-shuter-po-ratchet-clank?from=rss",
-    "time": "2025-11-13T12:33:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4152014-arc-raiders-obnovlenie-novaya-karta-stella-montis?from=rss",
+    "time": "2025-11-13T14:39:41.000Z"
   }
 ]
