@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минтуризма Израиля: прямые рейсы из Москвы в Эйлат запустят 19 февраля",
-    "description": "Рейсы будет осуществлять авиакомпания Red Wings раз в неделю, сообщила глава представительства Министерства туризма еврейского государства в России Ксения Воронцова",
-    "fullText": "Рейсы будет осуществлять авиакомпания Red Wings раз в неделю, сообщила глава представительства Министерства туризма еврейского государства в России Ксения Воронцова",
+    "title": "Заявки на расселение аварийного жилья одобрили еще четырем регионам России",
+    "description": "Финансирование в рамках проекта предоставят Удмуртской Республике, Ленинградской области, Республике Коми и Ставропольскому краю",
+    "fullText": "Финансирование в рамках проекта предоставят Удмуртской Республике, Ленинградской области, Республике Коми и Ставропольскому краю",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25625789",
-    "time": "2025-11-14T13:14:09.000Z"
+    "url": "https://tass.ru/nedvizhimost/25629391",
+    "time": "2025-11-14T13:30:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Быть топ-менеджером большой компании – и покорить все главные марафоны, Ironman и 250 км по пустыне",
+    "description": "Интервью о лирике бега и тайм-менеджменте.",
+    "fullText": "Интервью о лирике бега и тайм-менеджменте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0e/ab975bdc74a0083f4bf09b7324820.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/athletics/blogs/3363942.html",
+    "time": "2025-11-14T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-14T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пять лучших текстов октября на Трибуне. Тут исторический рейтинг лучших игроков НБА и справедливый «ЗМ»",
-    "description": "Выбор нашей команды.",
-    "fullText": "Выбор нашей команды.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/08/66596b829487c8e9b4b1f5ee9f4cb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363958.html",
-    "time": "2025-11-14T08:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я видел много всякого, но не хороших людей»: трейлер второго сезона «Фоллаут»",
-    "description": "С Когтем смерти и новыми героями.",
-    "fullText": "С Когтем смерти и новыми героями.",
-    "image": "https://leonardo.osnova.io/10f9796a-6788-5442-a1e0-7bac284d0eb5/-/format/mp4/",
+    "title": "Официально: Red Dead Redemption выйдет на PS5, Xbox Series, Switch 2 и мобильных платформах 2 декабря",
+    "description": "Для владельцев игры апдейт будет бесплатным.",
+    "fullText": "Для владельцев игры апдейт будет бесплатным.",
+    "image": "https://leonardo.osnova.io/c982025a-80d7-52d4-9606-e6beca6075ea/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4152123-treyler-vtoroogo-sezona-follaut?from=rss",
-    "time": "2025-11-13T15:25:33.000Z"
+    "url": "https://dtf.ru/games/4153368-red-dead-redemption-na-ps5-xbox-series-switch-2-i-mobilnykh-platformakh?from=rss",
+    "time": "2025-11-13T19:23:04.000Z"
   }
 ]
