@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Guardian: США надеются на принятие резолюции СБ ООН по войскам в Газе",
-    "description": "После этого начнут детальное обсуждение работы стабилизационного корпуса, сообщила газета",
-    "fullText": "После этого начнут детальное обсуждение работы стабилизационного корпуса, сообщила газета",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25632669",
-    "time": "2025-11-14T21:25:18.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4156627-reliz-call-of-duty-black-ops-7?from=rss",
     "time": "2025-11-14T06:51:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
