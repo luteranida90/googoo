@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фидан: состав палестинского комитета для управления Газой уже определен",
-    "description": "Глава турецкого МИД подчеркнул, что для управления повседневной жизнью в городе важно создать внеполитический комитет, состоящий из палестинцев",
-    "fullText": "Глава турецкого МИД подчеркнул, что для управления повседневной жизнью в городе важно создать внеполитический комитет, состоящий из палестинцев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Winline Media Football Awards: Медиалига и Спортс’’ запускают голосование",
+    "description": "Главная премия года.",
+    "fullText": "Главная премия года.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/03/42c5f7ea04c9b96bd4769c969d4ca.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25637139",
-    "time": "2025-11-15T20:31:42.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3360315.html",
+    "time": "2025-11-15T17:31:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-15T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главный бриллиант «Ф-1» в США близок к краху? $600 млн инвестиций не окупаются!",
-    "description": "Кризис Гран-при Вегаса.",
-    "fullText": "Кризис Гран-при Вегаса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2c/28a49d54541d682d6e11ff7fbfa01.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3362384.html",
-    "time": "2025-11-15T16:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся цифровой релиз «Битвы за битвой» Пола Томаса Андерсона",
     "description": "Леонардо ДиКаприо уже пророчат как минимум номинацию на «Оскар» за роль.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4158213-tsifrovoy-reliz-bitvy-za-bitvoy?from=rss",
     "time": "2025-11-14T11:37:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
