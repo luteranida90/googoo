@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На Камчатке с вулкана Безымянный сходят обломочные лавины",
+    "description": "Спутниковые данные показали крупную тепловую аномалию над вулканом",
+    "fullText": "Спутниковые данные показали крупную тепловую аномалию над вулканом",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25637429",
+    "time": "2025-11-15T22:08:02.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
     "description": "Есть еще 12 вариантов.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Итоги сборной в 2025 году. Хуже, чем в прошлом",
-    "description": "Соперники посильнее!",
-    "fullText": "Соперники посильнее!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/36/05c71537a40c896b17e8e98ee4675.jpeg",
+    "title": "Россия не проигрывала четыре года. Конец серии",
+    "description": "22 матча.",
+    "fullText": "22 матча.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/d9/235b02f1a4d53a8b2b315589db0b0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364394.html",
-    "time": "2025-11-15T17:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364410.html",
+    "time": "2025-11-15T17:51:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4158213-tsifrovoy-reliz-bitvy-za-bitvoy?from=rss",
     "time": "2025-11-14T11:37:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
