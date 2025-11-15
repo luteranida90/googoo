@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Писториус рассказал, почему ФРГ не будет создавать запасы БПЛА",
+    "description": "В этой сфере все быстро меняется, пояснил министр",
+    "fullText": "В этой сфере все быстро меняется, пояснил министр",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25637331",
+    "time": "2025-11-15T21:43:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
+    "description": "Есть еще 12 вариантов.",
+    "fullText": "Есть еще 12 вариантов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/35/80ea294654827a397fafc88e431d3.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-11-15T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Winline Media Football Awards: Медиалига и Спортс’’ запускают голосование",
     "description": "Главная премия года.",
@@ -11,17 +33,6 @@
     "time": "2025-11-15T17:31:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "UFC 322: Делла Маддалена vs Махачев! Ставьте на бой в БЕТСИТИ",
-    "description": "И выиграйте путешествие на двоих.",
-    "fullText": "И выиграйте путешествие на двоих.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/5a/e41f278a74d968f55cb01a731040a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/zmctl5",
-    "time": "2025-11-15T17:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся цифровой релиз «Битвы за битвой» Пола Томаса Андерсона",
     "description": "Леонардо ДиКаприо уже пророчат как минимум номинацию на «Оскар» за роль.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4158213-tsifrovoy-reliz-bitvy-za-bitvoy?from=rss",
     "time": "2025-11-14T11:37:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
