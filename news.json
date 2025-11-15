@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Псковской области арестовали четырех бывших студентов из Индии",
+    "description": "Их подозревают в хищении продуктов из магазина",
+    "fullText": "Их подозревают в хищении продуктов из магазина",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25636643",
+    "time": "2025-11-15T17:03:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Соберите состав сборной, который понравится Карпину",
     "description": "Дзюбу лучше не брать...",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Помните Марию Комиссарову, которая сломала позвоночник в Сочи? Она развелась и вернулась в Россию",
-    "description": "Поговорили о новой жизни.",
-    "fullText": "Поговорили о новой жизни.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3e/72c22cbd14fa6820b444b47f0003a.jpeg",
+    "title": "Он поставил мировой рекорд в беге, но попал под суд. Помиловал Трамп!",
+    "description": "Вот это поворот.",
+    "fullText": "Вот это поворот.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/02/2320c636f4485bc42c369766bc521.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3363725.html",
-    "time": "2025-11-15T12:30:00.000Z"
+    "url": "https://www.sports.ru/athletics/blogs/3364212.html",
+    "time": "2025-11-15T13:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4158213-tsifrovoy-reliz-bitvy-za-bitvoy?from=rss",
     "time": "2025-11-14T11:37:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
