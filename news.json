@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кахигао рассказал, чем ему интересны матчи сборной России по футболу",
+    "description": "Он посетил матчи команды России против перуанцев и чилийцев",
+    "fullText": "Он посетил матчи команды России против перуанцев и чилийцев",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251116/8600371.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25639863",
+    "time": "2025-11-16T13:36:38.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
     "description": "Сможете больше?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главный женский бой года – доминация Шевченко: проехалась по сопернице в 11-м титульнике за карьеру",
-    "description": "Величайшая.",
-    "fullText": "Величайшая.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/a7/53bbd36484e69a2ca4f586ec71b1c.jpeg",
+    "title": "Беларусь обломала Данию, Казахстан – Бельгию. Главное в отборе ЧМ",
+    "description": "Косово – минимум в стыках.",
+    "fullText": "Косово – минимум в стыках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/46/bc72d7ef541ab8221ea30df26a4d2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3364419.html",
-    "time": "2025-11-16T08:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364423.html",
+    "time": "2025-11-16T08:44:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4162660-crystal-dynamics-uvolila-sotrudnikov-dlya-optimizacii-tomb-raider?from=rss",
     "time": "2025-11-14T15:24:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
