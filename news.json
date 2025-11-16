@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Петербурге из-за опрокинувшегося грузовика перекрыли трассу А-121",
+    "description": "На месте работают специалисты дорожных и специальных служб",
+    "fullText": "На месте работают специалисты дорожных и специальных служб",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25639239",
+    "time": "2025-11-16T09:52:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
     "description": "Узнайте в новом тесте.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Синнер и Алькарас сыграют в последнем финале года",
-    "description": "Единственно верный конец сезона.",
-    "fullText": "Единственно верный конец сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/2b/42e5895c04886a596e62d6b0545f9.jpeg",
+    "title": "МА-ХА-ЧЕВ! Вы знаете имя чемпиона UFC из России, покорившего два дивизиона",
+    "description": "Получилось то, что не сделал Хабиб.",
+    "fullText": "Получилось то, что не сделал Хабиб.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/8e/4ba1e04c44c50b661f700e73b8883.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3364437.html",
-    "time": "2025-11-16T05:00:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3360393.html",
+    "time": "2025-11-16T05:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сценарист Dispatch рассказал, что из игры вырезали несколько сцен секса — и теперь он жалеет об этом",
-    "description": "Впрочем, автор не исключает, что фанаты ещё как-то увидят их.",
-    "fullText": "Впрочем, автор не исключает, что фанаты ещё как-то увидят их.",
-    "image": "https://leonardo.osnova.io/334e9322-ce66-5665-afd7-60ef0f36f7ee/",
+    "title": "В Marvel Rivals начался пятый сезон — с Гамбитом и картой-хабом «Таймс-сквер», где нет сражений",
+    "description": "А также ивентом, в ходе которого можно получить костюм Железного паука для Питера Паркера.",
+    "fullText": "А также ивентом, в ходе которого можно получить костюм Железного паука для Питера Паркера.",
+    "image": "https://leonardo.osnova.io/0bde30f9-319f-50eb-9bdd-93677cb82147/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4157002-tsenarist-dispatch-vyrezannye-stseny-seksa?from=rss",
-    "time": "2025-11-14T08:16:56.000Z"
+    "url": "https://dtf.ru/games/4159648-pytyy-sezon-marvel-rivals-s-gambitom-i-tayms-skver-bez-srazheniy?from=rss",
+    "time": "2025-11-14T13:44:36.000Z"
   }
 ]
