@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Германии заявили о стремлении к диалогу с КНР для решения проблем",
-    "description": "Вице-канцлер страны Ларс Клингбайль подчеркнул необходимость честной конкуренции и расширения доступа германских компаний на рынки",
-    "fullText": "Вице-канцлер страны Ларс Клингбайль подчеркнул необходимость честной конкуренции и расширения доступа германских компаний на рынки",
+    "title": "Экс-глава Минюста Словакии: введение ЕС санкций против РФ нарушает Устав ООН",
+    "description": "Об этом Штефан Гарабин заявил на конференции \"Международное право под угрозой\", проходящей в Тегеране",
+    "fullText": "Об этом Штефан Гарабин заявил на конференции \"Международное право под угрозой\", проходящей в Тегеране",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25640317",
-    "time": "2025-11-16T17:38:54.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25640391",
+    "time": "2025-11-16T18:08:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Синнер против Алькараса – выберите фаворита и смотрите трансляцию финала итогового турнира в Основе",
+    "description": "Начало – в 20:00 мск.",
+    "fullText": "Начало – в 20:00 мск.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/e9/50cb5cc3f4c75bcc890abe5436a5c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/kmw55s",
+    "time": "2025-11-16T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-16T13:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
-    "description": "Проверьте себя.",
-    "fullText": "Проверьте себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/24/084b127fd4f808b6c848753daf8bb.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/pweyv2",
-    "time": "2025-11-16T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crystal Dynamics провела третью волну сокращений за год — уволили «чуть меньше 30 человек»",
-    "description": "Реструктуризация потребовалась, чтобы оптимизировать разработку следующей части Tomb Raider.",
-    "fullText": "Реструктуризация потребовалась, чтобы оптимизировать разработку следующей части Tomb Raider.",
-    "image": "https://leonardo.osnova.io/fd6b8f9f-a5b3-5e6f-86ae-65cf1f61a93a/",
+    "title": "220 сотрудников Rockstar North подписали письмо в поддержку уволенных коллег",
+    "description": "18 ноября состоится ещё одна акция протеста.",
+    "fullText": "18 ноября состоится ещё одна акция протеста.",
+    "image": "https://leonardo.osnova.io/c096e8d7-a024-5c26-92c1-3302f9292fb7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4162660-crystal-dynamics-uvolila-sotrudnikov-dlya-optimizacii-tomb-raider?from=rss",
-    "time": "2025-11-14T15:24:06.000Z"
+    "url": "https://dtf.ru/gameindustry/4159635-220-sotrudnikov-rockstar-podderzhali-uvolennyh-kolleg?from=rss",
+    "time": "2025-11-14T13:28:18.000Z"
   }
 ]
