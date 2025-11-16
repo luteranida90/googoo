@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Махачев – со вторым поясом UFC! Разгромил чемпиона и потребовал бой в Белом доме",
-    "description": "Мегадебют в полусреднем весе.",
-    "fullText": "Мегадебют в полусреднем весе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/90/9d57d1e71488991c8f33c4219e0f9.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сборная Генпрокуратуры выиграла Спартакиаду органов власти в плавании",
+    "description": "Второе место заняла команда ФНС России, третье - сборная Госдумы",
+    "fullText": "Второе место заняла команда ФНС России, третье - сборная Госдумы",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251116/8600157.jpg",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3364403.html",
-    "time": "2025-11-16T07:05:00.000Z"
+    "url": "https://tass.ru/sport/25639719",
+    "time": "2025-11-16T12:15:52.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/a6/304361836480a9c73d87f48f829b2.png",
+    "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
+    "description": "Сможете больше?",
+    "fullText": "Сможете больше?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2b/4dab2371b4b3e826c0f8de8d1f841.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-11-16T07:00:00.000Z"
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2025-11-16T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Самая культовая и сложная гонка на пути молодежи в «Ф-1» – как она стала легендарной?",
+    "description": "Макао – азиатское Монако.",
+    "fullText": "Макао – азиатское Монако.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/65/a794ad2514a419d4eceb07a250675.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3364241.html",
+    "time": "2025-11-16T07:29:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4162660-crystal-dynamics-uvolila-sotrudnikov-dlya-optimizacii-tomb-raider?from=rss",
     "time": "2025-11-14T15:24:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
