@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Зокиров рассказал о выходе новых ПДД в 2029 году",
-    "description": "Нынешние Правила дорожного движения были утверждены правительством в октябре 1993 года и действуют с июля 1994-го",
-    "fullText": "Нынешние Правила дорожного движения были утверждены правительством в октябре 1993 года и действуют с июля 1994-го",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251117/8600681.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25640901",
-    "time": "2025-11-16T21:42:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть только в «Аркаде»",
     "description": "Раньше было ярче...",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Италии попасть на ЧМ? Либо 9:0 против Норвегии, либо стыки",
-    "description": "Два стыка!",
-    "fullText": "Два стыка!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/0e/650c28d38492a9a951bac28c528a9.jpeg",
+    "title": "«Ты самое скучное, что есть в этой игре». Угадайте, кого не впечатлила победа Махачева?",
+    "description": "Конфликт продолжается.",
+    "fullText": "Конфликт продолжается.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/d7/0eb7b7d6a4d0c8f51e92ffc7e154f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3364356.html",
-    "time": "2025-11-16T18:24:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3364459.html",
+    "time": "2025-11-16T18:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4159635-220-sotrudnikov-rockstar-podderzhali-uvolennyh-kolleg?from=rss",
     "time": "2025-11-14T13:28:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
