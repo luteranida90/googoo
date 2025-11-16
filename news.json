@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Военная операция на Украине. Онлайн",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251116/8600061.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25639287",
+    "time": "2025-11-16T21:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Моуринью помешался на судьях. Провоцирует трэш: баны, обвинение в расизме, нападение на тренера",
-    "description": "Это все за полтора года.",
-    "fullText": "Это все за полтора года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/f48d8c15e4ae7aca5cf6ca7e3b864.jpeg",
+    "title": "«Это слабое место Гуменника». Ягудин не согласен с оценками на Гран-при",
+    "description": "Вот его аргументы.",
+    "fullText": "Вот его аргументы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/41/c06719d2c45438c4097b048d2d76f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3363535.html",
-    "time": "2025-11-16T16:37:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3364504.html",
+    "time": "2025-11-16T17:24:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4159635-220-sotrudnikov-rockstar-podderzhali-uvolennyh-kolleg?from=rss",
     "time": "2025-11-14T13:28:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
