@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минпромторг не ожидает перебоев в обеспечении внутреннего рынка кремнием",
-    "description": "АО \"Кремний\", входящее в структуру \"Русала\", вынужденно приостанавливает производство с 1 января 2026 года",
-    "fullText": "АО \"Кремний\", входящее в структуру \"Русала\", вынужденно приостанавливает производство с 1 января 2026 года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В Кировской области молодые специалисты в АПК будут получать 1 млн рублей",
+    "description": "Таким образом в регионе планируют решать кадровую проблему в сфере сельского хозяйства",
+    "fullText": "Таким образом в регионе планируют решать кадровую проблему в сфере сельского хозяйства",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251117/8602809.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25649167",
-    "time": "2025-11-17T18:08:50.000Z"
+    "url": "https://tass.ru/obschestvo/25649239",
+    "time": "2025-11-17T18:21:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Мог ли Зидан возглавить «Спартак»? А Клопп?",
+    "description": "Вспоминаем слухи вокруг клуба.",
+    "fullText": "Вспоминаем слухи вокруг клуба.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b0/45d8bfa8046d194884c1c30676a75.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/uzib5z",
+    "time": "2025-11-17T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-17T14:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Помогите Карпину собрать состав и получите билеты на матч сборной",
-    "description": "Или джерси с автографами.",
-    "fullText": "Или джерси с автографами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/d3/00242b8ea4bdf9b3658da57595da3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/2ucipp",
-    "time": "2025-11-17T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игроки раскритиковали использование генеративного ИИ в Anno 117: Pax Romana — Ubisoft назвала некоторые ассеты плейсхолдерами",
-    "description": "Которые якобы забыли заменить.",
-    "fullText": "Которые якобы забыли заменить.",
-    "image": "https://leonardo.osnova.io/4edbfd44-86e4-5584-a36d-0b82aeeee671/",
+    "title": "Colossal Order прекращает работу над Cities: Skylines II — развивать игру продолжит внутренняя студия Paradox",
+    "description": "Смена команды пройдёт в начале 2026 года.",
+    "fullText": "Смена команды пройдёт в начале 2026 года.",
+    "image": "https://leonardo.osnova.io/ce77393d-e2d2-5d7f-97ae-169892cb5f53/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4298014-kritika-ispolzovaniya-ii-v-anno-117-pax-romana-ot-ubisoft?from=rss",
-    "time": "2025-11-17T10:07:24.000Z"
+    "url": "https://dtf.ru/games/4306224-cities-skylines-ii-colossal-order-peredaet-razvitie-iceflake-studios?from=rss",
+    "time": "2025-11-17T13:53:14.000Z"
   }
 ]
