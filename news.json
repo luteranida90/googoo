@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "SCMP: ЕС и Китай могут договориться об экспорте чипов и редкоземельных металлов",
-    "description": "По данным газеты, в случае заключения соглашения китайские компании смогут получить годовую лицензию на экспорт редкоземельных металлов при условии, что европейские предприятия не будут использовать материалы в военных целях",
-    "fullText": "По данным газеты, в случае заключения соглашения китайские компании смогут получить годовую лицензию на экспорт редкоземельных металлов при условии, что европейские предприятия не будут использовать материалы в военных целях",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25646127",
-    "time": "2025-11-17T11:28:23.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
     "description": "Есть еще 12 вариантов.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первый сухарь Мурашова за «Питтсбург»! У России растет еще один классный вратарь в НХЛ",
-    "description": "Будущий Флери?",
-    "fullText": "Будущий Флери?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/fc/6449730d84ec4a498fd698b93cef6.jpeg",
+    "title": "Синнер отомстил Алькарасу – и закончил сезон непобежденным",
+    "description": "Чемпион итогового.",
+    "fullText": "Чемпион итогового.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9a/f1c7bc7e44d68b795df8e1582aa6f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3364551.html",
-    "time": "2025-11-17T08:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3364556.html",
+    "time": "2025-11-17T09:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Утечка: ранний геймплей и концепт-арты отменённой RPG по Warhammer Age of Sigmar",
-    "description": "Работу над игрой, которую создавали для ПК, консолей и мобильных платформ, остановили в конце 2024-го.",
-    "fullText": "Работу над игрой, которую создавали для ПК, консолей и мобильных платформ, остановили в конце 2024-го.",
-    "image": "https://leonardo.osnova.io/089be7f0-6244-5542-8c5d-6c727f1d3f88/",
+    "title": "Escape from Tarkov стартовала в Steam с «в основном отрицательными отзывами» — после полного релиза серверы шутера не выдержали нагрузки",
+    "description": "Геймеры не могли начать играть больше десяти часов — разработчики пообещали компенсацию за неудобства.",
+    "fullText": "Геймеры не могли начать играть больше десяти часов — разработчики пообещали компенсацию за неудобства.",
+    "image": "https://leonardo.osnova.io/23ba158b-9f07-58b4-99c3-683c8f8dfba6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4248272-gejmplej-i-kontsept-arty-otmenennoy-rpg-po-warhammer-age-of-sigmar?from=rss",
-    "time": "2025-11-16T09:47:23.000Z"
+    "url": "https://dtf.ru/games/4252646-escape-from-tarkov-v-steam-problemy-s-serverami-i-otzyvy-igrokov?from=rss",
+    "time": "2025-11-16T11:55:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
