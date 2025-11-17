@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Заполярье расширили налоговые льготы на военных и начинающих бизнесменов",
+    "description": "Также пользоваться упрощенной системой налогообложения с льготной ставкой смогут малые технологические компании",
+    "fullText": "Также пользоваться упрощенной системой налогообложения с льготной ставкой смогут малые технологические компании",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251117/8602279.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25647331",
+    "time": "2025-11-17T13:11:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Манчини уехал в Катар – за деньгами. Хотя мог работать в «Юве» и АПЛ",
+    "description": "К Фирмино и Клаудиньо.",
+    "fullText": "К Фирмино и Клаудиньо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/38/6447a9adc434282a31af5899f014b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3364029.html",
+    "time": "2025-11-17T09:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
     "description": "Есть еще 12 вариантов.",
@@ -11,36 +33,14 @@
     "time": "2025-11-17T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Синнер отомстил Алькарасу – и закончил сезон непобежденным",
-    "description": "Чемпион итогового.",
-    "fullText": "Чемпион итогового.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9a/f1c7bc7e44d68b795df8e1582aa6f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3364556.html",
-    "time": "2025-11-17T09:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Escape from Tarkov стартовала в Steam с «в основном отрицательными отзывами» — после полного релиза серверы шутера не выдержали нагрузки",
-    "description": "Геймеры не могли начать играть больше десяти часов — разработчики пообещали компенсацию за неудобства.",
-    "fullText": "Геймеры не могли начать играть больше десяти часов — разработчики пообещали компенсацию за неудобства.",
-    "image": "https://leonardo.osnova.io/23ba158b-9f07-58b4-99c3-683c8f8dfba6/",
+    "title": "«Иллюзия обмана 3» стала лидером мирового проката, собрав 75,5 миллиона долларов за первый уикенд",
+    "description": "«Бегущий человек» Эдгара Райта стартовал намного скромнее — лишь 28,2 миллиона, что не оправдало ожиданий аналитиков.",
+    "fullText": "«Бегущий человек» Эдгара Райта стартовал намного скромнее — лишь 28,2 миллиона, что не оправдало ожиданий аналитиков.",
+    "image": "https://leonardo.osnova.io/52e1dfed-4309-556d-afb9-78c6ed612cc6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4252646-escape-from-tarkov-v-steam-problemy-s-serverami-i-otzyvy-igrokov?from=rss",
-    "time": "2025-11-16T11:55:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4266326-illyuziya-obmana-3-lidiruet-v-mirovom-prokate?from=rss",
+    "time": "2025-11-16T18:29:57.000Z"
   }
 ]
