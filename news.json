@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РФС назвали правильным уход Карпина из \"Динамо\"",
-    "description": "Максим Митрофанов считает, что новые задачи в сборной России требуют полной вовлеченности",
-    "fullText": "Максим Митрофанов считает, что новые задачи в сборной России требуют полной вовлеченности",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251117/8602725.jpg",
+    "title": "Колыванов предположил, что Карпин устал от совмещения должностей",
+    "description": "С лета 2025 года Валерий Карпин работал главным тренером московского \"Динамо\" и сборной России",
+    "fullText": "С лета 2025 года Валерий Карпин работал главным тренером московского \"Динамо\" и сборной России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251117/8602761.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25648727",
-    "time": "2025-11-17T16:43:04.000Z"
+    "url": "https://tass.ru/sport/25648901",
+    "time": "2025-11-17T17:22:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Абсолютно невозможное преступление» — трейлер фильма «Достать ножи: Проснись, мертвец»",
+    "description": "Детектив с Дэниэлом Крэйгом выйдет 12 декабря на Netflix.",
+    "fullText": "Детектив с Дэниэлом Крэйгом выйдет 12 декабря на Netflix.",
+    "image": "https://leonardo.osnova.io/de94d1e9-02f8-5dce-9bfa-52257ae28165/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4307047-dostat-nozhi-prosnis-mertvec?from=rss",
+    "time": "2025-11-17T14:16:40.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Ротенберг не возглавил «Динамо» вместо Кудашова",
-    "description": "Ждем лета?",
-    "fullText": "Ждем лета?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7a/4d42a17cd4b1fa6f98569df437665.jpeg",
+    "title": "Жизнь Патрика Клюйверта: обвинение в убийстве, измена, кутеж в Минске до утра",
+    "description": "Герой финала ЛЧ-1995.",
+    "fullText": "Герой финала ЛЧ-1995.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/78/9018b367e49dfb171cfc8e81fcb9e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3364577.html",
-    "time": "2025-11-17T13:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Call of Duty: Black Ops 7 стартовала с 1,9 балла от пользователей Metacritic — это антирекорд серии",
-    "description": "По онлайну в Steam новая часть франшизы заметно уступила главным мультиплеерным релизам осени.",
-    "fullText": "По онлайну в Steam новая часть франшизы заметно уступила главным мультиплеерным релизам осени.",
-    "image": "https://leonardo.osnova.io/5ee00d6f-bf08-59b2-a6c2-eb5de8f062d3/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4294950-call-of-duty-black-ops-7-hudshij-start?from=rss",
-    "time": "2025-11-17T08:37:19.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363892.html",
+    "time": "2025-11-17T13:23:00.000Z"
   }
 ]
