@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Число участников Владивостокского просветительского фестиваля выросло почти вдвое",
-    "description": "Мероприятие пройдет 21-22 ноября",
-    "fullText": "Мероприятие пройдет 21-22 ноября",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25644493",
-    "time": "2025-11-17T09:31:11.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Трэй Янг переоценен. Теперь это подтверждает и сама «Атланта»",
-    "description": "Конец зависимости?",
-    "fullText": "Конец зависимости?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ab/6ff597a9d4b888c6b400e33dcff30.jpeg",
+    "title": "Самые полезные игроки НХЛ: от крайне очевидных до дешевых и непопулярных",
+    "description": "Фэнтези с ними успешнее.",
+    "fullText": "Фэнтези с ними успешнее.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9b/af7e072534fdd8bd1c79608ab64d2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3363804.html",
-    "time": "2025-11-17T06:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3364541.html",
+    "time": "2025-11-17T06:22:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игроки раскритиковали разработчиков Black Ops 7 за «визитки» с артами в стиле аниме Ghibli — вероятно, они сделаны с помощью ИИ",
-    "description": "О том, что в создании «некоторых внутриигровых материалов» применялась нейросеть, указано на странице шутера в Steam.",
-    "fullText": "О том, что в создании «некоторых внутриигровых материалов» применялась нейросеть, указано на странице шутера в Steam.",
-    "image": "https://leonardo.osnova.io/9adeea33-e44d-59fa-9470-02cc1c0cccf6/",
+    "title": "Critical Role и успех Dispatch спасли студию AdHoc от закрытия — до релиза её руководители полгода не брали зарплаты",
+    "description": "Теперь авторы могут наконец перевести дух.",
+    "fullText": "Теперь авторы могут наконец перевести дух.",
+    "image": "https://leonardo.osnova.io/e4fb343c-b833-58a3-b6da-b99dc53e9ebc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4153155-kritika-black-ops-7-za-ispolzovanie-generativnogo-ii?from=rss",
-    "time": "2025-11-14T18:09:21.000Z"
+    "url": "https://dtf.ru/gameindustry/4169940-uspeh-dispatch-i-critical-role-spasli-studiyu-adhoc-ot-zakrytiya?from=rss",
+    "time": "2025-11-14T19:25:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
