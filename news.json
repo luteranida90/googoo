@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Песков: РФ заинтересована, чтобы условия для встречи Путина и Трампа сложились скорее",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251009/8512893.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25645367",
+    "time": "2025-11-17T10:40:29.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самые полезные игроки НХЛ: от крайне очевидных до дешевых и непопулярных",
-    "description": "Фэнтези с ними успешнее.",
-    "fullText": "Фэнтези с ними успешнее.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9b/af7e072534fdd8bd1c79608ab64d2.jpeg",
+    "title": "Он героически вытащил Ирландию в стыки. Трой Пэрротт заслужил ваше внимание",
+    "description": "Главный сюжет дня.",
+    "fullText": "Главный сюжет дня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/59/25de3e0124dc2badfdb829208a74a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3364541.html",
-    "time": "2025-11-17T06:22:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364543.html",
+    "time": "2025-11-17T06:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Critical Role и успех Dispatch спасли студию AdHoc от закрытия — до релиза её руководители полгода не брали зарплаты",
-    "description": "Теперь авторы могут наконец перевести дух.",
-    "fullText": "Теперь авторы могут наконец перевести дух.",
-    "image": "https://leonardo.osnova.io/e4fb343c-b833-58a3-b6da-b99dc53e9ebc/",
+    "title": "Утечка: ранний геймплей и концепт-арты отменённой RPG по Warhammer Age of Sigmar",
+    "description": "Работу над игрой, которую создавали для ПК, консолей и мобильных платформ, остановили в конце 2024-го.",
+    "fullText": "Работу над игрой, которую создавали для ПК, консолей и мобильных платформ, остановили в конце 2024-го.",
+    "image": "https://leonardo.osnova.io/089be7f0-6244-5542-8c5d-6c727f1d3f88/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4169940-uspeh-dispatch-i-critical-role-spasli-studiyu-adhoc-ot-zakrytiya?from=rss",
-    "time": "2025-11-14T19:25:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4248272-gejmplej-i-kontsept-arty-otmenennoy-rpg-po-warhammer-age-of-sigmar?from=rss",
+    "time": "2025-11-16T09:47:23.000Z"
   }
 ]
