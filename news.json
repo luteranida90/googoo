@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В РФС назвали правильным уход Карпина из \"Динамо\"",
+    "description": "Максим Митрофанов считает, что новые задачи в сборной России требуют полной вовлеченности",
+    "fullText": "Максим Митрофанов считает, что новые задачи в сборной России требуют полной вовлеченности",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251117/8602725.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25648727",
+    "time": "2025-11-17T16:43:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Помогите Карпину собрать состав и получите билеты на матч сборной",
     "description": "Или джерси с автографами.",
@@ -11,36 +22,25 @@
     "time": "2025-11-17T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Colossal Order прекращает работу над Cities: Skylines II — развивать игру продолжит внутренняя студия Paradox",
-    "description": "Смена команды пройдёт в начале 2026 года.",
-    "fullText": "Смена команды пройдёт в начале 2026 года.",
-    "image": "https://leonardo.osnova.io/ce77393d-e2d2-5d7f-97ae-169892cb5f53/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4306224-cities-skylines-ii-colossal-order-peredaet-razvitie-iceflake-studios?from=rss",
-    "time": "2025-11-17T13:53:14.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Приходилось бросать, сидя на стуле». Егор Дёмин – о «золотой клетке» Мадрида и первых проблемах в НБА",
-    "description": "Большое интервью.",
-    "fullText": "Большое интервью.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/60/4158797ea4a5f89ad08311df320f8.jpeg",
+    "title": "Почему Ротенберг не возглавил «Динамо» вместо Кудашова",
+    "description": "Ждем лета?",
+    "fullText": "Ждем лета?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7a/4d42a17cd4b1fa6f98569df437665.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3364362.html",
-    "time": "2025-11-17T12:55:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3364577.html",
+    "time": "2025-11-17T13:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Call of Duty: Black Ops 7 стартовала с 1,9 балла от пользователей Metacritic — это антирекорд серии",
+    "description": "По онлайну в Steam новая часть франшизы заметно уступила главным мультиплеерным релизам осени.",
+    "fullText": "По онлайну в Steam новая часть франшизы заметно уступила главным мультиплеерным релизам осени.",
+    "image": "https://leonardo.osnova.io/5ee00d6f-bf08-59b2-a6c2-eb5de8f062d3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4294950-call-of-duty-black-ops-7-hudshij-start?from=rss",
+    "time": "2025-11-17T08:37:19.000Z"
   }
 ]
