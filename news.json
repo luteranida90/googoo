@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Медведев: СВО будет продолжаться, пока Россия не достигнет своих целей",
-    "description": "Зампред Совбеза РФ выступил на встрече с активистами \"Молодой гвардии \"Единой России\"",
-    "fullText": "Зампред Совбеза РФ выступил на встрече с активистами \"Молодой гвардии \"Единой России\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250214/8064451.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/25647729",
-    "time": "2025-11-17T13:59:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этого испанца из «Юнайтед» вспомнили только 40% игроков! Сможете?",
     "description": "Проверьте себя.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Осуждать федерацию за выбор Гуменника не только бессмысленно, но и вредно",
-    "description": "Реплика Крутихиной.",
-    "fullText": "Реплика Крутихиной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/78/a6ecff6b74654afac540044d485da.jpeg",
+    "title": "«Я не виновата, что у меня такая известная фамилия». Почему Журова и Роднина комментируют любые новости",
+    "description": "Спросили у них.",
+    "fullText": "Спросили у них.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/4d/df91d836c4b3c842b2b66c52801d4.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3364567.html",
-    "time": "2025-11-17T10:07:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3364579.html",
+    "time": "2025-11-17T10:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер Resident Evil Requiem заявил, что в игре остались некоторые идеи от изначальной мультиплеерной концепции",
-    "description": "Однако он не стал раскрывать их.",
-    "fullText": "Однако он не стал раскрывать их.",
-    "image": "https://leonardo.osnova.io/36f61583-c05a-581f-8a42-0c61dbf4344a/",
+    "title": "Том Круз получил почётный «Оскар» за вклад в развитие кинематографа",
+    "description": "«Я не занимаюсь фильмами, я живу ими».",
+    "fullText": "«Я не занимаюсь фильмами, я живу ими».",
+    "image": "https://leonardo.osnova.io/3477b05b-17dd-5b51-b0b6-ff05e47e331c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4289389-resident-evil-requiem-prodyuser-rasskazal-o-multiplayernykh-ideyakh?from=rss",
-    "time": "2025-11-17T05:44:59.000Z"
+    "url": "https://dtf.ru/cinema/4290250-tom-kruz-poluchil-pochetniy-oskar?from=rss",
+    "time": "2025-11-17T06:19:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
