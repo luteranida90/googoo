@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Карачаево-Черкесии высадили аллею в честь 80-летия Победы",
-    "description": "Молодые деревья появились на территории республиканского онкологического диспансера",
-    "fullText": "Молодые деревья появились на территории республиканского онкологического диспансера",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25648563",
-    "time": "2025-11-17T16:03:08.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Помогите Карпину собрать состав и получите билеты на матч сборной",
     "description": "Или джерси с автографами.",
@@ -22,25 +11,36 @@
     "time": "2025-11-17T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Особая куртка Stone Island для босса из Серии Б – почему вдруг?",
-    "description": "Он бывший владелец бренда.",
-    "fullText": "Он бывший владелец бренда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/52/361e61d684368849448241b23bc81.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364282.html",
-    "time": "2025-11-17T11:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Иллюзия обмана 3» показала один из лучших стартов 2025 года в российском прокате — фильм собрал больше 500 миллионов рублей",
-    "description": "Картина превзошла ожидания аналитиков.",
-    "fullText": "Картина превзошла ожидания аналитиков.",
-    "image": "https://leonardo.osnova.io/23eb0639-3781-5668-8e10-909fb9dbc136/",
+    "title": "Colossal Order прекращает работу над Cities: Skylines II — развивать игру продолжит внутренняя студия Paradox",
+    "description": "Смена команды пройдёт в начале 2026 года.",
+    "fullText": "Смена команды пройдёт в начале 2026 года.",
+    "image": "https://leonardo.osnova.io/ce77393d-e2d2-5d7f-97ae-169892cb5f53/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4297227-illyuziya-obmana-3-start-537-millionov?from=rss",
-    "time": "2025-11-17T10:44:55.000Z"
+    "url": "https://dtf.ru/games/4306224-cities-skylines-ii-colossal-order-peredaet-razvitie-iceflake-studios?from=rss",
+    "time": "2025-11-17T13:53:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Приходилось бросать, сидя на стуле». Егор Дёмин – о «золотой клетке» Мадрида и первых проблемах в НБА",
+    "description": "Большое интервью.",
+    "fullText": "Большое интервью.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/60/4158797ea4a5f89ad08311df320f8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3364362.html",
+    "time": "2025-11-17T12:55:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
