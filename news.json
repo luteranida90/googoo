@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Камчатке разыскивают подростка",
-    "description": "Девушка ушла из дома в ночь на 19 ноября и до сих пор не вернулась",
-    "fullText": "Девушка ушла из дома в ночь на 19 ноября и до сих пор не вернулась",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25661751",
-    "time": "2025-11-18T21:42:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Год Аморима в «МЮ»: от худшей команды в истории до тренера месяца",
-    "description": "Оцениваем.",
-    "fullText": "Оцениваем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/37/0b17e268342d9ad22c591dc22f902.jpeg",
+    "title": "Nike выпускал кроссовки для Шумахера, но вместо успеха как у Джордана – провал",
+    "description": "«Испанский стыд».",
+    "fullText": "«Испанский стыд».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d1/a6f93b6374ed1a553fb2821158271.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364710.html",
-    "time": "2025-11-18T17:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3355647.html",
+    "time": "2025-11-18T17:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4345688-gejmplejnyj-tizer-kiberslav-zatmenie?from=rss",
     "time": "2025-11-18T09:09:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
