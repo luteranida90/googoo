@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мерц заявил, что склонен верить польской версии с диверсией на железной дороге",
-    "description": "Канцлер Германии также отметил, что спросит у польского правительства о новых сведениях",
-    "fullText": "Канцлер Германии также отметил, что спросит у польского правительства о новых сведениях",
+    "title": "Козлов заявил, что некоторые хоккеисты \"Динамо\" шокированы отставкой Кудашова",
+    "description": "Алексей Кудашов возглавлял команду с 2021 года",
+    "fullText": "Алексей Кудашов возглавлял команду с 2021 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25661001",
-    "time": "2025-11-18T19:00:53.000Z"
+    "url": "https://tass.ru/sport/25661257",
+    "time": "2025-11-18T19:53:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-11-18T16:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Crew Motorfest, Banishers: Ghosts of New Eden, Lost Records и Marvel Cosmic Invasion появятся в Game Pass",
-    "description": "Каталог будет пополняться в течение нескольких недель.",
-    "fullText": "Каталог будет пополняться в течение нескольких недель.",
-    "image": "https://leonardo.osnova.io/bd66023d-853e-54a6-8009-a811743175d7/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4358717-the-crew-motorfest-i-drugie-igry-v-game-pass-ot-microsoft?from=rss",
-    "time": "2025-11-18T15:18:06.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "И как Овечкин делает это? 903-й гол в НХЛ и еще один рекорд",
-    "description": "Горди Хоу, подвиньтесь.",
-    "fullText": "Горди Хоу, подвиньтесь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/a4/fbdfb92844c308e9bc1619a9ea4cb.jpeg",
+    "title": "Новая мода у фигуристов – лежать на льду. Зачем?!",
+    "description": "Крутихина с примерами.",
+    "fullText": "Крутихина с примерами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/93/f663ba56842978a7b89e9b475506c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3364787.html",
-    "time": "2025-11-18T15:15:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3364645.html",
+    "time": "2025-11-18T15:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Roblox введёт обязательную проверку возраста для доступа к чату с января 2026 года — пользователи смогут общаться только внутри своей возрастной группы",
+    "description": "Проводить проверку будут с помощью камеры.",
+    "fullText": "Проводить проверку будут с помощью камеры.",
+    "image": "https://leonardo.osnova.io/867e1cdb-ddb8-568b-b2f3-66ba62aaff1d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4360025-roblox-vvedet-proverku-vozrasta-dlya-chata?from=rss",
+    "time": "2025-11-18T15:41:57.000Z"
   }
 ]
