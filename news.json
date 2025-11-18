@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Средства ПВО РФ сбили за сутки 206 беспилотников самолетного типа ВСУ",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25654027",
-    "time": "2025-11-18T09:09:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
     "description": "Сможете больше?",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Медведев проигрывает, потому что слишком слабо крутит мяч",
-    "description": "Взгляд на кризис.",
-    "fullText": "Взгляд на кризис.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/37/237e0ced0403a999722e5a116b3b3.jpeg",
+    "title": "Карпин ушел из «Динамо» после 5 месяцев совмещения. Ради сборной России",
+    "description": "Шок дня.",
+    "fullText": "Шок дня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/34/376013f3e4ef292c00c0b09338fd6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3362424.html",
-    "time": "2025-11-18T02:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364709.html",
+    "time": "2025-11-18T04:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo показала первые кадры из фильма по The Legend of Zelda с главными героями",
-    "description": "Компания объявила о старте съёмок ленты.",
-    "fullText": "Компания объявила о старте съёмок ленты.",
-    "image": "https://leonardo.osnova.io/f5ebb907-a0cb-5300-8533-2132fbb18579/",
+    "title": "Появился первый тизер киноремейка «Моаны»",
+    "description": "Фильм выйдет в прокат следующим летом.",
+    "fullText": "Фильм выйдет в прокат следующим летом.",
+    "image": "https://leonardo.osnova.io/233c82b2-7ac7-53ff-984d-ec8e7da3a2cb/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4307467-nintendo-predstavila-pervye-kadry-filma-po-the-legend-of-zelda?from=rss",
-    "time": "2025-11-17T14:21:06.000Z"
+    "url": "https://dtf.ru/cinema/4313439-tizer-kinoremeyka-moany?from=rss",
+    "time": "2025-11-17T17:12:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
