@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Каменке-Днепровской ВСУ атаковали здание ДОСААФ",
+    "description": "Из-за атаки произошел пожар",
+    "fullText": "Из-за атаки произошел пожар",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25655055",
+    "time": "2025-11-18T10:00:42.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
     "description": "Сможете больше?",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Появился первый тизер киноремейка «Моаны»",
-    "description": "Фильм выйдет в прокат следующим летом.",
-    "fullText": "Фильм выйдет в прокат следующим летом.",
-    "image": "https://leonardo.osnova.io/233c82b2-7ac7-53ff-984d-ec8e7da3a2cb/-/format/mp4/",
+    "title": "Вышла Forestrike — «роглайт»-головоломка про боевые искусства от издательства Devolver Digital",
+    "description": "Игрокам нужно помочь главному герою в опасном путешествии, цель которого — освободить императора от влияния злого адмирала.",
+    "fullText": "Игрокам нужно помочь главному герою в опасном путешествии, цель которого — освободить императора от влияния злого адмирала.",
+    "image": "https://leonardo.osnova.io/362f2ea4-0f51-5259-898b-febf5bd5cc03/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4313439-tizer-kinoremeyka-moany?from=rss",
-    "time": "2025-11-17T17:12:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4317787-forestrike-novaya-roglayt-golovolomka-ot-devolver-digital?from=rss",
+    "time": "2025-11-17T19:34:54.000Z"
   }
 ]
