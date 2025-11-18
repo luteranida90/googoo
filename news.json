@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В музей \"Сталинградская битва\" передали энциклопедию от имени генсекретаря ОДКБ",
+    "description": "Это юбилейное издание, посвященное 80-летию Победы",
+    "fullText": "Это юбилейное издание, посвященное 80-летию Победы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25660287",
+    "time": "2025-11-18T17:00:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого не хватило Карпину для победы? Пересоберите состав сборной на матч с Чили",
     "description": "Чтобы был доволен даже Мэддисон.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/2ucipp",
     "time": "2025-11-18T16:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Думаешь, ты героиня?»: трейлер второго сезона анимационного сериала о Ларе Крофт",
-    "description": "Новые эпизоды выйдут 11 декабря.",
-    "fullText": "Новые эпизоды выйдут 11 декабря.",
-    "image": "https://leonardo.osnova.io/e271aba9-4d08-50c3-8f32-3c8995ca02b0/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4361387-treyler-vtorogo-sezona-lara-kroft?from=rss",
-    "time": "2025-11-18T16:28:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "От повара в Тольятти до Лиги чемпионов: путь русского креатора в европейском футболе",
-    "description": "Андрей Белов работает в «Арисе».",
-    "fullText": "Андрей Белов работает в «Арисе».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/a6/f803e92b84d81a6cdc73bea977370.jpeg",
+    "title": "Уникальный матч Каталония – Россия: с Кройффом на поле. Как такое было возможно в 1976-м?",
+    "description": "Очень много политики.",
+    "fullText": "Очень много политики.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/56/4ad1b31a946d1b7f6bec4db65de68.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364201.html",
-    "time": "2025-11-18T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3363817.html",
+    "time": "2025-11-18T11:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В Epic Games Store появилась возможность дарить подарки",
+    "description": "Ещё одно важное улучшение магазина.",
+    "fullText": "Ещё одно важное улучшение магазина.",
+    "image": "https://leonardo.osnova.io/0cafff7a-ba56-58b9-a87f-baaa955c6cb4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4350757-v-epic-games-store-poyavilas-funkciya-dareniya-igr-druzyam?from=rss",
+    "time": "2025-11-18T11:38:50.000Z"
   }
 ]
