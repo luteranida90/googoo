@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Косачев: межпарламентское взаимодействие РФ и Катара подчеркивает крепкие связи",
+    "description": "Заместитель председателя Совета Федерации Константин Косачев также сообщил о контактах на высшем и высоком уровне",
+    "fullText": "Заместитель председателя Совета Федерации Константин Косачев также сообщил о контактах на высшем и высоком уровне",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25659361",
+    "time": "2025-11-18T15:07:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Новую «Колду» разгромили геймеры. Что не так с Black Ops 7?",
     "description": "Спорное продолжение великой игры.",
@@ -11,36 +22,25 @@
     "time": "2025-11-18T14:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Hypixel возобновит разработку «песочницы» Hytale в духе Minecraft — команда выкупила права у Riot Games",
-    "description": "Основатели студии собирают бывших сотрудников и планируют выпустить игру в раннем доступе.",
-    "fullText": "Основатели студии собирают бывших сотрудников и планируют выпустить игру в раннем доступе.",
-    "image": "https://leonardo.osnova.io/adf8161d-0aa6-5f95-b567-83281a55281b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4345201-hypixel-vozobnovlyaet-razrabotku-hytale?from=rss",
-    "time": "2025-11-18T09:31:51.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что окружает уход Карпина из «Динамо». Инсайды",
-    "description": "Собираем главное.",
-    "fullText": "Собираем главное.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/cc/89f0c8d084a7eba87dc5112fd4a6a.jpeg",
+    "title": "Мэддисон – главный критик Карпина в «Динамо». Вспомните все его претензии к Валере",
+    "description": "Говорил ли Илья такое или нет?",
+    "fullText": "Говорил ли Илья такое или нет?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/81/52fe2ca814516b45596b10527ca08.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364719.html",
-    "time": "2025-11-18T09:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364720.html",
+    "time": "2025-11-18T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Глава Take-Two считает, что гейминг движется в сторону ПК — хоть консоли и останутся",
+    "description": "Правда, в платформах GTA VI это пока не отражается.",
+    "fullText": "Правда, в платформах GTA VI это пока не отражается.",
+    "image": "https://leonardo.osnova.io/9b61d59d-5fae-50f2-8790-103676b64f74/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4340924-glava-take-two-o-budushchem-gejminga?from=rss",
+    "time": "2025-11-18T06:52:39.000Z"
   }
 ]
