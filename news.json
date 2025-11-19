@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовали съёмки сериала «Фурия» по мотивам комиксов Bubble",
-    "description": "Выход планируется в 2026 году.",
-    "fullText": "Выход планируется в 2026 году.",
-    "image": "https://leonardo.osnova.io/f9d854f0-701a-5436-be9a-83b00c020225/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4396686-startovali-semki-seriala-furiya-po-motivam-komiksov-bubble?from=rss",
-    "time": "2025-11-19T11:34:10.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Саратовской области детям запретят доступ в табачные магазины",
+    "description": "Закон приняли депутаты областной думы",
+    "fullText": "Закон приняли депутаты областной думы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25669267",
+    "time": "2025-11-19T12:24:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -20,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/aftbmc",
     "time": "2025-11-19T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "19 российских дзюдоистов выступят на турнире Большого шлема в Абу-Даби",
-    "description": "Турнир пройдет с 28 по 30 ноября",
-    "fullText": "Турнир пройдет с 28 по 30 ноября",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25668431",
-    "time": "2025-11-19T11:25:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» возвращается на «Камп Ноу». Как этого добились?",
-    "description": "Пустят 45 тысяч зрителей.",
-    "fullText": "Пустят 45 тысяч зрителей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/24/c9eeb9504489da410e4fe2ed108d4.jpeg",
+    "title": "«Ты живешь в Дагестане – зачем тебе сицилийские книги?» Хабиб и Махачев поспорили из-за литературы",
+    "description": "Самые жаркие дебаты в MMA.",
+    "fullText": "Самые жаркие дебаты в MMA.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ba/e44a485ed44a389ddfcf8a58cad5a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364769.html",
-    "time": "2025-11-19T07:25:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3364904.html",
+    "time": "2025-11-19T09:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Это не наш проект»: сооснователи AdHoc не знают, в каком состоянии The Wolf Among Us 2",
+    "description": "Однако они надеются, что Telltale использует их сценарий.",
+    "fullText": "Однако они надеются, что Telltale использует их сценарий.",
+    "image": "https://leonardo.osnova.io/3397dd94-76d6-56c5-9a57-8e1517c22ec2/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4390268-sostoyanie-the-wolf-among-us-2-adhoc-ne-uchastvuet-v-proekte?from=rss",
+    "time": "2025-11-19T06:47:47.000Z"
   }
 ]
