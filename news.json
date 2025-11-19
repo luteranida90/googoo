@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Камчатке произошло землетрясение магнитудой 5.5",
-    "description": "Сейсмособытие зафиксировали в 178 км от Петропавловска-Камчатского",
-    "fullText": "Сейсмособытие зафиксировали в 178 км от Петропавловска-Камчатского",
+    "title": "Калининградская область впервые войдет в топ-30 бездотационных регионов",
+    "description": "Доходы областного бюджета составляют 145,1 млрд рублей, расходы - 161 млрд рублей",
+    "fullText": "Доходы областного бюджета составляют 145,1 млрд рублей, расходы - 161 млрд рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25671185",
-    "time": "2025-11-19T15:05:23.000Z"
+    "url": "https://tass.ru/ekonomika/25671269",
+    "time": "2025-11-19T15:18:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Если образ работает, глупо менять его для галочки». Испанцы превратили «Дюну» в сериал на льду",
+    "description": "Продолжение или самоповтор?",
+    "fullText": "Продолжение или самоповтор?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/38/3aa30219c4c999daa59d1d942013c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3364862.html",
+    "time": "2025-11-19T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,25 +33,14 @@
     "time": "2025-11-19T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хватит драматизировать кошмар Хэмилтона в «Феррари». Настоящая проверка – в 2026-м",
-    "description": "Трудности ожидались.",
-    "fullText": "Трудности ожидались.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b0/c846412a7444aada014b4a5ac05de.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3364443.html",
-    "time": "2025-11-19T11:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Anno 117: Pax Romana стала самой быстропродаваемой игрой серии",
-    "description": "Она также установила рекорд франшизы по числу одновременных игроков.",
-    "fullText": "Она также установила рекорд франшизы по числу одновременных игроков.",
-    "image": "https://leonardo.osnova.io/940ca033-5f64-54bc-90b2-67266028bd68/",
+    "title": "Unity и Epic Games объявили о сотрудничестве — игры, созданные на движке первой, смогут добавить в экосистему Fortnite",
+    "description": "Больше подробностей раскроют в 2026 году.",
+    "fullText": "Больше подробностей раскроют в 2026 году.",
+    "image": "https://leonardo.osnova.io/ff81938e-c615-575d-923a-479748287e2e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4396556-anno-117-pax-romana-samaya-bystroprodayemaya-igra-serii?from=rss",
-    "time": "2025-11-19T10:34:05.000Z"
+    "url": "https://dtf.ru/gameindustry/4396518-sotrudnichestvo-unity-i-epic-games?from=rss",
+    "time": "2025-11-19T09:57:44.000Z"
   }
 ]
