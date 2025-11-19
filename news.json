@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МО РФ: подсудимые Нюрнберга не признали вину за преступления нацистского режима",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25673979",
-    "time": "2025-11-19T21:02:14.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Осторожно, сводит олдскулы! Возвращение фишек с легендами детства",
     "description": "Те самые Кэпсы.",
@@ -23,13 +12,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Овертаймы (и буллиты) выглядят лотереей и развлечением. На самом деле они многое решают",
-    "description": "Особенно на границе плей-офф.",
-    "fullText": "Особенно на границе плей-офф.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/6d/b1a7c73f144d3a2f21382c1047b07.jpeg",
+    "title": "А Бекхэм точно переоценен?",
+    "description": "Лучшие длинные передачи в истории.",
+    "fullText": "Лучшие длинные передачи в истории.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/76/6c34fe6bf4db6a71f461b362e06b3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3365001.html",
+    "url": "https://www.sports.ru/football/blogs/3343159.html",
     "time": "2025-11-19T14:20:00.000Z"
   },
   {
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4396608-amd-fsr-redstone-radeon-rx-9000?from=rss",
     "time": "2025-11-19T10:51:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
