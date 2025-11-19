@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Украинцы в селе в Закарпатье перекрыли дорогу и сожгли блокпост",
+    "description": "По информации издания, местные жители так решили выразить недовольство решением властей ввести противоэпидемических ограничений на 60 дней",
+    "fullText": "По информации издания, местные жители так решили выразить недовольство решением властей ввести противоэпидемических ограничений на 60 дней",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25663169",
+    "time": "2025-11-19T04:19:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
+    "description": "Есть еще 12 вариантов.",
+    "fullText": "Есть еще 12 вариантов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/35/80ea294654827a397fafc88e431d3.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-11-18T21:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "РПЛ рискует остаться без спонсора-букмекера. Из-за новых налогов никто не заплатит столько, сколько хочет лига",
     "description": "Колонка Павла Краснова.",
@@ -11,17 +33,6 @@
     "time": "2025-11-18T19:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Левандовски и Кейн – кто их объединил?",
-    "description": "Раскройте пары в «Комбо»!",
-    "fullText": "Раскройте пары в «Комбо»!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/8b/4cf91269a472095a13dfdbe467e10.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2025-11-18T19:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "The Crew Motorfest, Banishers: Ghosts of New Eden, Lost Records и Marvel Cosmic Invasion появятся в Game Pass",
     "description": "Каталог будет пополняться в течение нескольких недель.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4358717-the-crew-motorfest-i-drugie-igry-v-game-pass-ot-microsoft?from=rss",
     "time": "2025-11-18T15:18:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
