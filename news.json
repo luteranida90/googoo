@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Золотой унитаз \"Америка\" продали более чем за $12 млн",
-    "description": "Более чем 100-килограммовый лот был создан итальянским художником-концептуалистом Маурицио Каттеланом",
-    "fullText": "Более чем 100-килограммовый лот был создан итальянским художником-концептуалистом Маурицио Каттеланом",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "РПЛ рискует остаться без спонсора-букмекера. Из-за новых налогов никто не заплатит столько, сколько хочет лига",
+    "description": "Колонка Павла Краснова.",
+    "fullText": "Колонка Павла Краснова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/5e/61818153f411c8d86c273e9a408ae.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25662815",
-    "time": "2025-11-19T03:28:34.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3364131.html",
+    "time": "2025-11-18T19:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-11-18T19:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "93-летний штангист взял Кубок России: его прозвали Железным дедом, он помнит войну и общается с Третьяком",
-    "description": "«Соперников у меня нет».",
-    "fullText": "«Соперников у меня нет».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/9f/9f538c9ec4f8886228be840182c8f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/heavyathletics/blogs/3364874.html",
-    "time": "2025-11-18T18:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "The Crew Motorfest, Banishers: Ghosts of New Eden, Lost Records и Marvel Cosmic Invasion появятся в Game Pass",
     "description": "Каталог будет пополняться в течение нескольких недель.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4358717-the-crew-motorfest-i-drugie-igry-v-game-pass-ot-microsoft?from=rss",
     "time": "2025-11-18T15:18:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
