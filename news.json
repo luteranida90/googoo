@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Депутат Рады Скороход: Залужный может стать главой временного правительства",
+    "description": "По словам парламентария, экс-главкома ВСУ видят на этой должности США и Великобритания",
+    "fullText": "По словам парламентария, экс-главкома ВСУ видят на этой должности США и Великобритания",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25674263",
+    "time": "2025-11-19T22:13:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Осторожно, сводит олдскулы! Возвращение фишек с легендами детства",
     "description": "Те самые Кэпсы.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4396608-amd-fsr-redstone-radeon-rx-9000?from=rss",
     "time": "2025-11-19T10:51:26.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
