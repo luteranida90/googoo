@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Канцелярия Эрдогана подтвердила переговоры с Зеленским",
-    "description": "На беседу отвели 55 минут",
-    "fullText": "На беседу отвели 55 минут",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25663553",
-    "time": "2025-11-19T05:22:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Русский из «Тампы» – 70% игроков вписывают Василевского. Будете оригинальнее?",
     "description": "Есть еще 12 вариантов.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "РПЛ рискует остаться без спонсора-букмекера. Из-за новых налогов никто не заплатит столько, сколько хочет лига",
-    "description": "Колонка Павла Краснова.",
-    "fullText": "Колонка Павла Краснова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/5e/61818153f411c8d86c273e9a408ae.jpeg",
+    "title": "День крика в Торонто: Ламело ором просил пас, тренер «Рэпторс» громко праздновал победу",
+    "description": "Разорались.",
+    "fullText": "Разорались.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/9a/ca32c92104a369785f603d27a3f59.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/industry/blogs/3364131.html",
-    "time": "2025-11-18T19:35:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3364786.html",
+    "time": "2025-11-18T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Crew Motorfest, Banishers: Ghosts of New Eden, Lost Records и Marvel Cosmic Invasion появятся в Game Pass",
-    "description": "Каталог будет пополняться в течение нескольких недель.",
-    "fullText": "Каталог будет пополняться в течение нескольких недель.",
-    "image": "https://leonardo.osnova.io/bd66023d-853e-54a6-8009-a811743175d7/",
+    "title": "«Мы здесь по одной и той же причине»: второй трейлер фильма «Проект „Аве Мария“» с Райаном Гослингом",
+    "description": "Научно-фантастическая картина Кристофера Миллера и Фила Лорда выйдет в марте 2026 года.",
+    "fullText": "Научно-фантастическая картина Кристофера Миллера и Фила Лорда выйдет в марте 2026 года.",
+    "image": "https://leonardo.osnova.io/280df9d0-dceb-5d8c-a44a-3062e9240906/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4358717-the-crew-motorfest-i-drugie-igry-v-game-pass-ot-microsoft?from=rss",
-    "time": "2025-11-18T15:18:06.000Z"
+    "url": "https://dtf.ru/cinema/4357034-treyler-filma-proekt-ave-mariya-s-rajanom-goslingom?from=rss",
+    "time": "2025-11-18T14:47:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
