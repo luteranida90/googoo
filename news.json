@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Если образ работает, глупо менять его для галочки». Испанцы превратили «Дюну» в сериал на льду",
-    "description": "Продолжение или самоповтор?",
-    "fullText": "Продолжение или самоповтор?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/38/3aa30219c4c999daa59d1d942013c.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Заполярье два человека погибли в ДТП",
+    "description": "Травмы получили еще четыре",
+    "fullText": "Травмы получили еще четыре",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25672059",
+    "time": "2025-11-19T16:38:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "А что бы сделали вы на месте Карпина?",
+    "description": "Чтобы был доволен даже Мэддисон.",
+    "fullText": "Чтобы был доволен даже Мэддисон.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/86/7e3552a2d472fb667905f14ba065c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3364862.html",
-    "time": "2025-11-19T11:45:00.000Z"
+    "url": "https://sirena.world/2ucipp",
+    "time": "2025-11-19T16:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как Спортс” работает со статистикой. Откуда берутся данные и что мы с ними делаем?",
+    "description": "Разговор изнутри.",
+    "fullText": "Разговор изнутри.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/da/26ed9d55842f7b74f53d2ebe0b45c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3360600.html",
+    "time": "2025-11-19T12:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4396518-sotrudnichestvo-unity-i-epic-games?from=rss",
     "time": "2025-11-19T09:57:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
