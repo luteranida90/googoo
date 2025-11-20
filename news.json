@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Командующий Южной группировкой ВС РФ: группировка ВСУ в Северске будет рассечена",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Новый терминал аэропорта Мурманска встретил пассажиров северным сиянием",
+    "description": "Стены аэровокзала украсили картинами с пейзажами Кольского Заполярья, а панорамные окна в залах ожидания позволят рассмотреть взлет и посадку самолетов",
+    "fullText": "Стены аэровокзала украсили картинами с пейзажами Кольского Заполярья, а панорамные окна в залах ожидания позволят рассмотреть взлет и посадку самолетов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251120/8612087.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25685577",
-    "time": "2025-11-20T18:29:49.000Z"
+    "url": "https://tass.ru/obschestvo/25684979",
+    "time": "2025-11-20T18:41:04.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,36 @@
     "time": "2025-11-20T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS стартовала раздача карточного «роглайка» Zoeti",
-    "description": "А также стратегии Godzilla Voxel Wars, недоступной в России.",
-    "fullText": "А также стратегии Godzilla Voxel Wars, недоступной в России.",
-    "image": "https://leonardo.osnova.io/5779a5e1-3e67-5320-8733-7fc26dc43d42/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4401658-razdacha-kartichnogo-roglayka-zoeti-v-egs?from=rss",
-    "time": "2025-11-20T17:29:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Динамо» спаслось за 3 секунды до сирены! Смотрим на ВидеоСпортсе’’",
-    "description": "Играют с «Сибирью».",
-    "fullText": "Играют с «Сибирью».",
+    "title": "«Динамо» забило за 3 секунды до сирены – и все равно проиграло! Показали на ВидеоСпортсе’’",
+    "description": "«Сибирь» прервала серию поражений.",
+    "fullText": "«Сибирь» прервала серию поражений.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/2d/f71e78d15453c8f0af1f63118b519.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/yCKAkiIGVjpnAkt7Q4IhrG0jrIaKA17LlaJHBhgznLk",
-    "time": "2025-11-20T16:20:00.000Z"
+    "time": "2025-11-20T16:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Хоррор-адвенчура Reanimal от авторов Little Nightmares выйдет 13 февраля 2026 года",
+    "description": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
+    "fullText": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
+    "image": "https://leonardo.osnova.io/2f12ccf9-fa1c-5609-8f0d-8424c66dc8f2/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4401361-khorro-adventura-reanimal-ot-tarsier-vyidet-13-fevralya?from=rss",
+    "time": "2025-11-20T14:36:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жеребьевка стыков ЧМ-2026: Италия – Северная Ирландия, Украина – Швеция и другие пары",
-    "description": "22 участника, 6 финалистов.",
-    "fullText": "22 участника, 6 финалистов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/cf/033319b1b4714b83da140d4d6066c.jpeg",
+    "title": "Козлов исполнил мечту в «Динамо» – стал главным тренером в КХЛ. Надолго ли?",
+    "description": "Все не так однозначно.",
+    "fullText": "Все не так однозначно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/bb/d457e01434b7ca7d4bf8ab9055589.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365136.html",
-    "time": "2025-11-20T14:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3365187.html",
+    "time": "2025-11-20T14:30:00.000Z"
   }
 ]
