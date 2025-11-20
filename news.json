@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Отражавшие вторжение ВСУ в Курскую область получат земельные участки",
-    "description": "Соответствующие поправки в закон приняли депутаты облдумы",
-    "fullText": "Соответствующие поправки в закон приняли депутаты облдумы",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251120/8612015.jpg",
+    "title": "Опубликованы кадры посещения Путиным одного из командных пунктов группировки \"Запад\"",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033215.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25684891",
-    "time": "2025-11-20T17:01:32.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25685271",
+    "time": "2025-11-20T18:16:21.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Динамо» – «Сибирь»: смотрим матч недели на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "title": "«Сибирь» ведет у «Динамо»! Смотрим на ВидеоСпортсе’’",
+    "description": "Дубль у Чеховича.",
+    "fullText": "Дубль у Чеховича.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/2d/f71e78d15453c8f0af1f63118b519.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/yCKAkiIGVjpnAkt7Q4IhrG0jrIaKA17LlaJHBhgznLk",
     "time": "2025-11-20T16:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Хоррор-адвенчура Reanimal от авторов Little Nightmares выйдет 13 февраля 2026 года",
+    "description": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
+    "fullText": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
+    "image": "https://leonardo.osnova.io/2f12ccf9-fa1c-5609-8f0d-8424c66dc8f2/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4401361-khorro-adventura-reanimal-ot-tarsier-vyidet-13-fevralya?from=rss",
+    "time": "2025-11-20T14:36:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Борис Ротенберг: от футболиста-мема до босса «Локомотива»",
-    "description": "Денис Пузырев постучал в купе проводников.",
-    "fullText": "Денис Пузырев постучал в купе проводников.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/86/abfca6c204e13a390b7418955bc9a.jpeg",
+    "title": "Тяжеловес выходит на бои в UFC под Кадышеву. Мы с ним поговорили",
+    "description": "«Широка река» Сергея Спивака.",
+    "fullText": "«Широка река» Сергея Спивака.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/7c/9d0c2036e4ba2add6826d00f7734d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364988.html",
-    "time": "2025-11-20T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Норман Ридус завершил съёмки в сериале «Ходячие мертвецы: Дэрил Диксон»",
-    "description": "Пока неясно, означает ли это прощание актёра с героем.",
-    "fullText": "Пока неясно, означает ли это прощание актёра с героем.",
-    "image": "https://leonardo.osnova.io/9e7b0e5a-1571-5af3-a4e1-990e6515b589/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4398643-norman-ridus-zavershil-syomki-hodyachie-mertvetsy?from=rss",
-    "time": "2025-11-20T08:40:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3365189.html",
+    "time": "2025-11-20T13:45:00.000Z"
   }
 ]
