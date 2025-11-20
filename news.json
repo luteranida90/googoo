@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новый терминал аэропорта Мурманска встретил пассажиров северным сиянием",
-    "description": "Стены аэровокзала украсили картинами с пейзажами Кольского Заполярья, а панорамные окна в залах ожидания позволят рассмотреть взлет и посадку самолетов",
-    "fullText": "Стены аэровокзала украсили картинами с пейзажами Кольского Заполярья, а панорамные окна в залах ожидания позволят рассмотреть взлет и посадку самолетов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251120/8612087.jpg",
+    "title": "Аэропорт Вильнюса возобновил работу",
+    "description": "В диспетчерской службе аэропорта сообщили, что в период ограничения работы один следовавший в литовскую столицу самолет был направлен на временную посадку в Ригу, еще один рейс отменили",
+    "fullText": "В диспетчерской службе аэропорта сообщили, что в период ограничения работы один следовавший в литовскую столицу самолет был направлен на временную посадку в Ригу, еще один рейс отменили",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25684979",
-    "time": "2025-11-20T18:41:04.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25685961",
+    "time": "2025-11-20T18:59:02.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-11-20T16:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хоррор-адвенчура Reanimal от авторов Little Nightmares выйдет 13 февраля 2026 года",
-    "description": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
-    "fullText": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
-    "image": "https://leonardo.osnova.io/2f12ccf9-fa1c-5609-8f0d-8424c66dc8f2/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4401361-khorro-adventura-reanimal-ot-tarsier-vyidet-13-fevralya?from=rss",
-    "time": "2025-11-20T14:36:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Козлов исполнил мечту в «Динамо» – стал главным тренером в КХЛ. Надолго ли?",
-    "description": "Все не так однозначно.",
-    "fullText": "Все не так однозначно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/bb/d457e01434b7ca7d4bf8ab9055589.jpeg",
+    "title": "Как устроена экономика букмекеров и что изменится после новых налогов? Очень коротко",
+    "description": "Изучаем нюансы.",
+    "fullText": "Изучаем нюансы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/59/eb9996d8346d99bc336f014369cd1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3365187.html",
-    "time": "2025-11-20T14:30:00.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3365145.html",
+    "time": "2025-11-20T14:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "На Switch 2 состоялся релиз гоночной аркады Kirby Air Riders",
+    "description": "Цена игры составила 70 долларов.",
+    "fullText": "Цена игры составила 70 долларов.",
+    "image": "https://leonardo.osnova.io/f41cdcdf-d678-5d5d-ab59-aa86e76de9c6/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4401094-reliz-kirby-air-riders-na-switch-2?from=rss",
+    "time": "2025-11-20T13:09:36.000Z"
   }
 ]
