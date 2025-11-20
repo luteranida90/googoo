@@ -1,20 +1,42 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Опубликованы кадры посещения Путиным одного из командных пунктов группировки \"Запад\"",
+    "title": "Командующий Южной группировкой ВС РФ: группировка ВСУ в Северске будет рассечена",
     "description": "",
     "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033215.jpg",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25685271",
-    "time": "2025-11-20T18:16:21.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25685577",
+    "time": "2025-11-20T18:29:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
+    "description": "Сможете больше?",
+    "fullText": "Сможете больше?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2b/4dab2371b4b3e826c0f8de8d1f841.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2025-11-20T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В EGS стартовала раздача карточного «роглайка» Zoeti",
+    "description": "А также стратегии Godzilla Voxel Wars, недоступной в России.",
+    "fullText": "А также стратегии Godzilla Voxel Wars, недоступной в России.",
+    "image": "https://leonardo.osnova.io/5779a5e1-3e67-5320-8733-7fc26dc43d42/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4401658-razdacha-kartichnogo-roglayka-zoeti-v-egs?from=rss",
+    "time": "2025-11-20T17:29:43.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Сибирь» ведет у «Динамо»! Смотрим на ВидеоСпортсе’’",
-    "description": "Дубль у Чеховича.",
-    "fullText": "Дубль у Чеховича.",
+    "title": "«Динамо» спаслось за 3 секунды до сирены! Смотрим на ВидеоСпортсе’’",
+    "description": "Играют с «Сибирью».",
+    "fullText": "Играют с «Сибирью».",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/2d/f71e78d15453c8f0af1f63118b519.jpeg",
     "source": "Sports.ru",
     "category": "all",
@@ -22,36 +44,14 @@
     "time": "2025-11-20T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хоррор-адвенчура Reanimal от авторов Little Nightmares выйдет 13 февраля 2026 года",
-    "description": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
-    "fullText": "Предзаказы на ПК открыты — в Steam игра продаётся за 1500 рублей.",
-    "image": "https://leonardo.osnova.io/2f12ccf9-fa1c-5609-8f0d-8424c66dc8f2/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4401361-khorro-adventura-reanimal-ot-tarsier-vyidet-13-fevralya?from=rss",
-    "time": "2025-11-20T14:36:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Девять человек застали в «Барселоне» и Педри, и Хави. Сколько назовете?",
-    "description": "Один сейчас в медиалиге.",
-    "fullText": "Один сейчас в медиалиге.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/85/4df07059f4abe9dfec626bf8e8557.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2025-11-20T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тяжеловес выходит на бои в UFC под Кадышеву. Мы с ним поговорили",
-    "description": "«Широка река» Сергея Спивака.",
-    "fullText": "«Широка река» Сергея Спивака.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/7c/9d0c2036e4ba2add6826d00f7734d.jpeg",
+    "title": "Жеребьевка стыков ЧМ-2026: Италия – Северная Ирландия, Украина – Швеция и другие пары",
+    "description": "22 участника, 6 финалистов.",
+    "fullText": "22 участника, 6 финалистов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/cf/033319b1b4714b83da140d4d6066c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3365189.html",
-    "time": "2025-11-20T13:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365136.html",
+    "time": "2025-11-20T14:10:00.000Z"
   }
 ]
