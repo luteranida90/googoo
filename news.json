@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Орбан призвал ЕС прекратить финансирование \"военной мафии\" на Украине",
-    "description": "Премьер-министр Венгрии заявил, что европейским странам \"пора выйти из тупика\", в который их завела политика Брюсселя",
-    "fullText": "Премьер-министр Венгрии заявил, что европейским странам \"пора выйти из тупика\", в который их завела политика Брюсселя",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Матвиенко: Запад потворствует украинскому национал-радикализму",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250129/8033715.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25677517",
-    "time": "2025-11-20T08:08:17.000Z"
+    "url": "https://tass.ru/politika/25677907",
+    "time": "2025-11-20T08:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сербия, Грузия и Чили уже точно мимо ЧМ-2026. А кто еще?",
+    "description": "Изучаем.",
+    "fullText": "Изучаем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/be/8f0028da04a348ded0a25b120e199.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365019.html",
+    "time": "2025-11-19T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-19T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В НХЛ приходит время щеглов: у Бедарда и Селебрини по хет-трику",
-    "description": "Больше очков только у Маккиннона.",
-    "fullText": "Больше очков только у Маккиннона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/2e/f10b5923a4c1c9e6c425b1424fa02.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3364967.html",
-    "time": "2025-11-19T21:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Remedy перенесла релиз следующего крупного обновления для FBC: Firebreak на январь",
-    "description": "И поделилась подробностями о новом режиме.",
-    "fullText": "И поделилась подробностями о новом режиме.",
-    "image": "https://leonardo.osnova.io/7e0745ec-100e-5118-a534-b8ce65caa3c6/",
+    "title": "В раннем доступе вышел Moonlighter 2: The Endless Vault — фэнтезийный «роглайк» о владельце лавки",
+    "description": "Игра стоит 1037 рублей с учётом скидки, но также доступна в Game Pass.",
+    "fullText": "Игра стоит 1037 рублей с учётом скидки, но также доступна в Game Pass.",
+    "image": "https://leonardo.osnova.io/6581f5e9-16ea-5285-9562-eeb4af60862e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4397071-obnovlenie-rogue-protocol-dlya-fbc-firebreak-pereneseno-na-yanvar?from=rss",
-    "time": "2025-11-19T14:40:10.000Z"
+    "url": "https://dtf.ru/games/4397188-moonlighter-2-the-endless-vault?from=rss",
+    "time": "2025-11-19T15:20:27.000Z"
   }
 ]
