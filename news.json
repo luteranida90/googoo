@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве за патриотическое воспитание наградили лучшие школы и кадетские классы",
-    "description": "Среди учебных заведений лучшим в сфере патриотического воспитания стал образовательный комплекс \"Воробьевы горы\"",
-    "fullText": "Среди учебных заведений лучшим в сфере патриотического воспитания стал образовательный комплекс \"Воробьевы горы\"",
+    "title": "В Подмосковье запустили крупнейший в РФ центр изучения средств защиты растений",
+    "description": "Инвестиции в проект составляют более 8 млрд рублей",
+    "fullText": "Инвестиции в проект составляют более 8 млрд рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25684543",
-    "time": "2025-11-20T16:02:41.000Z"
+    "url": "https://tass.ru/ekonomika/25684667",
+    "time": "2025-11-20T16:23:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Динамо» – «Сибирь»: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/2d/f71e78d15453c8f0af1f63118b519.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/yCKAkiIGVjpnAkt7Q4IhrG0jrIaKA17LlaJHBhgznLk",
+    "time": "2025-11-20T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Правило бывших – существует? Самое подробное исследование в мире",
-    "description": "Павел Тихонов все посчитал.",
-    "fullText": "Павел Тихонов все посчитал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/59/80dd196314413a363709d635966d6.jpeg",
+    "title": "Смертин пробежал все главные марафоны мира. Почему это заветная мечта многих?",
+    "description": "И в чем прелесть мейджоров.",
+    "fullText": "И в чем прелесть мейджоров.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d3/3ae62481d4ad9a2e9a117459155ce.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365157.html",
-    "time": "2025-11-20T11:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365162.html",
+    "time": "2025-11-20T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В файлах Fortnite нашли систему для изменения формы сужающейся зоны",
-    "description": "Игроков ждут эксперименты.",
-    "fullText": "Игроков ждут эксперименты.",
-    "image": "https://leonardo.osnova.io/87ceff7a-ca2f-5f1a-8b8f-85f9fced65c2/",
+    "title": "Глава Krafton признал, что пытался разобраться в ситуации с авторами Subnautica 2 с помощью ChatGPT",
+    "description": "Говорит, для него это как Google.",
+    "fullText": "Говорит, для него это как Google.",
+    "image": "https://leonardo.osnova.io/73196053-002e-5814-a971-a298115c44a2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4398691-fortnite-novaya-sistema-izmeneniya-formy-zony?from=rss",
-    "time": "2025-11-20T09:13:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4398424-krafton-ispolzuet-chatgpt-dlya-resheniya-spora-s-avtorami-subnautica-2?from=rss",
+    "time": "2025-11-20T06:22:27.000Z"
   }
 ]
