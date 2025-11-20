@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Запорожье произошел взрыв",
-    "description": "В близлежащих районах действует воздушная тревога",
-    "fullText": "В близлежащих районах действует воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В \"Сибири\" рассказали о причинах многоматчевой проигрышной серии в КХЛ",
+    "description": "В четверг новосибирская команда прервала серию из 13 поражений, победив московское \"Динамо\"",
+    "fullText": "В четверг новосибирская команда прервала серию из 13 поражений, победив московское \"Динамо\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251120/8612217.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25686339",
-    "time": "2025-11-20T20:16:17.000Z"
+    "url": "https://tass.ru/sport/25686485",
+    "time": "2025-11-20T20:54:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-11-20T17:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Эти 15 звезд не едут на ЧМ-2026",
+    "description": "Хвича, Осимхен и другие.",
+    "fullText": "Хвича, Осимхен и другие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/cb/24f81640344c7b86bda15114611d1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365039.html",
+    "time": "2025-11-20T17:05:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Динамо» забило за 3 секунды до сирены – и все равно проиграло! Показали на ВидеоСпортсе’’",
     "description": "«Сибирь» прервала серию поражений.",
@@ -31,17 +42,6 @@
     "category": "all",
     "url": "https://video.sports.ru/stream/yCKAkiIGVjpnAkt7Q4IhrG0jrIaKA17LlaJHBhgznLk",
     "time": "2025-11-20T16:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Андрей Мостовой – Джентльмен года. Даже после «##### «Спартак», #####»",
-    "description": "Справедливо?",
-    "fullText": "Справедливо?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f2/d2d29d7464910b9321f43b14058a4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365213.html",
-    "time": "2025-11-20T15:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
