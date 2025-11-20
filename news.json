@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "GigaCode научился автономно писать код от начала до конца",
-    "description": "В пресс-службе Сбербанка отметили, что \"новый режим упрощает процессы разработки и повышает эффективность команд\"",
-    "fullText": "В пресс-службе Сбербанка отметили, что \"новый режим упрощает процессы разработки и повышает эффективность команд\"",
+    "title": "Беглов посетил детский лагерь на Кубе, где будут отдыхать дети из Петербурга",
+    "description": "Лагерь находится на курорте Варадеро",
+    "fullText": "Лагерь находится на курорте Варадеро",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25686559",
-    "time": "2025-11-20T21:07:52.000Z"
+    "url": "https://tass.ru/obschestvo/25686661",
+    "time": "2025-11-20T21:25:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Буллз» спасли безнадежное: отыграли «-4» за 13 секунд",
+    "description": "Травмировали «Портленд».",
+    "fullText": "Травмировали «Портленд».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ba/8394335f74f0cba0399c5d95b789f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3365135.html",
+    "time": "2025-11-20T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/xxwhr4",
     "time": "2025-11-20T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Эти 15 звезд не едут на ЧМ-2026",
-    "description": "Хвича, Осимхен и другие.",
-    "fullText": "Хвича, Осимхен и другие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/cb/24f81640344c7b86bda15114611d1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365039.html",
-    "time": "2025-11-20T17:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
