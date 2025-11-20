@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Аэропорт Вильнюса возобновил работу",
-    "description": "В диспетчерской службе аэропорта сообщили, что в период ограничения работы один следовавший в литовскую столицу самолет был направлен на временную посадку в Ригу, еще один рейс отменили",
-    "fullText": "В диспетчерской службе аэропорта сообщили, что в период ограничения работы один следовавший в литовскую столицу самолет был направлен на временную посадку в Ригу, еще один рейс отменили",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25685961",
-    "time": "2025-11-20T18:59:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
     "description": "Сможете больше?",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как устроена экономика букмекеров и что изменится после новых налогов? Очень коротко",
-    "description": "Изучаем нюансы.",
-    "fullText": "Изучаем нюансы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/59/eb9996d8346d99bc336f014369cd1.jpeg",
+    "title": "Бывший шеф «Ред Булл» рвется обратно в «Ф-1»: подтянул $2 млрд от инвесторов, хочет собственную команду",
+    "description": "Враги соскучились.",
+    "fullText": "Враги соскучились.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/af/332f2bf9a4a9ca3298c9083d1a140.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/industry/blogs/3365145.html",
-    "time": "2025-11-20T14:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3364816.html",
+    "time": "2025-11-20T15:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4401094-reliz-kirby-air-riders-na-switch-2?from=rss",
     "time": "2025-11-20T13:09:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
