@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мэры Еревана и Ростова-на Дону выступили за расширение взаимодействия",
-    "description": "За прошедшие годы между двумя городами реализовано множество совместных проектов в различных областях",
-    "fullText": "За прошедшие годы между двумя городами реализовано множество совместных проектов в различных областях",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/25682729",
-    "time": "2025-11-20T13:37:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В нулевых «Локо» обыгрывал «Реал», а «Спартак» громил «Арсенал»! Выиграйте джерси тех лет в Аркаде",
     "description": "Раньше было ярче...",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Догонит ли Овечкин Гретцки по голам с учетом плей-офф? Онлайн новой погони!",
-    "description": "Все реальнее и реальнее.",
-    "fullText": "Все реальнее и реальнее.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/41/92e830b68412ebaad47186c8bf077.jpeg",
+    "title": "Ноябрь в истории «Локомотива»",
+    "description": "Первая часть.",
+    "fullText": "Первая часть.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/a2/a117e15d24981ad5d50471417650e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3358112.html",
-    "time": "2025-11-20T08:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364804.html",
+    "time": "2025-11-20T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Dispatch вдохновлялись образом Синди Кроуфорд из рекламы Pepsi при создании Малеволы",
-    "description": "А также телосложением девушки-блогера Lean Beef Patty.",
-    "fullText": "А также телосложением девушки-блогера Lean Beef Patty.",
-    "image": "https://leonardo.osnova.io/9cdd93f5-1842-5041-8d26-81fe529672e5/",
+    "title": "В Dispatch сыграло два миллиона человек — на это адвенчуре понадобилось меньше месяца с релиза",
+    "description": "Разработчики, как и игроки, опечалены отсутствием новых эпизодов.",
+    "fullText": "Разработчики, как и игроки, опечалены отсутствием новых эпизодов.",
+    "image": "https://leonardo.osnova.io/9483b933-7f1a-58f0-9ad2-6e609082be15/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4397475-malevola-iz-dispatch-vdohnovlena-sindi-krouford-i-lean-beef-patty?from=rss",
-    "time": "2025-11-19T16:50:23.000Z"
+    "url": "https://dtf.ru/games/4397926-dispatch-dostigla-dvuh-millionov-igrokov?from=rss",
+    "time": "2025-11-19T20:12:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
