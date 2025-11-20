@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Минтранс считает важной задачей максимальную реализацию потенциала речного транспорта",
+    "description": "Министр транспорта Андрей Никитин напомнил, что под руководством вице-премьера Виталия Савельева реализуется проект \"Речные магистрали\"",
+    "fullText": "Министр транспорта Андрей Никитин напомнил, что под руководством вице-премьера Виталия Савельева реализуется проект \"Речные магистрали\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25682601",
+    "time": "2025-11-20T13:18:38.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В нулевых «Локо» обыгрывал «Реал», а «Спартак» громил «Арсенал»! Выиграйте джерси тех лет в Аркаде",
     "description": "Раньше было ярче...",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хочу говорить о тактике РПЛ на понятном языке. Первый пост в блоге Романа Шаронова",
-    "description": "У нас премьера.",
-    "fullText": "У нас премьера.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/13/d8457875f4d4882a05ce77e841510.jpeg",
+    "title": "Кофейни Европы были богемными салонами футбольного мира. Там родился континентальный стиль",
+    "description": "Из-за них Англия отстала.",
+    "fullText": "Из-за них Англия отстала.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/2e/49832c8524a15b453e6d364882c6a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3362418.html",
-    "time": "2025-11-20T07:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357544.html",
+    "time": "2025-11-20T08:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bandai Namco представила ремастер Tales of Berseria",
-    "description": "Переиздание JRPG выйдет 27 февраля 2026 года — со множеством улучшений для удобства геймплея.",
-    "fullText": "Переиздание JRPG выйдет 27 февраля 2026 года — со множеством улучшений для удобства геймплея.",
-    "image": "https://leonardo.osnova.io/e1184ef6-5430-541f-8ebd-acadeddfb19e/",
+    "title": "Говорящая крыса и кровавые бои: геймплей фэнтезийной ролевой игры Fatekeeper",
+    "description": "Авторы сначала выпустят RPG в раннем доступе Steam.",
+    "fullText": "Авторы сначала выпустят RPG в раннем доступе Steam.",
+    "image": "https://leonardo.osnova.io/ec617cc0-593a-5f3e-abd1-2e7db0a62894/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4397432-remaster-tales-of-berseria-bandai-namco?from=rss",
-    "time": "2025-11-19T16:53:36.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4397088-geympley-fatekeeper-krovavye-boi-i-govoryashchaya-krysa?from=rss",
+    "time": "2025-11-19T14:57:07.000Z"
   }
 ]
