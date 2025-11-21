@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В большинстве регионов СЗФО ожидаются осадки в виде снега и дождя",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25688151",
+    "time": "2025-11-21T04:12:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жеребьевка стыков ЧМ-2026: Италия – Северная Ирландия, Украина – Швеция и другие пары",
+    "description": "22 участника, 6 финалистов.",
+    "fullText": "22 участника, 6 финалистов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/cf/033319b1b4714b83da140d4d6066c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365136.html",
+    "time": "2025-11-20T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первым европейцем, выигравшим «Харт Трофи», был россиянин. Помните его имя?",
     "description": "Играл за «Детройт».",
@@ -11,17 +33,6 @@
     "time": "2025-11-20T19:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Торонто» проваливает старт сезона. Но проблема не в потере Марнера",
-    "description": "Исправят ситуацию?",
-    "fullText": "Исправят ситуацию?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/5a/4a80b77614fefb7c61d4e24fc3224.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3365038.html",
-    "time": "2025-11-20T18:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "На Switch 2 состоялся релиз гоночной аркады Kirby Air Riders",
     "description": "Цена игры составила 70 долларов.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4401094-reliz-kirby-air-riders-na-switch-2?from=rss",
     "time": "2025-11-20T13:09:36.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
