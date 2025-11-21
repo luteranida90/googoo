@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Новосибирской области на экс-главу района завели дело о хищении 8 млн рублей",
+    "description": "Преступление выявили оперативные сотрудники управления ФСБ по региону",
+    "fullText": "Преступление выявили оперативные сотрудники управления ФСБ по региону",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25690027",
+    "time": "2025-11-21T08:11:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "А что бы сделали вы на месте Карпина?",
     "description": "Чтобы был доволен даже Мэддисон.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Слуцкий сделал из «Шэньхуа» топа. Огромный контраст: с ним и до него",
-    "description": "Рекорды по победам и голам.",
-    "fullText": "Рекорды по победам и голам.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/70/bc53c430e45eebb98057180bab76a.jpeg",
+    "title": "Эти 15 звезд не едут на ЧМ-2026",
+    "description": "Хвича, Осимхен и другие.",
+    "fullText": "Хвича, Осимхен и другие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/cb/24f81640344c7b86bda15114611d1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364865.html",
-    "time": "2025-11-20T21:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365039.html",
+    "time": "2025-11-20T22:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Третий сезон «Первобытного» от Геннди Тартаковски стартует 11 января 2026 года",
-    "description": "В продолжении главного героя представят в облике зомби.",
-    "fullText": "В продолжении главного героя представят в облике зомби.",
-    "image": "https://leonardo.osnova.io/d183b41a-8e0d-5a9b-ba1d-0ad51f1e649e/",
+    "title": "HBO анонсировала четвёртый сезон «Дома дракона» и продлила на второй «Рыцаря Семи Королевств»",
+    "description": "А также назвала примерную дату старта сериала «Фонари» от DC.",
+    "fullText": "А также назвала примерную дату старта сериала «Фонари» от DC.",
+    "image": "https://leonardo.osnova.io/40b13d49-fd21-5cc0-8ed7-02d180a53345/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4401516-tretiy-sezon-pervobytnyy?from=rss",
-    "time": "2025-11-20T16:22:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4401599-hbo-anonsirovala-chetvyortyy-sezon-doma-drakona-i-vtoryy-rytsarya-semi-korolevstv?from=rss",
+    "time": "2025-11-20T16:42:16.000Z"
   }
 ]
