@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мотострелки группировки \"Юг\" уничтожили пункт управления БПЛА ВСУ",
-    "description": "Местоположение целей выявила воздушная разведка, отметило Минобороны",
-    "fullText": "Местоположение целей выявила воздушная разведка, отметило Минобороны",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25687571",
-    "time": "2025-11-21T02:03:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первым европейцем, выигравшим «Харт Трофи», был россиянин. Помните его имя?",
     "description": "Играл за «Детройт».",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4401094-reliz-kirby-air-riders-na-switch-2?from=rss",
     "time": "2025-11-20T13:09:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
