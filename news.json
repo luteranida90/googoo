@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На Конгрессе молодых ученых представят модель квантовой суперпозиции",
+    "description": "Участники конгресса смогут узнать о спиновом состоянии, квантовой связанности и методах защиты информации",
+    "fullText": "Участники конгресса смогут узнать о спиновом состоянии, квантовой связанности и методах защиты информации",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/25688861",
+    "time": "2025-11-21T06:04:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
     "description": "Узнайте в новом тесте.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жеребьевка стыков ЧМ-2026: Италия – Северная Ирландия, Украина – Швеция и другие пары",
-    "description": "22 участника, 6 финалистов.",
-    "fullText": "22 участника, 6 финалистов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/cf/033319b1b4714b83da140d4d6066c.jpeg",
+    "title": "Фуркад теперь – союзник России. После стольких ссор из-за Сочи и Логинова",
+    "description": "Внезапно.",
+    "fullText": "Внезапно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9d/ba542a7634849b052836776bbf8ac.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365136.html",
-    "time": "2025-11-20T19:30:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3365154.html",
+    "time": "2025-11-20T20:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Switch 2 состоялся релиз гоночной аркады Kirby Air Riders",
-    "description": "Цена игры составила 70 долларов.",
-    "fullText": "Цена игры составила 70 долларов.",
-    "image": "https://leonardo.osnova.io/f41cdcdf-d678-5d5d-ab59-aa86e76de9c6/-/format/mp4/",
+    "title": "«В этот раз будет иначе»: первый трейлер фильма «Голодные игры: Рассвет жатвы»",
+    "description": "Взгляд на главных героев картины.",
+    "fullText": "Взгляд на главных героев картины.",
+    "image": "https://leonardo.osnova.io/4d5ab5ee-f7a3-599b-9983-27bf04a3c9d5/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4401094-reliz-kirby-air-riders-na-switch-2?from=rss",
-    "time": "2025-11-20T13:09:36.000Z"
+    "url": "https://dtf.ru/cinema/4401331-golodnye-igry-rassvet-zhatvy?from=rss",
+    "time": "2025-11-20T14:11:52.000Z"
   }
 ]
