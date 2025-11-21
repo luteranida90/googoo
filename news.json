@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пушилин учредил орден и медаль ордена за заслуги перед ДНР",
-    "description": "Цветовое решение знака ордена символизирует уголь: черное золото Донбасса, горнодобывающую промышленность - черную металлургию, сообщил глава Донецкой Народной Республики",
-    "fullText": "Цветовое решение знака ордена символизирует уголь: черное золото Донбасса, горнодобывающую промышленность - черную металлургию, сообщил глава Донецкой Народной Республики",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8300075.jpg",
+    "title": "В Петербурге Владимир Спиваков представит швейцарского пианиста Лукаса Шиша",
+    "description": "На концерте прозвучат произведения Вольфганга Амадея Моцарта и Йозефа Гайдна",
+    "fullText": "На концерте прозвучат произведения Вольфганга Амадея Моцарта и Йозефа Гайдна",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25697595",
-    "time": "2025-11-21T20:49:45.000Z"
+    "url": "https://tass.ru/kultura/25697675",
+    "time": "2025-11-21T21:04:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Главные тренеры ЧМ-2026 – кто они?",
+    "description": "Отборочный турнир к ЧМ-2026 завершен на всех континентах.",
+    "fullText": "Отборочный турнир к ЧМ-2026 завершен на всех континентах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/0d/bcd8c23a649e98168635524e138ef.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365234.html",
+    "time": "2025-11-21T17:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2025-11-21T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шоковый разрыв: Карри ушел от Under Armour. А ведь в планах был пожизненный контракт!",
-    "description": "Внезапно.",
-    "fullText": "Внезапно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ec/4c2e45cb8433281583c3c079c2b88.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3365182.html",
-    "time": "2025-11-21T17:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Иллюзия обмана 3»: команда иллюзионистов играет в Робин Гудов – 10 лет спустя",
-    "description": "Ахнуть не успеете, как на экране полетят титры!",
-    "fullText": "Ахнуть не успеете, как на экране полетят титры!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/69/e3aa188ea4f699d918643da2b7bc3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3364360.html",
-    "time": "2025-11-21T16:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатели ролевого экшена Zoopunk отвергли обвинения в использовании ИИ при создании игры",
-    "description": "Генеративные технологии применят для контента пользователей.",
-    "fullText": "Генеративные технологии применят для контента пользователей.",
-    "image": "https://leonardo.osnova.io/4231257c-d921-566c-ad96-6dbba8699492/",
+    "title": "Battlefield 6 стала самой продаваемой игрой 2025 года в США уже в релизное окно",
+    "description": "А Ghost of Yotei стартовала с третьей позиции в чарте за октябрь.",
+    "fullText": "А Ghost of Yotei стартовала с третьей позиции в чарте за октябрь.",
+    "image": "https://leonardo.osnova.io/48e382c0-a486-5cfc-9fee-99f6c0db9c0c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4403247-tigames-oprovergli-obvineniya-ii-zoopunk?from=rss",
-    "time": "2025-11-21T12:54:54.000Z"
+    "url": "https://dtf.ru/gameindustry/4403206-battlefield-6-samaya-prodayemaya-igra-2025-goda-v-ssha?from=rss",
+    "time": "2025-11-21T12:21:05.000Z"
   }
 ]
