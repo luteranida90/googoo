@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ продлил нулевой уровень комиссии по операциям с цифровыми рублями",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25694839",
-    "time": "2025-11-21T13:31:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шесть футболистов играли и за «Сити», и за «Юнайтед». 55% пользователей не вспомнили и одного!",
     "description": "А у вас получится?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Нью-Йорк» шокировал отставкой Тома Тибодо. Как у них дела без него?",
-    "description": "Неплохо.",
-    "fullText": "Неплохо.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/3c/8780763f74d61bf0e277dc77860b0.jpeg",
+    "title": "Реакция Плющенко на оценки Костылевой – боль в 5 кадрах",
+    "description": "«Надо через все пройти».",
+    "fullText": "«Надо через все пройти».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/35/e83f8a8434b2da9d8d95b9e1fc0cd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3365088.html",
-    "time": "2025-11-21T10:10:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3365370.html",
+    "time": "2025-11-21T10:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4402588-carmageddon-rogue-shift-novaya-igra-ot-avtorov-redout-v-steam?from=rss",
     "time": "2025-11-21T07:05:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
