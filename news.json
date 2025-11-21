@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Калининграде трех человек осудили за незаконную миграцию",
-    "description": "Им назначено наказание в виде лишения свободы на срок семь лет, четыре года и 2,5 года",
-    "fullText": "Им назначено наказание в виде лишения свободы на срок семь лет, четыре года и 2,5 года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Глава Рособрнадзора назвал условие для отмены ЕГЭ",
+    "description": "Анзор Музаев отметил, что для этого должна появиться достойная альтернатива",
+    "fullText": "Анзор Музаев отметил, что для этого должна появиться достойная альтернатива",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251121/8613767.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25690837",
-    "time": "2025-11-21T09:22:32.000Z"
+    "url": "https://tass.ru/obschestvo/25691021",
+    "time": "2025-11-21T10:10:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первым европейцем, выигравшим «Харт Трофи», был россиянин. Помните его имя?",
+    "description": "Играл за «Детройт».",
+    "fullText": "Играл за «Детройт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-11-21T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-21T06:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "А что бы сделали вы на месте Карпина?",
-    "description": "Чтобы был доволен даже Мэддисон.",
-    "fullText": "Чтобы был доволен даже Мэддисон.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/86/7e3552a2d472fb667905f14ba065c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/2ucipp",
-    "time": "2025-11-21T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Огромный босс и обилие спецэффектов в геймплейном ролике экшена Tides of Annihilation",
-    "description": "Материалы записывали в ПК-версии.",
-    "fullText": "Материалы записывали в ПК-версии.",
-    "image": "https://leonardo.osnova.io/858411a8-3313-5d07-b7dd-c4b5dd51cf50/-/format/mp4/",
+    "title": "«С любовью, Мэри»: трейлер фильма «Возвращение в Сайлент Хилл» — адаптации второй игры в серии",
+    "description": "Прокат хоррора в России начнётся 22 января 2026 года.",
+    "fullText": "Прокат хоррора в России начнётся 22 января 2026 года.",
+    "image": "https://leonardo.osnova.io/e08e1cf3-7426-51d4-b33c-85625af8cb59/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4401893-geympley-tides-of-annihilation-boj-s-bossom-i-speczjeffekty?from=rss",
-    "time": "2025-11-20T18:47:03.000Z"
+    "url": "https://dtf.ru/cinema/4401735-trejler-filma-vozvrashchenie-v-sailent-hill?from=rss",
+    "time": "2025-11-20T17:39:11.000Z"
   }
 ]
