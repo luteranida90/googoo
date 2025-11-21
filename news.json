@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В большинстве регионов СЗФО ожидаются осадки в виде снега и дождя",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
+    "description": "Узнайте в новом тесте.",
+    "fullText": "Узнайте в новом тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/a6/304361836480a9c73d87f48f829b2.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25688151",
-    "time": "2025-11-21T04:12:57.000Z"
+    "url": "https://sirena.world/lno55y",
+    "time": "2025-11-20T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2025-11-20T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Первым европейцем, выигравшим «Харт Трофи», был россиянин. Помните его имя?",
-    "description": "Играл за «Детройт».",
-    "fullText": "Играл за «Детройт».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/b79iva",
-    "time": "2025-11-20T19:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "На Switch 2 состоялся релиз гоночной аркады Kirby Air Riders",
     "description": "Цена игры составила 70 долларов.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4401094-reliz-kirby-air-riders-na-switch-2?from=rss",
     "time": "2025-11-20T13:09:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
