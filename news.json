@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Нальчике в ДТП пострадали несколько человек",
+    "description": "На месте ЧП работают экстренные службы",
+    "fullText": "На месте ЧП работают экстренные службы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25695263",
+    "time": "2025-11-21T14:20:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шесть футболистов играли и за «Сити», и за «Юнайтед». 55% пользователей не вспомнили и одного!",
     "description": "А у вас получится?",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Реакция Плющенко на оценки Костылевой – боль в 5 кадрах",
-    "description": "«Надо через все пройти».",
-    "fullText": "«Надо через все пройти».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/35/e83f8a8434b2da9d8d95b9e1fc0cd.jpeg",
+    "title": "13 шокирующих фактов про Гаити. В таких обстоятельствах их сборная вышла на ЧМ впервые за 52 года",
+    "description": "Жуть.",
+    "fullText": "Жуть.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/f9/4a32b66b748ab808c734dcd8491f6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3365370.html",
-    "time": "2025-11-21T10:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365120.html",
+    "time": "2025-11-21T11:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam появилась страница Carmageddon: Rogue Shift — «боевых гонок» от авторов Redout",
-    "description": "Полноценный анонс состоится 4 декабря.",
-    "fullText": "Полноценный анонс состоится 4 декабря.",
-    "image": "https://leonardo.osnova.io/fbb0694c-9001-5471-936b-c4ba8f63a5f7/",
+    "title": "На Xbox Series X|S вышел ремейк Silent Hill 2",
+    "description": "Спустя чуть более года после релиза на ПК и PS5.",
+    "fullText": "Спустя чуть более года после релиза на ПК и PS5.",
+    "image": "https://leonardo.osnova.io/06aeba75-15ec-58d0-9443-63b7fa8bf5a6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4402588-carmageddon-rogue-shift-novaya-igra-ot-avtorov-redout-v-steam?from=rss",
-    "time": "2025-11-21T07:05:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4401789-remejk-silent-hill-2-na-xbox-series-xs?from=rss",
+    "time": "2025-11-21T06:24:48.000Z"
   }
 ]
