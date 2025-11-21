@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Нальчике в ДТП пострадали несколько человек",
-    "description": "На месте ЧП работают экстренные службы",
-    "fullText": "На месте ЧП работают экстренные службы",
+    "title": "Минэнерго РФ видит консолидацию предприятий угольной отрасли",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25695263",
-    "time": "2025-11-21T14:20:39.000Z"
+    "url": "https://tass.ru/ekonomika/25695659",
+    "time": "2025-11-21T15:01:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Деньги Слуцкого: не знал, куда тратить 80% зарплаты, живет с заблокированными счетами, мерит независимость по люксовым брендам",
+    "description": "Почти половина дохода – из медиа.",
+    "fullText": "Почти половина дохода – из медиа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/d9/f8394606f4041a9e2ffeae60c1e77.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3364081.html",
+    "time": "2025-11-21T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-21T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "13 шокирующих фактов про Гаити. В таких обстоятельствах их сборная вышла на ЧМ впервые за 52 года",
-    "description": "Жуть.",
-    "fullText": "Жуть.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/f9/4a32b66b748ab808c734dcd8491f6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365120.html",
-    "time": "2025-11-21T11:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Xbox Series X|S вышел ремейк Silent Hill 2",
-    "description": "Спустя чуть более года после релиза на ПК и PS5.",
-    "fullText": "Спустя чуть более года после релиза на ПК и PS5.",
-    "image": "https://leonardo.osnova.io/06aeba75-15ec-58d0-9443-63b7fa8bf5a6/",
+    "title": "Отчёт Ubisoft: 10 миллионов игроков в AC Mirage и неанонсированный тайтл в первом квартале 2026 года",
+    "description": "Ремейк Prince of Persia также должен выйти до апреля.",
+    "fullText": "Ремейк Prince of Persia также должен выйти до апреля.",
+    "image": "https://leonardo.osnova.io/72c14439-50cd-58a8-bc1b-8d5f601deb56/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4401789-remejk-silent-hill-2-na-xbox-series-xs?from=rss",
-    "time": "2025-11-21T06:24:48.000Z"
+    "url": "https://dtf.ru/gameindustry/4402964-ubisoft-10-millionov-igrokov-v-ac-mirage?from=rss",
+    "time": "2025-11-21T10:22:11.000Z"
   }
 ]
