@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Британии утвердила план возможной отправки военных на Украину",
+    "description": "Глава Минобороны королевства Джон Хили заявил, что Лондон готов потратить на отправку и размещение своих войск более $130 млн",
+    "fullText": "Глава Минобороны королевства Джон Хили заявил, что Лондон готов потратить на отправку и размещение своих войск более $130 млн",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25694631",
+    "time": "2025-11-21T13:07:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шесть футболистов играли и за «Сити», и за «Юнайтед». 55% пользователей не вспомнили и одного!",
     "description": "А у вас получится?",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Nike выпускал кроссовки для Шумахера, но вместо успеха, как у Джордана, – провал",
-    "description": "«Испанский стыд».",
-    "fullText": "«Испанский стыд».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d1/a6f93b6374ed1a553fb2821158271.jpeg",
+    "title": "Шарапова – медленная, у Синнера нет тактики. Тарпищев выбирает лучших игроков в истории",
+    "description": "Голос босса ФТР.",
+    "fullText": "Голос босса ФТР.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/d5/f99b7d73247b4be8bc805e1f45b95.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3355647.html",
-    "time": "2025-11-21T08:55:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3363934.html",
+    "time": "2025-11-21T09:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Итоги Golden Joystick Awards 2025: триумф Clair Obscur, Silksong — игра года на ПК, а Ghost of Yotei — лучший консольный релиз",
-    "description": "RPG от Sandfall Interactive получила почти все основные награды.",
-    "fullText": "RPG от Sandfall Interactive получила почти все основные награды.",
-    "image": "https://leonardo.osnova.io/ba712b30-6543-5e93-8d06-03310fd7ba54/",
+    "title": "Продажи Street Fighter 6 достигли 6 миллионов копий",
+    "description": "С релиза прошло 2,5 года.",
+    "fullText": "С релиза прошло 2,5 года.",
+    "image": "https://leonardo.osnova.io/37747032-861b-5310-add9-5ec91e05fedf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4401541-itogi-golden-joystick-awards-2025?from=rss",
-    "time": "2025-11-20T19:19:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4402522-prodazhi-street-fighter-6-dostigli-6-millionov-kopiy?from=rss",
+    "time": "2025-11-21T06:06:47.000Z"
   }
 ]
