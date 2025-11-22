@@ -1,25 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Проверено боем. Какие новинки показала Россия на Dubai Airshow 2025",
+    "description": "Главными сенсациями стала премьера улучшенного разведывательно-ударного комплекса \"Ланцет-Э\" и нового скоростного беспилотника-разведчика S180 линейки Supercam, недосягаемого для FPV-дронов",
+    "fullText": "Главными сенсациями стала премьера улучшенного разведывательно-ударного комплекса \"Ланцет-Э\" и нового скоростного беспилотника-разведчика S180 линейки Supercam, недосягаемого для FPV-дронов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251122/8615201.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25697703",
+    "time": "2025-11-22T07:00:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
-    "description": "Только он догоняет.",
-    "fullText": "Только он догоняет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9c3fa2aba4da2a559cc64897c9826.png",
+    "title": "Наверняка вы не собирали пасьянс лет семь. А хоккейный – никогда!",
+    "description": "Пора исправляться!",
+    "fullText": "Пора исправляться!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9b/86d0d063249069116f713c5362828.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/iha53v",
-    "time": "2025-11-21T21:30:00.000Z"
+    "url": "https://sirena.world/k0sbd7",
+    "time": "2025-11-22T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хабиб и Дуров теперь друзья? Готовят проект для телеграма и хотят вместе тренироваться",
-    "description": "Внезапный броманс в ММА.",
-    "fullText": "Внезапный броманс в ММА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f0/3109dae924bbe802aae0a68e59a35.jpeg",
+    "title": "Камбэк имени Дзюбы: вышел – и «Акрон» забил три. Хотя летели 0:2!",
+    "description": "«Сочи» пострадал.",
+    "fullText": "«Сочи» пострадал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/12/91f7826e6407ab9ec9852eab0848c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3365389.html",
-    "time": "2025-11-21T20:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365465.html",
+    "time": "2025-11-22T04:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4403206-battlefield-6-samaya-prodayemaya-igra-2025-goda-v-ssha?from=rss",
     "time": "2025-11-21T12:21:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
