@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Военная операция на Украине. Онлайн",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251123/8616523.jpg",
+    "title": "В \"Спартаке\" назвали смерть Симоняна потерей для всей красно-белой семьи",
+    "description": "Симонян умер в воскресенье на 100-м году жизни",
+    "fullText": "Симонян умер в воскресенье на 100-м году жизни",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251124/8617267.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25703875",
-    "time": "2025-11-23T21:00:01.000Z"
+    "url": "https://tass.ru/sport/25707005",
+    "time": "2025-11-23T21:03:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кулаки вместо рукопожатий: так сборная КНДР встретила Японию на юношеском ЧМ. Разозлили",
+    "description": "Японцы пожаловались в ФИФА.",
+    "fullText": "Японцы пожаловались в ФИФА.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/9d/faaf6d59a402a98d7d580ff3b3c46.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365517.html",
+    "time": "2025-11-23T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,28 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/lno55y",
     "time": "2025-11-23T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Госдума приняла закон о «технологическом сборе». Что это значит?",
-    "description": "Будем платить больше.",
-    "fullText": "Будем платить больше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/42/95ff2e811403a84473f4280f3d700.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/tech/blogs/3363280.html",
-    "time": "2025-11-23T16:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кофейни Европы были богемными салонами футбольного мира. Там родился континентальный стиль",
-    "description": "Из-за них Англия отстала.",
-    "fullText": "Из-за них Англия отстала.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/2e/49832c8524a15b453e6d364882c6a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3357544.html",
-    "time": "2025-11-23T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
