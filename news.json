@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Bloomberg: США отправят более 500 китайских дронов на учения во Флориде",
-    "description": "В следующем месяце их будут использовать для отработки стрельбы из дробовиков во время трехдневных соревнований",
-    "fullText": "В следующем месяце их будут использовать для отработки стрельбы из дробовиков во время трехдневных соревнований",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ВС РФ за сутки освободили три населенных пункта",
+    "description": "Речь идет о пунктах Тихое и Отрадное в Днепропетровской области и Петровское в ДНР",
+    "fullText": "Речь идет о пунктах Тихое и Отрадное в Днепропетровской области и Петровское в ДНР",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251123/8616515.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25703639",
-    "time": "2025-11-23T08:40:19.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25703829",
+    "time": "2025-11-23T09:19:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Арсенал» принимает «Тоттенхэм», а вы можете забрать фрибет до 15 000",
+    "description": "За регистрацию в FONBET.",
+    "fullText": "За регистрацию в FONBET.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/81/fa06da3b140fbaf7203da98530478.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/xvo9gw",
+    "time": "2025-11-23T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-23T04:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Наверняка вы не собирали пасьянс лет семь. А хоккейный – никогда!",
-    "description": "Пора исправляться!",
-    "fullText": "Пора исправляться!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9b/86d0d063249069116f713c5362828.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/k0sbd7",
-    "time": "2025-11-23T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В NexusMods представили свою подборку модов в честь юбилея Fallout 4 — на фоне критики переиздания от Bethesda",
-    "description": "Площадка напомнила, что все они — бесплатные.",
-    "fullText": "Площадка напомнила, что все они — бесплатные.",
-    "image": "https://leonardo.osnova.io/b89d0d40-01ae-5a92-8645-a4f644a62990/",
+    "title": "Krafton представила extraction-шутер PUBG: Black Budget",
+    "description": "Разработчики уже анонсировали закрытое тестирование.",
+    "fullText": "Разработчики уже анонсировали закрытое тестирование.",
+    "image": "https://leonardo.osnova.io/4fcdca15-e1e3-5299-a15d-ad4b17436f74/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4403363-nexusmods-besplatnye-mody-fallout-4-yubiley?from=rss",
-    "time": "2025-11-21T13:23:33.000Z"
+    "url": "https://dtf.ru/games/4402976-krafton-anonsirovala-extraction-shuter-pubg-black-budget?from=rss",
+    "time": "2025-11-21T10:43:04.000Z"
   }
 ]
