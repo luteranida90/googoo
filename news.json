@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В НАТО заявили, что без США не смогут оперативно передавать разведданные Украине",
-    "description": "В Европе есть альтернативы американским поставщикам, такие как финская космическая программа ICEYE, отметил и.о. руководителя инновационной программы НАТО DIANA Джеймс Аппатурай",
-    "fullText": "В Европе есть альтернативы американским поставщикам, такие как финская космическая программа ICEYE, отметил и.о. руководителя инновационной программы НАТО DIANA Джеймс Аппатурай",
+    "title": "Аккаунты Подоляка и Буданова в X зарегистрированы через российский AppStore",
+    "description": "Подключено через Russian Federation, говорится в описании профилей",
+    "fullText": "Подключено через Russian Federation, говорится в описании профилей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25705203",
-    "time": "2025-11-23T14:01:03.000Z"
+    "url": "https://tass.ru/obschestvo/25705345",
+    "time": "2025-11-23T14:29:11.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
+    "description": "Сможете больше?",
+    "fullText": "Сможете больше?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2b/4dab2371b4b3e826c0f8de8d1f841.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2025-11-23T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-23T09:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Интер» vs «Милан» – ставьте на миланское дерби с БЕТСИТИ",
-    "description": "И выиграйте поездку в Дубай.",
-    "fullText": "И выиграйте поездку в Дубай.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/de/2802ba3ad46d39fd8a3cc43db614b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/yhls7e",
-    "time": "2025-11-23T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики Stellar Blade начали поиск сотрудников для разработки продолжения",
-    "description": "Выпуск игры планируется на ПК и консолях.",
-    "fullText": "Выпуск игры планируется на ПК и консолях.",
-    "image": "https://leonardo.osnova.io/0edf9cc9-d696-544a-8138-6fa5ab72b0da/",
+    "title": "Продюсер Resident Evil Requiem подтвердил, что в игре появятся персонажи из предыдущих частей серии",
+    "description": "Но попросил не завышать ожидания.",
+    "fullText": "Но попросил не завышать ожидания.",
+    "image": "https://leonardo.osnova.io/2b94f045-1bc3-5655-9580-f9bc13294feb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4403434-razrabotchiki-stellar-blade-iskut-sotrudnikov?from=rss",
-    "time": "2025-11-21T14:14:49.000Z"
+    "url": "https://dtf.ru/games/4403612-resident-evil-requiem-personazhi-iz-proshlyh-chastej?from=rss",
+    "time": "2025-11-21T15:06:34.000Z"
   }
 ]
