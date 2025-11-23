@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Госдума приняла закон о «технологическом сборе». Что это значит?",
+    "description": "Будем платить больше.",
+    "fullText": "Будем платить больше.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/42/95ff2e811403a84473f4280f3d700.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/tech/blogs/3363280.html",
+    "time": "2025-11-23T16:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Молодец, девочка\". Тарасова - о выступлении Петросян вне конкурса в Омске",
-    "description": "На этапе Гран-при России Петросян представила произвольную программу, с которой ей предстоит выступить на Олимпиаде",
-    "fullText": "На этапе Гран-при России Петросян представила произвольную программу, с которой ей предстоит выступить на Олимпиаде",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251123/8616971.jpg",
+    "title": "В Сербии ждут ответа от США по поводу компании NIS в ближайшие дни",
+    "description": "Министр горнодобывающей промышленности и энергетики Дубравка Джедович-Ханданович подчеркнула, что Белград не несет ответственности за сложившуюся ситуацию, но сербские власти найдут решение вне зависимости от ответа из Вашингтона",
+    "fullText": "Министр горнодобывающей промышленности и энергетики Дубравка Джедович-Ханданович подчеркнула, что Белград не несет ответственности за сложившуюся ситуацию, но сербские власти найдут решение вне зависимости от ответа из Вашингтона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25705601",
-    "time": "2025-11-23T15:35:46.000Z"
+    "url": "https://tass.ru/ekonomika/25705675",
+    "time": "2025-11-23T16:10:03.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто должен тренировать «Динамо»?",
-    "description": "Кандидаты – от Лукомского и Савина.",
-    "fullText": "Кандидаты – от Лукомского и Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/60/01eb51b824d939a6d52489f187f4c.jpeg",
+    "title": "«Скоро узнаем, как работает Fan ID». Фанаты «Спартака» избили болельщика ЦСКА",
+    "description": "Есть и новые видео.",
+    "fullText": "Есть и новые видео.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/6f/3cba777e24ecaba6ee4100ab13ffa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3364824.html",
-    "time": "2025-11-23T11:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365705.html",
+    "time": "2025-11-23T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер Resident Evil Requiem подтвердил, что в игре появятся персонажи из предыдущих частей серии",
-    "description": "Но попросил не завышать ожидания.",
-    "fullText": "Но попросил не завышать ожидания.",
-    "image": "https://leonardo.osnova.io/2b94f045-1bc3-5655-9580-f9bc13294feb/",
+    "title": "Системные требования Nioh 3 — для 1080p/60 fps с апскейлингом нужны i5-10600K и RTX 3060 Ti",
+    "description": "Но поиграть получится и с GeForce GTX 1060.",
+    "fullText": "Но поиграть получится и с GeForce GTX 1060.",
+    "image": "https://leonardo.osnova.io/2daa1542-1da6-59a8-b269-84bd8021cf12/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4403612-resident-evil-requiem-personazhi-iz-proshlyh-chastej?from=rss",
-    "time": "2025-11-21T15:06:34.000Z"
+    "url": "https://dtf.ru/hard/4403557-sistemnye-trebovaniya-nioh-3?from=rss",
+    "time": "2025-11-21T14:37:11.000Z"
   }
 ]
