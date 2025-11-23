@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лукашенко и Путин на прошлой неделе обсуждали сотрудничество в ВПК",
+    "description": "Это был звонок в преддверии мероприятий по линии ОДКБ в Бишкеке, отметил глава администрации белорусского лидера Дмитрий Крутой",
+    "fullText": "Это был звонок в преддверии мероприятий по линии ОДКБ в Бишкеке, отметил глава администрации белорусского лидера Дмитрий Крутой",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251123/8617179.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25706275",
+    "time": "2025-11-23T18:44:07.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Госдума приняла закон о «технологическом сборе». Что это значит?",
     "description": "Будем платить больше.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Иван Сергеев – это наш Альваро Мората",
-    "description": "Андрей Савин – о трудолюбивом и невезучем форварде.",
-    "fullText": "Андрей Савин – о трудолюбивом и невезучем форварде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/a1/cfb7d9bd94d169e115acfe18a0611.jpeg",
+    "title": "Уилсон бьет русских всю карьеру. Сегодня травмировал Кучерова",
+    "description": "От Тома доставалось даже Овечкину.",
+    "fullText": "От Тома доставалось даже Овечкину.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/9d/1a84eeea645f497068eca93d0f66e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365756.html",
-    "time": "2025-11-23T14:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3365758.html",
+    "time": "2025-11-23T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4403557-sistemnye-trebovaniya-nioh-3?from=rss",
     "time": "2025-11-21T14:37:11.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
