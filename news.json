@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропортах Геленджика и Краснодара сняли ограничения",
-    "description": "Самолеты принимают и выпускают",
-    "fullText": "Самолеты принимают и выпускают",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Директор Московского зоопарка: животные впадают в депрессию без внимания посетителей",
+    "description": "Светлана Акулова рассказала ТАСС о международном взаимодействии и адаптации недавно прибывших животных",
+    "fullText": "Светлана Акулова рассказала ТАСС о международном взаимодействии и адаптации недавно прибывших животных",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251120/8612079.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25703191",
-    "time": "2025-11-23T05:17:01.000Z"
+    "url": "https://tass.ru/interviews/25685371",
+    "time": "2025-11-23T06:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Наверняка вы не собирали пасьянс лет семь. А хоккейный – никогда!",
+    "description": "Пора исправляться!",
+    "fullText": "Пора исправляться!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9b/86d0d063249069116f713c5362828.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/k0sbd7",
+    "time": "2025-11-23T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://www.sports.ru/betting/blogs/3365681.html",
     "time": "2025-11-22T21:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
-    "description": "Только он догоняет.",
-    "fullText": "Только он догоняет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9c3fa2aba4da2a559cc64897c9826.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iha53v",
-    "time": "2025-11-22T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
