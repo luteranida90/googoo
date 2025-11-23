@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропортах Геленджика и Краснодара сняли ограничения",
+    "description": "Самолеты принимают и выпускают",
+    "fullText": "Самолеты принимают и выпускают",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25703191",
+    "time": "2025-11-23T05:17:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Слот в топ-3 на отставку в АПЛ. Кто его заменит?",
+    "description": "Фаворит очевиден.",
+    "fullText": "Фаворит очевиден.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/95/8b30388f149659ce2f88800a5ed37.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3365681.html",
+    "time": "2025-11-22T21:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
     "description": "Только он догоняет.",
@@ -11,17 +33,6 @@
     "time": "2025-11-22T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Погба сыграл впервые за два года. 10 минут за «Монако»",
-    "description": "Pogback.",
-    "fullText": "Pogback.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/a2/3670f67c544b8a26eaa7f1cfa8796.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3360857.html",
-    "time": "2025-11-22T20:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Battlefield 6 стала самой продаваемой игрой 2025 года в США уже в релизное окно",
     "description": "А Ghost of Yotei стартовала с третьей позиции в чарте за октябрь.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4403206-battlefield-6-samaya-prodayemaya-igra-2025-goda-v-ssha?from=rss",
     "time": "2025-11-21T12:21:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
