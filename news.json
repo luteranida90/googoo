@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Нововоронеже произошел пожар в магазине одежды",
-    "description": "Пострадавших, по предварительным данным, нет",
-    "fullText": "Пострадавших, по предварительным данным, нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25703465",
-    "time": "2025-11-23T07:24:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наверняка вы не собирали пасьянс лет семь. А хоккейный – никогда!",
     "description": "Пора исправляться!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гол с центра поля в Ла Лиге! Хит партнера Захаряна по «Сосьедаду»",
-    "description": "У Арсена первый старт.",
-    "fullText": "У Арсена первый старт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/65/41b17069a4ae784085650e2b42693.jpeg",
+    "title": "Сколько заработала Соболенко, был без трофея Медведев и выложил постов Циципас? Теннис-2025 в цифрах",
+    "description": "Итожим.",
+    "fullText": "Итожим.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/bf/27b2a3b5c4cc78536c4ddf5fb0409.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365703.html",
-    "time": "2025-11-22T23:27:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3365123.html",
+    "time": "2025-11-23T04:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4403363-nexusmods-besplatnye-mody-fallout-4-yubiley?from=rss",
     "time": "2025-11-21T13:23:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
