@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Филатов: российские шахматистки триумфально вернулись на соревнования",
+    "description": "Они стали победительницами командного чемпионата мира",
+    "fullText": "Они стали победительницами командного чемпионата мира",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251123/8617057.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25705835",
+    "time": "2025-11-23T16:47:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Госдума приняла закон о «технологическом сборе». Что это значит?",
     "description": "Будем платить больше.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/tech/blogs/3363280.html",
     "time": "2025-11-23T16:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сербии ждут ответа от США по поводу компании NIS в ближайшие дни",
-    "description": "Министр горнодобывающей промышленности и энергетики Дубравка Джедович-Ханданович подчеркнула, что Белград не несет ответственности за сложившуюся ситуацию, но сербские власти найдут решение вне зависимости от ответа из Вашингтона",
-    "fullText": "Министр горнодобывающей промышленности и энергетики Дубравка Джедович-Ханданович подчеркнула, что Белград не несет ответственности за сложившуюся ситуацию, но сербские власти найдут решение вне зависимости от ответа из Вашингтона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25705675",
-    "time": "2025-11-23T16:10:03.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Скоро узнаем, как работает Fan ID». Фанаты «Спартака» избили болельщика ЦСКА",
-    "description": "Есть и новые видео.",
-    "fullText": "Есть и новые видео.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/6f/3cba777e24ecaba6ee4100ab13ffa.jpeg",
+    "title": "Оборона «Ростова» против «Крыльев» – цирк!",
+    "description": "Разбираем привозы.",
+    "fullText": "Разбираем привозы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/34/ac74d2e774427af16b9b77fe972ff.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365705.html",
-    "time": "2025-11-23T12:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365790.html",
+    "time": "2025-11-23T13:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
