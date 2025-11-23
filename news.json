@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Над регионами России за ночь сбили 75 украинских БПЛА",
-    "description": "Из них 36 аппаратов уничтожили над акваторией Черного моря",
-    "fullText": "Из них 36 аппаратов уничтожили над акваторией Черного моря",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251123/8616377.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25703091",
-    "time": "2025-11-23T04:43:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
     "description": "Только он догоняет.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4403206-battlefield-6-samaya-prodayemaya-igra-2025-goda-v-ssha?from=rss",
     "time": "2025-11-21T12:21:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
