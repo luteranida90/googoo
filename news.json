@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Bloomberg: США отправят более 500 китайских дронов на учения во Флориде",
+    "description": "В следующем месяце их будут использовать для отработки стрельбы из дробовиков во время трехдневных соревнований",
+    "fullText": "В следующем месяце их будут использовать для отработки стрельбы из дробовиков во время трехдневных соревнований",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25703639",
+    "time": "2025-11-23T08:40:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Ливерпуль» уже 11-й после унизительных 0:3 на «Энфилде». От «Ноттингема» из зоны вылета!",
+    "description": "6 поражений за 7 туров.",
+    "fullText": "6 поражений за 7 туров.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/06/fe7b274864d21bb29decf410c17c8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365633.html",
+    "time": "2025-11-23T04:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наверняка вы не собирали пасьянс лет семь. А хоккейный – никогда!",
     "description": "Пора исправляться!",
@@ -11,17 +33,6 @@
     "time": "2025-11-23T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сколько заработала Соболенко, был без трофея Медведев и выложил постов Циципас? Теннис-2025 в цифрах",
-    "description": "Итожим.",
-    "fullText": "Итожим.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/bf/27b2a3b5c4cc78536c4ddf5fb0409.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3365123.html",
-    "time": "2025-11-23T04:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В NexusMods представили свою подборку модов в честь юбилея Fallout 4 — на фоне критики переиздания от Bethesda",
     "description": "Площадка напомнила, что все они — бесплатные.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4403363-nexusmods-besplatnye-mody-fallout-4-yubiley?from=rss",
     "time": "2025-11-21T13:23:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
