@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Жительницу Омска приговорили к четырем годам за истязание сына",
+    "description": "В частности, за отказ есть тушеную капусту женщина ударила ребенка не менее 20 раз",
+    "fullText": "В частности, за отказ есть тушеную капусту женщина ударила ребенка не менее 20 раз",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25711645",
+    "time": "2025-11-24T11:00:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "99 лет жизни Никиты Симоняна в фото. Ушла эпоха",
+    "description": "Главные события в жизни легенды.",
+    "fullText": "Главные события в жизни легенды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/95/49e5be96b4132a251c0ccd31689d0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365903.html",
+    "time": "2025-11-24T07:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шесть футболистов играли и за «Сити», и за «Юнайтед». 55% пользователей не вспомнили и одного!",
     "description": "А у вас получится?",
@@ -11,36 +33,14 @@
     "time": "2025-11-24T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Нас держат за идиотов». Перес прошелся по «Барсе», Тебасу и УЕФА",
-    "description": "«Делают вид, что выплаты Негрейре ни на что не влияли».",
-    "fullText": "«Делают вид, что выплаты Негрейре ни на что не влияли».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e0/39dd31d644bcd9a7653a052120195.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365771.html",
-    "time": "2025-11-24T06:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джефф Грабб: Intergalactic от Naughty Dog не покажут на The Game Awards 2025",
-    "description": "А Джейсон Шрайер напомнил, что не стоит ждать релиза в 2026 году.",
-    "fullText": "А Джейсон Шрайер напомнил, что не стоит ждать релиза в 2026 году.",
-    "image": "https://leonardo.osnova.io/5982e098-42de-534a-874e-7bdcd6fbe0ed/",
+    "title": "Сиквелу «Злой» не удалось обойти «Minecraft в кино» и показать лучший старт года в прокате США",
+    "description": "Картина собрала 226 миллионов долларов за первые выходные по миру.",
+    "fullText": "Картина собрала 226 миллионов долларов за первые выходные по миру.",
+    "image": "https://leonardo.osnova.io/fd21fefb-332b-5015-b040-b1f179c571fb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4406751-intergalactic-ot-naughty-dog-ne-pokhutat-na-the-game-awards-2025?from=rss",
-    "time": "2025-11-23T08:09:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4407712-sikvel-zlaya-chast-2-sobral-150-millionov-dollarov?from=rss",
+    "time": "2025-11-23T16:22:59.000Z"
   }
 ]
