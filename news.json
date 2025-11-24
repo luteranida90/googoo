@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сочи разыскивают троих подозреваемых в разбойном нападении в Абхазии",
-    "description": "Подозреваемых объявят в международный розыск по каналам Интерпола",
-    "fullText": "Подозреваемых объявят в международный розыск по каналам Интерпола",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25716355",
-    "time": "2025-11-24T20:03:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Малафеев, Акинфеев, Тороп − кто главный по сухим матчам в FONBET Кубке России?",
     "description": "Узнайте в новом тесте.",
@@ -22,25 +11,25 @@
     "time": "2025-11-24T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Доннарумме тяжело в АПЛ, плюшевый «Ливерпуль» и гений контратак Аллегри. Тактика топ-лиг",
-    "description": "И прекрасный соперник «Реала».",
-    "fullText": "И прекрасный соперник «Реала».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/05/f250e89b1491cb86148e83ab7ce44.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365960.html",
-    "time": "2025-11-24T16:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Spotify запустил встроенную функцию переноса плейлистов из других стримингов",
-    "description": "Она работает на базе сервиса TuneMyMusic.",
-    "fullText": "Она работает на базе сервиса TuneMyMusic.",
-    "image": "https://leonardo.osnova.io/688fe1fb-8f51-54b5-bf2e-e9ba0997e99e/",
+    "title": "Капитан Америка, Человек-паук, Логан и все-все-все во вступительном ролике Marvel Cosmic Invasion",
+    "description": "2D-экшен, в котором супергероям предстоит спасти галактику, выйдет на ПК и консолях уже 1 декабря.",
+    "fullText": "2D-экшен, в котором супергероям предстоит спасти галактику, выйдет на ПК и консолях уже 1 декабря.",
+    "image": "https://leonardo.osnova.io/b7d2870e-52f0-5c0c-9dd7-f255c02ca35e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/4409960-spotify-perenos-playlistov-iz-drugikh-servisov?from=rss",
-    "time": "2025-11-24T13:55:35.000Z"
+    "url": "https://dtf.ru/games/4410329-marvel-cosmic-invasion-kapitan-amerika-chelovek-pauk?from=rss",
+    "time": "2025-11-24T16:38:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Он нашел мою квартиру». Туктамышеву преследует сталкер, а защиты нет",
+    "description": "Это длится почти год.",
+    "fullText": "Это длится почти год.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/21/7d498401b41d6894b98e1d8c5c811.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3365983.html",
+    "time": "2025-11-24T16:35:00.000Z"
   }
 ]
