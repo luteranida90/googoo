@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Шереметьево ввели временные ограничения",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251124/8618867.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25711173",
-    "time": "2025-11-24T10:06:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шесть футболистов играли и за «Сити», и за «Юнайтед». 55% пользователей не вспомнили и одного!",
     "description": "А у вас получится?",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Умер Никита Симонян. На 100-м году жизни",
-    "description": "Суперлегенда.",
-    "fullText": "Суперлегенда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/72/cf59e97f6494fbab7ccd60219267a.jpeg",
+    "title": "«Нас держат за идиотов». Перес прошелся по «Барсе», Тебасу и УЕФА",
+    "description": "«Делают вид, что выплаты Негрейре ни на что не влияли».",
+    "fullText": "«Делают вид, что выплаты Негрейре ни на что не влияли».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e0/39dd31d644bcd9a7653a052120195.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365895.html",
-    "time": "2025-11-24T06:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3365771.html",
+    "time": "2025-11-24T06:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: PlayStation продала в Steam более 40 миллионов копий своих игр — прибыль составила 1,2 миллиарда долларов",
-    "description": "Helldivers 2, Horizon Zero Dawn, God of War, Days Gone и Marvel's Spider-Man стали самыми успешными релизами Sony в магазине Valve.",
-    "fullText": "Helldivers 2, Horizon Zero Dawn, God of War, Days Gone и Marvel's Spider-Man стали самыми успешными релизами Sony в магазине Valve.",
-    "image": "https://leonardo.osnova.io/e9b16c23-7a3a-52fb-85a5-6d533c491824/",
+    "title": "Джефф Грабб: Intergalactic от Naughty Dog не покажут на The Game Awards 2025",
+    "description": "А Джейсон Шрайер напомнил, что не стоит ждать релиза в 2026 году.",
+    "fullText": "А Джейсон Шрайер напомнил, что не стоит ждать релиза в 2026 году.",
+    "image": "https://leonardo.osnova.io/5982e098-42de-534a-874e-7bdcd6fbe0ed/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4403868-playstation-studios-prodala-43-milliona-igr-v-steam?from=rss",
-    "time": "2025-11-21T17:41:28.000Z"
+    "url": "https://dtf.ru/games/4406751-intergalactic-ot-naughty-dog-ne-pokhutat-na-the-game-awards-2025?from=rss",
+    "time": "2025-11-23T08:09:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
