@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: шлейф пепла от эфиопского вулкана Хайли-Губби достиг Омана",
-    "description": "Авиационные власти Омана призвали экипажи, находящиеся в указанных секторах воздушного пространства, соблюдать осторожность",
-    "fullText": "Авиационные власти Омана призвали экипажи, находящиеся в указанных секторах воздушного пространства, соблюдать осторожность",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Чемезов: Ростех выполнит гособоронзаказ в срок",
+    "description": "По поставкам самых востребованных образцов вооружения и военной техники компания идет с опережением, сообщил гендиректор госкорпорации",
+    "fullText": "По поставкам самых востребованных образцов вооружения и военной техники компания идет с опережением, сообщил гендиректор госкорпорации",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251124/8619723.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25712127",
-    "time": "2025-11-24T13:18:41.000Z"
+    "url": "https://tass.ru/ekonomika/25713695",
+    "time": "2025-11-24T14:00:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Российский биатлон-2025: спасибо, что живой",
+    "description": "Владимир Иванов побывал на МЛКБ.",
+    "fullText": "Владимир Иванов побывал на МЛКБ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/e3/06ce686ea407589241ded8b4adeac.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/biathlon/blogs/3365909.html",
+    "time": "2025-11-24T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-24T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Аскаров – стена! Он лучший вратарь НХЛ",
-    "description": "Пока только в ноябре, и все же.",
-    "fullText": "Пока только в ноябре, и все же.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/52/4867429c94f388613a0cbb8bfc070.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3365923.html",
-    "time": "2025-11-24T08:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CDPR хочет, чтобы её авторы сфокусировались на основных играх, а не спин-оффах вроде «Кровной вражды»",
-    "description": "Впрочем, это касается только внутренних команд.",
-    "fullText": "Впрочем, это касается только внутренних команд.",
-    "image": "https://leonardo.osnova.io/148b9eb8-60d3-5a17-a2a9-e75065cabdd7/",
+    "title": "«Тодд Говард попросил написать документ о стелсе»: дизайнер Thief II об истоках механики скрытности в играх Bethesda",
+    "description": "Ещё миллион лучников в Skyrim на подходе.",
+    "fullText": "Ещё миллион лучников в Skyrim на подходе.",
+    "image": "https://leonardo.osnova.io/4d346169-2a61-5a09-a3ad-0a403030ee3d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4408964-cd-projekt-red-sosredotochitsya-na-osnovnykh-igrokh?from=rss",
-    "time": "2025-11-24T07:07:02.000Z"
+    "url": "https://dtf.ru/games/4409241-istoriya-stelsa-v-igrah-bethesda?from=rss",
+    "time": "2025-11-24T09:10:37.000Z"
   }
 ]
