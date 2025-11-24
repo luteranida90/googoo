@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Названа возможная причина взрыва в бизнес-центре в Баку",
-    "description": "Он мог произойти из-за утечки газа в результате повреждения газовой магистрали, сообщил владелец здания Абульфат Алиев",
-    "fullText": "Он мог произойти из-за утечки газа в результате повреждения газовой магистрали, сообщил владелец здания Абульфат Алиев",
+    "title": "Объявлен состав сборной России по боксу на чемпионат мира",
+    "description": "Турнир пройдет с 2 по 13 декабря",
+    "fullText": "Турнир пройдет с 2 по 13 декабря",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25710077",
-    "time": "2025-11-24T09:09:40.000Z"
+    "url": "https://tass.ru/sport/25710377",
+    "time": "2025-11-24T09:31:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Шесть футболистов играли и за «Сити», и за «Юнайтед». 55% пользователей не вспомнили и одного!",
+    "description": "А у вас получится?",
+    "fullText": "А у вас получится?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/b0/ec14193aa4987a328be1957297d37.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/pweyv2",
+    "time": "2025-11-24T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-24T05:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В АПЛ 7 клубов из Лондона. Треть пользователей не называет больше трех",
-    "description": "Сможете больше?",
-    "fullText": "Сможете больше?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2b/4dab2371b4b3e826c0f8de8d1f841.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2025-11-24T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовые продажи Call of Duty: Black Ops 7 в Европе оказались на 50% ниже, чем у предыдущей части",
-    "description": "И на 63% слабее, чем у Battlefield 6 — но без учёта подписок.",
-    "fullText": "И на 63% слабее, чем у Battlefield 6 — но без учёта подписок.",
-    "image": "https://leonardo.osnova.io/9690d8f0-b78d-5f8e-a7b1-8b13b8056191/",
+    "title": "СМИ: PlayStation продала в Steam более 40 миллионов копий своих игр — прибыль составила 1,2 миллиарда долларов",
+    "description": "Helldivers 2, Horizon Zero Dawn, God of War, Days Gone и Marvel's Spider-Man стали самыми успешными релизами Sony в магазине Valve.",
+    "fullText": "Helldivers 2, Horizon Zero Dawn, God of War, Days Gone и Marvel's Spider-Man стали самыми успешными релизами Sony в магазине Valve.",
+    "image": "https://leonardo.osnova.io/e9b16c23-7a3a-52fb-85a5-6d533c491824/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4404071-prodazhi-call-of-duty-black-ops-7-v-europe?from=rss",
-    "time": "2025-11-21T18:30:45.000Z"
+    "url": "https://dtf.ru/gameindustry/4403868-playstation-studios-prodala-43-milliona-igr-v-steam?from=rss",
+    "time": "2025-11-21T17:41:28.000Z"
   }
 ]
