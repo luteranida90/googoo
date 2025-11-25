@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Bild: суд в Гамбурге обязал экоактивистов выплатить Lufthansa свыше €400 тыс.",
+    "description": "По данным газеты, в случае невыплаты активистам грозит до двух лет ареста",
+    "fullText": "По данным газеты, в случае невыплаты активистам грозит до двух лет ареста",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25727237",
+    "time": "2025-11-25T15:13:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Авторы Demonschool сделали более подробные финальные титры — они уточнили обязанности разработчиков",
+    "description": "И призвали другие компании поступать так же.",
+    "fullText": "И призвали другие компании поступать так же.",
+    "image": "https://leonardo.osnova.io/21bb2820-da1e-5926-bcdc-b8a9a4aff3cb/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4412217-demonschool-utochnyaet-finalnye-titry-razrabotchikov?from=rss",
+    "time": "2025-11-25T12:43:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из легенд никогда не выигрывал ЛЧ?",
     "description": "Есть ли кубок у Баджо?",
@@ -12,35 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Еще один абсурдный пас-шедевр от Йокича. Смакуем!",
-    "description": "Красота.",
-    "fullText": "Красота.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/3c/f8e725992462eb71fb46faffa9f53.jpeg",
+    "title": "Кто будет рушить доминирование Алькараса и Синнера",
+    "description": "Молодые и совсем молодые.",
+    "fullText": "Молодые и совсем молодые.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/06/135cdce7a4f9a97a3b3d8225fe4a0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3366115.html",
-    "time": "2025-11-25T10:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Shift Up: Stellar Blade — самый продаваемый одиночный эксклюзив PlayStation на ПК",
-    "description": "Онлайн в Steam подтверждает это.",
-    "fullText": "Онлайн в Steam подтверждает это.",
-    "image": "https://leonardo.osnova.io/fc8927c2-b9f2-5d8f-9ac3-ba733419924c/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4411436-stellar-blade-na-pk-samyj-uspeshnyj-eksklyuziv-playstation?from=rss",
-    "time": "2025-11-25T07:07:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3365338.html",
+    "time": "2025-11-25T11:00:00.000Z"
   }
 ]
