@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВС РФ за сутки поразили транспортную и портовую инфраструктуру ВСУ",
-    "description": "",
-    "fullText": "",
+    "title": "ПСБ предоставит свыше 100 млрд рублей на строительство Баимского ГОКа",
+    "description": "Общая стоимость проекта составляет свыше 1 трлн рублей",
+    "fullText": "Общая стоимость проекта составляет свыше 1 трлн рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25722161",
-    "time": "2025-11-25T09:31:28.000Z"
+    "url": "https://tass.ru/ekonomika/25722715",
+    "time": "2025-11-25T10:08:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Кто такой Эзе?» Тренер «Тоттенхэма» шутил перед дерби, а игрок «Арсенала» забил три",
+    "description": "Перед сезоном чуть не зашел в «Тоттенхэм».",
+    "fullText": "Перед сезоном чуть не зашел в «Тоттенхэм».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/6a/254fdec024dbba8287fd91ecd9f44.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3365994.html",
+    "time": "2025-11-25T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-25T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что вы пропустили в 12-м туре АПЛ: Пеп наорал на оператора, Габриэл не играет – и все равно достает Ришарлисона",
-    "description": "«Челси» нарывался на дурацкий пенальти.",
-    "fullText": "«Челси» нарывался на дурацкий пенальти.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/43/61a0a8b034fc1b65f8ee0e43d5ae5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365941.html",
-    "time": "2025-11-25T04:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: дистрибьюторы Apple предупредили ритейлеров в Индии о штрафах за «серый экспорт» iPhone в другие страны",
-    "description": "Меры приняли на фоне «дефицита» устройств на местном рынке и массовом экспорте в «высокодоходные» регионы, в том числе в Россию, пишет издание.",
-    "fullText": "Меры приняли на фоне «дефицита» устройств на местном рынке и массовом экспорте в «высокодоходные» регионы, в том числе в Россию, пишет издание.",
-    "image": "https://leonardo.osnova.io/a5530395-adc5-585d-b912-abb6507d3280/",
+    "title": "Скарлетт Йоханссон исполнит главную роль в «Изгоняющем дьявола» Майка Флэнагана",
+    "description": "Это будет первый полноценный хоррор в карьере актрисы.",
+    "fullText": "Это будет первый полноценный хоррор в карьере актрисы.",
+    "image": "https://leonardo.osnova.io/73d2c782-5cea-52c7-b5cc-a2b0d9a6a995/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4410909-distributory-apple-v-indii-predupredili-o-shtrafakh-za-seryi-eksport-iphone?from=rss",
-    "time": "2025-11-24T20:14:26.000Z"
+    "url": "https://dtf.ru/cinema/4411058-skarlet-johansson-v-izgonyayushchem-dyavola?from=rss",
+    "time": "2025-11-24T22:01:31.000Z"
   }
 ]
