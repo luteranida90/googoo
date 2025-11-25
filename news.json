@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Британии приостановили использование бронемашин Ajax",
-    "description": "В Минобороны королевства заявили, что около 30 военных пожаловались на проблемы со слухом после учебного применения боевых бронированных машин",
-    "fullText": "В Минобороны королевства заявили, что около 30 военных пожаловались на проблемы со слухом после учебного применения боевых бронированных машин",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25728345",
-    "time": "2025-11-25T18:58:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Россиянин – самый молодой чемпион в CS. Все рекорды главного турнира года",
     "description": "Мейджор уже стартовал.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3366020.html",
     "time": "2025-11-25T18:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Цифровой релиз фильма «Трон: Арес» состоится 2 декабря",
+    "description": "Блокбастер с Джаредом Лето провалился в прокате.",
+    "fullText": "Блокбастер с Джаредом Лето провалился в прокате.",
+    "image": "https://leonardo.osnova.io/27f51ed6-63ae-54c5-91ea-d75056d938b6/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4412677-tsifrovoy-reliz-filma-tron-ares-2-dekabrya-ot-disney?from=rss",
+    "time": "2025-11-25T15:53:55.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-11-25T15:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ARC Raiders продолжает лидировать в чарте Steam среди платных продуктов, а Ghost of Tsushima вернулась в топ-10",
-    "description": "Risk of Rain 2 попала в пятёрку на фоне релиза крупного DLC.",
-    "fullText": "Risk of Rain 2 попала в пятёрку на фоне релиза крупного DLC.",
-    "image": "https://leonardo.osnova.io/e69c1086-f224-5e17-aed5-cc565aa7d0dd/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4412664-arc-raiders-i-ghost-of-tsushima-v-tope-prodazh-steam?from=rss",
-    "time": "2025-11-25T15:47:40.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алдонин – упорство: сомневался, что пробьется в футбол, но взял еврокубок и стал капитаном сборной",
-    "description": "Здоровья!",
-    "fullText": "Здоровья!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5a/cb47b366f4bb09033a5c3b6aba2e4.jpeg",
+    "title": "Правила жизни Антонио Конте",
+    "description": "Секреты и принципы тренера «Наполи».",
+    "fullText": "Секреты и принципы тренера «Наполи».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/51/8f815d9e74ff2be6e84332f8a7a5b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3365680.html",
-    "time": "2025-11-25T15:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364244.html",
+    "time": "2025-11-25T15:33:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
