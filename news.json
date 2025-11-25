@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ПСБ предоставит свыше 100 млрд рублей на строительство Баимского ГОКа",
-    "description": "Общая стоимость проекта составляет свыше 1 трлн рублей",
-    "fullText": "Общая стоимость проекта составляет свыше 1 трлн рублей",
+    "title": "В Нижневартовске при пожаре в жилом доме погиб ребенок",
+    "description": "Еще один ребенок находится в больнице",
+    "fullText": "Еще один ребенок находится в больнице",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25722715",
-    "time": "2025-11-25T10:08:37.000Z"
+    "url": "https://tass.ru/proisshestviya/25723151",
+    "time": "2025-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
+    "description": "Их больше сорока!",
+    "fullText": "Их больше сорока!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2025-11-25T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-25T06:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кого мы закрасили на этой фотографии?",
-    "description": "Вопрос из квиза про ЛЧ.",
-    "fullText": "Вопрос из квиза про ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/94/e1ad42fc24ef389630708b0cd24c9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/z69vfk",
-    "time": "2025-11-25T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Скарлетт Йоханссон исполнит главную роль в «Изгоняющем дьявола» Майка Флэнагана",
-    "description": "Это будет первый полноценный хоррор в карьере актрисы.",
-    "fullText": "Это будет первый полноценный хоррор в карьере актрисы.",
-    "image": "https://leonardo.osnova.io/73d2c782-5cea-52c7-b5cc-a2b0d9a6a995/",
+    "title": "Эмма Стоун согласилась побрить голову наголо для «Бугонии» при условии, что то же самое сделает режиссёр Йоргос Лантимос",
+    "description": "Актриса пошутила, что в фильме ей состригали волосы «более волнительно и драматично».",
+    "fullText": "Актриса пошутила, что в фильме ей состригали волосы «более волнительно и драматично».",
+    "image": "https://leonardo.osnova.io/8b347045-f22d-5d9e-9190-cf484b3a3623/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4411058-skarlet-johansson-v-izgonyayushchem-dyavola?from=rss",
-    "time": "2025-11-24T22:01:31.000Z"
+    "url": "https://dtf.ru/cinema/4410705-emma-stoun-pobrela-golovu-dlya-bugonii?from=rss",
+    "time": "2025-11-24T19:33:58.000Z"
   }
 ]
