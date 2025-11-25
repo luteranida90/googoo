@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Россиянин – самый молодой чемпион в CS. Все рекорды главного турнира года",
+    "description": "Мейджор уже стартовал.",
+    "fullText": "Мейджор уже стартовал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/0e/a9ffb244e4cc8ac9419cf58e67b52.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3366020.html",
+    "time": "2025-11-25T18:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Куба поблагодарила Россию за помощь пострадавшим от урагана \"Мелисса\" регионам",
-    "description": "Вице-премьер РФ Дмитрий Чернышенко отметил, что страна переживала за республику и ее соседей",
-    "fullText": "Вице-премьер РФ Дмитрий Чернышенко отметил, что страна переживала за республику и ее соседей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин разрешил \"Евраз КГОК\" приобрести у EVRAZ plc 93% акций \"Распадской\"",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8011617.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25727859",
-    "time": "2025-11-25T17:15:26.000Z"
+    "url": "https://tass.ru/ekonomika/25728233",
+    "time": "2025-11-25T18:14:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -22,6 +33,17 @@
     "time": "2025-11-25T15:19:41.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему «Реал» отторгает Хаби Алонсо?",
+    "description": "Юра Ла Саета – о проблемах тренера.",
+    "fullText": "Юра Ла Саета – о проблемах тренера.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/7b/ad655c9fd44f2816539ed0470ab91.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3366071.html",
+    "time": "2025-11-25T14:05:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Анчелотти брал ЛЧ не только с «Реалом». Вспомните, с кем еще?",
     "description": "В нашем тесте.",
@@ -31,16 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/nbqq0t",
     "time": "2025-11-25T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему игроков «Далласа» так распирает? Просто в Техасе все больше",
-    "description": "Десять фирменных блюд.",
-    "fullText": "Десять фирменных блюд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/da/62033a9ad43cda18862b733157d7d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3365944.html",
-    "time": "2025-11-25T12:50:00.000Z"
   }
 ]
