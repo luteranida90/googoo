@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Роналду подарил часы партнерам по сборной Португалии за победу в Лиге наций",
+    "description": "Специальные часы изготовил бренд Jacob & Co",
+    "fullText": "Специальные часы изготовил бренд Jacob & Co",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25739669",
+    "time": "2025-11-26T15:25:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Арсенал» – «Бавария»: кто забьет в топ-матче нового тура ЛЧ?",
     "description": "Выберите пять лучших игроков второго игрового дня.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чем мы заняты в тени. 5 незаметных героев лучших команд НБА",
-    "description": "Помогают звездам сиять.",
-    "fullText": "Помогают звездам сиять.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/33/063e159d646b1bbb2cd32f18d3749.jpeg",
+    "title": "Роналду не дождались в Таджикистане. Криш игнорит азиатскую ЛЧ",
+    "description": "Потому что это аналог ЛЕ.",
+    "fullText": "Потому что это аналог ЛЕ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/cf/0dc4ddcde40de96c9bf4deb7b6fca.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3365686.html",
-    "time": "2025-11-26T11:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366362.html",
+    "time": "2025-11-26T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики «песочницы» Hytale в духе Minecraft показали 27 минут геймплея в творческом режиме",
-    "description": "В ролике представлены доступные для создания миров инструменты.",
-    "fullText": "В ролике представлены доступные для создания миров инструменты.",
-    "image": "https://leonardo.osnova.io/2862054d-b760-52e6-bafe-fc22848b0a2d/-/format/mp4/",
+    "title": "Apple отменила выход сериала «Охота» из-за подозрений на плагиат",
+    "description": "Шоу должно было стартовать уже 3 декабря.",
+    "fullText": "Шоу должно было стартовать уже 3 декабря.",
+    "image": "https://leonardo.osnova.io/2e897e16-0e89-517b-8da0-77690dab35ae/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4414133-hytale-gejmplej-27-minut-vozmozhnostej-tvorcheskogo-rezhima?from=rss",
-    "time": "2025-11-26T09:14:15.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4414255-apple-otmenila-serial-ohota-iz-za-podozreniy-v-plagiate?from=rss",
+    "time": "2025-11-26T10:02:08.000Z"
   }
 ]
