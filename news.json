@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Мир квартир\": новостройки в ноябре подорожали почти в 50 городах России",
+    "description": "По данным портала, средняя стоимость за кв. м поднялась до 154,2 тыс. рублей",
+    "fullText": "По данным портала, средняя стоимость за кв. м поднялась до 154,2 тыс. рублей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25730251",
+    "time": "2025-11-26T03:23:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Главные провалы тренеров в топ-клубах. Рейтинг и споры – на ВидеоСпортсе’‘",
     "description": "Кто худший?",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4412191-dzheyms-kameron-o-pokupke-warner-bros-discovery-netflix?from=rss",
     "time": "2025-11-25T12:57:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
