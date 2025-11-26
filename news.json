@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Шоу для премии \"Итоги года Яндекс музыки\" пройдет в ММДМ",
-    "description": "Режиссером события выступит Юрий Квятковский",
-    "fullText": "Режиссером события выступит Юрий Квятковский",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/25735987",
-    "time": "2025-11-26T11:07:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Арсенал» за 2.20 – фаворит пары с «Баварией». Ставьте на ЛЧ с БЕТСИТИ",
     "description": "И выиграйте поездку в Дубай.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто громил «Барсу» в ЛЧ до «Челси»: все 20 случаев",
-    "description": "Повод вспомнить ужас.",
-    "fullText": "Повод вспомнить ужас.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/64/0060001054bfb9f1919680331b589.jpeg",
+    "title": "«Челси» по делу разбил «Барсу»: Мареска – гуру подготовки к топам. Разбор Лукомского и Палагина",
+    "description": "Кукурелья – восторг.",
+    "fullText": "Кукурелья – восторг.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/01/5d5a4662441d0850c56f9f08e8120.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3366335.html",
-    "time": "2025-11-26T07:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366338.html",
+    "time": "2025-11-26T08:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4412875-igry-rostelekom-ne-vidyat-konkurentsii-s-vk-play?from=rss",
     "time": "2025-11-25T18:33:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
