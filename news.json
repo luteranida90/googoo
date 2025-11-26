@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Энергодаре Центр детского творчества приостановил работу после атаки ВСУ",
-    "description": "Беспилотник ударил по зданию, где находились дети",
-    "fullText": "Беспилотник ударил по зданию, где находились дети",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25741159",
-    "time": "2025-11-26T18:46:16.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Ставьте на дуэль «ПСЖ» и «Тоттенхэма» – заберите бонус",
     "description": "7777 рублей от Лиги Ставок.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Не поверите: «Анахайм» – самая зрелищная команда НХЛ! Лучшие в дивизионе и уже в топ-3 Запада",
-    "description": "Как произошло такое преображение?",
-    "fullText": "Как произошло такое преображение?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ad/9380eed7e49b9aaf53aaeffa7b8fc.jpeg",
+    "title": "Разговор с нашим биатлонистом-корейцем: подставили с Олимпиадой, потерял друга из-за бизнеса",
+    "description": "Лапшин не заканчивает в 37.",
+    "fullText": "Лапшин не заканчивает в 37.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/c6c1addbd43f5a1c19bab2d6db347.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3366349.html",
-    "time": "2025-11-26T15:05:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3365974.html",
+    "time": "2025-11-26T15:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Очень странные дела» установили рекорд Netflix — сразу четыре сезона вошли в еженедельный чарт по просмотрам",
-    "description": "Авторы шоу также назвали четыре серии, которые стоит пересмотреть перед выходом новых эпизодов.",
-    "fullText": "Авторы шоу также назвали четыре серии, которые стоит пересмотреть перед выходом новых эпизодов.",
-    "image": "https://leonardo.osnova.io/d253c95f-6fdb-5b90-9bb9-a954779e300a/",
+    "title": "Embracer объявила о продаже издателя Remnant и студии авторов Neverwinter за 30 миллионов долларов",
+    "description": "При этом холдинг сохранит права на IP.",
+    "fullText": "При этом холдинг сохранит права на IP.",
+    "image": "https://leonardo.osnova.io/1003f733-772e-5da4-92e0-67e49c0585a4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4414768-ochen-strannye-dela-vse-chetyre-sezona-v-chart-netflix?from=rss",
-    "time": "2025-11-26T11:49:41.000Z"
+    "url": "https://dtf.ru/gameindustry/4415147-embracer-prodala-izdatelja-arc-games-i-cryptic-studios?from=rss",
+    "time": "2025-11-26T14:20:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
