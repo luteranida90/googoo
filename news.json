@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Омской области урожайность зерновых культур выросла более чем на 15%",
+    "description": "Глава региона Виталий Хоценко отметил, что, хотя уборочная кампания еще не завершена, уже собрано 4 млн 70 тыс. тонн зерна, что почти на 50 тыс. тонн больше показателя 2024 года",
+    "fullText": "Глава региона Виталий Хоценко отметил, что, хотя уборочная кампания еще не завершена, уже собрано 4 млн 70 тыс. тонн зерна, что почти на 50 тыс. тонн больше показателя 2024 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25741089",
+    "time": "2025-11-26T18:15:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Ставьте на дуэль «ПСЖ» и «Тоттенхэма» – заберите бонус",
     "description": "7777 рублей от Лиги Ставок.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Разговор с нашим биатлонистом-корейцем: подставили с Олимпиадой, потерял друга из-за бизнеса",
-    "description": "Лапшин не заканчивает в 37.",
-    "fullText": "Лапшин не заканчивает в 37.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/c6c1addbd43f5a1c19bab2d6db347.jpeg",
+    "title": "Ткачев расцвел в «Металлурге». Партнеры кайфуют от его передач, а Разин прощает ошибки",
+    "description": "✨ ✨ ✨",
+    "fullText": "✨ ✨ ✨",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/97/ed6893813489499653da8f0a960f4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/biathlon/blogs/3365974.html",
-    "time": "2025-11-26T14:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3365564.html",
+    "time": "2025-11-26T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4414768-ochen-strannye-dela-vse-chetyre-sezona-v-chart-netflix?from=rss",
     "time": "2025-11-26T11:49:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
