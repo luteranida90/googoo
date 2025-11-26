@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Матвиенко: около 80% граждан России пользуются электронными госуслугами",
-    "description": "Председатель Совета Федерации заявила, что таким образом \"ушли очереди в контору\"",
-    "fullText": "Председатель Совета Федерации заявила, что таким образом \"ушли очереди в контору\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250129/8033707.jpg",
+    "title": "СФ одобрил обнуление акциза на этиловый спирт при выпуске бензина АИ-92",
+    "description": "Доказано, что этиловый спирт - это хороший компонент, который повышает октановое число, заявил статс-секретарь - замминистра финансов РФ Алексей Сазанов",
+    "fullText": "Доказано, что этиловый спирт - это хороший компонент, который повышает октановое число, заявил статс-секретарь - замминистра финансов РФ Алексей Сазанов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25735087",
-    "time": "2025-11-26T10:08:11.000Z"
+    "url": "https://tass.ru/ekonomika/25735569",
+    "time": "2025-11-26T10:37:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кто громил «Барсу» в ЛЧ до «Челси»: все 20 случаев",
+    "description": "Повод вспомнить ужас.",
+    "fullText": "Повод вспомнить ужас.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/64/0060001054bfb9f1919680331b589.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3366335.html",
+    "time": "2025-11-26T07:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-26T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Если выживу – все время буду в движении». Он бегает полумарафоны после пересадки печени",
-    "description": "Поменял жизнь.",
-    "fullText": "Поменял жизнь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/38/592a482de4130839f4a1377c76037.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3366055.html",
-    "time": "2025-11-26T06:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я вернулся, детки»: первый проморолик перезапуска «Клиники»",
-    "description": "С главными лицами сериала.",
-    "fullText": "С главными лицами сериала.",
-    "image": "https://leonardo.osnova.io/186ab357-ec18-5cbe-a840-c8a39e2fa6d2/-/format/mp4/",
+    "title": "СМИ: «Час пик 4» запустили в работу — фильм поставит Бретт Ратнер, режиссёр предыдущих частей",
+    "description": "Джеки Чан и Крис Такер должны вернуться к своим ролям.",
+    "fullText": "Джеки Чан и Крис Такер должны вернуться к своим ролям.",
+    "image": "https://leonardo.osnova.io/ec05c82d-fdae-5192-bb6a-4c7da4cac71e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4412816-perezapusk-kliniki-pervyj-promorolik?from=rss",
-    "time": "2025-11-25T16:30:31.000Z"
+    "url": "https://dtf.ru/cinema/4413137-chas-pik-4-brett-ratner?from=rss",
+    "time": "2025-11-25T20:14:04.000Z"
   }
 ]
