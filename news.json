@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Роналду подарил часы партнерам по сборной Португалии за победу в Лиге наций",
-    "description": "Специальные часы изготовил бренд Jacob & Co",
-    "fullText": "Специальные часы изготовил бренд Jacob & Co",
+    "title": "Доля убыточных организаций в РФ за январь - сентябрь выросла до 29,3%",
+    "description": "Доля прибыльных организаций, соответственно, составила 70,7%",
+    "fullText": "Доля прибыльных организаций, соответственно, составила 70,7%",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25739669",
-    "time": "2025-11-26T15:25:15.000Z"
+    "url": "https://tass.ru/ekonomika/25740127",
+    "time": "2025-11-26T16:03:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-11-26T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Не опубликованное ранее интервью Симоняна: о претензии Пеле, зарубе с Нетто и кенгуру в Мельбурне",
+    "description": "Эксклюзивный архив Чернявского.",
+    "fullText": "Эксклюзивный архив Чернявского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/8b/8da54a1bb40429b8df8f1a98d354d.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3366063.html",
+    "time": "2025-11-26T12:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Поболтали с Anacondaz: обожают «Ведьмака», болеют за Spirit, ездили за пловом на Tesla",
     "description": "Фил Попов записался с рэперами.",
@@ -33,25 +44,14 @@
     "time": "2025-11-26T12:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Роналду не дождались в Таджикистане. Криш игнорит азиатскую ЛЧ",
-    "description": "Потому что это аналог ЛЕ.",
-    "fullText": "Потому что это аналог ЛЕ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/cf/0dc4ddcde40de96c9bf4deb7b6fca.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366362.html",
-    "time": "2025-11-26T11:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Apple отменила выход сериала «Охота» из-за подозрений на плагиат",
-    "description": "Шоу должно было стартовать уже 3 декабря.",
-    "fullText": "Шоу должно было стартовать уже 3 декабря.",
-    "image": "https://leonardo.osnova.io/2e897e16-0e89-517b-8da0-77690dab35ae/",
+    "title": "Геймдиректор The Blood of Dawnwalker: «ИИ не сможет дать вам что-то вроде Dispatch»",
+    "description": "Руководитель не против технологии в целом, но считает, что люди пытаются использовать её не в тех целях.",
+    "fullText": "Руководитель не против технологии в целом, но считает, что люди пытаются использовать её не в тех целях.",
+    "image": "https://leonardo.osnova.io/d9aeba8a-f405-52fe-ae8d-ab4adc8570e0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4414255-apple-otmenila-serial-ohota-iz-za-podozreniy-v-plagiate?from=rss",
-    "time": "2025-11-26T10:02:08.000Z"
+    "url": "https://dtf.ru/gameindustry/4413875-geimdirektor-the-blood-of-dawnwalker-o-roli-ii-v-igrah?from=rss",
+    "time": "2025-11-26T06:57:33.000Z"
   }
 ]
