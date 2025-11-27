@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "У кометы 3I/ATLAS сохраняется редкий пылевой антихвост",
-    "description": "Вероятно, он является постоянным признаком небесного тела, сообщили в лаборатории солнечной астрономии ИКИ РАН и ИСЗФ СО РАН",
-    "fullText": "Вероятно, он является постоянным признаком небесного тела, сообщили в лаборатории солнечной астрономии ИКИ РАН и ИСЗФ СО РАН",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В Мордовии ветераны СВО с медалями получили право на бесплатный участок земли",
+    "description": "Депутаты внесли изменения в отдельные законы республики в сфере земельных отношений",
+    "fullText": "Депутаты внесли изменения в отдельные законы республики в сфере земельных отношений",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251127/8631177.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/25754981",
-    "time": "2025-11-27T19:02:41.000Z"
+    "url": "https://tass.ru/obschestvo/25755107",
+    "time": "2025-11-27T19:34:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-11-27T19:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Единственный иностранный тренер, бравший FONBET Кубок России дважды. Кто это?",
+    "description": "Узнайте в Кубке огня.",
+    "fullText": "Узнайте в Кубке огня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/8b/4fb658f684a92bab0edcdfd4fca87.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/lno55y",
+    "time": "2025-11-27T17:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Спартак» выиграл у «Автомобилиста» – Ружичка с дублем. Показывали на ВидеоСпортсе’’",
     "description": "Георгиев был в запасе.",
@@ -33,36 +44,25 @@
     "time": "2025-11-27T17:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
-    "description": "Не показывайте это Жозе.",
-    "fullText": "Не показывайте это Жозе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/74/fa1a796f44e528d27c25a098ff157.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2025-11-27T15:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Неопубликованное интервью Симоняна: о претензии Пеле, зарубе с Нетто и кенгуру в Мельбурне",
-    "description": "Эксклюзивный архив Чернявского.",
-    "fullText": "Эксклюзивный архив Чернявского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/8b/8da54a1bb40429b8df8f1a98d354d.png",
+    "title": "Простились с Никитой Симоняном. Футбольного отца проводили на стадионе «Спартака»",
+    "description": "Под Фрэнка Синатру.",
+    "fullText": "Под Фрэнка Синатру.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/db/df6f44b6c4b31a585387517ab1860.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366063.html",
-    "time": "2025-11-27T14:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366608.html",
+    "time": "2025-11-27T15:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шон Мюррей рассказал, что Light No Fire занимается «крошечная» команда на фоне поддержки No Man&#039;s Sky",
-    "description": "Одну из самых желанных игр в Steam придётся подождать.",
-    "fullText": "Одну из самых желанных игр в Steam придётся подождать.",
-    "image": "https://leonardo.osnova.io/f574f807-4f2b-5c43-9d29-43ab0b5d8cbb/",
+    "title": "Ubisoft выступила в защиту микротранзакций в Assassin&#039;s Creed Shadows — они помогают поддерживать игру после релиза",
+    "description": "В том числе добавляя новые сюжетные миссии.",
+    "fullText": "В том числе добавляя новые сюжетные миссии.",
+    "image": "https://leonardo.osnova.io/4248850b-dc30-5674-b6ec-9cb42d1f9281/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4417072-shon-myurrey-o-light-no-fire-i-podderzhke-no-mans-sky-ot-hello-games?from=rss",
-    "time": "2025-11-27T11:07:33.000Z"
+    "url": "https://dtf.ru/games/4416581-ubisoft-zashchishchaet-mikrotransaktsii-assassins-creed-shadows?from=rss",
+    "time": "2025-11-27T07:02:42.000Z"
   }
 ]
