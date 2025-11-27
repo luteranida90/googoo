@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "У кометы 3I/ATLAS сохраняется редкий пылевой антихвост",
+    "description": "Вероятно, он является постоянным признаком небесного тела, сообщили в лаборатории солнечной астрономии ИКИ РАН и ИСЗФ СО РАН",
+    "fullText": "Вероятно, он является постоянным признаком небесного тела, сообщили в лаборатории солнечной астрономии ИКИ РАН и ИСЗФ СО РАН",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kosmos/25754981",
+    "time": "2025-11-27T19:02:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Что не так с «Очень странными делами»: первые впечатления от финального сезона",
     "description": "Векна в форме, а сюжет – нет.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3366699.html",
     "time": "2025-11-27T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Тарасова: российских фигуристов на Олимпиаде должно быть намного больше",
-    "description": "МОК допустил Аделию Петросян и Петра Гуменника до участия в Олимпиаде 2026 года в нейтральном статусе",
-    "fullText": "МОК допустил Аделию Петросян и Петра Гуменника до участия в Олимпиаде 2026 года в нейтральном статусе",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251127/8631107.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25754901",
-    "time": "2025-11-27T18:42:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -45,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "С кем встречается Арина Соболенко",
-    "description": "История любви.",
-    "fullText": "История любви.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/5b/07e1c2736458b97f3d43ca1117b48.jpeg",
+    "title": "Неопубликованное интервью Симоняна: о претензии Пеле, зарубе с Нетто и кенгуру в Мельбурне",
+    "description": "Эксклюзивный архив Чернявского.",
+    "fullText": "Эксклюзивный архив Чернявского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/8b/8da54a1bb40429b8df8f1a98d354d.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3366534.html",
-    "time": "2025-11-27T14:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366063.html",
+    "time": "2025-11-27T14:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
