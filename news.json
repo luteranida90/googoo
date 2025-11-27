@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Депутат Рады Гончаренко: в Верховную раду внесли проект бюджета на 2026 год",
-    "description": "Голосов для его принятия недостаточно, рассказал парламентарий",
-    "fullText": "Голосов для его принятия недостаточно, рассказал парламентарий",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин заявил о возможном обвале фронта ВСУ на запорожском направлении",
+    "description": "На Западе есть те, кто хочет добиться мира как можно быстрее, даже ценой уступок с украинской стороны, отметил президент",
+    "fullText": "На Западе есть те, кто хочет добиться мира как можно быстрее, даже ценой уступок с украинской стороны, отметил президент",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529901.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25753991",
-    "time": "2025-11-27T15:59:12.000Z"
+    "url": "https://tass.ru/politika/25754161",
+    "time": "2025-11-27T16:33:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Спартак» – «Автомобилист»: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/80/0dbf7bcf9484aa70b04aa27382fa2.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/PJ0Y6JFHK5LSqMnXl_016bNV0Iu3MwGNGj55X4U4Rz8",
+    "time": "2025-11-27T16:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Он был в моей власти». Ингрэм привел в экстаз Торонто, повторив бросок Кавая",
+    "description": "«Торонто» – на вершине Востока.",
+    "fullText": "«Торонто» – на вершине Востока.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/7f/6d934145a48dca0f90b7d7eaa6a60.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3366615.html",
+    "time": "2025-11-27T11:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +44,14 @@
     "time": "2025-11-27T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура ЛЧ: мегаматчи Мбаппе и Витиньи, лучший вратарь пропустил 4!",
-    "description": "Впечатляет Гримальдо.",
-    "fullText": "Впечатляет Гримальдо.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/81/c680891b14f4b919c44bc372906ed.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366587.html",
-    "time": "2025-11-27T11:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo выкупает сингапурскую студию Bandai Namco — она помогала разрабатывать Splatoon 3",
-    "description": "Её переименуют в Nintendo Studios Singapore.",
-    "fullText": "Её переименуют в Nintendo Studios Singapore.",
-    "image": "https://leonardo.osnova.io/7d61ff2d-c9f0-5beb-9e02-4d114d206735/",
+    "title": "Аналитики предрекли третьему «Аватару» стартовые сборы до 130 миллионов долларов в США — слабее, чем у предыдущего фильма",
+    "description": "Однако итоговым сборам может помочь длительный прокат.",
+    "fullText": "Однако итоговым сборам может помочь длительный прокат.",
+    "image": "https://leonardo.osnova.io/f838e1d1-0cd6-5bc2-a3cb-f3137e98c1cc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4417006-nintendo-priobretayet-bandai-namco-v-singapure?from=rss",
-    "time": "2025-11-27T10:35:27.000Z"
+    "url": "https://dtf.ru/cinema/4416876-avatar-ogon-i-pepel-startovye-sbory?from=rss",
+    "time": "2025-11-27T09:29:49.000Z"
   }
 ]
