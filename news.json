@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кинопарк \"Москино\" обеспечили энергоснабжением с резервом",
-    "description": "Мощность обеспечит электроснабжением декорации \"Современная Москва\", музей техники В. Задорожного и два открытых павильона военной техники",
-    "fullText": "Мощность обеспечит электроснабжением декорации \"Современная Москва\", музей техники В. Задорожного и два открытых павильона военной техники",
+    "title": "Курс юаня на открытии Московской биржи вырос на 5,3 коп",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25757703",
-    "time": "2025-11-28T06:34:22.000Z"
+    "url": "https://tass.ru/ekonomika/25758021",
+    "time": "2025-11-28T07:02:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Стоял на гвоздях и смывал с себя кровь – день поединка бойца ММА за 15 минут",
+    "description": "История Алексея Шуркевича.",
+    "fullText": "История Алексея Шуркевича.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cd/d8b531c8f4bd7ad7dcfa1fc8031b6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/aca_vlog",
+    "time": "2025-11-27T23:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-11-27T21:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Осторожно, сводит олдскулы! Возвращение фишек с легендами детства",
-    "description": "Те самые Кэпсы.",
-    "fullText": "Те самые Кэпсы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/ef/eec54a34a44168ecf52db483d94d2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/gnkvpp",
-    "time": "2025-11-27T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Статистика голосования игроков на Golden Joystick 2025: «Ведьмак 4» почти отобрал звание самого ожидаемого релиза у GTA VI",
-    "description": "Все победы Clair Obscur: Expedition 33 были уверенными.",
-    "fullText": "Все победы Clair Obscur: Expedition 33 были уверенными.",
-    "image": "https://leonardo.osnova.io/c7afbf30-6620-5b36-8cac-ad0496d8ea28/",
+    "title": "В EGS раздают Universe for Sale — нарративную игру о жителях обветшалой колонии в облаках Юпитера",
+    "description": "Игру можно забрать до 4 декабря, но не в российском регионе.",
+    "fullText": "Игру можно забрать до 4 декабря, но не в российском регионе.",
+    "image": "https://leonardo.osnova.io/de37abc2-69ef-53f9-9add-5fe69701e419/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4416762-statistika-golosovaniya-golden-joystick-2025?from=rss",
-    "time": "2025-11-27T08:32:58.000Z"
+    "url": "https://dtf.ru/games/4421466-razdacha-universe-for-sale-v-egs?from=rss",
+    "time": "2025-11-27T16:06:25.000Z"
   }
 ]
