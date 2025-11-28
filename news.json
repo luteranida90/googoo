@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Спортс’’ + Selectel = новый QA-митап",
+    "description": "5 декабря – в Москве и онлайн.",
+    "fullText": "5 декабря – в Москве и онлайн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/f6/baf5b1aa642d191e5f773a49d1546.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/q64454",
+    "time": "2025-11-28T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Захарова рассказала, почему не пожала руку представителю недружественной страны",
+    "description": "Для собеседника это стало \"холодным душем\", сообщила официальный представитель МИД России",
+    "fullText": "Для собеседника это стало \"холодным душем\", сообщила официальный представитель МИД России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250120/8017909.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25759921",
+    "time": "2025-11-28T09:28:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "У нас вопросы к маме Ире, «Ангелам Плющенко» и федерации",
     "description": "Задает Авдохин.",
@@ -11,17 +33,6 @@
     "time": "2025-11-28T04:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
-    "description": "Не показывайте это Жозе.",
-    "fullText": "Не показывайте это Жозе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/74/fa1a796f44e528d27c25a098ff157.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2025-11-28T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В Steam-версию Rainbow Six Siege добавили достижения — спустя десять лет с релиза",
     "description": "Время пришло.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4419639-dostizheniya-v-rainbow-six-siege-na-steam-spustya-10-let?from=rss",
     "time": "2025-11-27T14:55:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
