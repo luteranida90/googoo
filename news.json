@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Додон: Санду и ее партию ждет такой же конец, как и команду Зеленского",
-    "description": "По словам экс-президента Молдавии, начало конца власти главы республики становится все более очевидным",
-    "fullText": "По словам экс-президента Молдавии, начало конца власти главы республики становится все более очевидным",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25766287",
-    "time": "2025-11-28T19:13:06.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Хотел стать порноактером – теперь тащит в CS и счастлив в отношениях",
     "description": "Играет за фаворитов мейджора.",
@@ -22,36 +11,47 @@
     "time": "2025-11-28T17:24:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первый турнир UFC в 2026-м – смех. Провал Даны Уайта?",
-    "description": "Недовольство Артема Нагорного.",
-    "fullText": "Недовольство Артема Нагорного.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/eb/746b0779f48c78d182ad31f7126b5.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Замес в РПЛ. Кто забьет в новом туре?",
+    "description": "Выберите 5 игроков и выиграйте приз.",
+    "fullText": "Выберите 5 игроков и выиграйте приз.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/c5/d2dcec5664bb6b9f322037663a1de.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3366878.html",
-    "time": "2025-11-28T14:10:00.000Z"
+    "url": "https://sirena.world/cb3gt8",
+    "time": "2025-11-28T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из этих игроков забивал победный гол в финале FONBET Кубка России?",
-    "description": "Узнайте в Кубке огня.",
-    "fullText": "Узнайте в Кубке огня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/44/16d255dfc4c3291974fa085d66841.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Разговор с нашим биатлонистом-корейцем: подставили с Олимпиадой, потерял друга из-за бизнеса",
+    "description": "Лапшин не заканчивает в 37.",
+    "fullText": "Лапшин не заканчивает в 37.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/c6c1addbd43f5a1c19bab2d6db347.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-11-28T14:00:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3365974.html",
+    "time": "2025-11-28T14:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Remedy зарегистрировала торговую марку Control Resonant",
-    "description": "За две недели до The Game Awards.",
-    "fullText": "За две недели до The Game Awards.",
-    "image": "https://leonardo.osnova.io/0c140b73-7695-5186-a6b6-83118463c4f1/",
+    "title": "Участники группы Jane Air исполнили роли Бременских музыкантов в фильме «Король и Шут. Навсегда»",
+    "description": "Группа также записала песню для саундтрека ленты.",
+    "fullText": "Группа также записала песню для саундтрека ленты.",
+    "image": "https://leonardo.osnova.io/a56ef459-c61d-52a0-905a-e7582bdd9ce6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4425867-remedy-zaregistrirovala-torgovuyu-marku-control-resonant?from=rss",
-    "time": "2025-11-28T05:32:58.000Z"
+    "url": "https://dtf.ru/cinema/4426094-jane-air-v-filme-korol-i-shut-navsegda-bremenskie-muzykanty?from=rss",
+    "time": "2025-11-28T08:33:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
