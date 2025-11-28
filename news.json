@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ростовские депутаты приняли бюджет со снижением доходов на 7,4%",
-    "description": "Приоритетом для Ростовской области остаются обеспечение зарплатами и мерами поддержки жителей",
-    "fullText": "Приоритетом для Ростовской области остаются обеспечение зарплатами и мерами поддержки жителей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25759065",
-    "time": "2025-11-28T08:36:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "У нас вопросы к маме Ире, «Ангелам Плющенко» и федерации",
     "description": "Задает Авдохин.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Стоял на гвоздях и смывал с себя кровь – день поединка бойца ММА за 15 минут",
-    "description": "История Алексея Шуркевича.",
-    "fullText": "История Алексея Шуркевича.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cd/d8b531c8f4bd7ad7dcfa1fc8031b6.png",
+    "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
+    "description": "Не показывайте это Жозе.",
+    "fullText": "Не показывайте это Жозе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/74/fa1a796f44e528d27c25a098ff157.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/aca_vlog",
-    "time": "2025-11-27T23:50:00.000Z"
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2025-11-28T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Yakuza 0 снимут с продажи на всех платформах после релиза «режиссёрской версии» в декабре",
-    "description": "Все, кто приобретёт оригинал до этого, сохранят к нему доступ.",
-    "fullText": "Все, кто приобретёт оригинал до этого, сохранят к нему доступ.",
-    "image": "https://leonardo.osnova.io/489a5598-1a25-5bec-8344-84dfb59d995f/",
+    "title": "В Steam-версию Rainbow Six Siege добавили достижения — спустя десять лет с релиза",
+    "description": "Время пришло.",
+    "fullText": "Время пришло.",
+    "image": "https://leonardo.osnova.io/a017640c-be6f-5bbc-bef3-cb658466d677/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4417716-yakuza-0-uberyut-iz-prodazhi?from=rss",
-    "time": "2025-11-27T13:30:27.000Z"
+    "url": "https://dtf.ru/games/4419639-dostizheniya-v-rainbow-six-siege-na-steam-spustya-10-let?from=rss",
+    "time": "2025-11-27T14:55:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
