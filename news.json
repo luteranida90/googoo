@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Житель Ставрополя заподозрили в передаче мошенникам данных 60 паспортов",
-    "description": "Посредством мессенджеров мужчина получал фотографии паспортов граждан РФ и направлял их третьим лицам для оформления и регистрации SIM-карт операторов сотовой связи",
-    "fullText": "Посредством мессенджеров мужчина получал фотографии паспортов граждан РФ и направлял их третьим лицам для оформления и регистрации SIM-карт операторов сотовой связи",
+    "title": "Ростовские депутаты приняли бюджет со снижением доходов на 7,4%",
+    "description": "Приоритетом для Ростовской области остаются обеспечение зарплатами и мерами поддержки жителей",
+    "fullText": "Приоритетом для Ростовской области остаются обеспечение зарплатами и мерами поддержки жителей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25758795",
-    "time": "2025-11-28T08:11:45.000Z"
+    "url": "https://tass.ru/ekonomika/25759065",
+    "time": "2025-11-28T08:36:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У нас вопросы к маме Ире, «Ангелам Плющенко» и федерации",
+    "description": "Задает Авдохин.",
+    "fullText": "Задает Авдохин.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/07/085d6ae7c43319114f0c234f78415.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3366569.html",
+    "time": "2025-11-28T04:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-27T23:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Увольнение Слота из «Ливерпуля» – что слышно? К этому идет?",
-    "description": "Вопросы доверия.",
-    "fullText": "Вопросы доверия.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/62/d9b4c09fb480384e52a8afe04a538.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366742.html",
-    "time": "2025-11-27T23:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS раздают Universe for Sale — нарративную игру о жителях обветшалой колонии в облаках Юпитера",
-    "description": "Игру можно забрать до 4 декабря, но не в российском регионе.",
-    "fullText": "Игру можно забрать до 4 декабря, но не в российском регионе.",
-    "image": "https://leonardo.osnova.io/de37abc2-69ef-53f9-9add-5fe69701e419/-/format/mp4/",
+    "title": "Yakuza 0 снимут с продажи на всех платформах после релиза «режиссёрской версии» в декабре",
+    "description": "Все, кто приобретёт оригинал до этого, сохранят к нему доступ.",
+    "fullText": "Все, кто приобретёт оригинал до этого, сохранят к нему доступ.",
+    "image": "https://leonardo.osnova.io/489a5598-1a25-5bec-8344-84dfb59d995f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4421466-razdacha-universe-for-sale-v-egs?from=rss",
-    "time": "2025-11-27T16:06:25.000Z"
+    "url": "https://dtf.ru/gameindustry/4417716-yakuza-0-uberyut-iz-prodazhi?from=rss",
+    "time": "2025-11-27T13:30:27.000Z"
   }
 ]
