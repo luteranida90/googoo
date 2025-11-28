@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве произошел взрыв",
-    "description": "После этого начался пожар",
-    "fullText": "После этого начался пожар",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Хотел стать порноактером – теперь тащит в CS и счастлив в отношениях",
+    "description": "Играет за фаворитов мейджора.",
+    "fullText": "Играет за фаворитов мейджора.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/58/5ef373aa6460aa8c9725a9488141a.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25765195",
-    "time": "2025-11-28T16:51:08.000Z"
+    "url": "https://cyber.sports.ru/cs/blogs/3366166.html",
+    "time": "2025-11-28T17:24:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бан всей (!) основе на 2 матча – за отказ делать чемпионский коридор. Жесть из Аргентины",
-    "description": "Игнорируют «фэйкового чемпиона».",
-    "fullText": "Игнорируют «фэйкового чемпиона».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/52/0e249f7ce4d478191ae0f8d5a7daa.jpeg",
+    "title": "Что не так с календарем КХЛ?",
+    "description": "📅",
+    "fullText": "📅",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/fa/4ce3a5f2a4d059d655bb7c373ed65.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366846.html",
-    "time": "2025-11-28T12:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3361715.html",
+    "time": "2025-11-28T12:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4426142-clockwork-revolution-vyydet-v-2026-godu?from=rss",
     "time": "2025-11-28T08:49:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
