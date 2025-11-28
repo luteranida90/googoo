@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Тарасова планирует посетить чемпионат России по фигурному катанию",
-    "description": "Турнир пройдет в Санкт-Петербурге с 18 по 21 декабря",
-    "fullText": "Турнир пройдет в Санкт-Петербурге с 18 по 21 декабря",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251128/8631843.jpg",
+    "title": "Кинопарк \"Москино\" обеспечили энергоснабжением с резервом",
+    "description": "Мощность обеспечит электроснабжением декорации \"Современная Москва\", музей техники В. Задорожного и два открытых павильона военной техники",
+    "fullText": "Мощность обеспечит электроснабжением декорации \"Современная Москва\", музей техники В. Задорожного и два открытых павильона военной техники",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25757439",
-    "time": "2025-11-28T06:04:36.000Z"
+    "url": "https://tass.ru/obschestvo/25757703",
+    "time": "2025-11-28T06:34:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему «Ливерпуль» опять развалился? Как Пеп подставил игроков «Сити»? Тактика ЛЧ",
+    "description": "Детали первой победы Жозе.",
+    "fullText": "Детали первой победы Жозе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/71/f1cd926224caa8dafa55662362d04.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3366644.html",
+    "time": "2025-11-27T21:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-11-27T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дети Овечкина вышли на раскатку «Вашингтона» перед матчем. Они уже давно часть команды",
-    "description": "Милота дня.",
-    "fullText": "Милота дня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/72/ad5dd274a442e8bafe00cc1f52332.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3366590.html",
-    "time": "2025-11-27T20:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel Rivals получила апдейт в честь годовщины — в игру добавили режим с боями «18 на 18»",
-    "description": "И на ограниченное время вернули боевой пропуск первого сезона.",
-    "fullText": "И на ограниченное время вернули боевой пропуск первого сезона.",
-    "image": "https://leonardo.osnova.io/917384d7-bb14-5746-bd14-ae34e99294eb/",
+    "title": "Статистика голосования игроков на Golden Joystick 2025: «Ведьмак 4» почти отобрал звание самого ожидаемого релиза у GTA VI",
+    "description": "Все победы Clair Obscur: Expedition 33 были уверенными.",
+    "fullText": "Все победы Clair Obscur: Expedition 33 были уверенными.",
+    "image": "https://leonardo.osnova.io/c7afbf30-6620-5b36-8cac-ad0496d8ea28/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4417133-obnovlenie-marvel-rivals-novyy-rezhim-18-na-18-i-boevoy-propusk?from=rss",
-    "time": "2025-11-27T12:26:13.000Z"
+    "url": "https://dtf.ru/games/4416762-statistika-golosovaniya-golden-joystick-2025?from=rss",
+    "time": "2025-11-27T08:32:58.000Z"
   }
 ]
