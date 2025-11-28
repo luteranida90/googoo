@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Житель Ставрополя заподозрили в передаче мошенникам данных 60 паспортов",
+    "description": "Посредством мессенджеров мужчина получал фотографии паспортов граждан РФ и направлял их третьим лицам для оформления и регистрации SIM-карт операторов сотовой связи",
+    "fullText": "Посредством мессенджеров мужчина получал фотографии паспортов граждан РФ и направлял их третьим лицам для оформления и регистрации SIM-карт операторов сотовой связи",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25758795",
+    "time": "2025-11-28T08:11:45.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Стоял на гвоздях и смывал с себя кровь – день поединка бойца ММА за 15 минут",
     "description": "История Алексея Шуркевича.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему «Ливерпуль» опять развалился? Как Пеп подставил игроков «Сити»? Тактика ЛЧ",
-    "description": "Детали первой победы Жозе.",
-    "fullText": "Детали первой победы Жозе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/71/f1cd926224caa8dafa55662362d04.jpeg",
+    "title": "Увольнение Слота из «Ливерпуля» – что слышно? К этому идет?",
+    "description": "Вопросы доверия.",
+    "fullText": "Вопросы доверия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/62/d9b4c09fb480384e52a8afe04a538.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366644.html",
-    "time": "2025-11-27T21:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366742.html",
+    "time": "2025-11-27T23:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4421466-razdacha-universe-for-sale-v-egs?from=rss",
     "time": "2025-11-27T16:06:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
