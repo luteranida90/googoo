@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Россияне завоевали четыре золотые медали в первый день ЧМ по бодибилдингу",
+    "description": "Российские спортсмены выступают на турнире под флагом и гимном своей страны",
+    "fullText": "Российские спортсмены выступают на турнире под флагом и гимном своей страны",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251128/8635421.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25766641",
+    "time": "2025-11-28T20:08:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Хотел стать порноактером – теперь тащит в CS и счастлив в отношениях",
     "description": "Играет за фаворитов мейджора.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4426094-jane-air-v-filme-korol-i-shut-navsegda-bremenskie-muzykanty?from=rss",
     "time": "2025-11-28T08:33:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
