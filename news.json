@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Призера Олимпийских игр по конькобежному спорту Ютту Лердам сбила машина",
-    "description": "Спортсменка получила ссадины на лице и руке",
-    "fullText": "Спортсменка получила ссадины на лице и руке",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25769941",
-    "time": "2025-11-29T12:57:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Как дела у наших? Онлайн главного турнира в CS",
     "description": "Главное.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Гена Букин сделал хет-трик в финале турнира «Кожаный мяч». Полный разбор",
-    "description": "От блогера Трибуны.",
-    "fullText": "От блогера Трибуны.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/90/f23896a014576a2dc830ee2e98f91.jpeg",
+    "title": "Первый турнир UFC в 2026-м – смех. Провал Даны Уайта?",
+    "description": "Недовольство Артема Нагорного.",
+    "fullText": "Недовольство Артема Нагорного.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/eb/746b0779f48c78d182ad31f7126b5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366402.html",
-    "time": "2025-11-29T10:10:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3366878.html",
+    "time": "2025-11-29T10:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4426665-chetvyortaya-seriya-pyatogo-sezona-ochen-strannykh-del?from=rss",
     "time": "2025-11-28T12:44:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
