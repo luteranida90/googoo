@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Чемпионка мира по скайраннингу покорила башню \"Москва-Сити\" за 11 минут",
+    "description": "Анастасия Рубцова преодолела 1 392 ступени с дополнительной нагрузкой в 10 кг",
+    "fullText": "Анастасия Рубцова преодолела 1 392 ступени с дополнительной нагрузкой в 10 кг",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25770291",
+    "time": "2025-11-29T14:37:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Как дела у наших? Онлайн главного турнира в CS",
     "description": "Главное.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3365273.html",
     "time": "2025-11-29T12:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Челси» – «Арсенал» на вершине АПЛ, «Барса» и «Ливерпуль» после разгромов. Что смотрим в топ-лигах?",
+    "description": "Анонс футбольных выходных.",
+    "fullText": "Анонс футбольных выходных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/f7/206e1bf7f45db92ac9fe3d2ffff73.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3366897.html",
+    "time": "2025-11-29T11:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +44,6 @@
     "time": "2025-11-29T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 матчей, которые помогут понять Гвардиолу",
-    "description": "Версия Палагина и Лукомского.",
-    "fullText": "Версия Палагина и Лукомского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/47/b07f0bb024ca491d34dba3bd23edf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366182.html",
-    "time": "2025-11-29T11:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Четвёртый эпизод пятого сезона «Очень странных дел» получил самую высокую оценку на IMDb среди всех серий шоу",
     "description": "Многих удивила концовка.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4426665-chetvyortaya-seriya-pyatogo-sezona-ochen-strannykh-del?from=rss",
     "time": "2025-11-28T12:44:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
