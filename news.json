@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Цены на квартиры в доме Долиной не выросли с начала дела о мошенничестве",
-    "description": "Состоятельные покупатели ищут новостройки, пояснили риелторы",
-    "fullText": "Состоятельные покупатели ищут новостройки, пояснили риелторы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nedvizhimost/25768245",
-    "time": "2025-11-29T05:52:27.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
     "description": "Их больше сорока!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Помните, как Смолов цитировал Джордана? Вот как мощно влияет на умы реклама неудач",
-    "description": "Сорвали куш за гроши.",
-    "fullText": "Сорвали куш за гроши.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/41/11111da304cc48285a5a4cea6db96.jpeg",
+    "title": "«Милан» – лучшая команда Европы в контратаках (по версии Тюрама). Это правда?",
+    "description": "Проверяем.",
+    "fullText": "Проверяем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/78/91a6d3b9d48179371ee272430fb62.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3366410.html",
-    "time": "2025-11-28T19:31:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366836.html",
+    "time": "2025-11-28T21:19:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4426492-shon-levi-tretyj-akt-zvezdnye-voyny?from=rss",
     "time": "2025-11-28T11:53:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
