@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Китае решили проблему отсутствия осязания у хирургических роботов",
-    "description": "Ученые разработали технологию \"умного шва\", сообщило агентство Xinhua",
-    "fullText": "Ученые разработали технологию \"умного шва\", сообщило агентство Xinhua",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первым европейцем, выигравшим «Харт Трофи», был россиянин. Помните его имя?",
+    "description": "Играл за «Детройт».",
+    "fullText": "Играл за «Детройт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/nauka/25768519",
-    "time": "2025-11-29T07:01:22.000Z"
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-11-29T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2025-11-28T21:52:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
-    "description": "Их больше сорока!",
-    "fullText": "Их больше сорока!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2025-11-28T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Шону Леви пришлось заново продумывать третий акт фильма по «Звёздным войнам» с Райаном Гослингом",
     "description": "Однако новая идея нравится постановщику куда больше изначальной.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4426492-shon-levi-tretyj-akt-zvezdnye-voyny?from=rss",
     "time": "2025-11-28T11:53:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
