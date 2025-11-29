@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Китае решили проблему отсутствия осязания у хирургических роботов",
+    "description": "Ученые разработали технологию \"умного шва\", сообщило агентство Xinhua",
+    "fullText": "Ученые разработали технологию \"умного шва\", сообщило агентство Xinhua",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/25768519",
+    "time": "2025-11-29T07:01:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У «Оклахомы» 18-1. Идут за великим рекордом «Уорриорс»- 2016?",
+    "description": "Готовы ныть?",
+    "fullText": "Готовы ныть?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/95/bfe72c09d42d685f6804641eaaef6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3366868.html",
+    "time": "2025-11-28T21:52:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
     "description": "Их больше сорока!",
@@ -11,17 +33,6 @@
     "time": "2025-11-28T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Милан» – лучшая команда Европы в контратаках (по версии Тюрама). Это правда?",
-    "description": "Проверяем.",
-    "fullText": "Проверяем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/78/91a6d3b9d48179371ee272430fb62.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366836.html",
-    "time": "2025-11-28T21:19:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Шону Леви пришлось заново продумывать третий акт фильма по «Звёздным войнам» с Райаном Гослингом",
     "description": "Однако новая идея нравится постановщику куда больше изначальной.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4426492-shon-levi-tretyj-akt-zvezdnye-voyny?from=rss",
     "time": "2025-11-28T11:53:51.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
