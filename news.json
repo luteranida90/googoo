@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дзюдоисты Адамян и Бифов поборются в финале турнира Большого шлема в Абу-Даби",
-    "description": "Также в финал вышел Тамерлан Башаев",
-    "fullText": "Также в финал вышел Тамерлан Башаев",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251130/8637141.jpg",
+    "title": "Потапова считает, что формат турнира в Петербурге может стать популярным",
+    "description": "Каждый матч состоит из трех сетов по 20 минут",
+    "fullText": "Каждый матч состоит из трех сетов по 20 минут",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25773471",
-    "time": "2025-11-30T10:47:19.000Z"
+    "url": "https://tass.ru/sport/25773579",
+    "time": "2025-11-30T11:11:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Романов навредил «Спартаку» экспериментами. Колонка Чернявского после поражения от «Балтики»",
+    "description": "Провальные и план, и реакция.",
+    "fullText": "Провальные и план, и реакция.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/64/2441171d34449bff1124d7df8cda7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367144.html",
+    "time": "2025-11-30T04:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,16 +31,5 @@
     "category": "all",
     "url": "https://sirena.world/lno55y",
     "time": "2025-11-30T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Балтика» прищемила «Спартак»: победа в меньшинстве! Еще и с красной Талалаева",
-    "description": "Очень эмоционально.",
-    "fullText": "Очень эмоционально.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d8/f9171b1bc4b2bb91c27721387c8d3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367127.html",
-    "time": "2025-11-30T03:47:00.000Z"
   }
 ]
