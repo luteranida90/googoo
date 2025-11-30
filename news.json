@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Дзюдоисты Адамян и Бифов поборются в финале турнира Большого шлема в Абу-Даби",
+    "description": "Также в финал вышел Тамерлан Башаев",
+    "fullText": "Также в финал вышел Тамерлан Башаев",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251130/8637141.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25773471",
+    "time": "2025-11-30T10:47:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих игроков забивал победный гол в финале FONBET Кубка России?",
     "description": "Узнайте в Кубке огня.",
@@ -12,24 +23,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Головина победный ассист с «ПСЖ» – 1-й в году! Сафонов все сидит, но Шевалье злит фанатов",
-    "description": "«Монако» прервал неудачную серию.",
-    "fullText": "«Монако» прервал неудачную серию.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/af/ef7842ee5407082e5eeaa04a252f6.jpeg",
+    "title": "«Балтика» прищемила «Спартак»: победа в меньшинстве! Еще и с красной Талалаева",
+    "description": "Очень эмоционально.",
+    "fullText": "Очень эмоционально.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d8/f9171b1bc4b2bb91c27721387c8d3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367140.html",
-    "time": "2025-11-30T01:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367127.html",
+    "time": "2025-11-30T03:47:00.000Z"
   }
 ]
