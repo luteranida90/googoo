@@ -11,17 +11,6 @@
     "time": "2025-11-30T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Грузии обвинили в попытке совершить теракт оппозиционера Элисашвили",
-    "description": "Алеко Элисашвили пытался поджечь здание городского суда",
-    "fullText": "Алеко Элисашвили пытался поджечь здание городского суда",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25774689",
-    "time": "2025-11-30T15:38:05.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
     "description": "Не показывайте это Жозе.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Cамый крутой пас сезона в НХЛ. Игрок порвал кресты, но сделал ассист",
-    "description": "Характер!",
-    "fullText": "Характер!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/4f/26223b5734a64a9e40ef3a0689515.jpeg",
+    "title": "Пиастри вцепился в последний шанс на титул «Ф-1»: выиграл спринт и поул в Катаре",
+    "description": "Норрис и Ферстаппен позади.",
+    "fullText": "Норрис и Ферстаппен позади.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e4/f38d4d1b84636b5ac90aca9c2f55a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3367243.html",
-    "time": "2025-11-30T12:39:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3367154.html",
+    "time": "2025-11-30T13:13:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
