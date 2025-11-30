@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российские войска поразили место запуска беспилотников ВСУ дальнего действия",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Иранцы впервые приняли участие в акции \"Географический диктант\"",
+    "description": "Мероприятие прошло в очном и дистанционном форматах",
+    "fullText": "Мероприятие прошло в очном и дистанционном форматах",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251130/8637071.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25772983",
-    "time": "2025-11-30T09:22:09.000Z"
+    "url": "https://tass.ru/obschestvo/25773063",
+    "time": "2025-11-30T09:36:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Головина победный ассист с «ПСЖ» – 1-й в году! Сафонов все сидит, но Шевалье злит фанатов",
+    "description": "«Монако» прервал неудачную серию.",
+    "fullText": "«Монако» прервал неудачную серию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/af/ef7842ee5407082e5eeaa04a252f6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367140.html",
+    "time": "2025-11-30T01:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,16 +31,5 @@
     "category": "all",
     "url": "https://sirena.world/RonalduvsAI",
     "time": "2025-11-29T23:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«С первого дня говорим по-русски». Звезды сборной США – Ефимова и Митрофанов",
-    "description": "Интервью от Багрянцевой.",
-    "fullText": "Интервью от Багрянцевой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/1d/b0771d462476cb3a8138becf35e53.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3365165.html",
-    "time": "2025-11-29T22:45:00.000Z"
   }
 ]
