@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Футболисты \"Челси\" и \"Арсенала\" сыграли вничью в матче чемпионата Англии",
-    "description": "Встреча завершилась со счетом 1:1",
-    "fullText": "Встреча завершилась со счетом 1:1",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25775125",
-    "time": "2025-11-30T18:27:31.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Цены на оперативку в космосе. Почему так дорого и при чем здесь ИИ?",
     "description": "Память – новое золото.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/tech/blogs/3366654.html",
     "time": "2025-11-30T16:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Ферстаппен выиграл в Катаре и сохранил интригу в борьбе за титул",
+    "description": "Хроника гонки.",
+    "fullText": "Хроника гонки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fd/de00f898448d292e91a8f130496df.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3366149.html",
+    "time": "2025-11-30T15:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,14 +33,14 @@
     "time": "2025-11-30T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто будет рушить доминирование Алькараса и Синнера",
-    "description": "Молодые и совсем молодые.",
-    "fullText": "Молодые и совсем молодые.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/06/135cdce7a4f9a97a3b3d8225fe4a0.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3365338.html",
-    "time": "2025-11-30T15:00:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
