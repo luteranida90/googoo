@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "WP: конгрессмены хотят расследовать удар ВС США по судну в Карибском море",
-    "description": "Как пишет газета, Пентагон отказался приглашать юристов для разъяснения юридических обоснований ударов на некоторые закрытые брифинги для законодателей",
-    "fullText": "Как пишет газета, Пентагон отказался приглашать юристов для разъяснения юридических обоснований ударов на некоторые закрытые брифинги для законодателей",
+    "title": "Во Владивостоке зал на концерте Долиной был заполнен на 70%",
+    "description": "Организаторы отметили, что возвратов билетов не было",
+    "fullText": "Организаторы отметили, что возвратов билетов не было",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25772271",
-    "time": "2025-11-30T06:48:36.000Z"
+    "url": "https://tass.ru/obschestvo/25772457",
+    "time": "2025-11-30T07:42:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Пиастри вцепился в последний шанс на титул «Ф-1»: выиграл спринт и поул в Катаре",
+    "description": "Норрис и Ферстаппен позади.",
+    "fullText": "Норрис и Ферстаппен позади.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e4/f38d4d1b84636b5ac90aca9c2f55a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3367154.html",
+    "time": "2025-11-29T22:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,16 +31,5 @@
     "category": "all",
     "url": "https://sirena.world/k0sbd7",
     "time": "2025-11-29T21:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Большунов вспылил! Толкнул соперника в спину после гонки, тот ушел хромая",
-    "description": "«И это гордость страны?»",
-    "fullText": "«И это гордость страны?»",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/b3/aae49e92d4a51b29fad8caf36623c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3367057.html",
-    "time": "2025-11-29T20:19:00.000Z"
   }
 ]
