@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Воробьев навестил многодетную семью из Красногорска, чей сын погиб на СВО",
-    "description": "В 2025 году семья была удостоена ордена \"Родительская доблесть\"",
-    "fullText": "В 2025 году семья была удостоена ордена \"Родительская доблесть\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Теннисист Медведев обыграл Бублика на турнире \"Трофеи Северной Пальмиры\"",
+    "description": "Встреча завершилась со счетом 2:5, 6:2, 6:2 в пользу россиянина",
+    "fullText": "Встреча завершилась со счетом 2:5, 6:2, 6:2 в пользу россиянина",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251130/8637271.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25773813",
-    "time": "2025-11-30T11:57:40.000Z"
+    "url": "https://tass.ru/sport/25774003",
+    "time": "2025-11-30T12:22:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лучший шанс Пиастри на камбэк в титульную гонку: поул на любимой трассе! Все расклады предфинального этапа «Ф-1»",
+    "description": "«Макларен» жаждет реванша.",
+    "fullText": "«Макларен» жаждет реванша.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/2a/f142f84c44ef08433b3559887dc2c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3366157.html",
+    "time": "2025-11-30T07:32:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,16 +31,5 @@
     "category": "all",
     "url": "https://sirena.world/pweyv2",
     "time": "2025-11-30T07:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самый мутный матч в истории РПЛ – в тумане Самары. Как такое допустили?",
-    "description": "О голах только догадки.",
-    "fullText": "О голах только догадки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/61/701dc932041398a5129507e8d5efd.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367066.html",
-    "time": "2025-11-30T06:50:00.000Z"
   }
 ]
