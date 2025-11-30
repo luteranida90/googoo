@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦИК Киргизии не зафиксировал нарушений, которые могли бы повлиять на итоги выборов",
-    "description": "Глава Центризбиркома республики Тынчтык Шайназаров не исключил, что какие-то нарушения могут повлиять на результаты на отдельных участках",
-    "fullText": "Глава Центризбиркома республики Тынчтык Шайназаров не исключил, что какие-то нарушения могут повлиять на результаты на отдельных участках",
+    "title": "В Мурманской области закрыли проезд в Териберку",
+    "description": "Ограничения ввели из-за непогоды",
+    "fullText": "Ограничения ввели из-за непогоды",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25774481",
-    "time": "2025-11-30T14:47:56.000Z"
+    "url": "https://tass.ru/obschestvo/25774521",
+    "time": "2025-11-30T14:53:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Фламенго» забрал Кубок Либертадорес! Филипе Луис побеждал игроком, а теперь он тренер-чемпион",
+    "description": "Болельщики сходят с ума.",
+    "fullText": "Болельщики сходят с ума.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/27/ef2697c7a439c840c80d84b4ce454.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367206.html",
+    "time": "2025-11-30T11:43:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,16 +31,5 @@
     "category": "all",
     "url": "https://sirena.world/gnkvpp",
     "time": "2025-11-30T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джексон уже не выполнил условие «Баварии» на сезон: никак не отыграть 40 матчей. Но очень не хочет обратно в «Челси»",
-    "description": "Поедет на Кубок Африки.",
-    "fullText": "Поедет на Кубок Африки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/2c/f3c076c9e472ba52fdb3711cf17cf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367120.html",
-    "time": "2025-11-30T10:11:00.000Z"
   }
 ]
