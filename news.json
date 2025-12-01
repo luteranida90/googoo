@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сыктывкаре побит рекорд 102-летней давности по количеству осадков в ноябре",
-    "description": "В столице Республики Коми дождь шел суммарно 86 часов в месяц",
-    "fullText": "В столице Республики Коми дождь шел суммарно 86 часов в месяц",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25782651",
-    "time": "2025-12-01T14:27:35.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Эта девушка выиграла турнир по Доте. Cтримерша, которая ломает стереотипы",
     "description": "Интервью с By_owl.",
@@ -34,13 +23,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Это позор». Ультрас «Аякса» сорвали матч бесконечными файерами",
-    "description": "В честь умершего фаната.",
-    "fullText": "В честь умершего фаната.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/5a/ffa244aa54dada7487acddbe760ed.jpeg",
+    "title": "В Беларуси уникальный чемпион – новичок, живущий по особым правилам. Репортаж из Витебска",
+    "description": "Дениса Пузырева занесло.",
+    "fullText": "Дениса Пузырева занесло.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a1/a45da2bb54aefbdf6f1c20f584a08.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367406.html",
+    "url": "https://www.sports.ru/football/blogs/3367331.html",
     "time": "2025-12-01T11:00:00.000Z"
   },
   {
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4502272-markirovka-igr-v-steam-s-ispolzovaniem-ii?from=rss",
     "time": "2025-11-30T14:01:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
