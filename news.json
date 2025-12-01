@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Легков назвал заслуженным лидерство лыжника Ардашева в Кубке России",
+    "description": "По итогам первого этапа, который прошел в Кировске, спортсмен набрал 135 очков",
+    "fullText": "По итогам первого этапа, который прошел в Кировске, спортсмен набрал 135 очков",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251201/8638565.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25778485",
+    "time": "2025-12-01T08:14:22.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
     "description": "Не показывайте это Жозе.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нино дал первое интервью на русском. После чтения Гоголя, Толстого и Достоевского",
-    "description": "Просто послушайте.",
-    "fullText": "Просто послушайте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/42/fdd1f3b254f18bc8ddd8cf8116e94.jpeg",
+    "title": "«Реал» больше не лидер Ла Лиги: третья ничья, гол только с пенальти. Алонсо так ничего и не придумал",
+    "description": "Что происходит?",
+    "fullText": "Что происходит?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/12/6aa95dfc146589760bacf5a6ecf21.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367356.html",
-    "time": "2025-11-30T21:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367361.html",
+    "time": "2025-11-30T22:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4437677-noclip-dokumentalnyj-serial-disco-elysium?from=rss",
     "time": "2025-11-28T19:57:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
