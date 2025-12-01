@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Обладательница \"Золотого мяча\" футболистка Бонмати сломала ногу на тренировке",
+    "description": "О сроках восстановления не сообщается",
+    "fullText": "О сроках восстановления не сообщается",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25777335",
+    "time": "2025-12-01T06:13:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
     "description": "Не показывайте это Жозе.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Зенит» – это мучение",
-    "description": "Колонка Ильи Васильева.",
-    "fullText": "Колонка Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/30/572ebbcb145288ca5bd1bf8e22d41.jpeg",
+    "title": "Кайседо зачем-то удалился с «Арсеналом». А ведь его все чаще называют лучшим опорником мира",
+    "description": "Жара в дерби.",
+    "fullText": "Жара в дерби.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9b/48a24e9924e5ebf38c61843c9a27d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367321.html",
-    "time": "2025-11-30T18:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367315.html",
+    "time": "2025-11-30T19:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Бенедикт Камбербэтч снялся в новогодней рекламе World of Tanks — персонаж актёра также появится в игре",
+    "description": "Он будет выдавать задания и сможет присоединиться к экипажу в качестве командира.",
+    "fullText": "Он будет выдавать задания и сможет присоединиться к экипажу в качестве командира.",
+    "image": "https://leonardo.osnova.io/6901cb5c-c060-5754-9898-c53d642f785c/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4427487-benedikt-kamberbetc-v-reklame-world-of-tanks?from=rss",
+    "time": "2025-11-28T13:55:43.000Z"
   }
 ]
