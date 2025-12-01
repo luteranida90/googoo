@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Россия и Саудовская Аравия подпишут соглашение о безвизе 1 декабря",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25778737",
-    "time": "2025-12-01T08:37:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
     "description": "Не показывайте это Жозе.",
@@ -23,24 +12,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пакета схватил две желтые за минуту – за споры с судьей. И странно вскипел в соцсетях",
-    "description": "Очень глупая красная.",
-    "fullText": "Очень глупая красная.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/fd/10f2ed2544406aae5c970c8049fe9.jpeg",
+    "title": "«Макларены» провалились, Ферстаппен победил и cохранил интригу в «Ф-1». Что дальше?",
+    "description": "Расклады на финал.",
+    "fullText": "Расклады на финал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/87/46e8c53a64b9ea879d5d610bef4a5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367342.html",
-    "time": "2025-11-30T22:50:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3367287.html",
+    "time": "2025-11-30T23:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "MP1st: Capcom занимается следующей частью Dead Rising — действие игры развернётся в Голливуде",
-    "description": "А в центре сюжета будет Фрэнк Уэст, который вступает в противостояние с безумным режиссёром на киностудии.",
-    "fullText": "А в центре сюжета будет Фрэнк Уэст, который вступает в противостояние с безумным режиссёром на киностудии.",
-    "image": "https://leonardo.osnova.io/3fddba38-47bd-5748-813a-ddd8d70d043d/",
+    "title": "Team Cherry уже работает над DLC для Silksong — они будут масштабнее дополнений в первой Hollow Knight",
+    "description": "Ждать слишком долго не придётся, заявили разработчики.",
+    "fullText": "Ждать слишком долго не придётся, заявили разработчики.",
+    "image": "https://leonardo.osnova.io/743fc284-744b-515a-8e49-edf9cf2dd8a4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4440312-dead-rising-novaya-igra-ot-capcom-golivud?from=rss",
-    "time": "2025-11-28T21:26:30.000Z"
+    "url": "https://dtf.ru/games/4435711-team-cherry-dlc-hollow-knight-silksong?from=rss",
+    "time": "2025-11-28T20:05:39.000Z"
   }
 ]
