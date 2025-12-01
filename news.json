@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "США пока не сообщили о своих планах по организации работы G20 на ближайший год",
+    "description": "По данным новостного портала News 24, среди шерп G20 распространено мнение, что повестка \"двадцатки\" под председательством Вашингтона будет значительно сокращена",
+    "fullText": "По данным новостного портала News 24, среди шерп G20 распространено мнение, что повестка \"двадцатки\" под председательством Вашингтона будет значительно сокращена",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25784289",
+    "time": "2025-12-01T18:19:35.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Kalypso представила главную музыкальную тему Disciples: Domination",
     "description": "С вокалом Джули Элвен, которую также можно услышать в Horizon Zero Dawn, League of Legends и World of Warcraft.",
@@ -11,6 +22,17 @@
     "time": "2025-12-01T14:24:57.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Брайтон» извинился перед Китаем. Чего?",
+    "description": "Летом клуб уже обижал корейцев.",
+    "fullText": "Летом клуб уже обижал корейцев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e9/fbab7812a4e56887efae82e8b5ba9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367004.html",
+    "time": "2025-12-01T14:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "40 футболистов провели 100+ матчей в Лиге чемпионов. Сколько вспомните?",
     "description": "Месси, Роналду...",
@@ -20,16 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/pweyv2",
     "time": "2025-12-01T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "От Тарасенко до Ларионовых. Как в КХЛ отцы тренировали сыновей",
-    "description": "«Пусть себе другую команду найдет».",
-    "fullText": "«Пусть себе другую команду найдет».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6c/b6c8414fc408dac6a736aaa3ac456.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3359733.html",
-    "time": "2025-12-01T13:44:00.000Z"
   }
 ]
