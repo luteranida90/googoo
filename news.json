@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Калашников\" выделит 10 целевых мест в вузах для молодежи из \"Народной дружины\" ДНР",
-    "description": "Молодые люди смогут бесплатно получить образование по востребованным на предприятиях холдинга специальностям",
-    "fullText": "Молодые люди смогут бесплатно получить образование по востребованным на предприятиях холдинга специальностям",
+    "title": "В Ульяновской области и Татарстане отменили беспилотную опасность",
+    "description": "Об этом сообщили в МЧС и правительстве республики",
+    "fullText": "Об этом сообщили в МЧС и правительстве республики",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25776427",
-    "time": "2025-12-01T03:11:30.000Z"
+    "url": "https://tass.ru/proisshestviya/25776685",
+    "time": "2025-12-01T04:16:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Историческое доминирование клуба Мусагалиева: 8 перстней Media Football Awards!",
+    "description": "Азамат – персона года.",
+    "fullText": "Азамат – персона года.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/49/52161e1be4cf0901b1369cd2f25df.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/mediafootball/blogs/3367204.html",
+    "time": "2025-11-30T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,16 +31,5 @@
     "category": "all",
     "url": "https://sirena.world/k0sbd7",
     "time": "2025-11-30T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кайседо зачем-то удалился с «Арсеналом». А ведь его все чаще называют лучшим опорником мира",
-    "description": "Жара в дерби.",
-    "fullText": "Жара в дерби.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9b/48a24e9924e5ebf38c61843c9a27d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367315.html",
-    "time": "2025-11-30T19:10:00.000Z"
   }
 ]
