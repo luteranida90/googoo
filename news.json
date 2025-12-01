@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На сайте The Game Awards стартовал первый этап голосования в категории «Голос игроков»",
-    "description": "Пользователи могут выбрать до десяти любимых релизов.",
-    "fullText": "Пользователи могут выбрать до десяти любимых релизов.",
-    "image": "https://leonardo.osnova.io/4fa2c776-d06f-5316-9d7f-00abef271567/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4505094-golosovanie-na-the-game-awards-2025?from=rss",
-    "time": "2025-12-01T17:10:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Болельщики \"Ниццы\" напали на футболистов команды на клубной базе",
-    "description": "Команда потерпела шесть поражений подряд во всех турнирах",
-    "fullText": "Команда потерпела шесть поражений подряд во всех турнирах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25783863",
-    "time": "2025-12-01T16:50:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "40 футболистов провели 100+ матчей в Лиге чемпионов. Сколько вспомните?",
     "description": "Месси, Роналду...",
@@ -33,25 +11,36 @@
     "time": "2025-12-01T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Эта девушка выиграла турнир по Доте. Cтримерша, которая ломает стереотипы",
-    "description": "Интервью с By_owl.",
-    "fullText": "Интервью с By_owl.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/25/12618166f426dac1dd0e26690de46.jpeg",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Реал» больше не лидер Ла Лиги: третья ничья, гол только с пенальти. Алонсо так ничего и не придумал",
+    "description": "Что происходит?",
+    "fullText": "Что происходит?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/12/6aa95dfc146589760bacf5a6ecf21.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://cyber.sports.ru/dota2/blogs/3367255.html",
-    "time": "2025-12-01T12:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367361.html",
+    "time": "2025-12-01T12:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мирра заработала в 4 раза больше любого хоккеиста КХЛ и другие факты о призовых в теннисе",
-    "description": "За год – 154 миллионера.",
-    "fullText": "За год – 154 миллионера.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/46/47d566ba84d14bece1dd4c67076e1.png",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "CD Projekt RED всё ещё нацелена на релиз трилогии «Ведьмака» про Цири за шесть лет — благодаря UE5",
+    "description": "Ремейком первой части пока занимается маленькая команда.",
+    "fullText": "Ремейком первой части пока занимается маленькая команда.",
+    "image": "https://leonardo.osnova.io/1161d1cf-d4de-5d1b-9aef-84adbd77d04b/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4503325-cd-projekt-red-trilogiya-vedmaka-tsiri?from=rss",
+    "time": "2025-12-01T06:07:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3366616.html",
-    "time": "2025-12-01T11:45:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
