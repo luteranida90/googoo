@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Международный форум гражданского участия пройдет в НЦ \"Россия\" 2-5 декабря",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25785325",
-    "time": "2025-12-01T21:06:48.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Этот момент навсегда изменил киберспорт",
     "description": "Рождение династии.",
@@ -22,26 +11,26 @@
     "time": "2025-12-01T19:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я не пожалею карьеры. К тебе, #####, подъеду на квартиру». Тренер женского «Ростова» угрожает футболисткам",
-    "description": "Ужас.",
-    "fullText": "Ужас.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/2a/370d2cade4d3fbfb569991de2d1ce.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто из этих игроков – рекордсмен «Спартака» по кубковым матчам?",
+    "description": "Узнайте в новом тесте.",
+    "fullText": "Узнайте в новом тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/d9/0e60d3421454f9961abdaf169254f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367480.html",
-    "time": "2025-12-01T16:50:00.000Z"
+    "url": "https://sirena.world/lno55y",
+    "time": "2025-12-01T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
-    "description": "Их больше сорока!",
-    "fullText": "Их больше сорока!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Общаться с дочкой в США тяжело». Роднина страдает из-за блокировок мессенджеров, но поддерживает их",
+    "description": "Сложный выбор.",
+    "fullText": "Сложный выбор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/dc/f3b0bd4f1445e9a9fdc32451b9657.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2025-12-01T16:30:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3367473.html",
+    "time": "2025-12-01T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4504557-dominick-maklaflin-pismo-ot-deniela-redkliffa?from=rss",
     "time": "2025-12-01T12:57:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
