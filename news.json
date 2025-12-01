@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Kalypso представила главную музыкальную тему Disciples: Domination",
+    "description": "С вокалом Джули Элвен, которую также можно услышать в Horizon Zero Dawn, League of Legends и World of Warcraft.",
+    "fullText": "С вокалом Джули Элвен, которую также можно услышать в Horizon Zero Dawn, League of Legends и World of Warcraft.",
+    "image": "https://leonardo.osnova.io/ae3d1ca4-a84d-5373-b4ce-cfd44a1e898d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4504729-kalypso-muzykalnaya-tema-disciples-domination?from=rss",
+    "time": "2025-12-01T14:24:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "40 футболистов провели 100+ матчей в Лиге чемпионов. Сколько вспомните?",
     "description": "Месси, Роналду...",
@@ -12,35 +23,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Реал» больше не лидер Ла Лиги: третья ничья, гол только с пенальти. Алонсо так ничего и не придумал",
-    "description": "Что происходит?",
-    "fullText": "Что происходит?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/12/6aa95dfc146589760bacf5a6ecf21.jpeg",
+    "title": "От Тарасенко до Ларионовых. Как в КХЛ отцы тренировали сыновей",
+    "description": "«Пусть себе другую команду найдет».",
+    "fullText": "«Пусть себе другую команду найдет».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6c/b6c8414fc408dac6a736aaa3ac456.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367361.html",
-    "time": "2025-12-01T12:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CD Projekt RED всё ещё нацелена на релиз трилогии «Ведьмака» про Цири за шесть лет — благодаря UE5",
-    "description": "Ремейком первой части пока занимается маленькая команда.",
-    "fullText": "Ремейком первой части пока занимается маленькая команда.",
-    "image": "https://leonardo.osnova.io/1161d1cf-d4de-5d1b-9aef-84adbd77d04b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4503325-cd-projekt-red-trilogiya-vedmaka-tsiri?from=rss",
-    "time": "2025-12-01T06:07:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3359733.html",
+    "time": "2025-12-01T13:44:00.000Z"
   }
 ]
