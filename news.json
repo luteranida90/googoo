@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Более 60 специалистов пополнили штат ярославской ЦРБ в этом году",
+    "description": "В правительстве региона отметили, что всего за 10 месяцев 2025 года в медицинские организации области трудоустроились 264 специалиста со средним медицинским образованием",
+    "fullText": "В правительстве региона отметили, что всего за 10 месяцев 2025 года в медицинские организации области трудоустроились 264 специалиста со средним медицинским образованием",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25797023",
+    "time": "2025-12-02T18:16:10.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Атлетико» выиграл 7 матчей подряд – продлит серию в битве против «Барсы»?",
     "description": "Ставьте с бонусом до 15 000 от FONBET.",
@@ -11,36 +22,25 @@
     "time": "2025-12-02T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "A24 представила трейлер фильма «Мать Мария» от Дэвида Лоури, режиссёра «Истории призрака» и «Легенды о Зелёном рыцаре»",
-    "description": "В главной роли — Энн Хэтэуэй, сыгравшая поп-звезду, которая переживает экзистенциальный кризис.",
-    "fullText": "В главной роли — Энн Хэтэуэй, сыгравшая поп-звезду, которая переживает экзистенциальный кризис.",
-    "image": "https://leonardo.osnova.io/8a67aec6-a9bd-52ec-8f9f-8dd8bd9fe977/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4506919-film-mat-mariya-a24-enn-khetauey?from=rss",
-    "time": "2025-12-02T14:52:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Большунов извинился, но как! Обвинил всех вокруг, поблагодарил спонсора за церковь",
-    "description": "И процитировал Кота Леопольда.",
-    "fullText": "И процитировал Кота Леопольда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/85/c197ddf9e4bb88310379e8bf80c73.jpeg",
+    "title": "Макдэвид делал скидку ради такого «Эдмонтона»? Разбираем проблемы «Ойлерс»",
+    "description": "Выиграют кубок?",
+    "fullText": "Выиграют кубок?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/36/ac3018e5848d7b7cee7e00469c590.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3367641.html",
-    "time": "2025-12-02T14:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3367643.html",
+    "time": "2025-12-02T14:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "На Switch 2 состоялся релиз Assassin&#039;s Creed Shadows",
+    "description": "Стоимость игры составила 60 долларов.",
+    "fullText": "Стоимость игры составила 60 долларов.",
+    "image": "https://leonardo.osnova.io/c1f51117-f952-50bf-a45f-d9fef2a052e3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4506432-reliz-assassins-creed-shadows-na-switch-2?from=rss",
+    "time": "2025-12-02T11:00:09.000Z"
   }
 ]
