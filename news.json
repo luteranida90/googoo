@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп заявил, что финансово США больше не участвуют в кризисе на Украине",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25796779",
+    "time": "2025-12-02T17:15:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Зенит», «Краснодар» и ЦСКА сближаются, «Балтика» догоняет «Спартак». Что изменилось после 17-го тура РПЛ у букмекеров",
+    "description": "Новые расклады.",
+    "fullText": "Новые расклады.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/2a/acbec9c924081904e9cf1a5494cb5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3367649.html",
+    "time": "2025-12-02T13:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
     "description": "Их больше сорока!",
@@ -11,36 +33,14 @@
     "time": "2025-12-02T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Выглядят как кучка педиков». Розовая форма нервирует тренера «Интера» – бразильского",
-    "description": "Пришлось извиняться.",
-    "fullText": "Пришлось извиняться.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/eb/47d289b0c4b838360cc137169ab40.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367631.html",
-    "time": "2025-12-02T13:23:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики Virtua Fighter от RGG Studio хотят создать игру, способную получить номинацию на GOTY",
-    "description": "Несмотря на «нишевый» жанр.",
-    "fullText": "Несмотря на «нишевый» жанр.",
-    "image": "https://leonardo.osnova.io/a0edff89-9c07-5e42-a1de-c8f7dc9eb85f/-/format/mp4/",
+    "title": "«Современные издатели зависимы от аналитики»: создатель Monkey Island об отмене RPG в стиле классической The Legend of Zelda",
+    "description": "Игра не смогла найти финансирование из-за перемен в индустрии.",
+    "fullText": "Игра не смогла найти финансирование из-за перемен в индустрии.",
+    "image": "https://leonardo.osnova.io/4cb5a326-e4ba-5460-85bf-3dbc5fbd0b1b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4506566-razrabotchiki-virtuafighter-ot-rgg-studio-gotu?from=rss",
-    "time": "2025-12-02T12:08:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4506631-ron-gilbert-ob-otmene-rpg-v-stile-the-legend-of-zelda?from=rss",
+    "time": "2025-12-02T12:52:26.000Z"
   }
 ]
