@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "У берегов Турции атаковали шедший из России танкер",
-    "description": "Судно Midvolga 2 с работающими двигателями следует в направлении Синопа",
-    "fullText": "Судно Midvolga 2 с работающими двигателями следует в направлении Синопа",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251202/8641093.jpg",
+    "title": "Экс-замгенпрокурора Лопатин возглавил Судебный департамент при Верховном суде",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25787811",
-    "time": "2025-12-02T06:32:27.000Z"
+    "url": "https://tass.ru/obschestvo/25788039",
+    "time": "2025-12-02T07:09:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первый европеец с «Харт Трофи» – россиянин. Помните его имя?",
+    "description": "Играл за «Детройт».",
+    "fullText": "Играл за «Детройт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-12-01T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Главная тоска тура: нули «Сочи» и «Динамо» Мх в дождь при 2176 болельщиках",
+    "description": "Худшая домашняя команда против худшей гостевой.",
+    "fullText": "Худшая домашняя команда против худшей гостевой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/35/8e56fdd3649039ea33a205a15137f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367589.html",
+    "time": "2025-12-01T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +44,14 @@
     "time": "2025-12-01T19:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из этих игроков – рекордсмен «Спартака» по кубковым матчам?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/d9/0e60d3421454f9961abdaf169254f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-12-01T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В Беларуси уникальный чемпион – новичок, живущий по особым правилам. Репортаж из Витебска",
-    "description": "Дениса Пузырева занесло.",
-    "fullText": "Дениса Пузырева занесло.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a1/a45da2bb54aefbdf6f1c20f584a08.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367331.html",
-    "time": "2025-12-01T18:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Первые кадры триллера «Я иду искать 2» с Самарой Уивинг, Сарой Мишель Геллар и Элайджей Вудом",
-    "description": "Одну из ролей исполнил режиссёр Дэвид Кроненберг.",
-    "fullText": "Одну из ролей исполнил режиссёр Дэвид Кроненберг.",
-    "image": "https://leonardo.osnova.io/b2360cb6-159f-5154-b464-47f4e312a29f/",
+    "title": "На сайте The Game Awards стартовал первый этап голосования в категории «Голос игроков»",
+    "description": "Пользователи могут выбрать до десяти любимых релизов.",
+    "fullText": "Пользователи могут выбрать до десяти любимых релизов.",
+    "image": "https://leonardo.osnova.io/4fa2c776-d06f-5316-9d7f-00abef271567/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4504890-triller-ya-idu-iskat-2?from=rss",
-    "time": "2025-12-01T15:59:44.000Z"
+    "url": "https://dtf.ru/games/4505094-golosovanie-na-the-game-awards-2025?from=rss",
+    "time": "2025-12-01T17:10:54.000Z"
   }
 ]
