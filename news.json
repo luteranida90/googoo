@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Костромской области одобрили проект завода с инвестициями более 100 млн рублей",
-    "description": "Предприятие сможет производить комплектующие для водно-моторной техники",
-    "fullText": "Предприятие сможет производить комплектующие для водно-моторной техники",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25796419",
-    "time": "2025-12-02T16:35:01.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Mount & Blade II: Bannerlord попала в пятёрку лидеров чарта Steam среди платных игр, Space Marine 2 вернулась в топ-10",
-    "description": "ARC Raiders потеряла первую позицию, уступив Steam Deck.",
-    "fullText": "ARC Raiders потеряла первую позицию, уступив Steam Deck.",
-    "image": "https://leonardo.osnova.io/afc01ee1-c33c-5c64-b6d0-12f8f0d33733/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4506926-mount-and-blade-ii-bannerlord-top-5-steam?from=rss",
-    "time": "2025-12-02T14:44:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
     "description": "Их больше сорока!",
@@ -33,25 +11,36 @@
     "time": "2025-12-02T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Погребняк не выговорил слово «киберспорт» – и стал мемом",
-    "description": "Разволновался на «Что? Где? Когда?».",
-    "fullText": "Разволновался на «Что? Где? Когда?».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/34/309f5b5d04a6f9f6ee2f048e9e0d2.jpeg",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Выглядят как кучка педиков». Розовая форма нервирует тренера «Интера» – бразильского",
+    "description": "Пришлось извиняться.",
+    "fullText": "Пришлось извиняться.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/eb/47d289b0c4b838360cc137169ab40.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://cyber.sports.ru/dota2/blogs/3367285.html",
-    "time": "2025-12-02T13:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367631.html",
+    "time": "2025-12-02T13:23:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Клипперс» тонут: уже предпоследнее место на Западе. Как от этого выигрывает «Оклахома»?",
-    "description": "Дно совсем близко.",
-    "fullText": "Дно совсем близко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a4/b77ea59224061be2d215fa0b47b61.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Разработчики Virtua Fighter от RGG Studio хотят создать игру, способную получить номинацию на GOTY",
+    "description": "Несмотря на «нишевый» жанр.",
+    "fullText": "Несмотря на «нишевый» жанр.",
+    "image": "https://leonardo.osnova.io/a0edff89-9c07-5e42-a1de-c8f7dc9eb85f/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4506566-razrabotchiki-virtuafighter-ot-rgg-studio-gotu?from=rss",
+    "time": "2025-12-02T12:08:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3367656.html",
-    "time": "2025-12-02T12:55:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
