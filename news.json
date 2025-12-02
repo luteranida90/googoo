@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РЖД запустит двухэтажный поезд между Москвой и Нижним Новгородом",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Лавров: ОБСЕ игнорирует беспредел киевского режима, Прибалтики и Молдавии",
+    "description": "Бюро по демократическим институтам и правам человека ОБСЕ пренебрегает своими обязанностями, подчеркнул глава МИД РФ",
+    "fullText": "Бюро по демократическим институтам и правам человека ОБСЕ пренебрегает своими обязанностями, подчеркнул глава МИД РФ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250210/8054415.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25797609",
-    "time": "2025-12-02T21:03:00.000Z"
+    "url": "https://tass.ru/politika/25797687",
+    "time": "2025-12-02T21:04:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-12-02T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что за дриблинг от звезды «Детройта» в решающей атаке! Каннингем опять сияет",
-    "description": "В стиле Кавая.",
-    "fullText": "В стиле Кавая.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9c/f0336a8b14c9fbca90a34eb146cee.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3367681.html",
-    "time": "2025-12-02T16:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony анонсировала DualSense в стиле Genshin Impact",
-    "description": "Геймпад появится в продаже в январе за 85 долларов.",
-    "fullText": "Геймпад появится в продаже в январе за 85 долларов.",
-    "image": "https://leonardo.osnova.io/33576ead-eb7c-56ab-8ac3-8c837d425e2e/",
+    "title": "Официально: хронометраж финального эпизода «Очень странных дел» составит 125 минут",
+    "description": "Это будет вторая по продолжительности серия в шоу.",
+    "fullText": "Это будет вторая по продолжительности серия в шоу.",
+    "image": "https://leonardo.osnova.io/875f68bc-d51b-5c21-a991-d2b4e0b0ac85/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4506500-sony-anonsirovala-dualsense-v-stile-genshin-impact?from=rss",
-    "time": "2025-12-02T11:36:45.000Z"
+    "url": "https://dtf.ru/cinema/4507212-hronometraz-finala-ochen-strannye-dela?from=rss",
+    "time": "2025-12-02T17:19:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Герои тура РПЛ: сухари «Балтики» даже после «Спартака», спаситель «Зенита», король из «Краснодара»",
+    "description": "И Игорь Акинфеев.",
+    "fullText": "И Игорь Акинфеев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ec/af60f606b4837af8350347a54cf89.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367684.html",
+    "time": "2025-12-02T16:50:00.000Z"
   }
 ]
