@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "ПК-версия Helldivers 2 «похудела» со 154 до 23 ГБ",
+    "description": "Разработчики разобрались с дубликатами файлов.",
+    "fullText": "Разработчики разобрались с дубликатами файлов.",
+    "image": "https://leonardo.osnova.io/33d564fd-fedb-5cc9-ae27-62ff4b202f03/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4507135-pk-versiya-helldivers-2-pohudela-so-154-do-23-gb?from=rss",
+    "time": "2025-12-02T16:21:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Хоккеист Александров перешел из \"Сент-Луиса\" в \"Лос-Анджелес\"",
+    "description": "Состав \"Сент-Луиса\" пополнил канадец Акил Томас",
+    "fullText": "Состав \"Сент-Луиса\" пополнил канадец Акил Томас",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25796285",
+    "time": "2025-12-02T16:07:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
     "description": "Их больше сорока!",
@@ -23,35 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Так Думбия на 6 лет старше? Слуцкий проверил на полиграфе",
-    "description": "Продали «Роме» в 33?",
-    "fullText": "Продали «Роме» в 33?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/b2/669af03fb41eaadbb5b35a2669a82.jpeg",
+    "title": "Фанаты «Ниццы» побили двух игроков и спортивного директора. После 6 поражений подряд",
+    "description": "Валятся и в еврокубке.",
+    "fullText": "Валятся и в еврокубке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/77/ba666160041d9bf0e667a53c0e917.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367604.html",
-    "time": "2025-12-02T12:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джордан Пил и Сэм Рэйми спродюсируют хоррор «Портрет Бога» по мотивам YouTube-короткометражки",
-    "description": "Это первый совместный проект режиссёров.",
-    "fullText": "Это первый совместный проект режиссёров.",
-    "image": "https://leonardo.osnova.io/2e666219-1e48-57e8-8097-f11cbbdb92e3/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4506115-dzhordan-pil-i-sem-reymi-horror-portret-boga?from=rss",
-    "time": "2025-12-02T08:17:31.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367577.html",
+    "time": "2025-12-02T12:35:00.000Z"
   }
 ]
