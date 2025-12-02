@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Форум \"Знание. Герои\" пройдет 7-9 декабря в Национальном центре \"Россия\"",
-    "description": "Участников ждут лекции, открытые диалоги с Героями России, государственными деятелями, военными журналистами, экспертами",
-    "fullText": "Участников ждут лекции, открытые диалоги с Героями России, государственными деятелями, военными журналистами, экспертами",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "У берегов Турции атаковали шедший из России танкер",
+    "description": "Судно Midvolga 2 с работающими двигателями следует в направлении Синопа",
+    "fullText": "Судно Midvolga 2 с работающими двигателями следует в направлении Синопа",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251202/8641093.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25787477",
-    "time": "2025-12-02T06:16:50.000Z"
+    "url": "https://tass.ru/proisshestviya/25787811",
+    "time": "2025-12-02T06:32:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Финикс» избавился от Дюрэнта с Билом и побеждает. Что за чудеса?",
-    "description": "9 вопросов о «Санс».",
-    "fullText": "9 вопросов о «Санс».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a5/4ede5fbb547d2a9f14f8613736366.jpeg",
+    "title": "В Беларуси уникальный чемпион – новичок, живущий по особым правилам. Репортаж из Витебска",
+    "description": "Дениса Пузырева занесло.",
+    "fullText": "Дениса Пузырева занесло.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a1/a45da2bb54aefbdf6f1c20f584a08.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3366934.html",
-    "time": "2025-12-01T18:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367331.html",
+    "time": "2025-12-01T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стелс-экшен Styx: Blades of Greed выйдет 19 февраля 2026 года — игру перенесли",
-    "description": "Релиз должен был состояться до конца 2025-го, но разработчикам понадобилось немного больше времени, чтобы отполировать игру.",
-    "fullText": "Релиз должен был состояться до конца 2025-го, но разработчикам понадобилось немного больше времени, чтобы отполировать игру.",
-    "image": "https://leonardo.osnova.io/69358137-26f8-5e78-86ee-e5512a23cdeb/",
+    "title": "Первые кадры триллера «Я иду искать 2» с Самарой Уивинг, Сарой Мишель Геллар и Элайджей Вудом",
+    "description": "Одну из ролей исполнил режиссёр Дэвид Кроненберг.",
+    "fullText": "Одну из ролей исполнил режиссёр Дэвид Кроненберг.",
+    "image": "https://leonardo.osnova.io/b2360cb6-159f-5154-b464-47f4e312a29f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4504870-styx-blades-of-greed-perenesli-na-19-fevralya-2026-goda?from=rss",
-    "time": "2025-12-01T15:41:36.000Z"
+    "url": "https://dtf.ru/cinema/4504890-triller-ya-idu-iskat-2?from=rss",
+    "time": "2025-12-01T15:59:44.000Z"
   }
 ]
