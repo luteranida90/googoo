@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Президент Колумбии распорядился полностью возобновить авиасообщение с Венесуэлой",
+    "description": "США не имеют право закрывать воздушное пространство над республикой, заявил Густаво Петро",
+    "fullText": "США не имеют право закрывать воздушное пространство над республикой, заявил Густаво Петро",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25787237",
+    "time": "2025-12-02T05:15:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Этот момент навсегда изменил киберспорт",
     "description": "Рождение династии.",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Это было безумие»: Доминик Маклафлин о письме от Дэниела Рэдклиффа",
-    "description": "Актёр также доволен атмосферой на съёмках «Гарри Поттера».",
-    "fullText": "Актёр также доволен атмосферой на съёмках «Гарри Поттера».",
-    "image": "https://leonardo.osnova.io/ee64644a-a9cd-53da-9880-68fe6728ebbb/",
+    "title": "«Скажи „нет“ ИИ-халтуре»: в сети заподозрили Epic Games в использовании генеративного ИИ для Fortnite",
+    "description": "Однако один из художников уже отверг обвинения.",
+    "fullText": "Однако один из художников уже отверг обвинения.",
+    "image": "https://leonardo.osnova.io/044d49a3-fea5-5141-a945-322768dc6e74/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4504557-dominick-maklaflin-pismo-ot-deniela-redkliffa?from=rss",
-    "time": "2025-12-01T12:57:55.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4504137-epic-games-i-obvineniya-v-ii-halture?from=rss",
+    "time": "2025-12-01T11:03:25.000Z"
   }
 ]
