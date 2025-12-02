@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Практически все билеты на \"Щелкунчик\" раскупили за пять часов",
-    "description": "Последний билет был продан за 50 тыс. рублей",
-    "fullText": "Последний билет был продан за 50 тыс. рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин: доход банковского сектора РФ в 2025 году ожидается в 3,2-3,5 трлн рублей",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033169.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/25794309",
-    "time": "2025-12-02T14:08:58.000Z"
+    "url": "https://tass.ru/ekonomika/25794791",
+    "time": "2025-12-02T14:37:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,25 +22,36 @@
     "time": "2025-12-02T13:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Могу позволить Ролексы, но у меня Гармин за 100 тысяч». Наш боец UFC не проигрывает 12 лет – большое интервью",
-    "description": "Поговорили с Ринатом Фахретдиновым.",
-    "fullText": "Поговорили с Ринатом Фахретдиновым.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/f2/2bce523304cb294628a89f425894d.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Барселона» против «Атлетико»: чья тактика окажется сильнее?",
+    "description": "Ставьте с фрибетом 7777 рублей от Лиги Ставок.",
+    "fullText": "Ставьте с фрибетом 7777 рублей от Лиги Ставок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/12/98c731c1942bc9b57d3711c8ba697.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3367439.html",
-    "time": "2025-12-02T10:15:00.000Z"
+    "url": "https://sirena.world/1ymbf3",
+    "time": "2025-12-02T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из этих игроков – рекордсмен «Спартака» по кубковым матчам?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/d9/0e60d3421454f9961abdaf169254f.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сезон, когда «Динамо» вылетело: как это было",
+    "description": "Повлиял бан в ЛЕ.",
+    "fullText": "Повлиял бан в ЛЕ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/c6/9f0779ccc4d89ac95334402f6f9f5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-12-02T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3364842.html",
+    "time": "2025-12-02T11:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "IOI запустит серию трансляций о 007 First Light — первая пройдёт уже 3 декабря",
+    "description": "На ней расскажут о геймплее.",
+    "fullText": "На ней расскажут о геймплее.",
+    "image": "https://leonardo.osnova.io/093d0104-392b-52b9-899e-0e7b26fa8c2d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4506014-ioi-translyatsiya-o-007-first-light?from=rss",
+    "time": "2025-12-02T06:44:04.000Z"
   }
 ]
