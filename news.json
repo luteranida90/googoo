@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Суд оставил изъятые у профсоюзов здания СПбГУП в собственности государства",
+    "description": "Решение по иску Генпрокуратуры, принятое в октябре Арбитражным судом Санкт-Петербурга и Ленобласти, считается вступившим в законную силу",
+    "fullText": "Решение по иску Генпрокуратуры, принятое в октябре Арбитражным судом Санкт-Петербурга и Ленобласти, считается вступившим в законную силу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25808645",
+    "time": "2025-12-03T17:05:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Почему все смеются над саудовской командой в CS?",
     "description": "Falcons стали мемом.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3366662.html",
     "time": "2025-12-03T14:29:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Фиорентина» в зоне вылета, отставание растет, Ваноли – новый тренер. Что происходит?",
+    "description": "0 побед в Серии А.",
+    "fullText": "0 побед в Серии А.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/63/8912dce994e12956e734c6b3e7712.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3367796.html",
+    "time": "2025-12-03T11:53:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,27 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-03T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А что с соперницами Петросян по Олимпиаде? Сакамото – не лидер",
-    "description": "Встретятся в финале Гран-при.",
-    "fullText": "Встретятся в финале Гран-при.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/d0/8c710ed6f485ca41ac63dbe9401a0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3366465.html",
-    "time": "2025-12-03T10:57:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
