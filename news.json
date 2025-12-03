@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Овечкин сделал две голевые передачи в матче НХЛ с \"Лос-Анджелесом\"",
+    "description": "Форвард \"Вашингтона\" набирает очки на протяжении пяти матчей",
+    "fullText": "Форвард \"Вашингтона\" набирает очки на протяжении пяти матчей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25800217",
+    "time": "2025-12-03T06:10:03.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый европеец с «Харт Трофи» – россиянин. Помните его имя?",
     "description": "Играл за «Детройт».",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышло Destiny 2: Renegades — DLC в духе «Звёздных войн», созданное в партнёрстве с Lucasfilm Games",
-    "description": "Да пребудет с вами Сила.",
-    "fullText": "Да пребудет с вами Сила.",
-    "image": "https://leonardo.osnova.io/4bbe18e5-39c6-5f20-bfa5-f443b624114c/",
+    "title": "Fortiche изобразила героев «Аркейн» на «съёмочной площадке» в честь годовщины с финала сериала",
+    "description": "Всё хорошо, никто из них не умер.",
+    "fullText": "Всё хорошо, никто из них не умер.",
+    "image": "https://leonardo.osnova.io/7ed4024f-3ff0-59f9-a770-9965181a19b2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4507315-destiny-2-renegades-dlc-v-stile-zvezdnyh-voyn?from=rss",
-    "time": "2025-12-02T18:49:22.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4507178-fortiche-otmetila-godovshchinu-arkeyn-unikalnymi-foto-so-syomok?from=rss",
+    "time": "2025-12-02T16:47:50.000Z"
   }
 ]
