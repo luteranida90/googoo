@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Дагделен назвала отказ от газа РФ катализатором экономического краха ФРГ",
-    "description": "Совет ЕС одобрил 20 октября поэтапный запрет на любые закупки российского газа с 1 января 2028 года",
-    "fullText": "Совет ЕС одобрил 20 октября поэтапный запрет на любые закупки российского газа с 1 января 2028 года",
+    "title": "В Ульяновской области в ДТП с большегрузом погибли три человека",
+    "description": "По предварительным данным, Lada Kalina выехала на встречную полосу и столкнулась с автомобилем DAF",
+    "fullText": "По предварительным данным, Lada Kalina выехала на встречную полосу и столкнулась с автомобилем DAF",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25810027",
-    "time": "2025-12-03T22:03:15.000Z"
+    "url": "https://tass.ru/proisshestviya/25810107",
+    "time": "2025-12-03T22:46:08.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-12-03T18:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix анонсировал сериальный спин-офф фильма «Казино» Мартина Скорсезе",
-    "description": "Шоу, действие которого развернётся в современном Лас-Вегасе, занимаются соавторы «Миллиардов».",
-    "fullText": "Шоу, действие которого развернётся в современном Лас-Вегасе, занимаются соавторы «Миллиардов».",
-    "image": "https://leonardo.osnova.io/771f6fc4-24b1-54ab-97de-3fb73abc8c5a/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4509644-netflix-anonsiroval-spin-off-kazino-skorseze?from=rss",
-    "time": "2025-12-03T18:47:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шок: «Клипперс» выгоняют Криса Пола. Красивого завершения карьеры не будет",
-    "description": "Типичные «Парусники».",
-    "fullText": "Типичные «Парусники».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d5/145543e634b098c223e4ae5ceac0c.jpeg",
+    "title": "Гавриков и Панарин спасли «Рейнджерс»! Тащат команду в плей-офф вместе с Шестеркиным",
+    "description": "Одолели «Даллас».",
+    "fullText": "Одолели «Даллас».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/20/e28fd1ffd4bb2a7e44cba3f0244ba.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3367897.html",
-    "time": "2025-12-03T17:45:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3367867.html",
+    "time": "2025-12-03T18:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Spotify запустил Wrapped 2025 — личные итоги года для пользователей музыкального сервиса",
+    "description": "В формате интерактивных слайдов с подробностями о любимых исполнителях, альбомах, песнях и прочей информацией.",
+    "fullText": "В формате интерактивных слайдов с подробностями о любимых исполнителях, альбомах, песнях и прочей информацией.",
+    "image": "https://leonardo.osnova.io/c99c38c9-de2d-5871-b8bd-b53bd038767f/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/music/4508917-spotify-wrapped-2025-itogi-goda?from=rss",
+    "time": "2025-12-03T13:26:53.000Z"
   }
 ]
