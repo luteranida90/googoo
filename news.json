@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава ФСВТС: РФ планирует увеличить поставки вооружений и техники в Индию",
-    "description": "В 2026 году поставки должны превысить показатели 2025 года",
-    "fullText": "В 2026 году поставки должны превысить показатели 2025 года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25799719",
-    "time": "2025-12-03T04:54:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый европеец с «Харт Трофи» – россиянин. Помните его имя?",
     "description": "Играл за «Детройт».",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4507315-destiny-2-renegades-dlc-v-stile-zvezdnyh-voyn?from=rss",
     "time": "2025-12-02T18:49:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
