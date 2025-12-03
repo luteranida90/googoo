@@ -1,25 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦСКА потерпел четвертое поражение в пяти последних матчах в КХЛ",
-    "description": "Армейцы в серии буллитов уступили \"Торпедо\"",
-    "fullText": "Армейцы в серии буллитов уступили \"Торпедо\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251203/8647345.jpg",
+    "title": "В Белгородской области при атаке на автомобиль погиб мужчина",
+    "description": "Медики пытались спасти его, но травмы оказались несовместимы с жизнью",
+    "fullText": "Медики пытались спасти его, но травмы оказались несовместимы с жизнью",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25809293",
-    "time": "2025-12-03T19:03:15.000Z"
+    "url": "https://tass.ru/proisshestviya/25809449",
+    "time": "2025-12-03T19:50:12.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Ты запустила новую игру» — первый трейлер фильма «Я иду искать 2: А вот и я»",
-    "description": "Хоррор-комедия с Самарой Уивинг выйдет 10 апреля 2026 года.",
-    "fullText": "Хоррор-комедия с Самарой Уивинг выйдет 10 апреля 2026 года.",
-    "image": "https://leonardo.osnova.io/ef78957b-1a65-506c-91ad-02554f1073f3/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4509376-ya-idu-iskat-2-trailer-horror-komediya?from=rss",
-    "time": "2025-12-03T16:22:02.000Z"
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В России заблокировали Roblox. РКН заявил, что детская игра «популярна у педофилов»",
+    "description": "Детали бана.",
+    "fullText": "Детали бана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2b/bd4f68f844def8182623075b47837.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3367957.html",
+    "time": "2025-12-03T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-12-03T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Почему все смеются над саудовской командой в CS?",
-    "description": "Falcons стали мемом.",
-    "fullText": "Falcons стали мемом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/85/afd49891c4808a100fc0c788f8cf3.jpeg",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Врачи «МЮ» сломали карьеру Туанзебе. На медштаб жаловались Харгривз, Шоу и даже Бест",
+    "description": "Теперь судятся.",
+    "fullText": "Теперь судятся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/28/3243a3dec46b3ad501610fabf4d32.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3366662.html",
-    "time": "2025-12-03T14:29:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367706.html",
+    "time": "2025-12-03T15:02:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ротенберг в топ-3 тренеров КХЛ по набранным очкам. Но так ли он хорош?",
-    "description": "До финала не доходил.",
-    "fullText": "До финала не доходил.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/48/1f17eea4d4016a0b545e846929304.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3366827.html",
-    "time": "2025-12-03T13:59:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В сети появилась «экранка» с несколькими секундами геймплея Resident Evil Requiem от третьего лица",
+    "description": "В духе ремейка второй части.",
+    "fullText": "В духе ремейка второй части.",
+    "image": "https://leonardo.osnova.io/c2a7bda4-90da-55df-9157-ee1917ca3779/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4509086-geympley-resident-evil-requiem?from=rss",
+    "time": "2025-12-03T14:09:26.000Z"
   }
 ]
