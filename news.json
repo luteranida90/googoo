@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Город Санья провел церемонию открытия Хайнаньского кинофестиваля",
-    "description": "На церемонии присутствовала заместитель мэра Хабаровска Мария Матаева",
-    "fullText": "На церемонии присутствовала заместитель мэра Хабаровска Мария Матаева",
+    "title": "Эдуард Веркин и Зоя Богуславская стали победителями премии \"Большая книга\"",
+    "description": "В 2025 году каждый победитель получил приз в размере 3 млн рублей",
+    "fullText": "В 2025 году каждый победитель получил приз в размере 3 млн рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/25808973",
-    "time": "2025-12-03T18:07:42.000Z"
+    "url": "https://tass.ru/kultura/25809107",
+    "time": "2025-12-03T18:28:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Expedition 33 показала самый успешный старт среди сторонних игр в Xbox Game Pass в 2025-м",
+    "description": "Творческий директор Sandfall Interactive заявил, что этот год превзошёл все ожидания студии.",
+    "fullText": "Творческий директор Sandfall Interactive заявил, что этот год превзошёл все ожидания студии.",
+    "image": "https://leonardo.osnova.io/e354d1a1-1454-5d33-8862-6c05c3f0c31e/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4509236-clair-obscur-expedition-33-uspeshnyy-start-xbox-game-pass?from=rss",
+    "time": "2025-12-03T15:14:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://www.sports.ru/tennis/blogs/3367756.html",
     "time": "2025-12-03T12:56:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ведущий провайдер коммерческих шрифтов в Японии поднял стоимость годового плана почти в 54 раза",
-    "description": "Придётся использовать Papyrus.",
-    "fullText": "Придётся использовать Papyrus.",
-    "image": "https://leonardo.osnova.io/16f161b4-5417-5b0c-9ea9-e4a69753a8fc/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4508680-uvelichenie-stoimosti-shriftov-v-yaponii-dlya-razrabotchikov-igr?from=rss",
-    "time": "2025-12-03T11:52:30.000Z"
   }
 ]
