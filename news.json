@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бензин за неделю подешевел в среднем на 17 копеек",
-    "description": "Его стоимость достигла 64,87 рубля за 1 л",
-    "fullText": "Его стоимость достигла 64,87 рубля за 1 л",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25808223",
-    "time": "2025-12-03T16:09:06.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Почему все смеются над саудовской командой в CS?",
     "description": "Falcons стали мемом.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3366662.html",
     "time": "2025-12-03T14:29:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Арми Хаммера рассматривают на роль в российском шпионском триллере «Альтернатива»",
+    "description": "В актёрский состав также хотят позвать Петра Фёдорова.",
+    "fullText": "В актёрский состав также хотят позвать Петра Фёдорова.",
+    "image": "https://leonardo.osnova.io/3ecf9b93-a9fb-5347-bbcc-a0fa6e7520b3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4508719-armi-hammer-i-petr-fyodorov-v-shpionskom-trillere-alternativa?from=rss",
+    "time": "2025-12-03T11:52:11.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -44,14 +44,14 @@
     "time": "2025-12-03T10:57:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Это монумент мёртвым» — второй трейлер фильма «28 лет спустя. Часть II: Костяной храм»",
-    "description": "Релиз состоится 16 января 2026 года.",
-    "fullText": "Релиз состоится 16 января 2026 года.",
-    "image": "https://leonardo.osnova.io/3251c44a-103f-5f6a-8aae-3fa6156eda45/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4508366-treyler-filma-28-let-spustya-chast-ii-kostyanoy-khram?from=rss",
-    "time": "2025-12-03T08:46:32.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
