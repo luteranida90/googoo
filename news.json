@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Белгородской области при атаке на автомобиль погиб мужчина",
-    "description": "Медики пытались спасти его, но травмы оказались несовместимы с жизнью",
-    "fullText": "Медики пытались спасти его, но травмы оказались несовместимы с жизнью",
+    "title": "Посол РФ: Москва рассмотрит обращение Венесуэлы о помощи в случае запроса",
+    "description": "Сергей Малик-Багдасаров также отметил, что договор о стратегическом партнерстве между двумя странами знаменует переход отношений в новое качество",
+    "fullText": "Сергей Малик-Багдасаров также отметил, что договор о стратегическом партнерстве между двумя странами знаменует переход отношений в новое качество",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25809449",
-    "time": "2025-12-03T19:50:12.000Z"
+    "url": "https://tass.ru/politika/25809403",
+    "time": "2025-12-03T20:13:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Третий сезон «Эйфории» стартует в апреле 2026 года",
+    "description": "После четырёхлетнего перерыва.",
+    "fullText": "После четырёхлетнего перерыва.",
+    "image": "https://leonardo.osnova.io/38c7cd51-9262-588f-b8cf-597d734784e4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4509803-tretiy-sezon-eiforii-aprel-2026?from=rss",
+    "time": "2025-12-03T19:57:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +33,17 @@
     "time": "2025-12-03T18:50:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Ян победил бы Мераба, если бы не травмированная рука?",
+    "description": "Не просто отговорка.",
+    "fullText": "Не просто отговорка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/20/789875f6843a1928a528e00f10b7a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3367772.html",
+    "time": "2025-12-03T15:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Аналог рилсов из нулевых: легендарная «косынка» из Windows",
     "description": "Теперь с хоккейными картами.",
@@ -31,27 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/k0sbd7",
     "time": "2025-12-03T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Врачи «МЮ» сломали карьеру Туанзебе. На медштаб жаловались Харгривз, Шоу и даже Бест",
-    "description": "Теперь судятся.",
-    "fullText": "Теперь судятся.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/28/3243a3dec46b3ad501610fabf4d32.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367706.html",
-    "time": "2025-12-03T15:02:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В сети появилась «экранка» с несколькими секундами геймплея Resident Evil Requiem от третьего лица",
-    "description": "В духе ремейка второй части.",
-    "fullText": "В духе ремейка второй части.",
-    "image": "https://leonardo.osnova.io/c2a7bda4-90da-55df-9157-ee1917ca3779/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4509086-geympley-resident-evil-requiem?from=rss",
-    "time": "2025-12-03T14:09:26.000Z"
   }
 ]
