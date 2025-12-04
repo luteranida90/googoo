@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Представитель Разина заявил, что продюсер \"Ласкового мая\" ездил в США на лечение",
-    "description": "Александр Жарков уточнил, что Андрей Разин продал свой дом в России, чтобы сделать операцию",
-    "fullText": "Александр Жарков уточнил, что Андрей Разин продал свой дом в России, чтобы сделать операцию",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25816299",
-    "time": "2025-12-04T12:31:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете сборную ЧМ-2026 по логотипу?",
     "description": "Готовимся к жеребьевке.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мбаппе своими 2+1 разнес «Атлетик»: темп на рекорд. У Трента ассист и травма",
-    "description": "После трех ничьих в Ла Лиге.",
-    "fullText": "После трех ничьих в Ла Лиге.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/46/7894f802741cabcd85d82c62efbfb.jpeg",
+    "title": "Величие финала «Ф-1»: битва супергонщика с доминаторами года",
+    "description": "Исторический камбэк или новый чемпион?",
+    "fullText": "Исторический камбэк или новый чемпион?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/52/477f3febe4eb58b844759c22e8f1c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367990.html",
-    "time": "2025-12-04T07:20:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3367547.html",
+    "time": "2025-12-04T09:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Skyblivion перенесли на 2026 год — разработчики поделились подробностями о статусе проекта",
-    "description": "И опубликовали интерактивную карту, которая позволяет разглядеть обновлённый Сиродил.",
-    "fullText": "И опубликовали интерактивную карту, которая позволяет разглядеть обновлённый Сиродил.",
-    "image": "https://leonardo.osnova.io/85bf8b2e-32a9-5299-abdf-6e460aa0f6dd/",
+    "title": "Третий сезон «Эйфории» стартует в апреле 2026 года",
+    "description": "После четырёхлетнего перерыва.",
+    "fullText": "После четырёхлетнего перерыва.",
+    "image": "https://leonardo.osnova.io/38c7cd51-9262-588f-b8cf-597d734784e4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4509452-skyblivion-perenesli-na-2026-god?from=rss",
-    "time": "2025-12-03T17:44:04.000Z"
+    "url": "https://dtf.ru/cinema/4509803-tretiy-sezon-eiforii-aprel-2026?from=rss",
+    "time": "2025-12-03T19:57:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
