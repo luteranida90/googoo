@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Захарова назвала байками заявления Лондона о взломе телефона Скрипаль",
+    "description": "Официальный представитель МИД России задалась вопросом, почему взлом \"электронного устройства Юлии Скрипаль\" приравнен к \"подрыву целостности государства\"",
+    "fullText": "Официальный представитель МИД России задалась вопросом, почему взлом \"электронного устройства Юлии Скрипаль\" приравнен к \"подрыву целостности государства\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250123/8022737.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25817663",
+    "time": "2025-12-04T14:07:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Крылья Советов» должны почти миллиард. Вот история 10-летнего долга",
+    "description": "Разбор Игоря Сергеева.",
+    "fullText": "Разбор Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f4/31639542245e094a03e62595cf8be.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3368038.html",
+    "time": "2025-12-04T09:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете сборную ЧМ-2026 по логотипу?",
     "description": "Готовимся к жеребьевке.",
@@ -11,36 +33,14 @@
     "time": "2025-12-04T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Величие финала «Ф-1»: битва супергонщика с доминаторами года",
-    "description": "Исторический камбэк или новый чемпион?",
-    "fullText": "Исторический камбэк или новый чемпион?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/52/477f3febe4eb58b844759c22e8f1c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3367547.html",
-    "time": "2025-12-04T09:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Третий сезон «Эйфории» стартует в апреле 2026 года",
-    "description": "После четырёхлетнего перерыва.",
-    "fullText": "После четырёхлетнего перерыва.",
-    "image": "https://leonardo.osnova.io/38c7cd51-9262-588f-b8cf-597d734784e4/",
+    "title": "Мастерство «Кузница», новые предметы и внедрение кооператива: Titan Quest II получила крупный патч",
+    "description": "Апдейт также привнёс десятки изменений в геймплее и интерфейсе.",
+    "fullText": "Апдейт также привнёс десятки изменений в геймплее и интерфейсе.",
+    "image": "https://leonardo.osnova.io/c30f2651-da19-5187-b461-a01392767825/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4509803-tretiy-sezon-eiforii-aprel-2026?from=rss",
-    "time": "2025-12-03T19:57:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4509783-titan-quest-ii-krupnyj-patch-s-novym-masterstvom-i-kooperativom?from=rss",
+    "time": "2025-12-03T20:14:14.000Z"
   }
 ]
