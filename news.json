@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Курский экс-замгубернатора мог курировать строительство фортификаций в приграничье",
-    "description": "Бывший губернатор Курской области Алексей Смирнов и его экс-заместитель Алексей Дедов обвиняются в мошенничестве в особо крупном размере",
-    "fullText": "Бывший губернатор Курской области Алексей Смирнов и его экс-заместитель Алексей Дедов обвиняются в мошенничестве в особо крупном размере",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25813779",
-    "time": "2025-12-04T09:15:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
     "description": "Не показывайте это Жозе.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мои слова абсолютно некорректны, особенно по отношению к Карпину». Извинения Ролана Гусева в письме Спортcу’‘",
-    "description": "«Это рефлексия по неудачным результатам «Динамо».",
-    "fullText": "«Это рефлексия по неудачным результатам «Динамо».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/cc/a151dbfba4179a57ac1c44e7eefe5.jpeg",
+    "title": "«‎Локо» теряет Баринова не из-за денег. Клуб прибедняется, хотя тратит на уровне чемпионского «‎Краснодара»",
+    "description": "Главный миф эпохи Нагорных.",
+    "fullText": "Главный миф эпохи Нагорных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a2/e50dd89aa4137a2168e9e53a7a88a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367955.html",
-    "time": "2025-12-03T23:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368042.html",
+    "time": "2025-12-04T03:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4509769-eidos-montreal-perezapusk-legacy-of-kain?from=rss",
     "time": "2025-12-03T19:38:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
