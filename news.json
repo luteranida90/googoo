@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Корстин рассказала о важности международной повестки для Единой лиги ВТБ",
+    "description": "В четверг петербургский \"Зенит\" обыграл боснийскую команду \"Игокеа\" в матче, который прошел в Республике Сербской",
+    "fullText": "В четверг петербургский \"Зенит\" обыграл боснийскую команду \"Игокеа\" в матче, который прошел в Республике Сербской",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251204/8651463.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25821679",
+    "time": "2025-12-04T20:45:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В EGS раздают The Darkside Detective и The Jackbox Party Pack 4",
+    "description": "Какую игру можно будет забрать в следующий раз — секрет.",
+    "fullText": "Какую игру можно будет забрать в следующий раз — секрет.",
+    "image": "https://leonardo.osnova.io/a3c3dfaf-7294-5939-8d3a-81a08745cdbd/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4511797-egs-razdacha-the-darksidedetective-i-jackbox-party-pack-4?from=rss",
+    "time": "2025-12-04T18:11:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "А Батракова знают в родном городе? Я съездил туда – и удивился",
     "description": "Футбол vs Киберспорт.",
@@ -11,6 +33,17 @@
     "time": "2025-12-04T17:13:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Русского «Генерала» чествовали в Канаде. Марков – легенда даже без Кубка Стэнли",
+    "description": "Бонсуа, Монреаль!",
+    "fullText": "Бонсуа, Монреаль!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/80/b2a5063884b5882a1d3aacbe200cb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3368120.html",
+    "time": "2025-12-04T16:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Больше 15 футболистов играли и в «Барсе», и в «ПСЖ». Самого редкого не вспомнил никто!",
     "description": "Не Месси, Дембеле или Неймар.",
@@ -20,38 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-04T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Комментаторы против Бубнова: он запустил сомнительный слух, что Семак орал матом",
-    "description": "Тренер «Зенита» тоже ответил.",
-    "fullText": "Тренер «Зенита» тоже ответил.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ab/04153a1e94260b4075534b43764a0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368075.html",
-    "time": "2025-12-04T16:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Metroid Prime 4 Beyond — спустя восемь лет после анонса",
-    "description": "Игра вышла сразу на двух поколениях Nintendo Switch.",
-    "fullText": "Игра вышла сразу на двух поколениях Nintendo Switch.",
-    "image": "https://leonardo.osnova.io/0193be65-77c8-5157-bd13-3e965a9a0aa6/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4510526-reliz-metroid-prime-4-beyond-nintendo-switch?from=rss",
-    "time": "2025-12-04T10:56:13.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
