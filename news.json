@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Адвокат Архиепископа Аршака раскрыл подробности обвинения",
-    "description": "По словам Арсена Бабаяна, мужчина обвиняется следствием в том, что якобы в 2018 году он через своих служащих подложил в рюкзак одного из участников акции протеста против Католикоса всех армян Гарегина II наркотическое средство",
-    "fullText": "По словам Арсена Бабаяна, мужчина обвиняется следствием в том, что якобы в 2018 году он через своих служащих подложил в рюкзак одного из участников акции протеста против Католикоса всех армян Гарегина II наркотическое средство",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "А Батракова знают в родном городе? Я съездил туда – и удивился",
+    "description": "Футбол vs Киберспорт.",
+    "fullText": "Футбол vs Киберспорт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/52/df716710b4f229118d48671c4c5a9.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25818653",
-    "time": "2025-12-04T16:38:32.000Z"
+    "url": "https://cyber.sports.ru/cs/blogs/3368101.html",
+    "time": "2025-12-04T17:13:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Левандовски колотит «Дортмунд», Мбаппе – кошмар «Барсы». Главные палачи топ-клубов",
-    "description": "Месси и Роналду тоже в списке.",
-    "fullText": "Месси и Роналду тоже в списке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/29/5ea163dbf47d4ad1bd0a7eaac6c29.jpeg",
+    "title": "«Фиорентина» в зоне вылета, отставание растет, Ваноли – новый тренер. Что происходит?",
+    "description": "0 побед в Серии А.",
+    "fullText": "0 побед в Серии А.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/63/8912dce994e12956e734c6b3e7712.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366736.html",
-    "time": "2025-12-04T11:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367796.html",
+    "time": "2025-12-04T13:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джеймс Ван спродюсирует новую часть «Паранормального явления»",
-    "description": "Вместе с Джейсоном Блумом и создателем франшизы Ореном Пели.",
-    "fullText": "Вместе с Джейсоном Блумом и создателем франшизы Ореном Пели.",
-    "image": "https://leonardo.osnova.io/b044bada-90b3-5753-93fa-ecba4c150cba/",
+    "title": "Из Hi-Fi RUSH убрали защиту Denuvo",
+    "description": "Свои меры против взлома разработчики оставят.",
+    "fullText": "Свои меры против взлома разработчики оставят.",
+    "image": "https://leonardo.osnova.io/e9ef7f73-2f9f-5beb-a89c-cb40d6228091/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4510366-dzheyms-van-prodytsiruet-novuyu-chast-paranormalnogo-yavleniya?from=rss",
-    "time": "2025-12-04T07:42:11.000Z"
+    "url": "https://dtf.ru/games/4510270-hi-fi-rush-ubrala-zashchitu-denuvo?from=rss",
+    "time": "2025-12-04T06:07:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
