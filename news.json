@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "С Киркорова взыскали задолженность за проезд по платным участкам ЦКАД и М-12",
-    "description": "Суд также взыскал в доход федерального бюджета государственную пошлину в размере 8 тыс. рублей",
-    "fullText": "Суд также взыскал в доход федерального бюджета государственную пошлину в размере 8 тыс. рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25811439",
-    "time": "2025-12-04T05:20:52.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый европеец с «Харт Трофи» – россиянин. Помните его имя?",
     "description": "Играл за «Детройт».",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сантос – надежда «Челси», пока нет Кайседо. Заслужил этот шанс в ключевой роли",
-    "description": "Андрей переубедил Мареску.",
-    "fullText": "Андрей переубедил Мареску.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ae/a64155258480b9191871020da1efe.jpeg",
+    "title": "У Ольмо вывих плеча – упал сам после гола. С ним же были проблемы еще в «Лейпциге»",
+    "description": "Нелепо и обидно.",
+    "fullText": "Нелепо и обидно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ca/8510ea65e415d874474d7f5b20011.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367962.html",
-    "time": "2025-12-03T20:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368070.html",
+    "time": "2025-12-03T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Spotify запустил Wrapped 2025 — личные итоги года для пользователей музыкального сервиса",
-    "description": "В формате интерактивных слайдов с подробностями о любимых исполнителях, альбомах, песнях и прочей информацией.",
-    "fullText": "В формате интерактивных слайдов с подробностями о любимых исполнителях, альбомах, песнях и прочей информацией.",
-    "image": "https://leonardo.osnova.io/c99c38c9-de2d-5871-b8bd-b53bd038767f/",
+    "title": "Netflix анонсировал сериальный спин-офф фильма «Казино» Мартина Скорсезе",
+    "description": "Шоу, действие которого развернётся в современном Лас-Вегасе, занимаются соавторы «Миллиардов».",
+    "fullText": "Шоу, действие которого развернётся в современном Лас-Вегасе, занимаются соавторы «Миллиардов».",
+    "image": "https://leonardo.osnova.io/771f6fc4-24b1-54ab-97de-3fb73abc8c5a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/4508917-spotify-wrapped-2025-itogi-goda?from=rss",
-    "time": "2025-12-03T13:26:53.000Z"
+    "url": "https://dtf.ru/cinema/4509644-netflix-anonsiroval-spin-off-kazino-skorseze?from=rss",
+    "time": "2025-12-03T18:47:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
