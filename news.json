@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Корстин рассказала о важности международной повестки для Единой лиги ВТБ",
-    "description": "В четверг петербургский \"Зенит\" обыграл боснийскую команду \"Игокеа\" в матче, который прошел в Республике Сербской",
-    "fullText": "В четверг петербургский \"Зенит\" обыграл боснийскую команду \"Игокеа\" в матче, который прошел в Республике Сербской",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251204/8651463.jpg",
+    "title": "Военная операция на Украине. Онлайн",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251204/8647903.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25821679",
-    "time": "2025-12-04T20:45:19.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25811827",
+    "time": "2025-12-04T21:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Аналог рилсов из нулевых: легендарная «косынка» из Windows",
+    "description": "Теперь с хоккейными картами.",
+    "fullText": "Теперь с хоккейными картами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/14/53a3b915e429090f8f04cc8379d6a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/k0sbd7",
+    "time": "2025-12-04T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://www.sports.ru/hockey/blogs/3368120.html",
     "time": "2025-12-04T16:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Больше 15 футболистов играли и в «Барсе», и в «ПСЖ». Самого редкого не вспомнил никто!",
-    "description": "Не Месси, Дембеле или Неймар.",
-    "fullText": "Не Месси, Дембеле или Неймар.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/f6/fe1a86e6643d5a51003b2889f514a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-04T16:30:00.000Z"
   }
 ]
