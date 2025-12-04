@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "eBay зарегистрировала два товарных знака в России",
+    "description": "Дата истечения товарных знаков в РФ - 19 сентября 2034 года",
+    "fullText": "Дата истечения товарных знаков в РФ - 19 сентября 2034 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25812229",
+    "time": "2025-12-04T06:44:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый европеец с «Харт Трофи» – россиянин. Помните его имя?",
     "description": "Играл за «Детройт».",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Ольмо вывих плеча – упал сам после гола. С ним же были проблемы еще в «Лейпциге»",
-    "description": "Нелепо и обидно.",
-    "fullText": "Нелепо и обидно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ca/8510ea65e415d874474d7f5b20011.jpeg",
+    "title": "Победный гол за секунду до сирены! «Металлург» летел 0:3, но перевернул игру",
+    "description": "«Автомобилист» не удержался.",
+    "fullText": "«Автомобилист» не удержался.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/9d/8308d4e544ca19bff596b39438b05.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368070.html",
-    "time": "2025-12-03T20:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3368003.html",
+    "time": "2025-12-03T21:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix анонсировал сериальный спин-офф фильма «Казино» Мартина Скорсезе",
-    "description": "Шоу, действие которого развернётся в современном Лас-Вегасе, занимаются соавторы «Миллиардов».",
-    "fullText": "Шоу, действие которого развернётся в современном Лас-Вегасе, занимаются соавторы «Миллиардов».",
-    "image": "https://leonardo.osnova.io/771f6fc4-24b1-54ab-97de-3fb73abc8c5a/",
+    "title": "Amazon показала первые постеры финала «Пацанов»",
+    "description": "С Билли Бутчером и Хоумлендером.",
+    "fullText": "С Билли Бутчером и Хоумлендером.",
+    "image": "https://leonardo.osnova.io/a45a9e98-9945-55b9-8804-e233ab2eb9ac/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4509644-netflix-anonsiroval-spin-off-kazino-skorseze?from=rss",
-    "time": "2025-12-03T18:47:36.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4509527-amazon-predstavila-postery-finala-patsanov?from=rss",
+    "time": "2025-12-03T17:15:01.000Z"
   }
 ]
