@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Музее космонавтики представили крупнейшее издание по истории покорения космоса",
-    "description": "На 400 страницах издания расположены более 1 тыс. уникальных фотографий, документов",
-    "fullText": "На 400 страницах издания расположены более 1 тыс. уникальных фотографий, документов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/25821497",
-    "time": "2025-12-04T19:43:10.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "А Батракова знают в родном городе? Я съездил туда – и удивился",
     "description": "Футбол vs Киберспорт.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Малинину настолько скучно, что он рискует с суперкаскадом в финале Гран-при",
-    "description": "Но пока не получилось.",
-    "fullText": "Но пока не получилось.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c7/1b0382cf242bd9add1af83eedba38.jpeg",
+    "title": "Комментаторы против Бубнова: он запустил сомнительный слух, что Семак орал матом",
+    "description": "Тренер «Зенита» тоже ответил.",
+    "fullText": "Тренер «Зенита» тоже ответил.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ab/04153a1e94260b4075534b43764a0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3368162.html",
-    "time": "2025-12-04T15:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368075.html",
+    "time": "2025-12-04T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4510526-reliz-metroid-prime-4-beyond-nintendo-switch?from=rss",
     "time": "2025-12-04T10:56:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
