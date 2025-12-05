@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Второй муниципалитет Коми ввел карантин в школах из-за роста ОРВИ",
-    "description": "Также введены ограничительные мероприятия в учреждениях дополнительного образования, спорта и культуры",
-    "fullText": "Также введены ограничительные мероприятия в учреждениях дополнительного образования, спорта и культуры",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все расклады финала «Ф-1»: кто фаворит Гран-при Абу-Даби и битвы за чемпионство?",
+    "description": "Сценарии титулов Ферстаппена, Норриса и Пиастри.",
+    "fullText": "Сценарии титулов Ферстаппена, Норриса и Пиастри.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/53/dea1acecd4c6e8c1b6abf07316601.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25830755",
-    "time": "2025-12-05T14:30:15.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3367582.html",
+    "time": "2025-12-05T11:41:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-12-05T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Образ дня от Алины Загитовой: челка и чулки, пиджак и кружевной лифчик",
-    "description": "Лабутены и сумка Hermes.",
-    "fullText": "Лабутены и сумка Hermes.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/a2/976200ebc42078add72dbfe9e820c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3368333.html",
-    "time": "2025-12-05T11:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Romeo is a Dead Man от Гоити Суды будет стоить 50 долларов — трейлер",
-    "description": "Экшен действительно выйдет 11 февраля 2026 года.",
-    "fullText": "Экшен действительно выйдет 11 февраля 2026 года.",
-    "image": "https://leonardo.osnova.io/ea9465e5-c262-531a-94d2-afa6d1b7970a/-/format/mp4/",
+    "title": "Netflix вступил в эксклюзивные переговоры с Warner Bros. Discovery о покупке кинокомпании",
+    "description": "В индустрии уже начинается паника.",
+    "fullText": "В индустрии уже начинается паника.",
+    "image": "https://leonardo.osnova.io/83eb5dc9-0066-527c-a39c-a026e207311d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4512745-romeo-is-a-dead-man-ot-goiti-sudy-vyidet-11-fevralya?from=rss",
-    "time": "2025-12-05T07:20:31.000Z"
+    "url": "https://dtf.ru/cinema/4512633-netflix-peregovory-pokupka-warner-bros-discovery?from=rss",
+    "time": "2025-12-05T06:50:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
