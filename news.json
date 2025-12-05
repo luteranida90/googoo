@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На инфраструктуру Дальнего Востока направят более 500 млн рублей",
+    "description": "Субсидии из федерального бюджета получат Забайкальский, Приморский и Хабаровский края, а также Магаданская область",
+    "fullText": "Субсидии из федерального бюджета получат Забайкальский, Приморский и Хабаровский края, а также Магаданская область",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25823637",
+    "time": "2025-12-05T06:12:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Беспредел в боксе: абсолютные чемпионы лишаются поясов из-за жадного президента WBC",
+    "description": "Пострадали Бивол и Кроуфорд.",
+    "fullText": "Пострадали Бивол и Кроуфорд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/72/0d6558f7d44f08b146d7c5032d2bf.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3368184.html",
+    "time": "2025-12-04T19:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Аналог рилсов из нулевых: легендарная «косынка» из Windows",
     "description": "Теперь с хоккейными картами.",
@@ -11,28 +33,6 @@
     "time": "2025-12-04T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "А Батракова знают в родном городе? Я съездил туда – и удивился",
-    "description": "Футбол vs Киберспорт.",
-    "fullText": "Футбол vs Киберспорт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/52/df716710b4f229118d48671c4c5a9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3368101.html",
-    "time": "2025-12-04T17:13:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В РПЛ молодежь играет чаще, чем в АПЛ, Ла Лиге и Бундеслиге: факт года",
-    "description": "Благодаря ЦСКА и вопреки «Зениту».",
-    "fullText": "Благодаря ЦСКА и вопреки «Зениту».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/96/2022108884587b83a536751a2e730.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368177.html",
-    "time": "2025-12-04T17:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "System Shock, The Thing, Turok и другие переиздания от Nightdive сняли с продажи в российском Steam",
     "description": "Студией владеет издательство Atari, которое, судя по всему, и ввело ограничения — выпущенные им игры тоже недоступны в РФ.",
@@ -42,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4511138-nightdive-snyal-s-prodazhi-system-shock-the-thing-i-turok-v-rossii?from=rss",
     "time": "2025-12-04T13:37:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
