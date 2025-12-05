@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Татарстане объявили беспилотную опасность",
-    "description": "Об этом сообщили в МЧС",
-    "fullText": "Об этом сообщили в МЧС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25821911",
-    "time": "2025-12-04T22:21:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Аналог рилсов из нулевых: легендарная «косынка» из Windows",
     "description": "Теперь с хоккейными картами.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В PS Store появилась дата релиза Romeo is a Dead Man от студии Гоити Суды — 11 февраля 2026 года",
-    "description": "Официально день выхода игры объявят уже скоро.",
-    "fullText": "Официально день выхода игры объявят уже скоро.",
-    "image": "https://leonardo.osnova.io/4e1166ca-2541-55b5-8e37-0ee36a1922a2/",
+    "title": "На Netflix вышел сериал «Покинутые» от шоураннера «Сынов анархии» Курта Саттера",
+    "description": "У шоу, в котором снялись Лина Хиди и Джиллиан Андерсон, смешанные оценки от СМИ — 45 баллов из 100 на Metacritic.",
+    "fullText": "У шоу, в котором снялись Лина Хиди и Джиллиан Андерсон, смешанные оценки от СМИ — 45 баллов из 100 на Metacritic.",
+    "image": "https://leonardo.osnova.io/1dfbcd35-3b5d-57d5-92c6-3996c37cab2a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4511952-data-reliza-romeo-is-a-dead-man?from=rss",
-    "time": "2025-12-04T18:56:00.000Z"
+    "url": "https://dtf.ru/cinema/4511864-serial-pokinutye-na-netflix-ot-kurta-sattera?from=rss",
+    "time": "2025-12-04T18:30:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -53,5 +42,16 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3368177.html",
     "time": "2025-12-04T17:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
