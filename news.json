@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Новочеркасске назначили нового главу после ареста предыдущего",
+    "description": "Им стал исполнительный директор компании \"Экотехнологии\" Павел Исаков",
+    "fullText": "Им стал исполнительный директор компании \"Экотехнологии\" Павел Исаков",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25829555",
+    "time": "2025-12-05T12:25:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Только три испанца забили больше 25 голов в ЛЧ. Вспомните их?",
     "description": "Тут нет Торреса.",
@@ -11,36 +22,25 @@
     "time": "2025-12-05T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В проекте РКК прошли обучение свыше 500 переселенцев из Донбасса и Украины",
-    "description": "Получить специальность на новом месте жительства могут беженцы, вынужденно покинувшие свои дома после февраля 2022 года",
-    "fullText": "Получить специальность на новом месте жительства могут беженцы, вынужденно покинувшие свои дома после февраля 2022 года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25828613",
-    "time": "2025-12-05T11:25:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кучерова обокрали! Сначала Малкин, а потом и судьи",
-    "description": "Мощнейший матч «Тампы» и «Питтсбурга».",
-    "fullText": "Мощнейший матч «Тампы» и «Питтсбурга».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/59/b0131512548619455eff5c4da73c4.jpeg",
+    "title": "Хет-трик Неймара – первый с 2022-го! С травмой спасает «Сантос» от вылета",
+    "description": "Пять голов в трех матчах.",
+    "fullText": "Пять голов в трех матчах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6c/cd5f4b2cb467d9013f8962c676b3d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3368307.html",
-    "time": "2025-12-05T07:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368114.html",
+    "time": "2025-12-05T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Creative Assembly анонсировала Total War: Medieval III",
-    "description": "Появился дебютный трейлер и несколько концепт-артов.",
-    "fullText": "Появился дебютный трейлер и несколько концепт-артов.",
-    "image": "https://leonardo.osnova.io/4e1cc930-52ba-54d5-86de-cb47a75430bb/",
+    "title": "Студия создателя Just Cause Кристофера Сундберга анонсировала Samson — свою дебютную игру",
+    "description": "Появился первый трейлер, скриншоты и детали экшена, сюжет которого расскажет о мужчине, пытающемся спасти сестру.",
+    "fullText": "Появился первый трейлер, скриншоты и детали экшена, сюжет которого расскажет о мужчине, пытающемся спасти сестру.",
+    "image": "https://leonardo.osnova.io/e7a1b478-4f14-54ff-8836-d5e9607b7ebc/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4511647-total-war-medieval-iii-anonsirovana-studiej-creative-assembly?from=rss",
-    "time": "2025-12-04T17:00:37.000Z"
+    "url": "https://dtf.ru/games/4512085-liquid-swords-anonsirovala-igru-samson?from=rss",
+    "time": "2025-12-04T22:42:18.000Z"
   }
 ]
