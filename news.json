@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сальдо: промышленность правобережья Днепра нужна для самообеспеченности Херсонщины",
+    "description": "Губернатор региона отметил, что сильный удар по сельскохозяйственной отрасли был нанесен разрушением плотины Каховской ГЭС в июне 2023 года",
+    "fullText": "Губернатор региона отметил, что сильный удар по сельскохозяйственной отрасли был нанесен разрушением плотины Каховской ГЭС в июне 2023 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25831219",
+    "time": "2025-12-05T15:30:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто уйдет на зимнюю паузу чемпионом? Подогрейте интерес к развязке в РПЛ",
+    "description": "Выберите 5 героев тура.",
+    "fullText": "Выберите 5 героев тура.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/41/73d46229649869d67126b79cb2d8e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/cb3gt8",
+    "time": "2025-12-05T14:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Все расклады финала «Ф-1»: кто фаворит Гран-при Абу-Даби и битвы за чемпионство?",
     "description": "Сценарии титулов Ферстаппена, Норриса и Пиастри.",
@@ -11,36 +33,14 @@
     "time": "2025-12-05T11:41:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Только три испанца забили больше 25 голов в ЛЧ. Вспомните их?",
-    "description": "Тут нет Торреса.",
-    "fullText": "Тут нет Торреса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/60/9ffc7a0314083997a208bcb993b42.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-05T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix вступил в эксклюзивные переговоры с Warner Bros. Discovery о покупке кинокомпании",
-    "description": "В индустрии уже начинается паника.",
-    "fullText": "В индустрии уже начинается паника.",
-    "image": "https://leonardo.osnova.io/83eb5dc9-0066-527c-a39c-a026e207311d/",
+    "title": "Новая Carmageddon, сюжетный трейлер Dawn of War IV и пошаговый спин-офф DUSK: что показали на PC Gaming Show",
+    "description": "Среди прочего — экшен Samson от автора Just Cause, стратегия по «Звёздному крейсеру „Галактика“» и Crimson Desert, предзаказы которой уже открыты.",
+    "fullText": "Среди прочего — экшен Samson от автора Just Cause, стратегия по «Звёздному крейсеру „Галактика“» и Crimson Desert, предзаказы которой уже открыты.",
+    "image": "https://leonardo.osnova.io/8ec55ee7-0f80-5443-aa0a-842d742885b9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4512633-netflix-peregovory-pokupka-warner-bros-discovery?from=rss",
-    "time": "2025-12-05T06:50:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4512090-carmageddon-dawn-of-war-dusk-pc-gaming-show?from=rss",
+    "time": "2025-12-04T23:56:01.000Z"
   }
 ]
