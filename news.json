@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На инфраструктуру Дальнего Востока направят более 500 млн рублей",
-    "description": "Субсидии из федерального бюджета получат Забайкальский, Приморский и Хабаровский края, а также Магаданская область",
-    "fullText": "Субсидии из федерального бюджета получат Забайкальский, Приморский и Хабаровский края, а также Магаданская область",
+    "title": "Московские бобры завершили подготовку к зиме",
+    "description": "Они заготовили запасы корма и укрепили свои жилища и хатки, сообщил старший научный сотрудник ИПЭЭ РАН Иван Башинский",
+    "fullText": "Они заготовили запасы корма и укрепили свои жилища и хатки, сообщил старший научный сотрудник ИПЭЭ РАН Иван Башинский",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25823637",
-    "time": "2025-12-05T06:12:24.000Z"
+    "url": "https://tass.ru/obschestvo/25822641",
+    "time": "2025-12-05T06:39:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в Комбо. Сможете лучше?",
+    "description": "Их больше сорока!",
+    "fullText": "Их больше сорока!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2025-12-04T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-12-04T19:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Аналог рилсов из нулевых: легендарная «косынка» из Windows",
-    "description": "Теперь с хоккейными картами.",
-    "fullText": "Теперь с хоккейными картами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/14/53a3b915e429090f8f04cc8379d6a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/k0sbd7",
-    "time": "2025-12-04T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "System Shock, The Thing, Turok и другие переиздания от Nightdive сняли с продажи в российском Steam",
-    "description": "Студией владеет издательство Atari, которое, судя по всему, и ввело ограничения — выпущенные им игры тоже недоступны в РФ.",
-    "fullText": "Студией владеет издательство Atari, которое, судя по всему, и ввело ограничения — выпущенные им игры тоже недоступны в РФ.",
-    "image": "https://leonardo.osnova.io/8f910b80-e918-5930-a630-dca2c3a6acc9/",
+    "title": "На Netflix вышел сериал «Покинутые» от шоураннера «Сынов анархии» Курта Саттера",
+    "description": "У шоу, в котором снялись Лина Хиди и Джиллиан Андерсон, смешанные оценки от СМИ — 45 баллов из 100 на Metacritic.",
+    "fullText": "У шоу, в котором снялись Лина Хиди и Джиллиан Андерсон, смешанные оценки от СМИ — 45 баллов из 100 на Metacritic.",
+    "image": "https://leonardo.osnova.io/1dfbcd35-3b5d-57d5-92c6-3996c37cab2a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4511138-nightdive-snyal-s-prodazhi-system-shock-the-thing-i-turok-v-rossii?from=rss",
-    "time": "2025-12-04T13:37:52.000Z"
+    "url": "https://dtf.ru/cinema/4511864-serial-pokinutye-na-netflix-ot-kurta-sattera?from=rss",
+    "time": "2025-12-04T18:30:06.000Z"
   }
 ]
