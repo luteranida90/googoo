@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Новой Зеландии изъяли кулон в форме яйца Фаберже у проглотившего его вора",
-    "description": "Стоимость украшения составляет около $19 тыс.",
-    "fullText": "Стоимость украшения составляет около $19 тыс.",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25823169",
-    "time": "2025-12-05T04:57:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Аналог рилсов из нулевых: легендарная «косынка» из Windows",
     "description": "Теперь с хоккейными картами.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4511138-nightdive-snyal-s-prodazhi-system-shock-the-thing-i-turok-v-rossii?from=rss",
     "time": "2025-12-04T13:37:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
