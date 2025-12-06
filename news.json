@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сафонов не пропустил ни одного мяча в первом матче за ПСЖ в сезоне",
-    "description": "Парижская команда обыграла \"Ренн\" со счетом 5:0",
-    "fullText": "Парижская команда обыграла \"Ренн\" со счетом 5:0",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25836927",
-    "time": "2025-12-06T21:58:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шнякин и Буффон в одном составе! Как так вышло?",
     "description": "Нет, это не сюжет из фифы.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все расклады финала «Ф-1»: Ферстаппен на поуле, но он ли фаворит гонки и битвы за чемпионство?",
-    "description": "Сценарии титулов Ферстаппена, Норриса и Пиастри.",
-    "fullText": "Сценарии титулов Ферстаппена, Норриса и Пиастри.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/53/dea1acecd4c6e8c1b6abf07316601.jpeg",
+    "title": "2 гола «Динамо» отменили – так сорвалась победа на 85-й! «Спартаку» повезло?",
+    "description": "Будет много споров.",
+    "fullText": "Будет много споров.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6e/4212e832e4451b6999697e409ca06.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3367582.html",
-    "time": "2025-12-06T18:28:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368654.html",
+    "time": "2025-12-06T18:54:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
