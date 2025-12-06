@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Косторная призналась, что очень волновалась из-за дебюта в роли капитана",
-    "description": "Фигуристка была капитаном команды на Кубке Первого канала среди юниоров в Калуге",
-    "fullText": "Фигуристка была капитаном команды на Кубке Первого канала среди юниоров в Калуге",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251206/8656189.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Только два испанца забили больше 25 голов в ЛЧ в этом веке. Назовете их?",
+    "description": "Тут нет Торреса.",
+    "fullText": "Тут нет Торреса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/60/9ffc7a0314083997a208bcb993b42.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25836461",
-    "time": "2025-12-06T17:56:09.000Z"
+    "url": "https://sirena.world/r58w11",
+    "time": "2025-12-06T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -44,17 +44,6 @@
     "time": "2025-12-06T14:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "У Яна – новый титульный шанс. А как дела у других бойцов UFC из России?",
-    "description": "Большой рейтинг Спортса’‘.",
-    "fullText": "Большой рейтинг Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/96/7a4ddb6714683960c5caa99fc1251.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/bdxhmx",
-    "time": "2025-12-06T14:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Полнометражный фильм по «Острым козырькам» выйдет в марте 2026 года — дебютный постер",
     "description": "Киллиан Мёрфи на коне.",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
