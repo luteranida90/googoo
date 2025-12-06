@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Геннадия Головкина включили в Международный зал боксерской славы",
+    "description": "Представитель Казахстана 19 раз защищал титул чемпиона мира WBA, пять раз - WBC, четыре раза - IBF",
+    "fullText": "Представитель Казахстана 19 раз защищал титул чемпиона мира WBA, пять раз - WBC, четыре раза - IBF",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25834297",
+    "time": "2025-12-06T07:01:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Промес – лучший легионер-бомбардир FONBET Кубка России. А кто на втором месте?",
     "description": "Скоро уже обгонит Квинси.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто выйдет с 1-го места из групп на ЧМ-2026: ожидания",
-    "description": "Все – по номинациям.",
-    "fullText": "Все – по номинациям.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c0/b87a6a973412f93283334eaf1c912.jpeg",
+    "title": "ФНЛ вынесла Медиалигу по ее правилам: с буллитами перед матчем и чистым временем",
+    "description": "При полных трибунах в Абхазии.",
+    "fullText": "При полных трибунах в Абхазии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f1/56eae0f6d47b78e383a3b34df3591.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3368529.html",
-    "time": "2025-12-05T22:00:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3368544.html",
+    "time": "2025-12-05T22:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
