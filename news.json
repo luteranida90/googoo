@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Аляске произошло землетрясение магнитудой 7,0",
-    "description": "Эпицентр находился недалеко от города Якутат",
-    "fullText": "Эпицентр находился недалеко от города Якутат",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "\"Зенит\" стал лидером, \"Спартак\" и \"Динамо\" сыграли вничью. Итоги дня в РПЛ",
+    "description": "Петербургская команда опередила \"Краснодар\" и ЦСКА, которые проведут очный матч в воскресенье",
+    "fullText": "Петербургская команда опередила \"Краснодар\" и ЦСКА, которые проведут очный матч в воскресенье",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251207/8656381.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25836845",
-    "time": "2025-12-06T21:12:49.000Z"
+    "url": "https://tass.ru/sport/25836873",
+    "time": "2025-12-06T21:26:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Шнякин и Буффон в одном составе! Как так вышло?",
+    "description": "Нет, это не сюжет из фифы.",
+    "fullText": "Нет, это не сюжет из фифы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/d9/554c5999c476293d5af2049affb1b.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/gnkvpp",
+    "time": "2025-12-06T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://www.sports.ru/boxing/blogs/3365353.html",
     "time": "2025-12-06T18:02:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Только два испанца забили больше 25 голов в ЛЧ в этом веке. Назовете их?",
-    "description": "Тут нет Торреса.",
-    "fullText": "Тут нет Торреса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/60/9ffc7a0314083997a208bcb993b42.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-06T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
