@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Чернигове произошел взрыв",
+    "description": "В области звучат сирены воздушной тревоги",
+    "fullText": "В области звучат сирены воздушной тревоги",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25834535",
+    "time": "2025-12-06T08:05:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Промес – лучший легионер-бомбардир FONBET Кубка России. А кто на втором месте?",
     "description": "Скоро уже обгонит Квинси.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что вы пропустили в 14-м туре АПЛ: Пеп потерял волосы, Эмери бросил куртку и стал лучшим",
-    "description": "Ромеро передразнил Гимараэса.",
-    "fullText": "Ромеро передразнил Гимараэса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ea/87007003b4c0cb146a06b79a178b8.jpeg",
+    "title": "Мексика – ЮАР в матче открытия ЧМ-2026. Как в 2010-м с Сифиве Тшабалалой!",
+    "description": "А Маркес поучаствует снова.",
+    "fullText": "А Маркес поучаствует снова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e3/d49f80dee4aa9a33a6b481d224ed8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368207.html",
-    "time": "2025-12-05T22:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368513.html",
+    "time": "2025-12-05T23:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
