@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Польша обратилась в Интерпол для розыска обвиняемых в подрыве ж/д путей украинцев",
+    "description": "Речь идет об Александре Кононове и Евгении Иванове, сообщила пресс-секретарь польской полиции",
+    "fullText": "Речь идет об Александре Кононове и Евгении Иванове, сообщила пресс-секретарь польской полиции",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25839183",
+    "time": "2025-12-07T12:36:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Сколько миллионов нужно, чтобы провести мейджор по CS?",
     "description": "Считаем нули.",
@@ -11,15 +22,15 @@
     "time": "2025-12-07T12:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дегтярев: поступок Большунова выглядит некрасиво",
-    "description": "После гонки на Кубке России олимпийский чемпион толкнул лыжника Александра Бакурова, нанеся ему травму",
-    "fullText": "После гонки на Кубке России олимпийский чемпион толкнул лыжника Александра Бакурова, нанеся ему травму",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250805/8381181.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вспомните бразильцев с голами за «Зенит» при Семаке? Мы насчитали 15",
+    "description": "Селесао.",
+    "fullText": "Селесао.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/2f/ac9d50e55420ab02a4d55cdf248dc.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25837779",
-    "time": "2025-12-07T12:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368820.html",
+    "time": "2025-12-07T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2025-12-07T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Худший способ отдать пояс UFC – сломать руку за 26 секунд",
-    "description": "Обидная травма Пантожи.",
-    "fullText": "Обидная травма Пантожи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/0f/7346a8e93475fb8be9518bd5c95ba.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3368805.html",
-    "time": "2025-12-07T08:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Resident Evil Requiem покажут на The Game Awards",
-    "description": "Организаторы шоу пообещали поделиться новыми материалами.",
-    "fullText": "Организаторы шоу пообещали поделиться новыми материалами.",
-    "image": "https://leonardo.osnova.io/2f23d6e9-7b9e-53a0-a992-389fc3d85870/",
+    "title": "Условно-бесплатный файтинг 2XKO с героями League of Legends появится на консолях в январе 2026 года",
+    "description": "Аккурат к запуску первого сезона с новым бойцом.",
+    "fullText": "Аккурат к запуску первого сезона с новым бойцом.",
+    "image": "https://leonardo.osnova.io/fbf98600-439f-546f-83a1-a5b3a552aa64/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4513854-resident-evil-requiem-na-the-game-awards?from=rss",
-    "time": "2025-12-05T16:29:34.000Z"
+    "url": "https://dtf.ru/games/4514089-fayting-2xko-s-geroyami-league-of-legends-vyydet-na-konsolyakh-v-2026-godu?from=rss",
+    "time": "2025-12-05T18:25:48.000Z"
   }
 ]
