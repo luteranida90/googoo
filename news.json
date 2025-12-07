@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В CS драма круче любого сериала. Матч с сюжетом, который не придумает Netflix",
+    "description": "Жара на мейджоре.",
+    "fullText": "Жара на мейджоре.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ec/96318ba1a4d0fa9bf92f6720a8ee1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3368900.html",
+    "time": "2025-12-07T16:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Рекорд Малинина, финал «Ф-1» или итоги тура РПЛ – выбирайте ваше",
     "description": "В «Моей Ленте».",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sprts.cc/2qm4or",
     "time": "2025-12-07T15:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Куляк получил автомобиль за выступление в Гимнастической премьер-лиге",
+    "description": "Финал Гимнастической премьер-лиги проходил 7 декабря в Москве",
+    "fullText": "Финал Гимнастической премьер-лиги проходил 7 декабря в Москве",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251207/8657277.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25839731",
+    "time": "2025-12-07T15:44:11.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +55,6 @@
     "time": "2025-12-07T12:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Сколько миллионов нужно, чтобы провести мейджор по CS?",
-    "description": "Считаем нули.",
-    "fullText": "Считаем нули.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/b9/569e03b1843b8b2a9aa753e6b59b8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3367548.html",
-    "time": "2025-12-07T12:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Условно-бесплатный файтинг 2XKO с героями League of Legends появится на консолях в январе 2026 года",
     "description": "Аккурат к запуску первого сезона с новым бойцом.",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4514089-fayting-2xko-s-geroyami-league-of-legends-vyydet-na-konsolyakh-v-2026-godu?from=rss",
     "time": "2025-12-05T18:25:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
