@@ -11,17 +11,6 @@
     "time": "2025-12-07T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киевской области жители начали протестовать против отсутствия света",
-    "description": "Света в поселке городского типа Крюковщина нет уже двое суток",
-    "fullText": "Света в поселке городского типа Крюковщина нет уже двое суток",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25839847",
-    "time": "2025-12-07T16:48:16.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "В CS драма круче любого сериала. Матч с сюжетом, который не придумает Netflix",
     "description": "Жара на мейджоре.",
@@ -45,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Выйди и дай ему #####». Шокирующая победа Яна – избил Мераба до крови",
-    "description": "Отомстил в реванше.",
-    "fullText": "Отомстил в реванше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c1/905be29604620b350756919d50c52.jpeg",
+    "title": "Почему Ян – главный русский агрессор в UFC",
+    "description": "Наблюдения Вадима Тихомирова.",
+    "fullText": "Наблюдения Вадима Тихомирова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/4c/73c4650ba406aa842d624ba144553.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3368704.html",
-    "time": "2025-12-07T14:00:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3368832.html",
+    "time": "2025-12-07T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513324-netflix-pokupaet-warner-bros-za-82-7-milliarda-dollara?from=rss",
     "time": "2025-12-05T12:12:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
