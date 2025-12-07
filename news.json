@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кадыров сообщил о проведении ВС РФ самых длительных воздушных ударов по Украине",
+    "description": "Глава Чечни заявил, что работа велась по целям в Киевской, Полтавской, Черниговской, Днепропетровской, Сумской, Харьковской, Запорожской, Херсонской и в других областях",
+    "fullText": "Глава Чечни заявил, что работа велась по целям в Киевской, Полтавской, Черниговской, Днепропетровской, Сумской, Харьковской, Запорожской, Херсонской и в других областях",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25840033",
+    "time": "2025-12-07T18:09:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Каждый хоть раз заигрывался в автоматы-хватайки. Тряхните стариной в новом спецпроекте",
     "description": "Призы лучше, чем в детстве!",
@@ -34,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Ян – главный русский агрессор в UFC",
-    "description": "Наблюдения Вадима Тихомирова.",
-    "fullText": "Наблюдения Вадима Тихомирова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/4c/73c4650ba406aa842d624ba144553.jpeg",
+    "title": "Ландо Норрис – 35-й чемпион «Ф-1»! Детали большой победы",
+    "description": "Трудовой титул.",
+    "fullText": "Трудовой титул.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/26/ae2ff0cd748378bb4a6858d902d19.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3368832.html",
+    "url": "https://www.sports.ru/automoto/blogs/3367081.html",
     "time": "2025-12-07T14:30:00.000Z"
   },
   {
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513324-netflix-pokupaet-warner-bros-za-82-7-milliarda-dollara?from=rss",
     "time": "2025-12-05T12:12:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
