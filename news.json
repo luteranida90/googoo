@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Миннесота\" проиграла \"Ванкуверу\" в матче НХЛ. Капризов сделал передачу",
-    "description": "Встреча завершилась домашней победой \"Ванкувера\" со счетом 4:2",
-    "fullText": "Встреча завершилась домашней победой \"Ванкувера\" со счетом 4:2",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
+    "description": "Не показывайте это Жозе.",
+    "fullText": "Не показывайте это Жозе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/74/fa1a796f44e528d27c25a098ff157.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25837805",
-    "time": "2025-12-07T06:16:10.000Z"
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2025-12-07T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2025-12-06T21:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Угадаете сборную ЧМ-2026 по логотипу?",
-    "description": "Пора отличать Парагвай от Панамы.",
-    "fullText": "Пора отличать Парагвай от Панамы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/af/d20b9b4b84da9aebb3f230de2e13b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/kr3rwb",
-    "time": "2025-12-06T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Полнометражный фильм по «Острым козырькам» выйдет в марте 2026 года — дебютный постер",
     "description": "Киллиан Мёрфи на коне.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
