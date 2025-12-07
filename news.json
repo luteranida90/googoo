@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Каждый хоть раз заигрывался в автоматы-хватайки. Тряхните стариной в новом спецпроекте",
+    "description": "Призы лучше, чем в детстве!",
+    "fullText": "Призы лучше, чем в детстве!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/e4/2269100da494fb69192b260e3a189.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/57bpx7",
+    "time": "2025-12-07T17:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Концерт Русского дома в Бангладеш собрал более 13 тыс. зрителей",
-    "description": "Мероприятие было посвящено 100-летию российской народной дипломатии и Дню Победы Бангладеш, сообщили в Россотрудничестве",
-    "fullText": "Мероприятие было посвящено 100-летию российской народной дипломатии и Дню Победы Бангладеш, сообщили в Россотрудничестве",
+    "title": "В Киевской области жители начали протестовать против отсутствия света",
+    "description": "Света в поселке городского типа Крюковщина нет уже двое суток",
+    "fullText": "Света в поселке городского типа Крюковщина нет уже двое суток",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25839799",
-    "time": "2025-12-07T16:19:31.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25839847",
+    "time": "2025-12-07T16:48:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,35 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "8 голов «Махачкалы» – почти антирекорд РПЛ. В Европе сейчас только один клуб хуже",
-    "description": "Не гарантия вылета, но близко.",
-    "fullText": "Не гарантия вылета, но близко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/98/d2bd243b84159ac482bfc23ea5959.jpeg",
+    "title": "«Выйди и дай ему #####». Шокирующая победа Яна – избил Мераба до крови",
+    "description": "Отомстил в реванше.",
+    "fullText": "Отомстил в реванше.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c1/905be29604620b350756919d50c52.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3367917.html",
-    "time": "2025-12-07T13:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Лишь два француза забили больше сотни в АПЛ. Вспомните обоих?",
-    "description": "Один из них – абсолютный культ.",
-    "fullText": "Один из них – абсолютный культ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/7d/f9b27c5d6469fb0c3cc970a9f37de.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-07T13:30:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3368704.html",
+    "time": "2025-12-07T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джон Бернтал сообщил, что релиз спецэпизода «Карателя» состоится летом 2026 года",
-    "description": "Актёр обещает «впечатляющее зрелище».",
-    "fullText": "Актёр обещает «впечатляющее зрелище».",
-    "image": "https://leonardo.osnova.io/36a9c187-5a54-58ed-acd8-1dbdf7ace348/",
+    "title": "Netflix объявил о покупке Warner Bros. за 82,7 миллиарда долларов",
+    "description": "Библиотека онлайн-кинотеатра заметно расширится.",
+    "fullText": "Библиотека онлайн-кинотеатра заметно расширится.",
+    "image": "https://leonardo.osnova.io/7382aad9-e384-50d3-9a0c-1eacafb2312b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4514084-jon-berntal-anonsiroval-reliz-spetsepizoda-karatelja-letom-2026-goda?from=rss",
-    "time": "2025-12-05T18:35:53.000Z"
+    "url": "https://dtf.ru/cinema/4513324-netflix-pokupaet-warner-bros-za-82-7-milliarda-dollara?from=rss",
+    "time": "2025-12-05T12:12:14.000Z"
   }
 ]
