@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Из-за затопления зала библиотеки Лувра повреждены несколько сотен книг",
+    "description": "По данным канала BFMTV, инцидент произошел 26 ноября",
+    "fullText": "По данным канала BFMTV, инцидент произошел 26 ноября",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25840507",
+    "time": "2025-12-07T20:47:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Каждый хоть раз заигрывался в автоматы-хватайки. Тряхните стариной в новом спецпроекте",
     "description": "Призы лучше, чем в детстве!",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513324-netflix-pokupaet-warner-bros-za-82-7-milliarda-dollara?from=rss",
     "time": "2025-12-05T12:12:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
