@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Концерт Русского дома в Бангладеш собрал более 13 тыс. зрителей",
+    "description": "Мероприятие было посвящено 100-летию российской народной дипломатии и Дню Победы Бангладеш, сообщили в Россотрудничестве",
+    "fullText": "Мероприятие было посвящено 100-летию российской народной дипломатии и Дню Победы Бангладеш, сообщили в Россотрудничестве",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25839799",
+    "time": "2025-12-07T16:19:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "В CS драма круче любого сериала. Матч с сюжетом, который не придумает Netflix",
     "description": "Жара на мейджоре.",
@@ -22,15 +33,15 @@
     "time": "2025-12-07T15:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Куляк получил автомобиль за выступление в Гимнастической премьер-лиге",
-    "description": "Финал Гимнастической премьер-лиги проходил 7 декабря в Москве",
-    "fullText": "Финал Гимнастической премьер-лиги проходил 7 декабря в Москве",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251207/8657277.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "8 голов «Махачкалы» – почти антирекорд РПЛ. В Европе сейчас только один клуб хуже",
+    "description": "Не гарантия вылета, но близко.",
+    "fullText": "Не гарантия вылета, но близко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/98/d2bd243b84159ac482bfc23ea5959.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25839731",
-    "time": "2025-12-07T15:44:11.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3367917.html",
+    "time": "2025-12-07T13:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -44,25 +55,14 @@
     "time": "2025-12-07T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ред Булл» выиграл в Абу-Даби, но не остановил Норриса на пути к титулу",
-    "description": "Хроника Гран-при Абу-Даби.",
-    "fullText": "Хроника Гран-при Абу-Даби.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/3d/0c43cf1794a36a0c4e661a00fffdb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3368131.html",
-    "time": "2025-12-07T12:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Условно-бесплатный файтинг 2XKO с героями League of Legends появится на консолях в январе 2026 года",
-    "description": "Аккурат к запуску первого сезона с новым бойцом.",
-    "fullText": "Аккурат к запуску первого сезона с новым бойцом.",
-    "image": "https://leonardo.osnova.io/fbf98600-439f-546f-83a1-a5b3a552aa64/",
+    "title": "Джон Бернтал сообщил, что релиз спецэпизода «Карателя» состоится летом 2026 года",
+    "description": "Актёр обещает «впечатляющее зрелище».",
+    "fullText": "Актёр обещает «впечатляющее зрелище».",
+    "image": "https://leonardo.osnova.io/36a9c187-5a54-58ed-acd8-1dbdf7ace348/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4514089-fayting-2xko-s-geroyami-league-of-legends-vyydet-na-konsolyakh-v-2026-godu?from=rss",
-    "time": "2025-12-05T18:25:48.000Z"
+    "url": "https://dtf.ru/cinema/4514084-jon-berntal-anonsiroval-reliz-spetsepizoda-karatelja-letom-2026-goda?from=rss",
+    "time": "2025-12-05T18:35:53.000Z"
   }
 ]
