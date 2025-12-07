@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В подконтрольной Киеву части Запорожской области произошли взрывы",
-    "description": "В городе Запорожье пропал свет",
-    "fullText": "В городе Запорожье пропал свет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25840347",
-    "time": "2025-12-07T19:51:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Каждый хоть раз заигрывался в автоматы-хватайки. Тряхните стариной в новом спецпроекте",
     "description": "Призы лучше, чем в детстве!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как просили фанаты, Биджиев ушел из «Махачкалы». Грустно, что так",
-    "description": "И неожиданно.",
-    "fullText": "И неожиданно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/04/28928e37a471aa716bf5642e40722.jpeg",
+    "title": "Кадр дня: Баринов передает капитанство в «Локо». На прощание?",
+    "description": "ЦСКА очень ждет.",
+    "fullText": "ЦСКА очень ждет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d0/9bfae83784f26ba7af838e3d16416.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368914.html",
-    "time": "2025-12-07T16:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368933.html",
+    "time": "2025-12-07T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513324-netflix-pokupaet-warner-bros-za-82-7-milliarda-dollara?from=rss",
     "time": "2025-12-05T12:12:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
