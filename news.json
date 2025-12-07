@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Амур\" обыграл СКА в перенесенном матче КХЛ",
+    "description": "Хабаровская команда победила в серии буллитов",
+    "fullText": "Хабаровская команда победила в серии буллитов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251207/8656837.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25838457",
+    "time": "2025-12-07T09:41:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Краснодар» встречает ЦСКА. Кто окажется сильнее?",
     "description": "Решайте с фрибетом 7777 рублей!",
@@ -11,36 +22,25 @@
     "time": "2025-12-07T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВС РФ ударили по транспортной и топливной инфраструктуре ВСУ",
-    "description": "Российские бойцы применили высокоточное оружие наземного базирования, аэробаллистические гиперзвуковые ракеты \"Кинжал\" и беспилотные летательные аппараты дальнего действия",
-    "fullText": "Российские бойцы применили высокоточное оружие наземного базирования, аэробаллистические гиперзвуковые ракеты \"Кинжал\" и беспилотные летательные аппараты дальнего действия",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25838251",
-    "time": "2025-12-07T09:12:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Месси взял МЛС! Двумя ассистами вручил «Интеру» такой долгожданный трофей",
-    "description": "Идеально проводили Бускетса и Альбу.",
-    "fullText": "Идеально проводили Бускетса и Альбу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/2d/ef81118e5405dbb9223249dfd2a94.jpeg",
+    "title": "Петр Ян сожрал Мераба! Снова чемпион UFC!",
+    "description": "Главное – из Лас-Вегаса.",
+    "fullText": "Главное – из Лас-Вегаса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/9d/0cf760234414b8ad14fc9c7f92652.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368746.html",
-    "time": "2025-12-07T05:40:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3365353.html",
+    "time": "2025-12-07T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Тим Кейн вернулся в студию Obsidian Entertainment в качестве постоянного сотрудника",
-    "description": "Он покинул команду в 2020-м, но не терял с ней связи, выступив консультантом The Outer Worlds 2.",
-    "fullText": "Он покинул команду в 2020-м, но не терял с ней связи, выступив консультантом The Outer Worlds 2.",
-    "image": "https://leonardo.osnova.io/d0cebf1a-abfb-5287-b027-ed1dcbd1faf9/",
+    "title": "Resident Evil Requiem покажут на The Game Awards",
+    "description": "Организаторы шоу пообещали поделиться новыми материалами.",
+    "fullText": "Организаторы шоу пообещали поделиться новыми материалами.",
+    "image": "https://leonardo.osnova.io/2f23d6e9-7b9e-53a0-a992-389fc3d85870/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4513557-tim-keyin-vernulsya-v-obsidian-entertainment?from=rss",
-    "time": "2025-12-05T14:30:27.000Z"
+    "url": "https://dtf.ru/games/4513854-resident-evil-requiem-na-the-game-awards?from=rss",
+    "time": "2025-12-05T16:29:34.000Z"
   }
 ]
