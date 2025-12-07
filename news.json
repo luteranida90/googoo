@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Россотрудничество: ГИТИС провел образовательные тренинги в Кот-д'Ивуаре",
+    "description": "Также институт подписал соглашение о сотрудничестве с местными партнерами",
+    "fullText": "Также институт подписал соглашение о сотрудничестве с местными партнерами",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25837857",
+    "time": "2025-12-07T07:07:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
     "description": "Не показывайте это Жозе.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жерсон наконец-то забил в РПЛ! «Зенит» легко победил «Акрон» после удаления на 14-й минуте",
-    "description": "Семак пока лидирует.",
-    "fullText": "Семак пока лидирует.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/49/e10dbafde4d91b4449c118e9d99c5.jpeg",
+    "title": "Ферстаппен – на поуле в решающей гонке сезона! Норрис и Пиастри – сразу позади",
+    "description": "Пока все в пользу Ландо.",
+    "fullText": "Пока все в пользу Ландо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/fa/5e5b5801149db87a07b4f7b78a779.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368690.html",
-    "time": "2025-12-06T21:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3368673.html",
+    "time": "2025-12-07T00:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
