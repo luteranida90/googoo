@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В семи аэропортах РФ сняли ограничения",
+    "description": "В период действия ограничений на запасной аэродром ушли два самолета, летевших в Оренбург",
+    "fullText": "В период действия ограничений на запасной аэродром ушли два самолета, летевших в Оренбург",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251207/8656595.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25837697",
+    "time": "2025-12-07T05:23:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете сборную ЧМ-2026 по логотипу?",
     "description": "Пора отличать Парагвай от Панамы.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Насколько низко «Спартак» и «Динамо» к паузе? Только дважды было хуже",
-    "description": "Изучаем.",
-    "fullText": "Изучаем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/91/4c65ebaec4377a1f3b67fac7158a1.jpeg",
+    "title": "«Ливерпуль» отдал победу на 90+6, «Арсенал» сгорел на 90+5. Буря в АПЛ!",
+    "description": "Еще и сухой лист.",
+    "fullText": "Еще и сухой лист.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2c/caf6049e94e2682877d1ad1f44fc4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3368601.html",
-    "time": "2025-12-06T19:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368729.html",
+    "time": "2025-12-06T20:26:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4513715-polnometrazhnyy-film-ostrye-kozyrki-vyydet-na-netflix?from=rss",
     "time": "2025-12-05T15:28:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
