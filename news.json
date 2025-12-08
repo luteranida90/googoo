@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Драгунский вошел в топ-3 наиболее продаваемых нон-фикшн книг на Non/fictio№27",
-    "description": "В рейтинге также представлены книги \"Создает ли нейросеть настоящее искусство?\" Льва Наумова и \"2 брата: Валентин Катаев и Евгений Петров на корабле советской истории\" Сергея Белякова",
-    "fullText": "В рейтинге также представлены книги \"Создает ли нейросеть настоящее искусство?\" Льва Наумова и \"2 брата: Валентин Катаев и Евгений Петров на корабле советской истории\" Сергея Белякова",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251208/8659511.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Лишь два француза забили больше сотни в АПЛ. Вспомните обоих?",
+    "description": "Один из них – абсолютный культ.",
+    "fullText": "Один из них – абсолютный культ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/7d/f9b27c5d6469fb0c3cc970a9f37de.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25846369",
-    "time": "2025-12-08T13:16:56.000Z"
+    "url": "https://sirena.world/r58w11",
+    "time": "2025-12-08T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +22,36 @@
     "time": "2025-12-08T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Анчелотти брал ЛЧ не только с «Реалом». Вспомните, с кем еще?",
-    "description": "В нашем тесте.",
-    "fullText": "В нашем тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/35/cbcca2fc249a8ac7f0263c5ea775a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nbqq0t",
-    "time": "2025-12-08T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Горжусь, что признал себя больным человеком». Дарюс Каспарайтис – об алкоголизме, Овечкине и старой НХЛ",
-    "description": "Интервью легенды сборной России.",
-    "fullText": "Интервью легенды сборной России.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/4f/883d740094b3c87d1d9a9f875c9fa.jpeg",
+    "title": "Злодей Бэйн в Готэм-Сити: баскетбол – ❌, вышибалы – ✅",
+    "description": "Интересный выбор.",
+    "fullText": "Интересный выбор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/0d/54f8b9058478c8853426e23ed1b4f.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3368975.html",
-    "time": "2025-12-08T09:15:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3369033.html",
+    "time": "2025-12-08T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Team Fortress 2 Classic переименовали в Classified по просьбе Valve — мод выйдет 30 января 2026 года",
-    "description": "Изначально его хотели выпустить до конца 2025-го.",
-    "fullText": "Изначально его хотели выпустить до конца 2025-го.",
-    "image": "https://leonardo.osnova.io/077bbd26-2856-5a83-b47f-d53d0ed7c919/",
+    "title": "Съёмки третьего сезона сериала «Фоллаут» планируют начать летом 2026 года",
+    "description": "Джонатану Нолану не нравится современный тренд на долгие перерывы.",
+    "fullText": "Джонатану Нолану не нравится современный тренд на долгие перерывы.",
+    "image": "https://leonardo.osnova.io/d3d96df0-2930-5cc5-b83d-e09b44343949/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4518583-team-fortress-2-classic-stal-team-fortress-2-classified?from=rss",
-    "time": "2025-12-08T06:51:40.000Z"
+    "url": "https://dtf.ru/cinema/4518664-syomki-tretiego-sezona-sieriala-follaut-nachnutsia-letom-2026-goda?from=rss",
+    "time": "2025-12-08T07:41:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
