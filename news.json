@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Крашенинников призвал установить норму о видеофиксации сделок с жильем",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nedvizhimost/25843289",
+    "time": "2025-12-08T08:12:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кордоба напитался ненавистью – и засиял на фоне ЦСКА. «Краснодару» помог провал Челестини",
+    "description": "Впечатления Ильи Васильева.",
+    "fullText": "Впечатления Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/8c/7fba2301b480880e72ee9bf98dfeb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3368974.html",
+    "time": "2025-12-08T00:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вау, какой баззер! Выпустил за 0,1 секунды до конца – и принес победу!",
     "description": "Испанский момент на ВидеоСпортсе’‘",
@@ -11,36 +33,14 @@
     "time": "2025-12-07T23:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ландо Норрис – 35-й чемпион «Ф-1»! Детали большой победы",
-    "description": "Трудовой титул.",
-    "fullText": "Трудовой титул.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/26/ae2ff0cd748378bb4a6858d902d19.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3367081.html",
-    "time": "2025-12-07T22:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Rockstar представила апдейт A Safehouse in the Hills для GTA Online — в нём вернётся Майкл де Санта",
-    "description": "Релиз — 10 декабря. В игре также появится редактор заданий.",
-    "fullText": "Релиз — 10 декабря. В игре также появится редактор заданий.",
-    "image": "https://leonardo.osnova.io/47de7deb-723c-56ae-9dec-a1f4d8edbbb5/-/format/mp4/",
+    "title": "Цифровой релиз полнометражного аниме-фильма по «Человеку-бензопиле» состоится уже 9 декабря",
+    "description": "Картина понравилась зрителям — 8,5 балла из 10 на IMDb.",
+    "fullText": "Картина понравилась зрителям — 8,5 балла из 10 на IMDb.",
+    "image": "https://leonardo.osnova.io/03ba9f92-29a4-5fe6-85ce-8ac6a69612fc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4514145-obnovlenie-a-safehouse-in-the-hills-dlya-gta-online?from=rss",
-    "time": "2025-12-05T19:07:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/anime/4514350-tsifrovoy-releez-animye-chelovek-benzopila?from=rss",
+    "time": "2025-12-05T21:40:23.000Z"
   }
 ]
