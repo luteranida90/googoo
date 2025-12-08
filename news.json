@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ленобласти пять человек пострадали в ДТП с пассажирским автобусом",
-    "description": "Среди пострадавших четыре пассажира автобуса и водитель",
-    "fullText": "Среди пострадавших четыре пассажира автобуса и водитель",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25849529",
-    "time": "2025-12-08T18:42:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Steam обязательно заблокируют – и вот почему",
     "description": "Скриньте.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Трактор» убрал еще одного тренера. Что будет дальше?",
-    "description": "Рише долго не продержался.",
-    "fullText": "Рише долго не продержался.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a7/1f456a966455cbb802098bb9b4e1d.jpeg",
+    "title": "Какой отрыв после 18 туров нужен для титула в РПЛ?",
+    "description": "Памятка для «Краснодара».",
+    "fullText": "Памятка для «Краснодара».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/0b/c30ba56814652b413eab084c9e3ae.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3369131.html",
-    "time": "2025-12-08T14:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3368981.html",
+    "time": "2025-12-08T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4518960-goro-madzima-samyy-populyarnyy-personazh-like-a-dragon?from=rss",
     "time": "2025-12-08T10:59:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
