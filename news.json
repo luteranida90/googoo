@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Рольф\" планирует по итогам года увеличить продажи новых авто на 5-6%",
-    "description": "Показатель должен составить до 35 тыс. единиц",
-    "fullText": "Показатель должен составить до 35 тыс. единиц",
+    "title": "В Харьковской области произошли взрывы",
+    "description": "В регионе действует воздушная тревога",
+    "fullText": "В регионе действует воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25845289",
-    "time": "2025-12-08T11:22:01.000Z"
+    "url": "https://tass.ru/proisshestviya/25845963",
+    "time": "2025-12-08T12:24:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Футбол без сплетен, ММА без воды, фигурка без скандалов. Настройте свою ленту на Спортсе’‘",
+    "description": "Попробуйте «Мою Ленту».",
+    "fullText": "Попробуйте «Мою Ленту».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e3/7e633945447488e0a8f2954d54118.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/2qm4or",
+    "time": "2025-12-08T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Момент дня: в честь Неймара скандирует весь стадион. Спас «Сантос» от вылета с травмой",
-    "description": "Есть шанс поехать на ЧМ.",
-    "fullText": "Есть шанс поехать на ЧМ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/46/e0c73f3e04abaa32b19687c5a2492.jpeg",
+    "title": "Черников – лицо «Краснодара». Грубый, но не злой",
+    "description": "Колонка о принятии себя.",
+    "fullText": "Колонка о принятии себя.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/50/5fa1299df4ad3b3614bc4bc0fc385.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369012.html",
-    "time": "2025-12-08T07:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369000.html",
+    "time": "2025-12-08T08:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Game Awards 2025 — «хайп-трейлер» Джеффа Кили",
-    "description": "С кадрами из игр и экранизаций, которые номинировали на премию.",
-    "fullText": "С кадрами из игр и экранизаций, которые номинировали на премию.",
-    "image": "https://leonardo.osnova.io/82d0146d-69c0-53cd-872e-35b8bf2f4cc6/-/format/mp4/",
+    "title": "В магазине Xbox заметили страницу дополнения для Tainted Grail: The Fall of Avalon",
+    "description": "Судя по описанию, оно будет первым из нескольких.",
+    "fullText": "Судя по описанию, оно будет первым из нескольких.",
+    "image": "https://leonardo.osnova.io/bacfb5cf-aaa2-5cd3-9d79-b42be4ba535f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4517766-the-game-awards-2025-treiler-dzheffa-kili?from=rss",
-    "time": "2025-12-07T16:50:55.000Z"
+    "url": "https://dtf.ru/games/4518445-dopolnenie-sanctuary-of-sarras-dlya-tainted-grail?from=rss",
+    "time": "2025-12-08T04:52:01.000Z"
   }
 ]
