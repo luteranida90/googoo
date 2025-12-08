@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В РФ планируют напоминать водителям об отсутствии полиса ОСАГО через \"Госуслуги\"",
+    "description": "По мнению директора всероссийского Союза страховщиков Евгения Уфимцева, это будет стимулировать граждан, которые в силу каких-то причин не приобретают полисы, покупать страховку",
+    "fullText": "По мнению директора всероссийского Союза страховщиков Евгения Уфимцева, это будет стимулировать граждан, которые в силу каких-то причин не приобретают полисы, покупать страховку",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251208/8660537.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25849819",
+    "time": "2025-12-08T19:37:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Steam обязательно заблокируют – и вот почему",
     "description": "Скриньте.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Какой отрыв после 18 туров нужен для титула в РПЛ?",
-    "description": "Памятка для «Краснодара».",
-    "fullText": "Памятка для «Краснодара».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/0b/c30ba56814652b413eab084c9e3ae.jpeg",
+    "title": "У нового чемпиона «Ф-1» Норриса необычное имя – Ландо. Неужели из «Звездных войн»?",
+    "description": "Выдумка Джорджа Лукаса?",
+    "fullText": "Выдумка Джорджа Лукаса?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/44/0813e84a8438789e48af74d484c80.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368981.html",
-    "time": "2025-12-08T14:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3366939.html",
+    "time": "2025-12-08T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Горо Мадзима возглавил топ самых популярных персонажей Like a Dragon, а Итибан Касуга едва вошёл в первую десятку",
-    "description": "Всего фанаты отдали свыше 490 тысяч голосов.",
-    "fullText": "Всего фанаты отдали свыше 490 тысяч голосов.",
-    "image": "https://leonardo.osnova.io/619e8ecb-3be8-57f0-b171-ece7905b2987/",
+    "title": "«Утёкший» в сеть трейлер Shenmue 4 оказался фейком — разработчики планируют обратиться в суд",
+    "description": "Кадры могли быть сгенерированы ИИ.",
+    "fullText": "Кадры могли быть сгенерированы ИИ.",
+    "image": "https://leonardo.osnova.io/05723231-92c0-5c0d-8902-0b3b103bc322/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4518960-goro-madzima-samyy-populyarnyy-personazh-like-a-dragon?from=rss",
-    "time": "2025-12-08T10:59:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4519325-feikovyi-treiler-shenmue-4-razrabotchiki-podaiut-v-sud?from=rss",
+    "time": "2025-12-08T13:52:59.000Z"
   }
 ]
