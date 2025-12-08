@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В \"Острове мечты\" сняли концерт-премию, которая выйдет в эфир в новогодние праздники",
+    "description": "Специальными гостями мероприятия стали артисты Сурен Платонов, Mishel Dar, Sandra Top, Maskat, Карина Роум, Kseniya Bellavita",
+    "fullText": "Специальными гостями мероприятия стали артисты Сурен Платонов, Mishel Dar, Sandra Top, Maskat, Карина Роум, Kseniya Bellavita",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251208/8660361.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25848681",
+    "time": "2025-12-08T16:29:45.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Лишь два француза забили больше сотни в АПЛ. Вспомните обоих?",
     "description": "Один из них – абсолютный культ.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самое эпичное спасение от вылета в истории. Невозможно поверить в эти чудеса",
-    "description": "Из Японии.",
-    "fullText": "Из Японии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/85/59112a87d472d96eb88d58236bdc4.jpeg",
+    "title": "Где окажется Яннис Адетокумбо? Подбираем варианты обмена",
+    "description": "Перекресток шести дорог.",
+    "fullText": "Перекресток шести дорог.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/3c/1eedf524c412eab3b8b8acdf10987.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368688.html",
-    "time": "2025-12-08T11:45:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3368727.html",
+    "time": "2025-12-08T12:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "PS5 возглавила продажи игровых устройств на неделе «Чёрной пятницы» в США и Великобритании",
-    "description": "На своём домашнем рынке Xbox Series X|S не вошли даже в тройку.",
-    "fullText": "На своём домашнем рынке Xbox Series X|S не вошли даже в тройку.",
-    "image": "https://leonardo.osnova.io/98b9bcbe-ef86-54e6-b650-d78a344bde0a/",
+    "title": "Продюсер Tekken Кацухиро Харада объявил об уходе из Bandai Namco после 31 года работы",
+    "description": "Разработчик расскажет о своих дальнейших планах позже.",
+    "fullText": "Разработчик расскажет о своих дальнейших планах позже.",
+    "image": "https://leonardo.osnova.io/25fd8d28-3e19-5715-9762-9886009046d7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4518629-ps5-lidiruet-v-prodazhah-igrovyh-konsoley-na-chyornuyu-pyatnitsu?from=rss",
-    "time": "2025-12-08T07:54:55.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4518856-katsuhiro-harada-ukhod-iz-bandai-namco?from=rss",
+    "time": "2025-12-08T09:35:48.000Z"
   }
 ]
