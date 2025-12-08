@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Уровень догазификации Северной Осетии доведут до 99% к 2028 году",
+    "description": "Сейчас этот показатель составляет 95%",
+    "fullText": "Сейчас этот показатель составляет 95%",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25848041",
+    "time": "2025-12-08T15:08:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Лишь два француза забили больше сотни в АПЛ. Вспомните обоих?",
     "description": "Один из них – абсолютный культ.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мераб так готовился побить Яна, что заказал вечеринку. Проиграл – но все равно потусил",
-    "description": "Ну не отменять же!",
-    "fullText": "Ну не отменять же!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/70/15732844e45668006568a739a4b1d.gif",
+    "title": "Почему теннисистов так манят Мальдивы? Отвечает Анастасия Потапова",
+    "description": "Съездила с Грикспором.",
+    "fullText": "Съездила с Грикспором.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/3b/a5feb6a304d93b13b6990797f2f55.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3369068.html",
-    "time": "2025-12-08T10:40:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3367756.html",
+    "time": "2025-12-08T11:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия бывшего геймдиректора серии Burnout распускает команду после слабых продаж Wreckreation",
-    "description": "Издатель в лице THQ Nordic, похоже, не заинтересован в поддержке.",
-    "fullText": "Издатель в лице THQ Nordic, похоже, не заинтересован в поддержке.",
-    "image": "https://leonardo.osnova.io/7851195a-873d-54c9-a6c8-5d4a6387ec1e/",
+    "title": "Геймдиректор Path of Exile 2 не уверен, что игра выйдет из раннего доступа со всеми классами",
+    "description": "Хоть ему и хотелось бы.",
+    "fullText": "Хоть ему и хотелось бы.",
+    "image": "https://leonardo.osnova.io/52b5bb10-501f-5abf-89da-ad5e81dec589/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4518502-studia-three-fields-entertainment-raspuskaet-komandu-posle-wreckreation?from=rss",
-    "time": "2025-12-08T05:57:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4518763-geimdirektor-path-of-exile-2-somnevaetsya-v-polnom-relize-vsekh-klasov?from=rss",
+    "time": "2025-12-08T08:39:44.000Z"
   }
 ]
