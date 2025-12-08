@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Посол РФ рекомендовал не посещать граничащие с Камбоджей районы Таиланда",
-    "description": "Россияне пока не обращались в диппредставительство в Бангкоке в связи с обострением пограничного конфликта, сообщил Евгений Томихин",
-    "fullText": "Россияне пока не обращались в диппредставительство в Бангкоке в связи с обострением пограничного конфликта, сообщил Евгений Томихин",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25842659",
-    "time": "2025-12-08T07:00:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вау, какой баззер! Выпустил за 0,1 секунды до конца – и принес победу!",
     "description": "Испанский момент на ВидеоСпортсе’‘",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дубль Хейлунда – и вот «Наполи» лидер! «Юве» впервые проиграл со Спаллетти",
-    "description": "Тренеры – против бывших клубов.",
-    "fullText": "Тренеры – против бывших клубов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/a9/4a8a14a1141438b0f97a37a0bd460.jpeg",
+    "title": "Ландо Норрис – 35-й чемпион «Ф-1»! Детали большой победы",
+    "description": "Трудовой титул.",
+    "fullText": "Трудовой титул.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/26/ae2ff0cd748378bb4a6858d902d19.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369008.html",
-    "time": "2025-12-07T22:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3367081.html",
+    "time": "2025-12-07T22:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фрейя Аллан хотела уйти из «Ведьмака» вслед за Генри Кавиллом",
-    "description": "Актриса также старалась следить за соответствием шоу книгам вместо коллеги.",
-    "fullText": "Актриса также старалась следить за соответствием шоу книгам вместо коллеги.",
-    "image": "https://leonardo.osnova.io/bb1bac90-f067-5f8b-8149-aa05b4d0429c/",
+    "title": "Rockstar представила апдейт A Safehouse in the Hills для GTA Online — в нём вернётся Майкл де Санта",
+    "description": "Релиз — 10 декабря. В игре также появится редактор заданий.",
+    "fullText": "Релиз — 10 декабря. В игре также появится редактор заданий.",
+    "image": "https://leonardo.osnova.io/47de7deb-723c-56ae-9dec-a1f4d8edbbb5/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4513774-freyja-allan-ukhod-vedmak?from=rss",
-    "time": "2025-12-05T16:30:54.000Z"
+    "url": "https://dtf.ru/games/4514145-obnovlenie-a-safehouse-in-the-hills-dlya-gta-online?from=rss",
+    "time": "2025-12-05T19:07:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
