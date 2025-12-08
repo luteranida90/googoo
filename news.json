@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Нетаньяху считает, что его регулярное общение с Путиным идет на пользу интересам Израиля",
-    "description": "США, Индия, Германия, Россия - четыре державы, связи еврейского государства с которыми значительно укрепились за последние два года, отметил израильский премьер-министр",
-    "fullText": "США, Индия, Германия, Россия - четыре державы, связи еврейского государства с которыми значительно укрепились за последние два года, отметил израильский премьер-министр",
+    "title": "В Ленобласти пять человек пострадали в ДТП с пассажирским автобусом",
+    "description": "Среди пострадавших четыре пассажира автобуса и водитель",
+    "fullText": "Среди пострадавших четыре пассажира автобуса и водитель",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25849375",
-    "time": "2025-12-08T18:17:07.000Z"
+    "url": "https://tass.ru/proisshestviya/25849529",
+    "time": "2025-12-08T18:42:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-12-08T17:55:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Изнанка огненного матча «Краснодар» – ЦСКА. Влог на ВидеоСпортсе’‘",
+    "description": "Глазами CSKA TV.",
+    "fullText": "Глазами CSKA TV.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/11/f67f453d948f2a31d0e17c8bd0897.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/CSKA_vlog_Krasnodar",
+    "time": "2025-12-08T15:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "«Трактор» убрал еще одного тренера. Что будет дальше?",
     "description": "Рише долго не продержался.",
@@ -33,25 +44,14 @@
     "time": "2025-12-08T14:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Лишь два француза забили больше сотни в АПЛ. Вспомните обоих?",
-    "description": "Один из них – абсолютный культ.",
-    "fullText": "Один из них – абсолютный культ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/7d/f9b27c5d6469fb0c3cc970a9f37de.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-08T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Microsoft Flight Simulator 2024 вышла на PS5",
-    "description": "Первый релиз на консолях Sony за всю историю серии.",
-    "fullText": "Первый релиз на консолях Sony за всю историю серии.",
-    "image": "https://leonardo.osnova.io/e808988c-6f50-5476-aa56-a7c03b126303/-/format/mp4/",
+    "title": "Горо Мадзима возглавил топ самых популярных персонажей Like a Dragon, а Итибан Касуга едва вошёл в первую десятку",
+    "description": "Всего фанаты отдали свыше 490 тысяч голосов.",
+    "fullText": "Всего фанаты отдали свыше 490 тысяч голосов.",
+    "image": "https://leonardo.osnova.io/619e8ecb-3be8-57f0-b171-ece7905b2987/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4518871-microsoft-flight-simulator-2024-na-ps5?from=rss",
-    "time": "2025-12-08T09:59:46.000Z"
+    "url": "https://dtf.ru/games/4518960-goro-madzima-samyy-populyarnyy-personazh-like-a-dragon?from=rss",
+    "time": "2025-12-08T10:59:40.000Z"
   }
 ]
