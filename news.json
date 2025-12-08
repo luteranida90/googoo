@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Рольф\" планирует по итогам года увеличить продажи новых авто на 5-6%",
+    "description": "Показатель должен составить до 35 тыс. единиц",
+    "fullText": "Показатель должен составить до 35 тыс. единиц",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25845289",
+    "time": "2025-12-08T11:22:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Анчелотти брал ЛЧ не только с «Реалом». Вспомните, с кем еще?",
     "description": "В нашем тесте.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вот поэтому Петросян не нужны ультра-си. Алиса Лью взломала фигурное катание без них",
-    "description": "Реплика Кузнецова.",
-    "fullText": "Реплика Кузнецова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ac/63f90a33a488792e25d05f34d8181.jpeg",
+    "title": "Момент дня: в честь Неймара скандирует весь стадион. Спас «Сантос» от вылета с травмой",
+    "description": "Есть шанс поехать на ЧМ.",
+    "fullText": "Есть шанс поехать на ЧМ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/46/e0c73f3e04abaa32b19687c5a2492.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3368693.html",
-    "time": "2025-12-08T07:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369012.html",
+    "time": "2025-12-08T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4517766-the-game-awards-2025-treiler-dzheffa-kili?from=rss",
     "time": "2025-12-07T16:50:55.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
