@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Известия\": Европе не нужно урегулирование конфликта на Украине",
+    "description": "Европейские страны пытаются затянуть урегулирование, считает директор департамента европейских проблем МИД РФ Владислав Масленников",
+    "fullText": "Европейские страны пытаются затянуть урегулирование, считает директор департамента европейских проблем МИД РФ Владислав Масленников",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25864327",
+    "time": "2025-12-09T22:03:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Новые «Игры будущего» – сюр! Любители сыграют с пенсионерами",
     "description": "Кроссовер разных эпох.",
@@ -11,26 +22,26 @@
     "time": "2025-12-09T21:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сейчас могу сказать: да, я красивая». Рефлексия Алины Загитовой",
-    "description": "Монолог о сокровенном.",
-    "fullText": "Монолог о сокровенном.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/a1/a5dd64fa24c5e912c44ad9797e37a.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Интер» и «Ливерпуль» объединяет бывший спартаковец. Поняли кто?",
+    "description": "Сейчас он без клуба.",
+    "fullText": "Сейчас он без клуба.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/42/af087558b4eaf909e818a92f070a4.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3369323.html",
-    "time": "2025-12-09T18:35:00.000Z"
+    "url": "https://sirena.world/r58w11",
+    "time": "2025-12-09T19:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сегодня «Интер» – «Ливерпуль». Играйте в «100к1» с комментаторами ЛЧ и смотрите матч в Okko",
-    "description": "Начало – в 23:00.",
-    "fullText": "Начало – в 23:00.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/99/f08887a9941a1b15e0123ceab2aeb.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как «Айнтрахт» захватил «Камп Ноу» – исторический позор «Барсы»",
+    "description": "«Они захватили наш стадион!»",
+    "fullText": "«Они захватили наш стадион!»",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/b5/030e7be83426bb13801b609f96cd9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/5g357d",
-    "time": "2025-12-09T18:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369324.html",
+    "time": "2025-12-09T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4521438-google-anonsirovala-umnye-ochki-s-golosovym-pomoschnikom?from=rss",
     "time": "2025-12-09T14:08:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
