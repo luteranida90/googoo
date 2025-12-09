@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Рязанской области отменили опасность БПЛА",
-    "description": "Об этом сообщается в официальном приложении МЧС РФ",
-    "fullText": "Об этом сообщается в официальном приложении МЧС РФ",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Новые «Игры будущего» – сюр! Любители сыграют с пенсионерами",
+    "description": "Кроссовер разных эпох.",
+    "fullText": "Кроссовер разных эпох.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e3/d2898319a472c83fff542cd59f69b.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25863845",
-    "time": "2025-12-09T20:03:22.000Z"
+    "url": "https://cyber.sports.ru/dota2/blogs/3368857.html",
+    "time": "2025-12-09T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему феноменальный Роналдо забил всего 14 голов в Лиге чемпионов",
-    "description": "И не играл в финалах.",
-    "fullText": "И не играл в финалах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/5a/46a5384a24e04b9908bf88b7ac66e.jpeg",
+    "title": "«Я рад, что заплакал». Чемпионская речь Ландо Норриса",
+    "description": "Очень душевно.",
+    "fullText": "Очень душевно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/28/a1973e8d74b14ad7b2110fd779890.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369092.html",
-    "time": "2025-12-09T15:55:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3369318.html",
+    "time": "2025-12-09T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4521438-google-anonsirovala-umnye-ochki-s-golosovym-pomoschnikom?from=rss",
     "time": "2025-12-09T14:08:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
