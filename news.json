@@ -11,26 +11,37 @@
     "time": "2025-12-09T21:10:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Петербургской филармонии в день рождения Темирканова прозвучит его музыка",
+    "description": "Также с 13 по 25 декабря пройдет Международный зимний фестиваль \"Площадь искусств\"",
+    "fullText": "Также с 13 по 25 декабря пройдет Международный зимний фестиваль \"Площадь искусств\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25864197",
+    "time": "2025-12-09T21:07:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто прав: Кордоба или Мойзес? «Балтика» реально в чемпионской гонке? Главное о нашем футболе в шоу Смолова",
-    "description": "Обсудили и дебют Сафонова.",
-    "fullText": "Обсудили и дебют Сафонова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/16/a07981b2d43658cb437a26fa35573.jpeg",
+    "title": "Сегодня «Интер» – «Ливерпуль». Играйте в «100к1» с комментаторами ЛЧ и смотрите матч в Okko",
+    "description": "Начало – в 23:00.",
+    "fullText": "Начало – в 23:00.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/99/f08887a9941a1b15e0123ceab2aeb.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/SmolFM_18",
-    "time": "2025-12-09T17:35:00.000Z"
+    "url": "https://sirena.world/5g357d",
+    "time": "2025-12-09T18:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я рад, что заплакал». Чемпионская речь Ландо Норриса",
-    "description": "Очень душевно.",
-    "fullText": "Очень душевно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/28/a1973e8d74b14ad7b2110fd779890.jpeg",
+    "title": "Что не так с «Шанхаем» Слуцкого в ЛЧ?",
+    "description": "Усталость, легионеры и чудеса.",
+    "fullText": "Усталость, легионеры и чудеса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/df/9642f3ae1486584d4ff3e898ce598.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3369318.html",
-    "time": "2025-12-09T17:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369125.html",
+    "time": "2025-12-09T18:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4521438-google-anonsirovala-umnye-ochki-s-golosovym-pomoschnikom?from=rss",
     "time": "2025-12-09T14:08:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
