@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "GAC не планирует уходить с российского рынка",
-    "description": "Россия имеет стратегическое значение для глобального развития бренда, рассказали в компании",
-    "fullText": "Россия имеет стратегическое значение для глобального развития бренда, рассказали в компании",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251209/8662971.jpg",
+    "title": "Путин намерен обсудить с СПЧ безопасность применения ИИ",
+    "description": "Кроме того, глава государства предложил участникам Совета по правам человека затронуть тему паллиативной помощи, а также технологические темы",
+    "fullText": "Кроме того, глава государства предложил участникам Совета по правам человека затронуть тему паллиативной помощи, а также технологические темы",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529903.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25859919",
-    "time": "2025-12-09T13:17:24.000Z"
+    "url": "https://tass.ru/obschestvo/25860459",
+    "time": "2025-12-09T14:10:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Виза в США – проблема. Почему на ЧМ-2026 так сложно попасть?",
+    "description": "Виновата политика.",
+    "fullText": "Виновата политика.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/42/1af1844d54abb8deb21a3b051ebde.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3368563.html",
+    "time": "2025-12-09T10:17:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-09T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В РПЛ молодежь играет чаще, чем в АПЛ, Ла Лиге и Бундеслиге: факт года",
-    "description": "Благодаря ЦСКА и вопреки «Зениту».",
-    "fullText": "Благодаря ЦСКА и вопреки «Зениту».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/96/2022108884587b83a536751a2e730.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368177.html",
-    "time": "2025-12-09T09:03:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Одевайтесь по случаю»: Don&#039;t Nod протизерила новости по Lost Records уже 12 декабря",
-    "description": "Вероятно, на The Game Awards.",
-    "fullText": "Вероятно, на The Game Awards.",
-    "image": "https://leonardo.osnova.io/6e67fef9-ea40-5af6-848d-3a669d72e46a/",
+    "title": "Гильермо дель Торо назвал несколько любимых игр — среди них оказались BioShock, Death Stranding и Left 4 Dead",
+    "description": "Режиссёр считает шедевром Shadow of the Colossus.",
+    "fullText": "Режиссёр считает шедевром Shadow of the Colossus.",
+    "image": "https://leonardo.osnova.io/556902ae-f58a-56f1-96b1-5298b2bf8f32/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4520708-dont-nod-anonsirovala-lost-records-na-the-game-awards?from=rss",
-    "time": "2025-12-09T08:24:11.000Z"
+    "url": "https://dtf.ru/games/4520633-gilyermo-del-toro-lubimye-igry-bioshock-death-stranding-left-4-dead?from=rss",
+    "time": "2025-12-09T07:52:02.000Z"
   }
 ]
