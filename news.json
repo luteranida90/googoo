@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кабмин подготовил второй пакет мер защиты граждан от кибермошенников",
-    "description": "Планируется ввести запрет на международные входящие звонки без согласия абонента, уточнил вице-премьер - руководитель аппарата правительства Дмитрий Григоренко",
-    "fullText": "Планируется ввести запрет на международные входящие звонки без согласия абонента, уточнил вице-премьер - руководитель аппарата правительства Дмитрий Григоренко",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Над регионами России за шесть часов сбили 38 украинских БПЛА",
+    "description": "В том числе сбиты четыре летевших на Москву беспилотника",
+    "fullText": "В том числе сбиты четыре летевших на Москву беспилотника",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251209/8663879.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25862961",
-    "time": "2025-12-09T17:16:05.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25863205",
+    "time": "2025-12-09T17:53:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Сейчас могу сказать: да, я красивая». Рефлексия Алины Загитовой",
+    "description": "Монолог о сокровенном.",
+    "fullText": "Монолог о сокровенном.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/a1/a5dd64fa24c5e912c44ad9797e37a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3369323.html",
+    "time": "2025-12-09T13:42:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Аниме по «Человеку-бензопиле» вышло в «цифре»",
+    "description": "Спустя меньше трёх месяцев после начала проката, в котором полнометражный фильм собрал 175 миллионов долларов.",
+    "fullText": "Спустя меньше трёх месяцев после начала проката, в котором полнометражный фильм собрал 175 миллионов долларов.",
+    "image": "https://leonardo.osnova.io/e3772cdb-207c-5647-890a-bc18e59c7b0c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/anime/4521325-anime-chelovek-benzopila-tsifrovoy-reziss?from=rss",
+    "time": "2025-12-09T13:33:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/aabsdw",
     "time": "2025-12-09T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как «Айнтрахт» захватил «Камп Ноу» – исторический позор «Барсы»",
-    "description": "«Они захватили наш стадион!»",
-    "fullText": "«Они захватили наш стадион!»",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/b5/030e7be83426bb13801b609f96cd9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369324.html",
-    "time": "2025-12-09T13:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Анонсирована VR-игра The Boys: Trigger Warning по мотивам «Пацанов»",
-    "description": "Выход состоится в 2026 году.",
-    "fullText": "Выход состоится в 2026 году.",
-    "image": "https://leonardo.osnova.io/bcf2391e-cf6f-58e7-8c2d-7ee0828bcfb0/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4521239-anons-vr-igry-the-boys-trigger-warning?from=rss",
-    "time": "2025-12-09T12:59:38.000Z"
   }
 ]
