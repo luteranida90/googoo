@@ -11,15 +11,15 @@
     "time": "2025-12-09T21:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Петербургской филармонии в день рождения Темирканова прозвучит его музыка",
-    "description": "Также с 13 по 25 декабря пройдет Международный зимний фестиваль \"Площадь искусств\"",
-    "fullText": "Также с 13 по 25 декабря пройдет Международный зимний фестиваль \"Площадь искусств\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Сейчас могу сказать: да, я красивая». Рефлексия Алины Загитовой",
+    "description": "Монолог о сокровенном.",
+    "fullText": "Монолог о сокровенном.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/a1/a5dd64fa24c5e912c44ad9797e37a.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/kultura/25864197",
-    "time": "2025-12-09T21:07:31.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3369323.html",
+    "time": "2025-12-09T18:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +33,6 @@
     "time": "2025-12-09T18:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что не так с «Шанхаем» Слуцкого в ЛЧ?",
-    "description": "Усталость, легионеры и чудеса.",
-    "fullText": "Усталость, легионеры и чудеса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/df/9642f3ae1486584d4ff3e898ce598.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369125.html",
-    "time": "2025-12-09T18:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Google анонсировала две версии «умных» очков: только с голосовым помощником и с дисплеями",
     "description": "Первые выйдут в 2026 году и будут лёгкими, как обычные очки, пишут побывавшие на презентации журналисты.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4521438-google-anonsirovala-umnye-ochki-s-golosovym-pomoschnikom?from=rss",
     "time": "2025-12-09T14:08:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
