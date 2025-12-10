@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Страна\": в окружении Миндича опровергли информацию о покушении",
-    "description": "Источник заявил, что жизни и здоровью бизнесмена ничего не угрожает",
-    "fullText": "Источник заявил, что жизни и здоровью бизнесмена ничего не угрожает",
+    "title": "В Москве по программе КРТ реорганизуют три участка промзоны \"Ленино\"",
+    "description": "Планируется возвести современные жилые комплексы общей площадью 381,15 тыс. кв. м, а также детские сады на 850 детей, крытый каток и другие общественно-деловые и социальные объекты общей площадью 167,23 тыс. кв. м",
+    "fullText": "Планируется возвести современные жилые комплексы общей площадью 381,15 тыс. кв. м, а также детские сады на 850 детей, крытый каток и другие общественно-деловые и социальные объекты общей площадью 167,23 тыс. кв. м",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25874389",
-    "time": "2025-12-10T16:56:14.000Z"
+    "url": "https://tass.ru/nedvizhimost/25874539",
+    "time": "2025-12-10T17:34:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
     "time": "2025-12-10T16:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Студия Джона Ромеро продолжила заниматься своим шутером после потери финансирования от Microsoft, однако «практически полностью переработала его»",
+    "description": "Игра будет гораздо менее масштабной, но сохранит множество элементов из первоначальной версии.",
+    "fullText": "Игра будет гораздо менее масштабной, но сохранит множество элементов из первоначальной версии.",
+    "image": "https://leonardo.osnova.io/908df956-587b-550e-a3a8-75af0ae6a213/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4523585-shuter-dzhona-romero-pererabotka-posle-poteri-finansirovaniya-ot-microsoft?from=rss",
+    "time": "2025-12-10T13:31:56.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как родители помогали звездам КХЛ? Перешивали коньки и строили площадки",
-    "description": "Собрали истории вместе с «Кинопоиском».",
-    "fullText": "Собрали истории вместе с «Кинопоиском».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/03/3b69ca1064d8398f442b90436c0ca.jpeg",
+    "title": "Мбаппе или Холанд – кто круче? Тактическое превью «Реал» – «Сити» от Игнашевича",
+    "description": "Не забыли и про конфликт Алонсо.",
+    "fullText": "Не забыли и про конфликт Алонсо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b1/0e8c162684c249c0c12d1cffa3d4e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3368402.html",
-    "time": "2025-12-10T12:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики запрещённого в EGS и Steam хоррора Horses вряд ли смогут взяться за ещё одну игру",
-    "description": "Скандал привлёк внимание, но оно не спасёт студию.",
-    "fullText": "Скандал привлёк внимание, но оно не спасёт студию.",
-    "image": "https://leonardo.osnova.io/b91f4ee6-7545-554e-9d7b-4d31aff8dceb/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4523231-horror-horses-ot-santa-ragione-zapreshchen-v-egs-i-steam?from=rss",
-    "time": "2025-12-10T10:55:48.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369453.html",
+    "time": "2025-12-10T12:55:00.000Z"
   }
 ]
