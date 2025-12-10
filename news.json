@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп назвал президента Колумбии возможной \"целью\" в борьбе с наркотрафиком",
-    "description": "Президент США призвал Густаво Петро одуматься",
-    "fullText": "Президент США призвал Густаво Петро одуматься",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25876085",
-    "time": "2025-12-10T21:37:32.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сложность этого квиза про ЛЧ вы определите сами",
     "description": "Будет интересно даже экспертам.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Легенда Роберт Просинечки – теперь главный в Кыргызстане. Его новый босс увольняет даже за мат",
-    "description": "Экс-игрок «Реала» и «Барсы» повезет на Кубок Азии.",
-    "fullText": "Экс-игрок «Реала» и «Барсы» повезет на Кубок Азии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/67/1e6aced174ed5b8af13bb5543a5e5.jpeg",
+    "title": "Алонсо – не главная проблема «Реала». Но он не стал решением",
+    "description": "Мнение Юры Ла Саета.",
+    "fullText": "Мнение Юры Ла Саета.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/94/716d9d16f4739b8a69edeb743d85c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369646.html",
-    "time": "2025-12-10T18:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369155.html",
+    "time": "2025-12-10T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4523995-igry-dlya-ps-plus-assassin-s-creed-mirage-wo-long-i-granblue-fantasy?from=rss",
     "time": "2025-12-10T16:40:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
