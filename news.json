@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Заявления Зеленского и интервью Трампа. Темы брифинга Пескова",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251210/8665087.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Топ-матч с фрибетом до 15 000 рублей? Легко!",
+    "description": "Смотрим «Реал» – «Сити» с акцией от FONBET.",
+    "fullText": "Смотрим «Реал» – «Сити» с акцией от FONBET.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/c3/14503c811461295cdbaa736444c5a.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/25869427",
-    "time": "2025-12-10T09:35:59.000Z"
+    "url": "https://sirena.world/oz8t07",
+    "time": "2025-12-10T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Месть «Барсы»: Кунде устроил камбэк быстрым дублем. Ямаль отнял рекорд у Мбаппе",
-    "description": "Хотя проигрывали «Айнтрахту».",
-    "fullText": "Хотя проигрывали «Айнтрахту».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/b6/a37a436d84eda81d7ec49748f6c18.jpeg",
+    "title": "«Алонсо не будет пи́сать духами. Он должен попи́сать чем-то своим». Это слова Пепа – нет, он не сошел с ума!",
+    "description": "Многослойная отсылка.",
+    "fullText": "Многослойная отсылка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/18/5ec422d69494da8acd543923f23b7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369468.html",
-    "time": "2025-12-10T05:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Всего 8 футболистов играли и в «Сити», и в «Реале». Среди них – чемпион РПЛ",
-    "description": "Кого вписали бы в ячейку?",
-    "fullText": "Кого вписали бы в ячейку?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/28/429bedd1f4b1596503de8cea9641d.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-10T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369471.html",
+    "time": "2025-12-10T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4521788-krupnyj-dekabrskoj-apdejt-battlefield-6-zimnjaja-karta-empire-state?from=rss",
     "time": "2025-12-09T17:33:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
