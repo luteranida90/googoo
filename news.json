@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Майданов: рекорд единовременного исполнения песни установлен на кадетском балу",
+    "description": "Произведение исполнили 3,4 тыс. кадетов",
+    "fullText": "Произведение исполнили 3,4 тыс. кадетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/25875155",
+    "time": "2025-12-10T21:11:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Что общего у порно и киберспорта? История двух индустрий, которые победили стыд",
     "description": "Встреча в Будапеште.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3369595.html",
     "time": "2025-12-10T18:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лыжники возвращаются на Кубок мира! Для отбора на Олимпиаду – всего 2 гонки",
+    "description": "Есть нейтральный статус.",
+    "fullText": "Есть нейтральный статус.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/9b/3f856b4a64994a83d9270b9d44315.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skiing/blogs/3369547.html",
+    "time": "2025-12-10T17:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +44,6 @@
     "time": "2025-12-10T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Леннарт Карл – вундеркинд «Баварии», который обречен на сравнения с Месси",
-    "description": "И с Роббеном.",
-    "fullText": "И с Роббеном.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4b/445dd1ac04a4ba6cab368fb8d1494.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369472.html",
-    "time": "2025-12-10T17:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Assassin&#039;s Creed Mirage, Wo Long, Granblue Fantasy: Relink и ещё несколько игр добавят в расширенную PS Plus",
     "description": "Библиотеку обновят во второй половине декабря.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4523995-igry-dlya-ps-plus-assassin-s-creed-mirage-wo-long-i-granblue-fantasy?from=rss",
     "time": "2025-12-10T16:40:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
