@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Закарпатской области горит скит УПЦ",
-    "description": "Площадь пожара составляет 150 кв. м",
-    "fullText": "Площадь пожара составляет 150 кв. м",
+    "title": "В ФРГ около 25% сотрудников Porsche могут подпасть под сокращение",
+    "description": "Председатель производственного совета компании Ибрагим Аслан намерен гарантировать сохранение рабочих мест как минимум до 2035 года",
+    "fullText": "Председатель производственного совета компании Ибрагим Аслан намерен гарантировать сохранение рабочих мест как минимум до 2035 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25875577",
-    "time": "2025-12-10T19:53:38.000Z"
+    "url": "https://tass.ru/ekonomika/25875557",
+    "time": "2025-12-10T20:03:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +33,17 @@
     "time": "2025-12-10T16:40:46.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Мозгов у него – как у майского жука». Еще больше осуждения Салаха за интервью – и капелька поддержки",
+    "description": "Неужели кто-то на его стороне?",
+    "fullText": "Неужели кто-то на его стороне?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/be/39c7b2d2e4b56b42bc7239ade6fa1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3369584.html",
+    "time": "2025-12-10T16:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
     "description": "Творчество и работа человека-эпохи.",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
     "time": "2025-12-10T16:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Слуцкий проиграл в ЛЧ – теперь плей-офф станет чудом. Прилип к предпоследнему месту",
-    "description": "Спасут только две победы.",
-    "fullText": "Спасут только две победы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/6f/0b36d7e384abf81bcfbfb4d1e5079.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369563.html",
-    "time": "2025-12-10T15:25:00.000Z"
   }
 ]
