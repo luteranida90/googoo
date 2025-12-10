@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Запорожской области свыше 1,4 тыс. абонентов остались без электричества",
-    "description": "По словам главы региона Евгения Балицкого, это произошло из-за атаки БПЛА ВСУ по территории Каменско-Днепровского округа",
-    "fullText": "По словам главы региона Евгения Балицкого, это произошло из-за атаки БПЛА ВСУ по территории Каменско-Днепровского округа",
+    "title": "В Закарпатской области горит скит УПЦ",
+    "description": "Площадь пожара составляет 150 кв. м",
+    "fullText": "Площадь пожара составляет 150 кв. м",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25875257",
-    "time": "2025-12-10T19:05:51.000Z"
+    "url": "https://tass.ru/proisshestviya/25875577",
+    "time": "2025-12-10T19:53:38.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3369595.html",
     "time": "2025-12-10T18:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Assassin&#039;s Creed Mirage, Wo Long, Granblue Fantasy: Relink и ещё несколько игр добавят в расширенную PS Plus",
+    "description": "Библиотеку обновят во второй половине декабря.",
+    "fullText": "Библиотеку обновят во второй половине декабря.",
+    "image": "https://leonardo.osnova.io/4fadd1ca-5ff4-5148-88e5-d281443b8fc1/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4523995-igry-dlya-ps-plus-assassin-s-creed-mirage-wo-long-i-granblue-fantasy?from=rss",
+    "time": "2025-12-10T16:40:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я вредил себе своим же молчанием». Важная речь Умтити о депрессии",
-    "description": "То, о чем стоит говорить.",
-    "fullText": "То, о чем стоит говорить.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2c/ca3ec679c455c9a95c4569d94f202.jpeg",
+    "title": "Слуцкий проиграл в ЛЧ – теперь плей-офф станет чудом. Прилип к предпоследнему месту",
+    "description": "Спасут только две победы.",
+    "fullText": "Спасут только две победы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/6f/0b36d7e384abf81bcfbfb4d1e5079.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367787.html",
-    "time": "2025-12-10T15:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Владельцы Switch 2 раскритиковали версию TES V: Skyrim для консоли",
-    "description": "Среди претензий — прежние 30 fps и серьёзная задержка ввода.",
-    "fullText": "Среди претензий — прежние 30 fps и серьёзная задержка ввода.",
-    "image": "https://leonardo.osnova.io/81d1ead2-a6b9-54de-9495-15b4a75a737d/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4523235-kritika-versioni-tes-v-skyrim-dlya-nintendo-switch-2?from=rss",
-    "time": "2025-12-10T11:19:15.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369563.html",
+    "time": "2025-12-10T15:25:00.000Z"
   }
 ]
