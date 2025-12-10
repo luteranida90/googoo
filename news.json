@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сделка по снижению пошлин США для Швейцарии вступит в силу задним числом",
-    "description": "Мера будет действовать с 14 ноября 2025 года",
-    "fullText": "Мера будет действовать с 14 ноября 2025 года",
+    "title": "\"Страна\": в окружении Миндича опровергли информацию о покушении",
+    "description": "Источник заявил, что жизни и здоровью бизнесмена ничего не угрожает",
+    "fullText": "Источник заявил, что жизни и здоровью бизнесмена ничего не угрожает",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25874183",
-    "time": "2025-12-10T16:34:56.000Z"
+    "url": "https://tass.ru/proisshestviya/25874389",
+    "time": "2025-12-10T16:56:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
+    "description": "Творчество и работа человека-эпохи.",
+    "fullText": "Творчество и работа человека-эпохи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/34/8ccbd32d34cfbb8607f8a80d481f6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
+    "time": "2025-12-10T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,25 +44,14 @@
     "time": "2025-12-10T12:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Эх, Слуцкий не спасся в ЛЧ – выход в плей-офф станет чудом. Следили в совместной трансляции с ТВ Старт",
-    "description": "Уступили «Санфречче Хиросиме».",
-    "fullText": "Уступили «Санфречче Хиросиме».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/16/dcde332c748bab5432fc4a19706be.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/Shenhua-Hiroshima",
-    "time": "2025-12-10T11:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Издательский директор Larian заявил, что в студии «нет планов на Divinity: Original Sin 3»",
-    "description": "Аккуратный выбор слов.",
-    "fullText": "Аккуратный выбор слов.",
-    "image": "https://leonardo.osnova.io/64ef9b07-224b-5820-8db8-2a5e6e480368/",
+    "title": "Разработчики запрещённого в EGS и Steam хоррора Horses вряд ли смогут взяться за ещё одну игру",
+    "description": "Скандал привлёк внимание, но оно не спасёт студию.",
+    "fullText": "Скандал привлёк внимание, но оно не спасёт студию.",
+    "image": "https://leonardo.osnova.io/b91f4ee6-7545-554e-9d7b-4d31aff8dceb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4522950-izdatel-larian-oproverg-plany-na-divinity-original-sin-3?from=rss",
-    "time": "2025-12-10T09:23:12.000Z"
+    "url": "https://dtf.ru/gameindustry/4523231-horror-horses-ot-santa-ragione-zapreshchen-v-egs-i-steam?from=rss",
+    "time": "2025-12-10T10:55:48.000Z"
   }
 ]
