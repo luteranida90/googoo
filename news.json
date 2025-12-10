@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Подразделения ВСУ потеряли за сутки в зоне СВО порядка 1 250 военнослужащих",
+    "title": "Заявления Зеленского и интервью Трампа. Темы брифинга Пескова",
     "description": "",
     "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251210/8665087.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25869039",
-    "time": "2025-12-10T09:13:05.000Z"
+    "url": "https://tass.ru/politika/25869427",
+    "time": "2025-12-10T09:35:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Месть «Барсы»: Кунде устроил камбэк быстрым дублем. Ямаль отнял рекорд у Мбаппе",
+    "description": "Хотя проигрывали «Айнтрахту».",
+    "fullText": "Хотя проигрывали «Айнтрахту».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/b6/a37a436d84eda81d7ec49748f6c18.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3369468.html",
+    "time": "2025-12-10T05:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-10T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мне нужен тот, с кем я могу выговориться, поплакать, позлиться». Почему Шнайдер сменила 4 тренеров за 5 месяцев?",
-    "description": "Рассказала нам сама.",
-    "fullText": "Рассказала нам сама.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/74/83ed9ce514b99b9f8e66cbaed43a1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3368438.html",
-    "time": "2025-12-10T04:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Elder Scrolls V: Skyrim Anniversary Edition получила нативную версию для Nintendo Switch 2",
-    "description": "Владельцы этого издания на предыдущем поколении консоли могут обновиться бесплатно, но остальным нужно заплатить 20 долларов.",
-    "fullText": "Владельцы этого издания на предыдущем поколении консоли могут обновиться бесплатно, но остальным нужно заплатить 20 долларов.",
-    "image": "https://leonardo.osnova.io/9745cf7f-ce01-5134-a791-9b6edae8acf5/-/format/mp4/",
+    "title": "Вышел крупный декабрьский апдейт для Battlefield 6 — в игру добавили зимнюю версию карты Empire State",
+    "description": "А в боевом пропуске можно разблокировать ледоруб.",
+    "fullText": "А в боевом пропуске можно разблокировать ледоруб.",
+    "image": "https://leonardo.osnova.io/98d32c0b-ad12-5824-80f5-76e745bab637/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4521679-the-elder-scrolls-v-skyrim-anniversary-edition-dlya-nintendo-switch-2?from=rss",
-    "time": "2025-12-09T16:39:47.000Z"
+    "url": "https://dtf.ru/games/4521788-krupnyj-dekabrskoj-apdejt-battlefield-6-zimnjaja-karta-empire-state?from=rss",
+    "time": "2025-12-09T17:33:23.000Z"
   }
 ]
