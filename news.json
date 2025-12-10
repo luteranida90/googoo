@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Костромской области объявили беспилотную опасность",
+    "description": "На территории региона работают системы ПВО",
+    "fullText": "На территории региона работают системы ПВО",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25876265",
+    "time": "2025-12-10T22:28:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сложность этого квиза про ЛЧ вы определите сами",
     "description": "Будет интересно даже экспертам.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алонсо – не главная проблема «Реала». Но он не стал решением",
-    "description": "Мнение Юры Ла Саета.",
-    "fullText": "Мнение Юры Ла Саета.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/94/716d9d16f4739b8a69edeb743d85c.jpeg",
+    "title": "Пойдемте вместе на самый громкий стадион в истории АПЛ! Рекорд там поставили благодаря Грилишу",
+    "description": "«Эвертон» построил суперарену.",
+    "fullText": "«Эвертон» построил суперарену.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/fd/89cfa8af543ad88a7be7313e65dc5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369155.html",
-    "time": "2025-12-10T19:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369664.html",
+    "time": "2025-12-10T19:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4523995-igry-dlya-ps-plus-assassin-s-creed-mirage-wo-long-i-granblue-fantasy?from=rss",
     "time": "2025-12-10T16:40:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
