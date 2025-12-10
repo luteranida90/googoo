@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мордовия намерена ввести льготы для многодетных на визиты в учреждения культуры",
+    "description": "Меру поддержки планируют распространить на выходные и праздничные дни",
+    "fullText": "Меру поддержки планируют распространить на выходные и праздничные дни",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25871619",
+    "time": "2025-12-10T12:23:17.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
     "description": "Творчество и работа человека-эпохи.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший матч Грицюка, русские голы «Вегаса» и камбэк «Анахайма» за 0,1 секунды до сирены. Главное за ночь в НХЛ",
-    "description": "Если вы вдруг проспали.",
-    "fullText": "Если вы вдруг проспали.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/20/c77f3fff3468b9b045fd14e4fd25e.jpeg",
+    "title": "Мбаппе или Холанд – кто круче? Тактическое превью «Реал» – «Ман Сити» от Игнашевича",
+    "description": "Не забыли и про конфликт Алонсо.",
+    "fullText": "Не забыли и про конфликт Алонсо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b1/0e8c162684c249c0c12d1cffa3d4e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3369492.html",
-    "time": "2025-12-10T07:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369453.html",
+    "time": "2025-12-10T08:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CD Projekt RED анонсировала физическую ККИ по вселенной Cyberpunk",
-    "description": "Её выпустят в 2026 году.",
-    "fullText": "Её выпустят в 2026 году.",
-    "image": "https://leonardo.osnova.io/f9f12fd0-6dd6-54c9-8d62-94e975590ea1/-/format/mp4/",
+    "title": "Deadline: Сигурни Уивер начала переговоры о роли в сериале по Tomb Raider",
+    "description": "Кого она может сыграть — пока загадка.",
+    "fullText": "Кого она может сыграть — пока загадка.",
+    "image": "https://leonardo.osnova.io/92baa5d1-d5e2-50da-aef2-fcb480d72d03/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/boardgames/4521622-cd-projekt-red-anonsirovala-kollektsionnuyu-kartichnuyu-igru-cyberpunk-tcg?from=rss",
-    "time": "2025-12-09T16:23:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4522053-sigurni-uiver-v-seriale-tomb-raider?from=rss",
+    "time": "2025-12-09T19:42:29.000Z"
   }
 ]
