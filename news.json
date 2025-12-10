@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Госдума уточняет перечень органов, отвечающих за инженерную защиту территорий",
+    "description": "Кроме того, предлагается уточнить, что инженерная защита территорий осуществляется органами, уполномоченными на выдачу разрешений на строительство на территориях, подверженных негативному воздействию вод",
+    "fullText": "Кроме того, предлагается уточнить, что инженерная защита территорий осуществляется органами, уполномоченными на выдачу разрешений на строительство на территориях, подверженных негативному воздействию вод",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25870581",
+    "time": "2025-12-10T10:36:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Топ-матч с фрибетом до 15 000 рублей? Легко!",
     "description": "Смотрим «Реал» – «Сити» с акцией от FONBET.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Алонсо не будет пи́сать духами. Он должен попи́сать чем-то своим». Это слова Пепа – нет, он не сошел с ума!",
-    "description": "Многослойная отсылка.",
-    "fullText": "Многослойная отсылка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/18/5ec422d69494da8acd543923f23b7.jpeg",
+    "title": "5 камбэков, провал «Челси», 3 привоза на 0:3, MVP из Казахстана. Главное в ЛЧ",
+    "description": "И вот таку-у-усенький офсайд.",
+    "fullText": "И вот таку-у-усенький офсайд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/48/a6e104f5443b78eecfda21db3aaac.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369471.html",
-    "time": "2025-12-10T06:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369421.html",
+    "time": "2025-12-10T06:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4521788-krupnyj-dekabrskoj-apdejt-battlefield-6-zimnjaja-karta-empire-state?from=rss",
     "time": "2025-12-09T17:33:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
