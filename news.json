@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ФРГ около 25% сотрудников Porsche могут подпасть под сокращение",
-    "description": "Председатель производственного совета компании Ибрагим Аслан намерен гарантировать сохранение рабочих мест как минимум до 2035 года",
-    "fullText": "Председатель производственного совета компании Ибрагим Аслан намерен гарантировать сохранение рабочих мест как минимум до 2035 года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25875557",
-    "time": "2025-12-10T20:03:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Что общего у порно и киберспорта? История двух индустрий, которые победили стыд",
     "description": "Встреча в Будапеште.",
@@ -20,6 +9,28 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3369595.html",
     "time": "2025-12-10T18:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Сегодня «Реал» – «Манчестер Сити». Играйте в «100к1» с комментаторами ЛЧ и смотрите матч в Okko",
+    "description": "Начало – в 23:00.",
+    "fullText": "Начало – в 23:00.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/cf/b4f7a7658471e80d06672caf73bd2.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/5g357d",
+    "time": "2025-12-10T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Леннарт Карл – вундеркинд «Баварии», который обречен на сравнения с Месси",
+    "description": "И с Роббеном.",
+    "fullText": "И с Роббеном.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4b/445dd1ac04a4ba6cab368fb8d1494.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3369472.html",
+    "time": "2025-12-10T17:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -33,25 +44,14 @@
     "time": "2025-12-10T16:40:46.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мозгов у него – как у майского жука». Еще больше осуждения Салаха за интервью – и капелька поддержки",
-    "description": "Неужели кто-то на его стороне?",
-    "fullText": "Неужели кто-то на его стороне?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/be/39c7b2d2e4b56b42bc7239ade6fa1.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369584.html",
-    "time": "2025-12-10T16:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
-    "description": "Творчество и работа человека-эпохи.",
-    "fullText": "Творчество и работа человека-эпохи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/34/8ccbd32d34cfbb8607f8a80d481f6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
-    "time": "2025-12-10T16:15:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
