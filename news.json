@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Что общего у порно и киберспорта? История двух индустрий, которые победили стыд",
+    "description": "Встреча в Будапеште.",
+    "fullText": "Встреча в Будапеште.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/ab/36e70094c4f03b3300a84816554e4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3369595.html",
+    "time": "2025-12-10T18:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Рынок в Петербурге, где произошел пожар, известен по фильму \"Интердевочка\"",
-    "description": "Он был одной из локаций съемок",
-    "fullText": "Он был одной из локаций съемок",
+    "title": "Мирный житель пострадал из-за атаки дрона ВСУ на Селидово ДНР",
+    "description": "Мужчина получил ранения средней степени тяжести",
+    "fullText": "Мужчина получил ранения средней степени тяжести",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25874915",
-    "time": "2025-12-10T17:55:32.000Z"
+    "url": "https://tass.ru/proisshestviya/25875075",
+    "time": "2025-12-10T18:19:23.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,6 +44,17 @@
     "time": "2025-12-10T14:29:27.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Пеп сыграл 4 минуты против Хаби, а тренировал его два года. Теперь встретятся как тренеры",
+    "description": "Пересеклись на поле почти 25 лет назад с Хави, Энрике и Хохловым.",
+    "fullText": "Пересеклись на поле почти 25 лет назад с Хави, Энрике и Хохловым.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d5/c1d8aaba44f539eb6caf33e3cbd26.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3369409.html",
+    "time": "2025-12-10T14:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "«Сантьяго Бернабеу» вмещает больше 85 тысяч зрителей. Поместятся ли там все жители родного города Беллингема?",
     "description": "Статистика уже знает, а вы?",
@@ -42,16 +64,5 @@
     "category": "all",
     "url": "https://sprts.cc/q0ngs5",
     "time": "2025-12-10T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ред Булл» выгнал последнего титана «Ф-1». Война за власть сожгла победную команду",
-    "description": "Остался только Ферстаппен.",
-    "fullText": "Остался только Ферстаппен.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ba/c9a6420964ce88850018fbfbf89f3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3369435.html",
-    "time": "2025-12-10T13:15:00.000Z"
   }
 ]
