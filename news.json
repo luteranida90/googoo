@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Северо-Западе России ожидаются потепление и сильный ветер",
-    "description": "В большинстве регионов температура поднимется выше 0",
-    "fullText": "В большинстве регионов температура поднимется выше 0",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25877723",
-    "time": "2025-12-11T06:38:18.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Никс» и «Мэджик» едут в Вегас – первые полуфиналисты Кубка НБА",
-    "description": "Надежда на трофей.",
-    "fullText": "Надежда на трофей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d4/1a1f67b5940aab6bf00409a0bdc51.jpeg",
+    "title": "Увольнять ли Хаби Алонсо из «Реала» сейчас?",
+    "description": "После поражения от Пепа.",
+    "fullText": "После поражения от Пепа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c4/36e6308f2415aaa37e263ff2b3f6b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3369503.html",
-    "time": "2025-12-10T21:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369771.html",
+    "time": "2025-12-10T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
-    "description": "Творчество и работа человека-эпохи.",
-    "fullText": "Творчество и работа человека-эпохи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/34/8ccbd32d34cfbb8607f8a80d481f6.jpeg",
+    "title": "Анчелотти брал ЛЧ не только с «Реалом». Вспомните, с кем еще?",
+    "description": "В нашем тесте.",
+    "fullText": "В нашем тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/35/cbcca2fc249a8ac7f0263c5ea775a.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
-    "time": "2025-12-10T20:55:00.000Z"
+    "url": "https://sirena.world/nbqq0t",
+    "time": "2025-12-10T22:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4523853-kontrollery-xbox-v-stile-pip-boy?from=rss",
     "time": "2025-12-10T15:44:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
