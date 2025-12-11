@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "FIS предоставила нейтральный статус специалисту сборной России Уфтикову",
-    "description": "Также нейтральный статус получили белорусские лыжницы Анна Королева и Анна Мачехина",
-    "fullText": "Также нейтральный статус получили белорусские лыжницы Анна Королева и Анна Мачехина",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Helldivers 2 получит ещё один кроссовер с франшизой Killzone — предметы из него будут доступны на постоянной основе",
+    "description": "В премиальной заслуге появятся как снаряжение из предыдущей коллаборации, так и совершенно новое.",
+    "fullText": "В премиальной заслуге появятся как снаряжение из предыдущей коллаборации, так и совершенно новое.",
+    "image": "https://leonardo.osnova.io/19b85ce0-3d70-5498-989d-10307fd6ed0e/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4525783-helldivers-2-poluchit-eshe-odin-krossover-s-franshizoi-killzone-predmety-iz-nego-budut-dostupny-na-postoyannoi-osnove?from=rss",
+    "time": "2025-12-11T14:35:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Два наших зумера захватили мировой киберспорт. Сегодня у них главный матч",
+    "description": "Играют наши главные звезды в CS.",
+    "fullText": "Играют наши главные звезды в CS.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/29/88c6fc6ed413b8e35d548da0339af.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25886367",
-    "time": "2025-12-11T14:03:34.000Z"
+    "url": "https://cyber.sports.ru/cs/blogs/3369894.html",
+    "time": "2025-12-11T14:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
+    "description": "Ответят только знатоки.",
+    "fullText": "Ответят только знатоки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/f4/3e83eb941434f99387a29829f82a6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/z69vfk",
+    "time": "2025-12-11T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,25 +55,14 @@
     "time": "2025-12-11T09:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Промес – лучший легионер-бомбардир FONBET Кубка России. А кто на втором месте?",
-    "description": "Скоро уже обгонит Квинси.",
-    "fullText": "Скоро уже обгонит Квинси.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/fb/ee20093164acea5482ec581caef83.png",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-12-11T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Дженнифер Лоуренс и Джош Хатчерсон вернутся к своим ролям из «Голодных игр» для приквела «Рассвет жатвы»",
-    "description": "Подробностей пока нет.",
-    "fullText": "Подробностей пока нет.",
-    "image": "https://leonardo.osnova.io/8f9ced1d-f28d-5b27-9c14-f2fbb5f4fc54/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4524869-dzhennifer-lourens-i-dzhosh-hatcherson-v-prikvele-golodnyh-igr?from=rss",
-    "time": "2025-12-11T05:41:35.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
