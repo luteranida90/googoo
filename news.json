@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Урупском районе КЧР открыли мемориальную доску в честь героя СВО",
-    "description": "Она установлена на фасаде здания прокуратуры района, которой Шуваев руководил в 2004-2009 годах",
-    "fullText": "Она установлена на фасаде здания прокуратуры района, которой Шуваев руководил в 2004-2009 годах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25889097",
-    "time": "2025-12-11T17:04:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Футбол без сплетен, ММА без воды, фигурка без скандалов. Настройте свою ленту на Спортсе’‘",
     "description": "Попробуйте «Мою Ленту».",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sprts.cc/2qm4or",
     "time": "2025-12-11T15:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Данк смерти во Франции: мужчина взлетел над головами",
+    "description": "Кес ке се?!",
+    "fullText": "Кес ке се?!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/bf/6746dfa9a42b0ac1c30c437e0b5c6.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3369829.html",
+    "time": "2025-12-11T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -44,17 +44,6 @@
     "time": "2025-12-11T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "8 причин, почему Пиастри все-таки заслуживал титул в «Ф-1»",
-    "description": "Не хуже Норриса и Ферстаппена.",
-    "fullText": "Не хуже Норриса и Ферстаппена.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/9e/9880f86e64732b3f8a5920e668ddb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3368216.html",
-    "time": "2025-12-11T11:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "У авторов Helldivers 2 есть прототип «роглайт»-режима, который «фундаментально меняет игру»",
     "description": "Стоит ли ждать его, непонятно.",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4525363-prototip-roglajt-rezhima-v-helldivers-2?from=rss",
     "time": "2025-12-11T10:43:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
