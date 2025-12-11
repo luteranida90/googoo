@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Военная операция на Украине. Онлайн",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251211/8667513.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25878241",
+    "time": "2025-12-11T21:00:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Интер» и «Ливерпуль» объединяет бывший спартаковец. Поняли кто?",
     "description": "Сейчас он без клуба.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-11T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Обвиняют в связях с Лапортой, Араухо ненавидит его. Это главный инсайдер по «Барсе»",
+    "description": "Выгоняли с радио за любовь к клубу.",
+    "fullText": "Выгоняли с радио за любовь к клубу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/9e/7bd1ae62d426f8b52a5d0ef727a0a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/mediafootball/blogs/3365191.html",
+    "time": "2025-12-11T16:17:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,17 +44,6 @@
     "time": "2025-12-11T16:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Они получат много денег летом: канадский Кобе, самый мускулистый парень в НБА и еще трое молодых",
-    "description": "Главные ограниченно свободные агенты.",
-    "fullText": "Главные ограниченно свободные агенты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/4a/5c0c7e4e84fe0a1f03034bb1de186.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3369704.html",
-    "time": "2025-12-11T15:47:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Завершились съёмки третьего сезона сериала «Властелин колец: Кольца власти»",
     "description": "Новость сопроводили закулисным видео.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4524922-zavershenie-syomok-tretiego-sezona-vlastelina-kolec-kolca-vlasti?from=rss",
     "time": "2025-12-11T06:52:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
