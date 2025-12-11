@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ростове-на-Дону появится программа лесовосстановления",
-    "description": "До сезона древонасаждения власти совместно с учеными определят породы деревьев, от высадки которых придется воздержаться из-за появления новых вредителей",
-    "fullText": "До сезона древонасаждения власти совместно с учеными определят породы деревьев, от высадки которых придется воздержаться из-за появления новых вредителей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25889465",
-    "time": "2025-12-11T18:29:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Интер» и «Ливерпуль» объединяет бывший спартаковец. Поняли кто?",
     "description": "Сейчас он без клуба.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-11T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Матч года в CS: шейхи против Team Spirit, в обеих – русские мегазвезды",
+    "description": "Смотрим на Кибере.",
+    "fullText": "Смотрим на Кибере.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/c8/c47c07877472884e7feaa2d876579.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/match/team-spirit-falcons-esports-2025-12-11/?utm_source=sports",
+    "time": "2025-12-11T16:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -34,25 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Данк смерти во Франции: мужчина взлетел над головами",
-    "description": "Кес ке се?!",
-    "fullText": "Кес ке се?!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/bf/6746dfa9a42b0ac1c30c437e0b5c6.gif",
+    "title": "Леннарт Карл – вундеркинд «Баварии», который обречен на сравнения с Месси",
+    "description": "И с Роббеном.",
+    "fullText": "И с Роббеном.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4b/445dd1ac04a4ba6cab368fb8d1494.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3369829.html",
-    "time": "2025-12-11T14:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Трое наших зумеров захватили мировой киберспорт. Сегодня у них главный матч",
-    "description": "Играют наши главные звезды в CS.",
-    "fullText": "Играют наши главные звезды в CS.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/29/88c6fc6ed413b8e35d548da0339af.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3369894.html",
-    "time": "2025-12-11T14:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369472.html",
+    "time": "2025-12-11T15:07:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
