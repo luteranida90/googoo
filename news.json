@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лавров: Запад пытается использовать тему Украины, чтобы отвлечь внимание от Палестины",
+    "title": "Дело завели после гибели людей при разгерметизации стенда в пермском вузе",
     "description": "",
     "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250301/8093251.jpg",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250129/8035257.png",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25879419",
-    "time": "2025-12-11T08:11:27.000Z"
+    "url": "https://tass.ru/proisshestviya/25879787",
+    "time": "2025-12-11T08:38:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "ESPN признали форму «Сампдории» из 90-х лучшей в истории футбола!",
+    "description": "Ее можно выиграть в нашем спецпроекте.",
+    "fullText": "Ее можно выиграть в нашем спецпроекте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/cd/4281ea8cf429e81670cec96ce45a1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/nlnlli",
+    "time": "2025-12-11T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-12-10T22:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Анчелотти брал ЛЧ не только с «Реалом». Вспомните, с кем еще?",
-    "description": "В нашем тесте.",
-    "fullText": "В нашем тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/35/cbcca2fc249a8ac7f0263c5ea775a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nbqq0t",
-    "time": "2025-12-10T22:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джонни Депп займётся первой англоязычной экранизацией «Мастера и Маргариты»",
-    "description": "Актёр выступит её продюсером.",
-    "fullText": "Актёр выступит её продюсером.",
-    "image": "https://leonardo.osnova.io/0de7df86-626d-5767-880a-4a00776efca5/",
+    "title": "«Пять лет. Спасибо за приключение»: праздничный трейлер Cyberpunk 2077 от CD Projekt RED",
+    "description": "Ностальгический взгляд на самых известных обитателей Найт-Сити.",
+    "fullText": "Ностальгический взгляд на самых известных обитателей Найт-Сити.",
+    "image": "https://leonardo.osnova.io/c7e29012-a742-53ff-a58c-20bc4e524d6a/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4523900-dzhonni-depp-v-ekranizatsii-mastera-i-margarity?from=rss",
-    "time": "2025-12-10T16:09:43.000Z"
+    "url": "https://dtf.ru/games/4523525-prazdnichnyj-trejler-cyberpunk-2077-5-let-priklyuchenij?from=rss",
+    "time": "2025-12-10T12:53:26.000Z"
   }
 ]
