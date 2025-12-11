@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Стоимость серебра превысила $64 за тройскую унцию",
-    "description": "Это новый исторический максимум",
-    "fullText": "Это новый исторический максимум",
+    "title": "Медведев: никто пока публично не предлагал создать \"ключевую пятерку\" с участием РФ",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25888555",
-    "time": "2025-12-11T16:00:19.000Z"
+    "url": "https://tass.ru/politika/25888907",
+    "time": "2025-12-11T16:33:49.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +33,17 @@
     "time": "2025-12-11T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "8 причин, почему Пиастри все-таки заслуживал титул в «Ф-1»",
+    "description": "Не хуже Норриса и Ферстаппена.",
+    "fullText": "Не хуже Норриса и Ферстаппена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/9e/9880f86e64732b3f8a5920e668ddb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3368216.html",
+    "time": "2025-12-11T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Стоимость Кисляка на Transfermarkt растет стремительно. А как дела с ассистами в этом сезоне?",
     "description": "Статистика знает, чего больше. А ты?",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4525393-vtoroy-sezon-spin-offa-bumazhnogo-doma-berlin-i-dama-s-gornostaem?from=rss",
     "time": "2025-12-11T11:21:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сити» продавил «Реал», топ-5 уже в плей-офф, подвиг Хайкина, ноль Сафонова, Жозе всплыл со дна. Главное в ЛЧ",
-    "description": "«Арсенал» безукоризненный.",
-    "fullText": "«Арсенал» безукоризненный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/11/ccfe995ed43a4a2cb6a652f2b53a1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369658.html",
-    "time": "2025-12-11T11:10:00.000Z"
   }
 ]
