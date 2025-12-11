@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Татарстане объявили беспилотную опасность",
-    "description": "Об этом сообщили в МЧС",
-    "fullText": "Об этом сообщили в МЧС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25876337",
-    "time": "2025-12-10T22:49:24.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сложность этого квиза про ЛЧ вы определите сами",
-    "description": "Будет интересно даже экспертам.",
-    "fullText": "Будет интересно даже экспертам.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/7b/fd63f89664683bd811ac19d7ba47f.png",
+    "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
+    "description": "Творчество и работа человека-эпохи.",
+    "fullText": "Творчество и работа человека-эпохи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/34/8ccbd32d34cfbb8607f8a80d481f6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/z69vfk",
-    "time": "2025-12-10T19:55:00.000Z"
+    "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
+    "time": "2025-12-10T20:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Реал» vs «Сити» – уже классика Лиги чемпионов",
-    "description": "Мысли фаната «Мадрида».",
-    "fullText": "Мысли фаната «Мадрида».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/54/2f495ab3e414b8cf4a2feeeb2c97e.jpeg",
+    "title": "Вот это уже «Аякс»: в ЛЧ вырвали победу тремя голами после 79-й! «Карабах» обидно рассыпался",
+    "description": "Первые очки только сейчас.",
+    "fullText": "Первые очки только сейчас.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d2/565b1b79f4130a474bf31e93cf026.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368278.html",
-    "time": "2025-12-10T19:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369732.html",
+    "time": "2025-12-10T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4523995-igry-dlya-ps-plus-assassin-s-creed-mirage-wo-long-i-granblue-fantasy?from=rss",
     "time": "2025-12-10T16:40:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
