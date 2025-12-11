@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Якутии завели дело после пожара в селе с пятью погибшими",
-    "description": "Следователи проводят допросы и осмотр места происшествия",
-    "fullText": "Следователи проводят допросы и осмотр места происшествия",
+    "title": "На Северо-Западе России ожидаются потепление и сильный ветер",
+    "description": "В большинстве регионов температура поднимется выше 0",
+    "fullText": "В большинстве регионов температура поднимется выше 0",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25878153",
-    "time": "2025-12-11T06:13:27.000Z"
+    "url": "https://tass.ru/obschestvo/25877723",
+    "time": "2025-12-11T06:38:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Никс» и «Мэджик» едут в Вегас – первые полуфиналисты Кубка НБА",
+    "description": "Надежда на трофей.",
+    "fullText": "Надежда на трофей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d4/1a1f67b5940aab6bf00409a0bdc51.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3369503.html",
+    "time": "2025-12-10T21:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-10T20:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Упс, Топурия фанатеет от Месси, а в его лигу инвестировал Роналду. Криша он посылал «к черту»",
-    "description": "А как она устроена?",
-    "fullText": "А как она устроена?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/1f/0764cbef746bc8fdb0b1d49187d58.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3368614.html",
-    "time": "2025-12-10T20:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Нас всех связывает земля» — Тоф и команда Азулы в тизере второго сезона «Аватара: Легенды об Аанге»",
-    "description": "Продолжение выйдет в 2026 году.",
-    "fullText": "Продолжение выйдет в 2026 году.",
-    "image": "https://leonardo.osnova.io/5fcb0336-cd0a-5ced-b885-f6d6d05716e1/-/format/mp4/",
+    "title": "Microsoft представила контроллеры Xbox в стиле Pip-Boy из франшизы Fallout",
+    "description": "Цена начинается от 83 долларов с учётом скидки.",
+    "fullText": "Цена начинается от 83 долларов с учётом скидки.",
+    "image": "https://leonardo.osnova.io/e6b21f9b-8407-5f38-bc3b-219e290d0737/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4523782-tizer-vtorogo-sezona-avatar-legenda-ob-aange?from=rss",
-    "time": "2025-12-10T15:20:15.000Z"
+    "url": "https://dtf.ru/hard/4523853-kontrollery-xbox-v-stile-pip-boy?from=rss",
+    "time": "2025-12-10T15:44:33.000Z"
   }
 ]
