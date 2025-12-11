@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Липецкой области отменили опасность атаки БПЛА",
+    "description": "Режим в регионе был объявлен в 23:45 мск",
+    "fullText": "Режим в регионе был объявлен в 23:45 мск",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25877021",
+    "time": "2025-12-11T02:51:29.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
     "description": "Творчество и работа человека-эпохи.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4523995-igry-dlya-ps-plus-assassin-s-creed-mirage-wo-long-i-granblue-fantasy?from=rss",
     "time": "2025-12-10T16:40:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
