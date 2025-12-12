@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве ожидается гололедица на дорогах после полуночи 13 декабря",
+    "description": "Горожан призвали быть внимательными и аккуратными на тротуарах и дорогах",
+    "fullText": "Горожан призвали быть внимательными и аккуратными на тротуарах и дорогах",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25897265",
+    "time": "2025-12-12T12:24:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шнякин и Буффон в одном составе! Как так вышло?",
     "description": "Нет, это не сюжет из фифы.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/gnkvpp",
     "time": "2025-12-12T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Во Владимирской области создадут индустриальный парк \"Покров\"",
-    "description": "Общий объем инвестиций в проект составит за 500 млн рублей",
-    "fullText": "Общий объем инвестиций в проект составит за 500 млн рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25896511",
-    "time": "2025-12-12T11:25:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Nw",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "День легенд «Тампы»: у Кучерова – 0+4, а Стэмкос сделал покер! Жаль, что в разных матчах",
-    "description": "Синхронизировались.",
-    "fullText": "Синхронизировались.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/e3/839b21477492faa2ad214b730e0d1.jpeg",
+    "title": "Главное в ЛЕ и ЛК: много триллеров, лидеры – французы",
+    "description": "«Лион» и «Страсбур».",
+    "fullText": "«Лион» и «Страсбур».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/3b/fcdc7540f43f68a06f49d33fbb3cb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3370109.html",
-    "time": "2025-12-12T08:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369983.html",
+    "time": "2025-12-12T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Что-то грядёт»: первый трейлер Control Resonant",
-    "description": "Игра выйдет уже в 2026 году — Дилан Фейден будет главным героем.",
-    "fullText": "Игра выйдет уже в 2026 году — Дилан Фейден будет главным героем.",
-    "image": "https://leonardo.osnova.io/8f3dbe4d-c342-553d-84ae-d02d0bc13de1/-/format/mp4/",
+    "title": "Crystal Dynamics анонсировала Tomb Raider Catalyst с релизом в 2027-м и ремейк первой части франшизы",
+    "description": "Лара Крофт возвращается.",
+    "fullText": "Лара Крофт возвращается.",
+    "image": "https://leonardo.osnova.io/d534b945-6fb1-50a9-8183-7edd28c09fee/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4524373-trejler-control-resonant-dilan-feyden?from=rss",
-    "time": "2025-12-12T02:05:52.000Z"
+    "url": "https://dtf.ru/games/4525766-crystal-dynamics-anonsirovala-tomb-raider-catalyst?from=rss",
+    "time": "2025-12-12T02:31:44.000Z"
   }
 ]
