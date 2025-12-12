@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В каком клубе АПЛ играли Фердинанд и Милнер?",
+    "description": "Тест для знатоков АПЛ.",
+    "fullText": "Тест для знатоков АПЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/b4/1b6d2e6d24f65aae253935b6c7904.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/yopigl",
+    "time": "2025-12-12T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: в Москве эвакуировали ВТБ Арену из-за угрозы минирования",
-    "description": "На месте работают кинолог с собаками, также прибыли пожарные и скорая помощь",
-    "fullText": "На месте работают кинолог с собаками, также прибыли пожарные и скорая помощь",
+    "title": "Додон: экономическая стабильность Молдавии оказалась в руках западных доноров",
+    "description": "Экс-президент республики считает, что через три года страна может оказаться в ситуации, когда треть расходов будет финансироваться внешними займами",
+    "fullText": "Экс-президент республики считает, что через три года страна может оказаться в ситуации, когда треть расходов будет финансироваться внешними займами",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25900295",
-    "time": "2025-12-12T19:01:51.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25900407",
+    "time": "2025-12-12T19:21:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,6 +44,17 @@
     "time": "2025-12-12T16:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Летние трансферы РПЛ, которые пока не впечатлили",
+    "description": "От кого ждали большего.",
+    "fullText": "От кого ждали большего.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/cd/ca9606f954470af66a6a730ab63e5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3370191.html",
+    "time": "2025-12-12T16:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Облачный» сервис «Плюс Гейминг» перешёл в открытую бету — с обновлённым дизайном и оптимизацией для мобильных устройств",
     "description": "Масштабный апдейт.",
@@ -42,27 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529084-oblachnyy-servis-plyus-geiming-ot-yandeksa-pereshel-v-otkrytuyu-betu?from=rss",
     "time": "2025-12-12T15:36:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
-    "description": "Вызов для ценителей футбола.",
-    "fullText": "Вызов для ценителей футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/c5/3eec807e94e0badef1ca724e26375.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2025-12-12T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я отправил Погба в запас и выпустил Скотта». Моуринью + Мактоминей = ❤️",
-    "description": "Неочевидная лавстори.",
-    "fullText": "Неочевидная лавстори.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a0/9cfbed86f41a2b468bc4b993bcede.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370118.html",
-    "time": "2025-12-12T15:05:00.000Z"
   }
 ]
