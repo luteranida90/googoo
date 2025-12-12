@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Студенты в Гонконге проявляют растущий интерес к русскому языку и культуре",
+    "description": "На встрече с учащимися генеральный консул России в Гонконге и Макао Анатолий Каргаполов отметил, что знание русского языка открывает широкие возможности для личного и профессионального роста",
+    "fullText": "На встрече с учащимися генеральный консул России в Гонконге и Макао Анатолий Каргаполов отметил, что знание русского языка открывает широкие возможности для личного и профессионального роста",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25892415",
+    "time": "2025-12-12T06:40:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "40 идей новогодних подарков для фанатов спорта в новом тесте",
     "description": "Наш подарок всем неопределившимся!",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экшен-RPG Exodus от сценариста Mass Effect выйдет в начале 2027 года — трейлер",
-    "description": "Авторы начали тизерить героя Мэттью Макконахи.",
-    "fullText": "Авторы начали тизерить героя Мэттью Макконахи.",
-    "image": "https://leonardo.osnova.io/023a61e7-c3e8-55be-a2ef-4ea71ae63026/",
+    "title": "Frictional Games представила Ontos — «духовную наследницу» Soma",
+    "description": "Одну из главных ролей в триллере исполнил Стеллан Скарсгард.",
+    "fullText": "Одну из главных ролей в триллере исполнил Стеллан Скарсгард.",
+    "image": "https://leonardo.osnova.io/67463a2e-8cc1-5252-899e-18a99c9de4fe/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4524192-ekshen-rpg-exodus-ot-scenarista-mass-effect-vyjdet-v-2027-godu?from=rss",
-    "time": "2025-12-12T01:54:20.000Z"
+    "url": "https://dtf.ru/games/4526941-frictional-games-anosirovala-ontos-naslednitsu-soma?from=rss",
+    "time": "2025-12-12T01:45:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Иран и Египет протестуют против матча ЧМ-2026 в честь ЛГБТ*. ФИФА не меняет решение",
-    "description": "Конфликт.",
-    "fullText": "Конфликт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/df/13dfb366c4a84a6fcc4dcdefa26c7.jpeg",
+    "title": "Ротенберг-тренер вернулся! Его «Россия 25» сразу выиграла турнир",
+    "description": "Пока 3х3.",
+    "fullText": "Пока 3х3.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/ad/cda56b7b64ad3a9ab3d4ea4670bb2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369988.html",
-    "time": "2025-12-11T19:54:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3369959.html",
+    "time": "2025-12-11T20:23:00.000Z"
   }
 ]
