@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кабмин продлил отсрочку по налогам и страховым взносам для угольной отрасли",
+    "description": "Правительство продлило отсрочку до 28 февраля 2026 года",
+    "fullText": "Правительство продлило отсрочку до 28 февраля 2026 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25898335",
+    "time": "2025-12-12T14:00:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шнякин и Буффон в одном составе! Как так вышло?",
     "description": "Нет, это не сюжет из фифы.",
@@ -11,36 +22,25 @@
     "time": "2025-12-12T11:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "НХЛ все еще может отказаться от Олимпиады. Почему?",
+    "description": "Но все будет хорошо (наверное).",
+    "fullText": "Но все будет хорошо (наверное).",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e2/84b688aa846fda6dccc5d66aa05bd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3369820.html",
+    "time": "2025-12-12T09:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Геймплейные скриншоты и подробности Gang of Dragon от соавтора Yakuza Тосихиро Нагоси",
-    "description": "Токийский криминал с Ма Дон-соком.",
-    "fullText": "Токийский криминал с Ма Дон-соком.",
-    "image": "https://leonardo.osnova.io/09d012ca-bf19-58f7-8034-195e4f86c675/",
+    "title": "Creative Assembly анонсировала Total War по вселенной Warhammer 40,000",
+    "description": "В стратегии появится Дэвид Харбор — актёр любит сеттинг.",
+    "fullText": "В стратегии появится Дэвид Харбор — актёр любит сеттинг.",
+    "image": "https://leonardo.osnova.io/0267f9eb-cafd-5c0c-97a0-0553ca6ffd84/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4528184-geympley-gang-of-dragon-ot-tosihiro-nagosi?from=rss",
-    "time": "2025-12-12T09:30:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90Lm1lL3Nw",
-    "title": "Хочешь на тренировку 2Drots? Мегаконкурс с легендой клуба!",
-    "description": "Перешли младшему брату.",
-    "fullText": "Перешли младшему брату.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/b8/1d4855fd54c33bbf79dd753c33d7b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/sports_MF/28453",
-    "time": "2025-12-12T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я вредил себе своим же молчанием». Важная речь Умтити о депрессии",
-    "description": "То, о чем стоит говорить.",
-    "fullText": "То, о чем стоит говорить.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2c/ca3ec679c455c9a95c4569d94f202.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367787.html",
-    "time": "2025-12-12T08:45:00.000Z"
+    "url": "https://dtf.ru/games/4524217-creative-assembly-anonsirovala-total-war-po-vselennoy-warhammer-40000?from=rss",
+    "time": "2025-12-12T03:26:32.000Z"
   }
 ]
