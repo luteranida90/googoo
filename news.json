@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мафиози и обладатель \"Оскара\". Истории из жизни культового певца Фрэнка Синатры",
-    "description": "12 декабря обладателю самого бархатного тембра, культовому американскому певцу Фрэнку Синатре исполнилось бы 110 лет. Карьера вокалиста переживала взлеты и падения, но именно его образ является одним из столпов в культуре США и определяет ее идентичность",
-    "fullText": "12 декабря обладателю самого бархатного тембра, культовому американскому певцу Фрэнку Синатре исполнилось бы 110 лет. Карьера вокалиста переживала взлеты и падения, но именно его образ является одним из столпов в культуре США и определяет ее идентичность",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В Петербурге открылась выставка об истории Союзного государства",
+    "description": "Постоянная экспозиция представлена в Президентской библиотеке имени Бориса Ельцина",
+    "fullText": "Постоянная экспозиция представлена в Президентской библиотеке имени Бориса Ельцина",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251212/8673237.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/25897673",
-    "time": "2025-12-12T14:30:01.000Z"
+    "url": "https://tass.ru/obschestvo/25898683",
+    "time": "2025-12-12T14:58:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Издательство Bubble объявило о выпуске комиксов по мотивам Atomic Heart",
+    "description": "О коллаборации стало известно на «Comic Con Игромир».",
+    "fullText": "О коллаборации стало известно на «Comic Con Игромир».",
+    "image": "https://leonardo.osnova.io/b026afa7-e8a3-57b8-9e7f-b5f2b215d1ee/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/read/4528985-izdatelstvo-bubble-obyavilo-o-vypuske-komiksov-po-motivam-atomic-heart?from=rss",
+    "time": "2025-12-12T14:51:53.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "НХЛ все еще может отказаться от Олимпиады. Почему?",
-    "description": "Но все будет хорошо (наверное).",
-    "fullText": "Но все будет хорошо (наверное).",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e2/84b688aa846fda6dccc5d66aa05bd.jpeg",
+    "title": "«Благородное животное стало орудием низменного порока». Как скачки основали империю азартных игр",
+    "description": "От Древнего Рима до Елизаветы II.",
+    "fullText": "От Древнего Рима до Елизаветы II.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/51/b0b56f4624484a7262834d668d8cc.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3369820.html",
-    "time": "2025-12-12T09:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Exodus включает 11 компаньонов — в том числе персонажа Мэттью Макконахи",
-    "description": "Однако не все они смогут помогать в бою.",
-    "fullText": "Однако не все они смогут помогать в бою.",
-    "image": "https://leonardo.osnova.io/26a0cc29-7705-544c-93af-c7596a018fc4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4528057-exodus-11-kompanonov-mettyu-makkonakhi?from=rss",
-    "time": "2025-12-12T08:52:55.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3360817.html",
+    "time": "2025-12-12T10:25:00.000Z"
   }
 ]
