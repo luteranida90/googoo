@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Для поисков пропавшего в акватории Абхазии мужчины задействовали вертолет",
-    "description": "В МЧС республики сообщали, что, по предварительной информации, мужчина, которого ищут спасатели, - 93-летний бывший председатель Совета министров Абхазии Важа Зарандия",
-    "fullText": "В МЧС республики сообщали, что, по предварительной информации, мужчина, которого ищут спасатели, - 93-летний бывший председатель Совета министров Абхазии Важа Зарандия",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25894641",
-    "time": "2025-12-12T10:02:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90Lm1lL3Nw",
     "title": "Хочешь на тренировку 2Drots? Мегаконкурс с легендой клуба!",
     "description": "Перешли младшему брату.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В мировых лыжах запрещен фтор, но в России бегали на нем. И как возвращаться?",
-    "description": "Задача для Коростелева и Непряевой.",
-    "fullText": "Задача для Коростелева и Непряевой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/8c/f9a5ea7a249d2a865731b843e40a0.jpeg",
+    "title": "Наших юниоров возвращают на старты с флагом и гимном! Как это будет?",
+    "description": "Почти...",
+    "fullText": "Почти...",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/0b/8fd7520494d0594d7bdc12fb2bc2e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3369533.html",
-    "time": "2025-12-12T05:45:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3369987.html",
+    "time": "2025-12-12T06:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Star Wars: Fate of the Old Republic от Кейси Хадсона не будет прямым продолжением KotOR",
-    "description": "Разработка пока на ранней стадии.",
-    "fullText": "Разработка пока на ранней стадии.",
-    "image": "https://leonardo.osnova.io/46767adf-3d33-5ddc-bbd1-43512cd87c7e/",
+    "title": "«Что-то грядёт»: первый трейлер Control Resonant",
+    "description": "Игра выйдет уже в 2026 году — Дилан Фейден будет главным героем.",
+    "fullText": "Игра выйдет уже в 2026 году — Дилан Фейден будет главным героем.",
+    "image": "https://leonardo.osnova.io/8f3dbe4d-c342-553d-84ae-d02d0bc13de1/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4527586-star-wars-fate-of-the-old-republic-ot-kejsi-hadsona-ne-sikvel-kotor?from=rss",
-    "time": "2025-12-12T05:33:52.000Z"
+    "url": "https://dtf.ru/games/4524373-trejler-control-resonant-dilan-feyden?from=rss",
+    "time": "2025-12-12T02:05:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
