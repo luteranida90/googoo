@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Захарова: враги РФ могут использовать дело Долиной, чтобы рассорить россиян",
+    "description": "Россию невозможно отменить ни в культуре, ни в спорте, нигде, подчеркнула официальный представитель МИД",
+    "fullText": "Россию невозможно отменить ни в культуре, ни в спорте, нигде, подчеркнула официальный представитель МИД",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8010695.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25900117",
+    "time": "2025-12-12T18:01:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Правда ли, что вместимость «Сантьяго Бернабеу» больше насесления родного города Беллингема?",
     "description": "Ответь на 10 вопросов о статистике",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/osquqx",
     "time": "2025-12-12T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Обеспечивающий водоснабжение Кургана водозабор планируют открыть 25 декабря",
-    "description": "Сразу после этого начнется реконструкция изношенных канализационных очистных",
-    "fullText": "Сразу после этого начнется реконструкция изношенных канализационных очистных",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/novosti-regionov/25899871",
-    "time": "2025-12-12T17:10:23.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,17 +33,6 @@
     "time": "2025-12-12T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Amazon убрала функцию с кратким пересказом сериалов от ИИ — в ролике про «Фоллаут» обнаружили несколько ошибок",
-    "description": "Например, нейросеть перепутала год действия во флешбэках.",
-    "fullText": "Например, нейросеть перепутала год действия во флешбэках.",
-    "image": "https://leonardo.osnova.io/c60a39c5-29ad-5124-8c61-561e9e472c8d/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4529117-amazon-ubrala-funktsiyu-ii-dlya-perskaza-serialov?from=rss",
-    "time": "2025-12-12T16:24:52.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
     "description": "Вызов для ценителей футбола.",
@@ -55,14 +44,25 @@
     "time": "2025-12-12T15:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Бабуля-ведьма и её необычный спутник: детали адвенчуры Coven of the Chicken Foot от студии геймдиректора TLoU Брюса Стрейли",
+    "description": "Фэнтезийное приключение в духе The Last Guardian и аниме от Ghibli.",
+    "fullText": "Фэнтезийное приключение в духе The Last Guardian и аниме от Ghibli.",
+    "image": "https://leonardo.osnova.io/706708dd-5f16-5428-89f1-6f076752ef6a/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4528657-coven-of-the-chicken-foot-priklyucheniya-babushki-vedmy?from=rss",
+    "time": "2025-12-12T14:34:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Арсенал» против безнадежных, в «МЮ» самый бьющий игрок лиги. Что будет в туре АПЛ",
-    "description": "Фэнтези-дедлайн – 18:00 субботы.",
-    "fullText": "Фэнтези-дедлайн – 18:00 субботы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e8/f398e794348758d7a923c00f2b43e.jpeg",
+    "title": "Лучший тяж России или переоцененный любимчик Федора? Насколько реально силен Немков",
+    "description": "Большой разбор.",
+    "fullText": "Большой разбор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/e3/b5c5e5eef4c1cadfe022d3471a481.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369496.html",
-    "time": "2025-12-12T13:20:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3369115.html",
+    "time": "2025-12-12T14:00:00.000Z"
   }
 ]
