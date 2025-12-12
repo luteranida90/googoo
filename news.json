@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве ожидается гололедица на дорогах после полуночи 13 декабря",
-    "description": "Горожан призвали быть внимательными и аккуратными на тротуарах и дорогах",
-    "fullText": "Горожан призвали быть внимательными и аккуратными на тротуарах и дорогах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25897265",
-    "time": "2025-12-12T12:24:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Шнякин и Буффон в одном составе! Как так вышло?",
     "description": "Нет, это не сюжет из фифы.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/gnkvpp",
     "time": "2025-12-12T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Геймплейные скриншоты и подробности Gang of Dragon от соавтора Yakuza Тосихиро Нагоси",
+    "description": "Токийский криминал с Ма Дон-соком.",
+    "fullText": "Токийский криминал с Ма Дон-соком.",
+    "image": "https://leonardo.osnova.io/09d012ca-bf19-58f7-8034-195e4f86c675/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4528184-geympley-gang-of-dragon-ot-tosihiro-nagosi?from=rss",
+    "time": "2025-12-12T09:30:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL3Nw",
@@ -34,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главное в ЛЕ и ЛК: много триллеров, лидеры – французы",
-    "description": "«Лион» и «Страсбур».",
-    "fullText": "«Лион» и «Страсбур».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/3b/fcdc7540f43f68a06f49d33fbb3cb.jpeg",
+    "title": "«Я вредил себе своим же молчанием». Важная речь Умтити о депрессии",
+    "description": "То, о чем стоит говорить.",
+    "fullText": "То, о чем стоит говорить.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2c/ca3ec679c455c9a95c4569d94f202.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369983.html",
-    "time": "2025-12-12T08:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crystal Dynamics анонсировала Tomb Raider Catalyst с релизом в 2027-м и ремейк первой части франшизы",
-    "description": "Лара Крофт возвращается.",
-    "fullText": "Лара Крофт возвращается.",
-    "image": "https://leonardo.osnova.io/d534b945-6fb1-50a9-8183-7edd28c09fee/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4525766-crystal-dynamics-anonsirovala-tomb-raider-catalyst?from=rss",
-    "time": "2025-12-12T02:31:44.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367787.html",
+    "time": "2025-12-12T08:45:00.000Z"
   }
 ]
