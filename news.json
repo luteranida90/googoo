@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ethereum демонстрирует снижение",
+    "description": "К 19:25 мск курс находился на уровне $3 062",
+    "fullText": "К 19:25 мск курс находился на уровне $3 062",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25899759",
+    "time": "2025-12-12T16:44:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Саске? Вегета? Это с кем из аниме сравнили Роналду – в новости, где вы оставили 100+ комментариев",
     "description": "Николя Пепе поджигает.",
@@ -11,15 +22,15 @@
     "time": "2025-12-12T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Беспрозванных: РИЦ ТАСС в Калининграде донесет правдивые факты о жизни в России",
-    "description": "Это позволит противодействовать мифам и фейкам, распространяемым против страны, отметил губернатор Калининградской области",
-    "fullText": "Это позволит противодействовать мифам и фейкам, распространяемым против страны, отметил губернатор Калининградской области",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25899611",
-    "time": "2025-12-12T16:23:19.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Amazon убрала функцию с кратким пересказом сериалов от ИИ — в ролике про «Фоллаут» обнаружили несколько ошибок",
+    "description": "Например, нейросеть перепутала год действия во флешбэках.",
+    "fullText": "Например, нейросеть перепутала год действия во флешбэках.",
+    "image": "https://leonardo.osnova.io/c60a39c5-29ad-5124-8c61-561e9e472c8d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4529117-amazon-ubrala-funktsiyu-ii-dlya-perskaza-serialov?from=rss",
+    "time": "2025-12-12T16:24:52.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2025-12-12T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бабуля-ведьма и её необычный спутник: детали адвенчуры Coven of the Chicken Foot от студии геймдиректора TLoU Брюса Стрейли",
-    "description": "Фэнтезийное приключение в духе The Last Guardian и аниме от Ghibli.",
-    "fullText": "Фэнтезийное приключение в духе The Last Guardian и аниме от Ghibli.",
-    "image": "https://leonardo.osnova.io/706708dd-5f16-5428-89f1-6f076752ef6a/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4528657-coven-of-the-chicken-foot-priklyucheniya-babushki-vedmy?from=rss",
-    "time": "2025-12-12T14:34:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Может ли тренер орать на спортсменов? Пост Артема Реброва",
-    "description": "Рассказывает про обучение на тренера вратарей.",
-    "fullText": "Рассказывает про обучение на тренера вратарей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/ee/688fbb48746969ecbd99c458eda7c.jpeg",
+    "title": "«Бруклин» – самая российская команда в НБА",
+    "description": "И это не слоган.",
+    "fullText": "И это не слоган.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/9a/8aab6558742299ae54726ca2ddef3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369832.html",
-    "time": "2025-12-12T12:40:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3367885.html",
+    "time": "2025-12-12T13:05:00.000Z"
   }
 ]
