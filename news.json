@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Одессе вновь произошли взрывы",
+    "description": "В Одесской области действует режим воздушной тревоги",
+    "fullText": "В Одесской области действует режим воздушной тревоги",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25901557",
+    "time": "2025-12-13T03:51:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В каком клубе АПЛ играли Фердинанд и Милнер?",
     "description": "Тест для знатоков АПЛ.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/yopigl",
     "time": "2025-12-12T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Deadline: Хелена Бонем Картер ведёт переговоры об участии в четвёртом сезоне «Белого лотоса»",
-    "description": "Подробности о роли и сюжете держатся в секрете.",
-    "fullText": "Подробности о роли и сюжете держатся в секрете.",
-    "image": "https://leonardo.osnova.io/f30be04b-7229-5669-92b7-76aa464b025c/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4529521-helena-bonem-karter-v-chetvyortom-sezone-belogo-lotosa?from=rss",
-    "time": "2025-12-12T19:12:40.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -33,14 +33,14 @@
     "time": "2025-12-12T17:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Облачный» сервис «Плюс Гейминг» перешёл в открытую бету — с обновлённым дизайном и оптимизацией для мобильных устройств",
+    "description": "Масштабный апдейт.",
+    "fullText": "Масштабный апдейт.",
+    "image": "https://leonardo.osnova.io/968fd495-f538-5c5d-9fe3-32a455e95920/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4529084-oblachnyy-servis-plyus-geiming-ot-yandeksa-pereshel-v-otkrytuyu-betu?from=rss",
+    "time": "2025-12-12T15:36:59.000Z"
   }
 ]
