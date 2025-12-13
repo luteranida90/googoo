@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Чего больше: карат в кольце Джорджины или голов Криштиану в Саудовской Аравии?",
+    "description": "Спорим, не угадаешь?",
+    "fullText": "Спорим, не угадаешь?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/4e/f60dda473436b85ea5dedebbcd0ce.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/0cwtbz",
+    "time": "2025-12-13T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Липовой: МиГ-29 для ВСУ будут в нересурсном и нерабочем состоянии",
-    "description": "По словам председателя президиума \"Офицеров России\", такие истребители не дадут Киеву какого-либо преимущества в воздухе, а только прибавят количество металлолома на Украине",
-    "fullText": "По словам председателя президиума \"Офицеров России\", такие истребители не дадут Киеву какого-либо преимущества в воздухе, а только прибавят количество металлолома на Украине",
+    "title": "В Кривом Роге ночью обесточилась вся критическая инфраструктура",
+    "description": "К утру удалось частично восстановить энергоснабжение, сообщил глава городской военной администрации Александр Вилкул",
+    "fullText": "К утру удалось частично восстановить энергоснабжение, сообщил глава городской военной администрации Александр Вилкул",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25901953",
-    "time": "2025-12-13T06:09:52.000Z"
+    "url": "https://tass.ru/proisshestviya/25902097",
+    "time": "2025-12-13T06:44:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Яну подарили «Гелик» за 30 млн! И как?",
+    "description": "Чествуют в Екатеринбурге.",
+    "fullText": "Чествуют в Екатеринбурге.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/7c/f1bfce0824e8e9f9bf6240fb8c2ba.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3370212.html",
+    "time": "2025-12-12T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4529521-helena-bonem-karter-v-chetvyortom-sezone-belogo-lotosa?from=rss",
     "time": "2025-12-12T19:12:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Иран и Египет протестуют против матча ЧМ-2026 в честь ЛГБТ*. ФИФА не меняет решение",
-    "description": "Конфликт.",
-    "fullText": "Конфликт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/df/13dfb366c4a84a6fcc4dcdefa26c7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369988.html",
-    "time": "2025-12-12T18:30:00.000Z"
   }
 ]
