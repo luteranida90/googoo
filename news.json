@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Рубио заявил, что действия Руанды в ДРК нарушают мирное соглашение",
+    "description": "США примут меры для выполнения обещаний",
+    "fullText": "США примут меры для выполнения обещаний",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25903759",
+    "time": "2025-12-13T14:06:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Тест для тех, кто смотрел АПЛ еще до прихода Пепа",
+    "description": "Справится не каждый.",
+    "fullText": "Справится не каждый.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/88/42cd23166402ca3a19c5ffe9676db.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/yopigl",
+    "time": "2025-12-13T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Ротенберг не тренировал полгода. Чем он занимался все это время?",
     "description": "Насыщенная жизнь.",
@@ -11,17 +33,6 @@
     "time": "2025-12-13T09:48:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Лишь два француза забили больше сотни в АПЛ. Вспомните обоих?",
-    "description": "Один из них – абсолютный культ.",
-    "fullText": "Один из них – абсолютный культ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/7d/f9b27c5d6469fb0c3cc970a9f37de.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-13T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся релиз сайд-скроллера Terminator 2D: No Fate по мотивам второго фильма франшизы",
     "description": "Игра получила 78 баллов из 100 на Opencritic.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4528919-reliz-igry-terminator-2d-no-fate?from=rss",
     "time": "2025-12-12T15:01:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
