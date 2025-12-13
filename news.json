@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РУДН заявили, что живая елка экологичнее искусственной",
-    "description": "Настоящие деревья являются возобновляемым ресурсом, пояснили ученые университета",
-    "fullText": "Настоящие деревья являются возобновляемым ресурсом, пояснили ученые университета",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Едва не упустила путевку в жизнь: почему Людмила Сенчина отказывалась браться за \"Золушку\"",
+    "description": "13 декабря народной артистке исполнилось бы 75 лет",
+    "fullText": "13 декабря народной артистке исполнилось бы 75 лет",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251211/8669505.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25901713",
-    "time": "2025-12-13T04:44:33.000Z"
+    "url": "https://tass.ru/kultura/25887487",
+    "time": "2025-12-13T05:00:01.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-12-12T19:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Deadline: Хелена Бонем Картер ведёт переговоры об участии в четвёртом сезоне «Белого лотоса»",
+    "description": "Подробности о роли и сюжете держатся в секрете.",
+    "fullText": "Подробности о роли и сюжете держатся в секрете.",
+    "image": "https://leonardo.osnova.io/f30be04b-7229-5669-92b7-76aa464b025c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4529521-helena-bonem-karter-v-chetvyortom-sezone-belogo-lotosa?from=rss",
+    "time": "2025-12-12T19:12:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Кейн, Росси, Джокович, Энн Хэтуэй и даже «Дюрекс» – Норриса с титулом «Ф-1» поздравлял весь мир!",
     "description": "А голливудский актер из «Пацанов» разнес «Макларен».",
@@ -31,16 +42,5 @@
     "category": "all",
     "url": "https://www.sports.ru/automoto/blogs/3369556.html",
     "time": "2025-12-12T18:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Облачный» сервис «Плюс Гейминг» перешёл в открытую бету — с обновлённым дизайном и оптимизацией для мобильных устройств",
-    "description": "Масштабный апдейт.",
-    "fullText": "Масштабный апдейт.",
-    "image": "https://leonardo.osnova.io/968fd495-f538-5c5d-9fe3-32a455e95920/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4529084-oblachnyy-servis-plyus-geiming-ot-yandeksa-pereshel-v-otkrytuyu-betu?from=rss",
-    "time": "2025-12-12T15:36:59.000Z"
   }
 ]
