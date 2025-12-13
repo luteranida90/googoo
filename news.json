@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: в Москве 40 человек эвакуировали из дома из-за возгорания электрокабеля",
+    "description": "В столичном ГУ МЧС уточнили, что при помощи спасательных устройств спасены два человека",
+    "fullText": "В столичном ГУ МЧС уточнили, что при помощи спасательных устройств спасены два человека",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25905445",
+    "time": "2025-12-13T22:33:45.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Тренер Team Spirit – самый футбольный человек в киберспорте",
     "description": "Любит Роналду, ориентируется на Гвардиолу и Артету.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "4 истории вокруг победы «России 25» Ротенберга",
-    "description": "Справились с Беларусью.",
-    "fullText": "Справились с Беларусью.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ca/e48f992ef4a6f94e523f804bc6864.jpeg",
+    "title": "Какие дорогие билеты на ЧМ-2026 – шок! Финал стоит в 8 раз больше России-2018",
+    "description": "Называют грабежом.",
+    "fullText": "Называют грабежом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/4e/7367327ba4e30bb4dc038bfb57d01.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3370429.html",
-    "time": "2025-12-13T18:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3370181.html",
+    "time": "2025-12-13T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529447-eidos-montreal-novaya-igra-po-chuzhomu?from=rss",
     "time": "2025-12-12T18:27:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
