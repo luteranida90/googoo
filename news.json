@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Средства ПВО РФ за сутки сбили два снаряда РСЗО HIMARS",
-    "description": "Кроме того, средствами противовоздушной обороны уничтожены 169 беспилотных летательных аппаратов",
-    "fullText": "Кроме того, средствами противовоздушной обороны уничтожены 169 беспилотных летательных аппаратов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ЗАЭС оказалась отрезана от внешнего электропитания в ночь на 13 декабря",
+    "description": "Подобный случай стал 12-м с начала украинского конфликта, сообщил гендиректор Международного агентства по атомной энергии Рафаэль Гросси",
+    "fullText": "Подобный случай стал 12-м с начала украинского конфликта, сообщил гендиректор Международного агентства по атомной энергии Рафаэль Гросси",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251213/8674145.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25902515",
-    "time": "2025-12-13T09:14:30.000Z"
+    "url": "https://tass.ru/proisshestviya/25902841",
+    "time": "2025-12-13T09:55:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,6 +22,17 @@
     "time": "2025-12-13T07:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Бруклин» – самая российская команда в НБА",
+    "description": "И это не слоган.",
+    "fullText": "И это не слоган.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/9a/8aab6558742299ae54726ca2ddef3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3367885.html",
+    "time": "2025-12-13T05:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В АПЛ 7 клубов из Лондона. Треть игроков не называет больше трех",
     "description": "Сколько вспомните вы?",
@@ -33,25 +44,14 @@
     "time": "2025-12-13T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новые налоги для букмекеров уже бьют по Медиалиге: «Амкал» сокращает зарплаты, клуб Гатагова закрылся",
-    "description": "Все плохо?",
-    "fullText": "Все плохо?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/30/98050c7aa46f683b31ee28e34e962.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3369885.html",
-    "time": "2025-12-13T04:17:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В продажу поступил 256 номер «Игромании» — журнал не выходил с 2018 года",
-    "description": "Стоимость выпуска составила тысячу рублей.",
-    "fullText": "Стоимость выпуска составила тысячу рублей.",
-    "image": "https://leonardo.osnova.io/0071f07f-db5b-5d17-9dbf-8cec86106274/",
+    "title": "Deadline: Хелена Бонем Картер ведёт переговоры об участии в четвёртом сезоне «Белого лотоса»",
+    "description": "Подробности о роли и сюжете держатся в секрете.",
+    "fullText": "Подробности о роли и сюжете держатся в секрете.",
+    "image": "https://leonardo.osnova.io/f30be04b-7229-5669-92b7-76aa464b025c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/read/4528335-vyshel-256-nomer-zhurnala-igromaniya?from=rss",
-    "time": "2025-12-12T10:13:29.000Z"
+    "url": "https://dtf.ru/cinema/4529521-helena-bonem-karter-v-chetvyortom-sezone-belogo-lotosa?from=rss",
+    "time": "2025-12-12T19:12:40.000Z"
   }
 ]
