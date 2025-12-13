@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Париже прошел \"марш мира\" против участия Франции в украинском конфликте",
-    "description": "В шествии приняли участие сотни человек",
-    "fullText": "В шествии приняли участие сотни человек",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25904525",
-    "time": "2025-12-13T16:45:35.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Наши против французов – в скрытом финале ЧМ по СS",
     "description": "В киберспорте праздник!",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Арсенал» против безнадежных, в «МЮ» самый бьющий игрок лиги. Что будет в туре АПЛ",
-    "description": "Фэнтези-дедлайн – 18:00 субботы.",
-    "fullText": "Фэнтези-дедлайн – 18:00 субботы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e8/f398e794348758d7a923c00f2b43e.jpeg",
+    "title": "«Не хочу, чтобы меня жалели». Разговор с Дианой Дэвис о проблемах со слухом",
+    "description": "Интервью от Багрянцевой.",
+    "fullText": "Интервью от Багрянцевой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a1/26e9c24d84309bb36a0b02a3440ec.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369496.html",
-    "time": "2025-12-13T13:01:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3370100.html",
+    "time": "2025-12-13T13:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529447-eidos-montreal-novaya-igra-po-chuzhomu?from=rss",
     "time": "2025-12-12T18:27:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
