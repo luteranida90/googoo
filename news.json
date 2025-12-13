@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Постпредство США в Женеве: до 70% бюджета ООН уходит на бюрократические издержки",
-    "description": "По мнению американской стороны, всемирной организации необходима реформа \"для восстановления подотчетности и возвращения к базовым принципам\" своего функционирования",
-    "fullText": "По мнению американской стороны, всемирной организации необходима реформа \"для восстановления подотчетности и возвращения к базовым принципам\" своего функционирования",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Ротенберг не тренировал полгода. Чем он занимался все это время?",
+    "description": "Насыщенная жизнь.",
+    "fullText": "Насыщенная жизнь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/96/32a63887941e5b97fd803b677fd9a.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25903495",
-    "time": "2025-12-13T12:58:15.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3370102.html",
+    "time": "2025-12-13T09:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-12-13T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джа Морэнт снова попытался завершить карьеру Лава. Лучший недоданкер в истории НБА",
-    "description": "Вернулся.",
-    "fullText": "Вернулся.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/22/15585ecfc46d0b6a1a7eeeb2128e9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3370323.html",
-    "time": "2025-12-13T09:06:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся релиз сайд-скроллера Terminator 2D: No Fate по мотивам второго фильма франшизы",
     "description": "Игра получила 78 баллов из 100 на Opencritic.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4528919-reliz-igry-terminator-2d-no-fate?from=rss",
     "time": "2025-12-12T15:01:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
