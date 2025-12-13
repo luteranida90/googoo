@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Румынии проходят демонстрации против коррупции в системе правосудия",
-    "description": "По информации портала HotNews, в Бухаресте в акции приняли участие около 8 тыс. человек",
-    "fullText": "По информации портала HotNews, в Бухаресте в акции приняли участие около 8 тыс. человек",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25905253",
-    "time": "2025-12-13T21:16:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Тренер Team Spirit – самый футбольный человек в киберспорте",
     "description": "Любит Роналду, ориентируется на Гвардиолу и Артету.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наконец-то «Челси» выиграл – впервые после «Барсы»! Впечатлил не только Палмер",
-    "description": "Очнулись.",
-    "fullText": "Очнулись.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f5/457a604a945099d72ad17a63e26b8.jpeg",
+    "title": "4 истории вокруг победы «России 25» Ротенберга",
+    "description": "Справились с Беларусью.",
+    "fullText": "Справились с Беларусью.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ca/e48f992ef4a6f94e523f804bc6864.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370434.html",
-    "time": "2025-12-13T18:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3370429.html",
+    "time": "2025-12-13T18:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529447-eidos-montreal-novaya-igra-po-chuzhomu?from=rss",
     "time": "2025-12-12T18:27:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
