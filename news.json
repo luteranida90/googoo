@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На пути в Крым и из него задерживаются пять поездов",
+    "description": "Время задержки составляет от получаса до шести часов",
+    "fullText": "Время задержки составляет от получаса до шести часов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25906537",
+    "time": "2025-12-14T07:55:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вытащите 4 капибары из нашего автомата и выиграйте мини-холодильник с колой",
     "description": "Или адвент-календарь.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Eidos Montreal работает над крупной игрой по «Чужому» — релиз запланирован на 2028 год",
-    "description": "Хоррор, который описывают как «Shadow of the Tomb Raider с ксеноморфами», пока на ранней стадии производства.",
-    "fullText": "Хоррор, который описывают как «Shadow of the Tomb Raider с ксеноморфами», пока на ранней стадии производства.",
-    "image": "https://leonardo.osnova.io/6c3ddee3-8ae6-5939-9032-8bd939bfb6f4/",
+    "title": "«Ты хочешь стать едой или получить свободу?»: первый трейлер мультфильма «Скотный двор»",
+    "description": "Персонажей озвучили Энди Сёркис, Вуди Харрельсон, Стив Бушеми и другие.",
+    "fullText": "Персонажей озвучили Энди Сёркис, Вуди Харрельсон, Стив Бушеми и другие.",
+    "image": "https://leonardo.osnova.io/7f5972ba-550b-5545-b862-edf82fa31b10/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4529447-eidos-montreal-novaya-igra-po-chuzhomu?from=rss",
-    "time": "2025-12-12T18:27:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4529099-pervyy-treyler-multfilma-skotnyy-dvor?from=rss",
+    "time": "2025-12-12T15:46:50.000Z"
   }
 ]
