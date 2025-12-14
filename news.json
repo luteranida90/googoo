@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Грозном поврежденное при атаке БПЛА здание бизнес-центра восстановили",
-    "description": "Речь идет о комплексе \"Грозный-сити\"",
-    "fullText": "Речь идет о комплексе \"Грозный-сити\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25908433",
-    "time": "2025-12-14T14:47:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Баны Соболева на Twitch vs его голы за «Зенит». Чего больше?",
     "description": "Спорим, не угадаешь.",
@@ -22,6 +11,17 @@
     "time": "2025-12-14T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«За деньги для клуба уровня «Сочи» в РПЛ можно подписать всю Лигу ВТБ». Как работает маленький букмекер",
+    "description": "Инсайды экс-руководителя маркетинга «Балтбета».",
+    "fullText": "Инсайды экс-руководителя маркетинга «Балтбета».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f9/9f720d1b243ecab148aa93de2393a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/industry/blogs/3367945.html",
+    "time": "2025-12-14T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Что Криштиану Роналду найдет под елкой? А Леброн?",
     "description": "Подарите легендам праздник.",
@@ -31,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/znslnq",
     "time": "2025-12-14T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все о кубке чемпиона «Ф-1»: болт из серебра за €500 тысяч. Гонщики держат его на холодильнике и в туалете",
-    "description": "Теперь у Норриса.",
-    "fullText": "Теперь у Норриса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/14/673f210d94b7a9589412bb321f375.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3369956.html",
-    "time": "2025-12-14T11:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
