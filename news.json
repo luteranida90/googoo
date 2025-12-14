@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Посол в РФ: Шри-Ланка просит у Москвы дополнительную помощь после циклона",
-    "description": "Россия ранее предоставила республике 35 тонн гуманитарной помощи",
-    "fullText": "Россия ранее предоставила республике 35 тонн гуманитарной помощи",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25909741",
-    "time": "2025-12-14T21:17:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
     "description": "Вызов для ценителей футбола.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Бавария», клубы Моуринью и гегемон из Гибралтара – кто еще не проигрывал в этом сезоне?",
-    "description": "Смотрим все европейские лиги.",
-    "fullText": "Смотрим все европейские лиги.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/84/1ffe86de24e7985b9d7a37245a138.jpeg",
+    "title": "Ваааау дня: посмотрите, как Царукян из «Пари НН» чеканит бильярдный шар",
+    "description": "В стиле Роналдиньо.",
+    "fullText": "В стиле Роналдиньо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/1d/22c7c10634460984d54a228ee98be.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3370178.html",
-    "time": "2025-12-14T16:06:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3370565.html",
+    "time": "2025-12-14T16:34:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529219-resident-evil-requiem-greis-i-leon?from=rss",
     "time": "2025-12-12T17:11:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
