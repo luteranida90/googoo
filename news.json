@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "AFP: Франция попросила ЕС отложить подписание торгового соглашения с \"Меркосур\"",
-    "description": "Во французском кабмине считают, что пока нет условий для голосования в Евросоюзе по вопросу подписания документа",
-    "fullText": "Во французском кабмине считают, что пока нет условий для голосования в Евросоюзе по вопросу подписания документа",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25909121",
-    "time": "2025-12-14T18:34:07.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Финал ЧМ по CS! Онлайн главного турнира",
     "description": "Главное.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Худшие защиты титула в топ-лигах Европы – на кого равняется «Ливерпуль»?",
-    "description": "Тут есть и «МЮ».",
-    "fullText": "Тут есть и «МЮ».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/87/ac6c69e0e404d9dbba81960080a4c.jpeg",
+    "title": "Турецкая лига – сборник диких историй. Сегодня смотрим суперматч оттуда",
+    "description": "«Фенер» – «Анадолу Эфес».",
+    "fullText": "«Фенер» – «Анадолу Эфес».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/19/072d1f4af43c1ba5fe004296e4ee4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3370264.html",
-    "time": "2025-12-14T14:20:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3370559.html",
+    "time": "2025-12-14T14:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529219-resident-evil-requiem-greis-i-leon?from=rss",
     "time": "2025-12-12T17:11:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
