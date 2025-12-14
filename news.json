@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: пропавших в Пермском крае туристов последний раз видели днем 13 декабря",
+    "description": "Они катались на снегоходах и в тот же день должны были вернуться на базу",
+    "fullText": "Они катались на снегоходах и в тот же день должны были вернуться на базу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25909277",
+    "time": "2025-12-14T19:28:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Финал ЧМ по CS! Онлайн главного турнира",
     "description": "Главное.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Турецкая лига – сборник диких историй. Сегодня смотрим суперматч оттуда",
-    "description": "«Фенер» – «Анадолу Эфес».",
-    "fullText": "«Фенер» – «Анадолу Эфес».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/19/072d1f4af43c1ba5fe004296e4ee4.jpeg",
+    "title": "5 причин, почему победа «Сан-Антонио» над «Оклахомой» в Кубке – начало новой классики НБА",
+    "description": "Готовы?",
+    "fullText": "Готовы?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/32/b1384e2364732be525962c1b6681f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3370559.html",
-    "time": "2025-12-14T14:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3370544.html",
+    "time": "2025-12-14T15:08:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529219-resident-evil-requiem-greis-i-leon?from=rss",
     "time": "2025-12-12T17:11:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
