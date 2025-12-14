@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Калмыкии восстановили энергоснабжение",
+    "description": "В ликвидации аварий задействовали 126 специалистов",
+    "fullText": "В ликвидации аварий задействовали 126 специалистов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25908917",
+    "time": "2025-12-14T17:32:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Финал ЧМ по CS! Онлайн главного турнира",
     "description": "Главное.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3365273.html",
     "time": "2025-12-14T17:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Чувашии при столкновении трех автомобилей пострадали шесть человек",
-    "description": "Данные о характере травм уточняются",
-    "fullText": "Данные о характере травм уточняются",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25908787",
-    "time": "2025-12-14T16:35:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,26 +33,15 @@
     "time": "2025-12-14T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Баны Соболева на Twitch vs его голы за «Зенит». Чего больше?",
-    "description": "Спорим, не угадаешь.",
-    "fullText": "Спорим, не угадаешь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/51/f1d7f027141cbb816f68a20fd5915.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/o9jukf",
-    "time": "2025-12-14T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Сафонова 3-й матч подряд – теперь при здоровом Шевалье. Пропустил два от последнего места",
-    "description": "Вопросы – к защите «ПСЖ».",
-    "fullText": "Вопросы – к защите «ПСЖ».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/55/94a97d2b944368671235fcfca62fa.jpeg",
+    "title": "Непряева – 20-я в «разделке» на 10 км, Коростелев – 25-й! Наши лыжники вернулись",
+    "description": "Достойный дебют в Давосе.",
+    "fullText": "Достойный дебют в Давосе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0c/0a4b1cfba47ebab4a3354ced1428e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370450.html",
-    "time": "2025-12-14T13:15:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3369898.html",
+    "time": "2025-12-14T13:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
