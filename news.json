@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Аль-Ихбария\": в Сирии проводят операцию против ИГ в окрестностях Пальмиры",
+    "description": "По информации телеканала Syria TV, возглавляемая США коалиция со своей стороны проводит кампанию арестов в Пальмире и ее окрестностях после инцидента со стрельбой",
+    "fullText": "По информации телеканала Syria TV, возглавляемая США коалиция со своей стороны проводит кампанию арестов в Пальмире и ее окрестностях после инцидента со стрельбой",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25908635",
+    "time": "2025-12-14T15:55:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Тест для тех, кто смотрел АПЛ еще до прихода Пепа",
     "description": "Справится не каждый.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Леннарт Карл – вундеркинд «Баварии», который обречен на сравнения с Месси",
-    "description": "И с Роббеном.",
-    "fullText": "И с Роббеном.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4b/445dd1ac04a4ba6cab368fb8d1494.jpeg",
+    "title": "Норрис – новый чемпион «Ф-1», но не лучший пилот. В чем его секрет?",
+    "description": "Действительно талант?",
+    "fullText": "Действительно талант?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/84/789e7e7a649989bef30679863337c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369472.html",
-    "time": "2025-12-14T12:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3366927.html",
+    "time": "2025-12-14T12:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529219-resident-evil-requiem-greis-i-leon?from=rss",
     "time": "2025-12-12T17:11:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
