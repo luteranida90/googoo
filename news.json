@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Тест для тех, кто смотрел АПЛ еще до прихода Пепа",
+    "description": "Справится не каждый.",
+    "fullText": "Справится не каждый.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/88/42cd23166402ca3a19c5ffe9676db.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/yopigl",
+    "time": "2025-12-14T15:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Баны Соболева на Twitch vs его голы за «Зенит». Чего больше?",
     "description": "Спорим, не угадаешь.",
@@ -12,25 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«За деньги для клуба уровня «Сочи» в РПЛ можно подписать всю Лигу ВТБ». Как работает маленький букмекер",
-    "description": "Инсайды экс-руководителя маркетинга «Балтбета».",
-    "fullText": "Инсайды экс-руководителя маркетинга «Балтбета».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f9/9f720d1b243ecab148aa93de2393a.png",
+    "title": "Леннарт Карл – вундеркинд «Баварии», который обречен на сравнения с Месси",
+    "description": "И с Роббеном.",
+    "fullText": "И с Роббеном.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4b/445dd1ac04a4ba6cab368fb8d1494.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/industry/blogs/3367945.html",
-    "time": "2025-12-14T11:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Что Криштиану Роналду найдет под елкой? А Леброн?",
-    "description": "Подарите легендам праздник.",
-    "fullText": "Подарите легендам праздник.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/d4/c71c47def4473ad4abfa6736e9493.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/znslnq",
-    "time": "2025-12-14T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3369472.html",
+    "time": "2025-12-14T12:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529219-resident-evil-requiem-greis-i-leon?from=rss",
     "time": "2025-12-12T17:11:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
