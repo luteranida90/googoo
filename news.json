@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Обретение суверенитета в палеогенетике повлияло на изучение древней ДНК",
-    "description": "В России можно проводить более широкие и интересные исследования",
-    "fullText": "В России можно проводить более широкие и интересные исследования",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251214/8674899.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/25906365",
-    "time": "2025-12-14T07:02:40.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вытащите 4 капибары из нашего автомата и выиграйте мини-холодильник с колой",
     "description": "Или адвент-календарь.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Показания Лапорты по делу Негрейры: узнали ли что-то о темных делах «Барсы»?",
-    "description": "Луис Энрике и Вальверде –тоже.",
-    "fullText": "Луис Энрике и Вальверде –тоже.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/2c/1cf7e904e4e93b6d166be3f86f273.jpeg",
+    "title": "Задушил бразильца-гиганта за раунд и ждет Нганну. Триумф главного ученика Федора во Франции",
+    "description": "Долгожданный титул Немкова.",
+    "fullText": "Долгожданный титул Немкова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/06/d3f727b6248bbb9e52df8504908ed.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370266.html",
-    "time": "2025-12-13T21:45:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3370461.html",
+    "time": "2025-12-13T22:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4529447-eidos-montreal-novaya-igra-po-chuzhomu?from=rss",
     "time": "2025-12-12T18:27:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
