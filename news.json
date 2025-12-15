@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Алина Загитова выступила на плавучей атомной ТЭС на Чукотке",
-    "description": "Кадры войдут в документальный фильм \"Сердце Севера\"",
-    "fullText": "Кадры войдут в документальный фильм \"Сердце Севера\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/25911999",
-    "time": "2025-12-15T07:08:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Французы – чемпионы мира по CS! Вот рецепт лучшей команды года",
     "description": "Vitality – победитель мейджора.",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кейси Хадсон о дате релиза Fate of the Old Republic: «Не переживайте, она выйдет до 2030 года»",
-    "description": "Студию разработчиков открыли в июле 2025-го.",
-    "fullText": "Студию разработчиков открыли в июле 2025-го.",
-    "image": "https://leonardo.osnova.io/747f0fad-d82d-59c0-aab9-22e481043674/",
+    "title": "Следующие три серии «Киберслава» выйдут на «Кинопоиске» 30 декабря",
+    "description": "Также показали ещё один тизер экшен-RPG по франшизе.",
+    "fullText": "Также показали ещё один тизер экшен-RPG по франшизе.",
+    "image": "https://leonardo.osnova.io/a0d3bb01-8ab5-589a-b1d9-e5e907e2d61d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4529995-keysihadson-podtverdil-datu-reliza-fate-of-the-old-republic?from=rss",
-    "time": "2025-12-13T05:16:49.000Z"
+    "url": "https://dtf.ru/cinema/4530361-kiberslav-novye-serii-na-kinopoiske-30-dekabrya?from=rss",
+    "time": "2025-12-13T10:00:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
