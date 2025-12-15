@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин поручил представить предложения по размещению центров обработки данных",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250114/8006845.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25918421",
+    "time": "2025-12-15T15:35:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Центр памяти Василия Уткина – большой мультимедийный проект Спортса’’",
     "description": "О творчестве и работе человека-эпохи.",
@@ -33,17 +44,6 @@
     "time": "2025-12-15T10:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Его посылают на ### – он заряжается. Как самый бесячий капитан CS стал лучшим в мире",
-    "description": "Apex учит не ныть.",
-    "fullText": "Apex учит не ныть.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/f9/800031cfb484cac97409055516f42.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3370619.html",
-    "time": "2025-12-15T10:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "На HBO Max закончился первый сезон «Оно: Добро пожаловать в Дерри» — всего Андрес Мускетти планирует три",
     "description": "При этом сюжет шоу будет идти назад во времени.",
@@ -53,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4533799-pervyy-sezon-ono-dobro-pozhalovat-v-derri?from=rss",
     "time": "2025-12-15T07:23:01.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
