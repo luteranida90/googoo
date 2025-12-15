@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РЖД приняли меры по минимизации ущерба от разлива мазута в Пензенской области",
-    "description": "",
-    "fullText": "",
+    "title": "В Орловской области отменили опасность атаки БПЛА",
+    "description": "Угроза перестала действовать на всей территории региона",
+    "fullText": "Угроза перестала действовать на всей территории региона",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25914967",
-    "time": "2025-12-15T10:39:57.000Z"
+    "url": "https://tass.ru/proisshestviya/25915283",
+    "time": "2025-12-15T11:04:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-12-15T10:10:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Астон Вилла» выносит всех. Побьется за титул?",
+    "description": "10 побед в 11 матчах.",
+    "fullText": "10 побед в 11 матчах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/39/dc471b8214724bcc70c01c2bded70.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3370602.html",
+    "time": "2025-12-15T06:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Что Криштиану Роналду найдет под елкой? А Леброн?",
     "description": "Подарите легендам праздник.",
@@ -33,25 +44,14 @@
     "time": "2025-12-15T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Красивая Соболенко пришла на ток-шоу – рисовала на лице ведущего, грозила Кириосу",
-    "description": "Межсезонье.",
-    "fullText": "Межсезонье.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/39/b96a6125a457080dba08010f8dd4e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3369697.html",
-    "time": "2025-12-15T04:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Появились детали и геймплейный ролик балетного арт-слэшера «Царевна» от российских разработчиков",
-    "description": "Релиз планируется в ноябре 2026 года.",
-    "fullText": "Релиз планируется в ноябре 2026 года.",
-    "image": "https://leonardo.osnova.io/7c035539-0deb-5d17-a573-17f9f2cfdb22/-/format/mp4/",
+    "title": "Визуальная новелла «Зайчик» получит сериальную аниме-адаптацию",
+    "description": "А выйдет она на платформе «Иви».",
+    "fullText": "А выйдет она на платформе «Иви».",
+    "image": "https://leonardo.osnova.io/47765aaa-d131-5cc8-966b-c0e24e689af8/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4530656-geympley-tsarevna-baletnyy-art-sleshcher?from=rss",
-    "time": "2025-12-13T13:30:19.000Z"
+    "url": "https://dtf.ru/anime/4530946-anime-adaptatsiya-vizualnoy-novelly-zaychik?from=rss",
+    "time": "2025-12-13T16:09:09.000Z"
   }
 ]
