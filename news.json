@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Росфинмониторинг получит доступ к данным НСПК",
-    "description": "Порядок, сроки, объем и состав предоставляемой информации будут определяться соглашением между ведомством и оператором, согласованным с ЦБ",
-    "fullText": "Порядок, сроки, объем и состав предоставляемой информации будут определяться соглашением между ведомством и оператором, согласованным с ЦБ",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25917713",
-    "time": "2025-12-15T14:41:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Центр памяти Василия Уткина – большой мультимедийный проект Спортса’’",
     "description": "О творчестве и работе человека-эпохи.",
@@ -33,6 +22,17 @@
     "time": "2025-12-15T11:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Я гарантирую: в России больше плюсов, чем в Америке». Познакомьтесь с парнем, который вернулся в наш хоккей",
+    "description": "Копачев и Самбур поговорили с Василием Пономаревым.",
+    "fullText": "Копачев и Самбур поговорили с Василием Пономаревым.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/28/4507c1f74434386bbc07f65aee4e0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3369596.html",
+    "time": "2025-12-15T10:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Его посылают на ### – он заряжается. Как самый бесячий капитан CS стал лучшим в мире",
     "description": "Apex учит не ныть.",
@@ -44,25 +44,25 @@
     "time": "2025-12-15T10:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Если не прибавит, потеряет игровое время». Дёмин ответил тренеру самой крупной победой в истории «Нетс»",
-    "description": "Агрессивно!",
-    "fullText": "Агрессивно!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/06/2268a79b44c6699a60d541d47dd9a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3370669.html",
-    "time": "2025-12-15T09:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Dispatch рассказали, что в игре есть одно «состояние» Роберта, которое ещё никто не получил",
-    "description": "Правда, они не исключают, что это баг статистики.",
-    "fullText": "Правда, они не исключают, что это баг статистики.",
-    "image": "https://leonardo.osnova.io/ab98d8da-4db8-55c0-9234-55a675ac7d9c/",
+    "title": "На HBO Max закончился первый сезон «Оно: Добро пожаловать в Дерри» — всего Андрес Мускетти планирует три",
+    "description": "При этом сюжет шоу будет идти назад во времени.",
+    "fullText": "При этом сюжет шоу будет идти назад во времени.",
+    "image": "https://leonardo.osnova.io/07ba5706-882b-5044-bb9e-7238591cf78a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4533700-redkoe-sostoyanie-roberta-v-igre-dispatch?from=rss",
-    "time": "2025-12-15T06:48:28.000Z"
+    "url": "https://dtf.ru/cinema/4533799-pervyy-sezon-ono-dobro-pozhalovat-v-derri?from=rss",
+    "time": "2025-12-15T07:23:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
