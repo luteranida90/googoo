@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Третьяковская галерея считает своей главной задачей популяризацию российского искусства",
-    "description": "В 2026 году будет также продолжено сотрудничество с международным конкурсом \"Картина мира\", отметил генеральный директор музея Елена Проничева",
-    "fullText": "В 2026 году будет также продолжено сотрудничество с международным конкурсом \"Картина мира\", отметил генеральный директор музея Елена Проничева",
+    "title": "В Херсонской области местный житель погиб при атаке ВСУ",
+    "description": "Ранения получила женщина, ее госпитализировали",
+    "fullText": "Ранения получила женщина, ее госпитализировали",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/25913565",
-    "time": "2025-12-15T09:26:31.000Z"
+    "url": "https://tass.ru/proisshestviya/25914493",
+    "time": "2025-12-15T10:07:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Красивая Соболенко пришла на ток-шоу – рисовала на лице ведущего, грозила Кириосу",
+    "description": "Межсезонье.",
+    "fullText": "Межсезонье.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/39/b96a6125a457080dba08010f8dd4e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3369697.html",
+    "time": "2025-12-15T04:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,25 +44,14 @@
     "time": "2025-12-14T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гончаренко принимает сборную: поведет Беларусь в отборе к Евро-2028",
-    "description": "У команды 10 матчей без побед.",
-    "fullText": "У команды 10 матчей без побед.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/4f/8688d30bf437d82f9f003caf805cb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370519.html",
-    "time": "2025-12-14T21:02:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Трейлер с датой релиза Phantom Blade Zero стал самым просматриваемым на YouTube c TGA 2025",
-    "description": "Леон старался как мог, но уступил.",
-    "fullText": "Леон старался как мог, но уступил.",
-    "image": "https://leonardo.osnova.io/d02af626-f17c-5098-a85a-0c5d25d955ba/-/format/mp4/",
+    "title": "Появились детали и геймплейный ролик балетного арт-слэшера «Царевна» от российских разработчиков",
+    "description": "Релиз планируется в ноябре 2026 года.",
+    "fullText": "Релиз планируется в ноябре 2026 года.",
+    "image": "https://leonardo.osnova.io/7c035539-0deb-5d17-a573-17f9f2cfdb22/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4530290-phantom-blade-zero-samym-prosmatrivayemym-treylerom-tga-2025?from=rss",
-    "time": "2025-12-13T11:41:30.000Z"
+    "url": "https://dtf.ru/games/4530656-geympley-tsarevna-baletnyy-art-sleshcher?from=rss",
+    "time": "2025-12-13T13:30:19.000Z"
   }
 ]
