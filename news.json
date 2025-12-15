@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Воробьев: около 90% котельных Подмосковья оборудовали датчиками контроля",
-    "description": "Губернатор добавил, что все данные с датчиков в котельных передается в цифровом режиме в региональный центр ЖКХ",
-    "fullText": "Губернатор добавил, что все данные с датчиков в котельных передается в цифровом режиме в региональный центр ЖКХ",
+    "title": "На Кузнецком Мосту открылась выставка дизайнерских елей",
+    "description": "Мероприятие проходит в рамках проекта \"Зима в Москве\"",
+    "fullText": "Мероприятие проходит в рамках проекта \"Зима в Москве\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25918711",
-    "time": "2025-12-15T16:42:54.000Z"
+    "url": "https://tass.ru/obschestvo/25919325",
+    "time": "2025-12-15T17:03:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Иллюзия обмана 3» стала третьим по сборам фильмом 2025 года в российском прокате",
+    "description": "Первое место удерживает картина «Волшебник Изумрудного города. Дорога из жёлтого кирпича».",
+    "fullText": "Первое место удерживает картина «Волшебник Изумрудного города. Дорога из жёлтого кирпича».",
+    "image": "https://leonardo.osnova.io/c34bd38e-dda0-54e8-8bf3-1d6c2f2ec181/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4534573-illyuziya-obmana-3-tretiy-po-sboram-film-v-rossii?from=rss",
+    "time": "2025-12-15T14:12:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ты как медуза растекаешься!» Вышел пилот сериала про команду Тутберидзе",
-    "description": "Травма Петросян, объятия с Трусовой.",
-    "fullText": "Травма Петросян, объятия с Трусовой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/04/bc5dca795442a9c472ad61b6b48ca.jpeg",
+    "title": "Лучший спортсмен России-2025. Большое голосование Спортса’‘",
+    "description": "Вы за кого?",
+    "fullText": "Вы за кого?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/58/74446b29142f68b2c2dfa6a490f20.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3370676.html",
-    "time": "2025-12-15T12:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Resident Evil Requiem стала самой освещаемой игрой с The Game Awards 2025 в прессе за первые сутки",
-    "description": "СМИ было явно не до Phantom Blade Zero.",
-    "fullText": "СМИ было явно не до Phantom Blade Zero.",
-    "image": "https://leonardo.osnova.io/3c511f61-e8e5-5101-aeb3-5799e9942ea4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4534215-resident-evil-requiem-samaya-obsuzhdaemaya-igra-tga-2025?from=rss",
-    "time": "2025-12-15T11:00:59.000Z"
+    "url": "https://www.sports.ru/others/blogs/3368218.html",
+    "time": "2025-12-15T13:00:00.000Z"
   }
 ]
