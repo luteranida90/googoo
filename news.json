@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин поручил представить предложения по размещению центров обработки данных",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250114/8006845.jpg",
+    "title": "Более 2 тыс. ледников будут ежегодно исчезать к середине столетия",
+    "description": "Также температура на планете вырастет на 1,5-4 градуса Цельсия к концу века",
+    "fullText": "Также температура на планете вырастет на 1,5-4 градуса Цельсия к концу века",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251215/8678959.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25918421",
-    "time": "2025-12-15T15:35:00.000Z"
+    "url": "https://tass.ru/nauka/25918797",
+    "time": "2025-12-15T16:03:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,25 @@
     "time": "2025-12-15T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Без мнений нефутбольных людей и случайных цитат – настройте «Мою Ленту»",
-    "description": "Оставьте только ваше.",
-    "fullText": "Оставьте только ваше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e3/7e633945447488e0a8f2954d54118.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/2qm4or",
-    "time": "2025-12-15T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я гарантирую: в России больше плюсов, чем в Америке». Познакомьтесь с парнем, который вернулся в наш хоккей",
-    "description": "Копачев и Самбур поговорили с Василием Пономаревым.",
-    "fullText": "Копачев и Самбур поговорили с Василием Пономаревым.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/28/4507c1f74434386bbc07f65aee4e0.jpeg",
+    "title": "Примирение года в MMA: Шлеменко и Тактаров конфликтовали из-за рекламы пива, а теперь – пожали руки",
+    "description": "Не обошлось без дичи.",
+    "fullText": "Не обошлось без дичи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/77/5894561b447a7912ab534e799af89.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3369596.html",
-    "time": "2025-12-15T10:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3370492.html",
+    "time": "2025-12-15T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На HBO Max закончился первый сезон «Оно: Добро пожаловать в Дерри» — всего Андрес Мускетти планирует три",
-    "description": "При этом сюжет шоу будет идти назад во времени.",
-    "fullText": "При этом сюжет шоу будет идти назад во времени.",
-    "image": "https://leonardo.osnova.io/07ba5706-882b-5044-bb9e-7238591cf78a/",
+    "title": "Демо Pragmata выпустили сначала на ПК прежде всего для проверки производительности — до консолей оно тоже доберётся",
+    "description": "Результаты оказались хорошими.",
+    "fullText": "Результаты оказались хорошими.",
+    "image": "https://leonardo.osnova.io/ad68475c-e5b4-5853-aa00-dbf1271df794/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4533799-pervyy-sezon-ono-dobro-pozhalovat-v-derri?from=rss",
-    "time": "2025-12-15T07:23:01.000Z"
+    "url": "https://dtf.ru/games/4533957-demo-pragmata-ot-capcom-proizvoditelnost-na-pk?from=rss",
+    "time": "2025-12-15T09:00:34.000Z"
   }
 ]
