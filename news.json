@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Уфе произошел пожар в многофункциональном пятиэтажном здании",
-    "description": "Людей эвакуируют, сообщили в региональном МЧС",
-    "fullText": "Людей эвакуируют, сообщили в региональном МЧС",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251215/8676279.jpg",
+    "title": "Посол в РФ: Шри-Ланка может наладить поставки одежды в Россию",
+    "description": "В республике также есть морепродукты, свежие фрукты и овощи, отметила посол Шри-Ланки в Москве Шобини Гунасекера",
+    "fullText": "В республике также есть морепродукты, свежие фрукты и овощи, отметила посол Шри-Ланки в Москве Шобини Гунасекера",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25910509",
-    "time": "2025-12-15T02:42:19.000Z"
+    "url": "https://tass.ru/ekonomika/25910897",
+    "time": "2025-12-15T04:04:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Французы – чемпионы мира по CS! Вот рецепт лучшей команды года",
+    "description": "Vitality – победитель мейджора.",
+    "fullText": "Vitality – победитель мейджора.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/16/3fbe6f0df4a58beddfbbc25890f52.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3370536.html",
+    "time": "2025-12-14T21:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -31,17 +42,6 @@
     "category": "all",
     "url": "https://sirena.world/xxwhr4",
     "time": "2025-12-14T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Финал ЧМ по CS! Онлайн главного турнира",
-    "description": "Главное.",
-    "fullText": "Главное.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/6b/80ab799aa4687b8c43e3eccd6435c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3365273.html",
-    "time": "2025-12-14T17:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
