@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Журналистам Baza продлили домашний арест",
-    "description": "Мера пресечения для главного редактора Telegram-канала Глеба Трифонова и его коллеги продюсера Татьяны Лукьяновой назначена до 23 января 2026 года",
-    "fullText": "Мера пресечения для главного редактора Telegram-канала Глеба Трифонова и его коллеги продюсера Татьяны Лукьяновой назначена до 23 января 2026 года",
+    "title": "Петр Орлов стал художественным руководителем Московского театра-студии имени Шиловского",
+    "description": "Он также продолжит работу в качестве художественного руководителя Смоленского камерного театра",
+    "fullText": "Он также продолжит работу в качестве художественного руководителя Смоленского камерного театра",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25917053",
-    "time": "2025-12-15T13:23:58.000Z"
+    "url": "https://tass.ru/obschestvo/25917371",
+    "time": "2025-12-15T14:05:07.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,6 +33,17 @@
     "time": "2025-12-15T10:10:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Если не прибавит, потеряет игровое время». Дёмин ответил тренеру самой крупной победой в истории «Нетс»",
+    "description": "Агрессивно!",
+    "fullText": "Агрессивно!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/06/2268a79b44c6699a60d541d47dd9a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3370669.html",
+    "time": "2025-12-15T09:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспомните россиян, которые играли в Бразилии?",
     "description": "Угадывайте игроков по двум условиям.",
@@ -44,25 +55,14 @@
     "time": "2025-12-15T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алонсо выжил! Первая победа из трех – нервная, с голами Мбаппе и Родриго",
-    "description": "Еще две проверки.",
-    "fullText": "Еще две проверки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/a2/b8daab3194a1fba80bf5b9c74f00c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370616.html",
-    "time": "2025-12-15T08:46:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сериал «Майор Гром: Игра против правил» выйдет в январе",
-    "description": "Серии будут выпускать ежедневно.",
-    "fullText": "Серии будут выпускать ежедневно.",
-    "image": "https://leonardo.osnova.io/b1917275-bc21-5065-bdfb-f24c799552bd/",
+    "title": "Продажи Witchfire в раннем доступе достигли 500 тысяч копий — для игры вышло обновление с оружием ближнего боя",
+    "description": "Это предпоследний апдейт перед полноценным релизом.",
+    "fullText": "Это предпоследний апдейт перед полноценным релизом.",
+    "image": "https://leonardo.osnova.io/6e4caeae-b4b1-5bc0-8fb4-441740219181/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4532408-serial-maior-grom-igra-protiv-pravil?from=rss",
-    "time": "2025-12-14T12:35:34.000Z"
+    "url": "https://dtf.ru/games/4533587-witchfire-prodazhi-500-tysyach-kopiy-obnovlenie-oruzhie?from=rss",
+    "time": "2025-12-15T05:38:45.000Z"
   }
 ]
