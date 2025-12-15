@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Петр Орлов стал художественным руководителем Московского театра-студии имени Шиловского",
-    "description": "Он также продолжит работу в качестве художественного руководителя Смоленского камерного театра",
-    "fullText": "Он также продолжит работу в качестве художественного руководителя Смоленского камерного театра",
+    "title": "Росфинмониторинг получит доступ к данным НСПК",
+    "description": "Порядок, сроки, объем и состав предоставляемой информации будут определяться соглашением между ведомством и оператором, согласованным с ЦБ",
+    "fullText": "Порядок, сроки, объем и состав предоставляемой информации будут определяться соглашением между ведомством и оператором, согласованным с ЦБ",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25917371",
-    "time": "2025-12-15T14:05:07.000Z"
+    "url": "https://tass.ru/ekonomika/25917713",
+    "time": "2025-12-15T14:41:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Центр памяти Василия Уткина – большой мультимедийный проект Спортса’’",
+    "description": "О творчестве и работе человека-эпохи.",
+    "fullText": "О творчестве и работе человека-эпохи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/a1/19d99eb4e44d583d3ac355cd87c0d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=news",
+    "time": "2025-12-15T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -44,25 +55,14 @@
     "time": "2025-12-15T09:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Вспомните россиян, которые играли в Бразилии?",
-    "description": "Угадывайте игроков по двум условиям.",
-    "fullText": "Угадывайте игроков по двум условиям.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e8/5a3dc09164acab323c3ff5ffb2a7a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-15T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Witchfire в раннем доступе достигли 500 тысяч копий — для игры вышло обновление с оружием ближнего боя",
-    "description": "Это предпоследний апдейт перед полноценным релизом.",
-    "fullText": "Это предпоследний апдейт перед полноценным релизом.",
-    "image": "https://leonardo.osnova.io/6e4caeae-b4b1-5bc0-8fb4-441740219181/",
+    "title": "Авторы Dispatch рассказали, что в игре есть одно «состояние» Роберта, которое ещё никто не получил",
+    "description": "Правда, они не исключают, что это баг статистики.",
+    "fullText": "Правда, они не исключают, что это баг статистики.",
+    "image": "https://leonardo.osnova.io/ab98d8da-4db8-55c0-9234-55a675ac7d9c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4533587-witchfire-prodazhi-500-tysyach-kopiy-obnovlenie-oruzhie?from=rss",
-    "time": "2025-12-15T05:38:45.000Z"
+    "url": "https://dtf.ru/games/4533700-redkoe-sostoyanie-roberta-v-igre-dispatch?from=rss",
+    "time": "2025-12-15T06:48:28.000Z"
   }
 ]
