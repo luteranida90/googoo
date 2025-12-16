@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Премьер Финляндии: у Европы нет плана Б на случай отказа от изъятия активов РФ",
+    "description": "Петтери Орпо ответил на вопрос о будущем Украины без передачи ей так называемого репарационного кредита",
+    "fullText": "Петтери Орпо ответил на вопрос о будущем Украины без передачи ей так называемого репарационного кредита",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25923507",
+    "time": "2025-12-16T06:42:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первая в истории капибаротерапия: ловите игрушку − и стресс уходит сам",
     "description": "Говорят, автомат работает лучше медитации.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самые зрелищные команды НБА: голодная, кисло-сладкая, историческая и не только",
-    "description": "Когда о вкусах спорят.",
-    "fullText": "Когда о вкусах спорят.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/14/16bed9f4d4cb4ba0362cd659cbc10.jpeg",
+    "title": "Что вы пропустили в 16-м туре АПЛ: Холанд без горячей воды, «МЮ» спас легендарный рекорд (почти 400 матчей)",
+    "description": "Гол за 29 секунд.",
+    "fullText": "Гол за 29 секунд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/75/7b1174fb2424889091eb88142708a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3370596.html",
-    "time": "2025-12-15T19:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3370692.html",
+    "time": "2025-12-15T19:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Камилла Ладдингтон попрощалась с ролью Лары Крофт: «Десятилетие приключений, которое я никогда не забуду»",
-    "description": "В новых играх героиню сыграет Аликс Вилтон Риган.",
-    "fullText": "В новых играх героиню сыграет Аликс Вилтон Риган.",
-    "image": "https://leonardo.osnova.io/29fb3dc5-b2b4-5a20-84ab-a9330a4d6220/",
+    "title": "Брюс Стрейли об уходе из Naughty Dog: «Мне нужны новые проблемы и творческие отдушины»",
+    "description": "Разработчику также надоело работать над чужими IP.",
+    "fullText": "Разработчику также надоело работать над чужими IP.",
+    "image": "https://leonardo.osnova.io/221bad01-8c78-5a6c-bdef-63a2558bd96b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4534521-khamilla-laddington-pokidaet-rol-lary-kroft?from=rss",
-    "time": "2025-12-15T13:41:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4534725-brus-strejli-pokinul-naughty-dog?from=rss",
+    "time": "2025-12-15T16:19:52.000Z"
   }
 ]
