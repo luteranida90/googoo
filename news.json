@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: уральских блогеров подозревают в работе на нежелательные в РФ организации",
-    "description": "Речь идет об Алексее Соколове, Ларисе Захаровой и Романе Качанове",
-    "fullText": "Речь идет об Алексее Соколове, Ларисе Захаровой и Романе Качанове",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251216/8679569.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первая в истории капибаротерапия: ловите игрушку − и стресс уходит сам",
+    "description": "Говорят, автомат работает лучше медитации.",
+    "fullText": "Говорят, автомат работает лучше медитации.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/03/5161f15c147be8f7f597185c4ed4b.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25923045",
-    "time": "2025-12-16T05:16:16.000Z"
+    "url": "https://sirena.world/57bpx7",
+    "time": "2025-12-15T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +22,25 @@
     "time": "2025-12-15T19:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Ван дер Сар и Адама Траоре – какой клуб их объединяет?",
-    "description": "Подсказка: не «Юнайтед».",
-    "fullText": "Подсказка: не «Юнайтед».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/8f/70c13bcd04fee881f4f6629e65e86.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/yopigl",
-    "time": "2025-12-15T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Дубае прошла самая большая игра в «Тетрис» — её провели с помощью 2800 дронов",
-    "description": "150-метровую Дубайскую рамку использовали как игровое поле.",
-    "fullText": "150-метровую Дубайскую рамку использовали как игровое поле.",
-    "image": "https://leonardo.osnova.io/18740693-b3b6-5deb-933a-e47d39e1d091/",
+    "title": "Камилла Ладдингтон попрощалась с ролью Лары Крофт: «Десятилетие приключений, которое я никогда не забуду»",
+    "description": "В новых играх героиню сыграет Аликс Вилтон Риган.",
+    "fullText": "В новых играх героиню сыграет Аликс Вилтон Риган.",
+    "image": "https://leonardo.osnova.io/29fb3dc5-b2b4-5a20-84ab-a9330a4d6220/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4534433-igra-v-tetris-s-2800-dronami-v-dubae?from=rss",
-    "time": "2025-12-15T13:09:47.000Z"
+    "url": "https://dtf.ru/games/4534521-khamilla-laddington-pokidaet-rol-lary-kroft?from=rss",
+    "time": "2025-12-15T13:41:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
