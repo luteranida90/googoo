@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Кубани усилят безопасность в школах после ЧП в Одинцовском городском округе",
-    "description": "Руководители муниципальных образований уже получили соответствующие письма министерства образования и науки региона",
-    "fullText": "Руководители муниципальных образований уже получили соответствующие письма министерства образования и науки региона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25930303",
-    "time": "2025-12-16T15:26:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто сделал Петра Яна?",
     "description": "Большой портрет.",
@@ -22,36 +11,36 @@
     "time": "2025-12-16T13:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "«Бернабеу» vs родной город Джуда – где больше народу?",
-    "description": "Ответ неочевиден.",
-    "fullText": "Ответ неочевиден.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/65/7941bef894f0690dc5b5c1e237664.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/xutpcn",
-    "time": "2025-12-16T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Оттепель для нашего спорта: возвращают флаг, допускают игровиков, МОК отменил бан юношей",
-    "description": "Дальше – больше.",
-    "fullText": "Дальше – больше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d5/e26c46b444dc4b3b70d449513624c.jpeg",
+    "title": "Как Football Manager изменил реальный футбол?",
+    "description": "Разбираемся на конкретных примерах.",
+    "fullText": "Разбираемся на конкретных примерах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9e/e953179d444eb86e4c8c04807f4fe.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3370652.html",
-    "time": "2025-12-16T10:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3366981.html",
+    "time": "2025-12-16T11:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Pragmata от Capcom добавили в список желаемого больше миллиона раз",
-    "description": "Интерес к игре явно есть.",
-    "fullText": "Интерес к игре явно есть.",
-    "image": "https://leonardo.osnova.io/3fc1eead-3cf7-5f1f-93c5-ece6417f5fa7/",
+    "title": "Для Hollow Knight: Silksong анонсировали дополнение Sea of Sorrow — игра разошлась тиражом в семь миллионов копий",
+    "description": "Ещё миллионы людей сыграли через Game Pass.",
+    "fullText": "Ещё миллионы людей сыграли через Game Pass.",
+    "image": "https://leonardo.osnova.io/e31aabff-4a0c-59ab-ba87-7c8cf078ef45/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4536134-pragmata-ot-capcom-bolee-milliona-dobavleniy?from=rss",
-    "time": "2025-12-16T07:23:17.000Z"
+    "url": "https://dtf.ru/games/4535929-hollow-knight-silksong-dlc-sea-of-sorrow?from=rss",
+    "time": "2025-12-16T05:07:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
