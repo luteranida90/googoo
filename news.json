@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Disciples: Domination выйдет 12 февраля 2026 года",
-    "description": "В честь анонса даты разработчики пошаговой RPG выпустили новый трейлер.",
-    "fullText": "В честь анонса даты разработчики пошаговой RPG выпустили новый трейлер.",
-    "image": "https://leonardo.osnova.io/fb541f6d-7f76-5d32-846c-92914c334497/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4536812-disciples-domination-vyidet-12-fevralya-2026-goda?from=rss",
-    "time": "2025-12-16T14:13:11.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ульяновской области опровергли информацию о нехватке средств на обеды в школах",
-    "description": "Организация горячего питания остается прежней и сохранится в полном объеме",
-    "fullText": "Организация горячего питания остается прежней и сохранится в полном объеме",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25929477",
-    "time": "2025-12-16T14:04:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "«Бернабеу» vs родной город Джуда – где больше народу?",
     "description": "Ответ неочевиден.",
@@ -31,6 +9,17 @@
     "category": "all",
     "url": "https://sprts.cc/xutpcn",
     "time": "2025-12-16T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Большое интервью президента РПЛ Алаева – обо всем: «Торпедо», Садыгов, лимит, пиво и офсайдные линии",
+    "description": "Откровенный разговор.",
+    "fullText": "Откровенный разговор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0c/6fab9102342258eefec0ceeeda404.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3370735.html",
+    "time": "2025-12-16T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -44,14 +33,25 @@
     "time": "2025-12-16T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Флэгг побил рекорд Леброна! Самый результативный 18-летний в истории НБА",
-    "description": "42 очка!",
-    "fullText": "42 очка!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a8/1a75be60b4cbd915ccc8e5be25d68.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Состоялся цифровой релиз боевика «Бегущий человек» по роману Стивена Кинга",
+    "description": "Фильм провалился в прокате и получил сдержанные отзывы от аудитории.",
+    "fullText": "Фильм провалился в прокате и получил сдержанные отзывы от аудитории.",
+    "image": "https://leonardo.osnova.io/69773904-da34-53c1-9823-a1d0c68e52aa/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4536078-tsifrovoy-reliz-begushchiy-chelovek?from=rss",
+    "time": "2025-12-16T07:08:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3370921.html",
-    "time": "2025-12-16T09:10:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
