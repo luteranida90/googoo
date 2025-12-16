@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лавров назвал регионы, которые активно создают условия для переезда иностранцев",
+    "description": "По словам главы МИД РФ, это Калининградская, Нижегородская, Омская и Псковская области",
+    "fullText": "По словам главы МИД РФ, это Калининградская, Нижегородская, Омская и Псковская области",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250311/8110409.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25925557",
+    "time": "2025-12-16T09:07:07.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Есть движ!» Наш биатлон научился жить в изоляции",
     "description": "Репортаж Владимира Иванова.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Большое интервью президента РПЛ Алаева – обо всем: «Торпедо», Садыгов, лимит, пиво и офсайдные линии",
-    "description": "Откровенный разговор.",
-    "fullText": "Откровенный разговор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0c/6fab9102342258eefec0ceeeda404.jpeg",
+    "title": "Самые полезные игроки НХЛ: от звезд до очень дешевых",
+    "description": "Усилят вашу команду.",
+    "fullText": "Усилят вашу команду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ae/9bb0542f84de0a81f9f0c9d8056a4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370735.html",
-    "time": "2025-12-15T21:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3370698.html",
+    "time": "2025-12-15T22:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4535169-amazon-prodala-ubisoft-moba-march-of-giants?from=rss",
     "time": "2025-12-15T18:36:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
