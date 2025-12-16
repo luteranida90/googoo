@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп выступит с обращением к согражданам 17 декабря",
-    "description": "Президент США не уточнил, на какую тему будет его выступление",
-    "fullText": "Президент США не уточнил, на какую тему будет его выступление",
+    "title": "В Москве прошел гала-концерт к 110-летию со дня рождения Георгия Свиридова",
+    "description": "Режиссером выступления стал заслуженный работник культуры России Илья Ильин",
+    "fullText": "Режиссером выступления стал заслуженный работник культуры России Илья Ильин",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25931439",
-    "time": "2025-12-16T18:54:40.000Z"
+    "url": "https://tass.ru/kultura/25931691",
+    "time": "2025-12-16T19:59:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-12-16T16:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Массовый отъезд теннисисток из России – о чем он говорит?",
-    "description": "Задаемся вопросами.",
-    "fullText": "Задаемся вопросами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/55/3877eb7ba412bbc9db2b394c69fb8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3370964.html",
-    "time": "2025-12-16T15:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Свен Винке забыл о дебютной роли Дженнифер Инглиш в Divinity: Original Sin 2 — она озвучила зачарованный сундук",
-    "description": "И ещё около 70 персонажей.",
-    "fullText": "И ещё около 70 персонажей.",
-    "image": "https://leonardo.osnova.io/ffbe028b-ab9c-5e06-a292-5328632a841c/",
+    "title": "«Люди жаждут правды»: дебютный тизер и постеры Disclosure Day — нового фильма Стивена Спилберга",
+    "description": "Главные роли в научно-фантастическом триллере о пришельцах исполнили Эмили Блант и Джош О’Коннор.",
+    "fullText": "Главные роли в научно-фантастическом триллере о пришельцах исполнили Эмили Блант и Джош О’Коннор.",
+    "image": "https://leonardo.osnova.io/bb88db3c-48af-523b-a6a9-64037de8ba4f/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4536638-debut-dzhenifer-inglish-v-divinity-original-sin-2?from=rss",
-    "time": "2025-12-16T12:55:01.000Z"
+    "url": "https://dtf.ru/cinema/4537145-disclosure-day-tizer-i-postery-novogo-filma-sivena-spilberga?from=rss",
+    "time": "2025-12-16T16:14:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Футбол, драки и культовые роли: удивительная карьера Винни Джонса",
+    "description": "Рассказывает ÖMANKÖ.",
+    "fullText": "Рассказывает ÖMANKÖ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/0b/dec1eb72746b088005d7f14e1b713.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3370671.html",
+    "time": "2025-12-16T15:50:00.000Z"
   }
 ]
