@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Саратовской области после смерти ребенка в больнице начали проверку",
+    "description": "На теле девочки при внешнем осмотре повреждений не обнаружено",
+    "fullText": "На теле девочки при внешнем осмотре повреждений не обнаружено",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25930651",
+    "time": "2025-12-16T16:20:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Disciples: Domination выйдет 12 февраля 2026 года",
+    "description": "В честь анонса даты разработчики пошаговой RPG выпустили новый трейлер.",
+    "fullText": "В честь анонса даты разработчики пошаговой RPG выпустили новый трейлер.",
+    "image": "https://leonardo.osnova.io/fb541f6d-7f76-5d32-846c-92914c334497/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4536812-disciples-domination-vyidet-12-fevralya-2026-goda?from=rss",
+    "time": "2025-12-16T14:13:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто сделал Петра Яна?",
     "description": "Большой портрет.",
@@ -12,35 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Football Manager изменил реальный футбол?",
-    "description": "Разбираемся на конкретных примерах.",
-    "fullText": "Разбираемся на конкретных примерах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9e/e953179d444eb86e4c8c04807f4fe.jpeg",
+    "title": "Тотальный рейтинг большинства в НХЛ. Восточная конференция",
+    "description": "От Овечкина до Демидова.",
+    "fullText": "От Овечкина до Демидова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/58/27fb0d9da4ed39803406b4cf1bc48.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366981.html",
-    "time": "2025-12-16T11:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Hollow Knight: Silksong анонсировали дополнение Sea of Sorrow — игра разошлась тиражом в семь миллионов копий",
-    "description": "Ещё миллионы людей сыграли через Game Pass.",
-    "fullText": "Ещё миллионы людей сыграли через Game Pass.",
-    "image": "https://leonardo.osnova.io/e31aabff-4a0c-59ab-ba87-7c8cf078ef45/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4535929-hollow-knight-silksong-dlc-sea-of-sorrow?from=rss",
-    "time": "2025-12-16T05:07:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3369517.html",
+    "time": "2025-12-16T12:20:00.000Z"
   }
 ]
