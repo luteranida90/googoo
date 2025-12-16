@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Госдума приняла законопроект о домовых чатах в Max",
-    "description": "Изменения призваны повысить уровень коммуникации между жильцами и управляющими организациями",
-    "fullText": "Изменения призваны повысить уровень коммуникации между жильцами и управляющими организациями",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251216/8681911.jpg",
+    "title": "В Ярославской области оформление льготных разрешений на парковку начнется 17 декабря",
+    "description": "Подать заявку на разрешение можно будет через многофункциональные центры",
+    "fullText": "Подать заявку на разрешение можно будет через многофункциональные центры",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25931177",
-    "time": "2025-12-16T17:47:28.000Z"
+    "url": "https://tass.ru/obschestvo/25931293",
+    "time": "2025-12-16T18:26:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Что отвлечет Ямаля от тиктока? Выберите ему подарок на Новый год",
+    "description": "В нашем тесте.",
+    "fullText": "В нашем тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/5c/306bbe2ea471d8d74552e58724578.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/znslnq",
+    "time": "2025-12-16T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3370979.html",
     "time": "2025-12-16T14:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Вспомните россиян, которые играли в Бразилии?",
-    "description": "Угадывайте игроков по двум условиям.",
-    "fullText": "Угадывайте игроков по двум условиям.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e8/5a3dc09164acab323c3ff5ffb2a7a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-16T14:00:00.000Z"
   }
 ]
