@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Забайкалье восемь муниципалитетов введут туристический налог с 2026 года",
-    "description": "В 2025 году туристический налог взимался на территории 12 муниципалитетов",
-    "fullText": "В 2025 году туристический налог взимался на территории 12 муниципалитетов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25924777",
-    "time": "2025-12-16T08:18:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Есть движ!» Наш биатлон научился жить в изоляции",
     "description": "Репортаж Владимира Иванова.",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игровые студии опубликовали десятки открыток к новогодним праздникам",
-    "description": "Инициативу организовали в PlayStation, но присоединились и команды Microsoft.",
-    "fullText": "Инициативу организовали в PlayStation, но присоединились и команды Microsoft.",
-    "image": "https://leonardo.osnova.io/6adaaf63-7408-57f1-b8c8-c1c4bd5fa409/",
+    "title": "Amazon продала Ubisoft грядущую MOBA March of Giants",
+    "description": "Вместе с полной командой разработчиков из Amazon Games Montreal.",
+    "fullText": "Вместе с полной командой разработчиков из Amazon Games Montreal.",
+    "image": "https://leonardo.osnova.io/615ff905-0b54-5d38-b419-a10c2abdbd96/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4534953-novogodnie-otkrytki-ot-igrovyh-studij-playstation-i-microsoft?from=rss",
-    "time": "2025-12-15T17:08:32.000Z"
+    "url": "https://dtf.ru/gameindustry/4535169-amazon-prodala-ubisoft-moba-march-of-giants?from=rss",
+    "time": "2025-12-15T18:36:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
