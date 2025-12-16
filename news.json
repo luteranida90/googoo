@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На Сахалине из-за метели закрыли участок федеральной трассы",
+    "description": "Приостановлено движение автобусов по маршрутам Оха - Ноглики, Ноглики - Поронайск",
+    "fullText": "Приостановлено движение автобусов по маршрутам Оха - Ноглики, Ноглики - Поронайск",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25924077",
+    "time": "2025-12-16T07:28:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первая в истории капибаротерапия: ловите игрушку − и стресс уходит сам",
     "description": "Говорят, автомат работает лучше медитации.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А куда идти Салаху? В Саудовской Аравии-то никому и не нужен",
-    "description": "И в МЛС уйти сложно.",
-    "fullText": "И в МЛС уйти сложно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/4f/610383829459eb9f05426d90bf740.jpeg",
+    "title": "У нового чемпиона «Ф-1» Норриса необычное имя – Ландо. Неужели из «Звездных войн»?",
+    "description": "Выдумка Джорджа Лукаса?",
+    "fullText": "Выдумка Джорджа Лукаса?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/44/0813e84a8438789e48af74d484c80.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369973.html",
-    "time": "2025-12-15T19:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3366939.html",
+    "time": "2025-12-15T20:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4534753-divinity-original-sin-2-vyshla-na-ps5-xbox-series-x-i-nintendo-switch?from=rss",
     "time": "2025-12-15T15:48:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
