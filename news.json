@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Вучич ожидает решения о будущем \"Нефтяной индустрии Сербии\" в ближайшие дни",
-    "description": "В январе 2025 года Минфин США включил в санкционный список \"Газпром нефть\", главу компании Александра Дюкова и сербскую NIS",
-    "fullText": "В январе 2025 года Минфин США включил в санкционный список \"Газпром нефть\", главу компании Александра Дюкова и сербскую NIS",
+    "title": "Адвокат Долиной подтвердила, что певица готова вернуть деньги покупательнице ее квартиры",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25928479",
-    "time": "2025-12-16T12:22:44.000Z"
+    "url": "https://tass.ru/obschestvo/25929155",
+    "time": "2025-12-16T13:25:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kaXNrLnlh",
+    "title": "Кто сделал Петра Яна таким?",
+    "description": "",
+    "fullText": "",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/9d/73773f9624543a51d91aa80d22126.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://disk.yandex.ru/i/6BB9w7MnOhaaYw",
+    "time": "2025-12-16T13:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,6 +44,17 @@
     "time": "2025-12-16T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Самые зрелищные команды НБА: голодная, кисло-сладкая, историческая и не только",
+    "description": "Когда о вкусах спорят.",
+    "fullText": "Когда о вкусах спорят.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/14/16bed9f4d4cb4ba0362cd659cbc10.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3370596.html",
+    "time": "2025-12-16T08:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Есть движ!» Наш биатлон научился жить в изоляции",
     "description": "Репортаж Владимира Иванова.",
@@ -44,25 +66,14 @@
     "time": "2025-12-16T07:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я гарантирую: в России больше плюсов, чем в Америке». Познакомьтесь с парнем, который вернулся в наш хоккей",
-    "description": "Копачев и Самбур поговорили с Василием Пономаревым.",
-    "fullText": "Копачев и Самбур поговорили с Василием Пономаревым.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/28/4507c1f74434386bbc07f65aee4e0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3369596.html",
-    "time": "2025-12-16T07:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "148 критиков выбрали лучший фильм 2025 года для IndieWire — победа досталась «Битве за битвой»",
-    "description": "Вслед за ней в топ-4 вошли «Простая случайность», «Грешники» и «Сентиментальная ценность».",
-    "fullText": "Вслед за ней в топ-4 вошли «Простая случайность», «Грешники» и «Сентиментальная ценность».",
-    "image": "https://leonardo.osnova.io/c5434fd2-4657-5f71-bd66-bb0a9e0a53a6/",
+    "title": "Escape from Tarkov преодолела отметку в миллион проданных копий после выхода версии 1.0",
+    "description": "А игроки провели в шутере более 135 миллионов часов за это время.",
+    "fullText": "А игроки провели в шутере более 135 миллионов часов за это время.",
+    "image": "https://leonardo.osnova.io/58f2f41f-c0cc-5a46-9253-5cfc248c6d8e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4534980-luchshiy-film-2025-goda-indiewire-bitva-za-bitvoy?from=rss",
-    "time": "2025-12-15T17:55:53.000Z"
+    "url": "https://dtf.ru/games/4535349-escape-from-tarkov-million-prodazh?from=rss",
+    "time": "2025-12-15T19:49:23.000Z"
   }
 ]
