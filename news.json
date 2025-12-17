@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "СК завел дело из-за смерти ребенка после домашних родов в Москве",
-    "description": "В правоохранительных органах уточнили, что задержанной фигуранткой является блогер Аиша Чигга",
-    "fullText": "В правоохранительных органах уточнили, что задержанной фигуранткой является блогер Аиша Чигга",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Сотрудница МВД по ДНР погибла из-за подрыва на взрывоопасном предмете",
+    "description": "Еще трое человек получили ранения",
+    "fullText": "Еще трое человек получили ранения",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251217/8685499.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25943029",
-    "time": "2025-12-17T17:52:05.000Z"
+    "url": "https://tass.ru/proisshestviya/25943115",
+    "time": "2025-12-17T18:24:03.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-12-17T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "КПРФ – зачем партии футзальная команда?",
-    "description": "Авдохин изучил.",
-    "fullText": "Авдохин изучил.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/62/c966ba4ec4821bab839a0842dcb2a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/futsal/blogs/3369995.html",
-    "time": "2025-12-17T14:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Лучшие сериалы 2025 года по версии пользователей DTF — первый этап",
-    "description": "Пора начинать подводить итоги.",
-    "fullText": "Пора начинать подводить итоги.",
-    "image": "https://leonardo.osnova.io/ec462a59-6cd4-536f-8eb5-ff2f60949511/",
+    "title": "Разработчик Stardew Valley пообещал добавить новую ферму и социальные функции в следующем патче",
+    "description": "Однако его релиз состоится ещё нескоро.",
+    "fullText": "Однако его релиз состоится ещё нескоро.",
+    "image": "https://leonardo.osnova.io/f3f0111b-1c79-5a16-88c5-21df44bb135c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4538852-luchshie-serialy-2025-goda-po-versii-polzovateley-dtf?from=rss",
-    "time": "2025-12-17T10:16:07.000Z"
+    "url": "https://dtf.ru/games/4539487-obnovlenie-stardew-valley-novaya-ferma-i-sotsialnye-funktsii?from=rss",
+    "time": "2025-12-17T14:52:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Гид по Кубку Африки. Когда турнир, что необычного, кто покажет",
+    "description": "Старт совсем скоро.",
+    "fullText": "Старт совсем скоро.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/84/38b48aec247e085cb44ebdc9b49db.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3369841.html",
+    "time": "2025-12-17T14:40:00.000Z"
   }
 ]
