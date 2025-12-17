@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Николаеве произошел взрыв",
+    "description": "Воздушную тревогу в Николаевской области не объявляли",
+    "fullText": "Воздушную тревогу в Николаевской области не объявляли",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/25942747",
+    "time": "2025-12-17T16:46:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспомните россиян, которые играли в Бразилии, быстрее соперника?",
     "description": "Вы точно их знаете.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-17T16:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Berliner Zeitung: экономист Сакс призвал Мерца выучить историю",
-    "description": "Ни Советский Союз, ни Российская Федерация не нарушали суверенитет нейтральных государств в послевоенном порядке, заявил Джеффри Сакс",
-    "fullText": "Ни Советский Союз, ни Российская Федерация не нарушали суверенитет нейтральных государств в послевоенном порядке, заявил Джеффри Сакс",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25942697",
-    "time": "2025-12-17T16:25:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -45,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» промахивается с бразильцами: от Андерсона и Фреда до Антони",
-    "description": "Как будет с Куньей?",
-    "fullText": "Как будет с Куньей?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/46/dd0d514e640cc9afd21381696895b.png",
+    "title": "Кузнецов слабо выглядит в «Металлурге». Что идет не так?",
+    "description": "Есть объективные причины.",
+    "fullText": "Есть объективные причины.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/27/59a635f8b4819b6022a1481c9a536.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370612.html",
-    "time": "2025-12-17T12:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3371136.html",
+    "time": "2025-12-17T13:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
