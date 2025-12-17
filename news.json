@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В РСТ рассказали, где в России в 2025 году отдых стоил дороже всего",
+    "description": "Самые высокие цены на размещение в отеле были в Республике Алтай и Ленинградской области",
+    "fullText": "Самые высокие цены на размещение в отеле были в Республике Алтай и Ленинградской области",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251217/8685149.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25941625",
+    "time": "2025-12-17T14:31:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Без мнений нефутбольных людей и случайных цитат – настройте «Мою Ленту»",
     "description": "Оставьте только ваше.",
@@ -11,17 +22,6 @@
     "time": "2025-12-17T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Социальный маркетплейс Москвы представил новогоднюю коллекцию подарков",
-    "description": "Все вырученные средства идут на оплату труда мастеров и развитие благотворительных инициатив",
-    "fullText": "Все вырученные средства идут на оплату труда мастеров и развитие благотворительных инициатив",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25941553",
-    "time": "2025-12-17T13:56:53.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В австралийском eShop появилась страница Dispatch с датой релиза на Nintendo Switch — 29 января 2026-го",
     "description": "Предзаказы уже открыты.",
@@ -29,7 +29,7 @@
     "image": "https://leonardo.osnova.io/30d9d6b3-28ed-5abd-9d58-ab0406b53ecc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4539377-v-avstraliiskom-eshop-poyavilas-stranica-dispatch-s-datoi-reliza-na-nintendo-switch-29-yanvarya-2026-go?from=rss",
+    "url": "https://dtf.ru/games/4539377-stranitsa-dispatch-na-nintendo-switch?from=rss",
     "time": "2025-12-17T13:49:13.000Z"
   },
   {
@@ -45,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Обамеянг вернулся из Саудовской Аравии, чтобы править. И это в 36 лет!",
-    "description": "Забивает и отдает даже в ЛЧ.",
-    "fullText": "Забивает и отдает даже в ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/43/9a919e33e43b8805d6e6b2db9fbf1.jpeg",
+    "title": "Тотальный рейтинг большинства в НХЛ. Восточная конференция",
+    "description": "От Овечкина до Демидова.",
+    "fullText": "От Овечкина до Демидова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/58/27fb0d9da4ed39803406b4cf1bc48.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370987.html",
-    "time": "2025-12-17T10:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3369517.html",
+    "time": "2025-12-17T11:00:00.000Z"
   }
 ]
