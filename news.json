@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Николаеве произошел взрыв",
-    "description": "Воздушную тревогу в Николаевской области не объявляли",
-    "fullText": "Воздушную тревогу в Николаевской области не объявляли",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25942747",
-    "time": "2025-12-17T16:46:19.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспомните россиян, которые играли в Бразилии, быстрее соперника?",
     "description": "Вы точно их знаете.",
@@ -45,24 +34,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кузнецов слабо выглядит в «Металлурге». Что идет не так?",
-    "description": "Есть объективные причины.",
-    "fullText": "Есть объективные причины.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/27/59a635f8b4819b6022a1481c9a536.jpeg",
+    "title": "Нежданчик – Алькарас расстался с тренером, который сделал его великим и был как отец",
+    "description": "Внезапно.",
+    "fullText": "Внезапно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/57/6830293e549199d40184129c3135e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3371136.html",
-    "time": "2025-12-17T13:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3371186.html",
+    "time": "2025-12-17T13:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Анора» стала самым популярным фильмом 2025 года в онлайн-кинотеатре «Кинопоиска»",
-    "description": "А из сериалов лидерство досталось «Фишеру».",
-    "fullText": "А из сериалов лидерство досталось «Фишеру».",
-    "image": "https://leonardo.osnova.io/3632fb30-fbbc-5de1-9d27-dd4b1461a8dd/",
+    "title": "Тодд Говард отказался от «множества» вариантов камео в сериале «Фоллаут»",
+    "description": "Геймдиректор не хочет привлекать к себе внимания.",
+    "fullText": "Геймдиректор не хочет привлекать к себе внимания.",
+    "image": "https://leonardo.osnova.io/038afad0-d596-5295-b309-514976736799/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4538883-film-anora-populyarnyy-na-kinopoiske?from=rss",
-    "time": "2025-12-17T10:37:21.000Z"
+    "url": "https://dtf.ru/cinema/4538980-todd-govard-otkazalsya-ot-kameo-v-seriale-follaut?from=rss",
+    "time": "2025-12-17T11:33:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
