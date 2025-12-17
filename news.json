@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "МИД: на Западе просыпается понимание необходимости возобновления диалога с РФ",
+    "description": "Другого пути восстановления стабильности на континенте не существует, указал замминистра иностранных дел России",
+    "fullText": "Другого пути восстановления стабильности на континенте не существует, указал замминистра иностранных дел России",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/25944129",
+    "time": "2025-12-17T22:10:26.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sprts.cc/r57nzh",
     "time": "2025-12-17T20:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "20 звезд, которые сыграют на Кубке Африки",
+    "description": "От Балеба до Салаха.",
+    "fullText": "От Балеба до Салаха.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/11/4fe96e8874b3c96666e24bd7b9917.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3370080.html",
+    "time": "2025-12-17T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +44,6 @@
     "time": "2025-12-17T18:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Соболев проваливается в «Зените». Разбор Романа Шаронова",
-    "description": "Комплекс личных и командных проблем.",
-    "fullText": "Комплекс личных и командных проблем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/34/8e9b837e349678fd629e83ec8fbf7.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370528.html",
-    "time": "2025-12-17T18:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "РКН: «Администрация Roblox заявила о готовности работать для удаления опасной информации с платформы»",
     "description": "Ведомство тоже рассматривает возможность сотрудничества.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4539121-rkn-i-roblox-sotrudnichestvo-dlya-udaleniya-opasnoy-informatsii?from=rss",
     "time": "2025-12-17T11:47:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
