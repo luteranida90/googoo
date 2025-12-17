@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Болгарии статьи бюджета на 2026 год будут такими же, как и годом ранее",
-    "description": "В начале декабря из-за масштабных акций протестов с участием десятков тысяч человек в разных городах Болгарии правительство сначала отозвало из парламента законопроект о государственном бюджете в евро на 2026 года, а в дальнейшем подало в отставку",
-    "fullText": "В начале декабря из-за масштабных акций протестов с участием десятков тысяч человек в разных городах Болгарии правительство сначала отозвало из парламента законопроект о государственном бюджете в евро на 2026 года, а в дальнейшем подало в отставку",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Канделаки назвала образ Путина в мультфильме \"Простоквашино\" огромным событием",
+    "description": "Это подтвердило статус мультфильма как самого семейного и безопасного, отметила директор телеканала ТНТ",
+    "fullText": "Это подтвердило статус мультфильма как самого семейного и безопасного, отметила директор телеканала ТНТ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251217/8685549.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25943191",
-    "time": "2025-12-17T18:46:27.000Z"
+    "url": "https://tass.ru/kultura/25943393",
+    "time": "2025-12-17T19:52:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2025-12-17T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нежданчик: Алькарас расстался с тренером, который сделал его великим и был как отец",
-    "description": "Внезапно.",
-    "fullText": "Внезапно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/57/6830293e549199d40184129c3135e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3371186.html",
-    "time": "2025-12-17T15:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Датамайнер показал анимацию, которая будет воспроизводиться при запуске Steam Machine",
-    "description": "Минималистично.",
-    "fullText": "Минималистично.",
-    "image": "https://leonardo.osnova.io/40db98df-e267-55a2-a17e-96c3c8d01c17/-/format/mp4/",
+    "title": "Dying Light: The Beast получила крупное обновление с хардкорным режимом",
+    "description": "А также с ещё одним типов врагов и прочим контентом.",
+    "fullText": "А также с ещё одним типов врагов и прочим контентом.",
+    "image": "https://leonardo.osnova.io/574647ea-96c0-526e-8b46-9c12d07282a8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4539289-animatsiya-dlya-zapuska-steam-machine-ot-valve?from=rss",
-    "time": "2025-12-17T13:11:27.000Z"
+    "url": "https://dtf.ru/games/4539626-dying-light-the-beast-obnovlenie-1-5?from=rss",
+    "time": "2025-12-17T15:54:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Топурия в пропасти: развод, обвинения в домашнем насилии, риск потерять пояс UFC",
+    "description": "Готовится к суду.",
+    "fullText": "Готовится к суду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c0/e8fdd93b349b18b72c7e2544b7390.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3370943.html",
+    "time": "2025-12-17T15:50:00.000Z"
   }
 ]
