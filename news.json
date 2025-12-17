@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В ЦАР заявили о готовности принять на выборах международных наблюдателей",
+    "description": "Первый вице-спикер Национальной ассамблеи Эварист Нгамана отметил, что чаще всего наблюдатели приезжают из стран Африки",
+    "fullText": "Первый вице-спикер Национальной ассамблеи Эварист Нгамана отметил, что чаще всего наблюдатели приезжают из стран Африки",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25933849",
+    "time": "2025-12-17T05:08:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "1-й европеец с «Харт Трофи» – россиянин. Помните, кто это?",
     "description": "Играл за «Детройт».",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4537145-disclosure-day-tizer-i-postery-novogo-filma-sivena-spilberga?from=rss",
     "time": "2025-12-16T16:14:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
