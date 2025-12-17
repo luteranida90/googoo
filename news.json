@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лукашенко уверен, что Белоруссии и США удастся договориться на прагматичной основе",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250124/8026781.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25943815",
+    "time": "2025-12-17T21:13:21.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "25 эпохальных картинок со звуком. Только наш спорт",
-    "description": "За четверть века.",
-    "fullText": "За четверть века.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/64/0cb6a027640a898eb13025b7f0c9a.jpeg",
+    "title": "Мбаппе выиграл суд у «ПСЖ» за 60 млн евро. Пора платить",
+    "description": "Хотя клуб не исключает апелляции.",
+    "fullText": "Хотя клуб не исключает апелляции.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/4b/d73f0c93049628c902830ce392298.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370701.html",
-    "time": "2025-12-17T17:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371173.html",
+    "time": "2025-12-17T17:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4539121-rkn-i-roblox-sotrudnichestvo-dlya-udaleniya-opasnoy-informatsii?from=rss",
     "time": "2025-12-17T11:47:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
