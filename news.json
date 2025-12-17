@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Парламентские слушания на тему легкой промышленности пройдут 29 января",
-    "description": "Для подготовки слушаний в Госдуме создана рабочая группа",
-    "fullText": "Для подготовки слушаний в Госдуме создана рабочая группа",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251217/8685253.jpg",
+    "title": "Депутат Рады Мазурашу: вывод ВСУ из Донбасса будет позитивным итогом переговоров",
+    "description": "Политик подчеркнул, что Украине нужно ориентироваться на реалии, которые сложились на фронте",
+    "fullText": "Политик подчеркнул, что Украине нужно ориентироваться на реалии, которые сложились на фронте",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25942013",
-    "time": "2025-12-17T15:02:07.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25942249",
+    "time": "2025-12-17T15:23:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,6 +33,17 @@
     "time": "2025-12-17T13:49:13.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что делать, если чувствуешь, что заболеваешь? И чего точно не стоит",
+    "description": "В сезон простуд.",
+    "fullText": "В сезон простуд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/92/fe41d44f44c9c97a64982a6f3c88a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/health/blogs/3370205.html",
+    "time": "2025-12-17T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто соберет всех спортивных капибар первым? Запускаем гонку за милейшим трофеем",
     "description": "Четыре зверя, четыре вида.",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/57bpx7",
     "time": "2025-12-17T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Виза в США – проблема. Почему на ЧМ-2026 так сложно попасть?",
-    "description": "Виновата политика.",
-    "fullText": "Виновата политика.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/42/1af1844d54abb8deb21a3b051ebde.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368563.html",
-    "time": "2025-12-17T11:00:00.000Z"
   }
 ]
