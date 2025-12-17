@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "За помощь в раскрытии убийства девушки под Костромой обещают 1 млн рублей",
-    "description": "Убийство несовершеннолетней было совершено в 2009 году",
-    "fullText": "Убийство несовершеннолетней было совершено в 2009 году",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25944003",
-    "time": "2025-12-17T21:45:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4539121-rkn-i-roblox-sotrudnichestvo-dlya-udaleniya-opasnoy-informatsii?from=rss",
     "time": "2025-12-17T11:47:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
