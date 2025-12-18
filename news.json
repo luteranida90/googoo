@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: отношения РФ и США на самом деле \"находятся в руинах\"",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251009/8512885.jpg",
+    "title": "В Кремле рассказали о всплеске интереса молодежи к прямой линии",
+    "description": "Этого не было еще в 2024 году, подчеркнул пресс-секретарь президента РФ Дмитрий Песков",
+    "fullText": "Этого не было еще в 2024 году, подчеркнул пресс-секретарь президента РФ Дмитрий Песков",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25954017",
-    "time": "2025-12-18T15:08:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Rue Valley получила крупный апдейт — с новыми снами и дополнительной концовкой",
-    "description": "А персонаж теперь передвигается намного быстрее.",
-    "fullText": "А персонаж теперь передвигается намного быстрее.",
-    "image": "https://leonardo.osnova.io/44874128-9e40-56fa-b7bf-5e6810a9d81e/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4541606-rue-valley-obnovlenie-novye-sny-i-kontseptsyi-dlya-yudzhina-harrow?from=rss",
-    "time": "2025-12-18T13:57:42.000Z"
+    "url": "https://tass.ru/obschestvo/25954429",
+    "time": "2025-12-18T15:32:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,14 +22,25 @@
     "time": "2025-12-18T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Apple разрешила в Японии сторонние магазины iOS-приложений и альтернативные способы оплаты",
+    "description": "Компания внесла изменения в соответствии с местным законодательством.",
+    "fullText": "Компания внесла изменения в соответствии с местным законодательством.",
+    "image": "https://leonardo.osnova.io/c372da8b-9ef9-5781-b16b-60ef473e53aa/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/mobile/4541486-apple-razreshila-storonnye-magaziny-prilozheniy-v-yaponii?from=rss",
+    "time": "2025-12-18T12:25:08.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Геройство Сафонова – в топ-3 величайших примеров. После Дукадама и Игиты из 1980-х",
-    "description": "В турнирах ФИФА такого еще не было.",
-    "fullText": "В турнирах ФИФА такого еще не было.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/18/4929bbcd14e3c95e070d4d67ff53d.jpeg",
+    "title": "Я скучаю по чемпионату России, который что-то значил",
+    "description": "Ностальгия Ивана Кузнецова.",
+    "fullText": "Ностальгия Ивана Кузнецова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/7c/94478d06343ed89c4eb910a749b45.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371427.html",
-    "time": "2025-12-18T10:05:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3371062.html",
+    "time": "2025-12-18T10:20:00.000Z"
   }
 ]
