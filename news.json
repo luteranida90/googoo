@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путешествие в детство: как Новый год помогает нам встретиться со своим внутренним ребенком",
-    "description": "Ксения Куколева — о том, за что многие взрослые любят Новый год не меньше детей и почему полезно ненадолго мысленно вернуться в детство",
-    "fullText": "Ксения Куколева — о том, за что многие взрослые любят Новый год не меньше детей и почему полезно ненадолго мысленно вернуться в детство",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251218/8686177.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/opinions/16503707",
-    "time": "2025-12-18T07:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший спортсмен России-2025. Большое голосование Спортса’‘",
-    "description": "Вы за кого?",
-    "fullText": "Вы за кого?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/58/74446b29142f68b2c2dfa6a490f20.png",
+    "title": "У Сафонова с «ПСЖ» уже 6-й трофей за год. Мечта!",
+    "description": "Принес в серии пенальти.",
+    "fullText": "Принес в серии пенальти.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/df/98aa639bb4c0c89b95aa97697d93d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3368218.html",
-    "time": "2025-12-17T21:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371297.html",
+    "time": "2025-12-17T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Larian и генеративный ИИ: как реагирует индустрия и разочаровываются фанаты студии",
-    "description": "И почему в процессе обсуждения досталось авторам Expedition 33.",
-    "fullText": "И почему в процессе обсуждения досталось авторам Expedition 33.",
-    "image": "https://leonardo.osnova.io/ea39205a-f6f0-5ec9-b9a7-7a7dd86b78b9/",
+    "title": "Call of Duty: Black Ops 7 стала самой покупаемой игрой в США в ноябре",
+    "description": "А лидером по количеству активных пользователей в Steam стала ARC Raiders.",
+    "fullText": "А лидером по количеству активных пользователей в Steam стала ARC Raiders.",
+    "image": "https://leonardo.osnova.io/5fa2392b-479d-5648-8e97-7b65c955c0aa/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4538769-larian-i-generativnyj-ii-reakciya-industrii?from=rss",
-    "time": "2025-12-17T11:12:06.000Z"
+    "url": "https://dtf.ru/gameindustry/4539574-call-of-duty-black-ops-7-samaya-prodavaemaya-igra-v-ssha-v-noyabre?from=rss",
+    "time": "2025-12-17T15:52:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
