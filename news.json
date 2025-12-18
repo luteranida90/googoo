@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Кремле рассказали о всплеске интереса молодежи к прямой линии",
-    "description": "Этого не было еще в 2024 году, подчеркнул пресс-секретарь президента РФ Дмитрий Песков",
-    "fullText": "Этого не было еще в 2024 году, подчеркнул пресс-секретарь президента РФ Дмитрий Песков",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Лукашенко заявил, что на Белоруссию невозможно надавить",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969305.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25954429",
-    "time": "2025-12-18T15:32:27.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25955169",
+    "time": "2025-12-18T16:14:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Локомотив» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/8c/12475dd434fbba857c8b1d3c8d735.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/OLsZ2PXlxAUt3W4y2-eMUzhLFcYXk4tyi1J2Gto5cOY",
+    "time": "2025-12-18T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,25 @@
     "time": "2025-12-18T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Apple разрешила в Японии сторонние магазины iOS-приложений и альтернативные способы оплаты",
-    "description": "Компания внесла изменения в соответствии с местным законодательством.",
-    "fullText": "Компания внесла изменения в соответствии с местным законодательством.",
-    "image": "https://leonardo.osnova.io/c372da8b-9ef9-5781-b16b-60ef473e53aa/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4541486-apple-razreshila-storonnye-magaziny-prilozheniy-v-yaponii?from=rss",
-    "time": "2025-12-18T12:25:08.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я скучаю по чемпионату России, который что-то значил",
-    "description": "Ностальгия Ивана Кузнецова.",
-    "fullText": "Ностальгия Ивана Кузнецова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/7c/94478d06343ed89c4eb910a749b45.jpeg",
+    "title": "Сафонов взял лишь 6 пенальти в матчах за карьеру – а тут 4 подряд в серии!",
+    "description": "Зато на послематчевых – монстр.",
+    "fullText": "Зато на послематчевых – монстр.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/88/7acb7c89742d78fae2a660a68d58e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3371062.html",
-    "time": "2025-12-18T10:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371375.html",
+    "time": "2025-12-18T11:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Проблемы невесомости и более открытая игра, чем может показаться — Owlcat о The Expanse: Osiris Reborn",
+    "description": "Студия адаптировала нарративные инструменты под Unreal Engine.",
+    "fullText": "Студия адаптировала нарративные инструменты под Unreal Engine.",
+    "image": "https://leonardo.osnova.io/2d502b8b-cdfd-5223-a492-099d80c7514d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4541043-problemy-nevesomosti-i-otkrytyj-gejmplej-v-the-expanse-osiris-reborn?from=rss",
+    "time": "2025-12-18T09:41:23.000Z"
   }
 ]
