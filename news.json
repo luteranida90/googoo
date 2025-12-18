@@ -1,5 +1,49 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "СМИ: Wildberries рассматривает идею запуска собственного онлайн-кинотеатра",
+    "description": "Руководство маркетплейса также обсуждало возможность покупки «Иви».",
+    "fullText": "Руководство маркетплейса также обсуждало возможность покупки «Иви».",
+    "image": "https://leonardo.osnova.io/801a8e38-9add-55a3-a3d8-da08744691e6/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4541217-smi-wildberries-rassmatrivaet-ideyu-zapuska-sobstvennogo-onlain-kinoteatra?from=rss",
+    "time": "2025-12-18T10:18:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Российские средства ПВО сбили за сутки 216 беспилотников самолетного типа ВСУ",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25948371",
+    "time": "2025-12-18T10:04:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Наполи» и «Милан» бьются за выход в финал Суперкубка Италии, а у вас – фрибет до 15 000!",
+    "description": "Новичкам от FONBET.",
+    "fullText": "Новичкам от FONBET.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/dd/5a0ccba884f35ac56355fcb837e42.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/5medpv",
+    "time": "2025-12-18T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жерсон и Вендел подешевели больше всех, Кисляк – подорожал. Обновление цен в РПЛ",
+    "description": "Батраков и Сперцян самые дорогие.",
+    "fullText": "Батраков и Сперцян самые дорогие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/36/e8fa667d9442aad1fc2d339990e35.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3371082.html",
+    "time": "2025-12-18T06:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -9,49 +53,5 @@
     "category": "all",
     "url": "https://sprts.cc/r57nzh",
     "time": "2025-12-18T06:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Одна из машинок мультика «Тачки» названа в честь легенды «Формулы-1»",
-    "description": "И еще 11 фактов об автоспорте в новом тесте.",
-    "fullText": "И еще 11 фактов об автоспорте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/7a/fe5f4cf924639baa1499dbc44e3d5.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/jl026t",
-    "time": "2025-12-18T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наряды фигуристов на жеребьевке ЧР: костюм ковбоя, платье с мехом, пиджак на голое тело",
-    "description": "Модный показ.",
-    "fullText": "Модный показ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/24/2a0f123f645048a4ce5e88116979e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3371296.html",
-    "time": "2025-12-18T03:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "YouTube получил права на показ «Оскара» — первая трансляция состоится в 2029 году",
-    "description": "Прямой эфир с церемонией награждения будет бесплатным.",
-    "fullText": "Прямой эфир с церемонией награждения будет бесплатным.",
-    "image": "https://leonardo.osnova.io/3792aef3-08fa-5a1e-8a63-2797f5e6816e/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4540097-youtube-poluchil-prava-na-translyatsiyu-oskara?from=rss",
-    "time": "2025-12-17T19:27:26.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
