@@ -1,20 +1,31 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ГК \"Дело\" создаст дирекцию по ЭКГ-рейтингу и национальным целям развития",
-    "description": "Председатель совета директоров группы Сергей Шишкарев напомнил, что с 2026 года необлагаемая налогами сумма корпоративных выплат сотрудникам увеличивается до 1 млн рублей",
-    "fullText": "Председатель совета директоров группы Сергей Шишкарев напомнил, что с 2026 года необлагаемая налогами сумма корпоративных выплат сотрудникам увеличивается до 1 млн рублей",
+    "title": "ТАСС: ликвидированным под Волчанском офицером БПЛА был лейтенант ВСУ с позывным Дуба",
+    "description": "Волчанск освобожден от ВСУ",
+    "fullText": "Волчанск освобожден от ВСУ",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25956137",
-    "time": "2025-12-18T18:07:56.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25956243",
+    "time": "2025-12-18T18:33:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Ван дер Сар и Адама Траоре – какой клуб их объединяет?",
+    "description": "Подсказка: не «Юнайтед».",
+    "fullText": "Подсказка: не «Юнайтед».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/8f/70c13bcd04fee881f4f6629e65e86.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/yopigl",
+    "time": "2025-12-18T17:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Локомотив» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "title": "«Локомотив» обыграл ЦСКА – серия буллитов результативнее матча. Показывали на ВидеоСпортсе’’",
+    "description": "Вратари отбивали все.",
+    "fullText": "Вратари отбивали все.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/3/8c/12475dd434fbba857c8b1d3c8d735.jpeg",
     "source": "Sports.ru",
     "category": "all",
@@ -22,36 +33,25 @@
     "time": "2025-12-18T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Осторожно, сводит олдскулы! Фишки с легендами детства",
-    "description": "Ямаль этого не застал.",
-    "fullText": "Ямаль этого не застал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/21/8f1757ed145e2a5508fe03f1ac3ee.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/gnkvpp",
-    "time": "2025-12-18T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сошлись с Уэстбруком на теме моды». Большой разговор с Алексеем Шведом",
-    "description": "Мода и эчпочмаки.",
-    "fullText": "Мода и эчпочмаки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ec/23743c58a42c9aad84066a7e16852.jpeg",
+    "title": "Почему нас так тронул вечер Сафонова",
+    "description": "Мысли Вадима Кораблева.",
+    "fullText": "Мысли Вадима Кораблева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/d8/37a485cb24576813b5179f7ddfcd7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3370787.html",
-    "time": "2025-12-18T12:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371389.html",
+    "time": "2025-12-18T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Wildberries рассматривает идею запуска собственного онлайн-кинотеатра",
-    "description": "Руководство маркетплейса также обсуждало возможность покупки «Иви».",
-    "fullText": "Руководство маркетплейса также обсуждало возможность покупки «Иви».",
-    "image": "https://leonardo.osnova.io/801a8e38-9add-55a3-a3d8-da08744691e6/",
+    "title": "Пользователи Roblox сообщили, что на платформе отключили текстовый и голосовой чаты для игроков из России",
+    "description": "Вскоре после того, как в РКН рассказали о готовности администрации обсуждать причины блокировки в РФ.",
+    "fullText": "Вскоре после того, как в РКН рассказали о готовности администрации обсуждать причины блокировки в РФ.",
+    "image": "https://leonardo.osnova.io/0c47762d-722f-568b-a1cd-3133f2976a7c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4541217-wildberries-planirovat-zapusk-onlajn-kinoteatra?from=rss",
-    "time": "2025-12-18T10:18:23.000Z"
+    "url": "https://dtf.ru/gameindustry/4541367-roblox-otklyuchil-chaty-dlya-rossii?from=rss",
+    "time": "2025-12-18T11:36:47.000Z"
   }
 ]
