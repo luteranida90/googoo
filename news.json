@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: четыре самолета США вновь заметили у морской границы Венесуэлы",
-    "description": "Истребители-бомбардировщики Boeing F/A-18E Super Hornet находятся над нейтральными водами в непосредственной близости от границы Венесуэлы",
-    "fullText": "Истребители-бомбардировщики Boeing F/A-18E Super Hornet находятся над нейтральными водами в непосредственной близости от границы Венесуэлы",
+    "title": "В Строителе Белгородской области открылась школа креативных индустрий",
+    "description": "Обучение будут проходить ученики 5 - 11-х классов",
+    "fullText": "Обучение будут проходить ученики 5 - 11-х классов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25956539",
-    "time": "2025-12-18T19:36:50.000Z"
+    "url": "https://tass.ru/sibir-news/25956647",
+    "time": "2025-12-18T20:02:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "СМИ: Джейсон Айзекс сыграет в сериале по Tomb Raider",
+    "description": "Однако его роль пока не раскрывается.",
+    "fullText": "Однако его роль пока не раскрывается.",
+    "image": "https://leonardo.osnova.io/2ee924d8-7b9c-5516-84c6-669591e9e328/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4542419-dzejson-ajzeks-v-seriale-tomb-raider?from=rss",
+    "time": "2025-12-18T19:27:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Челси» проиграет «Ньюкаслу», а «МЮ» – «Вилле»? Участвуйте в конкурсе прогнозов на АПЛ",
-    "description": "Лучшим прогнозистам – фрибеты.",
-    "fullText": "Лучшим прогнозистам – фрибеты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/bc/d3bc978d64dc2a96190548be59082.jpeg",
+    "title": "Слабое место ЦСКА – бывший капитан Нестеров. Он слишком часто ошибается",
+    "description": "Больше не лидер.",
+    "fullText": "Больше не лидер.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d7/61701591845e385c8264ebd4b86cb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3370950.html",
-    "time": "2025-12-18T15:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Третий сезон детектива «Метод» с Константином Хабенским полностью вышел на «Кинопоиске»",
-    "description": "История о майоре Меглине и раскаявшихся маньяках подошла к концу — со средней оценкой 7,7 балла из 10.",
-    "fullText": "История о майоре Меглине и раскаявшихся маньяках подошла к концу — со средней оценкой 7,7 балла из 10.",
-    "image": "https://leonardo.osnova.io/08056fff-e986-506d-b729-1a90d69630b8/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4541820-tretiy-sezon-detektiva-metod-s-habenskim-na-kinopoiske?from=rss",
-    "time": "2025-12-18T15:25:17.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3371499.html",
+    "time": "2025-12-18T16:05:00.000Z"
   }
 ]
