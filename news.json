@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Армянский \"Ноа\" вышел в плей-офф Лиги конференций",
-    "description": "Команда сыграет в раунде плей-офф за право сыграть в 1/8 финала",
-    "fullText": "Команда сыграет в раунде плей-офф за право сыграть в 1/8 финала",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "\"Я с народом России\". О чем Путин говорил на больших пресс-конференциях",
+    "description": "Президент РФ 19 декабря в прямом эфире подведет итоги уходящего года и ответит на вопросы журналистов и жителей страны",
+    "fullText": "Президент РФ 19 декабря в прямом эфире подведет итоги уходящего года и ответит на вопросы журналистов и жителей страны",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241219/7973509.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25957157",
-    "time": "2025-12-18T22:08:21.000Z"
+    "url": "https://tass.ru/info/19532655",
+    "time": "2025-12-18T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2025-12-18T19:10:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "1% – была вероятность 6 титулов «ПСЖ» за год. А что ждут в 2026-м?",
+    "description": "Фавориты везде.",
+    "fullText": "Фавориты везде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/74/eb48b7b7848a6804cfa35877cdd52.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3371461.html",
+    "time": "2025-12-18T18:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Локомотив» обыграл ЦСКА – серия буллитов результативнее матча. Показали на ВидеоСпортсе’’",
     "description": "Вратари отбивали все.",
@@ -33,25 +44,14 @@
     "time": "2025-12-18T18:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В России будет такая же медиалига, как у Пике! Лого ей нарисовала студия Лебедева",
-    "description": "В названии отсылка к Жерару.",
-    "fullText": "В названии отсылка к Жерару.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/42/99f8dab49456486eb5145ce161022.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3370834.html",
-    "time": "2025-12-18T17:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Комедия катастрофических масштабов»: первый тизер Digger — фильма Алехандро Иньярриту с Томом Крузом в главной роли",
-    "description": "Прокат за рубежом начнётся в октябре 2026 года.",
-    "fullText": "Прокат за рубежом начнётся в октябре 2026 года.",
-    "image": "https://leonardo.osnova.io/4927c535-120a-5696-bfb9-1c9ba1fcbc43/-/format/mp4/",
+    "title": "«Тебе бы стать детективом»: первый трейлер сериала «Молодой Шерлок» от Гая Ричи",
+    "description": "Герой окажется втянут в дело об убийстве, которое станет началом его карьеры.",
+    "fullText": "Герой окажется втянут в дело об убийстве, которое станет началом его карьеры.",
+    "image": "https://leonardo.osnova.io/b0dc20c9-5735-5333-9b4c-173964724b9e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4542028-digger-novyy-film-alehandro-inyarrity-s-tomom-kruzom?from=rss",
-    "time": "2025-12-18T16:25:13.000Z"
+    "url": "https://dtf.ru/cinema/4541998-treyler-seriala-molodoy-sherlok?from=rss",
+    "time": "2025-12-18T16:37:21.000Z"
   }
 ]
