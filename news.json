@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Прокуратура добилась изменения основания увольнения главы округа на Урале",
-    "description": "Будучи в должности, Иван Карташов не выполнил обязанности по предотвращению или урегулированию конфликта интересов",
-    "fullText": "Будучи в должности, Иван Карташов не выполнил обязанности по предотвращению или урегулированию конфликта интересов",
+    "title": "Южная группировка ВС РФ освободила 48 населенных пунктов Донбасса",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25951227",
-    "time": "2025-12-18T13:22:25.000Z"
+    "url": "https://tass.ru/armiya-i-opk/25952629",
+    "time": "2025-12-18T14:12:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "На российских стримингах вышла «Сентиментальная ценность» — одна из главных кинокартин 2025 года",
+    "description": "В фильме, получившем гран-при Каннского кинофестиваля, в том числе снялись Стеллан Скарсгард и Эль Фаннинг.",
+    "fullText": "В фильме, получившем гран-при Каннского кинофестиваля, в том числе снялись Стеллан Скарсгард и Эль Фаннинг.",
+    "image": "https://leonardo.osnova.io/3e067dfa-1578-5d1d-b3f6-c8b6f7127a41/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4541599-sentimentalnaya-tsennost-na-rossiyskih-strimingah?from=rss",
+    "time": "2025-12-18T13:42:11.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Каролина» лидирует на Востоке! Так уверенно, что даже Кочетков бросает по воротам",
-    "description": "Свечников с Никишиным тоже заметны.",
-    "fullText": "Свечников с Никишиным тоже заметны.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/29/de9a9e8d142ba96edfcee9522f8bd.jpeg",
+    "title": "Символическая сборная мира по хоккею за 25 лет. Из наших – не только Овечкин и Малкин!",
+    "description": "Лучшие.",
+    "fullText": "Лучшие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d5/83abe009349ca94581e32176f6a77.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3371426.html",
-    "time": "2025-12-18T07:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ветеран BioWare Джеймс Олен покинул основанную им студию Archetype — за год до релиза Exodus",
-    "description": "Он останется в качестве творческого консультанта, но в дальнейшем сфокусируется на настольных играх.",
-    "fullText": "Он останется в качестве творческого консультанта, но в дальнейшем сфокусируется на настольных играх.",
-    "image": "https://leonardo.osnova.io/2502d0ed-d25a-5b47-bebd-8af41acdac5e/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4540758-dzheyms-olen-pokinul-archetype?from=rss",
-    "time": "2025-12-18T06:02:29.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3370972.html",
+    "time": "2025-12-18T09:05:00.000Z"
   }
 ]
