@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Тобольске оштрафовали директора базы отдыха",
-    "description": "Бизнесмена осудили за оказание небезопасных услуг",
-    "fullText": "Бизнесмена осудили за оказание небезопасных услуг",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/25947683",
-    "time": "2025-12-18T09:12:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сафонов взял лишь 6 пенальти в матчах за карьеру – а тут 4 подряд в серии!",
-    "description": "Зато на послематчевых – монстр.",
-    "fullText": "Зато на послематчевых – монстр.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/88/7acb7c89742d78fae2a660a68d58e.jpeg",
+    "title": "Наряды фигуристов на жеребьевке ЧР: костюм ковбоя, платье с мехом, пиджак на голое тело",
+    "description": "Модный показ.",
+    "fullText": "Модный показ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/24/2a0f123f645048a4ce5e88116979e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371375.html",
-    "time": "2025-12-18T01:50:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3371296.html",
+    "time": "2025-12-18T03:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Руперт Гринт и Дейзи Ридли пополнили каст фильма по «Рождественской песни» с Джонни Деппом в главной роли",
-    "description": "К съёмкам также присоединились Иэн Маккеллен и Трамелл Тиллман.",
-    "fullText": "К съёмкам также присоединились Иэн Маккеллен и Трамелл Тиллман.",
-    "image": "https://leonardo.osnova.io/22c399b6-6bf7-5d63-8550-07d8ff384973/",
+    "title": "YouTube получил права на показ «Оскара» — первая трансляция состоится в 2029 году",
+    "description": "Прямой эфир с церемонией награждения будет бесплатным.",
+    "fullText": "Прямой эфир с церемонией награждения будет бесплатным.",
+    "image": "https://leonardo.osnova.io/3792aef3-08fa-5a1e-8a63-2797f5e6816e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4540147-rupert-grint-daisy-ridley-rozhdestvenskaya-pesn?from=rss",
-    "time": "2025-12-17T20:00:33.000Z"
+    "url": "https://dtf.ru/cinema/4540097-youtube-poluchil-prava-na-translyatsiyu-oskara?from=rss",
+    "time": "2025-12-17T19:27:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
