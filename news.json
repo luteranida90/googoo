@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "КДК РФС не доказал вину игрока ЦСКА Вильягры в проявлении расизма",
+    "description": "После матча РПЛ нападающий \"Краснодара\" Джон Кордоба обвинил футболиста ЦСКА в расизме",
+    "fullText": "После матча РПЛ нападающий \"Краснодара\" Джон Кордоба обвинил футболиста ЦСКА в расизме",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251218/8687353.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25949489",
+    "time": "2025-12-18T11:22:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Наполи» и «Милан» бьются за выход в финал Суперкубка Италии, а у вас – фрибет до 15 000!",
     "description": "Новичкам от FONBET.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Hogwarts Legacy превысили 40 миллионов копий — с релиза экшен-RPG прошло почти три года",
-    "description": "Одна из самых успешных игр в истории.",
-    "fullText": "Одна из самых успешных игр в истории.",
-    "image": "https://leonardo.osnova.io/bc17be4d-c88f-588a-8b28-4c0b3ec489f8/",
+    "title": "The Game Awards 2025 поставила очередной рекорд церемонии по просмотрам — 171 миллион",
+    "description": "Ещё есть куда расти.",
+    "fullText": "Ещё есть куда расти.",
+    "image": "https://leonardo.osnova.io/4df8e511-a747-51a3-8114-6fa8a80049d4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4539836-hogwarts-legacy-uspeh-ekshen-rpg?from=rss",
-    "time": "2025-12-17T17:16:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4540220-the-game-awards-2025-rekordy-prosmotrov?from=rss",
+    "time": "2025-12-17T20:21:00.000Z"
   }
 ]
