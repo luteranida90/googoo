@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Строителе Белгородской области открылась школа креативных индустрий",
-    "description": "Обучение будут проходить ученики 5 - 11-х классов",
-    "fullText": "Обучение будут проходить ученики 5 - 11-х классов",
+    "title": "СФ обсудит закон об увеличении штрафов за перевозку детей без автокресел",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sibir-news/25956647",
-    "time": "2025-12-18T20:02:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Джейсон Айзекс сыграет в сериале по Tomb Raider",
-    "description": "Однако его роль пока не раскрывается.",
-    "fullText": "Однако его роль пока не раскрывается.",
-    "image": "https://leonardo.osnova.io/2ee924d8-7b9c-5516-84c6-669591e9e328/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4542419-dzejson-ajzeks-v-seriale-tomb-raider?from=rss",
-    "time": "2025-12-18T19:27:14.000Z"
+    "url": "https://tass.ru/obschestvo/25956859",
+    "time": "2025-12-18T21:02:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Слабое место ЦСКА – бывший капитан Нестеров. Он слишком часто ошибается",
-    "description": "Больше не лидер.",
-    "fullText": "Больше не лидер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d7/61701591845e385c8264ebd4b86cb.jpeg",
+    "title": "Инсайды об уходе Пепа летом – что говорят? Преемником сразу видят Мареску",
+    "description": "Романо и топ-голос The Athletic.",
+    "fullText": "Романо и топ-голос The Athletic.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/25/d4478f3f54e9b8f57796ce5b1383d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3371499.html",
-    "time": "2025-12-18T16:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371541.html",
+    "time": "2025-12-18T16:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Nintendo одержала победу в 15-летнем судебном процессе по делу о контроллере Wii Remote",
+    "description": "Она получила компенсацию в размере 8,2 миллиона долларов.",
+    "fullText": "Она получила компенсацию в размере 8,2 миллиона долларов.",
+    "image": "https://leonardo.osnova.io/094c0cdc-c518-5d85-9e4d-8c4d37e985a4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4541794-nintendo-vyigrala-sud-po-kontrolleru-wii-remote?from=rss",
+    "time": "2025-12-18T15:22:42.000Z"
   }
 ]
