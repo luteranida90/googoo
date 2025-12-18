@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЕС внес в антироссийский санкционный список еще 41 нефтяной танкер",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250129/8035257.png",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25948751",
-    "time": "2025-12-18T10:32:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Наполи» и «Милан» бьются за выход в финал Суперкубка Италии, а у вас – фрибет до 15 000!",
     "description": "Новичкам от FONBET.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жерсон и Вендел подешевели больше всех, Кисляк – подорожал. Обновление цен в РПЛ",
-    "description": "Батраков и Сперцян самые дорогие.",
-    "fullText": "Батраков и Сперцян самые дорогие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/36/e8fa667d9442aad1fc2d339990e35.jpeg",
+    "title": "Сафонова качает весь «ПСЖ». Фото дня, месяца – и года!",
+    "description": "Гений на руках.",
+    "fullText": "Гений на руках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/48/d680bae4a450796fb76321b924ffd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371082.html",
-    "time": "2025-12-18T06:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371370.html",
+    "time": "2025-12-18T06:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4539836-hogwarts-legacy-uspeh-ekshen-rpg?from=rss",
     "time": "2025-12-17T17:16:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
