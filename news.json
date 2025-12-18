@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лукашенко заявил, что на Белоруссию невозможно надавить",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969305.jpg",
+    "title": "Нарышкин: линия спецслужб остается \"практически единственной\" связующей с Европой",
+    "description": "Директор Службы внешней разведки добавил, что соответствующий канал \"действует с разными странами\"",
+    "fullText": "Директор Службы внешней разведки добавил, что соответствующий канал \"действует с разными странами\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25955169",
-    "time": "2025-12-18T16:14:01.000Z"
+    "url": "https://tass.ru/politika/25955371",
+    "time": "2025-12-18T16:31:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,6 +33,17 @@
     "time": "2025-12-18T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Аналитики: выручка от видеоигр по миру увеличится на 7,5% в 2025 году",
+    "description": "Battlefield 6 станет самой прибыльной игрой на ПК, а EA Sports FC 26 — на консолях.",
+    "fullText": "Battlefield 6 станет самой прибыльной игрой на ПК, а EA Sports FC 26 — на консолях.",
+    "image": "https://leonardo.osnova.io/6885e367-a21c-5447-941c-3714addbb914/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4541339-vyruchka-ot-videoigr-vyrastet-na-75-prognoz-newzoo?from=rss",
+    "time": "2025-12-18T11:58:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Сафонов взял лишь 6 пенальти в матчах за карьеру – а тут 4 подряд в серии!",
     "description": "Зато на послематчевых – монстр.",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3371375.html",
     "time": "2025-12-18T11:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Проблемы невесомости и более открытая игра, чем может показаться — Owlcat о The Expanse: Osiris Reborn",
-    "description": "Студия адаптировала нарративные инструменты под Unreal Engine.",
-    "fullText": "Студия адаптировала нарративные инструменты под Unreal Engine.",
-    "image": "https://leonardo.osnova.io/2d502b8b-cdfd-5223-a492-099d80c7514d/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4541043-problemy-nevesomosti-i-otkrytyj-gejmplej-v-the-expanse-osiris-reborn?from=rss",
-    "time": "2025-12-18T09:41:23.000Z"
   }
 ]
