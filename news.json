@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В самом крупном городе Ингушетии проведут первую зимнюю праздничную ярмарку",
-    "description": "Мероприятие пройдет с 26 по 28 декабря",
-    "fullText": "Мероприятие пройдет с 26 по 28 декабря",
+    "title": "Прокуратура добилась изменения основания увольнения главы округа на Урале",
+    "description": "Будучи в должности, Иван Карташов не выполнил обязанности по предотвращению или урегулированию конфликта интересов",
+    "fullText": "Будучи в должности, Иван Карташов не выполнил обязанности по предотвращению или урегулированию конфликта интересов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25950315",
-    "time": "2025-12-18T12:28:28.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Apple разрешила в Японии сторонние магазины iOS-приложений и альтернативные способы оплаты",
-    "description": "Компания внесла изменения в соответствии с местным законодательством.",
-    "fullText": "Компания внесла изменения в соответствии с местным законодательством.",
-    "image": "https://leonardo.osnova.io/c372da8b-9ef9-5781-b16b-60ef473e53aa/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4541486-apple-razreshila-v-yaponii-storonnie-magaziny-ios-prilozhenii-i-alternativnye-sposoby-oplaty?from=rss",
-    "time": "2025-12-18T12:25:08.000Z"
+    "url": "https://tass.ru/proisshestviya/25951227",
+    "time": "2025-12-18T13:22:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему нас так тронул вечер Сафонова",
-    "description": "Мысли Вадима Кораблева.",
-    "fullText": "Мысли Вадима Кораблева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/d8/37a485cb24576813b5179f7ddfcd7.jpeg",
+    "title": "«Каролина» лидирует на Востоке! Так уверенно, что даже Кочетков бросает по воротам",
+    "description": "Свечников с Никишиным тоже заметны.",
+    "fullText": "Свечников с Никишиным тоже заметны.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/29/de9a9e8d142ba96edfcee9522f8bd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371389.html",
-    "time": "2025-12-18T07:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3371426.html",
+    "time": "2025-12-18T07:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Ветеран BioWare Джеймс Олен покинул основанную им студию Archetype — за год до релиза Exodus",
+    "description": "Он останется в качестве творческого консультанта, но в дальнейшем сфокусируется на настольных играх.",
+    "fullText": "Он останется в качестве творческого консультанта, но в дальнейшем сфокусируется на настольных играх.",
+    "image": "https://leonardo.osnova.io/2502d0ed-d25a-5b47-bebd-8af41acdac5e/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4540758-dzheyms-olen-pokinul-archetype?from=rss",
+    "time": "2025-12-18T06:02:29.000Z"
   }
 ]
