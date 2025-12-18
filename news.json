@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Эксперт Киселев: офицеры ВСУ сбежали из Димитрова, бросив солдат в окружении",
+    "description": "По его словам, ВСУ не могут выйти из Димитрова в ДНР",
+    "fullText": "По его словам, ВСУ не могут выйти из Димитрова в ДНР",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/25947405",
+    "time": "2025-12-18T08:40:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "⚡️ Видео исторических сэйвов Сафонова – вы должны увидеть их своими глазами!",
     "description": "Безумие!",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sprts.cc/r57nzh",
     "time": "2025-12-18T06:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сафонов взял лишь 6 пенальти в матчах за карьеру – а тут 4 подряд в серии!",
+    "description": "Зато на послематчевых – монстр.",
+    "fullText": "Зато на послематчевых – монстр.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/88/7acb7c89742d78fae2a660a68d58e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3371375.html",
+    "time": "2025-12-18T01:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +44,6 @@
     "time": "2025-12-17T22:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Сафонова с «ПСЖ» уже 6-й трофей за год. Мечта!",
-    "description": "Принес в серии пенальти.",
-    "fullText": "Принес в серии пенальти.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/df/98aa639bb4c0c89b95aa97697d93d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371297.html",
-    "time": "2025-12-17T21:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Call of Duty: Black Ops 7 стала самой покупаемой игрой в США в ноябре",
     "description": "А лидером по количеству активных пользователей в Steam стала ARC Raiders.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4539574-call-of-duty-black-ops-7-samaya-prodavaemaya-igra-v-ssha-v-noyabre?from=rss",
     "time": "2025-12-17T15:52:07.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
