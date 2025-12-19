@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ГД в весеннюю сессию рассмотрит законопроект о передвижных аптеках",
-    "description": "Документ предусматривает, что эксперимент будет проводиться с 1 июня 2026 года по 1 июня 2029 года",
-    "fullText": "Документ предусматривает, что эксперимент будет проводиться с 1 июня 2026 года по 1 июня 2029 года",
+    "title": "Фигурист Гуменник лидирует после короткой программы на чемпионате России",
+    "description": "Вторым идет Евгений Семененко, третьим - Андрей Мозалев",
+    "fullText": "Вторым идет Евгений Семененко, третьим - Андрей Мозалев",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25969929",
-    "time": "2025-12-19T14:36:19.000Z"
+    "url": "https://tass.ru/sport/25970553",
+    "time": "2025-12-19T15:10:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,6 +22,17 @@
     "time": "2025-12-19T12:59:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Поражение гильотиной – реально зашквар? Так считает главный тяж России",
+    "description": "«Это как в футболе пропустить между ног».",
+    "fullText": "«Это как в футболе пропустить между ног».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fb/dfe9fd6674a60bd192ad52840c521.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3371496.html",
+    "time": "2025-12-19T11:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В АПЛ 7 клубов из Лондона. Треть игроков не называет больше трех",
     "description": "Сколько вспомните вы?",
@@ -33,25 +44,14 @@
     "time": "2025-12-19T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Скандалы на Кубке Африки еще до начала: тренер-расист, Нигерия жалуется на ДР Конго, у Камеруна две заявки",
-    "description": "Классика.",
-    "fullText": "Классика.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f2/49998f0b84fa4aab9411e702dc18e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371240.html",
-    "time": "2025-12-19T11:09:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джеймс Кэмерон заявил, что не предлагал Мэтту Дэймону 10% от сборов «Аватара» за главную роль в фильме",
-    "description": "И пошутил, что актёру можно больше не сожалеть об упущенной возможности.",
-    "fullText": "И пошутил, что актёру можно больше не сожалеть об упущенной возможности.",
-    "image": "https://leonardo.osnova.io/c07a1130-cc87-5226-8f9e-f56dd398dafb/",
+    "title": "Netflix продлил сериал «Икусагами: Последний самурай» на второй сезон",
+    "description": "Шоу оказалось популярным не только в Японии.",
+    "fullText": "Шоу оказалось популярным не только в Японии.",
+    "image": "https://leonardo.osnova.io/9d8d43c9-1e3e-591a-94df-3a5008708ac3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4543300-dzheims-kemeron-o-mette-deimone-i-10-ot-sborov-avatar?from=rss",
-    "time": "2025-12-19T07:28:14.000Z"
+    "url": "https://dtf.ru/cinema/4543714-netflix-prodlil-ikusagami-posledniy-samuray?from=rss",
+    "time": "2025-12-19T10:24:21.000Z"
   }
 ]
