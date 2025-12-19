@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пасынка посла Украины в Болгарии подозревают в убийстве сына заммэра Харькова",
-    "description": "Олеся Илащук заявила, что проходит все предусмотренные законом процессуальные действия",
-    "fullText": "Олеся Илащук заявила, что проходит все предусмотренные законом процессуальные действия",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25972253",
-    "time": "2025-12-19T20:57:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Все фильмы Джеймса Кэмерона – от худшего к лучшему",
     "description": "Андрей Загудаев разобрал карьеру мэтра.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А кто-то вообще верит в Джейка Пола?",
-    "description": "Фьюри поставит на него миллион.",
-    "fullText": "Фьюри поставит на него миллион.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/b1/f3aada466406bba74f9ccba79f53b.jpeg",
+    "title": "Интервью Туктамышевой о новой жизни: тренерство, работа в медиа, шоу",
+    "description": "Встретились на чемпионате России.",
+    "fullText": "Встретились на чемпионате России.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/0e/3d3e53758407995daf9f62ddec4f2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3371699.html",
-    "time": "2025-12-19T15:52:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3371681.html",
+    "time": "2025-12-19T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4544110-dopolnenie-from-the-ashes-avatar-frontiers-of-pandora?from=rss",
     "time": "2025-12-19T13:16:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
