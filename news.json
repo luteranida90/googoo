@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Чехия при условии отказа гарантий по кредитам Украине одобрила итоги саммита ЕС",
-    "description": "Чешский премьер-министр Андрей Бабиш подчеркнул, что позиция страны отличается от позиций Венгрии и Словакии",
-    "fullText": "Чешский премьер-министр Андрей Бабиш подчеркнул, что позиция страны отличается от позиций Венгрии и Словакии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/25958609",
-    "time": "2025-12-19T04:29:08.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой клуб три года подряд выигрывал FONBET Кубок России?",
     "description": "Тест с призами о FONBET Кубке России.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4541998-treyler-seriala-molodoy-sherlok?from=rss",
     "time": "2025-12-18T16:37:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
