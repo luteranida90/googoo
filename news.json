@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фигурист Гуменник лидирует после короткой программы на чемпионате России",
-    "description": "Вторым идет Евгений Семененко, третьим - Андрей Мозалев",
-    "fullText": "Вторым идет Евгений Семененко, третьим - Андрей Мозалев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "ХК «Металлург» запустил собственный сериал «7-10 вопросов»",
+    "description": "Показываем на ВидеоСпортсе’‘.",
+    "fullText": "Показываем на ВидеоСпортсе’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/af/2c6c223e04adf8a40f151cb0b4f78.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/25970553",
-    "time": "2025-12-19T15:10:22.000Z"
+    "url": "https://sirena.world/tnl8am",
+    "time": "2025-12-19T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -23,25 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Поражение гильотиной – реально зашквар? Так считает главный тяж России",
-    "description": "«Это как в футболе пропустить между ног».",
-    "fullText": "«Это как в футболе пропустить между ног».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fb/dfe9fd6674a60bd192ad52840c521.jpeg",
+    "title": "Ярость и романтика маленьких клубов АПЛ. Путешествие с Алексеем Смертиным",
+    "description": "Разминаемся перед Boxing Day.",
+    "fullText": "Разминаемся перед Boxing Day.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/bc/5822355224c2787b8f269669de76f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3371496.html",
-    "time": "2025-12-19T11:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В АПЛ 7 клубов из Лондона. Треть игроков не называет больше трех",
-    "description": "Сколько вспомните вы?",
-    "fullText": "Сколько вспомните вы?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2b/4dab2371b4b3e826c0f8de8d1f841.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2025-12-19T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371520.html",
+    "time": "2025-12-19T12:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4543714-netflix-prodlil-ikusagami-posledniy-samuray?from=rss",
     "time": "2025-12-19T10:24:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
