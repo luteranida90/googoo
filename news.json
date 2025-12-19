@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фигуристка Фролова рассказала о причине возвращения к программе \"Кошки\"",
-    "description": "Спортсменка считает, что прошлогодняя программа подходит ей по характеру",
-    "fullText": "Спортсменка считает, что прошлогодняя программа подходит ей по характеру",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251219/8693311.jpg",
+    "title": "Болгарская армия откажется от пистолетов Макарова",
+    "description": "Вместо них будут использовать хорватские пистолеты Springfield Armory Echelon 4.5, сообщил министр обороны Болгарии в отставке Атанас Запрянов",
+    "fullText": "Вместо них будут использовать хорватские пистолеты Springfield Armory Echelon 4.5, сообщил министр обороны Болгарии в отставке Атанас Запрянов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/25972049",
-    "time": "2025-12-19T19:25:19.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25972113",
+    "time": "2025-12-19T19:54:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-12-19T18:40:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "А кто-то вообще верит в Джейка Пола?",
+    "description": "Фьюри поставит на него миллион.",
+    "fullText": "Фьюри поставит на него миллион.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/b1/f3aada466406bba74f9ccba79f53b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3371699.html",
+    "time": "2025-12-19T15:52:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой клуб три года подряд выигрывал FONBET Кубок России?",
     "description": "Тест с призами о FONBET Кубке России.",
@@ -33,25 +44,14 @@
     "time": "2025-12-19T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сафонов тащил пенальти со сломанной рукой. Шок",
-    "description": "Пропустит минимум три недели.",
-    "fullText": "Пропустит минимум три недели.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e8/3c25866144e1fa5de15f1fce0bd7d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371757.html",
-    "time": "2025-12-19T15:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Релиз «выживача» ARK 2 с Вином Дизелем отложили на 2028 год",
-    "description": "Его анонсировали в 2020-м.",
-    "fullText": "Его анонсировали в 2020-м.",
-    "image": "https://leonardo.osnova.io/c419359b-2b60-5a84-a67f-45c334307847/",
+    "title": "Вышло дополнение From the Ashes для Avatar: Frontiers of Pandora",
+    "description": "Размер DLC составил около 26 ГБ.",
+    "fullText": "Размер DLC составил около 26 ГБ.",
+    "image": "https://leonardo.osnova.io/516c3507-c8b3-5d4b-822c-c8b0345dacb6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4543585-reliz-ark-2-s-vinom-dizelem-perenesli-na-2028-god?from=rss",
-    "time": "2025-12-19T09:59:58.000Z"
+    "url": "https://dtf.ru/games/4544110-dopolnenie-from-the-ashes-avatar-frontiers-of-pandora?from=rss",
+    "time": "2025-12-19T13:16:00.000Z"
   }
 ]
