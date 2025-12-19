@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин призвал продолжать работу по поддержке семей в вопросе оплаты ЖКХ",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/25965231",
-    "time": "2025-12-19T11:26:58.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Большие итоги года 2025 – ваши персональные и во всем спорте",
     "description": "О чем читали чаще всего.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://m.sports.ru/yearbook/?ref=general&ref2=editorial&ref3=supertop",
     "time": "2025-12-19T11:02:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Наше первое золото Игр в хоккее: отмечали медицинским спиртом, на призовые купили «Победы», в 90-е продали медали",
+    "description": "Сериал Дениса Романцова.",
+    "fullText": "Сериал Дениса Романцова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/38/c8cf8d54a483b8994ba74854d365a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3366813.html",
+    "time": "2025-12-19T07:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +33,6 @@
     "time": "2025-12-19T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» промахивается с бразильцами: от Андерсона и Фреда до Антони",
-    "description": "Как будет с Куньей?",
-    "fullText": "Как будет с Куньей?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/46/dd0d514e640cc9afd21381696895b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370612.html",
-    "time": "2025-12-19T06:36:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Bloomberg: Riot Games работает над секретным «ремейком» League of Legends",
     "description": "Уже не такой секретный.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4542776-riot-games-remake-league-of-legends?from=rss",
     "time": "2025-12-18T22:35:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
