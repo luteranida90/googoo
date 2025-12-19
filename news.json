@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Фигуристка Фролова рассказала о причине возвращения к программе \"Кошки\"",
+    "description": "Спортсменка считает, что прошлогодняя программа подходит ей по характеру",
+    "fullText": "Спортсменка считает, что прошлогодняя программа подходит ей по характеру",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251219/8693311.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/25972049",
+    "time": "2025-12-19T19:25:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Все фильмы Джеймса Кэмерона – от худшего к лучшему",
     "description": "Андрей Загудаев разобрал карьеру мэтра.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Обамеянг вернулся из Саудовской Аравии, чтобы править. И это в 36 лет!",
-    "description": "Забивает и отдает даже в ЛЧ.",
-    "fullText": "Забивает и отдает даже в ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/43/9a919e33e43b8805d6e6b2db9fbf1.jpeg",
+    "title": "Сафонов тащил пенальти со сломанной рукой. Шок",
+    "description": "Пропустит минимум три недели.",
+    "fullText": "Пропустит минимум три недели.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e8/3c25866144e1fa5de15f1fce0bd7d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3370987.html",
-    "time": "2025-12-19T14:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371757.html",
+    "time": "2025-12-19T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4543585-reliz-ark-2-s-vinom-dizelem-perenesli-na-2028-god?from=rss",
     "time": "2025-12-19T09:59:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
