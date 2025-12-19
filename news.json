@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Минпросвещения начало проработку вопроса о продлении работы детских садов",
+    "description": "Речь идет также о развитии инфраструктуры таких учреждений",
+    "fullText": "Речь идет также о развитии инфраструктуры таких учреждений",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/25971313",
+    "time": "2025-12-19T16:50:42.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "ХК «Металлург» запустил собственный сериал «7-10 вопросов»",
     "description": "Показываем на ВидеоСпортсе’‘.",
@@ -22,17 +33,6 @@
     "time": "2025-12-19T13:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Большие итоги года 2025 – ваши персональные и во всем спорте",
-    "description": "О чем читали чаще всего.",
-    "fullText": "О чем читали чаще всего.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ac/083403b0c4b889577a0629feab398.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/yearbook/?ref=general&ref2=editorial&ref3=supertop",
-    "time": "2025-12-19T12:59:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Кинопоиск» представил личные итоги зрителей за 2025 год",
     "description": "В этот раз с персональными «титрами», ИИ-постерами и сообщениями от звёзд.",
@@ -42,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4543477-itogi-goda-na-kinopoiske?from=rss",
     "time": "2025-12-19T08:46:34.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
