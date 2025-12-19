@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Застройщику выдали предостережения после жалобы Путину от дольщицы из Ленобласти",
+    "description": "Госстройнадзор свяжется с заявительницей для решения вопроса, сообщили в комитете государственного строительного надзора региона",
+    "fullText": "Госстройнадзор свяжется с заявительницей для решения вопроса, сообщили в комитете государственного строительного надзора региона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25968385",
+    "time": "2025-12-19T13:26:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Большие итоги года 2025 – ваши персональные и во всем спорте",
     "description": "О чем читали чаще всего.",
@@ -8,50 +19,39 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://m.sports.ru/yearbook/?ref=general&ref2=editorial&ref3=supertop",
-    "time": "2025-12-19T11:02:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наше первое золото Игр в хоккее: отмечали медицинским спиртом, на призовые купили «Победы», в 90-е продали медали",
-    "description": "Сериал Дениса Романцова.",
-    "fullText": "Сериал Дениса Романцова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/38/c8cf8d54a483b8994ba74854d365a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3366813.html",
-    "time": "2025-12-19T07:10:00.000Z"
+    "time": "2025-12-19T12:59:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто станет вторым финалистом Суперкубка Италии? Ставьте на фаворита с FONBET!",
-    "description": "«Болонья» или «Интер»?",
-    "fullText": "«Болонья» или «Интер»?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/4a/18e173bda46aab22db23612475283.jpeg",
+    "title": "Чем занимаются легенды футбола нулевых на пенсии?",
+    "description": "Разбираемся в новом тесте.",
+    "fullText": "Разбираемся в новом тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/14/c80f04b494e2a83f39a4a910f0c0a.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/5medpv",
-    "time": "2025-12-19T07:00:00.000Z"
+    "url": "https://sirena.world/oangpr",
+    "time": "2025-12-19T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Фото дня: Этери Тутберидзе – веселый оператор Первого канала",
+    "description": "✌️",
+    "fullText": "✌️",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d7/ba38a4b9748c9b027def7421ba8e4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3371694.html",
+    "time": "2025-12-19T09:08:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloomberg: Riot Games работает над секретным «ремейком» League of Legends",
-    "description": "Уже не такой секретный.",
-    "fullText": "Уже не такой секретный.",
-    "image": "https://leonardo.osnova.io/5e6ddea0-1ebb-5b13-8cd8-4ca61ea43f4c/",
+    "title": "Шон Леви закончил съёмки фильма «Звёздные войны: Звёздный истребитель» с Райаном Гослингом",
+    "description": "Старт проката запланирован на май 2027 года.",
+    "fullText": "Старт проката запланирован на май 2027 года.",
+    "image": "https://leonardo.osnova.io/95bb639a-46d7-59bd-a75f-cc4ed6686df4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4542776-riot-games-remake-league-of-legends?from=rss",
-    "time": "2025-12-18T22:35:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4543222-shon-levi-zavershil-syomki-zvezdnyj-istrebitel?from=rss",
+    "time": "2025-12-19T06:29:17.000Z"
   }
 ]
