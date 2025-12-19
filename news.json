@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сийярто: Венгрия заинтересована в возобновлении сотрудничества с Роскосмосом",
+    "description": "Будапешт поддерживает контакты с российской стороной на протяжении длительного времени, заявил глава МИД республики",
+    "fullText": "Будапешт поддерживает контакты с российской стороной на протяжении длительного времени, заявил глава МИД республики",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251127/8628751.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25958933",
+    "time": "2025-12-19T05:16:42.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой клуб три года подряд выигрывал FONBET Кубок России?",
     "description": "Тест с призами о FONBET Кубке России.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4541998-treyler-seriala-molodoy-sherlok?from=rss",
     "time": "2025-12-18T16:37:21.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
