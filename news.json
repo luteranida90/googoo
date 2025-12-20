@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Захарова анонсировала выход клипа к песне \"Мой ангел\"",
-    "description": "Премьера клипа состоится 23 декабря",
-    "fullText": "Премьера клипа состоится 23 декабря",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241230/7992281.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Дарим коллекционные фигурки и другие призы. Просто угадывайте футболистов",
+    "description": "Ямаль или Холанд – кого выберете?",
+    "fullText": "Ямаль или Холанд – кого выберете?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/2a/27c6370d24b5086bc59ab47d8d2ce.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/kultura/25977507",
-    "time": "2025-12-20T20:06:14.000Z"
+    "url": "https://sirena.world/r58w11",
+    "time": "2025-12-20T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2025-12-20T16:17:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Рекорд Овечкина и наши в НБА – вспомните то, без чего трудно представить 2025-й",
-    "description": "Фиксируем момент.",
-    "fullText": "Фиксируем момент.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ac/083403b0c4b889577a0629feab398.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/ezigr1",
-    "time": "2025-12-20T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Хидео Кодзима заявил, что игроки могут получить намёк на суть хоррора OD, если «посмотрят тизер-трейлер 100 раз»",
     "description": "Геймдизайнер также продолжает принимать гостей — на этот раз в его студию приехали братья Дафферы, авторы «Очень странных дел».",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4544176-hideo-kodzima-horror-od?from=rss",
     "time": "2025-12-19T13:48:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
