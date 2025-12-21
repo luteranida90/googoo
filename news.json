@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Потери ВСУ за сутки составили порядка 1 285 военнослужащих",
-    "description": "В зоне ответственности группировки войск \"Север\" противник потерял до 120 человек",
-    "fullText": "В зоне ответственности группировки войск \"Север\" противник потерял до 120 человек",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Бросить на полпути будет глупо и обидно». Чемпионская речь Букина о том, как не терять мотивацию",
+    "description": "Они со Степановой не уходят.",
+    "fullText": "Они со Степановой не уходят.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ff/5f38417034ec8a85e7ef168268509.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25979335",
-    "time": "2025-12-21T09:25:50.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3372009.html",
+    "time": "2025-12-21T05:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2025-12-21T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Такая победа Петросян вызывает растерянность",
-    "description": "Аделия желает крепких нервов.",
-    "fullText": "Аделия желает крепких нервов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/da/e6c12005845ad82ffbe76af78b22c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3372051.html",
-    "time": "2025-12-21T04:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Второй сезон «Андора» оказался лучшим сериалом 2025 года по версии журнала Empire",
     "description": "«Переходный возраст» и «Чужой: Земля» тоже вошли в топ-3, «Одна из многих» попала на седьмое место, а «Очень странные дела 5» заняли лишь 15 строчку.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4544690-vtoroy-sezon-andora-luchshiy-serial-2025?from=rss",
     "time": "2025-12-19T17:28:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
