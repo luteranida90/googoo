@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Под Архангельском рейсовый автобус съехал в кювет",
-    "description": "Пострадал один человек",
-    "fullText": "Пострадал один человек",
+    "title": "В Удмуртии школьный автобус столкнулся с автомобилем",
+    "description": "Есть пострадавшие, одного ребенка доставляют в больницу",
+    "fullText": "Есть пострадавшие, одного ребенка доставляют в больницу",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25980533",
-    "time": "2025-12-21T14:32:12.000Z"
+    "url": "https://tass.ru/proisshestviya/25980705",
+    "time": "2025-12-21T15:18:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Вильярреал» – парадокс испанского Конте. Как идти рядом с «Барсой», но так позориться в ЛЧ?",
+    "description": "Выше «Реала» по потерянным очкам.",
+    "fullText": "Выше «Реала» по потерянным очкам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f1/b9d8ead5943c4a552ad8de0186bc1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3371747.html",
+    "time": "2025-12-21T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/Myach_top10_bezum",
     "time": "2025-12-21T10:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Майами» Голдина – 16-й клуб НБА, за который сыграли наши. Где еще были баскетболисты из России?",
-    "description": "И где еще ждем?",
-    "fullText": "И где еще ждем?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/93/17326cfc746cfb17799a98c845ee4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3371934.html",
-    "time": "2025-12-21T10:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
