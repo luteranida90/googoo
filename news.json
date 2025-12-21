@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Токаев заявил о важности расширения взаимодействия ЕАЭС с глобальным Югом",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250623/8308161.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25981095",
+    "time": "2025-12-21T16:18:21.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "10 вопросов лучшему бомбардиру в истории «Металлурга»",
     "description": "Смотрите на ВидеоСпортсе’‘.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Астон Вилла» – фаворит против «МЮ», но 3 года не выигрывает очные матчи. Победная серия под угрозой?",
-    "description": "Зато будет много голов.",
-    "fullText": "Зато будет много голов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/76/5602bfaf247eaa013087402eed8d9.jpeg",
+    "title": "Сборные Марокко выиграли 6 турниров за 3 года. Плоды развития футбола",
+    "description": "Увозили медаль и с Олимпиады.",
+    "fullText": "Увозили медаль и с Олимпиады.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/39/98f68e08b47fda2929d33c406cb99.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3371936.html",
-    "time": "2025-12-21T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3371874.html",
+    "time": "2025-12-21T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4544973-hideokodzima-o-ii-v-kojimaproductions?from=rss",
     "time": "2025-12-19T20:22:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
