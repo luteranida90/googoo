@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: Путин хорошо знает Эрмитаж и дополнял рассказ для лидеров СНГ",
-    "description": "Пресс-секретарь главы государства отметил, что формат, при котором саммит СНГ проходит в музее, был использован впервые",
-    "fullText": "Пресс-секретарь главы государства отметил, что формат, при котором саммит СНГ проходит в музее, был использован впервые",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250113/8004219.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/25990739",
-    "time": "2025-12-22T15:56:05.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В гараже Криша больше 12 машин дороже миллиона евро. Правда или ложь?",
     "description": "Разбираетесь в люксе?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«По мне писали научные работы». Васкулит – редкая болезнь Ирины Слуцкой",
-    "description": "История со счастливым финалом.",
-    "fullText": "История со счастливым финалом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/17/f3bbbe1804f838b630ecd9f5daf93.png",
+    "title": "",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3370201.html",
-    "time": "2025-12-22T12:25:00.000Z"
+    "url": "https://www.sports.ru/football/1117019928.html",
+    "time": "2025-12-22T12:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4550134-obliki-betmena-i-dzhokera-v-fortnite-iz-betmena-budushchego?from=rss",
     "time": "2025-12-22T11:20:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
