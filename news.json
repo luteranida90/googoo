@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Девочка, которую отец выбросил из окна, вернулась в Уфу на реабилитацию",
-    "description": "Запланированы плановые консультации невролога, офтальмолога, ортопеда и хирурга",
-    "fullText": "Запланированы плановые консультации невролога, офтальмолога, ортопеда и хирурга",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/25984313",
-    "time": "2025-12-22T07:03:49.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Одна из машинок мультика «Тачки» названа в честь легенды «Формулы-1»",
     "description": "И еще 11 фактов об автоспорте в новом тесте.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Железный Бруну сломался. В это очень сложно поверить",
-    "description": "Третья травма в карьере.",
-    "fullText": "Третья травма в карьере.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ac/c1bd5dd7c4c48804d4d6705daed4a.jpeg",
+    "title": "Петр Гуменник – фигурист здорового человека",
+    "description": "Репортаж о первой победе на ЧР.",
+    "fullText": "Репортаж о первой победе на ЧР.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/68/859b7332b45cc9f44e46a41c4b01b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372253.html",
-    "time": "2025-12-21T19:50:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3372207.html",
+    "time": "2025-12-21T19:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4546028-gonka-stalnoy-shar?from=rss",
     "time": "2025-12-20T10:36:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
