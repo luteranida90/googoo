@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Премьер Армении поделился видеоселфи с видом на Исаакиевский собор",
-    "description": "На фоне видеоселфи играет песня \"Дождись\" Олега Газманова в исполнении Uma2rman",
-    "fullText": "На фоне видеоселфи играет песня \"Дождись\" Олега Газманова в исполнении Uma2rman",
+    "title": "Возведенный \"Метростроем\" спорткомплекс в Петербурге передали государству",
+    "description": "Комплекс построили почти за 1,3 млрд рублей",
+    "fullText": "Комплекс построили почти за 1,3 млрд рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25985059",
-    "time": "2025-12-22T08:19:39.000Z"
+    "url": "https://tass.ru/proisshestviya/25985369",
+    "time": "2025-12-22T08:39:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Большунов все чаще срывается и винит всех вокруг. Вот почему это происходит",
+    "description": "Разбирается Владимир Иванов.",
+    "fullText": "Разбирается Владимир Иванов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1f/9352992d2436b96776d18140cbac2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skiing/blogs/3372101.html",
+    "time": "2025-12-21T21:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-21T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Смешно и несправедливо». «Барса» не понимает, как Рафинья не попал в сборную года от ФИФА",
-    "description": "Прокатили везде.",
-    "fullText": "Прокатили везде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/81/4a1f535924114b06b6279b55a8cff.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372107.html",
-    "time": "2025-12-21T21:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я пересеку континент и стану победителем»: трейлер аниме «Гонка „Стальной шар“» — седьмой части «Невероятных приключений ДжоДжо»",
-    "description": "Сериал стартует 19 марта 2026 года — с 47-минутного эпизода.",
-    "fullText": "Сериал стартует 19 марта 2026 года — с 47-минутного эпизода.",
-    "image": "https://leonardo.osnova.io/ab6b257f-f1d8-5519-bd07-7dcadc8c16b6/-/format/mp4/",
+    "title": "Лучшие сериалы 2025 года по версии пользователей DTF — заключительный этап",
+    "description": "В шорт-лист вошло десять шоу — от приквела «Оно» до «Миротворца».",
+    "fullText": "В шорт-лист вошло десять шоу — от приквела «Оно» до «Миротворца».",
+    "image": "https://leonardo.osnova.io/1b23960b-3040-59ef-b4f5-287a32f1f19c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/4546028-gonka-stalnoy-shar?from=rss",
-    "time": "2025-12-20T10:36:35.000Z"
+    "url": "https://dtf.ru/cinema/4546256-luchshie-serialy-2025-goda-po-versii-dtf?from=rss",
+    "time": "2025-12-20T13:30:20.000Z"
   }
 ]
