@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Допбаллы для абитуриентов из Движения первых предоставят еще пять вузов ДНР",
-    "description": "Всего в республике существуют более 70 школьных Отрядов добра, которые помогают маломобильным людям",
-    "fullText": "Всего в республике существуют более 70 школьных Отрядов добра, которые помогают маломобильным людям",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Мишустин поручил привести в порядок дорогу из Сыктывкара в Нарьян-Мар",
+    "description": "Это важно для жителей Республики Коми, сообщил глава кабмина РФ",
+    "fullText": "Это важно для жителей Республики Коми, сообщил глава кабмина РФ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241223/7980949.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25989627",
-    "time": "2025-12-22T14:01:00.000Z"
+    "url": "https://tass.ru/obschestvo/25989991",
+    "time": "2025-12-22T14:26:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Хотите расслабиться за 5 минут без соцсетей? Попробуйте вытащить капибару из нашего автомата",
+    "description": "И выигрывайте новогодние подарки!",
+    "fullText": "И выигрывайте новогодние подарки!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/78/d5e0bf7634e9189bae855dd109e02.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/57bpx7",
+    "time": "2025-12-22T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2025-12-22T09:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из звездных легионеров «Анжи» забивал в финале FONBET Кубка России?",
-    "description": "За правильный ответ – телевизор!",
-    "fullText": "За правильный ответ – телевизор!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/90/4a484e5604e5993fd9f83fc73b63c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-12-22T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Аватар: Пламя и пепел» собрал за первые выходные 345 миллионов долларов",
-    "description": "Один из лучших результатов 2025 года, но заметно меньше сиквела.",
-    "fullText": "Один из лучших результатов 2025 года, но заметно меньше сиквела.",
-    "image": "https://leonardo.osnova.io/668f07db-e325-51af-877b-ed8d1ba0be6c/",
+    "title": "Продажи серии Octopath Traveler достигли шести миллионов копий",
+    "description": "Первые две части сейчас продаются по скидке.",
+    "fullText": "Первые две части сейчас продаются по скидке.",
+    "image": "https://leonardo.osnova.io/e4e5de2e-005c-5b40-8a90-439f27cb4cd1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4548614-avatar-plamya-i-pepel?from=rss",
-    "time": "2025-12-21T16:53:28.000Z"
+    "url": "https://dtf.ru/gameindustry/4549603-octopath-traveler-prodano-shest-millionov-kopiy?from=rss",
+    "time": "2025-12-22T06:09:23.000Z"
   }
 ]
