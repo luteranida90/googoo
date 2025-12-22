@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Премьер Армении поделился видеоселфи с видом на Исаакиевский собор",
+    "description": "На фоне видеоселфи играет песня \"Дождись\" Олега Газманова в исполнении Uma2rman",
+    "fullText": "На фоне видеоселфи играет песня \"Дождись\" Олега Газманова в исполнении Uma2rman",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25985059",
+    "time": "2025-12-22T08:19:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Одна из машинок мультика «Тачки» названа в честь легенды «Формулы-1»",
     "description": "И еще 11 фактов об автоспорте в новом тесте.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Петр Гуменник – фигурист здорового человека",
-    "description": "Репортаж о первой победе на ЧР.",
-    "fullText": "Репортаж о первой победе на ЧР.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/68/859b7332b45cc9f44e46a41c4b01b.jpeg",
+    "title": "«Смешно и несправедливо». «Барса» не понимает, как Рафинья не попал в сборную года от ФИФА",
+    "description": "Прокатили везде.",
+    "fullText": "Прокатили везде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/81/4a1f535924114b06b6279b55a8cff.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3372207.html",
-    "time": "2025-12-21T19:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372107.html",
+    "time": "2025-12-21T21:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4546028-gonka-stalnoy-shar?from=rss",
     "time": "2025-12-20T10:36:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
