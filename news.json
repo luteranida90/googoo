@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Калужской области в ДТП на федеральной трассе погибли два человека",
-    "description": "Участок трассы А108 \"Московское большое кольцо\" перекрыт",
-    "fullText": "Участок трассы А108 \"Московское большое кольцо\" перекрыт",
+    "title": "Орбан: Европа встретит Рождество без войны",
+    "description": "Военная угроза не миновала, а за закрытыми дверями идет подготовка к войне с РФ, отметил премьер-министр Венгрии",
+    "fullText": "Военная угроза не миновала, а за закрытыми дверями идет подготовка к войне с РФ, отметил премьер-министр Венгрии",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25991601",
-    "time": "2025-12-22T19:27:33.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25991685",
+    "time": "2025-12-22T20:04:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лукомский про АПЛ, футбольные безумства, «Энфилд» изнутри. Главное на ВидеоСпортсе’‘",
+    "description": "И итоги 2025-го.",
+    "fullText": "И итоги 2025-го.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/92/02dc09765407abe7dd0893b9f2fad.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3372333.html",
+    "time": "2025-12-22T16:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-22T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Он – мой друг». Мбаппе повторил рекорд Роналду в «Реале» и посвятил Кришу",
-    "description": "В день рождения!",
-    "fullText": "В день рождения!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/5f/7c7ebbc974bb4a5102b6d61ef61c3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372305.html",
-    "time": "2025-12-22T15:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатели Roblox подали в России заявку на регистрацию товарного знака Robux",
-    "description": "Он связан с внутриигровой валютой.",
-    "fullText": "Он связан с внутриигровой валютой.",
-    "image": "https://leonardo.osnova.io/bc7725fc-ffb7-51a4-a43d-c502dff47338/",
+    "title": "Аниме «Гачиакута» продлили на второй сезон",
+    "description": "Также по тайтлу выпустят экшен-RPG с элементами «выживача».",
+    "fullText": "Также по тайтлу выпустят экшен-RPG с элементами «выживача».",
+    "image": "https://leonardo.osnova.io/aa28a693-33d9-51c4-ae21-526cab5a64b8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4550260-roblox-zayavka-na-tovarnyy-znak-robux-v-rossii?from=rss",
-    "time": "2025-12-22T12:16:34.000Z"
+    "url": "https://dtf.ru/anime/4550438-anime-gachiakuta-vtoroy-sezon-i-anons-igry?from=rss",
+    "time": "2025-12-22T14:28:49.000Z"
   }
 ]
