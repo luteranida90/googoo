@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Полпред президента в ЦФО призвал деятелей культуры продвигать семейные ценности",
+    "description": "Эта тема нашла отражение в конкурсных проектах, представленных на соискание премии Центрального федерального округа в области литературы и искусства",
+    "fullText": "Эта тема нашла отражение в конкурсных проектах, представленных на соискание премии Центрального федерального округа в области литературы и искусства",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/25990997",
+    "time": "2025-12-22T16:43:43.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В гараже Криша больше 12 машин дороже миллиона евро. Правда или ложь?",
     "description": "Разбираетесь в люксе?",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "«Воздушных поцелуев он мне не шлет – это уже после игры». Как проживают дни матчей семьи игроков КХЛ?",
+    "description": "Узнали вместе с Кинопоиском.",
+    "fullText": "Узнали вместе с Кинопоиском.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/5d/47033513741e99e526866f0cf88a6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/1117019928.html",
-    "time": "2025-12-22T12:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3371026.html",
+    "time": "2025-12-22T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Fortnite появились облики из «Бэтмена будущего»",
-    "description": "Предметы можно купить отдельно и бандлом по цене 2800 В-баксов.",
-    "fullText": "Предметы можно купить отдельно и бандлом по цене 2800 В-баксов.",
-    "image": "https://leonardo.osnova.io/5d2140d7-6d83-5c36-b396-482c09a10931/",
+    "title": "«Глядите, не безобразничайте!»: второй трейлер игровой экранизации «Сказки о царе Салтане»",
+    "description": "Фильм, основанный на произведении А.С. Пушкина, выйдет в российских кинотеатрах 12 февраля 2026 года.",
+    "fullText": "Фильм, основанный на произведении А.С. Пушкина, выйдет в российских кинотеатрах 12 февраля 2026 года.",
+    "image": "https://leonardo.osnova.io/52d50844-07b0-5b36-9563-7707240042f0/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4550134-obliki-betmena-i-dzhokera-v-fortnite-iz-betmena-budushchego?from=rss",
-    "time": "2025-12-22T11:20:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4550058-vtoroy-treyler-ekranizatsii-skazki-o-tsare-saltane?from=rss",
+    "time": "2025-12-22T10:34:56.000Z"
   }
 ]
