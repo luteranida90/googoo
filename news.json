@@ -1,46 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Петербурге разработали катализатор для водородных заправочных станций",
-    "description": "Разработка позволит развивать водородную заправочную инфраструктуру вдоль автотрасс, в промышленных зонах и логистических центрах",
-    "fullText": "Разработка позволит развивать водородную заправочную инфраструктуру вдоль автотрасс, в промышленных зонах и логистических центрах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/25997049",
-    "time": "2025-12-23T11:16:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Всего двое играли за «Барсу» и «Реал» в этом веке. Вспомните их?",
-    "description": "Не Фигу.",
-    "fullText": "Не Фигу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ab/81391f7c44bd79918a072724a2e2c.png",
+    "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
+    "description": "Творчество и работа человека-эпохи.",
+    "fullText": "Творчество и работа человека-эпохи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/34/8ccbd32d34cfbb8607f8a80d481f6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-23T07:00:00.000Z"
+    "url": "https://sirena.sports.ru/utkin-legacy/?utm_source=sports&utm_medium=editorial&utm_campaign=utkin&utm_content=supertop",
+    "time": "2025-12-23T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Новый год буду встречать с мамой и котом». Егор Дёмин придумал конкурс для всех",
-    "description": "Новый пост в блоге.",
-    "fullText": "Новый пост в блоге.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/0e/8196da15c42049b1c0054b5383417.jpeg",
+    "title": "2001-2025. Лучшее, что было в нашем хоккее за четверть века",
+    "description": "25 поводов гордиться.",
+    "fullText": "25 поводов гордиться.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/3a/09584c4f34d0ba531ba47e9d226b4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3372021.html",
-    "time": "2025-12-23T06:45:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3371683.html",
+    "time": "2025-12-23T07:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Слово пацана» — главный российский сериал 2020-х по мнению представителей индустрии",
-    "description": "«Перевал Дятлова» и «Вампиры средней полосы» вошли в десятку.",
-    "fullText": "«Перевал Дятлова» и «Вампиры средней полосы» вошли в десятку.",
-    "image": "https://leonardo.osnova.io/6e4afa2c-27e1-5b6f-ba79-de12d9dd12a2/",
+    "title": "Появился первый трейлер «Одиссеи» Кристофера Нолана",
+    "description": "Релиз — в июле 2026-го.",
+    "fullText": "Релиз — в июле 2026-го.",
+    "image": "https://leonardo.osnova.io/2a64c682-3522-55a5-8d09-febe50fa2bd1/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4550385-slovo-patsana-top-rossiyskiy-serial?from=rss",
-    "time": "2025-12-22T13:55:48.000Z"
+    "url": "https://dtf.ru/cinema/4550467-pervyy-treiler-odissei-kristofe-ra-nolana?from=rss",
+    "time": "2025-12-22T14:09:30.000Z"
   }
 ]
