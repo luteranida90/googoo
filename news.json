@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фильм с Паттинсоном и Зендеей выйдет в прокат в РФ с названием \"Вот это драма!\"",
-    "description": "Фильм расскажет историю помолвленной пары, которая, накануне свадьбы, сталкивается с кризисом в отношениях из-за неожиданных событий в их совместной жизни",
-    "fullText": "Фильм расскажет историю помолвленной пары, которая, накануне свадьбы, сталкивается с кризисом в отношениях из-за неожиданных событий в их совместной жизни",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Росфинмониторинг внес активиста Юшкова в перечень террористов РФ",
+    "description": "Роман Юшков родом из Перми",
+    "fullText": "Роман Юшков родом из Перми",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251223/8701913.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/25998797",
-    "time": "2025-12-23T13:59:57.000Z"
+    "url": "https://tass.ru/obschestvo/25998987",
+    "time": "2025-12-23T14:23:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Игрок «Кливленда» грохнулся, дразня соперника. Момент – отражение всего сезона",
+    "description": "Томас Брайант летит в «Шактин».",
+    "fullText": "Томас Брайант летит в «Шактин».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/1d/b8df889c34159999cc2efef83a5c9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3372514.html",
+    "time": "2025-12-23T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-23T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "От «женщины в футболе не работают» – к Коверчано и «Фиорентине». Интервью Марии Буровой о погоне за мечтой",
-    "description": "Спрашивала Любовь Курчавова.",
-    "fullText": "Спрашивала Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/65/45bb50a96411a94fe62a25d08d38c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371873.html",
-    "time": "2025-12-23T09:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Insider Gaming: изначальная версия следующего шутера Джона Ромеро была о сражениях священника с демонами",
-    "description": "Проектом занимаются уже почти десять лет.",
-    "fullText": "Проектом занимаются уже почти десять лет.",
-    "image": "https://leonardo.osnova.io/3dbab769-8e12-58c8-85a9-73eef623e1af/",
+    "title": "Авторы ремейка Yakuza 3 показали шесть минут геймплея",
+    "description": "Они напомнили, сколько побочных активностей ждёт фанатов в игре.",
+    "fullText": "Они напомнили, сколько побочных активностей ждёт фанатов в игре.",
+    "image": "https://leonardo.osnova.io/473a7ea3-abbe-53b7-bf5d-5e3fe44fd7fb/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4552027-shuter-dzhona-romero-srazheniya-svyashennika-s-demonami?from=rss",
-    "time": "2025-12-23T08:39:20.000Z"
+    "url": "https://dtf.ru/games/4551816-gejmplej-yakuza-kiwami-3?from=rss",
+    "time": "2025-12-23T06:54:23.000Z"
   }
 ]
