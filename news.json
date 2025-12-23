@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ивановской области регоператора по ТКО лишили статуса",
-    "description": "В регионе выберут нового оператора",
-    "fullText": "В регионе выберут нового оператора",
+    "title": "HBN: Турция создает командование своих ВВС в Сомали",
+    "description": "По словам министра национальной обороны Турции Яшара Гюлера, в распоряжении нового командования будут боевые вертолеты, истребители, самолеты военно-транспортной авиации",
+    "fullText": "По словам министра национальной обороны Турции Яшара Гюлера, в распоряжении нового командования будут боевые вертолеты, истребители, самолеты военно-транспортной авиации",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/25999707",
-    "time": "2025-12-23T16:12:34.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики Marvel Rivals подготовили масштабный план на 2026 год — в игру хотят добавить больше режимов",
-    "description": "В студии собираются дать аудитории больше вариативности.",
-    "fullText": "В студии собираются дать аудитории больше вариативности.",
-    "image": "https://leonardo.osnova.io/ed7cfef9-3110-50be-b684-f9f5e2269e0c/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4552652-marvel-rivals-novye-rezhimy-2026?from=rss",
-    "time": "2025-12-23T14:02:13.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/25999845",
+    "time": "2025-12-23T16:52:28.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я так больше никогда не сделаю». Уникальнейший пас Шэя – в историческом матче!",
-    "description": "Повторил за Кобе.",
-    "fullText": "Повторил за Кобе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/18/eecd2310449f98d4299f5afef351b.jpeg",
+    "title": "Поражение гильотиной – реально зашквар? Так считает главный тяж России",
+    "description": "«Это как в футболе пропустить между ног».",
+    "fullText": "«Это как в футболе пропустить между ног».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fb/dfe9fd6674a60bd192ad52840c521.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3372527.html",
-    "time": "2025-12-23T11:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3371496.html",
+    "time": "2025-12-23T12:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Акционеры одобрили продажу EA за 55 миллиардов долларов Суверенному фонду Саудовской Аравии",
+    "description": "По цене 210 долларов за акцию.",
+    "fullText": "По цене 210 долларов за акцию.",
+    "image": "https://leonardo.osnova.io/594599f0-0d6c-58ab-a71b-ec75a4737129/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4552137-prodazha-ea-za-55-milliardov-dollarov-suverennomu-fondu-saudovskoy-aravii?from=rss",
+    "time": "2025-12-23T09:33:03.000Z"
   }
 ]
