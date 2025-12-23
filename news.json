@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ARC Raiders вернулась на первую строчку чарта Steam среди платных игр, Baldur&#039;s Gate 3 заняла четвёртую позицию",
-    "description": "Path of Exile 2 и Elden Ring попали в топ-10.",
-    "fullText": "Path of Exile 2 и Elden Ring попали в топ-10.",
-    "image": "https://leonardo.osnova.io/6253f625-e024-5789-a45b-188cad3bf352/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4552806-arc-raiders-pervoe-mesto-steam?from=rss",
-    "time": "2025-12-23T15:08:53.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На польско-российской границе образовались многокилометровые очереди",
-    "description": "Транспортный поток увеличился из-за новогодних праздников",
-    "fullText": "Транспортный поток увеличился из-за новогодних праздников",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251223/8702191.jpg",
+    "title": "В Москве утвердили пять проектов КРТ для реализации программы реновации",
+    "description": "Постановления по данным вопросам подписал мэр Москвы Сергей Собянин",
+    "fullText": "Постановления по данным вопросам подписал мэр Москвы Сергей Собянин",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/25999231",
-    "time": "2025-12-23T15:01:02.000Z"
+    "url": "https://tass.ru/ekonomika/25999399",
+    "time": "2025-12-23T15:17:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -42,5 +31,16 @@
     "category": "all",
     "url": "https://www.sports.ru/tennis/blogs/3371144.html",
     "time": "2025-12-23T11:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Bloober Team о своём эксклюзиве для Nintendo: «В игре окажется то, чего другие хорроры не касались»",
+    "description": "Глава студии надеется, что детали Project M смогут раскрыть уже скоро.",
+    "fullText": "Глава студии надеется, что детали Project M смогут раскрыть уже скоро.",
+    "image": "https://leonardo.osnova.io/be734ec4-d40f-5277-a428-083427b3779f/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4551942-bloober-team-o-project-m-dlya-nintendo-unikalnyj-horror?from=rss",
+    "time": "2025-12-23T08:06:50.000Z"
   }
 ]
