@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В «цифре» вышел «Нюрнберг» — исторический фильм с Расселом Кроу и Рами Малеком о суде над немецкими военными преступниками",
+    "description": "У ленты хорошие оценки от зрителей — 7,5 балла из 10 на IMDb.",
+    "fullText": "У ленты хорошие оценки от зрителей — 7,5 балла из 10 на IMDb.",
+    "image": "https://leonardo.osnova.io/69e3e109-f32e-53fe-aeee-17eb20414c7e/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4552637-v-cifre-vyshel-nyurnberg-istoricheskii-film-s-rasselom-krou-i-rami-malekom-o-sude-nad-nemeckimi-voennymi-prestupnikami?from=rss",
+    "time": "2025-12-23T13:26:45.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Центр памяти Василия Уткина. Мультимедийный проект Спортса”",
     "description": "Творчество и работа человека-эпохи.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "2001-2025. Лучшее, что было в нашем хоккее за четверть века",
-    "description": "25 поводов гордиться.",
-    "fullText": "25 поводов гордиться.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/3a/09584c4f34d0ba531ba47e9d226b4.jpeg",
+    "title": "Сборная ЦСКА за 25 лет: Марио, Дзагоев, Вагнер. Тренер – Газзаев",
+    "description": "Версия Дениса Романцова.",
+    "fullText": "Версия Дениса Романцова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/31/ac61768584b67b24e1420421d56de.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3371683.html",
-    "time": "2025-12-23T07:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372396.html",
+    "time": "2025-12-23T08:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Появился первый трейлер «Одиссеи» Кристофера Нолана",
-    "description": "Релиз — в июле 2026-го.",
-    "fullText": "Релиз — в июле 2026-го.",
-    "image": "https://leonardo.osnova.io/2a64c682-3522-55a5-8d09-febe50fa2bd1/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4550467-pervyy-treiler-odissei-kristofe-ra-nolana?from=rss",
-    "time": "2025-12-22T14:09:30.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
