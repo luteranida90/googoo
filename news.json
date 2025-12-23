@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Во Владивосток после дальнего похода вернулся корвет \"Гремящий\"",
-    "description": "Судно в составе отряда кораблей флота приняло участие в российско-мьянманских военно-морских учениях \"Марумекс-2025\"",
-    "fullText": "Судно в составе отряда кораблей флота приняло участие в российско-мьянманских военно-морских учениях \"Марумекс-2025\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/25992513",
-    "time": "2025-12-23T00:04:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "26 главных фильмов 2026 года",
     "description": "Заносим в календарь.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4550438-anime-gachiakuta-vtoroy-sezon-i-anons-igry?from=rss",
     "time": "2025-12-22T14:28:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
