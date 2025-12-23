@@ -1,14 +1,47 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Аль-Иттихад» Бензема бьется за плей-офф ЛЧ – следим в совместной трансляции с ТВ Старт",
+    "description": "Соперник – «Насаф» с последнего места.",
+    "fullText": "Соперник – «Насаф» с последнего места.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/5d/f67ed089f420f8eaf034cac2ba9b0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/oakOvdiF4rwhYXM3mGQEKwenpY9rm4fFaQIw9k8Y6Kk",
+    "time": "2025-12-23T18:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Небензя назвал \"переобуванием в воздухе\" реакцию \"евротройки\" по Ирану",
-    "description": "Поддержка ударов Израиля и США по Ирану стала верхом лицемерия со стороны \"евротройки\", указал постоянный представитель России при ООН",
-    "fullText": "Поддержка ударов Израиля и США по Ирану стала верхом лицемерия со стороны \"евротройки\", указал постоянный представитель России при ООН",
+    "title": "Пытавшуюся купить младенца жительницу Карачаево-Черкесии арестовали",
+    "description": "По данным следствия, женщина собиралась заплатить за ребенка 500 тыс. рублей",
+    "fullText": "По данным следствия, женщина собиралась заплатить за ребенка 500 тыс. рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/25999947",
-    "time": "2025-12-23T17:09:19.000Z"
+    "url": "https://tass.ru/proisshestviya/26000107",
+    "time": "2025-12-23T17:59:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Умер автор The Road to Hell Крис Ри. Он менял колесо на пит-стопе «Ф-1» и написал песню на гибель Сенны",
+    "description": "Ему было 74.",
+    "fullText": "Ему было 74.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/88/4abb3f14b4756b239be7577f87900.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3372521.html",
+    "time": "2025-12-23T14:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Тираж Buckshot Roulette превысил восемь миллионов копий",
+    "description": "Речь идёт о продажах в Steam, так как на консолях азартный хоррор ещё не вышел.",
+    "fullText": "Речь идёт о продажах в Steam, так как на консолях азартный хоррор ещё не вышел.",
+    "image": "https://leonardo.osnova.io/98d3f698-7c98-5524-9278-777843fdc73d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4552691-buckshot-roulette-prodazhi-vosem-millionov?from=rss",
+    "time": "2025-12-23T14:09:02.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-23T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Динамо» оставило Гусева главным. Будет в связке с Газзаевым",
-    "description": "Шанс для Ролана.",
-    "fullText": "Шанс для Ролана.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f9/08e71b35744fab825d36862706c9e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372525.html",
-    "time": "2025-12-23T12:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Акционеры одобрили продажу EA за 55 миллиардов долларов Суверенному фонду Саудовской Аравии",
-    "description": "По цене 210 долларов за акцию.",
-    "fullText": "По цене 210 долларов за акцию.",
-    "image": "https://leonardo.osnova.io/594599f0-0d6c-58ab-a71b-ec75a4737129/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4552137-prodazha-ea-za-55-milliardov-dollarov-suverennomu-fondu-saudovskoy-aravii?from=rss",
-    "time": "2025-12-23T09:33:03.000Z"
   }
 ]
