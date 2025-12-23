@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин говорил Бушу, что включение Украины в НАТО приведет к конфликту РФ и США",
+    "description": "Президент РФ подчеркнул, что это создаст угрозу появления в непосредственной близости к России военных баз и различных систем вооружения Североатлантического альянса",
+    "fullText": "Президент РФ подчеркнул, что это создаст угрозу появления в непосредственной близости к России военных баз и различных систем вооружения Североатлантического альянса",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250117/8012237.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26000187",
+    "time": "2025-12-23T18:18:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Аль-Иттихад» Бензема бьется за плей-офф ЛЧ – следим в совместной трансляции с ТВ Старт",
     "description": "Соперник – «Насаф» с последнего места.",
@@ -11,47 +22,25 @@
     "time": "2025-12-23T18:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пытавшуюся купить младенца жительницу Карачаево-Черкесии арестовали",
-    "description": "По данным следствия, женщина собиралась заплатить за ребенка 500 тыс. рублей",
-    "fullText": "По данным следствия, женщина собиралась заплатить за ребенка 500 тыс. рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26000107",
-    "time": "2025-12-23T17:59:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Умер автор The Road to Hell Крис Ри. Он менял колесо на пит-стопе «Ф-1» и написал песню на гибель Сенны",
-    "description": "Ему было 74.",
-    "fullText": "Ему было 74.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/88/4abb3f14b4756b239be7577f87900.jpeg",
+    "title": "Лучший спортсмен мира-2025. Большое голосование Спортса’‘",
+    "description": "И тут есть наши!",
+    "fullText": "И тут есть наши!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/0f/75fb17ac04ba7bd35e0b101fb7a32.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3372521.html",
-    "time": "2025-12-23T14:20:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3368219.html",
+    "time": "2025-12-23T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Тираж Buckshot Roulette превысил восемь миллионов копий",
-    "description": "Речь идёт о продажах в Steam, так как на консолях азартный хоррор ещё не вышел.",
-    "fullText": "Речь идёт о продажах в Steam, так как на консолях азартный хоррор ещё не вышел.",
-    "image": "https://leonardo.osnova.io/98d3f698-7c98-5524-9278-777843fdc73d/",
+    "title": "«Они немного устарели»: Свен Винке назвал «необязательным» прохождение старых игр для понимания Divinity",
+    "description": "Но порекомендовал фанатам Baldur's Gate 3 попробовать Original Sin 2.",
+    "fullText": "Но порекомендовал фанатам Baldur's Gate 3 попробовать Original Sin 2.",
+    "image": "https://leonardo.osnova.io/2c576847-9b4d-598d-a750-4e80795c020e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4552691-buckshot-roulette-prodazhi-vosem-millionov?from=rss",
-    "time": "2025-12-23T14:09:02.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Всего двое играли за «Барсу» и «Реал» в этом веке. Вспомните их?",
-    "description": "Не Фигу.",
-    "fullText": "Не Фигу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ab/81391f7c44bd79918a072724a2e2c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2025-12-23T14:00:00.000Z"
+    "url": "https://dtf.ru/games/4552255-sven-vinke-ne-obazatelno-igrat-v-starye-divinity?from=rss",
+    "time": "2025-12-23T11:06:41.000Z"
   }
 ]
