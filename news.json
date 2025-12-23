@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Экс-боевика из ЛНР приговорили к 5,5 года колонии за военные преступления",
-    "description": "Мужчина воевал в составе украинского националистического батальона",
-    "fullText": "Мужчина воевал в составе украинского националистического батальона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Мишустин поручил Росприроднадзору активнее внедрять информтехнологии",
+    "description": "В том числе речь идет об ИИ, отметил премьер-министр РФ",
+    "fullText": "В том числе речь идет об ИИ, отметил премьер-министр РФ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241223/7980949.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/25994257",
-    "time": "2025-12-23T07:07:21.000Z"
+    "url": "https://tass.ru/ekonomika/25994535",
+    "time": "2025-12-23T07:32:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У «Наполи» – третий Суперкубок, а у Конте – десятый трофей в карьере. Нерес затащил финал",
+    "description": "«Болонья» не сдержала.",
+    "fullText": "«Болонья» не сдержала.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ce/e8377eb81409ba013b9e60c81a3b2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3372479.html",
+    "time": "2025-12-22T21:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2025-12-22T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "26 главных фильмов 2026 года",
-    "description": "Заносим в календарь.",
-    "fullText": "Заносим в календарь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/9b/868b8d9234f838d1115b353a352b3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3369412.html",
-    "time": "2025-12-22T21:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Спортс’’ выпустил свой журнал! Объясняем, зачем нам это в 2025-м",
-    "description": "Вы уже можете его заказать.",
-    "fullText": "Вы уже можете его заказать.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/7a/cf1a2a6e7446ba902d7ac5323a6c1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372325.html",
-    "time": "2025-12-22T20:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Сезон испорчен»: геймдизайнер Obsidian упрекнул «Очень странные дела» за ошибки в правилах D&D",
-    "description": "«Старики всё заметят».",
-    "fullText": "«Старики всё заметят».",
-    "image": "https://leonardo.osnova.io/f1ec9a58-43a8-5507-a4d0-01fad8212ba1/",
+    "title": "В EGS началась раздача детективной адвенчуры Paradise Killer",
+    "description": "Игра доступна в российском регионе.",
+    "fullText": "Игра доступна в российском регионе.",
+    "image": "https://leonardo.osnova.io/5948131a-2639-596e-a1db-a1d460532a39/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4549978-oshibki-v-pravilakh-dnd-v-ochen-strannykh-delakh?from=rss",
-    "time": "2025-12-22T10:36:04.000Z"
+    "url": "https://dtf.ru/games/4550838-razdacha-igry-paradise-killer-v-egs-dlya-rossii?from=rss",
+    "time": "2025-12-22T17:20:38.000Z"
   }
 ]
