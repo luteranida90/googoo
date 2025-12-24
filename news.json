@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Меркачева передала Путину список осужденных для возможного помилования",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
+    "title": "Путин: удостоенными госнаград выдающимися россиянами гордится вся страна",
+    "description": "Глава государства отметил тех, кто смог добиться колоссальных высот в своем деле и удостоен звания Героя труда России",
+    "fullText": "Глава государства отметил тех, кто смог добиться колоссальных высот в своем деле и удостоен звания Героя труда России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033157.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26009473",
-    "time": "2025-12-24T14:01:22.000Z"
+    "url": "https://tass.ru/obschestvo/26009729",
+    "time": "2025-12-24T14:30:04.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2025-12-24T13:55:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Дёмин угомонил «Большое трио» «Филадельфии». Второй среди новичков по трехам",
+    "description": "Расцвел после критики.",
+    "fullText": "Расцвел после критики.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/18/4d6f1d6ec4d9cb581c845a7f0dfaa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3372763.html",
+    "time": "2025-12-24T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего двое играли за «Барсу» и «Реал» в этом веке. Вспомните их?",
     "description": "Не Фигу.",
@@ -33,25 +44,14 @@
     "time": "2025-12-24T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Умер автор The Road to Hell Крис Ри. Он менял колесо на пит-стопе «Ф-1» и написал песню на гибель Сенны",
-    "description": "Ему было 74.",
-    "fullText": "Ему было 74.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/88/4abb3f14b4756b239be7577f87900.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3372521.html",
-    "time": "2025-12-24T10:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игровая индустрия за 2025 год в цифрах: финансовые результаты, самые успешные тайтлы и обсуждаемые издатели",
-    "description": "Традиционная статистика от аналитиков.",
-    "fullText": "Традиционная статистика от аналитиков.",
-    "image": "https://leonardo.osnova.io/95c7a06c-87b4-51d6-969a-73ef11dc8434/",
+    "title": "Бывший художник Toys For Bob указал в резюме, что до весны 2024 года работал в студии над Spyro",
+    "description": "Следующую игру команды как раз издаст Xbox.",
+    "fullText": "Следующую игру команды как раз издаст Xbox.",
+    "image": "https://leonardo.osnova.io/2f4cb039-ea39-5893-89c6-6b3c5207c668/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4552912-igrovaya-industriya-2025-finansovye-rezultaty-i-uspeshnye-igry?from=rss",
-    "time": "2025-12-23T18:35:02.000Z"
+    "url": "https://dtf.ru/games/4554265-toys-for-bob-rabotali-nad-spyro-do-vesny-2024-goda?from=rss",
+    "time": "2025-12-24T09:51:15.000Z"
   }
 ]
