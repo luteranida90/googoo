@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Опубликовано видео первого полета самолета \"Байкал\" с российским двигателем",
+    "description": "Испытания проходят на аэродроме Уральского завода гражданской авиации",
+    "fullText": "Испытания проходят на аэродроме Уральского завода гражданской авиации",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26003911",
+    "time": "2025-12-24T07:15:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Что известно о новом фильме «Буратино»? Актеры, сюжет и связь с советским шедевром",
+    "description": "Все о главном мюзикле зимы.",
+    "fullText": "Все о главном мюзикле зимы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/5d/06b6163e24e66b6531c6a60460d9a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3372381.html",
+    "time": "2025-12-24T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "1-й европеец с «Харт Трофи» – россиянин. Помните, кто это?",
     "description": "Играл за «Детройт».",
@@ -22,36 +44,14 @@
     "time": "2025-12-23T20:27:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Бензема забил в четвертом матче подряд – теперь близко к плей-офф ЛЧ. Следили в совместной трансляции с ТВ Старт",
-    "description": "Обыграли «Насаф» с последнего места.",
-    "fullText": "Обыграли «Насаф» с последнего места.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/5d/f67ed089f420f8eaf034cac2ba9b0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/oakOvdiF4rwhYXM3mGQEKwenpY9rm4fFaQIw9k8Y6Kk",
-    "time": "2025-12-23T20:11:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Элли и Тотошка перед встречей с Гудвином — первый тизер «Волшебника Изумрудного города. Великий и ужасный»",
-    "description": "Релиз состоится 1 января 2027 года.",
-    "fullText": "Релиз состоится 1 января 2027 года.",
-    "image": "https://leonardo.osnova.io/acc581c1-9f03-5397-a6fc-31eab777e5ea/-/format/mp4/",
+    "title": "Remedy назвала Control Resonant своей самой крупной и амбициозной игрой",
+    "description": "Геймдиректор тем временем считает, что первая часть и сиквел — такие же «брат и сестра», как Джесси и Дилан.",
+    "fullText": "Геймдиректор тем временем считает, что первая часть и сиквел — такие же «брат и сестра», как Джесси и Дилан.",
+    "image": "https://leonardo.osnova.io/fa978580-300f-5b96-a229-89c87c1ce5c4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4552420-pervyy-tizer-filma-volshebnik-izumrudnogo-goroda?from=rss",
-    "time": "2025-12-23T11:48:56.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4552213-control-resonant-remedy-samaya-ambitsioznaya-igra-studii?from=rss",
+    "time": "2025-12-23T10:20:10.000Z"
   }
 ]
