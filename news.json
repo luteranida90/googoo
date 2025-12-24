@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Собянин: в метро Москвы начинают тестировать беспилотные технологии",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250526/8254489.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26008305",
-    "time": "2025-12-24T12:26:04.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего двое играли за «Барсу» и «Реал» в этом веке. Вспомните их?",
     "description": "Не Фигу.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Раскол в семье Бекхэмов: Бруклин заблокировал родителей и брата. Почему?",
-    "description": "Не поздравил отца даже с юбилеем.",
-    "fullText": "Не поздравил отца даже с юбилеем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9c/0e4bef3f74c4caa42e9e96a86bbbe.jpeg",
+    "title": "Гол-фантом «Вашингтона»: фантастический сэйв Шестеркина испортила линия ворот",
+    "description": "Только «Кэпиталс» это не помогло.",
+    "fullText": "Только «Кэпиталс» это не помогло.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/ba/ad7d90f994778ae2ef82562db7b8f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372175.html",
-    "time": "2025-12-24T08:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3372742.html",
+    "time": "2025-12-24T09:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4553006-squadron-42-polnostyu-gotova-k-prohodheniyu?from=rss",
     "time": "2025-12-23T16:53:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
