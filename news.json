@@ -1,14 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "После взрыва на юге Москвы проводятся оперативно-разыскные мероприятия",
-    "description": "Погибли двое сотрудников полиции",
-    "fullText": "Погибли двое сотрудников полиции",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "1-й европеец с «Харт Трофи» – россиянин. Помните, кто это?",
+    "description": "Играл за «Детройт».",
+    "fullText": "Играл за «Детройт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26003075",
-    "time": "2025-12-24T06:09:14.000Z"
+    "url": "https://sirena.world/b79iva",
+    "time": "2025-12-23T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как уберечь себя от покупки бесполезных лекарств? Сервисы для проверки препаратов",
+    "description": "Аптечку – на ревизию.",
+    "fullText": "Аптечку – на ревизию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/20/51ece1451481eb392a856696f4e28.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/health/blogs/3372337.html",
+    "time": "2025-12-23T20:27:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,28 +33,6 @@
     "time": "2025-12-23T20:11:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "От «женщины в футболе не работают» – к Коверчано и «Фиорентине». Интервью Марии Буровой о погоне за мечтой",
-    "description": "Спрашивала Любовь Курчавова.",
-    "fullText": "Спрашивала Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/65/45bb50a96411a94fe62a25d08d38c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371873.html",
-    "time": "2025-12-23T19:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Рекорд Овечкина и наши в НБА – вспомните то, без чего трудно представить 2025-й",
-    "description": "Фиксируем момент.",
-    "fullText": "Фиксируем момент.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ac/083403b0c4b889577a0629feab398.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/ezigr1",
-    "time": "2025-12-23T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Элли и Тотошка перед встречей с Гудвином — первый тизер «Волшебника Изумрудного города. Великий и ужасный»",
     "description": "Релиз состоится 1 января 2027 года.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4552420-pervyy-tizer-filma-volshebnik-izumrudnogo-goroda?from=rss",
     "time": "2025-12-23T11:48:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
