@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российский рынок акций закрылся снижением основных индексов",
-    "description": "Долларовый индекс РТС опустился до 1 092,43 пункта",
-    "fullText": "Долларовый индекс РТС опустился до 1 092,43 пункта",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Песков: переговоры по Украине должны вестись в закрытом режиме",
+    "description": "Bloomberg сообщал о якобы имеющихся у Москвы планах добиться изменений в опубликованном украинскими СМИ мирном плане из 20 пунктов",
+    "fullText": "Bloomberg сообщал о якобы имеющихся у Москвы планах добиться изменений в опубликованном украинскими СМИ мирном плане из 20 пунктов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250528/8259147.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26011023",
-    "time": "2025-12-24T17:08:29.000Z"
+    "url": "https://tass.ru/politika/26011151",
+    "time": "2025-12-24T17:35:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "СМИ: работу над мультсериалом по Final Fantasy IX возобновит новая французская студия",
+    "description": "Шоу выйдет в 2028 году и будет состоять из 13 серий.",
+    "fullText": "Шоу выйдет в 2028 году и будет состоять из 13 серий.",
+    "image": "https://leonardo.osnova.io/5d37dcf1-d9a4-54d8-aa5d-44ee7d70bf36/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4555166-multserial-po-final-fantasy-ix-vozobnovlyaet-novaya-studiya-vo-frantsii?from=rss",
+    "time": "2025-12-24T15:28:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Металлург» к юбилею запустил серию видео. Третий герой – Сергей Мозякин",
-    "description": "«Магнитогорск – это в первую очередь хоккейная команда».",
-    "fullText": "«Магнитогорск – это в первую очередь хоккейная команда».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9c/010ac46974ebaa46c4526c1b266fa.jpeg",
+    "title": "«Торпедо» якобы платило судьям − верите?",
+    "description": "Два арбитра признались.",
+    "fullText": "Два арбитра признались.",
+    "image": "https://photobooth.cdn.sports.ru/preset/poll/4/33/38d47556c453b919b303edf41dbee.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3372499.html",
-    "time": "2025-12-24T13:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Expedition 33 про использование ИИ: «Всё в этой игре сделано человеком»",
-    "description": "Разработчики экспериментировали с технологией в 2022 году, но быстро передумали.",
-    "fullText": "Разработчики экспериментировали с технологией в 2022 году, но быстро передумали.",
-    "image": "https://leonardo.osnova.io/4c5cc677-3388-5e23-8888-8377fb8607e4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4554076-ispolzovanie-ii-v-igre-expedition-33-vse-sdelano-chelovekom?from=rss",
-    "time": "2025-12-24T07:48:45.000Z"
+    "url": "https://www.sports.ru/football/poll/1117021846.html",
+    "time": "2025-12-24T13:30:00.000Z"
   }
 ]
