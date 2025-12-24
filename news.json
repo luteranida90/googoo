@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДНР при атаках ВСУ погиб человек",
-    "description": "Еще два получили ранения",
-    "fullText": "Еще два получили ранения",
+    "title": "ВСУ ведут обстрел Каменки-Днепровской",
+    "description": "В администрации Каменско-Днепровского муниципального округа сообщили, что зафиксировали не менее 24 ударов",
+    "fullText": "В администрации Каменско-Днепровского муниципального округа сообщили, что зафиксировали не менее 24 ударов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26011407",
-    "time": "2025-12-24T19:00:27.000Z"
+    "url": "https://tass.ru/armiya-i-opk/26011555",
+    "time": "2025-12-24T19:24:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-12-24T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: работу над мультсериалом по Final Fantasy IX возобновит новая французская студия",
-    "description": "Шоу выйдет в 2028 году и будет состоять из 13 серий.",
-    "fullText": "Шоу выйдет в 2028 году и будет состоять из 13 серий.",
-    "image": "https://leonardo.osnova.io/5d37dcf1-d9a4-54d8-aa5d-44ee7d70bf36/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4555166-multserial-po-final-fantasy-ix-vozobnovlyaet-novaya-studiya-vo-frantsii?from=rss",
-    "time": "2025-12-24T15:28:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сафонов правда подвинет Шевалье?",
-    "description": "Размышления Артема Денисова.",
-    "fullText": "Размышления Артема Денисова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/48/97358f7c14e1d85fbd7bf3edd5000.jpeg",
+    "title": "Сэйв «ударом скорпиона» в 59 – да, это снова Рене Игита!",
+    "description": "Повторил спустя 30 лет.",
+    "fullText": "Повторил спустя 30 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/84/83b38126e41479c95642161ec4a0c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372517.html",
-    "time": "2025-12-24T14:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372563.html",
+    "time": "2025-12-24T15:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Ты должен вернуться»: тизер полнометражного продолжения сериала «Острые козырьки»",
+    "description": "Криминальная Драма с Киллианом Мёрфи выйдет в марте 2026 года.",
+    "fullText": "Криминальная Драма с Киллианом Мёрфи выйдет в марте 2026 года.",
+    "image": "https://leonardo.osnova.io/5f8f44b7-5d72-5539-b669-b38c3665bf89/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4555050-polnometrazhnyj-film-ostrye-kozyrki-tizer-s-killianom-morfi?from=rss",
+    "time": "2025-12-24T14:06:57.000Z"
   }
 ]
