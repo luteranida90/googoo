@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Омской области мигрантам ограничат сферы трудовой деятельности",
-    "description": "Речь идет, в частности, об области производства медикаментов и детского питания",
-    "fullText": "Речь идет, в частности, об области производства медикаментов и детского питания",
+    "title": "В Орловской области отменили авиационную опасность",
+    "description": "Об этом сообщили в официальном приложении МЧС России",
+    "fullText": "Об этом сообщили в официальном приложении МЧС России",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26010683",
-    "time": "2025-12-24T16:18:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: работу над мультсериалом по Final Fantasy IX возобновит новая французская студия",
-    "description": "Шоу выйдет в 2028 году и будет состоять из 13 серий.",
-    "fullText": "Шоу выйдет в 2028 году и будет состоять из 13 серий.",
-    "image": "https://leonardo.osnova.io/5d37dcf1-d9a4-54d8-aa5d-44ee7d70bf36/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4555166-multserial-po-final-fantasy-ix-vozobnovlyaet-novaya-studiya-vo-frantsii?from=rss",
-    "time": "2025-12-24T15:28:12.000Z"
+    "url": "https://tass.ru/proisshestviya/26010815",
+    "time": "2025-12-24T16:43:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что вы пропустили в 17-м туре АПЛ: «Вилла» подколола «МЮ» на 62к лайков, Вольтемаде (198 см) встретил Крауча",
-    "description": "Пеп обещает махнуть на пляж.",
-    "fullText": "Пеп обещает махнуть на пляж.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/bc/540433c7b495daa778866b7c9adf2.jpeg",
+    "title": "Два ключевых закона 2025-го выжмут букмекеров. Это проблема всего спорта, а не только беттинга",
+    "description": "Колонка Максимилиана Алфимова.",
+    "fullText": "Колонка Максимилиана Алфимова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/12/8254ab61c4652af4388ee6b5d12d0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372343.html",
-    "time": "2025-12-24T12:40:00.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3372707.html",
+    "time": "2025-12-24T13:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Авторы Expedition 33 про использование ИИ: «Всё в этой игре сделано человеком»",
+    "description": "Разработчики экспериментировали с технологией в 2022 году, но быстро передумали.",
+    "fullText": "Разработчики экспериментировали с технологией в 2022 году, но быстро передумали.",
+    "image": "https://leonardo.osnova.io/4c5cc677-3388-5e23-8888-8377fb8607e4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4554076-ispolzovanie-ii-v-igre-expedition-33-vse-sdelano-chelovekom?from=rss",
+    "time": "2025-12-24T07:48:45.000Z"
   }
 ]
