@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В ДНР при атаках ВСУ погиб человек",
+    "description": "Еще два получили ранения",
+    "fullText": "Еще два получили ранения",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26011407",
+    "time": "2025-12-24T19:00:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из звездных легионеров «Анжи» забивал в финале FONBET Кубка России?",
     "description": "За правильный ответ – телевизор!",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/lno55y",
     "time": "2025-12-24T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В НовГУ создали виртуальный музей, где можно увидеть, каким был Ильмень 400 млн лет назад",
-    "description": "В проекте предусмотрено взаимодействие с объектами, что усиливает вовлеченность пользователя",
-    "fullText": "В проекте предусмотрено взаимодействие с объектами, что усиливает вовлеченность пользователя",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26011263",
-    "time": "2025-12-24T18:46:56.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -34,13 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Раскол в семье Бекхэмов: Бруклин заблокировал родителей и брата. Почему?",
-    "description": "Не поздравил отца даже с юбилеем.",
-    "fullText": "Не поздравил отца даже с юбилеем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9c/0e4bef3f74c4caa42e9e96a86bbbe.jpeg",
+    "title": "Сафонов правда подвинет Шевалье?",
+    "description": "Размышления Артема Денисова.",
+    "fullText": "Размышления Артема Денисова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/48/97358f7c14e1d85fbd7bf3edd5000.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372175.html",
-    "time": "2025-12-24T14:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372517.html",
+    "time": "2025-12-24T14:40:00.000Z"
   }
 ]
