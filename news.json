@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Урале направили 30 млн рублей для детей с диабетом и паллиативным пациентам",
-    "description": "На средства приобретут, в частности, приборы, способные облегчить дыхание и специальное высококалорийное белковое питание",
-    "fullText": "На средства приобретут, в частности, приборы, способные облегчить дыхание и специальное высококалорийное белковое питание",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251224/8705031.jpg",
+    "title": "Глава МИД Бельгии: Брюссель потрясен санкциями США против пяти граждан ЕС",
+    "description": "Максим Прево считает их неприемлемыми",
+    "fullText": "Максим Прево считает их неприемлемыми",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26009799",
-    "time": "2025-12-24T15:17:28.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26010597",
+    "time": "2025-12-24T16:04:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Продажи игр серии Danganronpa превысили десять миллионов копий",
+    "description": "Детективные визуальные новеллы выходят с 2010 года.",
+    "fullText": "Детективные визуальные новеллы выходят с 2010 года.",
+    "image": "https://leonardo.osnova.io/57683eeb-d04e-55cb-9e20-86ea0c9fa2f2/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4555218-prodazhi-danganronpa-10-millionov-kopiy?from=rss",
+    "time": "2025-12-24T15:43:52.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рейтинг капитанов «МЮ»: от Бруну и Магуйра до Видича и Кина",
-    "description": "Великие и случайные.",
-    "fullText": "Великие и случайные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/1a/adc3ae699431480d0470e747d6c19.png",
+    "title": "Что вы пропустили в 17-м туре АПЛ: «Вилла» подколола «МЮ» на 62к лайков, Вольтемаде (198 см) встретил Крауча",
+    "description": "Пеп обещает махнуть на пляж.",
+    "fullText": "Пеп обещает махнуть на пляж.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/bc/540433c7b495daa778866b7c9adf2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372555.html",
-    "time": "2025-12-24T12:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Dispatch позволят номинировать на TGA 2026, но сценаристы не уверены, что кто-то сделает это",
-    "description": "Так или иначе, авторы благодарны Джеффу Кили за то, что он поддержал игру в 2024 году.",
-    "fullText": "Так или иначе, авторы благодарны Джеффу Кили за то, что он поддержал игру в 2024 году.",
-    "image": "https://leonardo.osnova.io/54b55d6e-bcad-5a4d-91f7-44e1aceb08b6/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4554111-dispatch-i-the-game-awards-2026?from=rss",
-    "time": "2025-12-24T08:37:26.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372343.html",
+    "time": "2025-12-24T12:40:00.000Z"
   }
 ]
