@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: переговоры по Украине должны вестись в закрытом режиме",
-    "description": "Bloomberg сообщал о якобы имеющихся у Москвы планах добиться изменений в опубликованном украинскими СМИ мирном плане из 20 пунктов",
-    "fullText": "Bloomberg сообщал о якобы имеющихся у Москвы планах добиться изменений в опубликованном украинскими СМИ мирном плане из 20 пунктов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250528/8259147.jpg",
+    "title": "Умер актер Пэт Финн",
+    "description": "Он сыграл в сериалах \"Друзья\" и \"Доктор Хаус\"",
+    "fullText": "Он сыграл в сериалах \"Друзья\" и \"Доктор Хаус\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26011151",
-    "time": "2025-12-24T17:35:50.000Z"
+    "url": "https://tass.ru/kultura/26011257",
+    "time": "2025-12-24T18:16:21.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -22,6 +22,17 @@
     "time": "2025-12-24T15:28:12.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как эстетика гонок вдохновляет повседневную моду",
+    "description": "С трассы – на подиумы и улицы.",
+    "fullText": "С трассы – на подиумы и улицы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a8/efc50f9364cb3b2f991785fd4a09f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3363721.html",
+    "time": "2025-12-24T14:05:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Аватар: Пламя и пепел»: Джеймс Кэмерон готов сорвать кассу",
     "description": "Опять побьет все рекорды, несмотря на проблемы.",
@@ -31,16 +42,5 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3372371.html",
     "time": "2025-12-24T13:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Торпедо» якобы платило судьям − верите?",
-    "description": "Два арбитра признались.",
-    "fullText": "Два арбитра признались.",
-    "image": "https://photobooth.cdn.sports.ru/preset/poll/4/33/38d47556c453b919b303edf41dbee.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/poll/1117021846.html",
-    "time": "2025-12-24T13:30:00.000Z"
   }
 ]
