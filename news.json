@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Меркачева передала Путину список осужденных для возможного помилования",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26009473",
+    "time": "2025-12-24T14:01:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Аватар: Пламя и пепел»: Джеймс Кэмерон готов сорвать кассу",
+    "description": "Опять побьет все рекорды, несмотря на проблемы.",
+    "fullText": "Опять побьет все рекорды, несмотря на проблемы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/c8/cf78a334c4462817cfb615efd8c73.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3372371.html",
+    "time": "2025-12-24T13:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего двое играли за «Барсу» и «Реал» в этом веке. Вспомните их?",
     "description": "Не Фигу.",
@@ -11,47 +33,25 @@
     "time": "2025-12-24T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Правда, что Смолов забивал «Реалу» и «Барселоне»? Докажите, что знаете все о футболе",
-    "description": "Тест для знатоков.",
-    "fullText": "Тест для знатоков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/2b/919e063a74615a675f4bd8c2e0081.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/gol-game",
-    "time": "2025-12-24T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гол-фантом «Вашингтона»: фантастический сэйв Шестеркина испортила линия ворот",
-    "description": "Только «Кэпиталс» это не помогло.",
-    "fullText": "Только «Кэпиталс» это не помогло.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/ba/ad7d90f994778ae2ef82562db7b8f.jpeg",
+    "title": "Умер автор The Road to Hell Крис Ри. Он менял колесо на пит-стопе «Ф-1» и написал песню на гибель Сенны",
+    "description": "Ему было 74.",
+    "fullText": "Ему было 74.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/88/4abb3f14b4756b239be7577f87900.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3372742.html",
-    "time": "2025-12-24T09:15:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372521.html",
+    "time": "2025-12-24T10:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Крис Робертс заявил, что Squadron 42 уже полностью готова к прохождению",
-    "description": "Тем временем за 2025 год игроки провели в альфе Star Citizen более 64 миллионов часов.",
-    "fullText": "Тем временем за 2025 год игроки провели в альфе Star Citizen более 64 миллионов часов.",
-    "image": "https://leonardo.osnova.io/f846391b-655b-5ca9-8527-b28398ba031d/",
+    "title": "Игровая индустрия за 2025 год в цифрах: финансовые результаты, самые успешные тайтлы и обсуждаемые издатели",
+    "description": "Традиционная статистика от аналитиков.",
+    "fullText": "Традиционная статистика от аналитиков.",
+    "image": "https://leonardo.osnova.io/95c7a06c-87b4-51d6-969a-73ef11dc8434/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4553006-squadron-42-polnostyu-gotova-k-prohodheniyu?from=rss",
-    "time": "2025-12-23T16:53:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4552912-igrovaya-industriya-2025-finansovye-rezultaty-i-uspeshnye-igry?from=rss",
+    "time": "2025-12-23T18:35:02.000Z"
   }
 ]
