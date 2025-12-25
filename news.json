@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Киберспорт – наш главный спорт прямо сейчас",
+    "description": "Team Spirit как замена сборной.",
+    "fullText": "Team Spirit как замена сборной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/a9/8bfe456ee4c1b9ddb9294dd7f8b66.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3372816.html",
+    "time": "2025-12-25T18:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "РФС ведет переговоры о проведении матчей сборной с командами Венгрии и Китая",
+    "description": "Генеральный секретарь РФС Максим Митрофанов отметил, что по разным причинам пока не получается провести игры",
+    "fullText": "Генеральный секретарь РФС Максим Митрофанов отметил, что по разным причинам пока не получается провести игры",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251225/8708309.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26021207",
+    "time": "2025-12-25T17:52:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Торпедо» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
     "description": "Прямая трансляция Fonbet КХЛ.",
@@ -23,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дзюба скорее забьет за сборную в 2026-м, чем не забьет – такие вероятности. Важно для рекорда!",
-    "description": "А Кержаков вернется?",
-    "fullText": "А Кержаков вернется?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/4c/345a3ccab42d4be0da1f100e3552d.jpeg",
+    "title": "Что почитать на каникулах? Рекомендация Сергея Игнашевича",
+    "description": "«Название одной из книг набил на бутсы».",
+    "fullText": "«Название одной из книг набил на бутсы».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/92/0485b126b44cdbf10e281a2d2fec1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3372762.html",
-    "time": "2025-12-25T13:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372788.html",
+    "time": "2025-12-25T13:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4556683-gang-of-dragon-geympley-i-syuzhetnye-stseny-iz-kabuki-tyo?from=rss",
     "time": "2025-12-25T10:36:37.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
