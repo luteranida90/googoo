@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Волгоградской области отражают атаку БПЛА",
+    "description": "Пострадавших и повреждений нет",
+    "fullText": "Пострадавших и повреждений нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26021969",
+    "time": "2025-12-25T21:44:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите расслабиться за 5 минут без соцсетей? Попробуйте вытащить капибару из нашего автомата",
     "description": "И выигрывайте новогодние подарки!",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/57bpx7",
     "time": "2025-12-25T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Серове ликвидировали аварию в котельной",
-    "description": "Ситуация находится на контроле",
-    "fullText": "Ситуация находится на контроле",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26021919",
-    "time": "2025-12-25T21:26:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сказка в мотогонках: братья забрали первые два места ЧМ. Титаны Маркесы – в истории!",
-    "description": "На уровне сестер Уильямс и братьев Кличко!",
-    "fullText": "На уровне сестер Уильямс и братьев Кличко!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/da/62feb72804b7388cbbbfba2484a74.jpeg",
+    "title": "Сборная ЦСКА за 25 лет: Марио, Дзагоев, Вагнер. Тренер – Газзаев",
+    "description": "Версия Дениса Романцова.",
+    "fullText": "Версия Дениса Романцова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/31/ac61768584b67b24e1420421d56de.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3372004.html",
-    "time": "2025-12-25T17:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372396.html",
+    "time": "2025-12-25T17:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
