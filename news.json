@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Mehr: в Иране застрелен экс-начальник полиции афганской провинции Тахар",
-    "description": "Агентство отмечает, что неизвестные напали на бывшего полицейского сразу после того, как он покинул рабочее место на улице Вали-аср в Тегеране",
-    "fullText": "Агентство отмечает, что неизвестные напали на бывшего полицейского сразу после того, как он покинул рабочее место на улице Вали-аср в Тегеране",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26019943",
-    "time": "2025-12-25T14:32:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сафонов, режь!» Карпин с Матвеем приготовили оливье – кулинария на ВидеоСпортсе’‘",
     "description": "Пока обсуждали итоги года.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Зимний чемпион Первой лиги всегда выходит в РПЛ. У кого сейчас лучшие шансы?",
-    "description": "Оптимистично для «Факела».",
-    "fullText": "Оптимистично для «Факела».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/4b/9ceac307f4012a0bb9c0b4e89f968.jpeg",
+    "title": "Овечкин и в 40 лет невероятно хорош. А что с другими звездами в этом возрасте?",
+    "description": "Считаем голы и годы.",
+    "fullText": "Считаем голы и годы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/ec/29193be5e4a6e82aa3f2112073327.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3370390.html",
-    "time": "2025-12-25T10:05:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3370683.html",
+    "time": "2025-12-25T10:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Звезда «Очень странных дел» Ноа Шнапп заявил, что съёмки в сериале обеспечили его на всю жизнь: «О большем и мечтать нельзя»",
-    "description": "Актёр и его молодые коллеги получали по 875 тысяч долларов за работу над каждым из эпизодов пятого сезона.",
-    "fullText": "Актёр и его молодые коллеги получали по 875 тысяч долларов за работу над каждым из эпизодов пятого сезона.",
-    "image": "https://leonardo.osnova.io/8a4d7e0b-2fd4-5fed-9a11-df466bc0e394/",
+    "title": "Трейлер «Одиссеи» Кристофера Нолана собрал 121,4 миллиона просмотров за первые сутки — это рекорд для режиссёра",
+    "description": "«Оппенгеймер», предыдущая картина режиссёра, собрала за этот период в два раза меньше.",
+    "fullText": "«Оппенгеймер», предыдущая картина режиссёра, собрала за этот период в два раза меньше.",
+    "image": "https://leonardo.osnova.io/15cea18f-f2aa-585d-a1b7-4fb705dcb0dd/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4555206-noa-shnapp-o-syomkah-v-ochen-strannykh-delah?from=rss",
-    "time": "2025-12-24T15:52:42.000Z"
+    "url": "https://dtf.ru/cinema/4555631-treyler-odissei-kristofe-ra-nolana-sobral-rekordnye-1214-milliona-prosmotrov?from=rss",
+    "time": "2025-12-24T19:36:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
