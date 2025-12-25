@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава ФТАР Винокуров возглавит группу подготовки материалов к Совету по спорту",
-    "description": "Началась подготовка к очередному заседанию совета по спорту на тему \"О развитии системы физкультурных соревнований и спортивных мероприятий\"",
-    "fullText": "Началась подготовка к очередному заседанию совета по спорту на тему \"О развитии системы физкультурных соревнований и спортивных мероприятий\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26015027",
-    "time": "2025-12-25T08:35:52.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В нашем спецпроекте можно выиграть лучшую форму в истории по версии ESPN!",
     "description": "Или любую другую.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Камбэк Буркина-Фасо с вероятностью меньше процента! Спас незрячий на один глаз игрок",
-    "description": "Проигрывали до 90+5 – и победили.",
-    "fullText": "Проигрывали до 90+5 – и победили.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/1e/940a46a6c4d2da3551d6f90d3a0bf.jpeg",
+    "title": "25 лучших фильмов о спорте в XXI веке",
+    "description": "Пересматриваем и спорим вместе.",
+    "fullText": "Пересматриваем и спорим вместе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/bf/7d9028075420e95c98972223ad242.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3372838.html",
-    "time": "2025-12-25T03:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372591.html",
+    "time": "2025-12-25T04:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Геймдизайнер Bethesda считает Fallout 4 «самой реиграбельной» частью серии",
-    "description": "Благодаря влиянию выбора фракции на основной сюжет.",
-    "fullText": "Благодаря влиянию выбора фракции на основной сюжет.",
-    "image": "https://leonardo.osnova.io/f48f8992-6969-53d0-becc-3d789bc7963a/",
+    "title": "Разработчики игр и киностудии поздравили поклонников с наступающими праздниками",
+    "description": "Новая партия новогодних открыток.",
+    "fullText": "Новая партия новогодних открыток.",
+    "image": "https://leonardo.osnova.io/03061fed-49ea-54bb-bf98-ec46e83802fb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4554247-fallout-4-gejm-dizajner-bethesda-o-reigrobnosti-igry?from=rss",
-    "time": "2025-12-24T10:15:19.000Z"
+    "url": "https://dtf.ru/gameindustry/4555033-igrovye-kompanii-i-studii-animacii-pozdravlyayut-s-prazdnikami?from=rss",
+    "time": "2025-12-24T14:41:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
