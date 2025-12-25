@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Козлов исполнит мечты четырех детей в рамках \"Елки желаний\"",
+    "description": "Григорий из Зеленограда и его сестра мечтают увидеть закулисье передачи \"Спокойной ночи, малыши!\"",
+    "fullText": "Григорий из Зеленограда и его сестра мечтают увидеть закулисье передачи \"Спокойной ночи, малыши!\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26014753",
+    "time": "2025-12-25T08:09:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В нашем спецпроекте можно выиграть лучшую форму в истории по версии ESPN!",
     "description": "Или любую другую.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Символическая сборная «Реала» за 25 лет. В защите Варан, в воротах не Касильяс",
-    "description": "Только легенды.",
-    "fullText": "Только легенды.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e6/4d5a013604229835eef27547285ef.jpeg",
+    "title": "Сборная России на МЧМ-2026: какой она могла бы быть",
+    "description": "Версия Алексея Белова.",
+    "fullText": "Версия Алексея Белова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ef/391b37c254160aa1787c81db52723.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3371962.html",
-    "time": "2025-12-24T21:47:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3372427.html",
+    "time": "2025-12-25T03:02:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Что происходит?»: первый тизер фильма по «Смешарикам»",
-    "description": "Прокат стартует в августе 2026-го.",
-    "fullText": "Прокат стартует в августе 2026-го.",
-    "image": "https://leonardo.osnova.io/c30f82d5-83d0-52f4-8dd9-f88c3a6664d9/-/format/mp4/",
+    "title": "Геймдизайнер Bethesda считает Fallout 4 «самой реиграбельной» частью серии",
+    "description": "Благодаря влиянию выбора фракции на основной сюжет.",
+    "fullText": "Благодаря влиянию выбора фракции на основной сюжет.",
+    "image": "https://leonardo.osnova.io/f48f8992-6969-53d0-becc-3d789bc7963a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4554275-smeshariki-skvoz-vselennye-tizer-filma?from=rss",
-    "time": "2025-12-24T09:57:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4554247-fallout-4-gejm-dizajner-bethesda-o-reigrobnosti-igry?from=rss",
+    "time": "2025-12-24T10:15:19.000Z"
   }
 ]
