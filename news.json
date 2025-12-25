@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Защитники Отечества\" начнут помогать действующим военным с инвалидностью",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26020387",
+    "time": "2025-12-25T15:23:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сафонов, режь!» Карпин с Матвеем приготовили оливье – кулинария на ВидеоСпортсе’‘",
     "description": "Пока обсуждали итоги года.",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Трейлер «Одиссеи» Кристофера Нолана собрал 121,4 миллиона просмотров за первые сутки — это рекорд для режиссёра",
-    "description": "«Оппенгеймер», предыдущая картина режиссёра, собрала за этот период в два раза меньше.",
-    "fullText": "«Оппенгеймер», предыдущая картина режиссёра, собрала за этот период в два раза меньше.",
-    "image": "https://leonardo.osnova.io/15cea18f-f2aa-585d-a1b7-4fb705dcb0dd/-/format/mp4/",
+    "title": "В работе Steam случился сбой — пользователи сервиса испытывали проблемы со входом около часа",
+    "description": "Поломку, судя по всему, уже устранили.",
+    "fullText": "Поломку, судя по всему, уже устранили.",
+    "image": "https://leonardo.osnova.io/d60a8d4a-d9b8-540c-be1d-0e87b16d9adb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4555631-treyler-odissei-kristofe-ra-nolana-sobral-rekordnye-1214-milliona-prosmotrov?from=rss",
-    "time": "2025-12-24T19:36:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4555659-sboy-v-steam-problemy-s-vkhodom?from=rss",
+    "time": "2025-12-24T19:12:44.000Z"
   }
 ]
