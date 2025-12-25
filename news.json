@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Долина сыграет в спектаклях Театра на Таганке",
+    "description": "Выступление состоится, несмотря на резонанс вокруг продажи квартиры артистки",
+    "fullText": "Выступление состоится, несмотря на резонанс вокруг продажи квартиры артистки",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/26013247",
+    "time": "2025-12-25T05:18:08.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из звездных легионеров «Анжи» забивал в финале FONBET Кубка России?",
     "description": "За правильный ответ – телевизор!",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4554275-smeshariki-skvoz-vselennye-tizer-filma?from=rss",
     "time": "2025-12-24T09:57:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
