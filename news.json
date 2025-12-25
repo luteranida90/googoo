@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Черный самец европейской лани пополнил коллекцию Ленинградского зоопарка",
+    "description": "Новому обитателю зоопарка пять лет и зовут его Какао Боб",
+    "fullText": "Новому обитателю зоопарка пять лет и зовут его Какао Боб",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26020901",
+    "time": "2025-12-25T16:44:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Торпедо» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
     "description": "Прямая трансляция Fonbet КХЛ.",
@@ -11,15 +22,15 @@
     "time": "2025-12-25T16:24:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ГАИ призвали усиливать контроль за работой автошкол",
-    "description": "Замначальника Госавтоинспекции МВД Олег Понарьин назвал вызывающей беспокойство информацию, что большинство школ начинают применять заочную, дистанционную форму обучения",
-    "fullText": "Замначальника Госавтоинспекции МВД Олег Понарьин назвал вызывающей беспокойство информацию, что большинство школ начинают применять заочную, дистанционную форму обучения",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26020787",
-    "time": "2025-12-25T16:20:09.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Фрэнк Дарабонт о возвращении к режиссуре ради «Очень странных дел»: «Это был чертовски крутой опыт»",
+    "description": "Постановщик «Побега из Шоушенка» и «Ходячих мертвецов» оказался большим фанатом сериала.",
+    "fullText": "Постановщик «Побега из Шоушенка» и «Ходячих мертвецов» оказался большим фанатом сериала.",
+    "image": "https://leonardo.osnova.io/e811bdf6-80a6-5640-ae64-cd7d369ea146/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4557067-frank-darabont-o-vozvrashchenii-k-rezhissure-v-ochen-strannykh-delakh?from=rss",
+    "time": "2025-12-25T14:11:13.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/Safonov-Karpin_olivier",
     "time": "2025-12-25T12:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bungie сравнила графику альфы Marathon с текущей",
-    "description": "Игроки рады изменениям.",
-    "fullText": "Игроки рады изменениям.",
-    "image": "https://leonardo.osnova.io/25388310-ecb9-5e6b-b153-fabdcbeee6b2/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4556366-bungie-pokazala-grafiku-alfy-marathon?from=rss",
-    "time": "2025-12-25T07:52:43.000Z"
   }
 ]
