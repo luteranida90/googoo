@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Черный самец европейской лани пополнил коллекцию Ленинградского зоопарка",
-    "description": "Новому обитателю зоопарка пять лет и зовут его Какао Боб",
-    "fullText": "Новому обитателю зоопарка пять лет и зовут его Какао Боб",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26020901",
-    "time": "2025-12-25T16:44:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Торпедо» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
     "description": "Прямая трансляция Fonbet КХЛ.",
@@ -22,15 +11,15 @@
     "time": "2025-12-25T16:24:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фрэнк Дарабонт о возвращении к режиссуре ради «Очень странных дел»: «Это был чертовски крутой опыт»",
-    "description": "Постановщик «Побега из Шоушенка» и «Ходячих мертвецов» оказался большим фанатом сериала.",
-    "fullText": "Постановщик «Побега из Шоушенка» и «Ходячих мертвецов» оказался большим фанатом сериала.",
-    "image": "https://leonardo.osnova.io/e811bdf6-80a6-5640-ae64-cd7d369ea146/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4557067-frank-darabont-o-vozvrashchenii-k-rezhissure-v-ochen-strannykh-delakh?from=rss",
-    "time": "2025-12-25T14:11:13.000Z"
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "10 вопросов для Василия Кошечкина – в новом выпуске сериала «Металлурга»",
+    "description": "На ВидеоСпортсе’‘.",
+    "fullText": "На ВидеоСпортсе’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/4b/a6b8fe95f4b93a87e4327a6ba6bee.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/n2uojs",
+    "time": "2025-12-25T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -44,14 +33,25 @@
     "time": "2025-12-25T13:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Сафонов, режь!» Карпин с Матвеем приготовили оливье – кулинария на ВидеоСпортсе’‘",
-    "description": "Пока обсуждали итоги года.",
-    "fullText": "Пока обсуждали итоги года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/98/c098085934de0bd3e689204a6808e.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Подвижный Ма Дон-сок и улицы Кабуки-тё на скриншотах Gang of Dragon",
+    "description": "Возможно, криминал.",
+    "fullText": "Возможно, криминал.",
+    "image": "https://leonardo.osnova.io/8e8983b2-bd9c-568a-847d-92ca98514acb/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4556683-gang-of-dragon-geympley-i-syuzhetnye-stseny-iz-kabuki-tyo?from=rss",
+    "time": "2025-12-25T10:36:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://sirena.world/Safonov-Karpin_olivier",
-    "time": "2025-12-25T12:55:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
