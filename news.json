@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ЦБ с 12 по 15 января будет продавать валюты в объеме 10,22 млрд рублей в день",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26023779",
+    "time": "2025-12-26T07:04:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Сколько раз московское «Динамо» было чемпионом России? Ответ знают только настоящие болельщики",
+    "description": "Докажи, что знаешь все о футболе.",
+    "fullText": "Докажи, что знаешь все о футболе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9e3193b7745a6a3a8f941e29f44f1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/gol-game",
+    "time": "2025-12-26T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите расслабиться за 5 минут без соцсетей? Попробуйте вытащить капибару из нашего автомата",
     "description": "И выигрывайте новогодние подарки!",
@@ -12,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как родители помогали звездам КХЛ? Перешивали коньки и строили площадки",
-    "description": "Собрали истории вместе с «Кинопоиском».",
-    "fullText": "Собрали истории вместе с «Кинопоиском».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/03/3b69ca1064d8398f442b90436c0ca.jpeg",
+    "title": "Что для нас значат Месси и Роналду",
+    "description": "Восторг и грусть Кораблева.",
+    "fullText": "Восторг и грусть Кораблева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ca/dcba4404e42c4b826a1a87c8cfc34.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3368402.html",
-    "time": "2025-12-25T19:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372804.html",
+    "time": "2025-12-25T21:02:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Лидерами российского кинопроката в 2025 году стали «Волшебник Изумрудного города», «Финист» и «Иллюзия обмана 3»",
-    "description": "В топ-10 также вошли «Алиса в стране чудес» и «Дракула».",
-    "fullText": "В топ-10 также вошли «Алиса в стране чудес» и «Дракула».",
-    "image": "https://leonardo.osnova.io/95289849-72bd-5406-9104-d4efd2a838d9/",
+    "title": "Снежки, прятки и сражения в метель: какие режимы добавили разработчики онлайн-игр в честь праздников",
+    "description": "И какие они припасли подарки геймерам.",
+    "fullText": "И какие они припасли подарки геймерам.",
+    "image": "https://leonardo.osnova.io/58d9cb87-48e4-528e-87cd-b39e8d1b114c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4557269-lideri-rossijskogo-kinoprokata-2025-goda?from=rss",
-    "time": "2025-12-25T15:06:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4556987-zimnie-sobytija-v-onlajn-igrah?from=rss",
+    "time": "2025-12-25T14:32:15.000Z"
   }
 ]
