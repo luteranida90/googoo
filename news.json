@@ -11,6 +11,17 @@
     "time": "2025-12-26T18:10:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Баскетболисты \"Самары\" одержали первую победу в сезоне Единой лиги ВТБ",
+    "description": "Ранее самарский клуб потерпел 16 поражений подряд",
+    "fullText": "Ранее самарский клуб потерпел 16 поражений подряд",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251226/8711769.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26029923",
+    "time": "2025-12-26T18:05:35.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
     "description": "Вызов для ценителей футбола.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Санта-Йокич принес подарки: 56 очков, трипл-дабл и самый результативный овертайм в истории НБА!",
-    "description": "Рождественская классика.",
-    "fullText": "Рождественская классика.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/43/daf3048574b7082f47159d4683403.jpeg",
+    "title": "Дёмин против лучших атлетов на планете: каким его ждали, каким он себя показал",
+    "description": "Большое исследование.",
+    "fullText": "Большое исследование.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c6/fa82b2c744e3a80c604fc402ec0f1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3373107.html",
-    "time": "2025-12-26T13:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3372956.html",
+    "time": "2025-12-26T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Дастин и другие выжившие в новом тизере коллаборации Dead by Daylight с «Очень странными делами»",
-    "description": "Публичный бета-тест стартует 6 января.",
-    "fullText": "Публичный бета-тест стартует 6 января.",
-    "image": "https://leonardo.osnova.io/10c164ea-4449-54de-bb67-6fa17c7c2c53/-/format/mp4/",
+    "title": "На Netflix вышла вторая часть заключительного сезона «Очень странных дел»",
+    "description": "В неё вошли три эпизода.",
+    "fullText": "В неё вошли три эпизода.",
+    "image": "https://leonardo.osnova.io/fb8c8fdf-4762-5b6c-a9df-1718e1839119/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4558506-kolaboraciya-dead-by-daylight-i-ochen-strannye-dela?from=rss",
-    "time": "2025-12-26T06:56:31.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4558454-vtoraya-chast-zaklyuchitelnogo-sezona-ochen-strannykh-del-na-netflix?from=rss",
+    "time": "2025-12-26T06:13:57.000Z"
   }
 ]
