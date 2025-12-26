@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Торгпред РФ в Индии: Москва и Нью-Дели рассматривают вопрос упрощения виз",
-    "description": "Вопрос рассматривается в контексте создания благоприятной среды для торговли, инвестиций, а также развития сотрудничества в области туризма, сообщил Андрей Соболев",
-    "fullText": "Вопрос рассматривается в контексте создания благоприятной среды для торговли, инвестиций, а также развития сотрудничества в области туризма, сообщил Андрей Соболев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26023337",
-    "time": "2025-12-26T06:18:06.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите расслабиться за 5 минут без соцсетей? Попробуйте вытащить капибару из нашего автомата",
     "description": "И выигрывайте новогодние подарки!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рейтинг капитанов «МЮ»: от Бруну и Магуйра до Видича и Кина",
-    "description": "Великие и случайные.",
-    "fullText": "Великие и случайные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/1a/adc3ae699431480d0470e747d6c19.png",
+    "title": "Как родители помогали звездам КХЛ? Перешивали коньки и строили площадки",
+    "description": "Собрали истории вместе с «Кинопоиском».",
+    "fullText": "Собрали истории вместе с «Кинопоиском».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/03/3b69ca1064d8398f442b90436c0ca.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372555.html",
-    "time": "2025-12-25T18:57:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3368402.html",
+    "time": "2025-12-25T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4557269-lideri-rossijskogo-kinoprokata-2025-goda?from=rss",
     "time": "2025-12-25T15:06:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
