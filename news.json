@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Рябков считает, что 2026-й будет для России годом побед",
-    "description": "Замглавы российского МИД также уверен, что 2026-й ознаменуется дальнейшим укреплением международных позиций России",
-    "fullText": "Замглавы российского МИД также уверен, что 2026-й ознаменуется дальнейшим укреплением международных позиций России",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250210/8055135.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26029573",
-    "time": "2025-12-26T16:41:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
     "description": "Вызов для ценителей футбола.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вы возмущены, что мы не взяли Погачара в голосование на спортсмена года. Исправляемся!",
-    "description": "Доминатор велоспорта.",
-    "fullText": "Доминатор велоспорта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ab/0f5dcd90e434bbb4b8b95cc719951.jpeg",
+    "title": "«Если не заплатят, обратимся в ФИФА». Интервью о жизни клуба Садыгова в Турции",
+    "description": "Дорский поговорил с Кириллом Гоцуком.",
+    "fullText": "Дорский поговорил с Кириллом Гоцуком.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a1/ed55593254686a937315b4c08456c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3372846.html",
-    "time": "2025-12-26T12:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372639.html",
+    "time": "2025-12-26T13:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игрокам в Marvel Rivals начали показывать тизер следующих «Мстителей»",
-    "description": "Рекламная кампания фильма набирает обороты.",
-    "fullText": "Рекламная кампания фильма набирает обороты.",
-    "image": "https://leonardo.osnova.io/731c3f93-d5ec-5ef3-987c-016a549e44fa/-/format/mp4/",
+    "title": "Аниме «Нежити не повезло» получит второй сезон",
+    "description": "Необычная парочка возвращается на экраны после двухлетнего перерыва.",
+    "fullText": "Необычная парочка возвращается на экраны после двухлетнего перерыва.",
+    "image": "https://leonardo.osnova.io/9d07b3cd-3317-540e-9e1d-b2a47ef0134e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4557759-tizer-filma-mstiteli-sudnyj-den-dlya-igrokov-marvel-rivals?from=rss",
-    "time": "2025-12-25T18:42:23.000Z"
+    "url": "https://dtf.ru/anime/4557789-anime-nezhiti-ne-povezlo-vtoroy-sezon?from=rss",
+    "time": "2025-12-25T19:07:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
