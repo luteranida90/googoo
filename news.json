@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ с 12 по 15 января будет продавать валюты в объеме 10,22 млрд рублей в день",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26023779",
-    "time": "2025-12-26T07:04:54.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Сколько раз московское «Динамо» было чемпионом России? Ответ знают только настоящие болельщики",
     "description": "Докажи, что знаешь все о футболе.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sprts.cc/gol-game",
     "time": "2025-12-26T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Бан Валиевой – все! Когда и как вернется Камила?",
+    "description": "Может уже в этом сезоне.",
+    "fullText": "Может уже в этом сезоне.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/b1/8328187ab4e529521f2b0444d3541.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3372733.html",
+    "time": "2025-12-25T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +33,6 @@
     "time": "2025-12-25T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что для нас значат Месси и Роналду",
-    "description": "Восторг и грусть Кораблева.",
-    "fullText": "Восторг и грусть Кораблева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ca/dcba4404e42c4b826a1a87c8cfc34.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372804.html",
-    "time": "2025-12-25T21:02:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Снежки, прятки и сражения в метель: какие режимы добавили разработчики онлайн-игр в честь праздников",
     "description": "И какие они припасли подарки геймерам.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4556987-zimnie-sobytija-v-onlajn-igrah?from=rss",
     "time": "2025-12-25T14:32:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
