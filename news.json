@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Посол РФ указал на незаконность санкций США против \"Нефтяной индустрии Сербии\"",
-    "description": "Александр Боцан-Харченко заявил, что Москва \"не хочет отказываться от поиска решения\" касательно ситуации с санкциями против NIS",
-    "fullText": "Александр Боцан-Харченко заявил, что Москва \"не хочет отказываться от поиска решения\" касательно ситуации с санкциями против NIS",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26027611",
-    "time": "2025-12-26T12:23:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90Lm1lL3Np",
     "title": "Сможет ли «МЮ» запрыгнуть в топ-5 до Нового года? Угадайте счет матча в «Предикторе»",
     "description": "И выигрывайте призы!",
@@ -34,25 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ф-1» покидает команда-легенда: «Заубер» гонял с лого МТС и «Челси», здесь начинали Кими и Феттель",
-    "description": "Теперь «Ауди».",
-    "fullText": "Теперь «Ауди».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/7c/9d7f1679e4f7d950d3a7ecf931bb0.jpeg",
+    "title": "Интервью Ангелины Мельниковой, которую вы выбрали спортсменкой года: танцы и кино, лень и усталость",
+    "description": "Уже легенда.",
+    "fullText": "Уже легенда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/df/0b1a4a9c24c8291874e5c9a223efd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3372226.html",
-    "time": "2025-12-26T07:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Сколько раз московское «Динамо» было чемпионом России? Ответ знают только настоящие болельщики",
-    "description": "Докажи, что знаешь все о футболе.",
-    "fullText": "Докажи, что знаешь все о футболе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9e3193b7745a6a3a8f941e29f44f1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/gol-game",
-    "time": "2025-12-26T07:00:00.000Z"
+    "url": "https://www.sports.ru/gymnastics/blogs/3372749.html",
+    "time": "2025-12-26T08:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4557364-larek-na-ulice-lenina?from=rss",
     "time": "2025-12-25T15:55:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
