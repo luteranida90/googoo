@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Антикоррупционные органы Украины разоблачили ОПГ депутатов Рады",
-    "description": "НАБУ и САП пообещали раскрыть подробности позднее",
-    "fullText": "НАБУ и САП пообещали раскрыть подробности позднее",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26032597",
-    "time": "2025-12-27T10:36:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Лишь два аргентинца забили больше 25 голов за «Барсу» в этом веке. Вспомните не Месси?",
     "description": "Придется подумать.",
@@ -23,13 +12,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как АПЛ развлечет нас в праздники?",
-    "description": "Никаких пауз – только шоу.",
-    "fullText": "Никаких пауз – только шоу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5b/acde3c95842a7948221d96fb0e1f5.jpeg",
+    "title": "Она – «русский сестра» для «Авангарда» уже 12 лет: интервью с переводчицей Боба Хартли и Ги Буше",
+    "description": "Копачев и Самбур поговорили с Натальей Коваленко.",
+    "fullText": "Копачев и Самбур поговорили с Натальей Коваленко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0a/0dd13c2b64a80ac0dfee5ef8d2266.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373022.html",
+    "url": "https://www.sports.ru/hockey/blogs/3372543.html",
     "time": "2025-12-27T05:00:00.000Z"
   },
   {
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4558784-dzhek-blek-o-zmeyakh-iz-videoigr?from=rss",
     "time": "2025-12-26T10:13:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
