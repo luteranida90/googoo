@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В России продлят программу льготного лизинга вертолетов",
-    "description": "Глава Минпромторга Антон Алиханов сообщил, что КВЗ получит заказ минимум на 70 новых машин на следующие три года",
-    "fullText": "Глава Минпромторга Антон Алиханов сообщил, что КВЗ получит заказ минимум на 70 новых машин на следующие три года",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251227/8712433.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как АПЛ развлечет нас в праздники?",
+    "description": "Никаких пауз – только шоу.",
+    "fullText": "Никаких пауз – только шоу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5b/acde3c95842a7948221d96fb0e1f5.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26032431",
-    "time": "2025-12-27T09:45:24.000Z"
+    "url": "https://www.sports.ru/football/blogs/3373022.html",
+    "time": "2025-12-27T05:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2025-12-27T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ф-1» покидает команда-легенда: «Заубер» гонял с лого МТС и «Челси», здесь начинали Кими и Феттель",
-    "description": "Теперь «Ауди».",
-    "fullText": "Теперь «Ауди».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/7c/9d7f1679e4f7d950d3a7ecf931bb0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3372226.html",
-    "time": "2025-12-27T03:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "EA Sports FC на трёх позициях и GTA V на втором месте — топ-10 игр в «М.Видео» по выручке за 2025 год",
-    "description": "Nintendo Switch 2 стала главным устройством года.",
-    "fullText": "Nintendo Switch 2 стала главным устройством года.",
-    "image": "https://leonardo.osnova.io/4e59497c-1222-5fa1-8d46-2e6c34335927/",
+    "title": "Джек Блэк оценил змей из видеоигр — от Солида Снейка до Йормунганда",
+    "description": "Ему полюбились имена некоторых из них.",
+    "fullText": "Ему полюбились имена некоторых из них.",
+    "image": "https://leonardo.osnova.io/8a8c3e47-fe4c-5981-982a-93ab0a86646e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4558664-top-10-igr-mvideo-ea-sports-fc-gta-v?from=rss",
-    "time": "2025-12-26T08:57:55.000Z"
+    "url": "https://dtf.ru/games/4558784-dzhek-blek-o-zmeyakh-iz-videoigr?from=rss",
+    "time": "2025-12-26T10:13:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
