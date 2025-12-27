@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кимаковский: освобождение Димитрова открывает дорогу к Белицкому и Доброполью",
-    "description": "Советник главы ДНР рассказал об этом ТАСС",
-    "fullText": "Советник главы ДНР рассказал об этом ТАСС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9vZG5hLmNv",
+    "title": "Листаете Спортс’’ или другие медиа? Поделитесь вашим выбором",
+    "description": "Анонимный опрос.",
+    "fullText": "Анонимный опрос.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e2/33fee3a9448eca0af54041d1284f4.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26034523",
-    "time": "2025-12-27T18:26:10.000Z"
+    "url": "https://odna.co/poll/X8fU25iAVo1DZpNQDav6Wh",
+    "time": "2025-12-27T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самый длинный сезон РПЛ: 44 тура, дебют «Краснодара», Это’О и Роберто Карлос, Веллитон vs Акинфеев",
-    "description": "Хроника уникального сезона.",
-    "fullText": "Хроника уникального сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b1/95303699f44bb8899d10174d36fc5.jpeg",
+    "title": "МЧМ стартовал с двух спорных эпизодов. Судьи ошибаются везде – даже в НХЛ",
+    "description": "Они просто люди.",
+    "fullText": "Они просто люди.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/55/f90092d1947c6911824cff3f08581.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373195.html",
-    "time": "2025-12-27T13:55:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3372288.html",
+    "time": "2025-12-27T14:47:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4558619-minecraft-raskritikovali-za-reklamu-podpiski-s-izdevatelskim-tonom?from=rss",
     "time": "2025-12-26T08:56:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
