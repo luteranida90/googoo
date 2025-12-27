@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Харьковской области ликвидировали группу наемников из нацгвардии Украины",
+    "description": "Российские войска уничтожили граждан из США, Колумбии и Бразилии",
+    "fullText": "Российские войска уничтожили граждан из США, Колумбии и Бразилии",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26034723",
+    "time": "2025-12-27T19:33:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
     "title": "Листаете Спортс’’ или другие медиа? Поделитесь вашим выбором",
     "description": "Анонимный опрос.",
@@ -34,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "МЧМ стартовал с двух спорных эпизодов. Судьи ошибаются везде – даже в НХЛ",
-    "description": "Они просто люди.",
-    "fullText": "Они просто люди.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/55/f90092d1947c6911824cff3f08581.jpeg",
+    "title": "Лучший спортсмен мира-2025. Большое голосование Спортса’‘",
+    "description": "И тут есть наши!",
+    "fullText": "И тут есть наши!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/0f/75fb17ac04ba7bd35e0b101fb7a32.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3372288.html",
-    "time": "2025-12-27T14:47:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3368219.html",
+    "time": "2025-12-27T15:26:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4558619-minecraft-raskritikovali-za-reklamu-podpiski-s-izdevatelskim-tonom?from=rss",
     "time": "2025-12-26T08:56:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
