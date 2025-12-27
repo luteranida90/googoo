@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Канаде извинились за отказ от рукокопожатий после игры МЧМ с чехами",
-    "description": "Федерация хоккея Канады заявила, что полностью берет ответственность за этот инцидент",
-    "fullText": "Федерация хоккея Канады заявила, что полностью берет ответственность за этот инцидент",
+    "title": "ČTK: информация об угрозах стрельбы в чешском ТЦ не подтвердилась",
+    "description": "Ранее полиция провела экстренную эвакуацию покупателей и персонала из ТЦ в городе Теплице",
+    "fullText": "Ранее полиция провела экстренную эвакуацию покупателей и персонала из ТЦ в городе Теплице",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26035137",
-    "time": "2025-12-27T19:37:44.000Z"
+    "url": "https://tass.ru/proisshestviya/26035273",
+    "time": "2025-12-27T20:59:02.000Z"
   },
   {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
@@ -33,6 +33,17 @@
     "time": "2025-12-27T16:46:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Наш шахматист обыграл Карлсена на ЧМ – тот делал вид, что засыпает",
+    "description": "Все прозевал.",
+    "fullText": "Все прозевал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a1/697a5c87747e89fb05b6b7de7dd20.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/chess/blogs/3373389.html",
+    "time": "2025-12-27T15:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Роналду или Месси: кто забил больше мячей на чемпионатах мира?",
     "description": "Пройдите тест.",
@@ -42,17 +53,6 @@
     "category": "all",
     "url": "https://sprts.cc/gol-game",
     "time": "2025-12-27T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший спортсмен мира-2025. Большое голосование Спортса’‘",
-    "description": "И тут есть наши!",
-    "fullText": "И тут есть наши!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/0f/75fb17ac04ba7bd35e0b101fb7a32.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3368219.html",
-    "time": "2025-12-27T15:26:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
