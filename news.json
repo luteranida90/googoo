@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве объявили желтый уровень погодной опасности",
-    "description": "В столице ожидается сильный снег",
-    "fullText": "В столице ожидается сильный снег",
+    "title": "В Нижегородской области водитель фуры сбил насмерть двух пешеходов",
+    "description": "Сотрудники Госавтоинспекции работают на месте ДТП",
+    "fullText": "Сотрудники Госавтоинспекции работают на месте ДТП",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26031279",
-    "time": "2025-12-27T06:06:06.000Z"
+    "url": "https://tass.ru/proisshestviya/26031363",
+    "time": "2025-12-27T06:20:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вы возмущены, что мы не взяли Погачара в голосование на спортсмена года. Исправляемся!",
+    "description": "Доминатор велоспорта.",
+    "fullText": "Доминатор велоспорта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/6e/2ded4b57c47b48185215aa7622ed9.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/others/blogs/3372846.html",
+    "time": "2025-12-26T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/b79iva",
     "time": "2025-12-26T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как будет выживать Медиалига? Боссы «Амкала» и 2Drots объяснили Смолову",
-    "description": "Боятся введения ставок.",
-    "fullText": "Боятся введения ставок.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/a8/466e636a64a6aba77548960ba707b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3373201.html",
-    "time": "2025-12-26T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
