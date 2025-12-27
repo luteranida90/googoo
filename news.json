@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Антикоррупционные органы Украины разоблачили ОПГ депутатов Рады",
+    "description": "НАБУ и САП пообещали раскрыть подробности позднее",
+    "fullText": "НАБУ и САП пообещали раскрыть подробности позднее",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26032597",
+    "time": "2025-12-27T10:36:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Лишь два аргентинца забили больше 25 голов за «Барсу» в этом веке. Вспомните не Месси?",
+    "description": "Придется подумать.",
+    "fullText": "Придется подумать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ed/c81424428406d921c1a24b3be62db.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r58w11",
+    "time": "2025-12-27T09:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Как АПЛ развлечет нас в праздники?",
     "description": "Никаких пауз – только шоу.",
@@ -11,17 +33,6 @@
     "time": "2025-12-27T05:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из звездных легионеров «Анжи» забивал в финале FONBET Кубка России?",
-    "description": "За правильный ответ – телевизор!",
-    "fullText": "За правильный ответ – телевизор!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/90/4a484e5604e5993fd9f83fc73b63c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/lno55y",
-    "time": "2025-12-27T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Джек Блэк оценил змей из видеоигр — от Солида Снейка до Йормунганда",
     "description": "Ему полюбились имена некоторых из них.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4558784-dzhek-blek-o-zmeyakh-iz-videoigr?from=rss",
     "time": "2025-12-26T10:13:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
