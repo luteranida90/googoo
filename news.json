@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ВС РФ ведут наступление в Гришине",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26034101",
+    "time": "2025-12-27T17:24:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "10 лучших киберспортсменов года из России",
     "description": "В Доте и CS.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/dota2/blogs/3371727.html",
     "time": "2025-12-27T16:46:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Ак Барс\" обыграл \"Трактор\" в матче КХЛ",
-    "description": "Встреча в Казани завершилась со счетом 3:2",
-    "fullText": "Встреча в Казани завершилась со счетом 3:2",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251227/8712791.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26033767",
-    "time": "2025-12-27T16:20:43.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -45,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вемби не любит Холмгрена и запрещает вам их сравнивать",
-    "description": "Битва атлетичных фриков.",
-    "fullText": "Битва атлетичных фриков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e2/20f0c57e14d618789c46d39c7d7ed.jpeg",
+    "title": "Почему Дьокереш мало забивает в «Арсенале»?",
+    "description": "И в чем все равно полезен?",
+    "fullText": "И в чем все равно полезен?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6f/920064f0b4988b0b7467a95552f27.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3373327.html",
-    "time": "2025-12-27T12:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372994.html",
+    "time": "2025-12-27T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
