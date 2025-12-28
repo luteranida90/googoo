@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Крыму прогнозируют усиление ветра до 30 м/с и гололед",
-    "description": "При непогоде есть высокая вероятность возникновения ЧС",
-    "fullText": "При непогоде есть высокая вероятность возникновения ЧС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26036741",
-    "time": "2025-12-28T07:46:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Лишь два аргентинца забили больше 25 голов за «Барсу» в этом веке. Вспомните не Месси?",
     "description": "Придется подумать.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4558619-minecraft-raskritikovali-za-reklamu-podpiski-s-izdevatelskim-tonom?from=rss",
     "time": "2025-12-26T08:56:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
