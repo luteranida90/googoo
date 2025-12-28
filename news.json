@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "FT: Европа переживет \"ренессанс\" в случае урегулирования украинского конфликта",
+    "description": "Главный инвестиционный директор ABN AMRO Кристоф Буше заявил газете, что прекращение конфликта на Украине является одним из наиболее оптимистичных сценариев для экономического роста в ЕС",
+    "fullText": "Главный инвестиционный директор ABN AMRO Кристоф Буше заявил газете, что прекращение конфликта на Украине является одним из наиболее оптимистичных сценариев для экономического роста в ЕС",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26038089",
+    "time": "2025-12-28T13:40:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Чем жил российский спорт в 2025-м? Узнайте вместе со Спортсом’’ в итогах года",
     "description": "Батраков, Овечкин, Ротенберг и другие уже тут.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Боевик года в кулачных боях – зрителей забрызгало кровью. Победителя сравнили с Федором",
-    "description": "Тяжелое поражение Нурмагомедова.",
-    "fullText": "Тяжелое поражение Нурмагомедова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1d/822a0d4b7415e8d81fae8e4b5fcd7.jpeg",
+    "title": "Лучший спортсмен мира-2025. Большое голосование Спортса’‘",
+    "description": "Сегодня последний день!",
+    "fullText": "Сегодня последний день!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/0f/75fb17ac04ba7bd35e0b101fb7a32.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3373428.html",
-    "time": "2025-12-28T08:20:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3368219.html",
+    "time": "2025-12-28T08:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4559498-khishchnik-planeta-smerti-lider-filmov-dekabra?from=rss",
     "time": "2025-12-26T15:55:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
