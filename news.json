@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пушилин вручил госнаграды военнослужащим за освобождение территории ДНР",
+    "description": "Глава региона отметил, что каждое их действие приближает победу",
+    "fullText": "Глава региона отметил, что каждое их действие приближает победу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26036877",
+    "time": "2025-12-28T08:38:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Лишь два аргентинца забили больше 25 голов за «Барсу» в этом веке. Вспомните не Месси?",
     "description": "Придется подумать.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сколько стоят клубы АПЛ? «Юнайтед» дороже «Сити»",
-    "description": "Исследование The Athletic.",
-    "fullText": "Исследование The Athletic.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d5/56e0d0f744e5e98225c101d3e5aa9.jpeg",
+    "title": "Наш шахматист обыграл «спящего» Карлсена на ЧМ – уходя, тот оттолкнул камеру",
+    "description": "Все прозевал.",
+    "fullText": "Все прозевал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a1/697a5c87747e89fb05b6b7de7dd20.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373365.html",
-    "time": "2025-12-27T20:10:00.000Z"
+    "url": "https://www.sports.ru/chess/blogs/3373389.html",
+    "time": "2025-12-28T03:12:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчиков Minecraft раскритиковали за рекламу подписки с «издевательским» тоном в адрес игроков-одиночек",
-    "description": "На фоне праздников её посчитали особенно неуместной.",
-    "fullText": "На фоне праздников её посчитали особенно неуместной.",
-    "image": "https://leonardo.osnova.io/d0a97155-2ffd-59f2-a33b-7c1d6d3bf167/",
+    "title": "«Видно, что они учились на ходу»: разработчик Painkiller и Witchfire Адриан Хмеляж об Expedition 33",
+    "description": "Автор остался под большим впечатлением от синематиков, уровня которых не всегда достигают даже в ААА.",
+    "fullText": "Автор остался под большим впечатлением от синематиков, уровня которых не всегда достигают даже в ААА.",
+    "image": "https://leonardo.osnova.io/7a63b563-313a-5bb1-b900-57af80549c48/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4558619-minecraft-raskritikovali-za-reklamu-podpiski-s-izdevatelskim-tonom?from=rss",
-    "time": "2025-12-26T08:56:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4558969-adrian-hmeljaz-o-expedition-33?from=rss",
+    "time": "2025-12-26T11:35:51.000Z"
   }
 ]
