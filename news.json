@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ушаков: Трамп заявил о необходимости как можно быстрее завершить войну",
-    "description": "После завершения конфликта откроются впечатляющие перспективы экономического сотрудничества США и с Россией, и с Украиной, считает американский лидер",
-    "fullText": "После завершения конфликта откроются впечатляющие перспективы экономического сотрудничества США и с Россией, и с Украиной, считает американский лидер",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26038865",
-    "time": "2025-12-28T17:53:30.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
     "title": "Пройдите опрос и сделайте Спортс’’ лучше",
     "description": "Нам важно знать мнение читателей.",
@@ -45,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "От нью-йоркского бога до китайского императора: удивительные приключения Стефона Марбери",
-    "description": "Джа Морэнт до Джа Морэнта.",
-    "fullText": "Джа Морэнт до Джа Морэнта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/8e/fdd2fee564f1fa68d2b9dd25de7fb.jpeg",
+    "title": "Как дела у наших гонщиков? Доминатор в картинге, Шварцман с историческим поулом, Квят проиграл гонку ИИ",
+    "description": "Что было в 2025-м?",
+    "fullText": "Что было в 2025-м?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/37/8ba3287704f86912449b888fbc26f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3369368.html",
-    "time": "2025-12-28T14:05:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372780.html",
+    "time": "2025-12-28T14:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4559800-nikita-buyanov-ob-escape-from-tarkov?from=rss",
     "time": "2025-12-26T18:45:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
