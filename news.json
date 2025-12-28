@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РФ ввели штрафы за обслуживание sim-карт, оформленных после самозапрета",
-    "description": "Установлен штраф в размере от 30 до 50 тыс. рублей для должностных лиц и от 300 до 500 тыс. рублей для юрлиц за оказание оператором связи услуг абоненту",
-    "fullText": "Установлен штраф в размере от 30 до 50 тыс. рублей для должностных лиц и от 300 до 500 тыс. рублей для юрлиц за оказание оператором связи услуг абоненту",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Чем жил российский спорт в 2025-м? Узнайте вместе со Спортсом’’ в итогах года",
+    "description": "Батраков, Овечкин, Ротенберг и другие уже тут.",
+    "fullText": "Батраков, Овечкин, Ротенберг и другие уже тут.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ac/083403b0c4b889577a0629feab398.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26037879",
-    "time": "2025-12-28T12:50:36.000Z"
+    "url": "https://m.sports.ru/yearbook/?ref=sport&ref2=editorial&ref3=matherial_direct#/wrapped",
+    "time": "2025-12-28T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нигерия чуть не упустила 3:0, Мане приблизился к Это’О и Дрогба. Главное в Кубке Африки",
-    "description": "Окелло промахнулся с пенальти.",
-    "fullText": "Окелло промахнулся с пенальти.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/72/815f5fbe74c07964491487057c829.jpeg",
+    "title": "Боевик года в кулачных боях – зрителей забрызгало кровью. Победителя сравнили с Федором",
+    "description": "Тяжелое поражение Нурмагомедова.",
+    "fullText": "Тяжелое поражение Нурмагомедова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1d/822a0d4b7415e8d81fae8e4b5fcd7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373422.html",
+    "url": "https://www.sports.ru/boxing/blogs/3373428.html",
     "time": "2025-12-28T08:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS стартовала раздача кооперативной адвенчуры We Were Here Together",
-    "description": "Это десятая бесплатная игра в рамках праздничной акции Epic Games.",
-    "fullText": "Это десятая бесплатная игра в рамках праздничной акции Epic Games.",
-    "image": "https://leonardo.osnova.io/a60b5d81-6859-577e-811c-38a35a147797/",
+    "title": "«Хищник: Планета смерти» стал самым популярным фильмом декабря у российских «пиратов»",
+    "description": "А «Очень странные дела» — сериалом.",
+    "fullText": "А «Очень странные дела» — сериалом.",
+    "image": "https://leonardo.osnova.io/ef89dca3-d77a-52f3-ada4-e0c6fed80fa5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4559550-razdacha-we-were-here-together-v-egs?from=rss",
-    "time": "2025-12-26T16:13:11.000Z"
+    "url": "https://dtf.ru/cinema/4559498-khishchnik-planeta-smerti-lider-filmov-dekabra?from=rss",
+    "time": "2025-12-26T15:55:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
