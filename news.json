@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Эльбрусе закрыли канатные дороги из-за ветра",
-    "description": "Скорость ветра составляет до 17 м/с",
-    "fullText": "Скорость ветра составляет до 17 м/с",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26036487",
-    "time": "2025-12-28T05:51:53.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Лишь два аргентинца забили больше 25 голов за «Барсу» в этом веке. Вспомните не Месси?",
     "description": "Придется подумать.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2025-12-28T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сколько стоят клубы АПЛ? «Юнайтед» дороже «Сити»",
+    "description": "Исследование The Athletic.",
+    "fullText": "Исследование The Athletic.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d5/56e0d0f744e5e98225c101d3e5aa9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3373365.html",
+    "time": "2025-12-27T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
@@ -33,17 +33,6 @@
     "time": "2025-12-27T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Овечкин − это и есть хоккей в XXI веке",
-    "description": "Лучший не только в 2025-м.",
-    "fullText": "Лучший не только в 2025-м.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/6b/7733a3d334990a6b291a93b535590.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3372306.html",
-    "time": "2025-12-27T18:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Разработчиков Minecraft раскритиковали за рекламу подписки с «издевательским» тоном в адрес игроков-одиночек",
     "description": "На фоне праздников её посчитали особенно неуместной.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4558619-minecraft-raskritikovali-za-reklamu-podpiski-s-izdevatelskim-tonom?from=rss",
     "time": "2025-12-26T08:56:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
