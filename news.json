@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Главой ЦБ Ирана станет бывший министр экономики и финансов",
-    "description": "Нынешний глава Центробанка Мохаммад Фарзин подал в отставку на фоне серьезного ослабления национальной валюты",
-    "fullText": "Нынешний глава Центробанка Мохаммад Фарзин подал в отставку на фоне серьезного ослабления национальной валюты",
+    "title": "Пленный из ВСУ заявил, что три дня шел в Купянск для съемки с флагом",
+    "description": "По словам Сергея Гусара, на протяжении всего пути он видел много тел и сожженной техники",
+    "fullText": "По словам Сергея Гусара, на протяжении всего пути он видел много тел и сожженной техники",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26047415",
-    "time": "2025-12-29T13:58:15.000Z"
+    "url": "https://tass.ru/armiya-i-opk/26047789",
+    "time": "2025-12-29T14:29:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Phantom Blade Zero достигла миллиона добавлений в список желаемого на ПК и PS5 за 15 дней",
+    "description": "Китайские разработчики пообещали регулярно делиться деталями амбициозного экшена вплоть до релиза в сентябре 2026 года.",
+    "fullText": "Китайские разработчики пообещали регулярно делиться деталями амбициозного экшена вплоть до релиза в сентябре 2026 года.",
+    "image": "https://leonardo.osnova.io/ccdb6ed6-8471-5d71-a554-ec79912362f3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4570385-phantom-blade-zero-million-zhelayemykh-na-pk-i-ps5?from=rss",
+    "time": "2025-12-29T13:42:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Бей своих, чтобы чужие боялись». Лукашенко повалили на лед во время хоккея",
-    "description": "Виновник – экс-игрок КХЛ.",
-    "fullText": "Виновник – экс-игрок КХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/53/f817d4a0c4e6db67d5ec606642ae7.jpeg",
+    "title": "Символическая сборная «МЮ» за 25 лет. Даже две!",
+    "description": "С Бруну и без.",
+    "fullText": "С Бруну и без.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/6a/d101f7c044d6191972aca52a1a8bc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3373601.html",
-    "time": "2025-12-29T09:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Avatar: Frontiers of Pandora впервые достигла 12 тысяч одновременных игроков в Steam — её релиз состоялся в декабре 2023-го",
-    "description": "На фоне выхода сюжетного DLC и нового фильма.",
-    "fullText": "На фоне выхода сюжетного DLC и нового фильма.",
-    "image": "https://leonardo.osnova.io/a574f737-39c1-5ef2-8a64-5be5f3fa5216/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4569769-avatar-frontiers-of-pandora-12000-igrokov?from=rss",
-    "time": "2025-12-29T07:24:05.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372800.html",
+    "time": "2025-12-29T10:10:00.000Z"
   }
 ]
