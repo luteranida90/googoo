@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "FT: ни одна страна еще не подтвердила участия в стабилизационных силах в Газе",
-    "description": "По данным газеты, ни одно государство также не проявило инициативы по разоружению радикального палестинского движения ХАМАС силовым путем",
-    "fullText": "По данным газеты, ни одно государство также не проявило инициативы по разоружению радикального палестинского движения ХАМАС силовым путем",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26043655",
-    "time": "2025-12-29T08:42:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Спортс’’ выпустил свой журнал",
     "description": "Вы уже можете его заказать.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Соболенко проиграла Кириосу в «Битве полов» – что это вообще было?",
-    "description": "Разбор.",
-    "fullText": "Разбор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/f1/666e7f34c4ff88139cffc249e87f6.jpeg",
+    "title": "Энди Кэрролла ждет суд – грозит тюрьма? Экс-форварда «Ливерпуля» обвиняют в преследовании",
+    "description": "Вот в чем дело.",
+    "fullText": "Вот в чем дело.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/48/96374883e4eb7ad88b27d07a9206c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3373576.html",
-    "time": "2025-12-28T23:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3373541.html",
+    "time": "2025-12-28T23:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4568055-bioshock-4-podrobnosti-i-utechka-assetov?from=rss",
     "time": "2025-12-28T10:48:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
