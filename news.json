@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ушаков: Путин и Трамп провели новый разговор",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26048759",
+    "time": "2025-12-29T16:13:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Штрафные Кавая, подборы Адамса: у кого в НБА исключительные умения",
+    "description": "Гроссмейстеры узкой специализации.",
+    "fullText": "Гроссмейстеры узкой специализации.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/8e/3da2c9e35464caee19adffe2d64cd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3373563.html",
+    "time": "2025-12-29T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -12,35 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ольга Любимова: в 2025 году общие сборы в российском прокате составили 49,6 миллиарда рублей — это рост на 10%",
-    "description": "Однако зрителей оказалось меньше, чем по итогам 2024-го.",
-    "fullText": "Однако зрителей оказалось меньше, чем по итогам 2024-го.",
-    "image": "https://leonardo.osnova.io/9e48ca8c-c84d-5286-87cc-d533181d382f/",
+    "title": "Продюсер Persona заявил, что «в 2026 году будет возможность поговорить о будущем франшизы»",
+    "description": "Пока не факт, что речь идёт о следующей части.",
+    "fullText": "Пока не факт, что речь идёт о следующей части.",
+    "image": "https://leonardo.osnova.io/bcd62a1a-0124-5854-b04b-837a08bbfeed/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4570072-olga-lyubimova-sbory-rossiyskogo-prokata-2025?from=rss",
-    "time": "2025-12-29T10:51:57.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чудо-голы (стиль Ибры, прямо с угловых, крученые), истерики, протесты, скандалы. Главное за год в нашей Второй лиге",
-    "description": "Аж 5 «Динамо» в одной таблице.",
-    "fullText": "Аж 5 «Динамо» в одной таблице.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/16/f80ec128b43759eb0ccdd2d1a8690.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3367934.html",
-    "time": "2025-12-29T10:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4570174-producer-persona-o-budushchem-franshizy-v-2026-godu?from=rss",
+    "time": "2025-12-29T11:26:13.000Z"
   }
 ]
