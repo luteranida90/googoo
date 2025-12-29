@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Кургане построят IT-технопарк в 2027 году",
-    "description": "Объем инвестиций в проект превысит 1 млрд рублей",
-    "fullText": "Объем инвестиций в проект превысит 1 млрд рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26048041",
-    "time": "2025-12-29T15:06:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Phantom Blade Zero достигла миллиона добавлений в список желаемого на ПК и PS5 за 15 дней",
-    "description": "Китайские разработчики пообещали регулярно делиться деталями амбициозного экшена вплоть до релиза в сентябре 2026 года.",
-    "fullText": "Китайские разработчики пообещали регулярно делиться деталями амбициозного экшена вплоть до релиза в сентябре 2026 года.",
-    "image": "https://leonardo.osnova.io/ccdb6ed6-8471-5d71-a554-ec79912362f3/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4570385-phantom-blade-zero-million-zhelayemykh-na-pk-i-ps5?from=rss",
-    "time": "2025-12-29T13:42:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -33,14 +11,36 @@
     "time": "2025-12-29T11:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Ольга Любимова: в 2025 году общие сборы в российском прокате составили 49,6 миллиарда рублей — это рост на 10%",
+    "description": "Однако зрителей оказалось меньше, чем по итогам 2024-го.",
+    "fullText": "Однако зрителей оказалось меньше, чем по итогам 2024-го.",
+    "image": "https://leonardo.osnova.io/9e48ca8c-c84d-5286-87cc-d533181d382f/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4570072-olga-lyubimova-sbory-rossiyskogo-prokata-2025?from=rss",
+    "time": "2025-12-29T10:51:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучшая команда Востока разлетелась после столкновения с киборгом",
-    "description": "55 очков от Ленарда.",
-    "fullText": "55 очков от Ленарда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/d0/eddba928144b4ae78efcad4549d59.jpeg",
+    "title": "Чудо-голы (стиль Ибры, прямо с угловых, крученые), истерики, протесты, скандалы. Главное за год в нашей Второй лиге",
+    "description": "Аж 5 «Динамо» в одной таблице.",
+    "fullText": "Аж 5 «Динамо» в одной таблице.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/16/f80ec128b43759eb0ccdd2d1a8690.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3373633.html",
-    "time": "2025-12-29T10:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3367934.html",
+    "time": "2025-12-29T10:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
