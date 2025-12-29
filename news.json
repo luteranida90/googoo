@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гусев заявил о важности оставлять в местных музеях находки из Воронежа",
-    "description": "В ходе археологического обследования территории строительства автомобильной дороги Р-22 \"Каспий\" были найдены 28 древних погребений",
-    "fullText": "В ходе археологического обследования территории строительства автомобильной дороги Р-22 \"Каспий\" были найдены 28 древних погребений",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26049445",
-    "time": "2025-12-29T17:10:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Возрождение ситкома «Малкольм в центре внимания» выйдет на Hulu в апреле 2026 года — первый тизер",
-    "description": "Фрэнки Муниз, Брайан Крэнстон и другие актёры повторили свои роли.",
-    "fullText": "Фрэнки Муниз, Брайан Крэнстон и другие актёры повторили свои роли.",
-    "image": "https://leonardo.osnova.io/283cac78-3176-56c6-bc91-417509042f3d/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4570476-vozrozhdenie-malcolma-v-tsentre-vnimaniya-na-hulu?from=rss",
-    "time": "2025-12-29T14:22:36.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«В тот день, когда завоевываем трофей – полночи свет в домах горит». Рашников – о любви к «Металлургу»",
     "description": "Шестой герой сериала «7-10 главных вопросов».",
@@ -34,13 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "17 неочевидных людей из нашей фигурки, которым стоит поаплодировать за 2025-й",
-    "description": "Вспоминаем хорошее.",
-    "fullText": "Вспоминаем хорошее.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/03/5def943d9413b9a993c9b4ead7e12.jpeg",
+    "title": "«3:2 – великая победа, отличный результат». Ирония Моуринью после отмененного гола и 2:2 с «Брагой»",
+    "description": "У «Бенфики» отменили два гола.",
+    "fullText": "У «Бенфики» отменили два гола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/0e/e4be5c0094a4aabdede2c4571ff5d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3373202.html",
-    "time": "2025-12-29T12:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3373644.html",
+    "time": "2025-12-29T13:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "GamesVoice планирует выпустить русскую озвучку для Clair Obscur: Expedition 33 в феврале 2026 года",
+    "description": "В январе её будут тестировать.",
+    "fullText": "В январе её будут тестировать.",
+    "image": "https://leonardo.osnova.io/d5f7d68e-68a6-548f-bbcf-73fcff51dce6/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4569929-gamesvoice-vypustit-russkuyu-ozvuchku-clair-obscur-expedition-33?from=rss",
+    "time": "2025-12-29T08:50:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
