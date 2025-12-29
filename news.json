@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ушаков: Путин и Трамп провели новый разговор",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
+    "title": "Директора музея \"Ростовский кремль\" назначили руководить Музеем оружия в Туле",
+    "description": "Им стал Никита Аникин",
+    "fullText": "Им стал Никита Аникин",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26048759",
-    "time": "2025-12-29T16:13:44.000Z"
+    "url": "https://tass.ru/kultura/26048997",
+    "time": "2025-12-29T16:24:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Возрождение ситкома «Малкольм в центре внимания» выйдет на Hulu в апреле 2026 года — первый тизер",
+    "description": "Фрэнки Муниз, Брайан Крэнстон и другие актёры повторили свои роли.",
+    "fullText": "Фрэнки Муниз, Брайан Крэнстон и другие актёры повторили свои роли.",
+    "image": "https://leonardo.osnova.io/283cac78-3176-56c6-bc91-417509042f3d/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4570476-vozrozhdenie-malcolma-v-tsentre-vnimaniya-na-hulu?from=rss",
+    "time": "2025-12-29T14:22:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«В тот день, когда завоевываем трофей – полночи свет в домах горит». Рашников – о любви к «Металлургу»",
+    "description": "Шестой герой сериала «7-10 главных вопросов».",
+    "fullText": "Шестой герой сериала «7-10 главных вопросов».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/8d/d5aee38a44ed1a27aa7349f32c392.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/3lmn9q",
+    "time": "2025-12-29T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://www.sports.ru/basketball/blogs/3373563.html",
     "time": "2025-12-29T11:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Легионер какого клуба читал стихи Пушкина на FONBET Матче звезд КХЛ?",
-    "description": "И 11 других вопросов про КХЛ.",
-    "fullText": "И 11 других вопросов про КХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/5d/c8775fbf146cf9390a8d213aff8e2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/0z5rhs",
-    "time": "2025-12-29T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер Persona заявил, что «в 2026 году будет возможность поговорить о будущем франшизы»",
-    "description": "Пока не факт, что речь идёт о следующей части.",
-    "fullText": "Пока не факт, что речь идёт о следующей части.",
-    "image": "https://leonardo.osnova.io/bcd62a1a-0124-5854-b04b-837a08bbfeed/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4570174-producer-persona-o-budushchem-franshizy-v-2026-godu?from=rss",
-    "time": "2025-12-29T11:26:13.000Z"
   }
 ]
