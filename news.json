@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ученые рассказали, как разлив мазута повлиял на зоопланктон крымского шельфа",
-    "description": "Техногенное загрязнение Черного моря не отразилось на сезонной численности и биомассе личинок двустворчатых моллюсков и медуз",
-    "fullText": "Техногенное загрязнение Черного моря не отразилось на сезонной численности и биомассе личинок двустворчатых моллюсков и медуз",
+    "title": "Синоптики рассказали, когда в Москве и Подмосковье начнется потепление",
+    "description": "В Гидрометцентре РФ заявили, что в регионе потеплеет на третьи сутки нового года",
+    "fullText": "В Гидрометцентре РФ заявили, что в регионе потеплеет на третьи сутки нового года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nauka/26044837",
-    "time": "2025-12-29T10:33:48.000Z"
+    "url": "https://tass.ru/obschestvo/26045469",
+    "time": "2025-12-29T10:54:57.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://sirena.world/57bpx7",
     "time": "2025-12-29T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Спорту не нужны итоги года",
+    "description": "И некоторым из нас тоже.",
+    "fullText": "И некоторым из нас тоже.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/5c/8087b3ca34458b96d1266fdd8765c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3373434.html",
+    "time": "2025-12-29T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -44,25 +55,14 @@
     "time": "2025-12-29T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 игроков НБА, которые только и бросают трехочковые",
-    "description": "Им не нужно приближаться к кольцу.",
-    "fullText": "Им не нужно приближаться к кольцу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/d0/5e165be454aa4a0fef730551c2b41.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3373254.html",
-    "time": "2025-12-29T06:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Предпоследний эпизод «Очень странных дел» получил 5,9 балла на IMDb — это антирекорд для сериала",
-    "description": "Прежде худший результат был у одной из серий второго сезона.",
-    "fullText": "Прежде худший результат был у одной из серий второго сезона.",
-    "image": "https://leonardo.osnova.io/c998d177-565c-55ad-818c-f090c35b769b/",
+    "title": "Экранизацию Sleeping Dogs снимет режиссёр «Никто 2» Тимо Тьяджанто",
+    "description": "Главная роль закреплена за звездой «Шан-Чи» Симу Лю.",
+    "fullText": "Главная роль закреплена за звездой «Шан-Чи» Симу Лю.",
+    "image": "https://leonardo.osnova.io/0d828f1d-7c84-5c4a-a339-4110f874e87c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4568172-reyting-epizoda-ochen-strannykh-del-upal-do-5-9?from=rss",
-    "time": "2025-12-28T11:03:03.000Z"
+    "url": "https://dtf.ru/cinema/4568709-ekranizatsiya-sleeping-dogs-simu-lyu-timo-tyadzhanto?from=rss",
+    "time": "2025-12-28T15:23:34.000Z"
   }
 ]
