@@ -1,14 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Казначейство России может принимать платежи в цифровых рублях",
-    "description": "Плательщики, имеющие цифровые \"кошельки\" на платформе цифрового рубля, начиная с 1 января 2026 года могут осуществить платежи в бюджет в цифровых рублях, используя уникальный идентификатор начислений",
-    "fullText": "Плательщики, имеющие цифровые \"кошельки\" на платформе цифрового рубля, начиная с 1 января 2026 года могут осуществить платежи в бюджет в цифровых рублях, используя уникальный идентификатор начислений",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251229/8717759.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "10 главных событий в киберспорте за 2025 год",
+    "description": "От Эвелона до «спящих бизнесменов».",
+    "fullText": "От Эвелона до «спящих бизнесменов».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/76/e2a32b0a84fd1847369958c6d5da3.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26050307",
-    "time": "2025-12-29T19:05:01.000Z"
+    "url": "https://cyber.sports.ru/dota2/blogs/3373121.html",
+    "time": "2025-12-29T19:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Остапенко (выиграла $19 млн) продает пробники парфюма, старые вещи и пылесосы. Серьезно?",
+    "description": "Кому кроссовки Gucci за 280 евро?",
+    "fullText": "Кому кроссовки Gucci за 280 евро?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/1c/3e7b891354061b1ed57bf3eb5a171.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3372493.html",
+    "time": "2025-12-29T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +33,6 @@
     "time": "2025-12-29T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура АПЛ: новый лидер «МЮ», лучший в атаке, главный по сэйвам во всей лиге",
-    "description": "И альтернативы на новый.",
-    "fullText": "И альтернативы на новый.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/51/7b9b387f9458bb7a12b9c34f6bd2b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373384.html",
-    "time": "2025-12-29T14:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Нет никакого „снайдерката“ сериала»: актёр из «Очень странных дел» отверг слухи о вырезанных сценах в пятом сезоне",
     "description": "Петиция с просьбой показать их набрала почти 300 тысяч подписей.",
@@ -42,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4570031-sluhy-o-vyrezannyh-scenah-v-pyatom-sezone-ochen-strannyh-del?from=rss",
     "time": "2025-12-29T10:23:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
