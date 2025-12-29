@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Экс-главу научно-технического комитета ГРАУ МО Жежука осудили на пять лет",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250129/8035257.png",
+    "title": "Национальная страховая информационная система завершила интеграцию с ФГИС \"Такси\"",
+    "description": "По словам главы НСИС Николая Галушина, если у таксиста не окажется полиса ОСАГО, то может быть отозвано разрешение на деятельность в качестве такси",
+    "fullText": "По словам главы НСИС Николая Галушина, если у таксиста не окажется полиса ОСАГО, то может быть отозвано разрешение на деятельность в качестве такси",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26046061",
-    "time": "2025-12-29T12:25:23.000Z"
+    "url": "https://tass.ru/ekonomika/26046775",
+    "time": "2025-12-29T13:26:51.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В «Тампе» – новый русский! Уезжал форвардом, а зашел в НХЛ защитником",
-    "description": "У Грошева – пас в матче с «Монреалем».",
-    "fullText": "У Грошева – пас в матче с «Монреалем».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9b/e8b8e66c147108d05bed2097c3250.jpeg",
+    "title": "Главная академия мира растет в Эквадоре",
+    "description": "Рассказ Игоря Сергеева.",
+    "fullText": "Рассказ Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/5f/90997d844483bafc8cf8b9f37833c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3373603.html",
-    "time": "2025-12-29T08:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3373176.html",
+    "time": "2025-12-29T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Konami планирует ежегодно выпускать по одной новой Silent Hill",
-    "description": "Продюсер серии надеется сохранить их качество на высоком уровне.",
-    "fullText": "Продюсер серии надеется сохранить их качество на высоком уровне.",
-    "image": "https://leonardo.osnova.io/0c56462a-cae7-514e-8c27-f366a96855c0/",
+    "title": "Серверы Rainbow Six Siege снова онлайн — их откатили после хакерской атаки",
+    "description": "Однако магазин по-прежнему недоступен.",
+    "fullText": "Однако магазин по-прежнему недоступен.",
+    "image": "https://leonardo.osnova.io/7b9816fe-c510-56a0-80b2-23a31bc34aad/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4568446-konami-planiruet-vypuskat-odnu-novuyu-igru-silent-hill-ezhegodno?from=rss",
-    "time": "2025-12-28T13:32:33.000Z"
+    "url": "https://dtf.ru/games/4569732-servera-rainbow-six-siege-vosstanovleny-posle-hakerskoy-ataki?from=rss",
+    "time": "2025-12-29T06:40:43.000Z"
   }
 ]
