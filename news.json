@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ford подал две заявки на регистрацию товарных знаков в РФ",
+    "description": "Заявки поступили 26 декабря из США",
+    "fullText": "Заявки поступили 26 декабря из США",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26044379",
+    "time": "2025-12-29T09:40:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Хотите расслабиться за 5 минут без соцсетей? Попробуйте вытащить капибару из нашего автомата",
+    "description": "И выигрывайте новогодние подарки!",
+    "fullText": "И выигрывайте новогодние подарки!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/78/d5e0bf7634e9189bae855dd109e02.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/57bpx7",
+    "time": "2025-12-29T09:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Спортс’’ выпустил свой журнал",
     "description": "Вы уже можете его заказать.",
@@ -23,35 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Энди Кэрролла ждет суд – грозит тюрьма? Экс-форварда «Ливерпуля» обвиняют в преследовании",
-    "description": "Вот в чем дело.",
-    "fullText": "Вот в чем дело.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/48/96374883e4eb7ad88b27d07a9206c.jpeg",
+    "title": "«Говорят, Кэйл Макар – худшее, что случилось в хоккее». Интервью Марченко из «Ак Барса»",
+    "description": "Много историй из НХЛ.",
+    "fullText": "Много историй из НХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/94/2c8aa177e47e0a96dfed11e880052.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373541.html",
-    "time": "2025-12-28T23:25:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3371606.html",
+    "time": "2025-12-29T01:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Утечка: ассеты BioShock 4 и подробности об игре",
-    "description": "Действие, по всей видимости, развернётся в заледенелой местности.",
-    "fullText": "Действие, по всей видимости, развернётся в заледенелой местности.",
-    "image": "https://leonardo.osnova.io/ea215e4b-4ecc-5a31-a9b9-e1d95847cafe/",
+    "title": "Инсайдер: нативная версия первой Kingdom Come для консолей текущего поколения выйдет в феврале 2026 года",
+    "description": "Она будет портом ПК-версии.",
+    "fullText": "Она будет портом ПК-версии.",
+    "image": "https://leonardo.osnova.io/977128d3-02d6-5af7-9202-b9dd41374479/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4568055-bioshock-4-podrobnosti-i-utechka-assetov?from=rss",
-    "time": "2025-12-28T10:48:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4568626-native-version-kingdom-come-deliverance-2026?from=rss",
+    "time": "2025-12-28T14:40:34.000Z"
   }
 ]
