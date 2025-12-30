@@ -1,25 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Выборге завершилась реставрация Равелинных ворот",
+    "description": "С сооружения уже сняли строительные леса",
+    "fullText": "С сооружения уже сняли строительные леса",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/26058059",
+    "time": "2025-12-30T13:19:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "🥕 Кто из футбольных звезд будет рад мешку моркови на Новый год?",
-    "description": "Выбираем подарки.",
-    "fullText": "Выбираем подарки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/2c/52277cf054c069221120a4d602ef4.png",
+    "title": "Кто заберет три очка? Ставьте на «Арсенал» или «Астон Виллу» с фрибетом",
+    "description": "7777 рублей от Лиги Ставок.",
+    "fullText": "7777 рублей от Лиги Ставок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/af/cd2e63a2b4b659d0f0208907d1e48.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/83v9je",
-    "time": "2025-12-30T09:30:00.000Z"
+    "url": "https://sirena.world/nqenyq",
+    "time": "2025-12-30T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новогодняя милота от ЦСКА: звезды против 170 детей 😍",
-    "description": "Новая традиция.",
-    "fullText": "Новая традиция.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/91/c96cc2a3b4589b16a30ff8c252e85.jpeg",
+    "title": "Гол потерял в цене. Набить личную статистику теперь проще",
+    "description": "Роналдо забивал бы больше Роналду и Месси?",
+    "fullText": "Роналдо забивал бы больше Роналду и Месси?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/26/d4444008a46f1b91d433f89619b96.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373692.html",
-    "time": "2025-12-30T08:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372118.html",
+    "time": "2025-12-30T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4570739-cd-projekt-prodala-gog-soosnovatelyu-mikhallu-kichinskomu?from=rss",
     "time": "2025-12-29T16:37:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
