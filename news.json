@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Посол РФ в Канаде: режим Зеленского в агонии",
+    "description": "Оттава не получит выгоды от помощи Киеву, указал Олег Степанов",
+    "fullText": "Оттава не получит выгоды от помощи Киеву, указал Олег Степанов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26060283",
+    "time": "2025-12-30T19:04:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов выиграл три Кубка Гагарина?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Ребров работал ассистентом тренера и почему не хочет тренировать?",
-    "description": "Новый хит.",
-    "fullText": "Новый хит.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/5d/a018bae944172bb271200face9417.jpeg",
+    "title": "Последняя сборная России на МЧМ. Где сейчас игроки с отмененного турнира?",
+    "description": "Мичков и все-все-все.",
+    "fullText": "Мичков и все-все-все.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ce/a2ad563194bb69cc187e11fc152a4.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372485.html",
-    "time": "2025-12-30T14:35:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3372601.html",
+    "time": "2025-12-30T14:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4571901-naoe-i-yasuke-assassins-creed-shadows?from=rss",
     "time": "2025-12-30T09:49:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
