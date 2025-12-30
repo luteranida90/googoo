@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Национальный центр исторической памяти создаст реестр зарубежных захоронений в РФ",
-    "description": "Руководитель НЦИП Елена Малышева отметила, что \"эта работа не является новой\" ни для государства, ни для Национального центра",
-    "fullText": "Руководитель НЦИП Елена Малышева отметила, что \"эта работа не является новой\" ни для государства, ни для Национального центра",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26059945",
-    "time": "2025-12-30T18:02:20.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Знаете, с какой командой Зинэтула Билялетдинов выиграл три Кубка Гагарина?",
     "description": "И 11 других вопросов про КХЛ.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Русский бразилец проведет схватку с бойцом без ног. Его любимый прием – скручивание пятки",
-    "description": "«Самый вирусный поединок по грэпплингу в истории».",
-    "fullText": "«Самый вирусный поединок по грэпплингу в истории».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a8/db8a9aae042f6a566f9e766f32f8d.jpeg",
+    "title": "Как Ребров работал ассистентом тренера и почему не хочет тренировать?",
+    "description": "Новый хит.",
+    "fullText": "Новый хит.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/5d/a018bae944172bb271200face9417.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3373687.html",
-    "time": "2025-12-30T14:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372485.html",
+    "time": "2025-12-30T14:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На «Кинопоиске» вышли три серии «Киберслава»",
-    "description": "Первый эпизод выпустили год назад.",
-    "fullText": "Первый эпизод выпустили год назад.",
-    "image": "https://leonardo.osnova.io/1f3d54f6-0f84-5f43-9519-bff9b2651c24/",
+    "title": "Наоэ и Ясукэ из Assassin&#039;s Creed Shadows повлияют на то, как будут двигаться будущие герои франшизы",
+    "description": "Одинаковых физических возможностей от всех ждать не стоит.",
+    "fullText": "Одинаковых физических возможностей от всех ждать не стоит.",
+    "image": "https://leonardo.osnova.io/665ef999-2d4d-5810-ad92-73741f9b584f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4571626-novye-serii-kiberslava-na-kinopoyske-epizody-2-4?from=rss",
-    "time": "2025-12-30T07:14:30.000Z"
+    "url": "https://dtf.ru/games/4571901-naoe-i-yasuke-assassins-creed-shadows?from=rss",
+    "time": "2025-12-30T09:49:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
