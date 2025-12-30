@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Петербурге на теплопроводе в зоне аварии оказалось два автомобиля",
+    "description": "Движение транспорта на участке ограничено",
+    "fullText": "Движение транспорта на участке ограничено",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26059033",
+    "time": "2025-12-30T15:29:56.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хотите расслабиться за 5 минут без соцсетей? Попробуйте вытащить капибару из нашего автомата",
     "description": "И выигрывайте новогодние подарки!",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Забастовка в американском хоккее! Игроки отменили матчи и заявили о нарушении законов",
-    "description": "Рождественское безумие в ECHL.",
-    "fullText": "Рождественское безумие в ECHL.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/05/1507163b24513bc63ed0d74dcfa04.jpeg",
+    "title": "Как дела у наших гонщиков? Доминатор в картинге, Шварцман с историческим поулом, Квят проиграл гонку ИИ",
+    "description": "Что было в 2025-м?",
+    "fullText": "Что было в 2025-м?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/37/8ba3287704f86912449b888fbc26f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3373787.html",
-    "time": "2025-12-30T12:10:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372780.html",
+    "time": "2025-12-30T12:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Итоги 2025 года в Steam: Black Ops 7 не попала в «платиновый» чарт среди новинок по выручке",
-    "description": "Hollow Knight: Silksong, Kingdom Come: Deliverance II и ремастер The Elder Scrolls IV: Oblivion стали одними из лидеров.",
-    "fullText": "Hollow Knight: Silksong, Kingdom Come: Deliverance II и ремастер The Elder Scrolls IV: Oblivion стали одними из лидеров.",
-    "image": "https://leonardo.osnova.io/32b99c3f-03d7-5642-bd85-83e8acf29069/",
+    "title": "Ремейк Sword and Fairy 4 получил первый трейлер — в сети заметили сходство с Clair Obscur: Expedition 33",
+    "description": "Пользователи уже назвали игру «Expedition 44» и «Китайской Экспедицией».",
+    "fullText": "Пользователи уже назвали игру «Expedition 44» и «Китайской Экспедицией».",
+    "image": "https://leonardo.osnova.io/97f4f0e8-56c7-5f17-b8b2-21222e5b8149/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4570914-itogi-2025-goda-v-steam?from=rss",
-    "time": "2025-12-29T19:34:36.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4571103-remeik-sword-and-fairy-4-pervyj-trejler?from=rss",
+    "time": "2025-12-29T20:32:13.000Z"
   }
 ]
