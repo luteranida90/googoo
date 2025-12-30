@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Азаров назвал \"лепетом\" попытки Зеленского отстраниться от атаки на резиденцию Путина",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250129/8035257.png",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26054227",
-    "time": "2025-12-30T08:09:52.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Ван дер Сар и Адама Траоре – какой клуб их объединяет?",
     "description": "Подсказка: не «Юнайтед».",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Собаки на вбрасываниях? Чирлидерши на льду? Такое бывает на матчах КХЛ?",
-    "description": "Тест о развлечениях на матчах.",
-    "fullText": "Тест о развлечениях на матчах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/21/2e9c27c1c4d9094732c3dac1d9dcc.jpeg",
+    "title": "Итоги голосования «Лучший спортсмен мира-2025». Вы еще раз выбрали Овечкина!",
+    "description": "Лучший не только в России!",
+    "fullText": "Лучший не только в России!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/65/f4215e2164fd7a46eef8e212acefe.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3369282.html",
-    "time": "2025-12-30T04:30:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3373424.html",
+    "time": "2025-12-30T05:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4569925-luchshie-i-hudshie-pk-porty-2025-goda?from=rss",
     "time": "2025-12-29T09:35:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
