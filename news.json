@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Аэропорт Пулково работает штатно",
+    "description": "Задерживается около 20 рейсов",
+    "fullText": "Задерживается около 20 рейсов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26060791",
+    "time": "2025-12-30T22:13:59.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
     "description": "Вызов для ценителей футбола.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Леброну 41! Но вы его называете «дедом» уже почти 10 лет",
-    "description": "Не болей, старичок.",
-    "fullText": "Не болей, старичок.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/f5/a1ac76ad043029864eb160af3ef3d.jpeg",
+    "title": "«Ф-1» покидает команда-легенда: «Заубер» гонял с лого МТС и «Челси», здесь начинали Кими и Феттель",
+    "description": "Теперь «Ауди».",
+    "fullText": "Теперь «Ауди».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/7c/9d7f1679e4f7d950d3a7ecf931bb0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3373935.html",
-    "time": "2025-12-30T17:50:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372226.html",
+    "time": "2025-12-30T18:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4572503-tretiy-sezon-seriala-terapiya-s-harrisonom-fordom?from=rss",
     "time": "2025-12-30T15:50:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
