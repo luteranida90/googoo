@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эмиля Кио похоронят на Троекуровском кладбище",
-    "description": "Прощание с народным артистом РФ состоится 2 января",
-    "fullText": "Прощание с народным артистом РФ состоится 2 января",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251230/8719781.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26058493",
-    "time": "2025-12-30T13:54:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто заберет три очка? Ставьте на «Арсенал» или «Астон Виллу» с фрибетом",
     "description": "7777 рублей от Лиги Ставок.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "30 самых заплюсованных постов 2025 года",
-    "description": "Добавляйте в закладки.",
-    "fullText": "Добавляйте в закладки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a3/f058166984cfdb4392c33755630d4.jpeg",
+    "title": "Где смотреть зимний спорт в праздники? «Тур де Ски» с нашими, шоу-гонка в Рязани",
+    "description": "Телегид.",
+    "fullText": "Телегид.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a9/0ae607f0d4a97b72e1b4f282c016a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373118.html",
-    "time": "2025-12-30T10:40:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3373905.html",
+    "time": "2025-12-30T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CD Projekt продала GOG — покупателем выступил сооснователь компании и сервиса",
-    "description": "Для пользователей ничего не изменится.",
-    "fullText": "Для пользователей ничего не изменится.",
-    "image": "https://leonardo.osnova.io/f307afae-3767-5e4d-8cc2-c700d862ceb5/",
+    "title": "Райан Куглер заявил, что перезапуск «Секретных материалов» не будет отходить от оригинальной концепции",
+    "description": "Сериал выйдет до релиза «Чёрной пантеры 3», отметил режиссёр.",
+    "fullText": "Сериал выйдет до релиза «Чёрной пантеры 3», отметил режиссёр.",
+    "image": "https://leonardo.osnova.io/8802bb5a-b216-5883-9462-dd2c2a09a31c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4570739-cd-projekt-prodala-gog-soosnovatelyu-mikhallu-kichinskomu?from=rss",
-    "time": "2025-12-29T16:37:39.000Z"
+    "url": "https://dtf.ru/cinema/4570859-rajan-kugler-o-perezapuske-sekretnyx-materialov?from=rss",
+    "time": "2025-12-29T18:18:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
