@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В британской больнице выходец из Афганистана ранил ломом пять человек",
-    "description": "По данным правоохранительных органов, 20-летний мужчина обратился в больницу, однако когда ему отказали в приеме у врача и попросили покинуть лечебное учреждение из-за его взвинченного состояния",
-    "fullText": "По данным правоохранительных органов, 20-летний мужчина обратился в больницу, однако когда ему отказали в приеме у врача и попросили покинуть лечебное учреждение из-за его взвинченного состояния",
+    "title": "В Евротоннеле начали курсировать первые поезда Eurostar после сбоя",
+    "description": "Телеканал Sky News сообщает, что тысячи человек продолжают оставаться на вокзалах Лондона и Парижа",
+    "fullText": "Телеканал Sky News сообщает, что тысячи человек продолжают оставаться на вокзалах Лондона и Парижа",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26060343",
-    "time": "2025-12-30T19:20:40.000Z"
+    "url": "https://tass.ru/obschestvo/26060441",
+    "time": "2025-12-30T19:48:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новичок Дюрэнт не успел спасти «Сиэтл» от переезда. Но залетел в НБА суперзвездой уже в 19",
+    "description": "Возвращаемся в 2007-й.",
+    "fullText": "Возвращаемся в 2007-й.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/30/81bf0c6224eeab3b239202bf0ded1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3373433.html",
+    "time": "2025-12-30T16:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4572503-tretiy-sezon-seriala-terapiya-s-harrisonom-fordom?from=rss",
     "time": "2025-12-30T15:50:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "30 самых заплюсованных постов 2025 года",
-    "description": "Добавляйте в закладки.",
-    "fullText": "Добавляйте в закладки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a3/f058166984cfdb4392c33755630d4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373118.html",
-    "time": "2025-12-30T15:50:00.000Z"
   }
 ]
