@@ -11,6 +11,17 @@
     "time": "2025-12-31T19:10:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В центре Петербурга заменили участок теплотрассы после аварии",
+    "description": "Жилищные организации оповестили о необходимости подключения жилых домов к сети теплоснабжения",
+    "fullText": "Жилищные организации оповестили о необходимости подключения жилых домов к сети теплоснабжения",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26065189",
+    "time": "2025-12-31T19:04:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Главное в спорте-2025. Наша панорама – только по-новому",
     "description": "Самое важное за год.",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4574807-dzhordzh-kluni-vozvrashchenie-zvezd-v-chetyrnadtsati-druzyakh-ushena?from=rss",
     "time": "2025-12-30T18:21:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
