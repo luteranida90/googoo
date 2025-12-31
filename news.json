@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "После отражения атаки Киева на резиденцию Путина пострадавших и разрушений в РФ нет",
-    "description": "",
-    "fullText": "",
+    "title": "На \"Архызе\" открылся музыкальный фестиваль \"Новогоднее сияние\"",
+    "description": "Мероприятие продлится с 31 декабря по 2 января",
+    "fullText": "Мероприятие продлится с 31 декабря по 2 января",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26063037",
-    "time": "2025-12-31T09:11:08.000Z"
+    "url": "https://tass.ru/obschestvo/26063339",
+    "time": "2025-12-31T09:58:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Эстетика кулачных боев – глазами девушки-фотографа",
+    "description": "30 кровавых снимков.",
+    "fullText": "30 кровавых снимков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ff/5beae178947538ef847f4ec39e48a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3373662.html",
+    "time": "2025-12-31T05:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2025-12-31T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сборная «Спартака» за 25 лет: Видич, Промес, Комбаров. Тренер – Каррера",
-    "description": "Версия Чернявского.",
-    "fullText": "Версия Чернявского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/db/2cd78aeec4164a5a2dcbbf4d3f076.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373122.html",
-    "time": "2025-12-30T22:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Хищник: Планета смерти» официально выйдет в «цифре» 6 января 2026 года",
-    "description": "Фильм в том числе получится посмотреть в 4K и с HDR.",
-    "fullText": "Фильм в том числе получится посмотреть в 4K и с HDR.",
-    "image": "https://leonardo.osnova.io/b3358358-a6d3-502b-9018-0f4c8b04de3c/",
+    "title": "В Epic Game Store началась раздача Trine Classic Collection — в бандл вошло четыре части серии",
+    "description": "Забрать бандл можно в течение суток, но не в регионе РФ.",
+    "fullText": "Забрать бандл можно в течение суток, но не в регионе РФ.",
+    "image": "https://leonardo.osnova.io/d805c694-d71f-5e87-b8c1-bb9c1e116fbe/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4572613-khishchnik-planeta-smerti-vykhod-6-yanvarya-2026?from=rss",
-    "time": "2025-12-30T16:30:13.000Z"
+    "url": "https://dtf.ru/games/4572572-razdacha-trine-classic-collection-v-epic-game-store?from=rss",
+    "time": "2025-12-30T16:12:20.000Z"
   }
 ]
