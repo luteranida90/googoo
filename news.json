@@ -8,7 +8,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/gol-game",
-    "time": "2026-01-01T21:30:00.000Z"
+    "time": "2026-01-01T20:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -19,7 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/luk_stream_2025",
-    "time": "2026-01-01T20:30:00.000Z"
+    "time": "2026-01-01T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -45,25 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Весь мир нервно следил за новостями о травме Йокича. Фууух, можно сказать – обошлось",
-    "description": "Но пропустит не меньше месяца.",
-    "fullText": "Но пропустит не меньше месяца.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/82/a9969256444b18e718da56d345c0d.jpeg",
+    "title": "5 сюжетов, которые порадовали в 2025-м. Выбор Вадима Лукомского",
+    "description": "«Барса», «ПСЖ», Кейн.",
+    "fullText": "«Барса», «ПСЖ», Кейн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4d/47cabe08249a39ec7180ec2dc9625.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3373997.html",
-    "time": "2026-01-01T14:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Новгородской области число жителей без света сократилось вдвое",
-    "description": "Без электроэнергии остаются более 2,6 тыс. человек",
-    "fullText": "Без электроэнергии остаются более 2,6 тыс. человек",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26065731",
-    "time": "2025-12-31T21:27:12.000Z"
+    "url": "https://www.sports.ru/football/blogs/3374101.html",
+    "time": "2026-01-01T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -75,5 +64,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4574807-dzhordzh-kluni-vozvrashchenie-zvezd-v-chetyrnadtsati-druzyakh-ushena?from=rss",
     "time": "2025-12-30T18:21:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
