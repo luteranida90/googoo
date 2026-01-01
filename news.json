@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошли взрывы",
-    "description": "На территории Сумской области действовует воздушная тревога",
-    "fullText": "На территории Сумской области действовует воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Главное в спорте-2025. Наша панорама – только по-новому",
+    "description": "Самое важное за год.",
+    "fullText": "Самое важное за год.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/21/6992f814e4f1f9c2d2dd7e4555731.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26065891",
-    "time": "2025-12-31T23:09:21.000Z"
+    "url": "https://m.sports.ru/yearbook/?ref=general&ref2=editorial&ref3=supertop",
+    "time": "2026-01-01T03:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -44,17 +44,6 @@
     "time": "2025-12-31T19:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Главное в спорте-2025. Наша панорама – только по-новому",
-    "description": "Самое важное за год.",
-    "fullText": "Самое важное за год.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/21/6992f814e4f1f9c2d2dd7e4555731.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/yearbook/?ref=general&ref2=editorial&ref3=supertop",
-    "time": "2025-12-31T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "5 сюжетов, которые порадовали в 2025-м. Выбор Вадима Лукомского",
     "description": "«Барса», «ПСЖ», Кейн.",
@@ -67,13 +56,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джордж Клуни заявил, что Джулия Робертс, Брэд Питт, Мэтт Дэймон и Дон Чидл вернутся к своим ролям в «Четырнадцати друзьях Оушена»",
-    "description": "Съёмки фильма начнутся в октябре 2026 года.",
-    "fullText": "Съёмки фильма начнутся в октябре 2026 года.",
-    "image": "https://leonardo.osnova.io/e01c38a9-a881-5cd2-94bf-229cf7b70782/",
+    "title": "Файтинг 2XKO от Riot выйдет на консолях 20 января",
+    "description": "Трейлер с датой опубликовали чуть раньше времени.",
+    "fullText": "Трейлер с датой опубликовали чуть раньше времени.",
+    "image": "https://leonardo.osnova.io/8607b637-6a17-5f0e-ac58-8d4daa35c02d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4574807-dzhordzh-kluni-vozvrashchenie-zvezd-v-chetyrnadtsati-druzyakh-ushena?from=rss",
-    "time": "2025-12-30T18:21:59.000Z"
+    "url": "https://dtf.ru/games/4576019-fayting-2xko-ot-riot-games-vyydet-na-ps5-i-xbox-20-yanvarya?from=rss",
+    "time": "2025-12-31T06:24:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
