@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Военная операция на Украине. Онлайн",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260101/8721845.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26066965",
+    "time": "2026-01-01T21:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "И правда, «Очень странные дела» – как завершилось главное шоу десятилетия",
     "description": "Путешествие от величия до разочарования.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3374260.html",
     "time": "2026-01-01T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Для опознания всех погибших при атаке на Хорлы нужна генетическая экспертиза",
-    "description": "Пока удалось установить личности семи человек, говорится на сайте губернатора Херсонской области",
-    "fullText": "Пока удалось установить личности семи человек, говорится на сайте губернатора Херсонской области",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26070309",
-    "time": "2026-01-01T19:21:30.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
