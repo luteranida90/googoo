@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Президент Швейцарии отложил новогоднее обращение",
-    "description": "Это связано с пожаром в баре на курорте Кран-Монтана, унесшем жизни десятков человек",
-    "fullText": "Это связано с пожаром в баре на курорте Кран-Монтана, унесшем жизни десятков человек",
+    "title": "Швейцарии может понадобиться помощь для лечения пострадавших в Кран-Монтане",
+    "description": "Председатель правительства кантона Матиас Рейнар назвал произошедшее \"очень серьезной катастрофой\"",
+    "fullText": "Председатель правительства кантона Матиас Рейнар назвал произошедшее \"очень серьезной катастрофой\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26068109",
-    "time": "2026-01-01T11:04:53.000Z"
+    "url": "https://tass.ru/proisshestviya/26068247",
+    "time": "2026-01-01T11:55:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "На чемпионатах мира больше голов у Роналду или Месси?",
+    "description": "Тест для настоящих знатоков футбола.",
+    "fullText": "Тест для настоящих знатоков футбола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/6a/54390c21343028395f06848248e09.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/gol-game",
+    "time": "2026-01-01T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,26 +44,15 @@
     "time": "2026-01-01T03:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Чего у Криштиану было больше в «Реале» – голов или матчей?",
-    "description": "Тест для настоящих болельщиков.",
-    "fullText": "Тест для настоящих болельщиков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/bf/7293834624b1fa117168bcbe2f59b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/gol-game",
-    "time": "2025-12-31T20:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Марсело, Альба, Бускетс и еще 20 звезд, закончивших в 2025-м. Провожаем их всех!",
-    "description": "Грустные итоги года.",
-    "fullText": "Грустные итоги года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/02/b341581eb4818bee6c4d07a7d2f48.jpeg",
+    "title": "25 главных побед России в спорте за 25 лет",
+    "description": "Добавляйте!",
+    "fullText": "Добавляйте!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/17/28c1320f34a5596103a387636350f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373525.html",
-    "time": "2025-12-31T20:15:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3373612.html",
+    "time": "2025-12-31T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
