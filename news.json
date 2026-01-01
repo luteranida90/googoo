@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Собянин: силы ПВО сбили три летевших на Москву БПЛА",
+    "description": "Специалисты экстренных служб ведут работы на месте падения обломков",
+    "fullText": "Специалисты экстренных служб ведут работы на месте падения обломков",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250620/8302805.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26069507",
+    "time": "2026-01-01T16:03:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "На чемпионатах мира больше голов у Роналду или Месси?",
     "description": "Тест для настоящих знатоков футбола.",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В российских онлайн-кинотеатрах состоялся релиз «Алисы в Стране Чудес» с Анной Пересильд",
-    "description": "Фильм снят на основе стихов Владимира Высоцкого.",
-    "fullText": "Фильм снят на основе стихов Владимира Высоцкого.",
-    "image": "https://leonardo.osnova.io/683f7bd5-0508-5766-a0b9-b2b29ddc4014/",
+    "title": "В «Марти Великолепном» герою Шаламе устраивают порку ракеткой по заднице — актёр отказался от дублёра, чтобы «всё было по-настоящему»",
+    "description": "Съёмки сцены растянулись на 40 дублей и длились до утра.",
+    "fullText": "Съёмки сцены растянулись на 40 дублей и длились до утра.",
+    "image": "https://leonardo.osnova.io/db2526c4-b761-57f9-bbf7-9e3bd765edcd/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4576160-reliz-filma-alisa-v-strane-chudes-s-annoy-peresild-v-rossii?from=rss",
-    "time": "2025-12-31T08:14:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4576548-shalame-v-marti-velikolepnom-otkazalsya-ot-dublera-dlya-porki-raketkoy?from=rss",
+    "time": "2025-12-31T11:29:36.000Z"
   }
 ]
