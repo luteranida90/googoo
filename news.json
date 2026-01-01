@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дочь Рязанова прокомментировала продолжение \"Иронии судьбы\"",
-    "description": "Картина исказила финал оригинального фильма, считает она",
-    "fullText": "Картина исказила финал оригинального фильма, считает она",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/26066751",
-    "time": "2026-01-01T07:16:53.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Главное в спорте-2025. Наша панорама – только по-новому",
     "description": "Самое важное за год.",
@@ -67,13 +56,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Файтинг 2XKO от Riot выйдет на консолях 20 января",
-    "description": "Трейлер с датой опубликовали чуть раньше времени.",
-    "fullText": "Трейлер с датой опубликовали чуть раньше времени.",
-    "image": "https://leonardo.osnova.io/8607b637-6a17-5f0e-ac58-8d4daa35c02d/",
+    "title": "Netflix зафиксировал рекордное число просмотров в Рождество на фоне выхода новых серий «Очень странных дел»",
+    "description": "Вторая часть пятого сезона привлекла более 34,5 миллиона зрителей.",
+    "fullText": "Вторая часть пятого сезона привлекла более 34,5 миллиона зрителей.",
+    "image": "https://leonardo.osnova.io/77c2cf4a-74a2-5a15-8b19-dacda250f351/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4576019-fayting-2xko-ot-riot-games-vyydet-na-ps5-i-xbox-20-yanvarya?from=rss",
-    "time": "2025-12-31T06:24:25.000Z"
+    "url": "https://dtf.ru/cinema/4576055-netflix-rekord-prosmotrov-rozhdestvo-ochen-strannye-dela?from=rss",
+    "time": "2025-12-31T07:16:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
