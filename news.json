@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Военная операция на Украине. Онлайн",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260101/8721845.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26066965",
-    "time": "2026-01-01T21:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "И правда, «Очень странные дела» – как завершилось главное шоу десятилетия",
     "description": "Путешествие от величия до разочарования.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3374260.html",
     "time": "2026-01-01T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Феррари» Шумахера – величайшая команда «Ф-1». Ее остановили специально",
+    "description": "Как прервали главный рекорд.",
+    "fullText": "Как прервали главный рекорд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/0f/5ed9dbfb64de9b59991e261ca7f7c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3357408.html",
+    "time": "2026-01-01T14:53:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +33,6 @@
     "time": "2026-01-01T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что почитать на каникулах? Рекомендация Сергея Игнашевича",
-    "description": "«Название одной из книг набил на бутсы».",
-    "fullText": "«Название одной из книг набил на бутсы».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/92/0485b126b44cdbf10e281a2d2fec1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372788.html",
-    "time": "2026-01-01T13:23:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В «Марти Великолепном» герою Шаламе устраивают порку ракеткой по заднице — актёр отказался от дублёра, чтобы «всё было по-настоящему»",
     "description": "Съёмки сцены растянулись на 40 дублей и длились до утра.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4576548-shalame-v-marti-velikolepnom-otkazalsya-ot-dublera-dlya-porki-raketkoy?from=rss",
     "time": "2025-12-31T11:29:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
