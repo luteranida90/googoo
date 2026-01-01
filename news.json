@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Панжинский: Непряева уже стала своей в лыжной тусовке Кубка мира",
-    "description": "Спортсменка занимает 16-е место в общем зачете \"Тур де Ски\"",
-    "fullText": "Спортсменка занимает 16-е место в общем зачете \"Тур де Ски\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26068991",
-    "time": "2026-01-01T14:01:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "На чемпионатах мира больше голов у Роналду или Месси?",
     "description": "Тест для настоящих знатоков футбола.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Где смотреть зимний спорт в праздники? «Тур де Ски» с нашими, шоу-гонка в Рязани",
-    "description": "Телегид.",
-    "fullText": "Телегид.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a9/0ae607f0d4a97b72e1b4f282c016a.jpeg",
+    "title": "У Мбаппе травма. Интрига – сколько пропустит",
+    "description": "3 недели или до финала Суперкубка?",
+    "fullText": "3 недели или до финала Суперкубка?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/40/abf4a9a074ffaa4c9e4d1c9170ec2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3373905.html",
-    "time": "2026-01-01T05:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3374191.html",
+    "time": "2026-01-01T06:04:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4576387-rafi-silver-podgotovka-k-roli-mistera-khausa-v-seriale-follaut?from=rss",
     "time": "2025-12-31T10:10:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
