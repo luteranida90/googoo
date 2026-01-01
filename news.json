@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мирошник назвал терроризмом атаку Киева в Херсонской области",
+    "description": "Подобный шаг продолжает череду бесчеловечных убийств, подчеркнул посол по особым поручениям МИД России по вопросам преступлений киевского режима",
+    "fullText": "Подобный шаг продолжает череду бесчеловечных убийств, подчеркнул посол по особым поручениям МИД России по вопросам преступлений киевского режима",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26066993",
+    "time": "2026-01-01T08:11:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Главное в спорте-2025. Наша панорама – только по-новому",
     "description": "Самое важное за год.",
@@ -45,14 +56,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "22 быстрых вывода по регулярке КХЛ",
-    "description": "Остались ли интриги?",
-    "fullText": "Остались ли интриги?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/26/c4bb41352481492b7804d09c9727f.jpeg",
+    "title": "Хорошо ли вы следили за спортом в XXI веке? Проверим одним этим тестом!",
+    "description": "Выбьете 25 из 25?",
+    "fullText": "Выбьете 25 из 25?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/6d/eb6980b3b4c55a513568679955771.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3374167.html",
-    "time": "2025-12-31T15:20:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3371530.html",
+    "time": "2025-12-31T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,16 +75,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4576055-netflix-rekord-prosmotrov-rozhdestvo-ochen-strannye-dela?from=rss",
     "time": "2025-12-31T07:16:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
