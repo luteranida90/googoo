@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Сумах произошли взрывы",
+    "description": "На территории Сумской области действовует воздушная тревога",
+    "fullText": "На территории Сумской области действовует воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26065891",
+    "time": "2025-12-31T23:09:21.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Чего у Криштиану было больше в «Реале» – голов или матчей?",
     "description": "Тест для настоящих болельщиков.",
@@ -8,7 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/gol-game",
-    "time": "2026-01-01T20:30:00.000Z"
+    "time": "2025-12-31T20:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -19,7 +30,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/luk_stream_2025",
-    "time": "2026-01-01T20:00:00.000Z"
+    "time": "2025-12-31T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -30,7 +41,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/games/blogs/3372821.html",
-    "time": "2026-01-01T19:10:00.000Z"
+    "time": "2025-12-31T19:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -41,7 +52,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://m.sports.ru/yearbook/?ref=general&ref2=editorial&ref3=supertop",
-    "time": "2026-01-01T15:30:00.000Z"
+    "time": "2025-12-31T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -52,7 +63,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3374101.html",
-    "time": "2026-01-01T15:00:00.000Z"
+    "time": "2025-12-31T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,16 +75,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4574807-dzhordzh-kluni-vozvrashchenie-zvezd-v-chetyrnadtsati-druzyakh-ushena?from=rss",
     "time": "2025-12-30T18:21:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
