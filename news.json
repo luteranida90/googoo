@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве в новогоднюю ночь родились 44 ребенка",
-    "description": "На свет появились 18 мальчиков и 26 девочек",
-    "fullText": "На свет появились 18 мальчиков и 26 девочек",
+    "title": "В Новгородской области полностью сгорела общеобразовательная школа",
+    "description": "Никто не пострадал",
+    "fullText": "Никто не пострадал",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26067293",
-    "time": "2026-01-01T09:13:20.000Z"
+    "url": "https://tass.ru/proisshestviya/26067731",
+    "time": "2026-01-01T09:54:26.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -33,6 +33,17 @@
     "time": "2025-12-31T20:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Марсело, Альба, Бускетс и еще 20 звезд, закончивших в 2025-м. Провожаем их всех!",
+    "description": "Грустные итоги года.",
+    "fullText": "Грустные итоги года.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/02/b341581eb4818bee6c4d07a7d2f48.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3373525.html",
+    "time": "2025-12-31T20:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Новогодние 3 часа с Лукомским: Вадим отвечает на ваши вопросы. Стрим на ВидеоСпортсе’‘",
     "description": "Теплый вечер.",
@@ -53,17 +64,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/games/blogs/3372821.html",
     "time": "2025-12-31T19:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "25 лучших футболистов мира не старше 18 лет",
-    "description": "От Казахстана до Аргентины.",
-    "fullText": "От Казахстана до Аргентины.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1a/aa4d8faaa42a8acb587dd163b04b3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374128.html",
-    "time": "2025-12-31T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
