@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Полиция не исключает жертв среди иностранцев на курорте Кран-Монтана",
-    "description": "В баре произошел пожар",
-    "fullText": "В баре произошел пожар",
+    "title": "Президент Швейцарии отложил новогоднее обращение",
+    "description": "Это связано с пожаром в баре на курорте Кран-Монтана, унесшем жизни десятков человек",
+    "fullText": "Это связано с пожаром в баре на курорте Кран-Монтана, унесшем жизни десятков человек",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26068037",
-    "time": "2026-01-01T10:46:02.000Z"
+    "url": "https://tass.ru/proisshestviya/26068109",
+    "time": "2026-01-01T11:04:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Модные дома тянутся к автоспорту: как на это повлиял Голливуд?",
+    "description": "Дело не только в Питте.",
+    "fullText": "Дело не только в Питте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/45/2255d8413432ca5509980b87430f6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/5hnjqb",
+    "time": "2026-01-01T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -42,17 +53,6 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3373525.html",
     "time": "2025-12-31T20:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Новогодние 3 часа с Лукомским: Вадим отвечает на ваши вопросы. Стрим на ВидеоСпортсе’‘",
-    "description": "Теплый вечер.",
-    "fullText": "Теплый вечер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/76/ab9e19b4047de9da6ac5b317a9716.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/luk_stream_2025",
-    "time": "2025-12-31T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
