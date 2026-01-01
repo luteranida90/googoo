@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Италии из-за взрывов петард в новогоднюю ночь один человек погиб и 283 ранены",
-    "description": "В числе раненых 68 несовершеннолетних",
-    "fullText": "В числе раненых 68 несовершеннолетних",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26069203",
-    "time": "2026-01-01T14:53:15.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "На чемпионатах мира больше голов у Роналду или Месси?",
     "description": "Тест для настоящих знатоков футбола.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Мбаппе травма. Интрига – сколько пропустит",
-    "description": "3 недели или до финала Суперкубка?",
-    "fullText": "3 недели или до финала Суперкубка?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/40/abf4a9a074ffaa4c9e4d1c9170ec2.jpeg",
+    "title": "ЧМ по дартсу – идеальное зрелище в Новый год. Как там наш любимчик Люк Литтлер?",
+    "description": "Главные фавориты перед 1/4.",
+    "fullText": "Главные фавориты перед 1/4.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/3c/0813e179e4cf195d7a47eb86ec5ab.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374191.html",
-    "time": "2026-01-01T06:04:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3374074.html",
+    "time": "2026-01-01T08:34:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Рафи Сильвер готовился к роли мистера Хауса для сериала «Фоллаут» по видео с YouTube",
-    "description": "Актёр перечислил любимых блогеров, специализирующихся на франшизе.",
-    "fullText": "Актёр перечислил любимых блогеров, специализирующихся на франшизе.",
-    "image": "https://leonardo.osnova.io/0c667da0-b53f-5c26-80c0-1a5508aacde4/",
+    "title": "В российских онлайн-кинотеатрах состоялся релиз «Алисы в Стране Чудес» с Анной Пересильд",
+    "description": "Фильм снят на основе стихов Владимира Высоцкого.",
+    "fullText": "Фильм снят на основе стихов Владимира Высоцкого.",
+    "image": "https://leonardo.osnova.io/683f7bd5-0508-5766-a0b9-b2b29ddc4014/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4576387-rafi-silver-podgotovka-k-roli-mistera-khausa-v-seriale-follaut?from=rss",
-    "time": "2025-12-31T10:10:29.000Z"
+    "url": "https://dtf.ru/cinema/4576160-reliz-filma-alisa-v-strane-chudes-s-annoy-peresild-v-rossii?from=rss",
+    "time": "2025-12-31T08:14:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
