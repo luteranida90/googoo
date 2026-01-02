@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пленный из ВСУ рассказал, как помог бойцу РФ во время обстрела в Гуляйполе",
+    "description": "По словам Сергея Шевченко, после они вместе с россиянином стали дожидаться прихода ВС РФ",
+    "fullText": "По словам Сергея Шевченко, после они вместе с россиянином стали дожидаться прихода ВС РФ",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26073613",
+    "time": "2026-01-02T12:05:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "1-й европеец с «Харт Трофи» – россиянин. Помните, кто это?",
     "description": "Играл за «Детройт».",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Цирк в «Челси»: виноват Мареска или боссы? Спрашивает Бельский",
-    "description": "Громкое начало года.",
-    "fullText": "Громкое начало года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6e/594abcbb64072bc860372d44d4b3f.jpeg",
+    "title": "22 быстрых вывода по регулярке КХЛ",
+    "description": "Остались ли интриги?",
+    "fullText": "Остались ли интриги?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/26/c4bb41352481492b7804d09c9727f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374233.html",
-    "time": "2026-01-02T06:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3374167.html",
+    "time": "2026-01-02T06:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Любимые игры 2025 года у редакции DTF — от Expedition 33 и Dispatch до Hades II с The Alters",
-    "description": "Десятка тайтлов, которые запомнились нам больше всего.",
-    "fullText": "Десятка тайтлов, которые запомнились нам больше всего.",
-    "image": "https://leonardo.osnova.io/5d7196d4-0cfc-561a-a84b-2f991875970b/",
+    "title": "Фанат The Legend of Zelda выпустил VR-мод для Breath of the Wild — его можно опробовать с помощью эмулятора Wii U",
+    "description": "Для работы мода требуется официальная копия игры.",
+    "fullText": "Для работы мода требуется официальная копия игры.",
+    "image": "https://leonardo.osnova.io/95f1980e-9b23-50bc-9691-b9f750c3adde/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4568274-luchshie-igry-2025-goda-dtf?from=rss",
-    "time": "2025-12-31T09:00:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4577043-vr-mod-dlya-the-legend-of-zelda-breath-of-the-wild?from=rss",
+    "time": "2025-12-31T12:49:33.000Z"
   }
 ]
