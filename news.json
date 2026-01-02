@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Четыре поезда в Адлер и обратно задерживаются более чем на восемь часов",
-    "description": "Ряд станций и перегонов железной дороги в Краснодарском крае обесточены из-за непогоды",
-    "fullText": "Ряд станций и перегонов железной дороги в Краснодарском крае обесточены из-за непогоды",
+    "title": "В Киеве произошли взрывы",
+    "description": "Воздушная тревога звучит в нескольких областях Украины",
+    "fullText": "Воздушная тревога звучит в нескольких областях Украины",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26075371",
-    "time": "2026-01-02T20:32:19.000Z"
+    "url": "https://tass.ru/proisshestviya/26075461",
+    "time": "2026-01-02T20:49:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как справиться с похмельем: только научно доказанные способы",
+    "description": "Энтеросгель? Алка-Зельтцер? Доширак?",
+    "fullText": "Энтеросгель? Алка-Зельтцер? Доширак?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/8c/5f5981dde494c931f45401dc2cda5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/health/blogs/3370989.html",
+    "time": "2026-01-02T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://m.sports.ru/yearbook/?ref=sport&ref2=editorial&ref3=matherial_direct",
     "time": "2026-01-02T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мальдивы, Овьедо и лотерейные билеты. Легенды нашего футбола встретили Новый год",
-    "description": "Разглядываем.",
-    "fullText": "Разглядываем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/50/782d650c44becb49560686f9d781a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374263.html",
-    "time": "2026-01-02T15:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
