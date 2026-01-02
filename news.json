@@ -1,35 +1,24 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ООН призвали оперативно расследовать удар по Хорлам",
-    "description": "В управлении верховного комиссара по правам человека заявили, что встревожены сообщениями об атаке в канун Нового года",
-    "fullText": "В управлении верховного комиссара по правам человека заявили, что встревожены сообщениями об атаке в канун Нового года",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260102/8723205.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26074047",
-    "time": "2026-01-02T13:52:54.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Винисиус – разочарование года",
-    "description": "Фиксирует Любовь Курчавова.",
-    "fullText": "Фиксирует Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/3e/e1da2417947e9945b04033c54c953.png",
+    "title": "Грустно, когда кумиры, за которых мы болели, разрушают свою репутацию",
+    "description": "Колонка Алексея Авдохина.",
+    "fullText": "Колонка Алексея Авдохина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/d7/8e616a6b44a5f93d36f7ed6989819.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374242.html",
-    "time": "2026-01-02T08:30:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3371809.html",
+    "time": "2026-01-02T09:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Epic Games Store стартовала повторная раздача средневекового онлайн-экшена Chivalry 2",
-    "description": "Забрать можно в течение суток.",
-    "fullText": "Забрать можно в течение суток.",
-    "image": "https://leonardo.osnova.io/53996a38-d45c-5a2b-9e6e-25749b06963e/",
+    "title": "На Netflix завершился сериал «Очень странные дела»",
+    "description": "Он выходил на стриминговом сервисе почти десять лет.",
+    "fullText": "Он выходил на стриминговом сервисе почти десять лет.",
+    "image": "https://leonardo.osnova.io/7ca28567-0e9e-5ef6-a323-f63f895836af/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4578650-chivalry-2-besplatnaya-razdacha-v-epic-games-store?from=rss",
-    "time": "2025-12-31T16:00:32.000Z"
+    "url": "https://dtf.ru/cinema/4576568-zavershilsya-serial-ochen-strannye-dela-na-netflix?from=rss",
+    "time": "2026-01-01T03:26:03.000Z"
   }
 ]
