@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В подконтрольной Киеву части Запорожья после ночных взрывов обесточены абоненты",
-    "description": "Как отметили в Минэнерго Украины, в частности, речь идет о городе Запорожье",
-    "fullText": "Как отметили в Минэнерго Украины, в частности, речь идет о городе Запорожье",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26072417",
-    "time": "2026-01-02T09:07:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Модные дома тянутся к автоспорту: как на это повлиял Голливуд?",
     "description": "Дело не только в Питте.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/5hnjqb",
     "time": "2026-01-02T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У «Ливерпуля» первые нули за 117 матчей, «Сити» тоже потерял – «Арсенал» оторвался. Главное в АПЛ 1 января",
+    "description": "Лишь 2 гола в 4 матчах.",
+    "fullText": "Лишь 2 гола в 4 матчах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/93/5880a771c48a0a16c17478855e572.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3374283.html",
+    "time": "2026-01-01T22:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,17 +33,6 @@
     "time": "2026-01-01T22:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "5 сюжетов, которые порадовали в 2025-м. Выбор Вадима Лукомского",
-    "description": "«Барса», «ПСЖ», Кейн.",
-    "fullText": "«Барса», «ПСЖ», Кейн.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4d/47cabe08249a39ec7180ec2dc9625.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374101.html",
-    "time": "2026-01-01T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Чебурашка 2» установил рекорд по предпродажам билетов в российском прокате",
     "description": "Ему удалось обойти показатели «Волшебника Изумрудного города».",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4576460-cheburashka-2-rekord-predprodazham?from=rss",
     "time": "2025-12-31T10:30:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
