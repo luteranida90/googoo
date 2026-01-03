@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Новгородской области заявили, что износ теплосетей превышает 50%",
+    "description": "Износ инфраструктуры водоснабжения составляет более 80%",
+    "fullText": "Износ инфраструктуры водоснабжения составляет более 80%",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/spb-news/26080535",
+    "time": "2026-01-03T14:15:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "За рулем моды: почему фэшн-дизайнеры вдохновляются «Ф-1»?",
     "description": "И при чем тут Puma?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Винисиус – разочарование года",
-    "description": "Фиксирует Любовь Курчавова.",
-    "fullText": "Фиксирует Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/3e/e1da2417947e9945b04033c54c953.png",
+    "title": "Как рушились отношения Марески и «Челси»",
+    "description": "Буря.",
+    "fullText": "Буря.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/56/6d14d600a49d9a23311c361d5377c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374242.html",
-    "time": "2026-01-03T10:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3374371.html",
+    "time": "2026-01-03T10:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4586709-prodazhi-igry-dispatch-dostigli-3-millionov-kopiy?from=rss",
     "time": "2026-01-01T16:27:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
