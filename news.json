@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ключевая фигура в силовом блоке Венесуэлы. Карьера Владимира Падрино Лопеса",
-    "description": "The Washington Post 3 января сообщила, что министр обороны Венесуэлы находится в безопасности после ударов ВС США по территории республики",
-    "fullText": "The Washington Post 3 января сообщила, что министр обороны Венесуэлы находится в безопасности после ударов ВС США по территории республики",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260103/8724223.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/info/26079837",
-    "time": "2026-01-03T13:32:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "За рулем моды: почему фэшн-дизайнеры вдохновляются «Ф-1»?",
     "description": "И при чем тут Puma?",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как родители помогали звездам КХЛ? Перешивали коньки и строили площадки",
-    "description": "Собрали истории вместе с «Кинопоиском».",
-    "fullText": "Собрали истории вместе с «Кинопоиском».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/03/3b69ca1064d8398f442b90436c0ca.jpeg",
+    "title": "Винисиус – разочарование года",
+    "description": "Фиксирует Любовь Курчавова.",
+    "fullText": "Фиксирует Любовь Курчавова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/3e/e1da2417947e9945b04033c54c953.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3368402.html",
-    "time": "2026-01-03T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3374242.html",
+    "time": "2026-01-03T10:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS раздают космический онлайн-шутер Wildgate и историческую стратегию Total War: Three Kingdoms",
-    "description": "Вторая игра, однако, недоступна в регионе РФ.",
-    "fullText": "Вторая игра, однако, недоступна в регионе РФ.",
-    "image": "https://leonardo.osnova.io/4809ab39-456e-5e52-a288-bee93d8514a2/",
+    "title": "Продажи Dispatch достигли трёх миллионов копий",
+    "description": "Разработчики также поделились статистикой игроков.",
+    "fullText": "Разработчики также поделились статистикой игроков.",
+    "image": "https://leonardo.osnova.io/f6a515dc-0942-5fb4-a40b-1fff3c76dce4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4585647-besplatnye-igry-v-egs-wildgate-i-total-war-three-kingdoms?from=rss",
-    "time": "2026-01-01T16:00:27.000Z"
+    "url": "https://dtf.ru/games/4586709-prodazhi-igry-dispatch-dostigli-3-millionov-kopiy?from=rss",
+    "time": "2026-01-01T16:27:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
