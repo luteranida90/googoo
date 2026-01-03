@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Сергиевом Посаде потушили пожар",
+    "description": "Причина возгорания устанавливается",
+    "fullText": "Причина возгорания устанавливается",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26079555",
+    "time": "2026-01-03T12:09:50.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "За рулем моды: почему фэшн-дизайнеры вдохновляются «Ф-1»?",
     "description": "И при чем тут Puma?",
@@ -11,36 +22,25 @@
     "time": "2026-01-03T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МИД Белоруссии осудил агрессию против Венесуэлы",
-    "description": "Право венесуэльского народа самостоятельно определять свою судьбу является незыблемым, отметили в министерстве республики",
-    "fullText": "Право венесуэльского народа самостоятельно определять свою судьбу является незыблемым, отметили в министерстве республики",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26079175",
-    "time": "2026-01-03T11:19:15.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дёмин против лучших атлетов на планете: каким его ждали, каким он себя показал",
-    "description": "Большое исследование.",
-    "fullText": "Большое исследование.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c6/fa82b2c744e3a80c604fc402ec0f1.jpeg",
+    "title": "17 неочевидных людей из нашей фигурки, которым стоит поаплодировать за 2025-й",
+    "description": "Вспоминаем хорошее.",
+    "fullText": "Вспоминаем хорошее.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/03/5def943d9413b9a993c9b4ead7e12.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3372956.html",
-    "time": "2026-01-03T07:00:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3373202.html",
+    "time": "2026-01-03T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Лучшие видеоигры 2025 года по версии пользователей DTF — отборочный этап",
-    "description": "Предлагайте свой вариант в комментариях и обсуждайте номинантов от других юзеров.",
-    "fullText": "Предлагайте свой вариант в комментариях и обсуждайте номинантов от других юзеров.",
-    "image": "https://leonardo.osnova.io/fbc8a96b-2d95-5979-9f96-d28511424522/",
+    "title": "В EGS раздают космический онлайн-шутер Wildgate и историческую стратегию Total War: Three Kingdoms",
+    "description": "Вторая игра, однако, недоступна в регионе РФ.",
+    "fullText": "Вторая игра, однако, недоступна в регионе РФ.",
+    "image": "https://leonardo.osnova.io/4809ab39-456e-5e52-a288-bee93d8514a2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4580388-luchshaya-videoygra-2025-goda-po-mneniyu-polzovateley-dtf?from=rss",
-    "time": "2026-01-01T10:40:25.000Z"
+    "url": "https://dtf.ru/games/4585647-besplatnye-igry-v-egs-wildgate-i-total-war-three-kingdoms?from=rss",
+    "time": "2026-01-01T16:00:27.000Z"
   }
 ]
