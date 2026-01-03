@@ -11,26 +11,15 @@
     "time": "2026-01-03T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лихачев: 2030-е годы станут десятилетием Трансарктического транспортного коридора",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26082491",
-    "time": "2026-01-03T18:59:25.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самые нелепые травмы футболистов в истории",
-    "description": "Представили, как это было.",
-    "fullText": "Представили, как это было.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f9/3fa748c574c6a9715b2af6f3c7b7b.jpeg",
+    "title": "Что вы пропустили в 19-м туре АПЛ: Дуа Липа на «Арсенале», рухнула серия «Тоттенхэма» из 137 матчей",
+    "description": "Первый гол 2026 года забил Матета.",
+    "fullText": "Первый гол 2026 года забил Матета.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/23/b3dc8f13f45838e64b05f82e837d8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3369296.html",
-    "time": "2026-01-03T14:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3373629.html",
+    "time": "2026-01-03T14:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4605211-spin-off-ochen-strannykh-del-novaya-mifologiya?from=rss",
     "time": "2026-01-02T10:27:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
