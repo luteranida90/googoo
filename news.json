@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Ростовской области уничтожили БПЛА",
+    "description": "Никто не пострадал",
+    "fullText": "Никто не пострадал",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26084103",
+    "time": "2026-01-04T04:00:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Левандовски и Кейн – кто их объединил?",
     "description": "Раскройте пары в «Комбо»!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тренер без пропуска в здание первой команды. Кто выведет «Челси» на «Сити»",
-    "description": "Калум Макфарлейн пришел на один матч.",
-    "fullText": "Калум Макфарлейн пришел на один матч.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e3/0849e86444b8db1ffca617e9bb279.jpeg",
+    "title": "«Более известный как «мудак». Очевидный ориентир для Дёмина – легенда «Нетс» Джейсон Кидд",
+    "description": "Пусть и не в плане личных качеств.",
+    "fullText": "Пусть и не в плане личных качеств.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/aa/99833cc874da2ba14a46e6dc03d43.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374741.html",
-    "time": "2026-01-03T19:20:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3372951.html",
+    "time": "2026-01-03T19:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4605211-spin-off-ochen-strannykh-del-novaya-mifologiya?from=rss",
     "time": "2026-01-02T10:27:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
