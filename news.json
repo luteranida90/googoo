@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сорин: Непряева гораздо лучше провела вторую часть масс-старта",
-    "description": "В общем зачете \"Тур де Ски\" лыжница стала 10-й",
-    "fullText": "В общем зачете \"Тур де Ски\" лыжница стала 10-й",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260104/8725343.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26087863",
-    "time": "2026-01-04T16:13:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый европеец с «Харт Трофи» – россиянин. Помните, кто это?",
     "description": "Играл за «Детройт».",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Цена на Star Wars Racer Revenge для PS4 резко выросла на вторичном рынке — из-за её необходимости для взлома PS5",
-    "description": "В 2019 году игра выпускалась ограниченным тиражом 8500 копий.",
-    "fullText": "В 2019 году игра выпускалась ограниченным тиражом 8500 копий.",
-    "image": "https://leonardo.osnova.io/5683bd73-5bb8-5f89-8c3d-191764718fcd/",
+    "title": "Бывший геймдиректор TES Online раскрыл причину своего ухода — его разочаровала отмена неанонсированной MMO",
+    "description": "Сейчас разработчик занимается консультациями бывших коллег.",
+    "fullText": "Сейчас разработчик занимается консультациями бывших коллег.",
+    "image": "https://leonardo.osnova.io/4efcfa19-67af-5340-a2ba-dd5a28d2abc0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4609916-tsena-na-star-wars-racer-revenge-dlya-ps4-vyrosla-iz-za-vzloma-ps5?from=rss",
-    "time": "2026-01-02T14:31:28.000Z"
+    "url": "https://dtf.ru/games/4629770-prichiny-ukhoda-byvshego-geimdirektora-tes-online-metta-firora?from=rss",
+    "time": "2026-01-03T08:57:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
