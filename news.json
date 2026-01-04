@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Испания и пять стран Латинской Америки выступили против действий США в Венесуэле",
+    "description": "Ситуация должна быть урегулирована исключительно мирными средствами и в соответствии с международным правом, говорится в совместном заявлении",
+    "fullText": "Ситуация должна быть урегулирована исключительно мирными средствами и в соответствии с международным правом, говорится в совместном заявлении",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26088099",
+    "time": "2026-01-04T17:12:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый европеец с «Харт Трофи» – россиянин. Помните, кто это?",
     "description": "Играл за «Детройт».",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Рафинья мимо наград и сборных года? Запускаем рубрику – Вопрос Лукомскому",
-    "description": "Слабый пиар?",
-    "fullText": "Слабый пиар?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/36/1e32e1788456c872f1d7d12c5d52a.jpeg",
+    "title": "Вот это Коростелев: в шаге от пьедестала в самой сложной гонке сезона!",
+    "description": "Покорил гору на «Тур де Ски».",
+    "fullText": "Покорил гору на «Тур де Ски».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e2/42cbfe51046df855954b30492077d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374360.html",
-    "time": "2026-01-04T11:55:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3374850.html",
+    "time": "2026-01-04T13:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4629770-prichiny-ukhoda-byvshego-geimdirektora-tes-online-metta-firora?from=rss",
     "time": "2026-01-03T08:57:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
