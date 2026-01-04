@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "При ракетном обстреле Грайворона Белгородской области тяжело ранен мужчина",
+    "description": "Повреждены фасады и остекление административного здания",
+    "fullText": "Повреждены фасады и остекление административного здания",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26086261",
+    "time": "2026-01-04T12:04:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Смотрим баскетбольное класико! «Реал» против «Барселоны» – на ВидеоСпортсе’‘",
     "description": "Совместно с ТВ Старт.",
@@ -11,15 +22,15 @@
     "time": "2026-01-04T11:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пострадавшего при атаке ВСУ на Хорлы ребенка отправили на лечение Москву",
-    "description": "В медорганизациях Крыма продолжают лечение 11 пострадавших",
-    "fullText": "В медорганизациях Крыма продолжают лечение 11 пострадавших",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лучшие новички XXI века в топ-5 лиг: от «Юве» и «Монако» до «Рединга» и «Хоффенхайма». Теперь тут и «Сандерленд»!",
+    "description": "Уже одни из лучших.",
+    "fullText": "Уже одни из лучших.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c9/19c7cfed04b69a746779160deb409.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26086027",
-    "time": "2026-01-04T11:15:38.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3373831.html",
+    "time": "2026-01-04T07:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2026-01-04T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чем, кроме тенниса, зарабатывает Арина Соболенко?",
-    "description": "Ищем источники дохода.",
-    "fullText": "Ищем источники дохода.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/65/b03a881be4efaa34620a94242c68b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3369181.html",
-    "time": "2026-01-04T06:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloober Team открыла сайт с обратным отсчётом до анонса следующей игры",
-    "description": "Она также зарегистрировала торговую марку Onyx: The Dark Grip.",
-    "fullText": "Она также зарегистрировала торговую марку Onyx: The Dark Grip.",
-    "image": "https://leonardo.osnova.io/da136c2b-43b8-5d26-8511-ba2f032cd29f/",
+    "title": "«Чебурашка 2» собрал более миллиарда рублей — на второй день проката",
+    "description": "И на сутки быстрее первой части.",
+    "fullText": "И на сутки быстрее первой части.",
+    "image": "https://leonardo.osnova.io/15879e34-7dce-5a1f-9dee-faf53c6713e2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4608701-bloober-team-sayt-s-obratnym-otschyotom?from=rss",
-    "time": "2026-01-02T13:21:26.000Z"
+    "url": "https://dtf.ru/cinema/4603509-cheburashka-2-sobral-bolee-milliarda-rubley?from=rss",
+    "time": "2026-01-02T08:34:16.000Z"
   }
 ]
