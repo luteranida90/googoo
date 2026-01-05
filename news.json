@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Воронеже вновь объявили непосредственную угрозу атаки БПЛА",
-    "description": "Жителей призвали отойти от окон и зайти в помещение",
-    "fullText": "Жителей призвали отойти от окон и зайти в помещение",
+    "title": "В Амурской области задерживаются поезда до семи часов из-за схода вагонов",
+    "description": "Поездные бригады оказывают необходимую помощь пассажирам",
+    "fullText": "Поездные бригады оказывают необходимую помощь пассажирам",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26093131",
-    "time": "2026-01-05T13:55:36.000Z"
+    "url": "https://tass.ru/obschestvo/26093191",
+    "time": "2026-01-05T14:11:40.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +33,17 @@
     "time": "2026-01-05T12:14:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "14 месяцев Аморима стоили «МЮ» £30 млн",
+    "description": "Игорь Сергеев посчитал.",
+    "fullText": "Игорь Сергеев посчитал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/4a/94d12f9754ed68d777fc889c22fff.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3374996.html",
+    "time": "2026-01-05T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Итоги 2025-го года в журнале от Спортса’’",
     "description": "Вы можете заказать его.",
@@ -44,25 +55,14 @@
     "time": "2026-01-05T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дёмин и «Бруклин» не заметили «Денвер» без Йокича",
-    "description": "Полет нормальный.",
-    "fullText": "Полет нормальный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/dc/4a24887704dd59a437980b409e18e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3374988.html",
-    "time": "2026-01-05T11:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики The Blood of Dawnwalker отметили первое полнолуние 2026 года заглавной темой и тизером",
-    "description": "RPG выйдет в ближайшие 12 месяцев.",
-    "fullText": "RPG выйдет в ближайшие 12 месяцев.",
-    "image": "https://leonardo.osnova.io/d624e99a-0926-5f49-a581-94ab143e16ea/",
+    "title": "Итоги The Steam Awards 2025: Silksong — игра года, а у Dispatch — лучший сюжет",
+    "description": "У Expedition 33 лишь одна награда: за лучший саундтрек.",
+    "fullText": "У Expedition 33 лишь одна награда: за лучший саундтрек.",
+    "image": "https://leonardo.osnova.io/f4915d30-1dbd-575a-9972-b044a75c8477/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4640363-the-blood-of-dawnwalker-tizer-i-zaglavnaya-tema?from=rss",
-    "time": "2026-01-03T17:48:04.000Z"
+    "url": "https://dtf.ru/games/4637985-itogi-the-steam-awards-2025?from=rss",
+    "time": "2026-01-03T18:15:08.000Z"
   }
 ]
