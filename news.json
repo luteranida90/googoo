@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Подразделения ВСУ потеряли за сутки в зоне СВО около 1 265 военнослужащих",
-    "description": "",
-    "fullText": "",
+    "title": "На борту застрявшего во льдах Берингова моря теплохода находятся 18 человек",
+    "description": "Судно застряло во льдах 4 января",
+    "fullText": "Судно застряло во льдах 4 января",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26091257",
-    "time": "2026-01-05T09:22:33.000Z"
+    "url": "https://tass.ru/proisshestviya/26091483",
+    "time": "2026-01-05T10:05:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Собрали все 322 клуба из 20 европейских лиг. Сколько сможете назвать?",
+    "description": "Вызов для ценителей футбола.",
+    "fullText": "Вызов для ценителей футбола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/c5/3eec807e94e0badef1ca724e26375.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2026-01-05T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-04T22:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "На каком стадионе Дмитрий Аленичев выиграл Лигу чемпионов?",
-    "description": "Ответят только знатоки.",
-    "fullText": "Ответят только знатоки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/f4/3e83eb941434f99387a29829f82a6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/z69vfk",
-    "time": "2026-01-04T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики RoboCop: Rogue City начали поиск сотрудника для разработки неанонсированной экшен-RPG",
-    "description": "Им нужен специалист по созданию анимации животных.",
-    "fullText": "Им нужен специалист по созданию анимации животных.",
-    "image": "https://leonardo.osnova.io/1e21e52a-de6f-5e1a-b2ba-59469d1a7205/",
+    "title": "Брэндон Сандерсон начал переговоры о разработке игры по мотивам книжной серии «Рождённый туманом»",
+    "description": "По словам писателя, к нему уже обратились крупные студии.",
+    "fullText": "По словам писателя, к нему уже обратились крупные студии.",
+    "image": "https://leonardo.osnova.io/2722303e-ea43-5838-84c0-9e77308728ed/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4632405-teyon-iskhet-animatora-dlya-neanonsirovannoy-ekshen-rpg?from=rss",
-    "time": "2026-01-03T11:03:42.000Z"
+    "url": "https://dtf.ru/games/4633655-brendon-sanderson-nachinaet-peregovory-o-igre-po-rozhdennomu-tumanom?from=rss",
+    "time": "2026-01-03T12:24:25.000Z"
   }
 ]
