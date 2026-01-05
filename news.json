@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Московское \"Динамо\" выиграло Суперкубок России по хоккею с мячом",
-    "description": "В финале столичный клуб обыграл кемеровский \"Кузбасс\" со счетом 4:3",
-    "fullText": "В финале столичный клуб обыграл кемеровский \"Кузбасс\" со счетом 4:3",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260105/8725975.jpg",
+    "title": "CNN: вертолет с Мадуро приземлился у здания суда в Нью-Йорке",
+    "description": "Ожидается, что президент Венесуэлы предстанет перед судом по обвинению в хранении наркотиков и оружия",
+    "fullText": "Ожидается, что президент Венесуэлы предстанет перед судом по обвинению в хранении наркотиков и оружия",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26092397",
-    "time": "2026-01-05T12:23:14.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26092745",
+    "time": "2026-01-05T12:55:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-01-05T12:15:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Те самые слова Аморима, после которых его выгнали из «МЮ» – на ВидеоСпортсе’‘",
+    "description": "Роковая пресс-конференция.",
+    "fullText": "Роковая пресс-конференция.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/61/acc2d8aa941ac8ac0fcdf011ca6da.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/Amorim_press_fight",
+    "time": "2026-01-05T12:14:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Итоги 2025-го года в журнале от Спортса’’",
     "description": "Вы можете заказать его.",
@@ -33,26 +44,15 @@
     "time": "2026-01-05T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Самый добрый тест года: как футболисты благодарят друг друга?",
-    "description": "Выучите это слово на всех языках.",
-    "fullText": "Выучите это слово на всех языках.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2d/cacdd664940128cd4df4db1d11db6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eftnht",
-    "time": "2026-01-05T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джокович завязал с охраной труда – ушел из профсоюза теннисистов, который сам создал",
-    "description": "Попрощался с PTPA.",
-    "fullText": "Попрощался с PTPA.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/39/11333a454444ba60c174f9fee2124.jpeg",
+    "title": "Что безумнее: увольнение Марески из «Челси» или Аморима из «МЮ»?",
+    "description": "1 и 5 января.",
+    "fullText": "1 и 5 января.",
+    "image": "https://photobooth.cdn.sports.ru/preset/poll/2/e4/bf54121764f2683e4b5448205c462.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3374952.html",
-    "time": "2026-01-05T08:30:00.000Z"
+    "url": "https://www.sports.ru/football/poll/1117031556.html",
+    "time": "2026-01-05T10:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
