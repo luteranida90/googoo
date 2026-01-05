@@ -1,5 +1,38 @@
 [
   {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Итоги 2025-го года в журнале от Спортса’’",
+    "description": "Вы можете заказать его.",
+    "fullText": "Вы можете заказать его.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/7a/cf1a2a6e7446ba902d7ac5323a6c1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/yearbook/?ref=pechatnoe&ref2=editorial&ref3=matherial_direct#/payment",
+    "time": "2026-01-05T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Погребняк назвал ожидаемым увольнение Аморима из \"Манчестер Юнайтед\"",
+    "description": "По мнению эксперта, результаты команды не соответствовали ожиданиям болельщиков",
+    "fullText": "По мнению эксперта, результаты команды не соответствовали ожиданиям болельщиков",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260105/8725915.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26092067",
+    "time": "2026-01-05T11:12:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Самый добрый тест года: как футболисты благодарят друг друга?",
+    "description": "Выучите это слово на всех языках.",
+    "fullText": "Выучите это слово на всех языках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2d/cacdd664940128cd4df4db1d11db6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-05T09:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Что окружает страшную аварию, в которой чуть не погиб Джошуа?",
     "description": "«Сначала он сел на переднее сиденье».",
@@ -11,36 +44,14 @@
     "time": "2026-01-05T07:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в «Комбо». Сможете больше?",
-    "description": "",
-    "fullText": "",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2026-01-05T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Брэндон Сандерсон начал переговоры о разработке игры по мотивам книжной серии «Рождённый туманом»",
-    "description": "По словам писателя, к нему уже обратились крупные студии.",
-    "fullText": "По словам писателя, к нему уже обратились крупные студии.",
-    "image": "https://leonardo.osnova.io/2722303e-ea43-5838-84c0-9e77308728ed/",
+    "title": "Продажи Xbox Series X|S в Великобритании в 2025 году упали на 39% — худший результат за всю историю линейки консолей",
+    "description": "В 2026 году ситуацию могут исправить релизы крупных франшиз.",
+    "fullText": "В 2026 году ситуацию могут исправить релизы крупных франшиз.",
+    "image": "https://leonardo.osnova.io/698c5615-0e89-5572-8f7a-07ca455fd925/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4633655-brendon-sanderson-nachinaet-peregovory-o-igre-po-rozhdennomu-tumanom?from=rss",
-    "time": "2026-01-03T12:24:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4631332-prodazhi-xbox-series-xs-v-velikobritanii-upali-na-39?from=rss",
+    "time": "2026-01-03T09:52:51.000Z"
   }
 ]
