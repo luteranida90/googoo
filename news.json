@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Орловской области уничтожили четыре беспилотника",
-    "description": "Никто не пострадал",
-    "fullText": "Никто не пострадал",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Владимир Машков: веселить зрителей очень непросто",
+    "description": "В 2026 году в России впервые отметят День артиста. Режиссер, актер театра и кино, председатель Союза театральных деятелей РФ Владимир Машков рассказал в интервью ТАСС о своем отношении к этому празднику и работе над спектаклем \"ТОТ самый №13\"",
+    "fullText": "В 2026 году в России впервые отметят День артиста. Режиссер, актер театра и кино, председатель Союза театральных деятелей РФ Владимир Машков рассказал в интервью ТАСС о своем отношении к этому празднику и работе над спектаклем \"ТОТ самый №13\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251230/8718651.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26090515",
-    "time": "2026-01-05T07:09:35.000Z"
+    "url": "https://tass.ru/interviews/26054547",
+    "time": "2026-01-05T08:00:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Игрок «Меца» спас девушку из страшного пожара. У него серьезные ожоги и тяжелое состояние",
+    "description": "Трагедия в Новый год.",
+    "fullText": "Трагедия в Новый год.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/5e/d7918b6a344149bde8d3c302dbebe.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3374825.html",
+    "time": "2026-01-04T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-04T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Реал» без Мбаппе вернул прессинг – и разнес «Бетис» 5:1. С хет-триком Гонсало!",
-    "description": "Алонсо исправляется.",
-    "fullText": "Алонсо исправляется.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d3/a36829b514f34a449ba91d5e23c6f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374876.html",
-    "time": "2026-01-04T18:29:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывший геймдиректор TES Online раскрыл причину своего ухода — его разочаровала отмена неанонсированной MMO",
-    "description": "Сейчас разработчик занимается консультациями бывших коллег.",
-    "fullText": "Сейчас разработчик занимается консультациями бывших коллег.",
-    "image": "https://leonardo.osnova.io/4efcfa19-67af-5340-a2ba-dd5a28d2abc0/",
+    "title": "Разработчики RoboCop: Rogue City начали поиск сотрудника для разработки неанонсированной экшен-RPG",
+    "description": "Им нужен специалист по созданию анимации животных.",
+    "fullText": "Им нужен специалист по созданию анимации животных.",
+    "image": "https://leonardo.osnova.io/1e21e52a-de6f-5e1a-b2ba-59469d1a7205/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4629770-prichiny-ukhoda-byvshego-geimdirektora-tes-online-metta-firora?from=rss",
-    "time": "2026-01-03T08:57:23.000Z"
+    "url": "https://dtf.ru/games/4632405-teyon-iskhet-animatora-dlya-neanonsirovannoy-ekshen-rpg?from=rss",
+    "time": "2026-01-03T11:03:42.000Z"
   }
 ]
