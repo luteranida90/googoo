@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Почти на всей территории Украины отменили воздушную тревогу",
+    "description": "Сирены продолжают звучать в некоторых районах Днепропетровской, Полтавской и Черниговской областей",
+    "fullText": "Сирены продолжают звучать в некоторых районах Днепропетровской, Полтавской и Черниговской областей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26095235",
+    "time": "2026-01-05T22:47:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Дёмин или другой российский игрок НБА?",
     "description": "Как хорошо вы знаете звезду «Бруклина»?",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4656533-leonardo-dikaprio-o-budushchem-kinoteatrov?from=rss",
     "time": "2026-01-04T09:30:16.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
