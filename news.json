@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Зеленский назначил первого замглавы СБУ",
-    "description": "Им стал Александр Поклад",
-    "fullText": "Им стал Александр Поклад",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260106/8726379.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26095109",
-    "time": "2026-01-05T20:58:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Дёмин или другой российский игрок НБА?",
     "description": "Как хорошо вы знаете звезду «Бруклина»?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура АПЛ: хет-трик Игора, Райс вернулся с дублем",
-    "description": "Внезапно трое из «Вулвз».",
-    "fullText": "Внезапно трое из «Вулвз».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/68/a506ad0774e5d8c7e9a3fe3d63c2e.jpeg",
+    "title": "Проклятье Де Лигта в деле: ни с одним тренером не отработал даже два сезона",
+    "description": "Аморим – новая жертва.",
+    "fullText": "Аморим – новая жертва.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/c2/1d9e447694223ad2ae9233c7557cc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374772.html",
-    "time": "2026-01-05T17:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375060.html",
+    "time": "2026-01-05T18:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4656533-leonardo-dikaprio-o-budushchem-kinoteatrov?from=rss",
     "time": "2026-01-04T09:30:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
