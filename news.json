@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Климов: \"шестерок\"-релокантов задействуют при вмешательстве в выборы в РФ",
+    "description": "С подобной деятельностью борются парламентские и правоохранительные органы, ЦИК, региональные власти, а также общественные организации, отметил член бюро высшего совета \"Единой России\" и Совета по внешней и оборонной политике",
+    "fullText": "С подобной деятельностью борются парламентские и правоохранительные органы, ЦИК, региональные власти, а также общественные организации, отметил член бюро высшего совета \"Единой России\" и Совета по внешней и оборонной политике",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26089925",
+    "time": "2026-01-05T04:18:10.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Дёмин или другой российский игрок НБА?",
     "description": "Как хорошо вы знаете звезду «Бруклина»?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как фигуристы встретили Новый год: семейные Трусова и Косторная, Алиев в ушанке",
-    "description": "Тарасова – с ИИ, Загитова – в шубе.",
-    "fullText": "Тарасова – с ИИ, Загитова – в шубе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/84/d8616e8be419eb432cc73944b5cfe.jpeg",
+    "title": "Кто в НБА играет больше всех",
+    "description": "Люди без задних ног.",
+    "fullText": "Люди без задних ног.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0c/992260a104282995d43594efd65de.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3374817.html",
-    "time": "2026-01-04T17:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3373987.html",
+    "time": "2026-01-04T17:27:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4629770-prichiny-ukhoda-byvshego-geimdirektora-tes-online-metta-firora?from=rss",
     "time": "2026-01-03T08:57:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
