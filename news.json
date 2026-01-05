@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Московское \"Динамо\" выиграло Суперкубок России по хоккею с мячом",
+    "description": "В финале столичный клуб обыграл кемеровский \"Кузбасс\" со счетом 4:3",
+    "fullText": "В финале столичный клуб обыграл кемеровский \"Кузбасс\" со счетом 4:3",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260105/8725975.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26092397",
+    "time": "2026-01-05T12:23:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Главные разочарования 2025 года: фильмы и игры, за которые стыдно",
+    "description": "«Орудия», «Дракула» и FM 26.",
+    "fullText": "«Орудия», «Дракула» и FM 26.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/0d/2f5092417446fb55969ce86e65639.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3372286.html",
+    "time": "2026-01-05T12:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Итоги 2025-го года в журнале от Спортса’’",
     "description": "Вы можете заказать его.",
@@ -9,17 +31,6 @@
     "category": "all",
     "url": "https://m.sports.ru/yearbook/?ref=pechatnoe&ref2=editorial&ref3=matherial_direct#/payment",
     "time": "2026-01-05T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Погребняк назвал ожидаемым увольнение Аморима из \"Манчестер Юнайтед\"",
-    "description": "По мнению эксперта, результаты команды не соответствовали ожиданиям болельщиков",
-    "fullText": "По мнению эксперта, результаты команды не соответствовали ожиданиям болельщиков",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260105/8725915.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26092067",
-    "time": "2026-01-05T11:12:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что окружает страшную аварию, в которой чуть не погиб Джошуа?",
-    "description": "«Сначала он сел на переднее сиденье».",
-    "fullText": "«Сначала он сел на переднее сиденье».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/4c/2c4c335a54c4985c33f7b3e50fb90.jpeg",
+    "title": "Джокович завязал с охраной труда – ушел из профсоюза теннисистов, который сам создал",
+    "description": "Попрощался с PTPA.",
+    "fullText": "Попрощался с PTPA.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/39/11333a454444ba60c174f9fee2124.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3374859.html",
-    "time": "2026-01-05T07:30:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3374952.html",
+    "time": "2026-01-05T08:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Xbox Series X|S в Великобритании в 2025 году упали на 39% — худший результат за всю историю линейки консолей",
-    "description": "В 2026 году ситуацию могут исправить релизы крупных франшиз.",
-    "fullText": "В 2026 году ситуацию могут исправить релизы крупных франшиз.",
-    "image": "https://leonardo.osnova.io/698c5615-0e89-5572-8f7a-07ca455fd925/",
+    "title": "Финн Вулфхард планирует сосредоточиться на музыкальной карьере — на фоне завершения «Очень странных дел»",
+    "description": "Он вернётся к актёрству только ради интересных ему проектов.",
+    "fullText": "Он вернётся к актёрству только ради интересных ему проектов.",
+    "image": "https://leonardo.osnova.io/a10376e9-549d-528f-92af-5c6115811ffb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4631332-prodazhi-xbox-series-xs-v-velikobritanii-upali-na-39?from=rss",
-    "time": "2026-01-03T09:52:51.000Z"
+    "url": "https://dtf.ru/cinema/4636079-finn-vulfhard-muzyka-och-stran-dela?from=rss",
+    "time": "2026-01-03T14:13:52.000Z"
   }
 ]
