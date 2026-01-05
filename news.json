@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ООН собирает информацию о жертвах при операции США в Венесуэле",
-    "description": "",
-    "fullText": "",
+    "title": "В аэропорту Волгограда ввели временные ограничения",
+    "description": "Меры необходимы для обеспечения безопасности полетов",
+    "fullText": "Меры необходимы для обеспечения безопасности полетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26094483",
-    "time": "2026-01-05T18:03:08.000Z"
+    "url": "https://tass.ru/ekonomika/26094603",
+    "time": "2026-01-05T18:29:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первый европеец с «Харт Трофи» – россиянин. Помните, кто это?",
+    "description": "Играл за «Детройт».",
+    "fullText": "Играл за «Детройт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2026-01-05T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-05T14:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
-    "description": "Только он догоняет.",
-    "fullText": "Только он догоняет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9c3fa2aba4da2a559cc64897c9826.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iha53v",
-    "time": "2026-01-05T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Итоги The Steam Awards 2025: Silksong — игра года, а у Dispatch — лучший сюжет",
-    "description": "У Expedition 33 лишь одна награда: за лучший саундтрек.",
-    "fullText": "У Expedition 33 лишь одна награда: за лучший саундтрек.",
-    "image": "https://leonardo.osnova.io/f4915d30-1dbd-575a-9972-b044a75c8477/",
+    "title": "Леонардо ДиКаприо опасается, что кинотеатры могут стать такими же нишевыми, как и джаз-бары — из-за масштабных перемен в индустрии",
+    "description": "Однако актёр надеется на лучшее.",
+    "fullText": "Однако актёр надеется на лучшее.",
+    "image": "https://leonardo.osnova.io/b780f164-bdb6-5894-bac8-8d2ac882d933/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4637985-itogi-the-steam-awards-2025?from=rss",
-    "time": "2026-01-03T18:15:08.000Z"
+    "url": "https://dtf.ru/cinema/4656533-leonardo-dikaprio-o-budushchem-kinoteatrov?from=rss",
+    "time": "2026-01-04T09:30:16.000Z"
   }
 ]
