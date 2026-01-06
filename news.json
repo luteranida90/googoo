@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошел взрыв",
-    "description": "В Сумского районе действует воздушная тревога",
-    "fullText": "В Сумского районе действует воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Он может не вернуться в октагон». У Аспиналла после тычка в глаз реально все так плохо?",
+    "description": "Назвал Гана жуликом.",
+    "fullText": "Назвал Гана жуликом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/40/931e890e14d6fa211ce9e53cab0a6.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26095809",
-    "time": "2026-01-06T03:32:30.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3374956.html",
+    "time": "2026-01-05T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-05T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Проклятье Де Лигта в деле: ни с одним тренером не отработал даже два сезона",
-    "description": "Аморим – новая жертва.",
-    "fullText": "Аморим – новая жертва.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/c2/1d9e447694223ad2ae9233c7557cc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375060.html",
-    "time": "2026-01-05T18:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Леонардо ДиКаприо опасается, что кинотеатры могут стать такими же нишевыми, как и джаз-бары — из-за масштабных перемен в индустрии",
     "description": "Однако актёр надеется на лучшее.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4656533-leonardo-dikaprio-o-budushchem-kinoteatrov?from=rss",
     "time": "2026-01-04T09:30:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
