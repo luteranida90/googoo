@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп убежден, что Демпартия вновь попытается подвергнуть его импичменту",
+    "description": "Президент США призвал республиканцев победить на промежуточных выборах в Конгресс, чтобы избежать этого",
+    "fullText": "Президент США призвал республиканцев победить на промежуточных выборах в Конгресс, чтобы избежать этого",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26098817",
+    "time": "2026-01-06T17:02:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Тест про языки и футбол: выпускникам МГИМО будет легче",
     "description": "Справятся и те, кто учил немецкий в школе.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "LG анонсировала «беспроводной» OLED-телевизор с толщиной корпуса 9 мм",
-    "description": "Цену пока не раскрыли.",
-    "fullText": "Цену пока не раскрыли.",
-    "image": "https://leonardo.osnova.io/45d28beb-0697-5d66-8579-cd9955c506a5/",
+    "title": "NVIDIA не анонсирует серию видеокарт RTX 50 Super на выставке CES 2026",
+    "description": "В компании скорректировали ожидания.",
+    "fullText": "В компании скорректировали ожидания.",
+    "image": "https://leonardo.osnova.io/76639211-704c-5af7-80ef-3510d5bb7437/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4682723-lg-besprovodnoj-oled-televizor-9-mm?from=rss",
-    "time": "2026-01-05T12:36:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/hard/4682972-nvidia-ne-predstavit-videokarty-rtx-50-super-na-ces-2026?from=rss",
+    "time": "2026-01-05T14:43:11.000Z"
   }
 ]
