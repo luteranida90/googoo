@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Чебурашка 2\" побил прошлогодний рекорд проката по сборам",
-    "description": "Картина уже заработала 3,4 млрд рублей за шесть дней показа",
-    "fullText": "Картина уже заработала 3,4 млрд рублей за шесть дней показа",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260106/8727377.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/26098559",
-    "time": "2026-01-06T15:51:49.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Дёмин или другой российский игрок НБА?",
-    "description": "Как хорошо вы знаете звезду «Бруклина»?",
-    "fullText": "Как хорошо вы знаете звезду «Бруклина»?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/38/68f3bfeb44cfabdc996fedf4ff9b4.png",
+    "title": "Тест про языки и футбол: выпускникам МГИМО будет легче",
+    "description": "Справятся и те, кто учил немецкий в школе.",
+    "fullText": "Справятся и те, кто учил немецкий в школе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/be/6463365bd4322842b903112b98ee5.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/s54ikt",
-    "time": "2026-01-06T11:30:00.000Z"
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-06T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Оклахома», что с тобой? Чемпионы дома сгорели аутсайдеру, получив жуткие «-27» и чудо-бомбу от Ламело Болла",
-    "description": "Главный апсет сезона.",
-    "fullText": "Главный апсет сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ae/771c5057b49ada31e4d668126c048.jpeg",
+    "title": "Он играет в теннис с ахиллом мертвого донора в груди",
+    "description": "Коккинакис творит историю.",
+    "fullText": "Коккинакис творит историю.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/1e/484242dd94e8788aa930eb513cee1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3375166.html",
-    "time": "2026-01-06T10:42:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3375151.html",
+    "time": "2026-01-06T11:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4682723-lg-besprovodnoj-oled-televizor-9-mm?from=rss",
     "time": "2026-01-05T12:36:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
