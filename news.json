@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сотрудники МЧС проверили системы пожаротушения в храмах перед Рождеством",
-    "description": "В обеспечении безопасности на Рождество от МЧС РФ будут задействованы около 3,5 тыс. сотрудников",
-    "fullText": "В обеспечении безопасности на Рождество от МЧС РФ будут задействованы около 3,5 тыс. сотрудников",
+    "title": "Леонов: в РФ со временем станут бесплатными прививки от ротавируса и ветрянки",
+    "description": "По словам главы комитета Госдумы по охране здоровья, этот вопрос \"рано или поздно будет решен\"",
+    "fullText": "По словам главы комитета Госдумы по охране здоровья, этот вопрос \"рано или поздно будет решен\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26097451",
-    "time": "2026-01-06T11:14:35.000Z"
+    "url": "https://tass.ru/obschestvo/26097837",
+    "time": "2026-01-06T12:19:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-01-06T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Карл из «Баварии» сказал, что хотел бы сыграть за «Реал». Теперь его уничтожают собственные фанаты",
+    "description": "Горячо.",
+    "fullText": "Горячо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/93/5f5ac287f4dc28e822af272f49840.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3375130.html",
+    "time": "2026-01-06T07:12:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
     "title": "Знаете, как сделать Спортс’’ лучше?",
     "description": "Расскажите в анонимном опросе.",
@@ -33,25 +44,14 @@
     "time": "2026-01-06T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Закулисье группы Тутберидзе: Косторная переодевалась в такси, Глейхенгауз мылся в клизменной",
-    "description": "Такого вы не слышали.",
-    "fullText": "Такого вы не слышали.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/f7/1b6ce1bc54c5295d87e783f498932.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3375031.html",
-    "time": "2026-01-06T06:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Триумф «Битвы за битвой», Шаламе — лучший актёр и премия у Рэй Сихорн: итоги Critics Choice Awards 2026",
-    "description": "Первая крупная церемония награждения в этом году.",
-    "fullText": "Первая крупная церемония награждения в этом году.",
-    "image": "https://leonardo.osnova.io/e4b6f2c7-44e9-58e3-a4ec-93ba431f210d/",
+    "title": "Hades II вошла в тройку самых высокооценённых игр 2025-го для Nintendo Switch, Absolum попала в топ-10",
+    "description": "Лидером стало переиздание Tears of the Kingdom.",
+    "fullText": "Лидером стало переиздание Tears of the Kingdom.",
+    "image": "https://leonardo.osnova.io/469032ab-8d8d-57a0-91aa-c99a24abc866/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4681150-itogi-critics-choice-awards-2026?from=rss",
-    "time": "2026-01-05T07:55:03.000Z"
+    "url": "https://dtf.ru/games/4682377-hades-ii-i-absolum-v-tope-igr-2025-goda-dlya-nintendo-switch?from=rss",
+    "time": "2026-01-05T11:20:12.000Z"
   }
 ]
