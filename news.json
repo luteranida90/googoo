@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сирии ввели комендантский час в курдских районах Алеппо",
-    "description": "Правительство открыло гуманитарные коридоры для выхода мирных жителей из опасных кварталов",
-    "fullText": "Правительство открыло гуманитарные коридоры для выхода мирных жителей из опасных кварталов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26102237",
-    "time": "2026-01-07T10:29:33.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Тест для тех, кто смотрел АПЛ, еще когда Флетчер играл за «МЮ»",
     "description": "Справится не каждый.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В Швентек вселился Бублик – дала невозможный и незаконный удар",
-    "description": "Хайлайт.",
-    "fullText": "Хайлайт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/f1/916f1e03e4009a1a5fa997ecc85be.gif",
+    "title": "«Если не заплатят, обратимся в ФИФА». Интервью о жизни клуба Садыгова в Турции",
+    "description": "Дорский поговорил с Кириллом Гоцуком.",
+    "fullText": "Дорский поговорил с Кириллом Гоцуком.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a1/ed55593254686a937315b4c08456c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3375340.html",
-    "time": "2026-01-07T05:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3372639.html",
+    "time": "2026-01-07T06:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Hades II стала самой высокооценённой ПК-игрой 2025 года на Metacritic",
-    "description": "Kingdom Come: Deliverance II заняла 12 позицию.",
-    "fullText": "Kingdom Come: Deliverance II заняла 12 позицию.",
-    "image": "https://leonardo.osnova.io/148d3af0-c6aa-5657-a710-d69c74e78c34/",
+    "title": "Появился трейлер комедийного хоррор-боевика «Они убьют тебя» — голливудского дебюта режиссёра «Папа, сдохни»",
+    "description": "Фильм выйдет в марте.",
+    "fullText": "Фильм выйдет в марте.",
+    "image": "https://leonardo.osnova.io/fb926e89-e73b-5525-9176-d985153d6307/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4684173-hades-ii-samaya-vysokoocenennaya-pk-igra-2025-goda?from=rss",
-    "time": "2026-01-06T08:30:26.000Z"
+    "url": "https://dtf.ru/cinema/4684268-trejler-komediynogo-horror-boevika-oni-ubyut-tebya?from=rss",
+    "time": "2026-01-06T09:17:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
