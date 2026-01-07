@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Зенит\" согласился продать футболиста Жерсона в \"Крузейро\" за €30 млн",
-    "description": "По информации журналиста Дана Абреу, ранее бразильский клуб предлагал €27 млн, но получил отказ",
-    "fullText": "По информации журналиста Дана Абреу, ранее бразильский клуб предлагал €27 млн, но получил отказ",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260107/8728853.jpg",
+    "title": "Дуров пожелал в Рождество меньше есть, общаться и развлекаться",
+    "description": "Сооснователь Telegram отметил, что у людей слишком много развлечений и стимуляции, что мешает их спокойствию, здоровью, сну и творчеству",
+    "fullText": "Сооснователь Telegram отметил, что у людей слишком много развлечений и стимуляции, что мешает их спокойствию, здоровью, сну и творчеству",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26104319",
-    "time": "2026-01-07T18:36:10.000Z"
+    "url": "https://tass.ru/obschestvo/26104411",
+    "time": "2026-01-07T19:35:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первый европеец с «Харт Трофи» – россиянин. Помните, кто это?",
+    "description": "Играл за «Детройт».",
+    "fullText": "Играл за «Детройт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/3b8f2ce9b45e4b983f0d024a3576a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/b79iva",
+    "time": "2026-01-07T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-07T14:26:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Тест про языки и футбол: выпускникам МГИМО будет легче",
-    "description": "Справятся и те, кто учил немецкий в школе.",
-    "fullText": "Справятся и те, кто учил немецкий в школе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/be/6463365bd4322842b903112b98ee5.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eftnht",
-    "time": "2026-01-07T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Появились системные требования 007 First Light — для 1080p/60 fps нужны GeForce RTX 3060 Ti и 32 ГБ ОЗУ",
-    "description": "Минимально хватит и GTX 1660 — но только при 30 fps.",
-    "fullText": "Минимально хватит и GTX 1660 — но только при 30 fps.",
-    "image": "https://leonardo.osnova.io/740ed465-1e17-5571-aef9-0063e07fdd64/",
+    "title": "Carmageddon: Rogue Shift выйдет 6 февраля — трейлер и детали",
+    "description": "«Роглайт»-гонка стоит 40 долларов.",
+    "fullText": "«Роглайт»-гонка стоит 40 долларов.",
+    "image": "https://leonardo.osnova.io/584aacdb-2b56-50ab-aae2-7210f6f297f5/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4687267-sistemnye-trebovaniya-007-first-light?from=rss",
-    "time": "2026-01-06T15:08:41.000Z"
+    "url": "https://dtf.ru/games/4687519-carmageddon-rogue-shift-vyhod-6-fevralya?from=rss",
+    "time": "2026-01-06T17:18:44.000Z"
   }
 ]
