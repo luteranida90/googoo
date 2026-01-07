@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве на улице Свободы задерживаются трамваи",
+    "description": "Маршрут временно изменен",
+    "fullText": "Маршрут временно изменен",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26102027",
+    "time": "2026-01-07T09:28:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Дёмин или другой российский игрок НБА?",
     "description": "Как хорошо вы знаете звезду «Бруклина»?",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Прыгуны увеличивают пенисы, чтобы дальше лететь? Читерство, которого никто не ждал",
-    "description": "Правда или фэйк?",
-    "fullText": "Правда или фэйк?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d5/8436e699d4c88b1ce1da9d52192bd.jpeg",
+    "title": "За четверть века «Ф-1» почти не изменилась. Почему мы не пришли к летающим машинам?",
+    "description": "С гонками все в порядке?",
+    "fullText": "С гонками все в порядке?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d8/2fab5731343318bfa7349d1a9f7a3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3375180.html",
-    "time": "2026-01-07T01:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372770.html",
+    "time": "2026-01-07T03:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Final Fantasy Tactics: The Ivalice Chronicles превысили миллион копий",
-    "description": "На покорение рубежа ушло три месяца.",
-    "fullText": "На покорение рубежа ушло три месяца.",
-    "image": "https://leonardo.osnova.io/0f5540b4-f544-501f-b031-377bfbaad923/",
+    "title": "Hades II стала самой высокооценённой ПК-игрой 2025 года на Metacritic",
+    "description": "Kingdom Come: Deliverance II заняла 12 позицию.",
+    "fullText": "Kingdom Come: Deliverance II заняла 12 позицию.",
+    "image": "https://leonardo.osnova.io/148d3af0-c6aa-5657-a710-d69c74e78c34/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4684106-prodazhi-final-fantasy-tactics-ivalice-chronicles?from=rss",
-    "time": "2026-01-06T07:16:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4684173-hades-ii-samaya-vysokoocenennaya-pk-igra-2025-goda?from=rss",
+    "time": "2026-01-06T08:30:26.000Z"
   }
 ]
