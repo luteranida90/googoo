@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Туадера сообщил, что приглашал Путина в ЦАР",
-    "description": "Президент Центрально-Африканской Республики отметил, что отправленное российскому лидеру приглашение пока не согласовано",
-    "fullText": "Президент Центрально-Африканской Республики отметил, что отправленное российскому лидеру приглашение пока не согласовано",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033177.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26101653",
-    "time": "2026-01-07T08:30:54.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Дёмин или другой российский игрок НБА?",
     "description": "Как хорошо вы знаете звезду «Бруклина»?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Евгений Кузнецов ищет себя в КХЛ. Уже полтора года",
-    "description": "Получится ли в Уфе?",
-    "fullText": "Получится ли в Уфе?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/bc/bb28581f448c5a1e6f25c6942eab5.jpeg",
+    "title": "Прыгуны увеличивают пенисы, чтобы дальше лететь? Читерство, которого никто не ждал",
+    "description": "Правда или фэйк?",
+    "fullText": "Правда или фэйк?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d5/8436e699d4c88b1ce1da9d52192bd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3374926.html",
-    "time": "2026-01-07T00:30:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3375180.html",
+    "time": "2026-01-07T01:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4684106-prodazhi-final-fantasy-tactics-ivalice-chronicles?from=rss",
     "time": "2026-01-06T07:16:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
