@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В населенном пункте Кубани менее 300 человек остаются без света",
+    "description": "К утру 7 января электроэнергию восстановили в 86 домах",
+    "fullText": "К утру 7 января электроэнергию восстановили в 86 домах",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26102409",
+    "time": "2026-01-07T11:10:08.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Тест для тех, кто смотрел АПЛ, еще когда Флетчер играл за «МЮ»",
     "description": "Справится не каждый.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Если не заплатят, обратимся в ФИФА». Интервью о жизни клуба Садыгова в Турции",
-    "description": "Дорский поговорил с Кириллом Гоцуком.",
-    "fullText": "Дорский поговорил с Кириллом Гоцуком.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a1/ed55593254686a937315b4c08456c.png",
+    "title": "20 самых обсуждаемых новостей 2025 года",
+    "description": "Фигурка не сдает позиций.",
+    "fullText": "Фигурка не сдает позиций.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/15/2a2015a6443c7b1e1852494dab0f2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372639.html",
-    "time": "2026-01-07T06:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3374234.html",
+    "time": "2026-01-07T06:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4684268-trejler-komediynogo-horror-boevika-oni-ubyut-tebya?from=rss",
     "time": "2026-01-06T09:17:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
