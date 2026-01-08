@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Артек\" завершил формирование горного кластера",
+    "description": "Это позволит детям заниматься туризмом и альпинизмом",
+    "fullText": "Это позволит детям заниматься туризмом и альпинизмом",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26105793",
+    "time": "2026-01-08T05:52:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Еще одно унижение от «Челси». Фаны «Страсбура» гонят президента, который вытащил клуб со дна",
+    "description": "Реакция на уход Росеньора.",
+    "fullText": "Реакция на уход Росеньора.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/d9/0b4f0a01d45a19c12d166ee785ce6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3375393.html",
+    "time": "2026-01-07T19:12:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в «Комбо». Сможете больше?",
     "description": "Будет непросто.",
@@ -11,17 +33,6 @@
     "time": "2026-01-07T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучшие по победам и голам в 2025-м: мощь «Барсы» с «Баварией», непробиваемый «Зенит»",
-    "description": "Монструозные РФШ, «Црвена Звезда» и «Клаксвик».",
-    "fullText": "Монструозные РФШ, «Црвена Звезда» и «Клаксвик».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/17/ad891cf4046119e9aca3cee03d8a8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3374057.html",
-    "time": "2026-01-07T17:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Авторы Splitgate призвали не судить о состоянии игры по онлайну в Steam: «Он не показывает всей картины»",
     "description": "Вторая часть онлайн-шутера не смогла привлечь к себе большого внимания даже после декабрьского перезапуска.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4688474-razrabotchiki-splitgate-prizvali-ne-sudit-igru-po-onlaynu-v-steam?from=rss",
     "time": "2026-01-07T07:51:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
