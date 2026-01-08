@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДТП в Волгоградской области погибли семь сотрудников предприятия",
-    "description": "Среди погибших есть 17-летняя девушка",
-    "fullText": "Среди погибших есть 17-летняя девушка",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26109151",
-    "time": "2026-01-08T18:11:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легендарные Puma Speedcat задумывались как обувь для гонщиков. Как они вошли в моду?",
     "description": "Носит даже Дуа Липа.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первая беженка на Кубке мира по биатлону – дочь легенды белорусского спорта",
-    "description": "Дарья Долидович, BRT.",
-    "fullText": "Дарья Долидович, BRT.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/1d/52976736f467d98da8aaeb1b6f69c.jpeg",
+    "title": "Уникальный Кубок Африки: 7 из 8 фаворитов дошли до четвертьфинала. Близки к рекорду по голам",
+    "description": "Много интриг впереди.",
+    "fullText": "Много интриг впереди.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/c0/c5c98e1a84ea8b996d63649f44215.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/biathlon/blogs/3375520.html",
-    "time": "2026-01-08T14:50:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3375535.html",
+    "time": "2026-01-08T15:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4702156-disney-vybrala-akterov-dlya-ekranizatsii-rapuntsel?from=rss",
     "time": "2026-01-08T05:06:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
