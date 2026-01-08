@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Форвард \"Вашингтона\" Овечкин раскритиковал игру команды в матче с \"Далласом\"",
-    "description": "\"Вашингтон\" потерпел домашнее поражение со счетом 1:4",
-    "fullText": "\"Вашингтон\" потерпел домашнее поражение со счетом 1:4",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26106383",
-    "time": "2026-01-08T07:55:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
     "description": "Только он догоняет.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4688660-baldurs-gate-3-tretie-mesto-v-charte-steam?from=rss",
     "time": "2026-01-07T09:38:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
