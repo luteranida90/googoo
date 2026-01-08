@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пленный из ВСУ рассказал, что его призвали служить без большого пальца на руке",
-    "description": "По словам Петра Мельниченко, он нигде не прошел медицинского освидетельствования",
-    "fullText": "По словам Петра Мельниченко, он нигде не прошел медицинского освидетельствования",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26105647",
-    "time": "2026-01-08T04:58:47.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в «Комбо». Сможете больше?",
     "description": "Будет непросто.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4688474-razrabotchiki-splitgate-prizvali-ne-sudit-igru-po-onlaynu-v-steam?from=rss",
     "time": "2026-01-07T07:51:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
