@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Коми в ДТП с экскурсионным автобусом погиб человек",
-    "description": "Следственные органы проводят процессуальную проверку",
-    "fullText": "Следственные органы проводят процессуальную проверку",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Мантуров рассказал, за счет чего можно сдерживать цены на энергооборудование",
+    "description": "По словам первого вице-премьера РФ, Федеральная антимонопольная служба постоянно ведет мониторинг цен на основное энергетическое оборудование и держит правительство в курсе его результатов",
+    "fullText": "По словам первого вице-премьера РФ, Федеральная антимонопольная служба постоянно ведет мониторинг цен на основное энергетическое оборудование и держит правительство в курсе его результатов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250528/8259263.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26107241",
-    "time": "2026-01-08T10:54:56.000Z"
+    "url": "https://tass.ru/ekonomika/26107609",
+    "time": "2026-01-08T12:04:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Мхитарян знает 5 языков и легко бы прошел наш тест – остальным будет не так просто",
+    "description": "Тест про языки и футбол.",
+    "fullText": "Тест про языки и футбол.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/b3/05e3999ba470090b483800d3f8895.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-08T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» без Аморима не выиграл у 19-го места, «Челси» продул, «Сити» тоже споткнулся. Любимая АПЛ!",
-    "description": "Все самое яркое.",
-    "fullText": "Все самое яркое.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/2f/1a4044a894e3e89f3c86a05a0dc29.jpeg",
+    "title": "Хэмилтон мечтал создать суперкар с «Феррари» – проект отменили из-за провала в «Ф-1»",
+    "description": "Нужны успехи.",
+    "fullText": "Нужны успехи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/85/df4479db04c27ab7a63cd2b4d1174.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375441.html",
-    "time": "2026-01-08T07:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«ПСЖ» Сафонова, «Монако» Головина, а «Штурм» – чей?",
-    "description": "Вспомните все европейские клубы с россиянами!",
-    "fullText": "Вспомните все европейские клубы с россиянами!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/d9/c34f433124f7d94759c72f8ab5489.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2026-01-08T07:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3373606.html",
+    "time": "2026-01-08T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix опубликовал ролик о главных релизах 2026 года — его героиня перемещается между вселенными сериалов",
-    "description": "К примеру, второй сезон «Грызни» выйдет 16 апреля.",
-    "fullText": "К примеру, второй сезон «Грызни» выйдет 16 апреля.",
-    "image": "https://leonardo.osnova.io/5d4f4d5a-8c4f-513b-a263-6e14eb99231e/-/format/mp4/",
+    "title": "В декабре фанаты Red Dead Redemption 2 нашли в игре загадочные паутины — с тех пор сообщество пытается раскрыть их тайну",
+    "description": "В итоге расследование привело к большому знаку вопроса на горе.",
+    "fullText": "В итоге расследование привело к большому знаку вопроса на горе.",
+    "image": "https://leonardo.osnova.io/15b750a1-9353-5fe0-b68a-7260415d0cb3/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4689210-netflix-releases-2026?from=rss",
-    "time": "2026-01-07T15:00:01.000Z"
+    "url": "https://dtf.ru/games/4688923-zagadka-red-dead-redemption-2-fanaty-nashli-pautiny?from=rss",
+    "time": "2026-01-07T12:30:44.000Z"
   }
 ]
