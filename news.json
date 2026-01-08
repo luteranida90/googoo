@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Артек\" завершил формирование горного кластера",
-    "description": "Это позволит детям заниматься туризмом и альпинизмом",
-    "fullText": "Это позволит детям заниматься туризмом и альпинизмом",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Кравцов исполнил желания детей из ДНР",
+    "description": "Министр просвещения РФ принял участие в акции \"Елка желаний\"",
+    "fullText": "Министр просвещения РФ принял участие в акции \"Елка желаний\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251001/8492929.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26105793",
-    "time": "2026-01-08T05:52:39.000Z"
+    "url": "https://tass.ru/obschestvo/26106019",
+    "time": "2026-01-08T07:06:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
+    "description": "Только он догоняет.",
+    "fullText": "Только он догоняет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1a/9c3fa2aba4da2a559cc64897c9826.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/iha53v",
+    "time": "2026-01-07T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-07T19:12:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в «Комбо». Сможете больше?",
-    "description": "Будет непросто.",
-    "fullText": "Будет непросто.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2026-01-07T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Splitgate призвали не судить о состоянии игры по онлайну в Steam: «Он не показывает всей картины»",
-    "description": "Вторая часть онлайн-шутера не смогла привлечь к себе большого внимания даже после декабрьского перезапуска.",
-    "fullText": "Вторая часть онлайн-шутера не смогла привлечь к себе большого внимания даже после декабрьского перезапуска.",
-    "image": "https://leonardo.osnova.io/a0b43dc3-8873-5904-bf52-066ba171cf2f/",
+    "title": "Baldur&#039;s Gate 3 заняла третью позицию в недельном чарте Steam среди платных продуктов — на фоне скидки в зимнюю распродажу",
+    "description": "RPG уступила лишь ARC Raiders и Steam Deck.",
+    "fullText": "RPG уступила лишь ARC Raiders и Steam Deck.",
+    "image": "https://leonardo.osnova.io/1c7798c1-a7aa-5216-8aad-f29458a6e9d8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4688474-razrabotchiki-splitgate-prizvali-ne-sudit-igru-po-onlaynu-v-steam?from=rss",
-    "time": "2026-01-07T07:51:40.000Z"
+    "url": "https://dtf.ru/gameindustry/4688660-baldurs-gate-3-tretie-mesto-v-charte-steam?from=rss",
+    "time": "2026-01-07T09:38:07.000Z"
   }
 ]
