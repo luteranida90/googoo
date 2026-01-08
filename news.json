@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Участок желтой ветки московского метро закрыли до 11 января",
+    "description": "Движение поездов на участке Калининской линии между \"Новокосино\" и \"Новогиреево\" приостановили",
+    "fullText": "Движение поездов на участке Калининской линии между \"Новокосино\" и \"Новогиреево\" приостановили",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26109729",
+    "time": "2026-01-08T21:02:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Как ЦСКА отказался от Дюрэнта? Ватутин рассказал в подкасте Смолову",
+    "description": "Смотрите на ВидеоСпортсе’‘",
+    "fullText": "Смотрите на ВидеоСпортсе’‘",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/55/affadd64543b3957f494ae48daf93.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/Vatutin_SmolTalk",
+    "time": "2026-01-08T18:25:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Жерсон добился, чтобы его купили обратно из «Зенита» – ради ЧМ. За 27+3 млн евро",
     "description": "«Крузейро» ждет.",
@@ -11,17 +33,6 @@
     "time": "2026-01-08T17:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Легендарные Puma Speedcat задумывались как обувь для гонщиков. Как они вошли в моду?",
-    "description": "Носит даже Дуа Липа.",
-    "fullText": "Носит даже Дуа Липа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/0f/b69f6e66d427fa0c66ee857a3a31f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/5hnjqb",
-    "time": "2026-01-08T17:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Шрайер: Rockstar ещё не финализировала контент GTA VI",
     "description": "Команде только предстоит фаза полировки, но релиз в конце 2026 года журналист считает возможным.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4705092-shraier-rockstar-esche-ne-zavershila-razrabotku-gta-vi?from=rss",
     "time": "2026-01-08T07:12:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
