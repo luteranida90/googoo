@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Арагчи: переговоры Ирана с США начнутся, когда Вашингтон будет вести диалог",
-    "description": "Тегеран полностью готов к любой ситуации, особенно на фоне беспрецедентных угроз, исходящих от Израиля, заявил глава МИД республики",
-    "fullText": "Тегеран полностью готов к любой ситуации, особенно на фоне беспрецедентных угроз, исходящих от Израиля, заявил глава МИД республики",
+    "title": "В Коми в ДТП с экскурсионным автобусом погиб человек",
+    "description": "Следственные органы проводят процессуальную проверку",
+    "fullText": "Следственные органы проводят процессуальную проверку",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26107145",
-    "time": "2026-01-08T10:41:33.000Z"
+    "url": "https://tass.ru/proisshestviya/26107241",
+    "time": "2026-01-08T10:54:56.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-01-08T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«МЮ» без Аморима не выиграл у 19-го места, «Челси» продул, «Сити» тоже споткнулся. Любимая АПЛ!",
+    "description": "Все самое яркое.",
+    "fullText": "Все самое яркое.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/2f/1a4044a894e3e89f3c86a05a0dc29.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3375441.html",
+    "time": "2026-01-08T07:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«ПСЖ» Сафонова, «Монако» Головина, а «Штурм» – чей?",
     "description": "Вспомните все европейские клубы с россиянами!",
@@ -33,25 +44,14 @@
     "time": "2026-01-08T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гол Овечкина №915: забил из офиса. Но спасти «Вашингтон» не смог",
-    "description": "До общего рекорда Гретцки – 24.",
-    "fullText": "До общего рекорда Гретцки – 24.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/4b/5bf3fd862471abb733b565a18badb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3375511.html",
-    "time": "2026-01-08T06:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloomberg: Discord подал конфиденциальную заявку на проведение IPO в США",
-    "description": "Но подробных планов сервис не раскрывает.",
-    "fullText": "Но подробных планов сервис не раскрывает.",
-    "image": "https://leonardo.osnova.io/87a9e12c-19e4-550f-b31b-2c1d50a0771c/",
+    "title": "Netflix опубликовал ролик о главных релизах 2026 года — его героиня перемещается между вселенными сериалов",
+    "description": "К примеру, второй сезон «Грызни» выйдет 16 апреля.",
+    "fullText": "К примеру, второй сезон «Грызни» выйдет 16 апреля.",
+    "image": "https://leonardo.osnova.io/5d4f4d5a-8c4f-513b-a263-6e14eb99231e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4689176-discord-podal-zayavku-na-ipo-v-ssha?from=rss",
-    "time": "2026-01-07T14:19:24.000Z"
+    "url": "https://dtf.ru/cinema/4689210-netflix-releases-2026?from=rss",
+    "time": "2026-01-07T15:00:01.000Z"
   }
 ]
