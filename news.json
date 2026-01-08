@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Адыгее в ДТП с грузовиком погибли два человека",
-    "description": "Травмы получила восьмилетняя девочка",
-    "fullText": "Травмы получила восьмилетняя девочка",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жерсон добился, чтобы его купили обратно из «Зенита» – ради ЧМ. За 27+3 млн евро",
+    "description": "«Крузейро» ждет.",
+    "fullText": "«Крузейро» ждет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/22/6c69dbc6d483db1c79466224e3d66.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26109565",
-    "time": "2026-01-08T20:01:32.000Z"
+    "url": "https://www.sports.ru/football/blogs/3374621.html",
+    "time": "2026-01-08T17:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-08T17:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дебют Кузнецова за Уфу – и сразу ассист! Связка с бомбардиром работает",
-    "description": "Сам Кузя доволен.",
-    "fullText": "Сам Кузя доволен.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/57/a705a34304b2e9a8264d125d27f56.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3375648.html",
-    "time": "2026-01-08T16:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Шрайер: Rockstar ещё не финализировала контент GTA VI",
     "description": "Команде только предстоит фаза полировки, но релиз в конце 2026 года журналист считает возможным.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4705092-shraier-rockstar-esche-ne-zavershila-razrabotku-gta-vi?from=rss",
     "time": "2026-01-08T07:12:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
