@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мерц не планирует дальнейших кадровых изменений после смены главы своего бюро",
+    "description": "Бюро канцлера ФРГ занимается организацией повседневной работы главы правительства, встреч, телефонных звонков, обеспечивает его деятельность",
+    "fullText": "Бюро канцлера ФРГ занимается организацией повседневной работы главы правительства, встреч, телефонных звонков, обеспечивает его деятельность",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26108255",
+    "time": "2026-01-08T14:28:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Шипачев наберет 1000-е очко в КХЛ? Смотрим на ВидеоСпортсе’’",
     "description": "«Северсталь» принимает Минск.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Личное интервью Месси: пьет вино со спрайтом, плачет от кино, наслаждается одиночеством",
-    "description": "Хочет владеть клубом.",
-    "fullText": "Хочет владеть клубом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/06/2bc0bd07c42b591d0cf8f10e5ae15.jpeg",
+    "title": "«Они говорят, только когда дела идут хорошо». Ромеро наехал на «Тоттенхэм»",
+    "description": "Там просто мрак.",
+    "fullText": "Там просто мрак.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/59/79a53e80e418f8e4b0f3a90dc2ea1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375357.html",
-    "time": "2026-01-08T09:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375533.html",
+    "time": "2026-01-08T10:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4690330-life-is-strange-reunion-na-pegi?from=rss",
     "time": "2026-01-07T19:47:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
