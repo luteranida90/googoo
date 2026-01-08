@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Axios: Трамп может встретиться с Зеленским в США на следующей неделе",
+    "description": "По информации портала, темой встречи может стать согласование сделки по гарантиям безопасности",
+    "fullText": "По информации портала, темой встречи может стать согласование сделки по гарантиям безопасности",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26109333",
+    "time": "2026-01-08T19:00:22.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Легендарные Puma Speedcat задумывались как обувь для гонщиков. Как они вошли в моду?",
     "description": "Носит даже Дуа Липа.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sirena.world/5hnjqb",
     "time": "2026-01-08T17:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Коростелев и Непряева: как оценивать их выступление на «Тур де Ски», чего ждать на Олимпиаде?",
+    "description": "Важное от Егора Сорина.",
+    "fullText": "Важное от Егора Сорина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/61/d1c6e9d2b4d15a1066f7a1f32425f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skiing/blogs/3375359.html",
+    "time": "2026-01-08T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +44,14 @@
     "time": "2026-01-08T16:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Уникальный Кубок Африки: 7 из 8 фаворитов дошли до четвертьфинала. Близки к рекорду по голам",
-    "description": "Много интриг впереди.",
-    "fullText": "Много интриг впереди.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/c0/c5c98e1a84ea8b996d63649f44215.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3375535.html",
-    "time": "2026-01-08T15:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Disney нашла ведущих актёров для игровой экранизации «Рапунцель»",
-    "description": "Роли достались Тиган Крофт и Майло Манхейму.",
-    "fullText": "Роли достались Тиган Крофт и Майло Манхейму.",
-    "image": "https://leonardo.osnova.io/702fe6d9-d951-5c25-8cae-1c2beecc0739/",
+    "title": "Релиз финального сезона «Ведьмака» от Netflix запланирован на 2026 год",
+    "description": "Пока без точной даты.",
+    "fullText": "Пока без точной даты.",
+    "image": "https://leonardo.osnova.io/ca49d945-070a-5f91-87fb-ba9ff821481e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4702156-disney-vybrala-akterov-dlya-ekranizatsii-rapuntsel?from=rss",
-    "time": "2026-01-08T05:06:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4706751-finalnyy-sezon-vedmaka-netflix-2026?from=rss",
+    "time": "2026-01-08T08:58:40.000Z"
   }
 ]
