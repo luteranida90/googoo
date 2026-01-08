@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Axios: Трамп может встретиться с Зеленским в США на следующей неделе",
-    "description": "По информации портала, темой встречи может стать согласование сделки по гарантиям безопасности",
-    "fullText": "По информации портала, темой встречи может стать согласование сделки по гарантиям безопасности",
+    "title": "В День фигурного катания катки посетили почти 13 тыс. жителей Омской области",
+    "description": "Катания на всех катках были бесплатными",
+    "fullText": "Катания на всех катках были бесплатными",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26109333",
-    "time": "2026-01-08T19:00:22.000Z"
+    "url": "https://tass.ru/obschestvo/26109307",
+    "time": "2026-01-08T19:54:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Коростелев и Непряева: как оценивать их выступление на «Тур де Ски», чего ждать на Олимпиаде?",
-    "description": "Важное от Егора Сорина.",
-    "fullText": "Важное от Егора Сорина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/61/d1c6e9d2b4d15a1066f7a1f32425f.jpeg",
+    "title": "Лед в венах Дёмина! Вот это концовка: перевел игру в овертайм и там набрал все очки «Бруклина»",
+    "description": "«Если не я, то кто?»",
+    "fullText": "«Если не я, то кто?»",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/38/4b222515946048219b4122c88d6a7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3375359.html",
-    "time": "2026-01-08T16:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Северсталь» обыграла Минск: 4 шайбы с пятака! Показали на ВидеоСпортсе’’",
-    "description": "1000-е очко Шипачева откладывается.",
-    "fullText": "1000-е очко Шипачева откладывается.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/81/fbfae798f4cddb26048be8f3eacc0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/j18u-2ALPh5rmwcyxvlkCaqufDa1U6JhzwS0Ksfjs0o",
-    "time": "2026-01-08T16:05:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3375519.html",
+    "time": "2026-01-08T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Релиз финального сезона «Ведьмака» от Netflix запланирован на 2026 год",
-    "description": "Пока без точной даты.",
-    "fullText": "Пока без точной даты.",
-    "image": "https://leonardo.osnova.io/ca49d945-070a-5f91-87fb-ba9ff821481e/",
+    "title": "Шрайер: Rockstar ещё не финализировала контент GTA VI",
+    "description": "Команде только предстоит фаза полировки, но релиз в конце 2026 года журналист считает возможным.",
+    "fullText": "Команде только предстоит фаза полировки, но релиз в конце 2026 года журналист считает возможным.",
+    "image": "https://leonardo.osnova.io/253718a6-2469-5fb3-8b74-af66cdbea0a0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4706751-finalnyy-sezon-vedmaka-netflix-2026?from=rss",
-    "time": "2026-01-08T08:58:40.000Z"
+    "url": "https://dtf.ru/games/4705092-shraier-rockstar-esche-ne-zavershila-razrabotku-gta-vi?from=rss",
+    "time": "2026-01-08T07:12:59.000Z"
   }
 ]
