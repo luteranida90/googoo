@@ -1,25 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве ограничили работу метро из-за отсутствия электроэнергии",
-    "description": "В столице Украины повреждены объекты критической инфраструктуры",
-    "fullText": "В столице Украины повреждены объекты критической инфраструктуры",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Наш редактор вспомнил 10 связей между Дембеле и Рафиньей в «Комбо». Сможете больше?",
+    "description": "Будет непросто.",
+    "fullText": "Будет непросто.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/04/554b07b8344d7875d26fb9851e693.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26111013",
-    "time": "2026-01-09T03:52:18.000Z"
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2026-01-09T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сборная «Арсенала» за 25 лет. Кого выбрал Лукомский?",
-    "description": "Защита из состава Артеты.",
-    "fullText": "Защита из состава Артеты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7a/4d16d5ea940178d4b6e11e0b5ecbc.jpeg",
+    "title": "«Северсталь» – один из лидеров КХЛ. Что стоит за сенсацией?",
+    "description": "Удивительная команда.",
+    "fullText": "Удивительная команда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/3a/06f5339d94e7dbac19a39085d9ce6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373193.html",
-    "time": "2026-01-08T19:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3370499.html",
+    "time": "2026-01-08T20:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4704150-sony-hyperpop-bokovye-paneli-ps5?from=rss",
     "time": "2026-01-08T06:40:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
