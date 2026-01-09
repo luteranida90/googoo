@@ -1,25 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Белгородской области работают над переходом на резервную генерацию",
+    "description": "Ситуация остается крайне сложной, отметили в оперштабе",
+    "fullText": "Ситуация остается крайне сложной, отметили в оперштабе",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26114299",
+    "time": "2026-01-09T14:12:47.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Мхитарян знает 5 языков и легко бы прошел наш тест – остальным будет не так просто",
-    "description": "Проверите себя?",
-    "fullText": "Проверите себя?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/b3/05e3999ba470090b483800d3f8895.png",
+    "title": "К кому приехал Фалькао? Сколько клубов в карьере колумбийца вспомните?",
+    "description": "Подсказка: всего их 9.",
+    "fullText": "Подсказка: всего их 9.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/69/9335abf3d44728451c2f87e87a92b.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/eftnht",
-    "time": "2026-01-09T09:30:00.000Z"
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2026-01-09T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нули «Арсенала» и «Ливерпуля»: почему так блекло? Лукомский и Палагин в поисках зрелища",
-    "description": "Даже в разборе нулей есть смысл.",
-    "fullText": "Даже в разборе нулей есть смысл.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/fe/27c4b2b7b473f884e3eacdab2e187.jpeg",
+    "title": "Алиса Лью все-таки с новой программой (и прической). А ждать ли ультра-си?",
+    "description": "Ну наконец-то!",
+    "fullText": "Ну наконец-то!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c8/296018a024fada238bb3e66716075.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375721.html",
-    "time": "2026-01-09T09:07:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3375744.html",
+    "time": "2026-01-09T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4709856-cheburashka-2-sobral-bolee-4-milliarda-rubley?from=rss",
     "time": "2026-01-08T11:37:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
