@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пушков: решение вопроса о Гренландии вряд ли пойдет по мягкому сценарию",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26115031",
-    "time": "2026-01-09T18:31:46.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Я сходил на «Реал» – «Барселону»… в баскетболе! Влог Ивана Калашникова с класико",
     "description": "Из Мадрида – на ВидеоСпортсе’‘.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бардак в «Сосьедаде»: что с командой Захаряна?",
-    "description": "Все плохо.",
-    "fullText": "Все плохо.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/41/34e37d2ac4ae8b42d600bda8ea6c7.jpeg",
+    "title": "А ведь мы предупреждали: Жерсон – тот еще капризуля",
+    "description": "Любовь Курчавова – о бесконечных скандалах.",
+    "fullText": "Любовь Курчавова – о бесконечных скандалах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/54/774f18be249709122b5c9c3dd345a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375609.html",
-    "time": "2026-01-09T14:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3336609.html",
+    "time": "2026-01-09T14:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4710136-prezentatsiya-xbox-developer-direct-22-yanvarya?from=rss",
     "time": "2026-01-08T14:23:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
