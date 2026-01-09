@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "RMF FM: дело об экстрадиции Бутягина рассмотрят 15 января",
-    "description": "Польские спецслужбы задержали российского археолога 4 декабря",
-    "fullText": "Польские спецслужбы задержали российского археолога 4 декабря",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260109/8730455.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26113941",
-    "time": "2026-01-09T13:02:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Мхитарян знает 5 языков и легко бы прошел наш тест – остальным будет не так просто",
     "description": "Проверите себя?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кого шведы и финны везут на Игры: сразу два вратаря «Миннесоты», олимпийский чемпион из «Цюриха»",
-    "description": "Есть шансы против Канады и США?",
-    "fullText": "Есть шансы против Канады и США?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/52/19081b6ca444eb8817dc84bd0e236.jpeg",
+    "title": "Нули «Арсенала» и «Ливерпуля»: почему так блекло? Лукомский и Палагин в поисках зрелища",
+    "description": "Даже в разборе нулей есть смысл.",
+    "fullText": "Даже в разборе нулей есть смысл.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/fe/27c4b2b7b473f884e3eacdab2e187.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3375662.html",
-    "time": "2026-01-09T08:32:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375721.html",
+    "time": "2026-01-09T09:07:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4709856-cheburashka-2-sobral-bolee-4-milliarda-rubley?from=rss",
     "time": "2026-01-08T11:37:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
