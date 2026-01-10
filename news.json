@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пригода назвал победой рекомендацию вернуть флаг юным спортсменам РФ",
+    "description": "Ранее МОК рекомендовал снять все ограничения с юных российских спортсменов",
+    "fullText": "Ранее МОК рекомендовал снять все ограничения с юных российских спортсменов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26117661",
+    "time": "2026-01-10T10:45:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто забивал в финале ЛЧ за два разных клуба?",
     "description": "Ответят только знатоки ЛЧ.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» – «Реал», Осимхен против Мареза в Кубке Африки. Вот нескучные матчи для вас",
-    "description": "Хороший футбол на выходных.",
-    "fullText": "Хороший футбол на выходных.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/7f/45836379247d292d2f97fd9ce6ff3.jpeg",
+    "title": "Ямаль – открытие, Дембеле – сенсация, «Реал» – провал. Герои года в 15 номинациях",
+    "description": "От «Мяч Production».",
+    "fullText": "От «Мяч Production».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e0/99b05728a49aebd609331f917b4e9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375795.html",
-    "time": "2026-01-10T05:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375757.html",
+    "time": "2026-01-10T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Kingdom Come: Deliverance II стала лучшей игрой 2025 года по версии пользователей DTF",
-    "description": "Ей удалось с небольшим запасом обойти Clair Obscur: Expedition 33.",
-    "fullText": "Ей удалось с небольшим запасом обойти Clair Obscur: Expedition 33.",
-    "image": "https://leonardo.osnova.io/43b200ae-fdf5-59c4-8452-819d4ce41e66/-/format/mp4/",
+    "title": "Expedition 33, Dispatch, Ghost of Yotei и ARC Raiders стали главными номинантами DICE Awards 2026",
+    "description": "Победителей назовут 12 февраля.",
+    "fullText": "Победителей назовут 12 февраля.",
+    "image": "https://leonardo.osnova.io/7fc2fe5e-86d6-5b8e-ba0a-c03efc69067f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4708442-kingdom-come-deliverance-ii-luchshaya-igra-2025?from=rss",
-    "time": "2026-01-08T10:37:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4710629-dice-awards-2026-expedition-33-ghost-of-yotei-arc-raiders?from=rss",
+    "time": "2026-01-08T19:22:16.000Z"
   }
 ]
