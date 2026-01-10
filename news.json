@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "МИД Сирии: операция в Алеппо не направлена против этнических меньшинств",
+    "description": "Правительство \"уделяет первостепенное внимание защите гражданского населения, создавая пункты оперативного реагирования и открывая безопасные гуманитарные коридоры\"",
+    "fullText": "Правительство \"уделяет первостепенное внимание защите гражданского населения, создавая пункты оперативного реагирования и открывая безопасные гуманитарные коридоры\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26118335",
+    "time": "2026-01-10T14:38:17.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Мхитарян знает 5 языков и легко бы прошел наш тест – остальным будет не так просто",
     "description": "Проверите себя?",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ковентри» Лэмпарда мчит в АПЛ: не проигрывали полсезона и забивают больше всех",
-    "description": "Детали преображения.",
-    "fullText": "Детали преображения.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/b2/980318c254823a025f28b5021bc54.jpeg",
+    "title": "Овечкин в 7 голах от 1000 в НХЛ! Сегодня красиво забил «Чикаго»",
+    "description": "916 в регулярках и 993 всего.",
+    "fullText": "916 в регулярках и 993 всего.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/12/9be72e24d43459603dfd3e697fb32.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374822.html",
-    "time": "2026-01-10T10:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3375897.html",
+    "time": "2026-01-10T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Avowed, фэнтезийная RPG от Obsidian Entertainment, выйдет на PS5 уже 17 февраля",
-    "description": "В этот же день игра получит масштабный патч — с NG+, фоторежимом, тремя новыми расами и другими улучшениями.",
-    "fullText": "В этот же день игра получит масштабный патч — с NG+, фоторежимом, тремя новыми расами и другими улучшениями.",
-    "image": "https://leonardo.osnova.io/6019996d-56d6-58af-9d9c-551f3076e1d2/",
+    "title": "Variety: Кэтрин Хан ведёт переговоры о роли злодейки матушки Готель в экранизации «Рапунцель»",
+    "description": "Сначала авторы рассматривали Скарлетт Йоханссон.",
+    "fullText": "Сначала авторы рассматривали Скарлетт Йоханссон.",
+    "image": "https://leonardo.osnova.io/1a8721af-01c2-5d95-a45b-335a94787c0e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4710890-avowed-ot-obsidian-entertainment-vyhodit-na-ps5?from=rss",
-    "time": "2026-01-08T22:20:17.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4711333-ketrin-han-matushka-gotel-rapuncel?from=rss",
+    "time": "2026-01-09T08:42:44.000Z"
   }
 ]
