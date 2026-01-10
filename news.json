@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Над регионами РФ за четыре часа сбили 10 БПЛА",
+    "description": "Из них три беспилотника уничтожили над Белгородской областью",
+    "fullText": "Из них три беспилотника уничтожили над Белгородской областью",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260110/8731797.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26118827",
+    "time": "2026-01-10T17:36:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Экс-футболист РПЛ играл с Салахом и Трентом – вспомните его?",
     "description": "Мстил Рамосу за друга.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пожизненный бан за карате-удар – влетел в грудь сопернику! Как Де Йонг в 2010-м",
-    "description": "Перепутал виды спорта.",
-    "fullText": "Перепутал виды спорта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/f4/093ec808a4ed58652dcdf63322e41.jpeg",
+    "title": "Так Queen еще не пародировали: Аморим – Меркьюри, экс-тренеры на подхвате",
+    "description": "Проникновенно о бардаке в «МЮ».",
+    "fullText": "Проникновенно о бардаке в «МЮ».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/cd/480d8a1944c1baf610f0c32a2ad96.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375962.html",
-    "time": "2026-01-10T13:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375811.html",
+    "time": "2026-01-10T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4711468-ontos-ot-frictional-games-nauchnaya-fantastika?from=rss",
     "time": "2026-01-09T10:21:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
