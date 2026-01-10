@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бокерия: все приобретенные пороки сердца лечатся",
-    "description": "Врач подчеркнул, очевидным условием того, чтобы человек дожил минимум до 90 лет, является правильный образ жизни",
-    "fullText": "Врач подчеркнул, очевидным условием того, чтобы человек дожил минимум до 90 лет, является правильный образ жизни",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Я сходил на «Реал» – «Барселону»… в баскетболе! Влог Ивана Калашникова с класико",
+    "description": "Из Мадрида – на ВидеоСпортсе’‘.",
+    "fullText": "Из Мадрида – на ВидеоСпортсе’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/95/717bb7b5649ad9b0b2c17cca88986.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26116695",
-    "time": "2026-01-10T05:33:26.000Z"
+    "url": "https://sirena.world/Real_Barca_vlog",
+    "time": "2026-01-09T23:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мне осталось несколько дней, состояние критическое». Экс-игрок «Челси» Мусонда прощается",
-    "description": "«Я бы еще многое мог сделать».",
-    "fullText": "«Я бы еще многое мог сделать».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/95/74b2fcbfd429db3c9580beb131b3e.jpeg",
+    "title": "10 игроков НБА, которые фолят чаще всех",
+    "description": "Ничего личного. Кроме замечаний.",
+    "fullText": "Ничего личного. Кроме замечаний.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/46/63c994c2e447d91fa0c3aeacf7f79.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375864.html",
-    "time": "2026-01-09T19:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Легендарные Puma Speedcat задумывались как обувь для гонщиков. Как они вошли в моду?",
-    "description": "Носит даже Дуа Липа.",
-    "fullText": "Носит даже Дуа Липа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/0f/b69f6e66d427fa0c66ee857a3a31f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/5hnjqb",
-    "time": "2026-01-09T19:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3375458.html",
+    "time": "2026-01-09T20:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4710136-prezentatsiya-xbox-developer-direct-22-yanvarya?from=rss",
     "time": "2026-01-08T14:23:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
