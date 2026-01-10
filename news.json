@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Во Владивостоке из-за снегопада фиксируют отключения электроэнергии",
+    "description": "В Приморском крае часть адресов села Монастырище Черниговского района также временно ограничена от услуги электроснабжения",
+    "fullText": "В Приморском крае часть адресов села Монастырище Черниговского района также временно ограничена от услуги электроснабжения",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26117289",
+    "time": "2026-01-10T09:06:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто забивал в финале ЛЧ за два разных клуба?",
+    "description": "Ответят только знатоки ЛЧ.",
+    "fullText": "Ответят только знатоки ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/eb/7ff0882944bf084112b1888a7ff00.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/z69vfk",
+    "time": "2026-01-10T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Все хотят Гехи: «Сити» готов платить «Пэлас» зимой, а «Ливерпуль» и «Арсенал» ждут летом",
     "description": "Нарасхват.",
@@ -11,17 +33,6 @@
     "time": "2026-01-10T05:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Я сходил на «Реал» – «Барселону»… в баскетболе! Влог Ивана Калашникова с класико",
-    "description": "Из Мадрида – на ВидеоСпортсе’‘.",
-    "fullText": "Из Мадрида – на ВидеоСпортсе’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/95/717bb7b5649ad9b0b2c17cca88986.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/Real_Barca_vlog",
-    "time": "2026-01-09T23:03:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Презентация Developer_Direct от Xbox пройдёт 22 января — с Fable, Forza Horizon 6 и Beast of Reincarnation",
     "description": "В анонсе не стали тизерить секретную четвёртую игру, но, по словам инсайдера Shinobi602, она всё же будет.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4710136-prezentatsiya-xbox-developer-direct-22-yanvarya?from=rss",
     "time": "2026-01-08T14:23:02.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
