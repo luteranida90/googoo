@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропортах СЗФО задержали более 40 рейсов",
-    "description": "Причиной стали неблагоприятные метеоусловия и позднее прибытие самолетов",
-    "fullText": "Причиной стали неблагоприятные метеоусловия и позднее прибытие самолетов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26117419",
-    "time": "2026-01-10T09:41:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто забивал в финале ЛЧ за два разных клуба?",
     "description": "Ответят только знатоки ЛЧ.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все хотят Гехи: «Сити» готов платить «Пэлас» зимой, а «Ливерпуль» и «Арсенал» ждут летом",
-    "description": "Нарасхват.",
-    "fullText": "Нарасхват.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ee/408c845574e7080011a05e973dc04.jpeg",
+    "title": "«Барса» – «Реал», Осимхен против Мареза в Кубке Африки. Вот нескучные матчи для вас",
+    "description": "Хороший футбол на выходных.",
+    "fullText": "Хороший футбол на выходных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/7f/45836379247d292d2f97fd9ce6ff3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375851.html",
-    "time": "2026-01-10T05:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375795.html",
+    "time": "2026-01-10T05:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Том Круз снял дуэль на световых мечах для «Звёздного истребителя» с Райаном Гослингом",
-    "description": "Шон Леви тем временем неожиданно осознал, почему так тяготеет к историям об отце и сыне.",
-    "fullText": "Шон Леви тем временем неожиданно осознал, почему так тяготеет к историям об отце и сыне.",
-    "image": "https://leonardo.osnova.io/930860f8-c247-5c40-902e-0343b8c9086c/",
+    "title": "Kingdom Come: Deliverance II стала лучшей игрой 2025 года по версии пользователей DTF",
+    "description": "Ей удалось с небольшим запасом обойти Clair Obscur: Expedition 33.",
+    "fullText": "Ей удалось с небольшим запасом обойти Clair Obscur: Expedition 33.",
+    "image": "https://leonardo.osnova.io/43b200ae-fdf5-59c4-8452-819d4ce41e66/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4710354-tom-kruz-snyal-duelyu-na-svetovyh-mechah?from=rss",
-    "time": "2026-01-08T16:59:31.000Z"
+    "url": "https://dtf.ru/games/4708442-kingdom-come-deliverance-ii-luchshaya-igra-2025?from=rss",
+    "time": "2026-01-08T10:37:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
