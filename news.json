@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Нью-Джерси\" вывел из списка травмированных Дадонова, сломавшего руку",
+    "description": "Форвард получил травму в первом матче сезона",
+    "fullText": "Форвард получил травму в первом матче сезона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26122067",
+    "time": "2026-01-11T17:09:13.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Он играл с Педри и Хави – и до сих пор в «Барсе». Кто?",
     "description": "Вряд ли сегодня выйдет в Класико.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я нашел диск, из-за которого в 5 лет влюбился в MMA. Там легендарные бои Федора и его схватки с братом",
-    "description": "Детство Артема Нагорного.",
-    "fullText": "Детство Артема Нагорного.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/82/000659d3447bd9890c50c81b37914.png",
+    "title": "Увольнения Аморима и Марески – это тренд? Вопрос Лукомскому",
+    "description": "Больше отличий, чем сходств",
+    "fullText": "Больше отличий, чем сходств",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/9a/a90a9776a4c68bc457a9f67e74d50.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3375425.html",
-    "time": "2026-01-11T12:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375797.html",
+    "time": "2026-01-11T13:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4713495-fable-vyidut-na-ps5-odnovremenno-s-xbox-i-pk?from=rss",
     "time": "2026-01-10T10:27:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
