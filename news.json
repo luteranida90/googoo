@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропорту Краснодара ввели ограничения",
+    "description": "Они нужны для обеспечения безопасности полетов",
+    "fullText": "Они нужны для обеспечения безопасности полетов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260111/8732915.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26121901",
+    "time": "2026-01-11T15:28:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Я нашел диск, из-за которого в 5 лет влюбился в MMA. Там легендарные бои Федора и его схватки с братом",
+    "description": "Детство Артема Нагорного.",
+    "fullText": "Детство Артема Нагорного.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/82/000659d3447bd9890c50c81b37914.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3375425.html",
+    "time": "2026-01-11T12:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Международный день «Спасибо»! Вспоминаем матчи, за которые хочется благодарить",
     "description": "На всех языках мира.",
@@ -11,17 +33,6 @@
     "time": "2026-01-11T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Игрок «Юты» выдал худший «+/-» в истории НБА: «-60». Как?!",
-    "description": "Брат Джейлена Уильямса вошел в историю.",
-    "fullText": "Брат Джейлена Уильямса вошел в историю.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/40/c833a1b314a2ebf891b8eba69701b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3376141.html",
-    "time": "2026-01-11T11:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "VGC: Fable должна выйти на PS5 одновременно с Xbox и ПК",
     "description": "Над портом Forza Horizon 6 начали работать позже.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4713495-fable-vyidut-na-ps5-odnovremenno-s-xbox-i-pk?from=rss",
     "time": "2026-01-10T10:27:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
