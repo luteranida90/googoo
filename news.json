@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Южно-Сахалинске задержали вылеты 15 рейсов",
+    "description": "Причиной стали неблагоприятные погодные условия",
+    "fullText": "Причиной стали неблагоприятные погодные условия",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26119951",
+    "time": "2026-01-11T04:17:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Сабвей Серф» с Овечкиным в главной роли. Пробуйте скорее!",
     "description": "Только он догоняет.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шарапова – самая важная теннисистка четверти века. И вот почему",
-    "description": "Объясняет Лера Ли.",
-    "fullText": "Объясняет Лера Ли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/15/5e21e1ee744a4b98d30c1a4640b32.jpeg",
+    "title": "Клуб из 6-го дивизиона выбил действующего обладателя Кубка Англии. Первое чудо в 2026-м!",
+    "description": "«Пэлас» провалился.",
+    "fullText": "«Пэлас» провалился.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/72/54183c8b64ce1868d941708220347.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3372280.html",
-    "time": "2026-01-10T17:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3376000.html",
+    "time": "2026-01-10T18:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4711468-ontos-ot-frictional-games-nauchnaya-fantastika?from=rss",
     "time": "2026-01-09T10:21:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
