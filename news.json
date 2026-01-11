@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Кипре ищут пропавшего экс-главу \"Уралкалия\" Баумгертнера",
-    "description": "Всех, кто располагает какой-либо информацией на этот счет, просят связаться с любым полицейским участком или позвонить на горячую линию",
-    "fullText": "Всех, кто располагает какой-либо информацией на этот счет, просят связаться с любым полицейским участком или позвонить на горячую линию",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260111/8732823.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26121813",
-    "time": "2026-01-11T14:43:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Международный день «Спасибо»! Вспоминаем матчи, за которые хочется благодарить",
     "description": "На всех языках мира.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучшие фигуристы США – Малинин, Торгашев, Наумов. Считают себя русскими на 30-50%",
-    "description": "Не чужие нам.",
-    "fullText": "Не чужие нам.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ac/435aceba041e3ae3f4a6882fd51a4.jpeg",
+    "title": "Игрок «Юты» выдал худший «+/-» в истории НБА: «-60». Как?!",
+    "description": "Брат Джейлена Уильямса вошел в историю.",
+    "fullText": "Брат Джейлена Уильямса вошел в историю.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/40/c833a1b314a2ebf891b8eba69701b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3376145.html",
-    "time": "2026-01-11T10:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3376141.html",
+    "time": "2026-01-11T11:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Годзилла: Минус ноль» выйдет в зарубежный прокат 6 ноября 2026 года",
-    "description": "Релиз в Японии состоится на три дня раньше.",
-    "fullText": "Релиз в Японии состоится на три дня раньше.",
-    "image": "https://leonardo.osnova.io/7ce651cd-3b58-5c95-99a5-d051ae5b2f3f/",
+    "title": "VGC: Fable должна выйти на PS5 одновременно с Xbox и ПК",
+    "description": "Над портом Forza Horizon 6 начали работать позже.",
+    "fullText": "Над портом Forza Horizon 6 начали работать позже.",
+    "image": "https://leonardo.osnova.io/ce8a8210-3a28-5fa2-add8-d2814bf70a2f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4713542-godzilla-minus-nol-vyhodyt-v-prokat-6-noyabrya-2026-goda?from=rss",
-    "time": "2026-01-10T11:01:33.000Z"
+    "url": "https://dtf.ru/games/4713495-fable-vyidut-na-ps5-odnovremenno-s-xbox-i-pk?from=rss",
+    "time": "2026-01-10T10:27:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
