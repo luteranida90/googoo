@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лемуры и прыжки в сугроб. Российские спортсмены завершают новогодние каникулы",
-    "description": "Некоторые атлеты выбрали активный отдых",
-    "fullText": "Некоторые атлеты выбрали активный отдых",
+    "title": "Армия Израиля назвала целью новой серии ударов по Ливану склады \"Хезболлах\"",
+    "description": "Согласно заявлению ЦАХАЛ, удары наносились по шахтам, используемым для хранения оружия, на нескольких военных объектах в Южном Ливане",
+    "fullText": "Согласно заявлению ЦАХАЛ, удары наносились по шахтам, используемым для хранения оружия, на нескольких военных объектах в Южном Ливане",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26121509",
-    "time": "2026-01-11T13:02:39.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26121633",
+    "time": "2026-01-11T13:43:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Международный день «Спасибо»! Вспоминаем матчи, за которые хочется благодарить",
+    "description": "На всех языках мира.",
+    "fullText": "На всех языках мира.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/0f/d3913af9a403c9012037db11d0721.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-11T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-11T09:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Смотрите финал Суперкубка Испании с фрибетом от БЕТСИТИ!",
-    "description": "Кто будет сильнее в Класико?",
-    "fullText": "Кто будет сильнее в Класико?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/5e/03785ad1d46c8849d8238297db594.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/uhbsnd",
-    "time": "2026-01-11T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Pathologic 3 вышла на ПК и PS5",
-    "description": "Цена игры в Steam составила 960 рублей с учётом скидки 20%.",
-    "fullText": "Цена игры в Steam составила 960 рублей с учётом скидки 20%.",
-    "image": "https://leonardo.osnova.io/aa7775f0-a750-5b06-a51f-01148d3a10fe/",
+    "title": "Netflix продлил «Чёрное зеркало» на восьмой сезон",
+    "description": "Пока без подробностей, потому что сценарий ещё пишут.",
+    "fullText": "Пока без подробностей, потому что сценарий ещё пишут.",
+    "image": "https://leonardo.osnova.io/5fcf1bab-bea6-5103-b35e-aa67a29875c8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4711860-pathologic-3-dostupna-na-pk-v-steam?from=rss",
-    "time": "2026-01-09T16:12:29.000Z"
+    "url": "https://dtf.ru/cinema/4713432-netflix-prodlil-chernoe-zerkalo-na-vosmoy-sezon?from=rss",
+    "time": "2026-01-10T10:03:58.000Z"
   }
 ]
