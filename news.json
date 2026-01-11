@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Севастополе объявили воздушную тревогу",
-    "description": "Морской и общественный транспорт прекратил движение",
-    "fullText": "Морской и общественный транспорт прекратил движение",
+    "title": "В Иране объявили трехдневный траур по погибшим из-за беспорядков",
+    "description": "Президент Масуд Пезешкиан призвал граждан страны выйти на национальный марш 12 января",
+    "fullText": "Президент Масуд Пезешкиан призвал граждан страны выйти на национальный марш 12 января",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26122297",
-    "time": "2026-01-11T19:03:44.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26122331",
+    "time": "2026-01-11T19:24:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "25 лучших спортсменов, родившихся в XXI веке",
+    "description": "В 2001-м и позже.",
+    "fullText": "В 2001-м и позже.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/9c/6fdcab72b435dafd0082f9ea8aa37.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3375029.html",
+    "time": "2026-01-11T16:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/iha53v",
     "time": "2026-01-11T16:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Медведев начал сезон с титула. Это возрождение?",
-    "description": "Итоги Брисбена.",
-    "fullText": "Итоги Брисбена.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/82/568d5b49b463aafa4743155eca95b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3376146.html",
-    "time": "2026-01-11T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
