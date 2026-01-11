@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Более 10 тыс. жителей Кушвы остались без теплоснабжения",
-    "description": "Коммунальная авария произошла на котельной \"Рудничная\"",
-    "fullText": "Коммунальная авария произошла на котельной \"Рудничная\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26120301",
-    "time": "2026-01-11T06:51:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Жо и Робиньо объединяет не только тюрьма, но и игра за один клуб. Вспомните, где пересеклись бразильцы?",
     "description": "Справится не каждый.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Думают: вот дурак-то в ЦСКА работал». Как отказался от Дюрэнта и работы в НБА, а начинал с офиса без стен: байки Ватутина",
-    "description": "В подкасте на ВидеоСпортсе’‘",
-    "fullText": "В подкасте на ВидеоСпортсе’‘",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c6/d59766d0d481c9d1b55a71cc4fc6f.jpeg",
+    "title": "«Челси» еще долго не будет элитным клубом",
+    "description": "Точно не при этом руководстве.",
+    "fullText": "Точно не при этом руководстве.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/09/cb6e01f934e11bbf596c21384083a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3375809.html",
-    "time": "2026-01-10T19:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375793.html",
+    "time": "2026-01-10T19:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4711468-ontos-ot-frictional-games-nauchnaya-fantastika?from=rss",
     "time": "2026-01-09T10:21:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
