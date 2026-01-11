@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Багаж пассажиров рейса из Дубая доставили в аэропорт Внуково",
+    "description": "Все оформившие доставку багажа по адресу пребывания или досыл в другие аэропорты получат его в ближайшее время",
+    "fullText": "Все оформившие доставку багажа по адресу пребывания или досыл в другие аэропорты получат его в ближайшее время",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26120449",
+    "time": "2026-01-11T07:46:26.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Жо и Робиньо объединяет не только тюрьма, но и игра за один клуб. Вспомните, где пересеклись бразильцы?",
     "description": "Справится не каждый.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Челси» еще долго не будет элитным клубом",
-    "description": "Точно не при этом руководстве.",
-    "fullText": "Точно не при этом руководстве.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/09/cb6e01f934e11bbf596c21384083a.jpeg",
+    "title": "«Судя по трассам, мы вообще не готовились к Олимпиаде». Что не так с лыжным спринтом",
+    "description": "Мысли Каминского.",
+    "fullText": "Мысли Каминского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/99/5308b0ffb4505a330c98ed7122973.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375793.html",
-    "time": "2026-01-10T19:40:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3375807.html",
+    "time": "2026-01-10T20:52:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4711468-ontos-ot-frictional-games-nauchnaya-fantastika?from=rss",
     "time": "2026-01-09T10:21:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
