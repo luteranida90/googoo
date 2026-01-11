@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На нефтебазе под Волгоградом ликвидировали открытое горение",
-    "description": "Возгорание произошло в Октябрьском районе из-за падения обломков БПЛА",
-    "fullText": "Возгорание произошло в Октябрьском районе из-за падения обломков БПЛА",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260111/8732931.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Он играл с Педри и Хави – и до сих пор в «Барсе». Кто?",
+    "description": "Вряд ли сегодня выйдет в Класико.",
+    "fullText": "Вряд ли сегодня выйдет в Класико.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/35/9641d21374802a572ce4af86a48c7.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26121973",
-    "time": "2026-01-11T16:16:48.000Z"
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2026-01-11T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2026-01-11T12:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Международный день «Спасибо»! Вспоминаем матчи, за которые хочется благодарить",
-    "description": "На всех языках мира.",
-    "fullText": "На всех языках мира.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/0f/d3913af9a403c9012037db11d0721.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eftnht",
-    "time": "2026-01-11T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "VGC: Fable должна выйти на PS5 одновременно с Xbox и ПК",
     "description": "Над портом Forza Horizon 6 начали работать позже.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4713495-fable-vyidut-na-ps5-odnovremenno-s-xbox-i-pk?from=rss",
     "time": "2026-01-10T10:27:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
