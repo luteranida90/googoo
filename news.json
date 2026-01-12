@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Министру сельского хозяйства РФ вручили орден Ингушетии \"За заслуги\"",
-    "description": "По словам главы Ингушетии Махмуда-Али Калиматова, при поддержке правительства страны проведены работы в 25 сельских поселениях региона",
-    "fullText": "По словам главы Ингушетии Махмуда-Али Калиматова, при поддержке правительства страны проведены работы в 25 сельских поселениях региона",
+    "title": "В \"Мастерской \"12\" Никиты Михалкова\" стартует \"Атлас театральной России\"",
+    "description": "Мероприятие продлится до 16 января",
+    "fullText": "Мероприятие продлится до 16 января",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26130473",
-    "time": "2026-01-12T20:53:40.000Z"
+    "url": "https://tass.ru/kultura/26130553",
+    "time": "2026-01-12T21:02:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Царукян делает миллионы просмотров, пожирая огромные порции верблюжатины, икры и фастфуда",
+    "description": "Реальный фуд-блогер.",
+    "fullText": "Реальный фуд-блогер.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/b7/d4a62b21b4a44bd10bca1939368c0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3376128.html",
+    "time": "2026-01-12T16:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-12T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сити» идет за Гехи уже зимой, Фабиан Руис – мечта «Галатасарая». Главные инсайды дня",
-    "description": "Here we go!",
-    "fullText": "Here we go!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/02/2ef58a4ea4480bcd916714685d285.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3376398.html",
-    "time": "2026-01-12T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Деньги с предзаказов Hytale обеспечили развитие игры на ближайшие два года",
-    "description": "«Песочницей» в духе Minecraft занимаются около 50 человек.",
-    "fullText": "«Песочницей» в духе Minecraft занимаются около 50 человек.",
-    "image": "https://leonardo.osnova.io/022e8e3e-fc57-590a-b0d1-a0c69dfe799a/",
+    "title": "Студия авторов Stellar Blade подарила всем сотрудникам Apple AirPods Max и Apple Watch",
+    "description": "Сумма подарков составила более 4000 долларов на человека.",
+    "fullText": "Сумма подарков составила более 4000 долларов на человека.",
+    "image": "https://leonardo.osnova.io/0c64a871-9c75-557d-b78f-4b129f07116b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4717842-hytale-obespechila-razvitie-igry-na-dva-goda-blagodarya-predzakazam?from=rss",
-    "time": "2026-01-12T14:51:23.000Z"
+    "url": "https://dtf.ru/gameindustry/4717446-shift-up-podarila-sotrudnikam-apple-airpods-max-i-apple-watch?from=rss",
+    "time": "2026-01-12T11:10:42.000Z"
   }
 ]
