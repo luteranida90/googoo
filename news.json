@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Автоваз\" вернулся к пятидневной рабочей неделе",
-    "description": "На четырехдневный график компания перешла 29 сентября 2025 года",
-    "fullText": "На четырехдневный график компания перешла 29 сентября 2025 года",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260112/8733163.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Русский защитник сменил два клуба НХЛ за неделю. Что это было?",
+    "description": "Замула в итоге в «Коламбусе».",
+    "fullText": "Замула в итоге в «Коламбусе».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/b2/a27720bb14d9f85d4dd5b5935e4b7.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26122479",
-    "time": "2026-01-11T21:10:08.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3375558.html",
+    "time": "2026-01-11T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-11T19:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что вы пропустили в 21-м туре АПЛ: красная из-за длинных волос, лого «Арсенала» у тренера «Тоттенхэма»",
-    "description": "Кто подставил Томаса Франка?",
-    "fullText": "Кто подставил Томаса Франка?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/16/57381bed34f6cad5ba2a9583dddaa.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374112.html",
-    "time": "2026-01-11T18:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "VGC: Fable должна выйти на PS5 одновременно с Xbox и ПК",
     "description": "Над портом Forza Horizon 6 начали работать позже.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4713495-fable-vyidut-na-ps5-odnovremenno-s-xbox-i-pk?from=rss",
     "time": "2026-01-10T10:27:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
