@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Прокуратура проведет проверку после вынужденной посадки самолета в Минводах",
-    "description": "Рейс авиакомпании \"Победа\" Стамбул - Краснодар приземлился в связи со сложными погодными условий",
-    "fullText": "Рейс авиакомпании \"Победа\" Стамбул - Краснодар приземлился в связи со сложными погодными условий",
+    "title": "На Запорожье беспилотник ВСУ атаковал многоквартирный дом",
+    "description": "Никто не пострадал",
+    "fullText": "Никто не пострадал",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26130115",
-    "time": "2026-01-12T19:08:56.000Z"
+    "url": "https://tass.ru/proisshestviya/26130293",
+    "time": "2026-01-12T19:57:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-01-12T16:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Каникулы закончились – вот главное, что вы пропустили в хоккее",
+    "description": "Овечкин, Кучеров, Малкин и все-все-все.",
+    "fullText": "Овечкин, Кучеров, Малкин и все-все-все.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/f3/aab639cff4191a004d3b30edfbfe0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3376129.html",
+    "time": "2026-01-12T15:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Деньги с предзаказов Hytale обеспечили развитие игры на ближайшие два года",
     "description": "«Песочницей» в духе Minecraft занимаются около 50 человек.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4717842-hytale-obespechila-razvitie-igry-na-dva-goda-blagodarya-predzakazam?from=rss",
     "time": "2026-01-12T14:51:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ледниковый период» возвращается: с Загитовой-ведущей и ТЩК на льду",
-    "description": "Ждете?",
-    "fullText": "Ждете?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/fe/b0c088d5d4601a048cb761999ac99.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3376354.html",
-    "time": "2026-01-12T14:30:00.000Z"
   }
 ]
