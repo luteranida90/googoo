@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Севастополе флот проведет учения",
+    "description": "В городе будут слышны неоднократные взрывы, сообщил губернатор Михаил Развожаев",
+    "fullText": "В городе будут слышны неоднократные взрывы, сообщил губернатор Михаил Развожаев",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26124799",
+    "time": "2026-01-12T08:10:39.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Правда ли, что у гимна «Краснодара» и «Формулы-1» один автор?",
     "description": "Разбираемся в новом тесте.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что еще не так с обменом Дивеева на Гонду?",
-    "description": "Взгляд Андрея Савина.",
-    "fullText": "Взгляд Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/94/a5b959fa34dad912e2e38b6412f95.jpeg",
+    "title": "Мем дня: Рафинья – мускулистый гигант! Завирусился еще до дубля «Реалу»",
+    "description": "Забавный абсурд.",
+    "fullText": "Забавный абсурд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d8/829d2f3f343fe968b04f36b81d3e9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373902.html",
-    "time": "2026-01-11T20:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3376316.html",
+    "time": "2026-01-11T22:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики Crimson Desert: «Открытый мир игры будет как минимум в два раза больше Skyrim»",
-    "description": "В студии также рассказали, что каждый игрок сможет прожить свою уникальную историю.",
-    "fullText": "В студии также рассказали, что каждый игрок сможет прожить свою уникальную историю.",
-    "image": "https://leonardo.osnova.io/538267e3-6dad-5eaa-abbe-d1a34571b1b1/",
+    "title": "Пятый эпизод хоррора Poppy Playtime выйдет 18 февраля",
+    "description": "В честь анонса разработчики выпустили кинематографический трейлер.",
+    "fullText": "В честь анонса разработчики выпустили кинематографический трейлер.",
+    "image": "https://leonardo.osnova.io/5f683d4c-04eb-5bf2-82f9-d533eec5cacf/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4714251-crimson-desert-otkrytyy-mir-v-dva-raza-bolshe-skyrim?from=rss",
-    "time": "2026-01-10T16:45:17.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4715290-pyatyy-epizod-poppy-playtime-vyhodit-18-fevralya?from=rss",
+    "time": "2026-01-11T09:13:42.000Z"
   }
 ]
