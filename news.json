@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Европа отобрала из хранилищ треть запасов газа с 13 октября",
-    "description": "Нетто-отбор из ПГХ с начала отопительного сезона составил более 30 млрд куб. м газа",
-    "fullText": "Нетто-отбор из ПГХ с начала отопительного сезона составил более 30 млрд куб. м газа",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26124285",
-    "time": "2026-01-12T07:03:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Трофей ЛЧ в 2011-м первым поднял не капитан «Барсы». А кто?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/06/80e1ad8834347810bce2cc2f72aef.png",
+    "title": "Правда ли, что у гимна «Краснодара» и «Формулы-1» один автор?",
+    "description": "Разбираемся в новом тесте.",
+    "fullText": "Разбираемся в новом тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/cd/c201c7f7a43f48d94997cac318b69.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/z69vfk",
-    "time": "2026-01-11T21:35:00.000Z"
+    "url": "https://sirena.world/jl026t",
+    "time": "2026-01-12T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Олдскульная RPG Banquet for Fools получила крупный апдейт и новую дату полного релиза — 26 февраля",
-    "description": "В игру добавили дополнительные карты и множество уникальных врагов.",
-    "fullText": "В игру добавили дополнительные карты и множество уникальных врагов.",
-    "image": "https://leonardo.osnova.io/f559b9fd-90fe-59cd-8403-3f58e1cb8de1/-/format/mp4/",
+    "title": "Разработчики Crimson Desert: «Открытый мир игры будет как минимум в два раза больше Skyrim»",
+    "description": "В студии также рассказали, что каждый игрок сможет прожить свою уникальную историю.",
+    "fullText": "В студии также рассказали, что каждый игрок сможет прожить свою уникальную историю.",
+    "image": "https://leonardo.osnova.io/538267e3-6dad-5eaa-abbe-d1a34571b1b1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4713975-obnovlenie-rpg-banqueforfools-novye-karty-i-data-reliza-26-fevralya?from=rss",
-    "time": "2026-01-10T14:42:53.000Z"
+    "url": "https://dtf.ru/games/4714251-crimson-desert-otkrytyy-mir-v-dva-raza-bolshe-skyrim?from=rss",
+    "time": "2026-01-10T16:45:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
