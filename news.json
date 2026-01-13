@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Stars and Stripes: защищающая США от МБР база не может прокормить военных",
-    "description": "Это связано с увольнениями персонала после сокращения бюджета властями, сообщила газета Пентагона",
-    "fullText": "Это связано с увольнениями персонала после сокращения бюджета властями, сообщила газета Пентагона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26133753",
-    "time": "2026-01-13T08:44:04.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Реакция дня: Лукомский узнал об увольнении Алонсо в прямом эфире. Смотрите на ВидеоСпортсе’‘",
     "description": "Да мы все такие.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "1000 очков Шипачева – великое событие. Легендарный игрок заслужил признание",
-    "description": "Навсегда в истории КХЛ.",
-    "fullText": "Навсегда в истории КХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/da/bf3a72e05495182de98a6dc8d26e9.jpeg",
+    "title": "Дибала прекрасен, новые страдания «МЮ», «Дортмунд» забивает одинаковые голы. Тактика топ-лиг",
+    "description": "И очень опасный Мактоминей.",
+    "fullText": "И очень опасный Мактоминей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5a/3ff14724f4609be70f8a58ed71246.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3376547.html",
-    "time": "2026-01-12T21:31:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3376392.html",
+    "time": "2026-01-12T23:09:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4718200-tizer-i-poster-novoj-mumii-li-kronina?from=rss",
     "time": "2026-01-12T17:37:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
