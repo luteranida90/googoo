@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Последние проверки в ГКБ Новокузнецка, где умерли младенцы, проводились в ноябре",
+    "description": "В частности, было вынесено предостережение по факту использования выведенного из оборота препарата для внутримышечных инъекций",
+    "fullText": "В частности, было вынесено предостережение по факту использования выведенного из оборота препарата для внутримышечных инъекций",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26133435",
+    "time": "2026-01-13T08:19:05.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Реакция дня: Лукомский узнал об увольнении Алонсо в прямом эфире. Смотрите на ВидеоСпортсе’‘",
     "description": "Да мы все такие.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/video/H89KSpsBaVWkFKoEUlu8Ypuv0PJD0atJLiIRZU0aa7Q",
     "time": "2026-01-13T07:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Янчук считает, что российские теннисисты хорошо начали сезон",
-    "description": "На прошлой неделе Даниил Медведев стал победителем турнира в Брисбене",
-    "fullText": "На прошлой неделе Даниил Медведев стал победителем турнира в Брисбене",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26132877",
-    "time": "2026-01-13T07:10:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бывшие россиянки не поедут на Олимпиаду из-за бюрократии. Хотя могли бы взять медали",
-    "description": "Просвирнова и Ефимова не получили паспорт.",
-    "fullText": "Просвирнова и Ефимова не получили паспорт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/62/4f968be904f03acebe586d6d13b70.jpeg",
+    "title": "Новая девушка Циципаса – бывшая теннисистка и бренд-стратег",
+    "description": "Работала на турнире в Майами и в Wilson.",
+    "fullText": "Работала на турнире в Майами и в Wilson.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/68/15353890646fa960c1176cb8cad1b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skating/blogs/3376405.html",
-    "time": "2026-01-12T19:25:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3376407.html",
+    "time": "2026-01-12T20:18:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Paramount подала иск против Warner Bros. Discovery, чтобы остановить сделку с Netflix",
-    "description": "Компания также требует голосования акционеров по разделению бизнеса WBD.",
-    "fullText": "Компания также требует голосования акционеров по разделению бизнеса WBD.",
-    "image": "https://leonardo.osnova.io/d3758a77-a916-5697-827d-f859d0e656d6/",
+    "title": "«Уровень идиотии, на который способны только соцсети»: Кит Харингтон о петиции переснять финальный сезон «Игры престолов»",
+    "description": "В своё время такое «предложение» разозлило актёра.",
+    "fullText": "В своё время такое «предложение» разозлило актёра.",
+    "image": "https://leonardo.osnova.io/109a5b00-a087-52e9-8789-75428c4ef60f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4718060-paramount-isk-warner-bros-netflix?from=rss",
-    "time": "2026-01-12T16:11:07.000Z"
+    "url": "https://dtf.ru/cinema/4717470-kit-harington-o-petitsii-peresnyat-final-igry-prestolov?from=rss",
+    "time": "2026-01-12T11:42:38.000Z"
   }
 ]
