@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин передал под временное управление активы Canpack и Rockwool",
-    "description": "В частности, временным управлением 100% в ООО \"Кэн-пак\" и \"Кэн-пак - завод упаковки\" займется компания \"Стальэлемент\"",
-    "fullText": "В частности, временным управлением 100% в ООО \"Кэн-пак\" и \"Кэн-пак - завод упаковки\" займется компания \"Стальэлемент\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033215.jpg",
+    "title": "Рютте отказался отвечать, что НАТО может сделать для примирения США и Дании",
+    "description": "По словам генсека, его роль заключается в создании диалога между странами альянса",
+    "fullText": "По словам генсека, его роль заключается в создании диалога между странами альянса",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26137547",
-    "time": "2026-01-13T14:41:55.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Variety: по мотивам романа «Девушка с татуировкой дракона» снимут сериал",
-    "description": "Шоу покажет современную интерпретацию оригинальной книги.",
-    "fullText": "Шоу покажет современную интерпретацию оригинальной книги.",
-    "image": "https://leonardo.osnova.io/be94b9c2-45e4-55b9-b28d-5698973afd0b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4719976-variety-po-motivam-romana-devushka-s-tatuirovkoi-drakona-snimut-serial?from=rss",
-    "time": "2026-01-13T14:40:50.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26137857",
+    "time": "2026-01-13T15:02:40.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новая девушка Циципаса – бывшая теннисистка и бренд-стратег",
-    "description": "Работала на турнире в Майами и в Wilson.",
-    "fullText": "Работала на турнире в Майами и в Wilson.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/68/15353890646fa960c1176cb8cad1b.jpeg",
+    "title": "У Шипачева – 1000 очков в КХЛ, но провал в «Вегасе». Почему не получилось?",
+    "description": "Не бывает плохого опыта. Или все же бывает?",
+    "fullText": "Не бывает плохого опыта. Или все же бывает?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/04/3e52ef11449bc80c5314617c0b971.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3376407.html",
-    "time": "2026-01-13T10:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3374766.html",
+    "time": "2026-01-13T10:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Джордж Мартин передал авторам сериала «Рыцарь Семи королевств» наброски около десяти историй про Дунка и Эгга",
+    "description": "При этом было опубликовано только три новеллы.",
+    "fullText": "При этом было опубликовано только три новеллы.",
+    "image": "https://leonardo.osnova.io/c950382c-1e34-5f2a-a388-f59193c855b7/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4719099-dzhordzh-martin-novye-istorii-o-dunke-i-egghe?from=rss",
+    "time": "2026-01-13T07:18:35.000Z"
   }
 ]
