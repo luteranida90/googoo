@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Володин поручил комитету по информполитике доложить о ситуации в \"Почте России\"",
+    "title": "Посол США в Израиле считает, что власть в Газе обязательно передадут палестинцам",
     "description": "",
     "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250331/8148659.jpg",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26134311",
-    "time": "2026-01-13T09:30:50.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26134427",
+    "time": "2026-01-13T10:06:45.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2026-01-13T07:20:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Он играл с Педри и Хави – и до сих пор в «Барсе». Кто?",
+    "description": "Сейчас играет редко.",
+    "fullText": "Сейчас играет редко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/35/9641d21374802a572ce4af86a48c7.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2026-01-13T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Платье Соболенко на Australian Open отсылает к комбинезону Серены и мельдониевому наряду Шараповой",
     "description": "Референсы.",
@@ -33,25 +44,14 @@
     "time": "2026-01-13T05:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "К кому приехал Фалькао? Сколько клубов в карьере колумбийца вспомните?",
-    "description": "Подсказка: всего их 9.",
-    "fullText": "Подсказка: всего их 9.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/69/9335abf3d44728451c2f87e87a92b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2026-01-13T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Что случилось с Кэти?»: тизер и постер «Мумии» Ли Кронина — режиссёра «Восстания зловещих мертвецов»",
-    "description": "Фильм вдохновлён «Полтергейстом» и «Семь», заявил постановщик.",
-    "fullText": "Фильм вдохновлён «Полтергейстом» и «Семь», заявил постановщик.",
-    "image": "https://leonardo.osnova.io/6cb2b111-096a-5a0a-bfa0-c886b6e47c8f/-/format/mp4/",
+    "title": "Манки Д. Луффи и друзья против «Барок Воркс»: тизер второго сезона сериала «One Piece. Большой куш»",
+    "description": "И больше дюжины кадров с ключевыми персонажами.",
+    "fullText": "И больше дюжины кадров с ключевыми персонажами.",
+    "image": "https://leonardo.osnova.io/bad42627-4f95-5f42-9a6d-4dbf73d1f7db/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4718200-tizer-i-poster-novoj-mumii-li-kronina?from=rss",
-    "time": "2026-01-12T17:37:22.000Z"
+    "url": "https://dtf.ru/cinema/4717985-tizer-vtorogo-sezona-one-piece-bolshoy-kush?from=rss",
+    "time": "2026-01-12T15:28:58.000Z"
   }
 ]
