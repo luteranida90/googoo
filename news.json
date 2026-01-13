@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российский рынок акций закрылся снижением основных индексов",
-    "description": "Индекс Мосбиржи снизился до 2 696,92 пункта",
-    "fullText": "Индекс Мосбиржи снизился до 2 696,92 пункта",
+    "title": "На Украине растет число уклонистов, пытающихся бежать в Белоруссию",
+    "description": "По данным Госпогранслужбы республики, за два года оно выросло в 365 раз",
+    "fullText": "По данным Госпогранслужбы республики, за два года оно выросло в 365 раз",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26138923",
-    "time": "2026-01-13T17:51:30.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26139179",
+    "time": "2026-01-13T18:57:11.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Горничная»: триллер о красивых женщинах с сумасшедшим твистом",
+    "description": "Обзор Андрея Загудаева.",
+    "fullText": "Обзор Андрея Загудаева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/72/5d182e1ae4be8a6d1b47571832cd4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3376381.html",
+    "time": "2026-01-13T18:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Трофей ЛЧ в 2011-м первым поднял не капитан «Барсы». А кто?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/06/80e1ad8834347810bce2cc2f72aef.png",
+    "title": "Назвать всех тренеров «Реала» в XXI веке сложнее, чем кажется. Попробуете?",
+    "description": "Арбелоа уже 20-й.",
+    "fullText": "Арбелоа уже 20-й.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/c3/8dbbee42f43cca084a37de57c247a.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/z69vfk",
-    "time": "2026-01-13T14:00:00.000Z"
+    "url": "https://sirena.world/sxam3a",
+    "time": "2026-01-13T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сколько калорий сжигает уборка снега лопатой?",
-    "description": "Важно после циклона «Фрэнсис».",
-    "fullText": "Важно после циклона «Фрэнсис».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/32/1239fbd464b0190a4b58ef36c9b7b.jpeg",
+    "title": "«Реал» в тупике – и даже не осознает этого. Колонка Лукомского",
+    "description": "Клуб упустил шанс.",
+    "fullText": "Клуб упустил шанс.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/20/ba29201084faaae860fe5177e4b1f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3376452.html",
-    "time": "2026-01-13T13:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3376601.html",
+    "time": "2026-01-13T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я не хотел, чтобы GOG достался какой-нибудь корпорации»: Михал Кичиньский о покупке платформы у CD Projekt и планах на будущее",
-    "description": "Руководитель верит, что магазин может выделиться на рынке.",
-    "fullText": "Руководитель верит, что магазин может выделиться на рынке.",
-    "image": "https://leonardo.osnova.io/2a0fb0fc-ceff-5558-8ec7-2ee71dd04691/",
+    "title": "Ubisoft начала реструктуризацию Massive Entertainment, в рамках которой могут сократить до 55 человек",
+    "description": "В компании заявили, что решение стратегическое, и оно не связано с индивидуальными навыками сотрудников.",
+    "fullText": "В компании заявили, что решение стратегическое, и оно не связано с индивидуальными навыками сотрудников.",
+    "image": "https://leonardo.osnova.io/6004caa8-3552-5fce-85bf-679d268800ba/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4719120-mihal-kichinskiy-o-pokupke-gog-u-cd-projekt?from=rss",
-    "time": "2026-01-13T07:57:57.000Z"
+    "url": "https://dtf.ru/gameindustry/4719678-ubisoft-restrukturizatsiya-massive-entertainment?from=rss",
+    "time": "2026-01-13T11:55:53.000Z"
   }
 ]
