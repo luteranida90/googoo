@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9vZG5hLmNv",
+    "title": "Знаете, как сделать Спортс’’ лучше?",
+    "description": "Расскажите в анонимном опросе.",
+    "fullText": "Расскажите в анонимном опросе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e2/33fee3a9448eca0af54041d1284f4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://odna.co/poll/X8fU25iAVo1DZpNQDav6Wh",
+    "time": "2026-01-13T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ГД ратифицировала соглашение РФ с Джибути о передаче осужденных",
-    "description": "Согласно документу, стороны будут максимально содействовать друг другу в этом вопросе",
-    "fullText": "Согласно документу, стороны будут максимально содействовать друг другу в этом вопросе",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин уточнил состояние поликлиник и больниц в Ярославской области",
+    "description": "Президент указал на необходимость капитального ремонта некоторых учреждений здравоохранения",
+    "fullText": "Президент указал на необходимость капитального ремонта некоторых учреждений здравоохранения",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8011617.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26135139",
-    "time": "2026-01-13T10:57:12.000Z"
+    "url": "https://tass.ru/obschestvo/26135563",
+    "time": "2026-01-13T11:24:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Уход из клуба – ошибка. Моя вина». «Детройт» вывел номер Федорова – вечер в честь легенды",
+    "description": "❤",
+    "fullText": "❤",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/d0/6cfb669be451aafcc09570b24f3aa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3376566.html",
+    "time": "2026-01-13T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +55,14 @@
     "time": "2026-01-13T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Капитан «Локо» перешел в ЦСКА. Хотя еще вчера Баринов опровергал",
-    "description": "«Видимо, не заслужил продления».",
-    "fullText": "«Видимо, не заслужил продления».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/13/afeba46fe4364981be1a5d4f42c7b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3376456.html",
-    "time": "2026-01-13T06:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Манки Д. Луффи и друзья против «Барок Воркс»: тизер второго сезона сериала «One Piece. Большой куш»",
-    "description": "И больше дюжины кадров с ключевыми персонажами.",
-    "fullText": "И больше дюжины кадров с ключевыми персонажами.",
-    "image": "https://leonardo.osnova.io/bad42627-4f95-5f42-9a6d-4dbf73d1f7db/-/format/mp4/",
+    "title": "Masters of Albion, симулятор бога от студии 22cans Питера Молиньё, выйдет 22 апреля — трейлер и скриншоты",
+    "description": "Последняя игра именитого геймдизайнера.",
+    "fullText": "Последняя игра именитого геймдизайнера.",
+    "image": "https://leonardo.osnova.io/f706dc7f-6040-59e3-9578-523c477231f3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4717985-tizer-vtorogo-sezona-one-piece-bolshoy-kush?from=rss",
-    "time": "2026-01-12T15:28:58.000Z"
+    "url": "https://dtf.ru/games/4718155-mastersofalbion-simulyator-boga-ot-22cans-vyhodit-22-aprelya?from=rss",
+    "time": "2026-01-12T17:13:10.000Z"
   }
 ]
