@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Памятный нагрудный знак \"85 лет битвы за Москву\" учредили в столице",
-    "description": "Знак будет вручаться ветеранам Великой Отечественной войны",
-    "fullText": "Знак будет вручаться ветеранам Великой Отечественной войны",
+    "title": "Россия и Ливан продолжат тесную координацию на международных площадках",
+    "description": "Речь идет также о сфере защиты прав человека и новых вызовов и угроз",
+    "fullText": "Речь идет также о сфере защиты прав человека и новых вызовов и угроз",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26146991",
-    "time": "2026-01-14T12:25:42.000Z"
+    "url": "https://tass.ru/politika/26147537",
+    "time": "2026-01-14T13:16:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
@@ -22,6 +22,17 @@
     "time": "2026-01-14T11:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жизнь Дмитрия Баринова: работал в 9 лет, вытащил отца со дна, играл с порванными крестами",
+    "description": "Теперь он в ЦСКА.",
+    "fullText": "Теперь он в ЦСКА.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c6/b9fbab3c446bb908575daba56c80a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3376664.html",
+    "time": "2026-01-14T09:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Откуда вратарь «Лацио» знает русский? Ответ в новом тесте",
     "description": "Он даже забивал в ЛЧ.",
@@ -33,25 +44,14 @@
     "time": "2026-01-14T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шубенков залетел на «Ледниковый период»: исполнил мечту мамы, верит в честное судейство",
-    "description": "Партнерша – Худайбердиева.",
-    "fullText": "Партнерша – Худайбердиева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/6e/9665d8c9a41fca026238707007103.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3376818.html",
-    "time": "2026-01-14T08:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Юсеф Фарес о разнообразии в индустрии: «Нам нужны АА и ААА, GTA за десять миллионов не сделаешь»",
-    "description": "Разработчик также рассказал об отношении к ИИ, совмещении творчества с бизнесом и философии студии Hazelight.",
-    "fullText": "Разработчик также рассказал об отношении к ИИ, совмещении творчества с бизнесом и философии студии Hazelight.",
-    "image": "https://leonardo.osnova.io/1e73f79d-bd68-5fe3-be14-453ce14e98ea/",
+    "title": "Games Workshop запретила сотрудникам использовать ИИ при создании контента и в процессе дизайна",
+    "description": "Некоторые топ-менеджеры компании экспериментируют с технологией, но без энтузиазма.",
+    "fullText": "Некоторые топ-менеджеры компании экспериментируют с технологией, но без энтузиазма.",
+    "image": "https://leonardo.osnova.io/d2c8ed7c-28d0-5010-8d7d-ae9dad6d201c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4720147-yusef-fares-o-raznoobrazii-v-igrovoy-industrii?from=rss",
-    "time": "2026-01-13T17:42:17.000Z"
+    "url": "https://dtf.ru/gameindustry/4720562-games-workshop-zapretila-ispolzovanie-ii?from=rss",
+    "time": "2026-01-13T19:50:10.000Z"
   }
 ]
