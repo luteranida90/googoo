@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Россия и Ливан продолжат тесную координацию на международных площадках",
-    "description": "Речь идет также о сфере защиты прав человека и новых вызовов и угроз",
-    "fullText": "Речь идет также о сфере защиты прав человека и новых вызовов и угроз",
+    "title": "Прокуратура утвердила обвинение по делу о гибели троих детей и матери в Подмосковье",
+    "description": "Уголовное дело в ближайшее время будет направлено в Егорьевский городской суд",
+    "fullText": "Уголовное дело в ближайшее время будет направлено в Егорьевский городской суд",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26147537",
-    "time": "2026-01-14T13:16:06.000Z"
+    "url": "https://tass.ru/proisshestviya/26148003",
+    "time": "2026-01-14T14:06:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
+    "description": "Разыгрываем поездку в Дубай.",
+    "fullText": "Разыгрываем поездку в Дубай.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/1fc59c860463dac945af152066d31.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/iuixby",
+    "time": "2026-01-14T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9vZG5hLmNv",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жизнь Дмитрия Баринова: работал в 9 лет, вытащил отца со дна, играл с порванными крестами",
-    "description": "Теперь он в ЦСКА.",
-    "fullText": "Теперь он в ЦСКА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c6/b9fbab3c446bb908575daba56c80a.jpeg",
+    "title": "Еременко угрожают в Финляндии – из-за возвращения в Россию. Переход в «Оренбург» завис",
+    "description": "Критики правда навалом.",
+    "fullText": "Критики правда навалом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/16/d75c0a19b43d8b91e085d6c27a4b3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3376664.html",
-    "time": "2026-01-14T09:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Откуда вратарь «Лацио» знает русский? Ответ в новом тесте",
-    "description": "Он даже забивал в ЛЧ.",
-    "fullText": "Он даже забивал в ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/86/3b6adebd144b098aa30236128fe4d.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eftnht",
-    "time": "2026-01-14T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3376731.html",
+    "time": "2026-01-14T10:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Games Workshop запретила сотрудникам использовать ИИ при создании контента и в процессе дизайна",
-    "description": "Некоторые топ-менеджеры компании экспериментируют с технологией, но без энтузиазма.",
-    "fullText": "Некоторые топ-менеджеры компании экспериментируют с технологией, но без энтузиазма.",
-    "image": "https://leonardo.osnova.io/d2c8ed7c-28d0-5010-8d7d-ae9dad6d201c/",
+    "title": "Инди-разработчик уберёт свою игру из Steam из-за использования ИИ — в «неэтичности» технологии его убедила подруга",
+    "description": "Автор понял, что у бесплатного создания изображений есть и другая сторона.",
+    "fullText": "Автор понял, что у бесплатного создания изображений есть и другая сторона.",
+    "image": "https://leonardo.osnova.io/86c44f07-6ee4-58f7-ab26-b5c49eba531d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4720562-games-workshop-zapretila-ispolzovanie-ii?from=rss",
-    "time": "2026-01-13T19:50:10.000Z"
+    "url": "https://dtf.ru/gameindustry/4720232-indi-razrabotchik-udalyayet-igru-hardest-iz-steam-iz-za-ii?from=rss",
+    "time": "2026-01-13T16:38:49.000Z"
   }
 ]
