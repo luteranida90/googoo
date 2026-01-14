@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Британия временно закрыла свое посольство в Тегеране",
-    "description": "Это связано с обострением политической ситуации на Ближнем Востоке",
-    "fullText": "Это связано с обострением политической ситуации на Ближнем Востоке",
+    "title": "На Солнце произошла сильная вспышка",
+    "description": "Она продолжалась 40 минут",
+    "fullText": "Она продолжалась 40 минут",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26150641",
-    "time": "2026-01-14T20:17:55.000Z"
+    "url": "https://tass.ru/kosmos/26150885",
+    "time": "2026-01-14T21:02:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Злющий Шэй, давление на Вемби – что мы увидели в первой победе «Оклахомы» над «Сан-Антонио»",
+    "description": "Случилось!",
+    "fullText": "Случилось!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/bc/b7337dfed4f72b3279616847c20b1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3376884.html",
+    "time": "2026-01-14T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/xxwhr4",
     "time": "2026-01-14T16:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тайриз Макси – новый Айверсон в «Филадельфии». Уже отобрал лидерство у сдувшегося Эмбиида",
-    "description": "НБА – лига наглых малышей.",
-    "fullText": "НБА – лига наглых малышей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/94/f345ffd264ea3b2c6adf234c108ce.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3376147.html",
-    "time": "2026-01-14T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
