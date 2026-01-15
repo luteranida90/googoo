@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Небензя: Россия призывает США прекратить строить из себя мирового судью",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26162853",
-    "time": "2026-01-15T21:13:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "По советским шедеврам снимут ремейки: «Союзмультфильм» готовит вселенную Чуковского",
     "description": "Инсайды и слухи.",
@@ -33,6 +22,17 @@
     "time": "2026-01-15T19:35:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Мёртвым есть что сказать»: трейлер «Невесты», фильма Мэгги Джилленхол по мотивам романа «Франкенштейн»",
+    "description": "Монстра сыграл Кристиан Бэйл, а Джесси Бакли — его возлюбленную.",
+    "fullText": "Монстра сыграл Кристиан Бэйл, а Джесси Бакли — его возлюбленную.",
+    "image": "https://leonardo.osnova.io/5b00692d-e4d6-5bcb-b1c1-bc8970ef7a89/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4724358-treyler-filma-nevesta?from=rss",
+    "time": "2026-01-15T17:53:52.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Почему Тотти и Кассано в восторге от Нико Паса",
     "description": "Одобрено великими десятками прошлого.",
@@ -44,14 +44,14 @@
     "time": "2026-01-15T17:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Spotify поднимет цены на индивидуальную Premium-подписку в США на 1 доллар — до 13 долларов в месяц",
-    "description": "Вырастут цены и на другие планы.",
-    "fullText": "Вырастут цены и на другие планы.",
-    "image": "https://leonardo.osnova.io/0041e827-0c90-51dd-aa11-1ceb0f8f7137/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/music/4724126-spotify-povyisit-tseny-na-premium-podpisku-v-ssha?from=rss",
-    "time": "2026-01-15T15:26:32.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
