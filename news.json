@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Рязанской области объявили беспилотную опасность",
-    "description": "Об этом сообщили в МЧС",
-    "fullText": "Об этом сообщили в МЧС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В ГД назвали \"творческой импотенцией\" пересъемки советских франшиз",
+    "description": "первый заместитель председателя комитета по культуре Дмитрий Певцов заявил, что ремейки являются попыткой заработать на проверенных сюжетах",
+    "fullText": "первый заместитель председателя комитета по культуре Дмитрий Певцов заявил, что ремейки являются попыткой заработать на проверенных сюжетах",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260116/8743261.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26163255",
-    "time": "2026-01-15T22:08:20.000Z"
+    "url": "https://tass.ru/obschestvo/26163295",
+    "time": "2026-01-15T22:28:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +33,17 @@
     "time": "2026-01-15T19:35:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Девушка с широкой костью бьет рекорды NCAA. Против нее строят специальную защиту",
+    "description": "Сочетание результативности и эффективности.",
+    "fullText": "Сочетание результативности и эффективности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/cc/98662f0ed4c70bfed4c305346d826.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3376359.html",
+    "time": "2026-01-15T18:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Мёртвым есть что сказать»: трейлер «Невесты», фильма Мэгги Джилленхол по мотивам романа «Франкенштейн»",
     "description": "Монстра сыграл Кристиан Бэйл, а Джесси Бакли — его возлюбленную.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4724358-treyler-filma-nevesta?from=rss",
     "time": "2026-01-15T17:53:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сборная «Арсенала» за 25 лет. Кого выбрал Лукомский?",
-    "description": "Защита из состава Артеты.",
-    "fullText": "Защита из состава Артеты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7a/4d16d5ea940178d4b6e11e0b5ecbc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373193.html",
-    "time": "2026-01-15T17:45:00.000Z"
   }
 ]
