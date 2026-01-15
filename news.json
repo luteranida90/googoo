@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Справился с болезнями. Лыжник Большунов одержал первую победу в сезоне",
-    "description": "Трехкратный олимпийский чемпион выиграл гонку с раздельным стартом на этапе Кубка России в Казани",
-    "fullText": "Трехкратный олимпийский чемпион выиграл гонку с раздельным стартом на этапе Кубка России в Казани",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260115/8742877.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Медведева сетка приятная, у Мирры – жесткая. Быстрые итоги жеребьевки Australian Open",
+    "description": "Старт в воскресенье.",
+    "fullText": "Старт в воскресенье.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ac/dde755c704716bfd8f4ae79090260.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/26160915",
-    "time": "2026-01-15T15:05:23.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3377058.html",
+    "time": "2026-01-15T11:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-01-15T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему нашим игрокам так тяжело в Европе?",
-    "description": "Исследовал Терентьев.",
-    "fullText": "Исследовал Терентьев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/1a/5583acac7426080b9d691e77aea6f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3376859.html",
-    "time": "2026-01-15T11:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Трейлер и скриншоты Hypnos — адвенчуры от первого лица об исследовании «лавкрафтовской мегаструктуры»",
-    "description": "Демо следующей игры от авторов Blackshard выйдет уже 23 февраля.",
-    "fullText": "Демо следующей игры от авторов Blackshard выйдет уже 23 февраля.",
-    "image": "https://leonardo.osnova.io/8d523b7e-4512-5f78-90af-4f2d80743622/-/format/mp4/",
+    "title": "Соавтор Megami Tensei и Persona работает над оригинальной «RPG о школьной жизни» со студией Compile Heart",
+    "description": "Полноценный анонс состоится 29 января.",
+    "fullText": "Полноценный анонс состоится 29 января.",
+    "image": "https://leonardo.osnova.io/ea23d5c4-e603-5d48-b473-fb78361b5536/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4723315-trejler-i-skrinshoty-hypnos?from=rss",
-    "time": "2026-01-15T08:05:24.000Z"
+    "url": "https://dtf.ru/games/4723218-novaya-rpg-o-shkolnoy-zhizni-ot-compile-heart-i-kodzi-okady?from=rss",
+    "time": "2026-01-15T06:50:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
