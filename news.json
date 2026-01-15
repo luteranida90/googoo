@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Депутат ЕП Пюрнер предупредил о риске хищения выделенных Киеву €90 млрд",
-    "description": "",
-    "fullText": "",
+    "title": "На Ставрополье в 2026 году направят порядка 15 млн рублей на уличное освещение",
+    "description": "В 2025 году было установлено уличное освещение в нескольких поселках округа",
+    "fullText": "В 2025 году было установлено уличное освещение в нескольких поселках округа",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26157157",
-    "time": "2026-01-15T11:05:10.000Z"
+    "url": "https://tass.ru/obschestvo/26157451",
+    "time": "2026-01-15T11:26:36.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Амур» отыгрался с 1:3 против «Ак Барса»! Показываем на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "title": "«Амур» и «Ак Барс» забросили восемь шайб! Показывали на ВидеоСпортсе’’",
+    "description": "Фаворит все-таки победил.",
+    "fullText": "Фаворит все-таки победил.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/2/17/9183266db49b1a9fbfdb34821b233.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/BnyDEv8xgQwER_Jy75_SYyBSccJXnHKr7pgXNRx7iUA",
     "time": "2026-01-15T09:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Медведева сетка приятная, у Мирры – жесткая. Быстрые итоги жеребьевки Australian Open",
+    "description": "Старт в воскресенье.",
+    "fullText": "Старт в воскресенье.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ac/dde755c704716bfd8f4ae79090260.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3377058.html",
+    "time": "2026-01-15T07:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2026-01-15T06:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ак Барс» разочаровался в бывшем капитане. Что не так с Яшкиным?",
-    "description": "Его могут обменять.",
-    "fullText": "Его могут обменять.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/17/92f5cd3c54a1facb7d1dd7229dcd4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3376970.html",
-    "time": "2026-01-15T06:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Утечка: Forza Horizon 6 выйдет 19 мая",
-    "description": "Официальный анонс, похоже, состоится на Developer_Direct.",
-    "fullText": "Официальный анонс, похоже, состоится на Developer_Direct.",
-    "image": "https://leonardo.osnova.io/a5c35882-e796-5a67-b11b-367673442a28/",
+    "title": "Meta* закроет три VR-студии — они включают разработчиков Resident Evil 4 VR и Deadpool VR",
+    "description": "Решение приняли в рамках масштабных сокращений.",
+    "fullText": "Решение приняли в рамках масштабных сокращений.",
+    "image": "https://leonardo.osnova.io/b2771ed7-cb0f-5688-a85d-21ed05860cba/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4722034-forza-horizon-6-vyidet-19-maya-s-550-avtomobilami?from=rss",
-    "time": "2026-01-14T14:41:33.000Z"
+    "url": "https://dtf.ru/gameindustry/4722523-meta-zakroet-vr-studii?from=rss",
+    "time": "2026-01-14T18:57:33.000Z"
   }
 ]
