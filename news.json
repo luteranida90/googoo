@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Крыму четыре района остались без света из-за нарушений на сетях",
-    "description": "Электроснабжение восстановят в течение двух часов",
-    "fullText": "Электроснабжение восстановят в течение двух часов",
+    "title": "В Киеве объявляли воздушную тревогу",
+    "description": "В красной зоне остаются Днепропетровская, Киевская, Харьковская и Черниговская области",
+    "fullText": "В красной зоне остаются Днепропетровская, Киевская, Харьковская и Черниговская области",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26161455",
-    "time": "2026-01-15T16:14:23.000Z"
+    "url": "https://tass.ru/proisshestviya/26161593",
+    "time": "2026-01-15T16:40:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В Epic Games Store началась раздача двух частей Styx",
+    "description": "Стелс-экшены доступны в российском регионе магазина.",
+    "fullText": "Стелс-экшены доступны в российском регионе магазина.",
+    "image": "https://leonardo.osnova.io/7cec183d-109e-5c56-9a4c-3dfaac3af37f/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4724159-razdacha-igr-styx-v-epic-games-store?from=rss",
+    "time": "2026-01-15T16:01:24.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ледниковый период» изнутри: Загитова с оговоркой про лицо, ясли за кулисами, новая задумка",
-    "description": "Репортаж с первой съемки сезона.",
-    "fullText": "Репортаж с первой съемки сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a3/6ca3813c945aebc5c51ee57325239.jpeg",
+    "title": "Почему Тотти и Кассано в восторге от Нико Паса",
+    "description": "Одобрено великими десятками прошлого.",
+    "fullText": "Одобрено великими десятками прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/cf76a17a146d480bbdd27ae25e690.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3377064.html",
-    "time": "2026-01-15T11:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В США и Европе состоялся релиз игры The Legend of Heroes: Trails Beyond the Horizon",
-    "description": "RPG доступна и в российском Steam.",
-    "fullText": "RPG доступна и в российском Steam.",
-    "image": "https://leonardo.osnova.io/f720cc94-75b9-5d74-a3cf-e6f2712ca3b6/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4723499-reliz-the-legend-of-heroes-trails-beyond-the-horizon-v-ssha-i-europe?from=rss",
-    "time": "2026-01-15T10:13:18.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375983.html",
+    "time": "2026-01-15T12:10:00.000Z"
   }
 ]
