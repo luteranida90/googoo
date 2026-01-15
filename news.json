@@ -1,25 +1,47 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Архангельске рейсовый автобус протаранил шесть машин",
-    "description": "Водитель уснул за рулем",
-    "fullText": "Водитель уснул за рулем",
+    "title": "Суд Южной Кореи вынесет вердикт экс-президенту по делу о препятствовании аресту",
+    "description": "Прокуратура запросила для Юн Сок Ёля 10 лет тюрьмы",
+    "fullText": "Прокуратура запросила для Юн Сок Ёля 10 лет тюрьмы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26162551",
-    "time": "2026-01-15T20:18:16.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26162721",
+    "time": "2026-01-15T21:05:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "По советским шедеврам снимут ремейки: «Союзмультфильм» готовит вселенную Чуковского",
+    "description": "Инсайды и слухи.",
+    "fullText": "Инсайды и слухи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/3b/3f731f208435885bc069015b8a743.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3376253.html",
+    "time": "2026-01-15T20:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Турки смогли сделать Суперлигу, а Перес нет. Сколько клубов чемпионата Турции назовете?",
-    "description": "Не показывайте это Жозе.",
-    "fullText": "Не показывайте это Жозе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/74/fa1a796f44e528d27c25a098ff157.png",
+    "title": "Только два тренера выиграли ЛЧ и ЧМ. Висенте дель Боске, а кто второй?",
+    "description": "Узнайте в нашем тесте.",
+    "fullText": "Узнайте в нашем тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a8/e5a8e3cf0474696a5236238f29082.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2026-01-15T16:10:00.000Z"
+    "url": "https://sirena.world/z69vfk",
+    "time": "2026-01-15T19:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Какой же странный победный гол «Ак Барса»! Вратарь совсем растерялся",
+    "description": "Эх, Дорожко.",
+    "fullText": "Эх, Дорожко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/87/804048a82421a955361ab9dbfb6d1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3377163.html",
+    "time": "2026-01-15T17:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/4724126-spotify-povyisit-tseny-na-premium-podpisku-v-ssha?from=rss",
     "time": "2026-01-15T15:26:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Скоро на Australian Open будет +50 жары. Как турнир меняется из-за погоды?",
-    "description": "Пока проигрывает борьбу.",
-    "fullText": "Пока проигрывает борьбу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/26/f948391564743812da50999590496.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3375473.html",
-    "time": "2026-01-15T15:20:00.000Z"
   }
 ]
