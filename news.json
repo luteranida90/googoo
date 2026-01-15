@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Рязанской области объявили беспилотную опасность",
+    "description": "Об этом сообщили в МЧС",
+    "fullText": "Об этом сообщили в МЧС",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26163255",
+    "time": "2026-01-15T22:08:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "По советским шедеврам снимут ремейки: «Союзмультфильм» готовит вселенную Чуковского",
     "description": "Инсайды и слухи.",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Тотти и Кассано в восторге от Нико Паса",
-    "description": "Одобрено великими десятками прошлого.",
-    "fullText": "Одобрено великими десятками прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/cf76a17a146d480bbdd27ae25e690.jpeg",
+    "title": "Сборная «Арсенала» за 25 лет. Кого выбрал Лукомский?",
+    "description": "Защита из состава Артеты.",
+    "fullText": "Защита из состава Артеты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7a/4d16d5ea940178d4b6e11e0b5ecbc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375983.html",
-    "time": "2026-01-15T17:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3373193.html",
+    "time": "2026-01-15T17:45:00.000Z"
   }
 ]
