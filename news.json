@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Семак: футболист \"Зенита\" Вендел готов платить штрафы за опоздания на сборы",
-    "description": "В четверг \"Зенит\" провел первую тренировку на сборах в Катаре",
-    "fullText": "В четверг \"Зенит\" провел первую тренировку на сборах в Катаре",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260115/8743135.jpg",
+    "title": "Тимошенко заявила, что ее счета заблокировали",
+    "description": "Лидер украинской партии \"Батькивщина\" назвала эту ситуацию \"сюром\"",
+    "fullText": "Лидер украинской партии \"Батькивщина\" назвала эту ситуацию \"сюром\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260115/8743147.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26162323",
-    "time": "2026-01-15T19:05:37.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26162377",
+    "time": "2026-01-15T19:12:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Мёртвым есть что сказать»: трейлер «Невесты», фильма Мэгги Джилленхол по мотивам романа «Франкенштейн»",
+    "description": "Монстра сыграл Кристиан Бэйл, а Джесси Бакли — его возлюбленную.",
+    "fullText": "Монстра сыграл Кристиан Бэйл, а Джесси Бакли — его возлюбленную.",
+    "image": "https://leonardo.osnova.io/5b00692d-e4d6-5bcb-b1c1-bc8970ef7a89/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4724358-treyler-filma-nevesta?from=rss",
+    "time": "2026-01-15T17:53:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кто нас разочаровал в этом сезоне НБА: Батлер, Мобли и Морэнт",
+    "description": "Когда чужие ожидания – это твои проблемы.",
+    "fullText": "Когда чужие ожидания – это твои проблемы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/fc/73ca149a1467cbf6ef2c735a6bcf0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3376984.html",
+    "time": "2026-01-15T14:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/8bm88x",
     "time": "2026-01-15T14:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Балтика» выиграет РПЛ, «Вилла» – АПЛ, а «Барса» – ЛЧ. Главные исходы сезона с шансами ниже 10%",
-    "description": "Но существующими.",
-    "fullText": "Но существующими.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/fa/faac9eeba4cf7a54542c58a825ba4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3374843.html",
-    "time": "2026-01-15T14:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Художественный стиль Mirror&#039;s Edge отчасти был необходимостью — чтобы игроков не укачивало",
-    "description": "Сначала игра DICE выглядела как «любая другая работа на Unreal Engine из 2008 года».",
-    "fullText": "Сначала игра DICE выглядела как «любая другая работа на Unreal Engine из 2008 года».",
-    "image": "https://leonardo.osnova.io/34ad44ee-8045-54d3-93c2-2f1d106dbc71/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4723738-khudozhestvennyy-stil-mirrors-edge?from=rss",
-    "time": "2026-01-15T12:26:55.000Z"
   }
 ]
