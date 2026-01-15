@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Армения и Азербайджан провели осмотр железнодорожного участка Ерасх - Садарак",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мане выбил Салаха, Буну взял пенальти приставным шагом – в углу без прыжка. Сенегал с Марокко в финале Кубка Африки",
+    "description": "Египет опять без трофея.",
+    "fullText": "Египет опять без трофея.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/14/f4393c2f545c7951d5452d65829c8.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26159069",
-    "time": "2026-01-15T13:24:52.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377006.html",
+    "time": "2026-01-15T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-01-15T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Концовки «Нетс» уже немыслимы без трехочковых от Дёмина",
-    "description": "«Бруклин» подвели подборы.",
-    "fullText": "«Бруклин» подвели подборы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/91/562ddc97747579c70c76114cb5c41.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3377065.html",
-    "time": "2026-01-15T08:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Роль Кратоса в сериале God of War получил Райан Херст",
-    "description": "Актёр известен по ролям в «Сынах анархии» и «Покинутых».",
-    "fullText": "Актёр известен по ролям в «Сынах анархии» и «Покинутых».",
-    "image": "https://leonardo.osnova.io/9c825cb7-0a57-5a36-90e5-f24cc630a599/",
+    "title": "СМИ: почти всех сотрудников студии Camouflaj уволили, а сиквел VR-игры Batman Arkham Shadow отменили",
+    "description": "Правда, им занималась другая команда.",
+    "fullText": "Правда, им занималась другая команда.",
+    "image": "https://leonardo.osnova.io/5c0088f8-d927-51f2-886c-34d5683c9baf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4722703-rajan-hyurst-krol-kratos-v-god-of-war?from=rss",
-    "time": "2026-01-14T20:19:11.000Z"
+    "url": "https://dtf.ru/gameindustry/4723237-sokrashcheniya-v-camouflaj-otmena-sikvela-batman-arkham-shadow?from=rss",
+    "time": "2026-01-15T07:10:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
