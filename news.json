@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Литве на патронном заводе ввели две новые технологические линии производства США и ФРГ",
-    "description": "Продукцией литовского завода пользуются армия, службы правопорядка, структуры НАТО и гражданские лица, имеющие право на ношение оружия",
-    "fullText": "Продукцией литовского завода пользуются армия, службы правопорядка, структуры НАТО и гражданские лица, имеющие право на ношение оружия",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему Тотти и Кассано в восторге от Нико Паса",
+    "description": "Одобрено великими десятками прошлого.",
+    "fullText": "Одобрено великими десятками прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/cf76a17a146d480bbdd27ae25e690.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26171011",
-    "time": "2026-01-16T16:34:24.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375983.html",
+    "time": "2026-01-16T11:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-16T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Каково играть в клубе без денег? История Сергея Волкова: про зарплату 5000 рублей и подработку на разгрузке мяса",
-    "description": "История взросления.",
-    "fullText": "История взросления.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/54/a5e3fbdee4f2cb3c9b4aa2d244452.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3372976.html",
-    "time": "2026-01-16T10:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Мне кажется, что Райана Джонсона испугали»: Кэтлин Кеннеди о состоянии текущих и будущих проектов по «Звёздным войнам»",
     "description": "Некоторые сценарии уже готовы, в том числе от Тайки Вайтити, но решение о съёмках будут принимать уже новые руководители.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4725257-kettlin-kennedi-o-budushchem-zvezdnyh-voyn?from=rss",
     "time": "2026-01-16T08:25:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
