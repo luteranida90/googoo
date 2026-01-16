@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Космонавт Федяев вылетел в США для подготовки к полету на Crew Dragon",
-    "description": "Подготовка будет проходить на базе компании SpaceX в Калифорнии",
-    "fullText": "Подготовка будет проходить на базе компании SpaceX в Калифорнии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«ПСЖ» смотрит на Энцо, Магуайр готов уходить из «МЮ». Главные инсайды дня",
+    "description": "Here we go!",
+    "fullText": "Here we go!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/98/3e327a5fb4bfdb613a1424161c7c9.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/kosmos/26165073",
-    "time": "2026-01-16T06:10:43.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377214.html",
+    "time": "2026-01-15T22:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,25 @@
     "time": "2026-01-15T21:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "По советским шедеврам снимут ремейки: «Союзмультфильм» готовит вселенную Чуковского",
-    "description": "Инсайды и слухи.",
-    "fullText": "Инсайды и слухи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/3b/3f731f208435885bc069015b8a743.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3376253.html",
-    "time": "2026-01-15T20:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самые вероятные ближайшие трансферы: Стерлинг – в «Фулхэм», Рубен Невеш – в Италию вместо «МЮ»",
-    "description": "Глазами букмекеров.",
-    "fullText": "Глазами букмекеров.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/de/2597734e64db2a834e2f3e5af6a51.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3376427.html",
-    "time": "2026-01-15T20:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Из PS Store удалили более 1000 низкокачественных тайтлов — все они были от издательства ThiGames",
-    "description": "Охотники за трофеями используют подобные игры, чтобы как можно быстрее получить «платину» — иногда на это уходит около минуты.",
-    "fullText": "Охотники за трофеями используют подобные игры, чтобы как можно быстрее получить «платину» — иногда на это уходит около минуты.",
-    "image": "https://leonardo.osnova.io/228cd7b4-318f-50e9-b350-105f7bfe1ab9/",
+    "title": "Ханс Циммер напишет музыку к сериалу «Гарри Поттер» от HBO",
+    "description": "Он пообещал, что новый саундтрек отдаст дань уважения композициям из фильмов с Дэниэлом Рэдклиффом.",
+    "fullText": "Он пообещал, что новый саундтрек отдаст дань уважения композициям из фильмов с Дэниэлом Рэдклиффом.",
+    "image": "https://leonardo.osnova.io/1a125b80-9127-5a28-84f5-01f9251648da/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4724058-sony-udavila-bolee-1000-igr-ot-thigames-iz-ps-store?from=rss",
-    "time": "2026-01-15T15:47:00.000Z"
+    "url": "https://dtf.ru/cinema/4724207-hans-tsimmer-muzyka-garri-potter-hbo?from=rss",
+    "time": "2026-01-15T16:11:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
