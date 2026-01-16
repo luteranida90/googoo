@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Дагестане создали государственную информационную систему строительного надзора",
-    "description": "Система автоматизирует сбор, обработку и хранение информации для регионального государственного строительного надзора в республике",
-    "fullText": "Система автоматизирует сбор, обработку и хранение информации для регионального государственного строительного надзора в республике",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26165735",
-    "time": "2026-01-16T07:26:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
     "description": "Разыгрываем поездку в Дубай.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«ПСЖ» смотрит на Энцо, Магуайр готов уходить из «МЮ». Главные инсайды дня",
-    "description": "Here we go!",
-    "fullText": "Here we go!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/98/3e327a5fb4bfdb613a1424161c7c9.jpeg",
+    "title": "У Медведева сетка приятная, у Мирры – жесткая. Быстрые итоги жеребьевки Australian Open",
+    "description": "Старт в воскресенье.",
+    "fullText": "Старт в воскресенье.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ac/dde755c704716bfd8f4ae79090260.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377214.html",
-    "time": "2026-01-15T22:05:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3377058.html",
+    "time": "2026-01-15T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4724441-prodazhi-no-rest-for-the-wicked?from=rss",
     "time": "2026-01-15T18:22:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
