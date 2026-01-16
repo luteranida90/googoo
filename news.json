@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин заявил, что его впечатлили увиденные образцы беспилотных систем",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250131/8038683.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26171647",
+    "time": "2026-01-16T18:13:11.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Чуть не помер – лежал с пеной у рта. Откачали». Как дела у Александра Емельяненко?",
+    "description": "Нужен $1 млн на лечение.",
+    "fullText": "Нужен $1 млн на лечение.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/79/7316ec8354eee8d3b0b5dc84ec803.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3377366.html",
+    "time": "2026-01-16T14:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как Смолов отблагодарил ассистента в матче с «Реалом»?",
     "description": "Яркий момент в карьере Федора.",
@@ -11,17 +33,6 @@
     "time": "2026-01-16T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Тотти и Кассано в восторге от Нико Паса",
-    "description": "Одобрено великими десятками прошлого.",
-    "fullText": "Одобрено великими десятками прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/cf76a17a146d480bbdd27ae25e690.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3375983.html",
-    "time": "2026-01-16T11:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Мне кажется, что Райана Джонсона испугали»: Кэтлин Кеннеди о состоянии текущих и будущих проектов по «Звёздным войнам»",
     "description": "Некоторые сценарии уже готовы, в том числе от Тайки Вайтити, но решение о съёмках будут принимать уже новые руководители.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4725257-kettlin-kennedi-o-budushchem-zvezdnyh-voyn?from=rss",
     "time": "2026-01-16T08:25:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
