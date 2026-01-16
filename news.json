@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Дагестане создали государственную информационную систему строительного надзора",
+    "description": "Система автоматизирует сбор, обработку и хранение информации для регионального государственного строительного надзора в республике",
+    "fullText": "Система автоматизирует сбор, обработку и хранение информации для регионального государственного строительного надзора в республике",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26165735",
+    "time": "2026-01-16T07:26:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
+    "description": "Разыгрываем поездку в Дубай.",
+    "fullText": "Разыгрываем поездку в Дубай.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/1fc59c860463dac945af152066d31.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/iuixby",
+    "time": "2026-01-16T04:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "«ПСЖ» смотрит на Энцо, Магуайр готов уходить из «МЮ». Главные инсайды дня",
     "description": "Here we go!",
@@ -11,36 +33,14 @@
     "time": "2026-01-15T22:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Разыгрываем джерси Егора Дёмина за «Бруклин Нетс». С автографом!",
-    "description": "Тест из 10 вопросов.",
-    "fullText": "Тест из 10 вопросов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/35/db557fc754bcaac76a53111e44061.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/s54ikt",
-    "time": "2026-01-15T21:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ханс Циммер напишет музыку к сериалу «Гарри Поттер» от HBO",
-    "description": "Он пообещал, что новый саундтрек отдаст дань уважения композициям из фильмов с Дэниэлом Рэдклиффом.",
-    "fullText": "Он пообещал, что новый саундтрек отдаст дань уважения композициям из фильмов с Дэниэлом Рэдклиффом.",
-    "image": "https://leonardo.osnova.io/1a125b80-9127-5a28-84f5-01f9251648da/",
+    "title": "Продажи ролевого экшена No Rest for the Wicked от создателей дилогии Ori достигли миллиона копий",
+    "description": "Спустя почти два года после запуска раннего доступа в Steam.",
+    "fullText": "Спустя почти два года после запуска раннего доступа в Steam.",
+    "image": "https://leonardo.osnova.io/1eb6fb06-b19e-57db-9acd-7a6d8e1670cf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4724207-hans-tsimmer-muzyka-garri-potter-hbo?from=rss",
-    "time": "2026-01-15T16:11:13.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4724441-prodazhi-no-rest-for-the-wicked?from=rss",
+    "time": "2026-01-15T18:22:40.000Z"
   }
 ]
