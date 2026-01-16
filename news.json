@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Глава ФБР пригрозил протестующим в Миннеаполисе арестами",
+    "description": "Наказание применят, если бунтовщики будут нападать на сотрудников правоохранительных органов или заниматься порчей государственной собственности, указал Кэш Пател",
+    "fullText": "Наказание применят, если бунтовщики будут нападать на сотрудников правоохранительных органов или заниматься порчей государственной собственности, указал Кэш Пател",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26166415",
+    "time": "2026-01-16T08:40:03.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
     "description": "Разыгрываем поездку в Дубай.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Медведева сетка приятная, у Мирры – жесткая. Быстрые итоги жеребьевки Australian Open",
-    "description": "Старт в воскресенье.",
-    "fullText": "Старт в воскресенье.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ac/dde755c704716bfd8f4ae79090260.jpeg",
+    "title": "Тайриз Макси – новый Айверсон в «Филадельфии». Уже отобрал лидерство у сдувшегося Эмбиида",
+    "description": "НБА – лига наглых малышей.",
+    "fullText": "НБА – лига наглых малышей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/94/f345ffd264ea3b2c6adf234c108ce.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3377058.html",
-    "time": "2026-01-15T22:30:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3376147.html",
+    "time": "2026-01-15T22:33:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи ролевого экшена No Rest for the Wicked от создателей дилогии Ori достигли миллиона копий",
-    "description": "Спустя почти два года после запуска раннего доступа в Steam.",
-    "fullText": "Спустя почти два года после запуска раннего доступа в Steam.",
-    "image": "https://leonardo.osnova.io/1eb6fb06-b19e-57db-9acd-7a6d8e1670cf/",
+    "title": "Сиквел Subway Surfers выйдет 26 февраля",
+    "description": "В игре представят новые механики и режимы.",
+    "fullText": "В игре представят новые механики и режимы.",
+    "image": "https://leonardo.osnova.io/bb30e64e-3e8a-5928-8e8d-14e3d22671d7/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4724441-prodazhi-no-rest-for-the-wicked?from=rss",
-    "time": "2026-01-15T18:22:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/mobile/4724278-sikvel-subway-surfers-city-vyidet-26-fevralya?from=rss",
+    "time": "2026-01-15T17:14:42.000Z"
   }
 ]
