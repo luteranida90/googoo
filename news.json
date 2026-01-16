@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Нальчике появится первый крупный фиджитал-центр",
-    "description": "Он будет располагаться на ул. 2-й Таманской дивизии, где создают спортивно-развлекательный кластер",
-    "fullText": "Он будет располагаться на ул. 2-й Таманской дивизии, где создают спортивно-развлекательный кластер",
+    "title": "Евродепутаты обсудят Гренландию на следующей неделе",
+    "description": "Председатель Европарламента Роберта Метсола назвала очень острым вопрос о Гренландии",
+    "fullText": "Председатель Европарламента Роберта Метсола назвала очень острым вопрос о Гренландии",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26169031",
-    "time": "2026-01-16T12:27:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз хоррора BrokenLore: Unfollow, в котором нужно играть за жертву буллинга",
-    "description": "Игра продаётся в российском Steam.",
-    "fullText": "Игра продаётся в российском Steam.",
-    "image": "https://leonardo.osnova.io/42429587-0ff4-5b30-9fb8-d1c9b782923c/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4725680-releiz-brokenlore-unfollow-horror-o-bullinge?from=rss",
-    "time": "2026-01-16T12:25:35.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26169767",
+    "time": "2026-01-16T13:22:15.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рейтинг новичков НБА: Дёмин играет по-взрослому, Купер Флэгг выходит в лидеры",
-    "description": "Полсезона позади.",
-    "fullText": "Полсезона позади.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/c0/e0edc7cb244559e3787914c5b6a9d.jpeg",
+    "title": "Мирра – в первом финале почти за год! Во всем превзошла «Ниди Шнупер» (Диану Шнайдер)",
+    "description": "Борьба подруг.",
+    "fullText": "Борьба подруг.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/99/2d722550640ee930bc7138be32ffe.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3376046.html",
-    "time": "2026-01-16T07:01:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3377349.html",
+    "time": "2026-01-16T07:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В IGN показали 40 минут геймплея Yakuza Kiwami 3",
+    "description": "У игры появится демо перед релизом.",
+    "fullText": "У игры появится демо перед релизом.",
+    "image": "https://leonardo.osnova.io/31f5d22c-6610-51d9-9a9e-034bcffd3e74/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4725216-geympley-yakuza-kiwami-3-40-minut-video?from=rss",
+    "time": "2026-01-16T07:36:59.000Z"
   }
 ]
