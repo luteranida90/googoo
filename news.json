@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РФ станут быстрее оказывать медпомощь при сердечно-сосудистых заболеваниях",
-    "description": "Максимальный срок ожидания консультации врача при подозрении на этот диагноз сократится с 14 до 3 рабочих дней, говорится в утвержденном кабмином документе",
-    "fullText": "Максимальный срок ожидания консультации врача при подозрении на этот диагноз сократится с 14 до 3 рабочих дней, говорится в утвержденном кабмином документе",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260117/8746601.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26172585",
-    "time": "2026-01-16T21:51:15.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Только два тренера выиграли ЛЧ и ЧМ. Висенте дель Боске и...?",
     "description": "Узнайте в новом тесте.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ты сучка». Тим Цзю сгорел с соперника брата, который отказался драться из-за сечки",
-    "description": "Разжег старый конфликт.",
-    "fullText": "Разжег старый конфликт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/73/5c926fd9f4a1a9ca4d86e75eda344.gif",
+    "title": "Фаны Хэмилтона и «Феррари», крепитесь. Новая машина обнажит все слабости Льюиса",
+    "description": "Сложнее, чем в прошлом году.",
+    "fullText": "Сложнее, чем в прошлом году.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/c9/b46e7ea3e4fe5a33358303d442f18.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3377462.html",
-    "time": "2026-01-16T17:50:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3376457.html",
+    "time": "2026-01-16T18:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom показала геймплей Resident Evil Requiem с акцентом на разницу в сегментах Грейс и Леона",
-    "description": "Прятки разбавят экшеном.",
-    "fullText": "Прятки разбавят экшеном.",
-    "image": "https://leonardo.osnova.io/61c6c753-6af8-57f7-8522-06337f082230/-/format/mp4/",
+    "title": "«Они заберут тебя в ад»: трейлер готического хоррора «Проклятый рыцарь» с Китом Харингтоном и Софи Тёрнер",
+    "description": "Фильм появится в российском прокате.",
+    "fullText": "Фильм появится в российском прокате.",
+    "image": "https://leonardo.osnova.io/3dccb09e-1fc7-54c4-b878-57345998a677/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4724984-geympley-resident-evil-requiem-greys-i-leon?from=rss",
-    "time": "2026-01-16T05:34:48.000Z"
+    "url": "https://dtf.ru/cinema/4725526-proklyatyy-rytsar?from=rss",
+    "time": "2026-01-16T11:03:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
