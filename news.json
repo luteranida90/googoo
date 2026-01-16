@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Московские новостройки подорожали на 33,3% за год",
-    "description": "Сильнее всего подорожало первичное жилье в масс-маркете, сообщили в bnMAP.pro.",
-    "fullText": "Сильнее всего подорожало первичное жилье в масс-маркете, сообщили в bnMAP.pro.",
+    "title": "Малый бизнес получил в 2025 году более 3 млрд рублей льготной лизинговой поддержки",
+    "description": "Самыми востребованными видами имущества, переданного в лизинг, стали, в частности, металлообрабатывающее оборудование, машины и оборудование для переработки полимерного материала и химического сырья",
+    "fullText": "Самыми востребованными видами имущества, переданного в лизинг, стали, в частности, металлообрабатывающее оборудование, машины и оборудование для переработки полимерного материала и химического сырья",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/26166759",
-    "time": "2026-01-16T09:10:44.000Z"
+    "url": "https://tass.ru/ekonomika/26166965",
+    "time": "2026-01-16T09:33:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Ледниковый период» изнутри: Загитова с оговоркой про лицо, ясли за кулисами, новая задумка",
+    "description": "Репортаж с первой съемки сезона.",
+    "fullText": "Репортаж с первой съемки сезона.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a3/6ca3813c945aebc5c51ee57325239.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3377064.html",
+    "time": "2026-01-16T05:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-16T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сборная «Арсенала» за 25 лет. Кого выбрал Лукомский?",
-    "description": "Защита из состава Артеты.",
-    "fullText": "Защита из состава Артеты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7a/4d16d5ea940178d4b6e11e0b5ecbc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373193.html",
-    "time": "2026-01-15T22:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сиквел Subway Surfers выйдет 26 февраля",
-    "description": "В игре представят новые механики и режимы.",
-    "fullText": "В игре представят новые механики и режимы.",
-    "image": "https://leonardo.osnova.io/bb30e64e-3e8a-5928-8e8d-14e3d22671d7/-/format/mp4/",
+    "title": "Фото: Софи Тёрнер в образе Лары Крофт для сериала по Tomb Raider от Amazon Prime Video",
+    "description": "Первый взгляд на современную версию расхитительницы гробниц.",
+    "fullText": "Первый взгляд на современную версию расхитительницы гробниц.",
+    "image": "https://leonardo.osnova.io/8b7c356a-c1e8-560e-8641-985c1dc42252/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4724278-sikvel-subway-surfers-city-vyidet-26-fevralya?from=rss",
-    "time": "2026-01-15T17:14:42.000Z"
+    "url": "https://dtf.ru/cinema/4723962-sofi-terner-lara-kroft-tomb-raider-amazon?from=rss",
+    "time": "2026-01-15T14:02:30.000Z"
   }
 ]
