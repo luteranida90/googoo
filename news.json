@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В КБР задержали чиновника по подозрению в получении взятки в 20 тыс. рублей",
-    "description": "Сотрудник администрации города Майский получил средства за содействие в оформлении социальной выплаты",
-    "fullText": "Сотрудник администрации города Майский получил средства за содействие в оформлении социальной выплаты",
+    "title": "На Украине вступил в силу закон о множественном гражданстве",
+    "description": "При получении гражданства другой страны ранее для украинцев был обязателен выход из украинского",
+    "fullText": "При получении гражданства другой страны ранее для украинцев был обязателен выход из украинского",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26170409",
-    "time": "2026-01-16T14:58:53.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26170591",
+    "time": "2026-01-16T15:26:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Первый «Шлем» года уже в это воскресенье. Выбирайте фаворитов первых матчей",
+    "description": "В Основе Australian Open.",
+    "fullText": "В Основе Australian Open.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/5c/c7ec51f154a408b5e93c888be2bf7.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/jx1x5c",
+    "time": "2026-01-16T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-16T09:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сколько шайб забросил Овечкин до того, как стал капитаном «Вашингтона»?",
-    "description": "Понадобилось 4 сезона.",
-    "fullText": "Понадобилось 4 сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/ad/95cd72e434beb995b16320ea80b94.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iha53v",
-    "time": "2026-01-16T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ASUS отказалась от своего комментария о том, что RTX 5070 Ti и RTX 5060 Ti на 16 ГБ находятся «в конце жизненного цикла»",
-    "description": "Непонятная ситуация, которая прояснится лишь со временем.",
-    "fullText": "Непонятная ситуация, которая прояснится лишь со временем.",
-    "image": "https://leonardo.osnova.io/2e4bc47d-b803-5f55-8e10-3a3ae81fdd61/",
+    "title": "Продажи Ace Combat 7: Skies Unknown достигли семи миллионов копий",
+    "description": "За год симулятор добрал миллион единиц.",
+    "fullText": "За год симулятор добрал миллион единиц.",
+    "image": "https://leonardo.osnova.io/3bdc49d7-d128-5a24-a6b0-b85c7e96e7be/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4725135-asus-i-nvidia-rtx-5070-ti-i-rtx-5060-ti-bolshe-ne-v-prioritete?from=rss",
-    "time": "2026-01-16T06:41:44.000Z"
+    "url": "https://dtf.ru/gameindustry/4725411-prodazhi-ace-combat-7-skies-unknown?from=rss",
+    "time": "2026-01-16T09:24:20.000Z"
   }
 ]
