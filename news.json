@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп: окружение Байдена должно заплатить \"высокую цену\" за применение автопера",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26176871",
-    "time": "2026-01-17T20:55:07.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Вышла команда года FC 26. Мбаппе на месте, а где Ямаль и Рафинья?",
     "description": "Хакими тоже потерялся.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Жду матча, чтобы уничтожить «МЮ». Шерки под лавиной насмешек после дерби",
-    "description": "Хотел отомстить за вылет «Лиона».",
-    "fullText": "Хотел отомстить за вылет «Лиона».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/58/6635f2f994b58b12b2b007b90b3fe.jpeg",
+    "title": "Сколько стоят команды «Ф-1»? Все вместе – $34,2 млрд, самая дешевая – $1,7 млрд!",
+    "description": "Все ближе к самым дорогим франшизам мира.",
+    "fullText": "Все ближе к самым дорогим франшизам мира.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f4/753172e534645bd7d28d710eab039.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377753.html",
-    "time": "2026-01-17T16:50:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372791.html",
+    "time": "2026-01-17T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатель The Division Джулиан Герети перешёл в Battlefield Studios",
-    "description": "Он работал в Ubisoft более 15 лет",
-    "fullText": "Он работал в Ubisoft более 15 лет",
-    "image": "https://leonardo.osnova.io/9c51e655-86b4-5a9e-84df-8f34bda2328c/",
+    "title": "Руководитель студии авторов Rust и Garry&#039;s Mod предложил выкупить New World — на фоне анонса отключения серверов ММО",
+    "description": "Он предложил за игру «25 миллионов».",
+    "fullText": "Он предложил за игру «25 миллионов».",
+    "image": "https://leonardo.osnova.io/54eb7470-e779-59d3-bc0a-59567aa5b4b5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4726015-dzhulian-gereti-iz-the-division-pereshel-v-battlefield-studios?from=rss",
-    "time": "2026-01-16T15:08:35.000Z"
+    "url": "https://dtf.ru/games/4725842-rukovoditel-facepunch-studios-predlagaet-vykupit-new-world?from=rss",
+    "time": "2026-01-16T14:04:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
