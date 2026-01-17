@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Гагрском районе Абхазии восстановили электроснабжение",
+    "description": "Электричества не было более 12 часов из-за аварии на линии, сообщили в Министерстве энергетики республики",
+    "fullText": "Электричества не было более 12 часов из-за аварии на линии, сообщили в Министерстве энергетики республики",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26177007",
+    "time": "2026-01-17T21:15:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Только два тренера выиграли ЛЧ и ЧМ. Висенте дель Боске, а кто второй?",
+    "description": "Узнайте в нашем тесте.",
+    "fullText": "Узнайте в нашем тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a8/e5a8e3cf0474696a5236238f29082.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/z69vfk",
+    "time": "2026-01-17T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Вышла команда года FC 26. Мбаппе на месте, а где Ямаль и Рафинья?",
     "description": "Хакими тоже потерялся.",
@@ -11,26 +33,15 @@
     "time": "2026-01-17T18:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Разыгрываем джерси Дёмина из «Бруклина». С автографом!",
-    "description": "Тест из 10 вопросов.",
-    "fullText": "Тест из 10 вопросов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/35/db557fc754bcaac76a53111e44061.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/s54ikt",
-    "time": "2026-01-17T17:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сколько стоят команды «Ф-1»? Все вместе – $34,2 млрд, самая дешевая – $1,7 млрд!",
-    "description": "Все ближе к самым дорогим франшизам мира.",
-    "fullText": "Все ближе к самым дорогим франшизам мира.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f4/753172e534645bd7d28d710eab039.jpeg",
+    "title": "«МЮ» разнес «Сити» – 2:0! Три гола отменили, а Доннарумма тащил как мог",
+    "description": "Браво, Кэррик.",
+    "fullText": "Браво, Кэррик.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e1/139abc62b4a2aa80d227a59e9530e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3372791.html",
-    "time": "2026-01-17T17:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377697.html",
+    "time": "2026-01-17T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4725842-rukovoditel-facepunch-studios-predlagaet-vykupit-new-world?from=rss",
     "time": "2026-01-16T14:04:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
