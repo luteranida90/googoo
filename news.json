@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Al-Ikhbariya: сирийская армия взяла под контроль два курдских месторождения в Ракке",
+    "description": "Речь идет о месторождениях Сафьян и Эс-Савра, расположенных в окрестностях города Табка",
+    "fullText": "Речь идет о месторождениях Сафьян и Эс-Савра, расположенных в окрестностях города Табка",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26175279",
+    "time": "2026-01-17T13:01:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "ありがとう – кому могли так сказать на «Олд Траффорд»?",
     "description": "Минимум 6 раз.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Бруклин» посадил Дёмина, слил 20 очков, но эпично спасся на последних секундах",
-    "description": "Егор, где жесткость?",
-    "fullText": "Егор, где жесткость?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/54/c21cc92684bf288d43def07d449ee.jpeg",
+    "title": "«Он мог постоянно кричать на тренировках – для русских это было странно». Что помнят о Карседо футболисты «Спартака»-2012?",
+    "description": "Спросил Ковалев.",
+    "fullText": "Спросил Ковалев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/fb/e8940a98c4f78aa89419c19059cb6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3377596.html",
-    "time": "2026-01-17T08:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377481.html",
+    "time": "2026-01-17T09:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4725600-vtoroy-sezon-bolnitsy-pitt?from=rss",
     "time": "2026-01-16T11:38:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
