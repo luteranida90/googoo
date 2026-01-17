@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Группировка \"Запад\" сорвала контратаку ВСУ в районе села Моначиновка",
+    "description": "Общие потери украинской армии в зоне ответственности \"Запада\" превысили 190 военных",
+    "fullText": "Общие потери украинской армии в зоне ответственности \"Запада\" превысили 190 военных",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26173123",
+    "time": "2026-01-17T02:08:29.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Только два тренера выиграли ЛЧ и ЧМ. Висенте дель Боске и...?",
     "description": "Узнайте в новом тесте.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom показала геймплей Resident Evil Requiem с акцентом на разницу в сегментах Грейс и Леона",
-    "description": "Прятки разбавят экшеном.",
-    "fullText": "Прятки разбавят экшеном.",
-    "image": "https://leonardo.osnova.io/61c6c753-6af8-57f7-8522-06337f082230/-/format/mp4/",
+    "title": "«Они заберут тебя в ад»: трейлер готического хоррора «Проклятый рыцарь» с Китом Харингтоном и Софи Тёрнер",
+    "description": "Фильм появится в российском прокате.",
+    "fullText": "Фильм появится в российском прокате.",
+    "image": "https://leonardo.osnova.io/3dccb09e-1fc7-54c4-b878-57345998a677/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4724984-geympley-resident-evil-requiem-greys-i-leon?from=rss",
-    "time": "2026-01-16T05:34:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4725526-proklyatyy-rytsar?from=rss",
+    "time": "2026-01-16T11:03:48.000Z"
   }
 ]
