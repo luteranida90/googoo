@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Чемпион Европы штангист-супертяжеловес Ловчев завершил спортивную карьеру",
-    "description": "36-летний спортсмен признался, что к такому решению его подтолкнул возраст",
-    "fullText": "36-летний спортсмен признался, что к такому решению его подтолкнул возраст",
+    "title": "Руднев: пик сдачи новогодних елей придется на следующую неделю",
+    "description": "Председатель движения \"Экосистема\" сообщил, что проект \"Елковорот\" продлится до середины февраля, чтобы обеспечить максимальный сбор новогодних деревьев для последующей переработки",
+    "fullText": "Председатель движения \"Экосистема\" сообщил, что проект \"Елковорот\" продлится до середины февраля, чтобы обеспечить максимальный сбор новогодних деревьев для последующей переработки",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26173911",
-    "time": "2026-01-17T07:50:09.000Z"
+    "url": "https://tass.ru/obschestvo/26173967",
+    "time": "2026-01-17T08:06:52.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-01-17T06:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как живет академия «Зенита» и нужна ли она команде? Мы поговорили со всеми – от Аршавина до Семака",
+    "description": "Вадим Кораблев – с улицы Верности.",
+    "fullText": "Вадим Кораблев – с улицы Верности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/e2/391a3cac84414a509ec8bdb934eeb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3376415.html",
+    "time": "2026-01-17T05:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Журнал от Спортса’’– главные события 2025 года",
     "description": "Вы можете заказать его.",
@@ -33,25 +44,14 @@
     "time": "2026-01-17T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главные сюжеты Australian Open",
-    "description": "Готовимся к первому ТБШ.",
-    "fullText": "Готовимся к первому ТБШ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/70/2d7c4dbc54b338fcb1b858b93d670.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3377189.html",
-    "time": "2026-01-16T22:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom показала геймплей Resident Evil Requiem с акцентом на разницу в сегментах Грейс и Леона",
-    "description": "Прятки разбавят экшеном.",
-    "fullText": "Прятки разбавят экшеном.",
-    "image": "https://leonardo.osnova.io/61c6c753-6af8-57f7-8522-06337f082230/-/format/mp4/",
+    "title": "«Они заберут тебя в ад»: трейлер готического хоррора «Проклятый рыцарь» с Китом Харингтоном и Софи Тёрнер",
+    "description": "Фильм появится в российском прокате.",
+    "fullText": "Фильм появится в российском прокате.",
+    "image": "https://leonardo.osnova.io/3dccb09e-1fc7-54c4-b878-57345998a677/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4724984-geympley-resident-evil-requiem-greys-i-leon?from=rss",
-    "time": "2026-01-16T05:34:48.000Z"
+    "url": "https://dtf.ru/cinema/4725526-proklyatyy-rytsar?from=rss",
+    "time": "2026-01-16T11:03:48.000Z"
   }
 ]
