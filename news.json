@@ -1,14 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Xinhua сообщило о провальном запуске китайского спутника \"Шицзянь-32\"",
-    "description": "Как пишет агентство, в ходе полета произошла аномалия, которая привела к аварии",
-    "fullText": "Как пишет агентство, в ходе полета произошла аномалия, которая привела к аварии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Журнал от Спортса’’– главные события 2025 года",
+    "description": "Вы можете заказать его.",
+    "fullText": "Вы можете заказать его.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/7a/cf1a2a6e7446ba902d7ac5323a6c1.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/kosmos/26173227",
-    "time": "2026-01-17T03:28:56.000Z"
+    "url": "https://m.sports.ru/yearbook/?ref=pechatnoe&ref2=editorial&ref3=matherial_direct#/payment",
+    "time": "2026-01-17T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Я принадлежу Иисусу» – легендарная майка Кака. В такой праздновали Жезус и Гакпо",
+    "description": "ФИФА против религиозных заявлений.",
+    "fullText": "ФИФА против религиозных заявлений.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a8/1d0529c3c432bbf9b7d4ee9feb7df.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3374162.html",
+    "time": "2026-01-16T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +33,6 @@
     "time": "2026-01-16T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фаны Хэмилтона и «Феррари», крепитесь. Новая машина обнажит все слабости Льюиса",
-    "description": "Сложнее, чем в прошлом году.",
-    "fullText": "Сложнее, чем в прошлом году.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/c9/b46e7ea3e4fe5a33358303d442f18.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3376457.html",
-    "time": "2026-01-16T18:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Capcom показала геймплей Resident Evil Requiem с акцентом на разницу в сегментах Грейс и Леона",
     "description": "Прятки разбавят экшеном.",
@@ -42,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4724984-geympley-resident-evil-requiem-greys-i-leon?from=rss",
     "time": "2026-01-16T05:34:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
