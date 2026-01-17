@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Запорожской области более 5,7 тыс. абонентов остаются без света",
-    "description": "В Бердянском муниципальном округе пониженное напряжение",
-    "fullText": "В Бердянском муниципальном округе пониженное напряжение",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Нетаньяху: состав совета по управлению Газой не был согласован с Израилем",
+    "description": "Такой состав противоречит политике еврейского государства, отметил его премьер-министр",
+    "fullText": "Такой состав противоречит политике еврейского государства, отметил его премьер-министр",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260117/8747541.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26175905",
-    "time": "2026-01-17T15:57:55.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26175979",
+    "time": "2026-01-17T16:14:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Челси» молчит третье зимнее окно. Похоже, сменили стратегию",
+    "description": "Пересмотрели приоритеты.",
+    "fullText": "Пересмотрели приоритеты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/39/5265a4d8b4ab5bcf6efb6f64097b4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3377548.html",
+    "time": "2026-01-17T13:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-17T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Женское катание на Евро впечатлило разве что близких самих фигуристок – Козловский прав",
-    "description": "Реплика Крутихиной.",
-    "fullText": "Реплика Крутихиной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9b/91f9ed0094f25a3d9e25b610a67fb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3377572.html",
-    "time": "2026-01-17T13:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз хоррора BrokenLore: Unfollow, в котором нужно играть за жертву буллинга",
-    "description": "Игра продаётся в российском Steam.",
-    "fullText": "Игра продаётся в российском Steam.",
-    "image": "https://leonardo.osnova.io/42429587-0ff4-5b30-9fb8-d1c9b782923c/-/format/mp4/",
+    "title": "Создатель The Division Джулиан Герети перешёл в Battlefield Studios",
+    "description": "Он работал в Ubisoft более 15 лет",
+    "fullText": "Он работал в Ubisoft более 15 лет",
+    "image": "https://leonardo.osnova.io/9c51e655-86b4-5a9e-84df-8f34bda2328c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4725680-releiz-brokenlore-unfollow-horror-o-bullinge?from=rss",
-    "time": "2026-01-16T12:25:35.000Z"
+    "url": "https://dtf.ru/gameindustry/4726015-dzhulian-gereti-iz-the-division-pereshel-v-battlefield-studios?from=rss",
+    "time": "2026-01-16T15:08:35.000Z"
   }
 ]
