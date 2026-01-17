@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп объяснил свои претензии на Гренландию тем, что США субсидировали страны ЕС",
+    "description": "Пришло время, чтобы Дания отплатила - на кону мир во всем мире, подчеркнул американский лидер",
+    "fullText": "Пришло время, чтобы Дания отплатила - на кону мир во всем мире, подчеркнул американский лидер",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26176207",
+    "time": "2026-01-17T17:30:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Первый «Шлем» года уже завтра. Выбирайте фаворитов первых матчей",
     "description": "В Основе Australian Open.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Флорентино, в отставку!» «Бернабеу» освистал «Реал»",
-    "description": "Они злы.",
-    "fullText": "Они злы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/51/5144896324444a3bf969746fce16b.jpeg",
+    "title": "Кто помог Кэррику в дерби: легенда сборной Англии и худший дебютант в истории «Реала»",
+    "description": "Четыре помощника Майкла до конца сезона.",
+    "fullText": "Четыре помощника Майкла до конца сезона.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/17/25ebc03234ad78e9250b24aa620f8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377713.html",
-    "time": "2026-01-17T14:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377566.html",
+    "time": "2026-01-17T14:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатель The Division Джулиан Герети перешёл в Battlefield Studios",
-    "description": "Он работал в Ubisoft более 15 лет",
-    "fullText": "Он работал в Ubisoft более 15 лет",
-    "image": "https://leonardo.osnova.io/9c51e655-86b4-5a9e-84df-8f34bda2328c/",
+    "title": "Руководитель студии авторов Rust и Garry&#039;s Mod предложил выкупить New World — на фоне анонса отключения серверов ММО",
+    "description": "Он предложил за игру «25 миллионов».",
+    "fullText": "Он предложил за игру «25 миллионов».",
+    "image": "https://leonardo.osnova.io/54eb7470-e779-59d3-bc0a-59567aa5b4b5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4726015-dzhulian-gereti-iz-the-division-pereshel-v-battlefield-studios?from=rss",
-    "time": "2026-01-16T15:08:35.000Z"
+    "url": "https://dtf.ru/games/4725842-rukovoditel-facepunch-studios-predlagaet-vykupit-new-world?from=rss",
+    "time": "2026-01-16T14:04:19.000Z"
   }
 ]
