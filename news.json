@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: возмутившие Хинштейна участки на водохранилище перекрывают доступ к воде",
+    "description": "Прокуратура подала в суд иски против владельцев коттеджей в селе Бараново Курской области",
+    "fullText": "Прокуратура подала в суд иски против владельцев коттеджей в селе Бараново Курской области",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26173427",
+    "time": "2026-01-17T05:10:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Журнал от Спортса’’– главные события 2025 года",
     "description": "Вы можете заказать его.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://m.sports.ru/yearbook/?ref=pechatnoe&ref2=editorial&ref3=matherial_direct#/payment",
     "time": "2026-01-17T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Уход из клуба – ошибка. Моя вина». «Детройт» вывел номер Федорова – вечер в честь легенды",
+    "description": "❤",
+    "fullText": "❤",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/d0/6cfb669be451aafcc09570b24f3aa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3376566.html",
+    "time": "2026-01-16T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +44,14 @@
     "time": "2026-01-16T19:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я принадлежу Иисусу» – легендарная майка Кака. В такой праздновали Жезус и Гакпо",
-    "description": "ФИФА против религиозных заявлений.",
-    "fullText": "ФИФА против религиозных заявлений.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a8/1d0529c3c432bbf9b7d4ee9feb7df.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3374162.html",
-    "time": "2026-01-16T19:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Они заберут тебя в ад»: трейлер готического хоррора «Проклятый рыцарь» с Китом Харингтоном и Софи Тёрнер",
-    "description": "Фильм появится в российском прокате.",
-    "fullText": "Фильм появится в российском прокате.",
-    "image": "https://leonardo.osnova.io/3dccb09e-1fc7-54c4-b878-57345998a677/-/format/mp4/",
+    "title": "Capcom показала геймплей Resident Evil Requiem с акцентом на разницу в сегментах Грейс и Леона",
+    "description": "Прятки разбавят экшеном.",
+    "fullText": "Прятки разбавят экшеном.",
+    "image": "https://leonardo.osnova.io/61c6c753-6af8-57f7-8522-06337f082230/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4725526-proklyatyy-rytsar?from=rss",
-    "time": "2026-01-16T11:03:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4724984-geympley-resident-evil-requiem-greys-i-leon?from=rss",
+    "time": "2026-01-16T05:34:48.000Z"
   }
 ]
