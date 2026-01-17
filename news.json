@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Сумах произошел взрыв",
+    "description": "В Сумской области продолжает действовать воздушная тревога",
+    "fullText": "В Сумской области продолжает действовать воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26176413",
+    "time": "2026-01-17T18:41:05.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Вышла команда года FC 26. Мбаппе на месте, а где Ямаль и Рафинья?",
     "description": "Хакими тоже потерялся.",
@@ -11,15 +22,15 @@
     "time": "2026-01-17T18:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ФРГ согласовывает с партнерами реакцию на заявление Трампа о пошлинах",
-    "description": "По словам американского лидера, пошлины вступят в силу 1 февраля, а 1 июня возрастут до 25%",
-    "fullText": "По словам американского лидера, пошлины вступят в силу 1 февраля, а 1 июня возрастут до 25%",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Панарин отработал каждый доллар из 81-миллионного контракта с «Рейнджерс»",
+    "description": "Стал одним из лучших игроков в истории клуба.",
+    "fullText": "Стал одним из лучших игроков в истории клуба.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/bf/93eb1ecad4852b8a121bb83fe38ea.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26176335",
-    "time": "2026-01-17T18:15:39.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3377613.html",
+    "time": "2026-01-17T14:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -31,17 +42,6 @@
     "category": "all",
     "url": "https://sirena.world/jx1x5c",
     "time": "2026-01-17T14:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Проблемы «Ливерпуля» снова решает Кертис Джонс",
-    "description": "Но Слот упирается.",
-    "fullText": "Но Слот упирается.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/51/b41390acf4483b86bb5df4063d463.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3376793.html",
-    "time": "2026-01-17T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
