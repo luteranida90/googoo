@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "The Herald: в Зимбабве не менее 74 человек погибли из-за наводнений",
-    "description": "В стране четвертый месяц подряд продолжаются обильные ливни, которые сопровождаются сильными ветрами, оползнями и грозами",
-    "fullText": "В стране четвертый месяц подряд продолжаются обильные ливни, которые сопровождаются сильными ветрами, оползнями и грозами",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Поправки в закон о садовых участках планируют внести в 2026 году",
+    "description": "Инициатива разрабатывается с целью упрощения механизма оформления прав на общее имущество СНТ",
+    "fullText": "Инициатива разрабатывается с целью упрощения механизма оформления прав на общее имущество СНТ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260118/8748593.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26179659",
-    "time": "2026-01-18T13:33:56.000Z"
+    "url": "https://tass.ru/obschestvo/26179733",
+    "time": "2026-01-18T14:01:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Буффон – 30 очков, Ибрагимович – 10, Мбаппе – 5. Как так получилось в «100к1»?",
+    "description": "Сыграйте и узнаете.",
+    "fullText": "Сыграйте и узнаете.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/cf/b4f7a7658471e80d06672caf73bd2.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/5g357d",
+    "time": "2026-01-18T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-18T10:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
-    "description": "Разыгрываем поездку в Дубай.",
-    "fullText": "Разыгрываем поездку в Дубай.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/1fc59c860463dac945af152066d31.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iuixby",
-    "time": "2026-01-18T09:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Warner Bros. объявила даты выхода следующих фильмов Дж. Дж. Абрамса, Сэма Эсмейла и Тима Миллера",
-    "description": "Днём релиза также обзавёлся приквел «Заклятия».",
-    "fullText": "Днём релиза также обзавёлся приквел «Заклятия».",
-    "image": "https://leonardo.osnova.io/8bad3a43-93de-513b-a4ca-9d10b02ba4d1/",
+    "title": "DF: Monster Hunter Wilds нагружает процессор ПК в хаб-локациях из-за постоянных проверок на наличие DLC",
+    "description": "Проблему решает мод, блокирующий диагностику.",
+    "fullText": "Проблему решает мод, блокирующий диагностику.",
+    "image": "https://leonardo.osnova.io/0e47b5b3-43f9-58ab-9a46-53d1f3cd9509/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4726599-warner-bros-anonsirovala-daty-reliza-filmov?from=rss",
-    "time": "2026-01-16T20:02:03.000Z"
+    "url": "https://dtf.ru/hard/4726349-monster-hunter-wilds-problemy-s-proizvoditelnostyu-na-pk?from=rss",
+    "time": "2026-01-16T18:24:57.000Z"
   }
 ]
