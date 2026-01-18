@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Глава МИД ФРГ усомнился в ратификации торгового соглашения ЕС-США",
+    "description": "Йоханн Вадефуль отметил, что в случае, если Соединенные Штаты введут с 1 февраля дополнительные пошлины, \"последует европейский ответ\"",
+    "fullText": "Йоханн Вадефуль отметил, что в случае, если Соединенные Штаты введут с 1 февраля дополнительные пошлины, \"последует европейский ответ\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26180311",
+    "time": "2026-01-18T18:20:22.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Реал» и «Валенсия» бьются за лидерство в испанском баскетболе – смотрим на Видеоспортсе’‘",
     "description": "Совместно с ТВ Старт.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Уходит величайший раллист современности: бился за победу на 5-м «Дакаре» в 63 года!",
-    "description": "25 фактов могучем Сайнсе-старшем.",
-    "fullText": "25 фактов могучем Сайнсе-старшем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a8/47f2d294f41fdb375e12552319364.jpeg",
+    "title": "Халк атаковал свой «Минейро»: хочет уйти. Хотя ему там обещали памятник",
+    "description": "Яркий конфликт.",
+    "fullText": "Яркий конфликт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d6/0002fce7d4163975583a3ea434f8e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3377401.html",
-    "time": "2026-01-18T13:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377262.html",
+    "time": "2026-01-18T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4727295-novyj-izgonjajushhij-djavola-s-skarlett-johansson?from=rss",
     "time": "2026-01-17T09:00:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
