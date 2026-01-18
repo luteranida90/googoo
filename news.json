@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Поправки в закон о садовых участках планируют внести в 2026 году",
-    "description": "Инициатива разрабатывается с целью упрощения механизма оформления прав на общее имущество СНТ",
-    "fullText": "Инициатива разрабатывается с целью упрощения механизма оформления прав на общее имущество СНТ",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260118/8748593.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26179733",
-    "time": "2026-01-18T14:01:58.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Буффон – 30 очков, Ибрагимович – 10, Мбаппе – 5. Как так получилось в «100к1»?",
     "description": "Сыграйте и узнаете.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Зенит» отпускает Кассьерру к Халку. Остаются с одним Соболевым в атаке",
-    "description": "Вендел как всегда опаздывает на сборы.",
-    "fullText": "Вендел как всегда опаздывает на сборы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/4f/a179e3b31443dbb1129a4ecbf65fb.jpeg",
+    "title": "Первый ультимативный рейтинг селфи теннисистов с квокками – улыбчивыми родственниками кенгуру",
+    "description": "Аутентичный контент.",
+    "fullText": "Аутентичный контент.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/9f/2f5592f4c446bbe6eb4dc9258cd5a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377841.html",
-    "time": "2026-01-18T10:20:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3377822.html",
+    "time": "2026-01-18T10:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "DF: Monster Hunter Wilds нагружает процессор ПК в хаб-локациях из-за постоянных проверок на наличие DLC",
-    "description": "Проблему решает мод, блокирующий диагностику.",
-    "fullText": "Проблему решает мод, блокирующий диагностику.",
-    "image": "https://leonardo.osnova.io/0e47b5b3-43f9-58ab-9a46-53d1f3cd9509/",
+    "title": "Variety: австралийская актриса Тереза Палмер сыграет в сериале God of War — ей досталась роль жены Тора",
+    "description": "Богиню Сиф можно было увидеть в Ragnarok.",
+    "fullText": "Богиню Сиф можно было увидеть в Ragnarok.",
+    "image": "https://leonardo.osnova.io/e4755be3-6866-5ddc-8f09-ae79d8de6912/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4726349-monster-hunter-wilds-problemy-s-proizvoditelnostyu-na-pk?from=rss",
-    "time": "2026-01-16T18:24:57.000Z"
+    "url": "https://dtf.ru/cinema/4726480-tereza-palmer-sif-god-of-war?from=rss",
+    "time": "2026-01-16T18:33:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
