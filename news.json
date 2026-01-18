@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Syria TV: сирийская армия заняла аэродром в городе Табка",
-    "description": "Ранее объект находился под контролем курдской коалиции \"Силы демократической Сирии\", сообщил телеканал",
-    "fullText": "Ранее объект находился под контролем курдской коалиции \"Силы демократической Сирии\", сообщил телеканал",
+    "title": "В Хмельницкой области произошли взрывы",
+    "description": "В регионе действует воздушная тревога",
+    "fullText": "В регионе действует воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26177133",
-    "time": "2026-01-17T22:37:01.000Z"
+    "url": "https://tass.ru/proisshestviya/26177349",
+    "time": "2026-01-18T00:43:41.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,25 @@
     "time": "2026-01-17T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Вышла команда года FC 26. Мбаппе на месте, а где Ямаль и Рафинья?",
-    "description": "Хакими тоже потерялся.",
-    "fullText": "Хакими тоже потерялся.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/b6/456bb5ef444c1a788b796b1a33bcf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/games/blogs/3377511.html",
-    "time": "2026-01-17T18:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» разнес «Сити» – 2:0! Три гола отменили, а Доннарумма тащил как мог",
-    "description": "Браво, Кэррик.",
-    "fullText": "Браво, Кэррик.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e1/139abc62b4a2aa80d227a59e9530e.jpeg",
+    "title": "«ПСЖ» уводит таланта у «Барсы», «Наполи» нужен Стерлинг. Главные инсайды дня",
+    "description": "Here we go!",
+    "fullText": "Here we go!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/44/d18623f3e4fb49323703086436cac.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377697.html",
-    "time": "2026-01-17T17:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377643.html",
+    "time": "2026-01-17T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Руководитель студии авторов Rust и Garry&#039;s Mod предложил выкупить New World — на фоне анонса отключения серверов ММО",
-    "description": "Он предложил за игру «25 миллионов».",
-    "fullText": "Он предложил за игру «25 миллионов».",
-    "image": "https://leonardo.osnova.io/54eb7470-e779-59d3-bc0a-59567aa5b4b5/",
+    "title": "Создатель The Division Джулиан Герети перешёл в Battlefield Studios",
+    "description": "Он работал в Ubisoft более 15 лет",
+    "fullText": "Он работал в Ubisoft более 15 лет",
+    "image": "https://leonardo.osnova.io/9c51e655-86b4-5a9e-84df-8f34bda2328c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4725842-rukovoditel-facepunch-studios-predlagaet-vykupit-new-world?from=rss",
-    "time": "2026-01-16T14:04:19.000Z"
+    "url": "https://dtf.ru/gameindustry/4726015-dzhulian-gereti-iz-the-division-pereshel-v-battlefield-studios?from=rss",
+    "time": "2026-01-16T15:08:35.000Z"
   }
 ]
