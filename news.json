@@ -1,36 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Белгородской области женщина пострадала при атаке ВСУ",
-    "description": "Ее с баротравмой и осколочными ранениями ноги доставили в городскую больницу",
-    "fullText": "Ее с баротравмой и осколочными ранениями ноги доставили в городскую больницу",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260118/8748787.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Реал» и «Валенсия» бьются за лидерство в испанском баскетболе – смотрим на Видеоспортсе’‘",
+    "description": "Совместно с ТВ Старт.",
+    "fullText": "Совместно с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/cf/3adc176df469e9812bc64f0edef2a.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26180105",
-    "time": "2026-01-18T16:51:55.000Z"
+    "url": "https://video.sports.ru/stream/odfyQRmnzGUHa-sIbvW6XjI5NrDRtrr88SKlg7VQ2L0",
+    "time": "2026-01-18T17:52:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Только два тренера выиграли ЛЧ и ЧМ. Висенте дель Боске и...?",
-    "description": "Узнайте в новом тесте.",
-    "fullText": "Узнайте в новом тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a8/e5a8e3cf0474696a5236238f29082.png",
+    "title": "Разыгрываем джерси Дёмина из «Бруклина». С автографом!",
+    "description": "Тест из 10 вопросов.",
+    "fullText": "Тест из 10 вопросов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/35/db557fc754bcaac76a53111e44061.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/z69vfk",
-    "time": "2026-01-18T13:30:00.000Z"
+    "url": "https://sirena.world/s54ikt",
+    "time": "2026-01-18T15:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "От Панарина избавятся в «Рейнджерс»? Клуб объявил о перезагрузке",
-    "description": "Сезон для команды потерян.",
-    "fullText": "Сезон для команды потерян.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/9c/b569887554b6396ddd1a72b78f95d.jpeg",
+    "title": "Сборная «Интера» за 25 лет: Дзанетти, Снейдер, Милито. Тренер – Индзаги",
+    "description": "Станкович не прошел в основу.",
+    "fullText": "Станкович не прошел в основу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f1/d1d61c6e74eb3ba88d87d607eb68e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3377633.html",
-    "time": "2026-01-18T13:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3375394.html",
+    "time": "2026-01-18T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4727295-novyj-izgonjajushhij-djavola-s-skarlett-johansson?from=rss",
     "time": "2026-01-17T09:00:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
