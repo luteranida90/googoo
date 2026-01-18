@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сальдо: солдаты ВСУ агрессивно настроены к жителям Херсона",
-    "description": "Люди, которые остаются в Херсоне, живут, как в прифронтовой полосе, сообщил губернатор Херсонской области",
-    "fullText": "Люди, которые остаются в Херсоне, живут, как в прифронтовой полосе, сообщил губернатор Херсонской области",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26179327",
-    "time": "2026-01-18T12:02:49.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
     "description": "Разыгрываем поездку в Дубай.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Панарин отработал каждый доллар из 81-миллионного контракта с «Рейнджерс»",
-    "description": "Стал одним из лучших игроков в истории клуба.",
-    "fullText": "Стал одним из лучших игроков в истории клуба.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/bf/93eb1ecad4852b8a121bb83fe38ea.jpeg",
+    "title": "У «Аданы» -28 очков. Бывший клуб Дзюбы, Балотелли и Нани вылетел в 3-ю лигу уже сейчас – как так?",
+    "description": "А ведь только были в еврокубках.",
+    "fullText": "А ведь только были в еврокубках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/b6/ae9a4e9914af191855813b97118da.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3377613.html",
-    "time": "2026-01-18T08:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3376826.html",
+    "time": "2026-01-18T09:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Peacock вышел сериал «Пони» с Эмилией Кларк в роли оперативницы ЦРУ, работающей в Москве",
-    "description": "У шоу 95% одобрения от критиков на Rotten Tomatoes, но первые оценки от зрителей оказались прохладнее.",
-    "fullText": "У шоу 95% одобрения от критиков на Rotten Tomatoes, но первые оценки от зрителей оказались прохладнее.",
-    "image": "https://leonardo.osnova.io/f0ee8761-402f-51a5-be83-e6879d00ecba/",
+    "title": "Warner Bros. объявила даты выхода следующих фильмов Дж. Дж. Абрамса, Сэма Эсмейла и Тима Миллера",
+    "description": "Днём релиза также обзавёлся приквел «Заклятия».",
+    "fullText": "Днём релиза также обзавёлся приквел «Заклятия».",
+    "image": "https://leonardo.osnova.io/8bad3a43-93de-513b-a4ca-9d10b02ba4d1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4725808-serial-poni-s-emiliyei-klark-na-peacock?from=rss",
-    "time": "2026-01-16T13:24:25.000Z"
+    "url": "https://dtf.ru/cinema/4726599-warner-bros-anonsirovala-daty-reliza-filmov?from=rss",
+    "time": "2026-01-16T20:02:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
