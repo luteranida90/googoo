@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Володин: потомки должны быть достойны подвига жителей блокадного Ленинграда",
-    "description": "По словам председателя Госдумы, вопросы сохранения и защиты исторической памяти являются постоянным приоритетом законодательной работы ГД",
-    "fullText": "По словам председателя Госдумы, вопросы сохранения и защиты исторической памяти являются постоянным приоритетом законодательной работы ГД",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250211/8057263.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26178077",
-    "time": "2026-01-18T06:41:25.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "К кому приехал Фалькао? Сколько клубов в карьере колумбийца вспомните?",
     "description": "Подсказка: всего их 9.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Бруклин» посадил Дёмина, слил 20 очков, но эпично спасся на последних секундах",
-    "description": "Егор, где жесткость?",
-    "fullText": "Егор, где жесткость?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/54/c21cc92684bf288d43def07d449ee.jpeg",
+    "title": "Уникальный Кубок Африки: в медалях только главные фавориты. Побили рекорд по голам",
+    "description": "Осталась парочка интриг.",
+    "fullText": "Осталась парочка интриг.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c9/c20d1ef154358b185d5e42fc53336.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3377596.html",
-    "time": "2026-01-17T20:45:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3375535.html",
+    "time": "2026-01-17T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4725842-rukovoditel-facepunch-studios-predlagaet-vykupit-new-world?from=rss",
     "time": "2026-01-16T14:04:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
