@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В 25 населенных пунктах Херсонской области отключили электричество",
+    "description": "Причиной стал технический сбой на подстанции в Запорожской области",
+    "fullText": "Причиной стал технический сбой на подстанции в Запорожской области",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260118/8748561.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26179583",
+    "time": "2026-01-18T13:04:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Соболенко, Джокович, Рыбакина: кто будет в вашем теннисном бинго?",
     "description": "Разыгрываем поездку в Дубай.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Аданы» -28 очков. Бывший клуб Дзюбы, Балотелли и Нани вылетел в 3-ю лигу уже сейчас – как так?",
-    "description": "А ведь только были в еврокубках.",
-    "fullText": "А ведь только были в еврокубках.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/b6/ae9a4e9914af191855813b97118da.jpeg",
+    "title": "Как закрыть Стефена Карри? Ходи за ним везде – даже в раздевалку",
+    "description": "Метод Секстона.",
+    "fullText": "Метод Секстона.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/cb/291d0dd4d430fa9b577983b30f947.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3376826.html",
-    "time": "2026-01-18T09:05:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3377850.html",
+    "time": "2026-01-18T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4726599-warner-bros-anonsirovala-daty-reliza-filmov?from=rss",
     "time": "2026-01-16T20:02:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
