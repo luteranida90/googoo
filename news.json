@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Хорватии выступили за единый европейский подход к проблеме Гренландии",
+    "description": "В Загребе также выразили уверенность в том, что опасения США по поводу безопасности в Арктическом регионе \"могут быть сняты путем диалога\" и \"при уважении территориальной целостности Дании\"",
+    "fullText": "В Загребе также выразили уверенность в том, что опасения США по поводу безопасности в Арктическом регионе \"могут быть сняты путем диалога\" и \"при уважении территориальной целостности Дании\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26179859",
+    "time": "2026-01-18T14:48:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Буффон – 30 очков, Ибрагимович – 10, Мбаппе – 5. Как так получилось в «100к1»?",
     "description": "Сыграйте и узнаете.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первый ультимативный рейтинг селфи теннисистов с квокками – улыбчивыми родственниками кенгуру",
-    "description": "Аутентичный контент.",
-    "fullText": "Аутентичный контент.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/9f/2f5592f4c446bbe6eb4dc9258cd5a.jpeg",
+    "title": "«ПСЖ» уводит у «Барсы» 18-летнего таланта. Флик жутко разочарован из-за Дро",
+    "description": "Да и самим Дро.",
+    "fullText": "Да и самим Дро.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/5e/409d7026f44c89e0efecab1328162.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3377822.html",
-    "time": "2026-01-18T10:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3377862.html",
+    "time": "2026-01-18T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4726480-tereza-palmer-sif-god-of-war?from=rss",
     "time": "2026-01-16T18:33:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
