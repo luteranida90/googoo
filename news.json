@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Reuters: компании ФРГ почти вдвое сократили инвестиции в США в 2025 году",
-    "description": "По данным агентства, с февраля по ноябрь 2025 года немецкие компании инвестировали в Соединенные Штаты около €10,2 млрд",
-    "fullText": "По данным агентства, с февраля по ноябрь 2025 года немецкие компании инвестировали в Соединенные Штаты около €10,2 млрд",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Впервые за два солнечных цикла наблюдается радиационный шторм уровня S4",
+    "description": "Ученые уточнили, что показатель S5 существует только теоретически",
+    "fullText": "Ученые уточнили, что показатель S5 существует только теоретически",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260119/8751863.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26189255",
-    "time": "2026-01-19T18:54:25.000Z"
+    "url": "https://tass.ru/kosmos/26189297",
+    "time": "2026-01-19T19:07:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,14 @@
     "time": "2026-01-19T14:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Чем цепляет сериал «Майор Гром». Здесь треки МакSим, новые герои и Бэдкомедиан",
-    "description": "Обзор новинки без спойлеров.",
-    "fullText": "Обзор новинки без спойлеров.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/9e/c8edb007543a2b20840d3acbde43c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3378174.html",
-    "time": "2026-01-19T14:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я ни черта не знаю»: Тим Геттис из Kinda Funny о том, что он якобы рассказал о релизе триквела Star Wars Jedi в 2026 году",
-    "description": "Блогер явно ничего не утверждал.",
-    "fullText": "Блогер явно ничего не утверждал.",
-    "image": "https://leonardo.osnova.io/41306f92-adff-5dad-aeaa-70ccfae7f9e0/",
+    "title": "Оператором сиквела «Супермена» будет Сэм МакКёрди, работавший над сериалами «Сёгун» и «Миротворец»",
+    "description": "Кинематографист придёт на смену Генри Брэхаму, который снял четыре последних фильма Джеймса Ганна.",
+    "fullText": "Кинематографист придёт на смену Генри Брэхаму, который снял четыре последних фильма Джеймса Ганна.",
+    "image": "https://leonardo.osnova.io/c89fbce8-bbb7-5fcf-a758-0b8453447735/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4731466-tim-gettis-o-relize-trikvela-star-wars-jedi-v-2026-godu?from=rss",
-    "time": "2026-01-19T12:10:49.000Z"
+    "url": "https://dtf.ru/cinema/4731625-sem-makkurdi-operator-sikvela-supermena?from=rss",
+    "time": "2026-01-19T13:38:49.000Z"
   }
 ]
