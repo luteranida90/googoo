@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Донецке открыли Музей подполья на месте фашистского лагеря",
-    "description": "В музее собрали 450 экспонатов об оккупации города, а также истории подпольного движения",
-    "fullText": "В музее собрали 450 экспонатов об оккупации города, а также истории подпольного движения",
+    "title": "Балицкий сообщил о больших потерях ВСУ под Ореховом и Новояковлевкой",
+    "description": "Еще один населенный пункт - село Павловка - освободили подразделения группировки войск \"Днепр\"",
+    "fullText": "Еще один населенный пункт - село Павловка - освободили подразделения группировки войск \"Днепр\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26187235",
-    "time": "2026-01-19T13:31:22.000Z"
+    "url": "https://tass.ru/armiya-i-opk/26187461",
+    "time": "2026-01-19T14:03:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "С Бобровским во «Флориде» происходят очень странные дела",
+    "description": "Боб больше не спасает?",
+    "fullText": "Боб больше не спасает?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/44/90a55f7df4ea4ae8870bfc7cc403d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3378134.html",
+    "time": "2026-01-19T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-19T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как устроены трансферы «Акрона»? Интервью бывшего директора, которого критиковали Дзюба и Тедеев",
-    "description": "Дорский расспросил.",
-    "fullText": "Дорский расспросил.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e8/c9b1eaaaa4363ae1d72d32259e00b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377157.html",
-    "time": "2026-01-19T08:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«28 лет спустя: Храм костей» стартовал в прокате США в два раза слабее прошлой части",
-    "description": "Третий «Аватар» удерживает лидерство уже пять недель.",
-    "fullText": "Третий «Аватар» удерживает лидерство уже пять недель.",
-    "image": "https://leonardo.osnova.io/e25e0aaa-01a4-5080-901e-8c3d5e065bde/",
+    "title": "Far Cry 3 Classic Edition получит поддержку 60 fps на PS5 и Xbox Series X|S",
+    "description": "Апдейт выйдет уже в январе.",
+    "fullText": "Апдейт выйдет уже в январе.",
+    "image": "https://leonardo.osnova.io/f6e0ed45-9405-5d9a-9d8d-8fe590eba2a4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4730079-28-let-spustya-hram-kostey?from=rss",
-    "time": "2026-01-18T17:10:43.000Z"
+    "url": "https://dtf.ru/games/4729837-far-cry-3-classic-edition-60-fps-ps5-xbox-series?from=rss",
+    "time": "2026-01-18T14:55:14.000Z"
   }
 ]
