@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве обновили и построили почти 300 км сетей водоснабжения и водоотведения",
-    "description": "По словам мэра столицы Сергея Собянина, строительство и реконструкция идут в основном с применением бестраншейных технологий",
-    "fullText": "По словам мэра столицы Сергея Собянина, строительство и реконструкция идут в основном с применением бестраншейных технологий",
+    "title": "Трое журналистов ТАСС стали лауреатами премии города Москвы",
+    "description": "Премию за освещение актуальных событий столицы и значимых городских проектов получили Оксана Крюченкова, Ольга Григорьева и Ксения Асафова",
+    "fullText": "Премию за освещение актуальных событий столицы и значимых городских проектов получили Оксана Крюченкова, Ольга Григорьева и Ксения Асафова",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26185773",
-    "time": "2026-01-19T10:59:33.000Z"
+    "url": "https://tass.ru/obschestvo/26186025",
+    "time": "2026-01-19T11:30:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Четыре россиянина брали Кубок Стэнли три раза. Вспомните хотя бы двух?",
+    "description": "Один из них все еще в игре.",
+    "fullText": "Один из них все еще в игре.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/4a/9fe91e9b84f36a5c75d6d6753e495.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/6zhrou",
+    "time": "2026-01-19T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-19T07:13:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Опорник ЦСКА, игравший с Дембеле и Рафиньей. Вспомните его в «Комбо»?",
-    "description": "Это не так просто.",
-    "fullText": "Это не так просто.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/6a/f666dc95f44aeb18b737c292a68ba.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2026-01-19T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Carmageddon: Rogue Shift ушла «на золото»",
-    "description": "Релиз состоится 6 февраля.",
-    "fullText": "Релиз состоится 6 февраля.",
-    "image": "https://leonardo.osnova.io/119809c9-29d4-5a68-b9d2-b1f9c678fbe1/",
+    "title": "Мэтт Дэймон о требованиях Netflix к фильмам: «Они просят добавить экшен-сцену в самое начало и напоминать о сюжете в диалогах»",
+    "description": "Всё для того, чтобы удерживать внимание зрителей.",
+    "fullText": "Всё для того, чтобы удерживать внимание зрителей.",
+    "image": "https://leonardo.osnova.io/740794f8-094f-5818-8fa5-8c3c0d067f75/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4729433-carmageddon-rogue-shift-vyhodit-na-pk-i-konsoli?from=rss",
-    "time": "2026-01-18T11:46:23.000Z"
+    "url": "https://dtf.ru/cinema/4729279-matt-dejmon-o-trebovaniyakh-netflix?from=rss",
+    "time": "2026-01-18T10:24:55.000Z"
   }
 ]
