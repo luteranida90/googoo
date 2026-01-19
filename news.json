@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "FIS предоставила нейтральный статус российскому лыжнику Денисову",
-    "description": "Также нейтральные статусы получили горнолыжницы Танзила Исраилова и Виталина Гирина",
-    "fullText": "Также нейтральные статусы получили горнолыжницы Танзила Исраилова и Виталина Гирина",
+    "title": "Министр обороны Италии назвал введение ответных пошлин ЕС худшей реакцией на меры США",
+    "description": "Рим считает, что вопрос Гренландии должен решаться строго в рамках трансатлантического партнерства и в контексте НАТО",
+    "fullText": "Рим считает, что вопрос Гренландии должен решаться строго в рамках трансатлантического партнерства и в контексте НАТО",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26188567",
-    "time": "2026-01-19T16:33:50.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26188735",
+    "time": "2026-01-19T17:06:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -20,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3378174.html",
     "time": "2026-01-19T14:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я ни черта не знаю»: Тим Геттис из Kinda Funny о том, что он якобы рассказал о релизе триквела Star Wars Jedi в 2026 году",
-    "description": "Блогер явно ничего не утверждал.",
-    "fullText": "Блогер явно ничего не утверждал.",
-    "image": "https://leonardo.osnova.io/41306f92-adff-5dad-aeaa-70ccfae7f9e0/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4731466-tim-gettis-o-relize-trikvela-star-wars-jedi-v-2026-godu?from=rss",
-    "time": "2026-01-19T12:10:49.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -53,5 +42,16 @@
     "category": "all",
     "url": "https://sirena.world/iuixby",
     "time": "2026-01-19T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Зверополис 2» стал самым кассовым голливудским мультфильмом в истории",
+    "description": "Но с учётом лент из других стран лидерство удерживает «Нэчжа побеждает Царя драконов».",
+    "fullText": "Но с учётом лент из других стран лидерство удерживает «Нэчжа побеждает Царя драконов».",
+    "image": "https://leonardo.osnova.io/9b06fd98-feb5-5383-84b3-d40eee5581cb/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4730975-zveropolis-2-samym-kassovym-multfilmom?from=rss",
+    "time": "2026-01-19T07:41:37.000Z"
   }
 ]
