@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Раде заявили, что ТЦК зарабатывают на взятках свыше €2 млрд в год",
-    "description": "Депутат Дмитрий Разумков назвал деятельность сотрудников местных военкоматов беспределом",
-    "fullText": "Депутат Дмитрий Разумков назвал деятельность сотрудников местных военкоматов беспределом",
+    "title": "Reuters: компании ФРГ почти вдвое сократили инвестиции в США в 2025 году",
+    "description": "По данным агентства, с февраля по ноябрь 2025 года немецкие компании инвестировали в Соединенные Штаты около €10,2 млрд",
+    "fullText": "По данным агентства, с февраля по ноябрь 2025 года немецкие компании инвестировали в Соединенные Штаты около €10,2 млрд",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26189157",
-    "time": "2026-01-19T18:31:14.000Z"
+    "url": "https://tass.ru/ekonomika/26189255",
+    "time": "2026-01-19T18:54:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-01-19T16:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Самый эпичный «Дакар» за годы: трэштокер-доминатор победил Сайнса, сенсация в грузовиках и русские в роли спасателей",
+    "description": "Герои и сюжеты главного ралли.",
+    "fullText": "Герои и сюжеты главного ралли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/79/5262af90a4f8b91ec6905bc16a348.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3378056.html",
+    "time": "2026-01-19T14:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Чем цепляет сериал «Майор Гром». Здесь треки МакSим, новые герои и Бэдкомедиан",
     "description": "Обзор новинки без спойлеров.",
@@ -33,25 +44,14 @@
     "time": "2026-01-19T14:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Паненка: разве это того стоит?",
-    "description": "Браим скажет, что нет.",
-    "fullText": "Браим скажет, что нет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/b5/6b6950dbb4596bec2fcdb04c5f09f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3378177.html",
-    "time": "2026-01-19T14:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На «Кинопоиске» стартовал сериал «Майор Гром: Игра против правил»",
-    "description": "В нём представлен расширенный взгляд на события фильмов.",
-    "fullText": "В нём представлен расширенный взгляд на события фильмов.",
-    "image": "https://leonardo.osnova.io/57fe184e-a3fc-50c9-9875-cf463bff808f/",
+    "title": "«Я ни черта не знаю»: Тим Геттис из Kinda Funny о том, что он якобы рассказал о релизе триквела Star Wars Jedi в 2026 году",
+    "description": "Блогер явно ничего не утверждал.",
+    "fullText": "Блогер явно ничего не утверждал.",
+    "image": "https://leonardo.osnova.io/41306f92-adff-5dad-aeaa-70ccfae7f9e0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4731209-serial-maior-grom-igra-protiv-pravil?from=rss",
-    "time": "2026-01-19T09:48:32.000Z"
+    "url": "https://dtf.ru/games/4731466-tim-gettis-o-relize-trikvela-star-wars-jedi-v-2026-godu?from=rss",
+    "time": "2026-01-19T12:10:49.000Z"
   }
 ]
