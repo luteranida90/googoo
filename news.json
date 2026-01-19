@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Министр обороны Италии назвал введение ответных пошлин ЕС худшей реакцией на меры США",
-    "description": "Рим считает, что вопрос Гренландии должен решаться строго в рамках трансатлантического партнерства и в контексте НАТО",
-    "fullText": "Рим считает, что вопрос Гренландии должен решаться строго в рамках трансатлантического партнерства и в контексте НАТО",
+    "title": "Два инвестора получили статус первых резидентов ОЭЗ \"Южноуральская\" в Челябинской области",
+    "description": "Реализация проектов позволит создать порядка 500 новых рабочих мест, сообщил в своем Telegram-канале губернатор Алексей Текслер",
+    "fullText": "Реализация проектов позволит создать порядка 500 новых рабочих мест, сообщил в своем Telegram-канале губернатор Алексей Текслер",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26188735",
-    "time": "2026-01-19T17:06:47.000Z"
+    "url": "https://tass.ru/novosti-regionov/26188843",
+    "time": "2026-01-19T17:20:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-01-19T14:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "ありがとう – кому могли так сказать на «Олд Траффорд»?",
+    "description": "Минимум 6 раз.",
+    "fullText": "Минимум 6 раз.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/30/e5c0d43c84e9fa6f91585fb2e1289.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-19T14:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Лучший молодой Лиги ВТБ сбежал в Америку – от суда и военкомата",
     "description": "Унылый триллер.",
@@ -33,25 +44,14 @@
     "time": "2026-01-19T11:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Следите за теннисом? Есть шанс выиграть поездку в Дубай",
-    "description": "На двоих.",
-    "fullText": "На двоих.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/3d/c9041b0d64387b122b9475b885c9d.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iuixby",
-    "time": "2026-01-19T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Зверополис 2» стал самым кассовым голливудским мультфильмом в истории",
-    "description": "Но с учётом лент из других стран лидерство удерживает «Нэчжа побеждает Царя драконов».",
-    "fullText": "Но с учётом лент из других стран лидерство удерживает «Нэчжа побеждает Царя драконов».",
-    "image": "https://leonardo.osnova.io/9b06fd98-feb5-5383-84b3-d40eee5581cb/",
+    "title": "На «Кинопоиске» стартовал сериал «Майор Гром: Игра против правил»",
+    "description": "В нём представлен расширенный взгляд на события фильмов.",
+    "fullText": "В нём представлен расширенный взгляд на события фильмов.",
+    "image": "https://leonardo.osnova.io/57fe184e-a3fc-50c9-9875-cf463bff808f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4730975-zveropolis-2-samym-kassovym-multfilmom?from=rss",
-    "time": "2026-01-19T07:41:37.000Z"
+    "url": "https://dtf.ru/cinema/4731209-serial-maior-grom-igra-protiv-pravil?from=rss",
+    "time": "2026-01-19T09:48:32.000Z"
   }
 ]
