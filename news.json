@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эрдоган: дорожную карту для урегулирования на Украине выработать не удалось",
-    "description": "Президент Турции выразил сожаление по этому вопросу",
-    "fullText": "Президент Турции выразил сожаление по этому вопросу",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250214/8065833.jpg",
+    "title": "FIS предоставила нейтральный статус российскому лыжнику Денисову",
+    "description": "Также нейтральные статусы получили горнолыжницы Танзила Исраилова и Виталина Гирина",
+    "fullText": "Также нейтральные статусы получили горнолыжницы Танзила Исраилова и Виталина Гирина",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26188401",
-    "time": "2026-01-19T16:02:01.000Z"
+    "url": "https://tass.ru/sport/26188567",
+    "time": "2026-01-19T16:33:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +33,17 @@
     "time": "2026-01-19T12:10:49.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лучший молодой Лиги ВТБ сбежал в Америку – от суда и военкомата",
+    "description": "Унылый триллер.",
+    "fullText": "Унылый триллер.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/27/4880855484e82bb2d6751c0144562.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3378130.html",
+    "time": "2026-01-19T11:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Следите за теннисом? Есть шанс выиграть поездку в Дубай",
     "description": "На двоих.",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/iuixby",
     "time": "2026-01-19T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Браим никогда не переживет это». Мир реагирует на финал Кубка Африки",
-    "description": "Инфантино зол на Сенегал.",
-    "fullText": "Инфантино зол на Сенегал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/fa/0a5b3f2624c21bea87dd3cf36bc3a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3378164.html",
-    "time": "2026-01-19T11:10:00.000Z"
   }
 ]
