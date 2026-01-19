@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сенатор США считает, что Вашингтон ведет войну с Венесуэлой",
-    "description": "Это акт агрессии, чтобы продолжать получать их нефть, заявил Рэнд Пол",
-    "fullText": "Это акт агрессии, чтобы продолжать получать их нефть, заявил Рэнд Пол",
+    "title": "The Globe and Mail: Канада может направить небольшую группу военных в Гренландию",
+    "description": "По данным газеты, военнослужащие ожидают соответствующего решения от канадского премьер-министра Марка Карни",
+    "fullText": "По данным газеты, военнослужащие ожидают соответствующего решения от канадского премьер-министра Марка Карни",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26182351",
-    "time": "2026-01-19T05:26:01.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26182547",
+    "time": "2026-01-19T06:09:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жерсон – в топ-10 Бразилии по сумме трансферов. Уже выше Халка",
+    "description": "Первого знаете.",
+    "fullText": "Первого знаете.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/c0/2ff29ffb946e7b3eb54ff1b7b0dca.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3377242.html",
+    "time": "2026-01-18T20:17:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-18T19:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Женское катание на Евро впечатлило разве что близких самих фигуристок – Козловский прав",
-    "description": "Реплика Крутихиной.",
-    "fullText": "Реплика Крутихиной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9b/91f9ed0094f25a3d9e25b610a67fb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3377572.html",
-    "time": "2026-01-18T19:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Пол Тасси: разработчики сетевого шутера Highguard не платили за показ трейлера на The Game Awards 2025",
-    "description": "В сети предполагают, что Джеффу Кили очень понравилась игра или же он поставил её на место тайтла, авторы которого отказались от участия в церемонии.",
-    "fullText": "В сети предполагают, что Джеффу Кили очень понравилась игра или же он поставил её на место тайтла, авторы которого отказались от участия в церемонии.",
-    "image": "https://leonardo.osnova.io/740937c6-9263-56a7-9066-fb41121643dd/",
+    "title": "Экс-глава франшизы Assassin&#039;s Creed подал в суд на Ubisoft — он утверждает, что «стал жертвой вынужденного увольнения»",
+    "description": "И требует от издательства более 1,3 миллиона долларов.",
+    "fullText": "И требует от издательства более 1,3 миллиона долларов.",
+    "image": "https://leonardo.osnova.io/6d77d949-b426-527b-aef0-64778e4c49cb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4726441-pol-tassi-highguard-ne-platila-za-treyler-na-the-game-awards?from=rss",
-    "time": "2026-01-17T10:40:08.000Z"
+    "url": "https://dtf.ru/gameindustry/4727662-mark-aleksis-kote-sud-na-ubisoft?from=rss",
+    "time": "2026-01-17T13:30:40.000Z"
   }
 ]
