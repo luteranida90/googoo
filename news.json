@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ООН: развитие ИИ лишь в крупных экономиках мира усиливает неравенство стран",
-    "description": "Кроме того, уязвимость для рисков сохраняется как в финансовой, так и в торговой сфере, говорится в докладе всемирной организации",
-    "fullText": "Кроме того, уязвимость для рисков сохраняется как в финансовой, так и в торговой сфере, говорится в докладе всемирной организации",
+    "title": "ООН: рост объема мировой торговли может замедлиться до 2,2%",
+    "description": "В организации считают, что на это повлияет вступление в полную силу тарифных ограничений",
+    "fullText": "В организации считают, что на это повлияет вступление в полную силу тарифных ограничений",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26200719",
-    "time": "2026-01-20T13:29:07.000Z"
+    "url": "https://tass.ru/ekonomika/26201035",
+    "time": "2026-01-20T14:14:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что вы пропустили в 22-м туре АПЛ: странный рекорд «Ливерпуля», судорога не дала отметить гол-шедевр",
+    "description": "Шон Дайч зимой в шортах.",
+    "fullText": "Шон Дайч зимой в шортах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/5a/418b9459144baadceba6917cad74c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3378202.html",
+    "time": "2026-01-20T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-20T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Красивый жест Тарасенко: мог делать хет-трик, но отдал на пустые (и хет-трик у партнера)",
-    "description": "Не жаден до шайб.",
-    "fullText": "Не жаден до шайб.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/85/f4b22dae246198e55f6859674003d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3378440.html",
-    "time": "2026-01-20T08:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Российский кооперативный хоррор «КЛЕТЬ» выйдет из раннего доступа 19 февраля",
-    "description": "В этот день игра появится и на консолях.",
-    "fullText": "В этот день игра появится и на консолях.",
-    "image": "https://leonardo.osnova.io/1babe890-b8b2-5f40-98ba-63196982d534/-/format/mp4/",
+    "title": "Официально: Marathon выйдет 5 марта — трейлер",
+    "description": "Extraction-шутер получит полный перевод на русский язык.",
+    "fullText": "Extraction-шутер получит полный перевод на русский язык.",
+    "image": "https://leonardo.osnova.io/a7bb003e-d9a4-567e-b78c-21b35b488134/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4732200-klet-rossijskij-horror-vyjdets-iz-rannego-dostupa?from=rss",
-    "time": "2026-01-19T19:14:31.000Z"
+    "url": "https://dtf.ru/games/4731951-marathon-vyidet-5-marta-treiler-i-predzakazy?from=rss",
+    "time": "2026-01-19T16:06:49.000Z"
   }
 ]
