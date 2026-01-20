@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп считает, что не позволил НАТО оказаться на \"свалке истории\"",
-    "description": "Президент США считает себя спасителем Североатлантического альянса",
-    "fullText": "Президент США считает себя спасителем Североатлантического альянса",
+    "title": "Губернатор Солодов: скорая помощь прибывает на все вызовы, несмотря на непогоду",
+    "description": "Нет ни одного вызова, который бы остался без внимания, сообщил глава Камчатского края",
+    "fullText": "Нет ни одного вызова, который бы остался без внимания, сообщил глава Камчатского края",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26202705",
-    "time": "2026-01-20T17:24:29.000Z"
+    "url": "https://tass.ru/obschestvo/26202845",
+    "time": "2026-01-20T18:02:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кэррик побил Пепа, «Ливерпуль» буксует, Артета выбирает между кроликом и уткой. Итоги тура АПЛ на ВидеоСпортсе’‘",
+    "description": "Реакция на сенсации.",
+    "fullText": "Реакция на сенсации.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/be/4842befae42ff9bfd839f49dc08f7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/a5vl8z",
+    "time": "2026-01-20T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-20T13:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» идет без потерь в ЛЧ – рискнете против «Интера»?",
-    "description": "Ставьте с фрибетом от БЕТСИТИ!",
-    "fullText": "Ставьте с фрибетом от БЕТСИТИ!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/a1/7503591174543869c13613f47a8cf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/5h96ug",
-    "time": "2026-01-20T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Divinity: Original Sin 2 показала лучший месяц по продажам с 2017 года",
-    "description": "Помог в том числе анонс следующей части серии.",
-    "fullText": "Помог в том числе анонс следующей части серии.",
-    "image": "https://leonardo.osnova.io/af1adb3b-090c-5ae8-8875-c6f7041cb0cd/",
+    "title": "Бывший продюсер BioWare о мнении, что не стоило браться за Anthem: «По той же логике мы не должны были делать Neverwinter Nights и Mass Effect»",
+    "description": "Но Марк Дарра согласен, что игра оказалась слишком амбициозной для студии.",
+    "fullText": "Но Марк Дарра согласен, что игра оказалась слишком амбициозной для студии.",
+    "image": "https://leonardo.osnova.io/a4dd8bbe-0d39-5970-b9b8-934dd0eafe64/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4732858-divinity-original-sin-2-rekordnye-prodazhi?from=rss",
-    "time": "2026-01-20T06:28:14.000Z"
+    "url": "https://dtf.ru/games/4733028-byvshiy-prodyuser-bioware-o-provale-anthem?from=rss",
+    "time": "2026-01-20T08:35:52.000Z"
   }
 ]
