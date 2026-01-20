@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Днепропетровске снова произошли взрывы",
-    "description": "В Днепропетровской области звучит воздушная тревога",
-    "fullText": "В Днепропетровской области звучит воздушная тревога",
+    "title": "В Москве прогнозируют облачную погоду, небольшой снег и до 4 градусов мороза",
+    "description": "В Подмосковье температура будет колебаться от минус 7 до минус 2 градусов",
+    "fullText": "В Подмосковье температура будет колебаться от минус 7 до минус 2 градусов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26190205",
-    "time": "2026-01-20T00:16:17.000Z"
+    "url": "https://tass.ru/obschestvo/26190619",
+    "time": "2026-01-20T03:01:09.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я ни черта не знаю»: Тим Геттис из Kinda Funny о том, что он якобы рассказал о релизе триквела Star Wars Jedi в 2026 году",
-    "description": "Блогер явно ничего не утверждал.",
-    "fullText": "Блогер явно ничего не утверждал.",
-    "image": "https://leonardo.osnova.io/41306f92-adff-5dad-aeaa-70ccfae7f9e0/",
+    "title": "Фантастическая адвенчура Tides of Tomorrow от студии авторов Road 96 выйдет 22 апреля — игру перенесли на два месяца",
+    "description": "Одной из ключевых особенностей приключения об исследовании океанической планеты будет асинхронный мультиплеер.",
+    "fullText": "Одной из ключевых особенностей приключения об исследовании океанической планеты будет асинхронный мультиплеер.",
+    "image": "https://leonardo.osnova.io/8a64e05d-291b-5829-8ae3-9f12aa66d70f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4731466-tim-gettis-o-relize-trikvela-star-wars-jedi-v-2026-godu?from=rss",
-    "time": "2026-01-19T12:10:49.000Z"
+    "url": "https://dtf.ru/games/4731714-tides-of-tomorrow-ot-digixart-vyidet-22-aprelya-perenos-na-dva-mesyatsa?from=rss",
+    "time": "2026-01-19T14:39:12.000Z"
   }
 ]
