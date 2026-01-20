@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ОП предложили увеличить штрафы для лидеров мнений за рекламу азартных игр",
-    "description": "Член комиссии Общественной палаты РФ по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров считает, что размер взыскания должен быть соразмерен потенциальному доходу таких лиц",
-    "fullText": "Член комиссии Общественной палаты РФ по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров считает, что размер взыскания должен быть соразмерен потенциальному доходу таких лиц",
+    "title": "Премьер Британии заверил ЕС в готовности вносить вклад в защиту Арктики",
+    "description": "Кир Стармер подтвердил, что будущее Гренландии принадлежит исключительно народу острова и Дании",
+    "fullText": "Кир Стармер подтвердил, что будущее Гренландии принадлежит исключительно народу острова и Дании",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26203179",
-    "time": "2026-01-20T19:38:06.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26203349",
+    "time": "2026-01-20T20:21:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Какой из этих клубов не выигрывал все шесть матчей ЛЧ на групповом этапе?",
+    "description": "Квиз о главном еврокубке.",
+    "fullText": "Квиз о главном еврокубке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/78/f21658d9346b5810419fb909258bb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/z69vfk",
+    "time": "2026-01-20T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-01-20T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Играйте в «100к1» с комментаторами ЛЧ и смотрите дебютный еврокубковый матч Арбелоа в Okko",
-    "description": "Начало – в 23:00.",
-    "fullText": "Начало – в 23:00.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/4a/0fcb966ad40c3a1fa5f58af9673e9.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/5g357d",
-    "time": "2026-01-20T15:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ведущий продюсер World of Warcraft перешёл в Riot для работы над MMO по League of Legends",
-    "description": "Не первый и не последний ветеран Blizzard в команде.",
-    "fullText": "Не первый и не последний ветеран Blizzard в команде.",
-    "image": "https://leonardo.osnova.io/5d4f460e-250b-5343-9fb6-6dfcc471da6b/",
+    "title": "Режиссёр озвучки Marathon Элайас Туфексис назвал TTS «полным дерьмом» на фоне анонса 33 актёров шутера",
+    "description": "Игра вышла в топ-5 по выручке в Steam среди платных тайтлов.",
+    "fullText": "Игра вышла в топ-5 по выручке в Steam среди платных тайтлов.",
+    "image": "https://leonardo.osnova.io/77d5f5a8-2827-5ceb-90c8-dcaf8b1ebbeb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4733114-reyemond-bartos-iz-world-of-warcraft-v-riot-mmo-league-of-legends?from=rss",
-    "time": "2026-01-20T09:06:44.000Z"
+    "url": "https://dtf.ru/games/4732882-elaias-toufeqis-o-tts-v-marathon?from=rss",
+    "time": "2026-01-20T07:10:00.000Z"
   }
 ]
