@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Запорожье произошел взрыв",
-    "description": "В подконтрольных украинским властям районах Запорожской области действует воздушная тревога",
-    "fullText": "В подконтрольных украинским властям районах Запорожской области действует воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин обсудит с Аббасом создаваемый \"Совет мира\"",
+    "description": "Президент РФ планирует поднять этот вопрос во время переговоров с палестинским лидером 22 января",
+    "fullText": "Президент РФ планирует поднять этот вопрос во время переговоров с палестинским лидером 22 января",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8011617.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26215151",
-    "time": "2026-01-21T20:06:21.000Z"
+    "url": "https://tass.ru/politika/26215323",
+    "time": "2026-01-21T20:18:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-01-21T16:20:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Первый год Касаткиной за Австралию: антирекорд рейтинга за 5 лет, выгорание и новый паспорт",
+    "description": "Итоги.",
+    "fullText": "Итоги.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/e0/271a76088410abae251929403a8fb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3378577.html",
+    "time": "2026-01-21T15:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Авторы ремейка Halo надеются, что выпуск игры на PS5 позволит «воссоединить сообщество» франшизы",
     "description": "Разработчики также подтвердили, что занимаются несколькими уникальными миссиями для новой версии.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4735800-remeik-halo-na-ps5-vossoedinenie-soobshchestva?from=rss",
     "time": "2026-01-21T15:19:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вот так выглядит нейтральная форма наших для Олимпиады-2026",
-    "description": "Лаконично.",
-    "fullText": "Лаконично.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/10/f1d4902554b7ab51a36256f57698f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skating/blogs/3378835.html",
-    "time": "2026-01-21T15:10:00.000Z"
   }
 ]
