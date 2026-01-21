@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Посол в РФ: Китай намерен содействовать переговорам по украинскому кризису",
+    "description": "Пекин \"придерживается беспристрастной и справедливой позиции, активно призывает к миру\", отметил Чжан Ханьхуэй",
+    "fullText": "Пекин \"придерживается беспристрастной и справедливой позиции, активно призывает к миру\", отметил Чжан Ханьхуэй",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260122/8758397.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26215611",
+    "time": "2026-01-21T21:06:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Ливерпуль» нашел замену Ван Дейку, Аке хочет уйти из «Сити»: самые вероятные трансферы зимы",
+    "description": "Воспитанник Слуцкого идет к чемпионам Англии.",
+    "fullText": "Воспитанник Слуцкого идет к чемпионам Англии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d8/8238b02174740bdf59a2791fb411a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3378194.html",
+    "time": "2026-01-21T16:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой из этих клубов не выигрывал все шесть матчей ЛЧ на групповом этапе?",
     "description": "Квиз о главном еврокубке.",
@@ -11,17 +33,6 @@
     "time": "2026-01-21T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первый год Касаткиной за Австралию: антирекорд рейтинга за 5 лет, выгорание и новый паспорт",
-    "description": "Итоги.",
-    "fullText": "Итоги.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/e0/271a76088410abae251929403a8fb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3378577.html",
-    "time": "2026-01-21T15:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Авторы ремейка Halo надеются, что выпуск игры на PS5 позволит «воссоединить сообщество» франшизы",
     "description": "Разработчики также подтвердили, что занимаются несколькими уникальными миссиями для новой версии.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4735800-remeik-halo-na-ps5-vossoedinenie-soobshchestva?from=rss",
     "time": "2026-01-21T15:19:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
