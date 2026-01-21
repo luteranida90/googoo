@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин отметил вклад США в поиск решения по Украине",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8011617.jpg",
+    "title": "В Запорожье произошел взрыв",
+    "description": "В подконтрольных украинским властям районах Запорожской области действует воздушная тревога",
+    "fullText": "В подконтрольных украинским властям районах Запорожской области действует воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26214881",
-    "time": "2026-01-21T19:33:45.000Z"
+    "url": "https://tass.ru/proisshestviya/26215151",
+    "time": "2026-01-21T20:06:21.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-01-21T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пэдди Пимблетт правда мешок или будущий доминатор UFC?",
-    "description": "По-прежнему не проигрывает.",
-    "fullText": "По-прежнему не проигрывает.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/75/9393ecb274043bc6b42f4e2462491.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3378505.html",
-    "time": "2026-01-21T14:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Андрес Мускетти всё ещё планирует смонтировать две части «Оно» в один фильм",
-    "description": "И добавить дополнительные сцены, которые не отсняты.",
-    "fullText": "И добавить дополнительные сцены, которые не отсняты.",
-    "image": "https://leonardo.osnova.io/b4e5ddba-d3a0-58a6-bdc9-e123a0658c4c/",
+    "title": "Авторы ремейка Halo надеются, что выпуск игры на PS5 позволит «воссоединить сообщество» франшизы",
+    "description": "Разработчики также подтвердили, что занимаются несколькими уникальными миссиями для новой версии.",
+    "fullText": "Разработчики также подтвердили, что занимаются несколькими уникальными миссиями для новой версии.",
+    "image": "https://leonardo.osnova.io/974c0e4c-14c5-51f3-bb5b-4d13526e5d1d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4735633-andres-muskettie-ono-v-odin-film?from=rss",
-    "time": "2026-01-21T13:26:42.000Z"
+    "url": "https://dtf.ru/games/4735800-remeik-halo-na-ps5-vossoedinenie-soobshchestva?from=rss",
+    "time": "2026-01-21T15:19:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вот так выглядит нейтральная форма наших для Олимпиады-2026",
+    "description": "Лаконично.",
+    "fullText": "Лаконично.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/10/f1d4902554b7ab51a36256f57698f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skating/blogs/3378835.html",
+    "time": "2026-01-21T15:10:00.000Z"
   }
 ]
