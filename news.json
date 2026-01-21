@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пока Кучеров гонится за канадцами, Василевский идет за «Везиной»",
-    "description": "Наши тащат «Тампу».",
-    "fullText": "Наши тащат «Тампу».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/d2/5c983340246e3963456a067f63588.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ленобласть вышла на первое место по инвестициям в реальный сектор экономики",
+    "description": "По словам губернатора региона Александра Дрозденко, общий портфель инвестиций Ленинградской области превысил 7,2 трлн рублей",
+    "fullText": "По словам губернатора региона Александра Дрозденко, общий портфель инвестиций Ленинградской области превысил 7,2 трлн рублей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3378762.html",
-    "time": "2026-01-21T07:15:00.000Z"
+    "url": "https://tass.ru/ekonomika/26210523",
+    "time": "2026-01-21T12:34:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В среднем пользователи Спортса’’ вспоминают 42 европейских клуба. Сможете больше?",
-    "description": "Проверьте себя.",
-    "fullText": "Проверьте себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/c5/3eec807e94e0badef1ca724e26375.png",
+    "title": "«Галатасарай» играет с «Атлетико», а для вас есть фрибет до 15 000!",
+    "description": "Акция к матчам ЛЧ.",
+    "fullText": "Акция к матчам ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/96/ea0272e1343aa8c93e6173c3bd186.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/xxwhr4",
-    "time": "2026-01-21T07:00:00.000Z"
+    "url": "https://sirena.world/oz8t07",
+    "time": "2026-01-21T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "6:1 с дублем Мбаппе и 1+2 Винисиуса – «Реал» выпустил пар! На «Монако» Головина",
+    "description": "Уничтожение.",
+    "fullText": "Уничтожение.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/6d/5be9365c146c89fdf5a7103ae017a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3378744.html",
+    "time": "2026-01-21T07:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышла MIO: Memories in Orbit — фантастическая метроидвания об исследовании затерянного космического судна",
-    "description": "Оценка игры на агрегаторах превысила 80 баллов из 100.",
-    "fullText": "Оценка игры на агрегаторах превысила 80 баллов из 100.",
-    "image": "https://leonardo.osnova.io/1d631152-e0aa-5d00-993f-a8d45e739d37/-/format/mp4/",
+    "title": "«Последний шанс обернуть время вспять» — первый трейлер Life is Strange: Reunion",
+    "description": "Релиз финала саги о Макс и Хлое состоится 26 марта.",
+    "fullText": "Релиз финала саги о Макс и Хлое состоится 26 марта.",
+    "image": "https://leonardo.osnova.io/40a66ce5-3a06-5ac3-95f2-80576c6337c6/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4733977-mio-memories-in-orbit?from=rss",
-    "time": "2026-01-20T16:50:10.000Z"
+    "url": "https://dtf.ru/games/4734110-pervyy-treyler-life-is-strange-reunion?from=rss",
+    "time": "2026-01-20T18:24:19.000Z"
   }
 ]
