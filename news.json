@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин обсудит с Аббасом создаваемый \"Совет мира\"",
-    "description": "Президент РФ планирует поднять этот вопрос во время переговоров с палестинским лидером 22 января",
-    "fullText": "Президент РФ планирует поднять этот вопрос во время переговоров с палестинским лидером 22 января",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8011617.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26215323",
-    "time": "2026-01-21T20:18:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой из этих клубов не выигрывал все шесть матчей ЛЧ на групповом этапе?",
     "description": "Квиз о главном еврокубке.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4735800-remeik-halo-na-ps5-vossoedinenie-soobshchestva?from=rss",
     "time": "2026-01-21T15:19:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
