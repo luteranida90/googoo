@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Спартак\" в третий раз в сезоне КХЛ обыграл СКА",
-    "description": "Встреча завершилась со счетом 2:1 в пользу красно-белых",
-    "fullText": "Встреча завершилась со счетом 2:1 в пользу красно-белых",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260122/8760831.jpg",
+    "title": "Захарова пошутила, что Британия направит ноту протеста из-за спектакля \"№13\"",
+    "description": "\"ТОТ самый №13\" стал третьей театральной интерпретацией народного артиста РФ Владимира Машкова комедии современного британского драматурга Рэя Куни Out of order",
+    "fullText": "\"ТОТ самый №13\" стал третьей театральной интерпретацией народного артиста РФ Владимира Машкова комедии современного британского драматурга Рэя Куни Out of order",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26227521",
-    "time": "2026-01-22T18:44:22.000Z"
+    "url": "https://tass.ru/obschestvo/26227719",
+    "time": "2026-01-22T19:40:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Соболенко в центре внимания – вместе с поездкой на Dubai Open-2026",
+    "description": "Выиграйте поездку на турнир.",
+    "fullText": "Выиграйте поездку на турнир.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/d1/08bbcfeff4d8690fd15b5fc479896.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/iuixby",
+    "time": "2026-01-22T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Второй сезон «Фоллаута» стал шестым по просмотрам сериалом на Prime Video — он уступил «Ричеру» и «Кольцам власти»",
+    "description": "Точные данные пока не раскрываются.",
+    "fullText": "Точные данные пока не раскрываются.",
+    "image": "https://leonardo.osnova.io/ffc5a722-ecb3-59d7-9e72-bd5533985eba/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4738226-vtoroy-sezon-follauta-shestoe-mesto-prime-video?from=rss",
+    "time": "2026-01-22T17:00:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +44,14 @@
     "time": "2026-01-22T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Тест о спортсменах, изменивших правила целых видов спорта",
-    "description": "Великие личности.",
-    "fullText": "Великие личности.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/44/282ad037d4116a73ca4f7b0700066.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/7dxofo",
-    "time": "2026-01-22T16:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Super Mario Bros Wonder получит нативную версию для Switch 2 в марте — детали дополнительного контента",
-    "description": "Розалина станет играбельным персонажем.",
-    "fullText": "Розалина станет играбельным персонажем.",
-    "image": "https://leonardo.osnova.io/64be2992-b083-57bb-9ada-ce08f626c4c6/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4738117-super-mario-bros-wonder-dlya-switch-2?from=rss",
-    "time": "2026-01-22T15:56:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мог час смотреть на марку и что-то себе представлять». Николай Писарев – филателист с огромной коллекцией",
-    "description": "Любовь Курчавова поговорила об увлечении.",
-    "fullText": "Любовь Курчавова поговорила об увлечении.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/9a/d28d7b8844b3ea819dfd73d95b7fa.jpeg",
+    "title": "Макан и бои – история большой любви",
+    "description": "Изучаем глубины пацанского рэпа.",
+    "fullText": "Изучаем глубины пацанского рэпа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b6/eb4ed85e44a10821a9d2f98d04c32.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373973.html",
-    "time": "2026-01-22T14:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3378928.html",
+    "time": "2026-01-22T16:10:00.000Z"
   }
 ]
