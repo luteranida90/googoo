@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Российские военные под командованием майора Магомедова отразили три атаки БПЛА",
+    "description": "Благодаря действиям майора боевая задача была выполнена без потерь",
+    "fullText": "Благодаря действиям майора боевая задача была выполнена без потерь",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26228071",
+    "time": "2026-01-22T21:01:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Бывший спартаковец, игравший с Погба и Рэшфордом. Вспомните его в «Комбо»?",
+    "description": "Сейчас играет на родине.",
+    "fullText": "Сейчас играет на родине.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/48/59dcea90b488193f06baa3105ca2a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/eg4h1n",
+    "time": "2026-01-22T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "23 факта про футбол Гренландии",
     "description": "Вы знали, что гол гренландца изменил судьбу «Челси»?",
@@ -11,17 +33,6 @@
     "time": "2026-01-22T17:42:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Соболенко в центре внимания – вместе с поездкой на Dubai Open-2026",
-    "description": "Выиграйте поездку на турнир.",
-    "fullText": "Выиграйте поездку на турнир.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/d1/08bbcfeff4d8690fd15b5fc479896.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iuixby",
-    "time": "2026-01-22T17:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Второй сезон «Фоллаута» стал шестым по просмотрам сериалом на Prime Video — он уступил «Ричеру» и «Кольцам власти»",
     "description": "Точные данные пока не раскрываются.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4738226-vtoroy-sezon-follauta-shestoe-mesto-prime-video?from=rss",
     "time": "2026-01-22T17:00:34.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
