@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ДОМ.РФ: объекты культурного наследия для бизнеса не бремя, но возможность",
-    "description": "Управляющий директор ДОМ.РФ Анатолий Азизов отметил, что \"комплексный подход дает правильную мультипликацию\"",
-    "fullText": "Управляющий директор ДОМ.РФ Анатолий Азизов отметил, что \"комплексный подход дает правильную мультипликацию\"",
+    "title": "Эксперимент с регистрацией мигрантов в RuID предлагают продлить до 2027 года",
+    "description": "В МВД рассказали о втором этапе этого эксперимента",
+    "fullText": "В МВД рассказали о втором этапе этого эксперимента",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26225579",
-    "time": "2026-01-22T14:42:58.000Z"
+    "url": "https://tass.ru/obschestvo/26226099",
+    "time": "2026-01-22T15:12:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В сети появился список достижений Highguard",
+    "description": "К релизу явно готовятся, даже если новостей пока нет.",
+    "fullText": "К релизу явно готовятся, даже если новостей пока нет.",
+    "image": "https://leonardo.osnova.io/5701ccbe-b45f-5d28-ad53-26a1edac0c96/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4737463-dostizheniya-highguard?from=rss",
+    "time": "2026-01-22T11:48:09.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "⭐ Новая суперзвезда НХЛ: Селебрини претендует на «Харт» уже в 19 лет",
-    "description": "Тащит «Сан-Хосе» в плей-офф.",
-    "fullText": "Тащит «Сан-Хосе» в плей-офф.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/11/bc011a7b445e08ae09217f4b1ea96.jpeg",
+    "title": "Осмысляем скандал года: ссора Бекхэмов – это смесь кринжа, иронии и саморекламы",
+    "description": "Лера Ли закатывает глаза.",
+    "fullText": "Лера Ли закатывает глаза.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/dc/9cb8aa14544f394889fc2c7532ffc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3378902.html",
-    "time": "2026-01-22T10:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ведущий дизайнер Skyrim и Starfield считает, что последняя не получилась «цельной игрой» из-за изменений в процессах Bethesda",
-    "description": "Тодд Говард якобы отвлекался на другие обязанности.",
-    "fullText": "Тодд Говард якобы отвлекался на другие обязанности.",
-    "image": "https://leonardo.osnova.io/2220332e-ee4f-537c-b735-8c82046de010/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4736969-dizayner-skyrim-schitaet-starfield-netselnoy-igroy-iz-za-izmeneniy-v-bethesda?from=rss",
-    "time": "2026-01-22T07:21:25.000Z"
+    "url": "https://www.sports.ru/football/blogs/3378892.html",
+    "time": "2026-01-22T11:10:00.000Z"
   }
 ]
