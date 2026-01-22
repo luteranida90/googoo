@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российские ученые развивают технологии ИИ на основе биоподобных моделей",
-    "description": "Нейроморфные устройства обрабатывают больше информации, тратя меньше энергии",
-    "fullText": "Нейроморфные устройства обрабатывают больше информации, тратя меньше энергии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/26217539",
-    "time": "2026-01-22T05:37:27.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Абсурдный трансфер ЦСКА: Вильягра полгода ждал дебюта, бегал по кругу – и вот теперь ушел",
     "description": "Дальше в Бразилию.",
@@ -34,13 +23,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Enshrouded выйдет из раннего доступа осенью",
-    "description": "Последний крупный апдейт в рамках дорелизной версии выпустят весной.",
-    "fullText": "Последний крупный апдейт в рамках дорелизной версии выпустят весной.",
-    "image": "https://leonardo.osnova.io/f4ad3e62-0061-5a28-9d33-133cbbf73511/",
+    "title": "В Steam вышла демоверсия Yakuza Kiwami 3",
+    "description": "Шанс получить представление об игре перед релизом.",
+    "fullText": "Шанс получить представление об игре перед релизом.",
+    "image": "https://leonardo.osnova.io/cce82e35-b771-5271-a556-e1ce3b8989ff/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4736030-enshrouded-vyydet-iz-ranniego-dostupa?from=rss",
-    "time": "2026-01-21T17:25:34.000Z"
+    "url": "https://dtf.ru/games/4735903-demoversiya-yakuza-kiwami-3-v-steam?from=rss",
+    "time": "2026-01-21T15:40:29.000Z"
   }
 ]
