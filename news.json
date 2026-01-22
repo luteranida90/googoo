@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Депутат Калашников: для Еревана пророссийская позиция является поводом к аресту",
+    "description": "При этом глава комитета Госдумы по делам СНГ подчеркнул, что Россия до сих пор считает Армению дружественной страной",
+    "fullText": "При этом глава комитета Госдумы по делам СНГ подчеркнул, что Россия до сих пор считает Армению дружественной страной",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26227069",
+    "time": "2026-01-22T17:33:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "СКА – «Спартак»: смотрим матч недели на ВидеоСпортсе’’",
     "description": "Прямая трансляция Fonbet КХЛ.",
@@ -11,15 +22,15 @@
     "time": "2026-01-22T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Final Fantasy VII Remake Intergrade на Switch 2 и Xbox Series X|S",
-    "description": "Специалисты DF назвали порт для консоли Nintendo «впечатляющим».",
-    "fullText": "Специалисты DF назвали порт для консоли Nintendo «впечатляющим».",
-    "image": "https://leonardo.osnova.io/99cc5318-f35c-5ef8-931b-62e857b6d52e/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4737810-reliz-final-fantasy-vii-remake-intergrade-na-switch-2-i-xbox-series-x-s?from=rss",
-    "time": "2026-01-22T14:02:31.000Z"
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Ротенберг давно не в СКА. А что изменилось при Ларионове?",
+    "description": "Спойлер: не так много.",
+    "fullText": "Спойлер: не так много.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/f1/4e2674c534cd78e05b6db50ce1e12.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3379055.html",
+    "time": "2026-01-22T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,14 +44,14 @@
     "time": "2026-01-22T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В баскетболе нет автоголов. Но что будет, если забросить в свое кольцо?",
-    "description": "На кого запишут очки?",
-    "fullText": "На кого запишут очки?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/4f/491f4d2214038853cb78bd3ad23b0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3377509.html",
-    "time": "2026-01-22T12:50:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Отечественные разработчики анонсировали Underchoice — симулятор смотрителя постапокалиптического убежища",
+    "description": "В Steam можно подать заявку на тестирование игры.",
+    "fullText": "В Steam можно подать заявку на тестирование игры.",
+    "image": "https://leonardo.osnova.io/26ba1ed1-0a6a-585d-bb65-9294f12531f5/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4737487-underchoice-simulator-smotritelya-postapokalipticheskogo-ubezhishcha?from=rss",
+    "time": "2026-01-22T12:21:27.000Z"
   }
 ]
