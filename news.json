@@ -1,21 +1,21 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кадыров заявил, что прямые линии представителей власти предотвращают манипуляции",
-    "description": "Эта работа противодействует информационным вбросам, отметил глава Чечни",
-    "fullText": "Эта работа противодействует информационным вбросам, отметил глава Чечни",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "\"Спартак\" в третий раз в сезоне КХЛ обыграл СКА",
+    "description": "Встреча завершилась со счетом 2:1 в пользу красно-белых",
+    "fullText": "Встреча завершилась со счетом 2:1 в пользу красно-белых",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260122/8760831.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26227427",
-    "time": "2026-01-22T18:27:39.000Z"
+    "url": "https://tass.ru/sport/26227521",
+    "time": "2026-01-22T18:44:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Спартак» перевернул матч против СКА! Показывали на ВидеоСпортсе’’",
     "description": "Георгиев – герой.",
     "fullText": "Георгиев – герой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/cf/3adc176df469e9812bc64f0edef2a.jpeg",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/37/e9b7ac41d4774b8cc7454d118d01a.png",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/A8EzBQL3S9SB3YoNpDktaC5RFm81ICYIX-w7mfJOU9o",
@@ -33,25 +33,25 @@
     "time": "2026-01-22T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Марти Великолепный» меня обманул",
-    "description": "Впечатления Ниткина.",
-    "fullText": "Впечатления Ниткина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6d/2ed10b1f5466ab81a993163ad7138.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3378921.html",
-    "time": "2026-01-22T14:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Акции Ubisoft упали на 30% после отмены шести игр и объявления о реструктуризации",
-    "description": "И сокращения прогноза по выручке.",
-    "fullText": "И сокращения прогноза по выручке.",
-    "image": "https://leonardo.osnova.io/a0777167-f5a3-5650-9705-9f315f5e3fb0/",
+    "title": "Super Mario Bros Wonder получит нативную версию для Switch 2 в марте — детали дополнительного контента",
+    "description": "Розалина станет играбельным персонажем.",
+    "fullText": "Розалина станет играбельным персонажем.",
+    "image": "https://leonardo.osnova.io/64be2992-b083-57bb-9ada-ce08f626c4c6/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4737807-aktsii-ubisoft-upali-na-34-posle-otmeny-shesti-igr?from=rss",
-    "time": "2026-01-22T13:06:47.000Z"
+    "url": "https://dtf.ru/games/4738117-super-mario-bros-wonder-dlya-switch-2?from=rss",
+    "time": "2026-01-22T15:56:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Мог час смотреть на марку и что-то себе представлять». Николай Писарев – филателист с огромной коллекцией",
+    "description": "Любовь Курчавова поговорила об увлечении.",
+    "fullText": "Любовь Курчавова поговорила об увлечении.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/9a/d28d7b8844b3ea819dfd73d95b7fa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3373973.html",
+    "time": "2026-01-22T14:50:00.000Z"
   }
 ]
