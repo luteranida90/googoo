@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пентагон представил прототип модификации танка Abrams с гибридным двигателем",
-    "description": "По информации агентства, боевое отделение танка сделано в стиле кабины пилота \"Формулы-1\"",
-    "fullText": "По информации агентства, боевое отделение танка сделано в стиле кабины пилота \"Формулы-1\"",
+    "title": "Китай выразил протест намерению ЕС исключить китайские компании из ключевых отраслей",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26218191",
-    "time": "2026-01-22T07:12:47.000Z"
+    "url": "https://tass.ru/ekonomika/26218611",
+    "time": "2026-01-22T07:32:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Интер» связался с Эми Мартинесом, Джеко едет во вторую Бундеслигу. Главные инсайды дня",
+    "description": "Here we go!",
+    "fullText": "Here we go!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/68/faaa184944abb9965bcbb0683213b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3378850.html",
+    "time": "2026-01-21T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-21T21:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Легендарный полуфинал ОИ-88: СССР против США. Есть чем восхититься и в наше время",
-    "description": "Великая победа.",
-    "fullText": "Великая победа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/41/b1ed1bbf44ff38f951d49781d094f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3358436.html",
-    "time": "2026-01-21T20:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam вышла демоверсия Yakuza Kiwami 3",
-    "description": "Шанс получить представление об игре перед релизом.",
-    "fullText": "Шанс получить представление об игре перед релизом.",
-    "image": "https://leonardo.osnova.io/cce82e35-b771-5271-a556-e1ce3b8989ff/",
+    "title": "Пятый сезон сериала «Ради всего человечества» с Юэлем Киннаманом стартует 27 марта",
+    "description": "Он будет состоять из десяти эпизодов.",
+    "fullText": "Он будет состоять из десяти эпизодов.",
+    "image": "https://leonardo.osnova.io/117d90ce-b49b-5729-9777-1da46478a41e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4735903-demoversiya-yakuza-kiwami-3-v-steam?from=rss",
-    "time": "2026-01-21T15:40:29.000Z"
+    "url": "https://dtf.ru/cinema/4735894-pyatyj-sezon-seriala-radi-vsego-chelovechestva?from=rss",
+    "time": "2026-01-21T15:57:03.000Z"
   }
 ]
