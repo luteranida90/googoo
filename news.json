@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Президент Чехии: европейские члены НАТО должны защищаться сами, не полагаясь на США",
-    "description": "Петр Павел отметил, что Евросоюз обладает достаточными экономическими и военными ресурсами для самостоятельной обороны",
-    "fullText": "Петр Павел отметил, что Евросоюз обладает достаточными экономическими и военными ресурсами для самостоятельной обороны",
+    "title": "Студентам ВВГУ выплатили почти 2 млн рублей за создание семей",
+    "description": "Для поддержки студенческих семей в регионе проходит межмуниципальный форум \"Моя семья, моя земля\"",
+    "fullText": "Для поддержки студенческих семей в регионе проходит межмуниципальный форум \"Моя семья, моя земля\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26223917",
-    "time": "2026-01-22T12:32:30.000Z"
+    "url": "https://tass.ru/obschestvo/26224727",
+    "time": "2026-01-22T13:36:08.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-01-22T11:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Фигурное катание наконец-то осознало, что оно на дне",
+    "description": "Кузнецов – о реформах ISU.",
+    "fullText": "Кузнецов – о реформах ISU.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4e/0cfd0ebd7424fa1b9bbf1e9b6976b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3378992.html",
+    "time": "2026-01-22T09:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Журнал от Спортса’’– главные события 2025 года",
     "description": "Вы можете заказать его.",
@@ -33,36 +44,14 @@
     "time": "2026-01-22T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Первая серия «Рыцаря Семи Королевств» – восторг! Все та же «Игра престолов»",
-    "description": "Комедия по-вестероски.",
-    "fullText": "Комедия по-вестероски.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/dc/2d42092cb4ac7af7e3a08fe57e6ca.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3378277.html",
-    "time": "2026-01-22T08:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мог час смотреть на марку и что-то себе представлять». Николай Писарев – филателист с огромной коллекцией",
-    "description": "Любовь Курчавова поговорила об увлечении.",
-    "fullText": "Любовь Курчавова поговорила об увлечении.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/9a/d28d7b8844b3ea819dfd73d95b7fa.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3373973.html",
-    "time": "2026-01-22T08:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывший художник по спецэффектам «Пиратов Карибского моря» ответил на критику Unreal Engine от Гора Вербински",
-    "description": "По его словам, раньше специалисты могли только мечтать о таком инструменте.",
-    "fullText": "По его словам, раньше специалисты могли только мечтать о таком инструменте.",
-    "image": "https://leonardo.osnova.io/d9d0bf66-3a2a-524b-a7e1-31620e3f35c6/",
+    "title": "Хендерсон: Beyond Good & Evil 2 всё ещё в разработке",
+    "description": "Долгострой пережил «чистку» в Ubisoft — по крайней мере, пока.",
+    "fullText": "Долгострой пережил «чистку» в Ubisoft — по крайней мере, пока.",
+    "image": "https://leonardo.osnova.io/24df06a2-5412-5649-bab7-a7cae27480d6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4736424-patrik-tubakh-o-kritike-unreal-engine?from=rss",
-    "time": "2026-01-21T19:56:15.000Z"
+    "url": "https://dtf.ru/games/4736866-khenderson-beyond-good-and-evil-2-vse-esche-razrabotke?from=rss",
+    "time": "2026-01-22T05:48:47.000Z"
   }
 ]
