@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Суд принял иск к Курской корпорации развития",
-    "description": "Прокурор Курской области обратился с заявлением в Арбитражный суд",
-    "fullText": "Прокурор Курской области обратился с заявлением в Арбитражный суд",
+    "title": "Новый авиамаршрут может связать Калининград с белорусским Гродно",
+    "description": "Возможность открытия рейса обсуждается",
+    "fullText": "Возможность открытия рейса обсуждается",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26221333",
-    "time": "2026-01-22T10:41:09.000Z"
+    "url": "https://tass.ru/ekonomika/26221275",
+    "time": "2026-01-22T11:10:03.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -45,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Топ-футбол многое берет из вселенной футзала. Рассказываем, за кем следить на Евро",
-    "description": "В среду стартовал чемпионат Европы.",
-    "fullText": "В среду стартовал чемпионат Европы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/5c/3caa939604d699438e9285aa643c2.jpeg",
+    "title": "Фермин тащит «Барсу» в ЛЧ, Левандовски забил в свои и чужие. Новый концерт!",
+    "description": "У Педри травма.",
+    "fullText": "У Педри травма.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/3d/bda931cc64e6a8cc31d5e0da5b1d8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/futsal/blogs/3378788.html",
-    "time": "2026-01-22T05:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3379023.html",
+    "time": "2026-01-22T06:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crimson Desert ушла «на золото»",
-    "description": "Игра выйдет 19 марта.",
-    "fullText": "Игра выйдет 19 марта.",
-    "image": "https://leonardo.osnova.io/379b3b3e-af66-5acc-bfd2-d365b7534e69/",
+    "title": "СМИ: Lionsgate договорилась о создании сериала в духе «Короны» об истории футбольного клуба «Манчестер Юнайтед»",
+    "description": "Работа пока на самых ранних этапах.",
+    "fullText": "Работа пока на самых ранних этапах.",
+    "image": "https://leonardo.osnova.io/719b4d60-c08b-59db-9c83-b6968c999901/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4735777-crimson-desert-zavershila-razrabotku?from=rss",
-    "time": "2026-01-21T14:56:36.000Z"
+    "url": "https://dtf.ru/cinema/4736031-lionsgate-snimayet-serial-o-manchester-yunayted-v-stile-korony?from=rss",
+    "time": "2026-01-21T17:57:46.000Z"
   }
 ]
