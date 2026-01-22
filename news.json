@@ -1,46 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "СКА – «Спартак»: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/cf/3adc176df469e9812bc64f0edef2a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/A8EzBQL3S9SB3YoNpDktaC5RFm81ICYIX-w7mfJOU9o",
+    "time": "2026-01-22T16:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперимент с регистрацией мигрантов в RuID предлагают продлить до 2027 года",
-    "description": "В МВД рассказали о втором этапе этого эксперимента",
-    "fullText": "В МВД рассказали о втором этапе этого эксперимента",
+    "title": "Замгендиректора технопарка в Челябинске арестовали по делу о взятке",
+    "description": "С июня 2024 года по март 2025 года фигурант получил через посредника 3 млн рублей",
+    "fullText": "С июня 2024 года по март 2025 года фигурант получил через посредника 3 млн рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26226099",
-    "time": "2026-01-22T15:12:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В сети появился список достижений Highguard",
-    "description": "К релизу явно готовятся, даже если новостей пока нет.",
-    "fullText": "К релизу явно готовятся, даже если новостей пока нет.",
-    "image": "https://leonardo.osnova.io/5701ccbe-b45f-5d28-ad53-26a1edac0c96/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4737463-dostizheniya-highguard?from=rss",
-    "time": "2026-01-22T11:48:09.000Z"
+    "url": "https://tass.ru/proisshestviya/26226545",
+    "time": "2026-01-22T16:11:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Раньше игроков продавали даже после истечения контрактов. Кто это поменял?",
-    "description": "Разбираемся в новом тексте.",
-    "fullText": "Разбираемся в новом тексте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/4c/728cd4e6b44adb63359bed4f837cf.png",
+    "title": "Назовите фаворитов третьего круга АО – и забирайте крутые призы",
+    "description": "В нашей фэнтези-игре.",
+    "fullText": "В нашей фэнтези-игре.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/06/6bcfbd81042e79c637e16a93b27c3.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/ctulsl",
-    "time": "2026-01-22T11:30:00.000Z"
+    "url": "https://sirena.world/jx1x5c",
+    "time": "2026-01-22T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Осмысляем скандал года: ссора Бекхэмов – это смесь кринжа, иронии и саморекламы",
-    "description": "Лера Ли закатывает глаза.",
-    "fullText": "Лера Ли закатывает глаза.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/dc/9cb8aa14544f394889fc2c7532ffc.jpeg",
+    "title": "«Бруклин» Дёмина ухудшил свое же достижение – меньше всех очков за матч",
+    "description": "За последние 10 лет.",
+    "fullText": "За последние 10 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/68/8ebe9b86a4f6eaab8a70a19ee29dd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3378892.html",
-    "time": "2026-01-22T11:10:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3379099.html",
+    "time": "2026-01-22T12:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Кинематографический провал»: оценки «Возвращения в Сайлент Хилл» — 6% «свежести» на Rotten Tomatoes",
+    "description": "Прокат фильма в РФ уже начался.",
+    "fullText": "Прокат фильма в РФ уже начался.",
+    "image": "https://leonardo.osnova.io/83f55e7e-426f-53a5-b741-aee93dbb71b9/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4736936-vozvrashchenie-v-sailent-khill?from=rss",
+    "time": "2026-01-22T07:26:44.000Z"
   }
 ]
