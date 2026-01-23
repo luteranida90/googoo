@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин пообщался с выпускниками Физтеха",
-    "description": "Они обратились к президенту РФ с просьбой рассмотреть возможность создания новой координационной модели для вуза",
-    "fullText": "Они обратились к президенту РФ с просьбой рассмотреть возможность создания новой координационной модели для вуза",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529949.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/26235979",
-    "time": "2026-01-23T14:36:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Откликайтесь на вакансию golang-разработчика – приходите работать в Спортс’’!",
     "description": "Here we go.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sprts.cc/w6hlyp",
     "time": "2026-01-23T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Макан и бои – история большой любви",
+    "description": "Изучаем глубины пацанского рэпа.",
+    "fullText": "Изучаем глубины пацанского рэпа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b6/eb4ed85e44a10821a9d2f98d04c32.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3378928.html",
+    "time": "2026-01-23T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2026-01-23T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Худший обмен лета выглядит еще непонятнее. «Пеликаны» не дождутся своего Йокича",
-    "description": "Дерик Куин не спасет.",
-    "fullText": "Дерик Куин не спасет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/35/7898b6b04428cae67574b066a8a62.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3379105.html",
-    "time": "2026-01-23T10:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Рыцарь Семи королевств» стартовал с 6,7 миллиона зрителей — это один из трёх лучших результатов для HBO Max",
-    "description": "В Warner Bros. Discovery не раскрыли других двух лидеров.",
-    "fullText": "В Warner Bros. Discovery не раскрыли других двух лидеров.",
-    "image": "https://leonardo.osnova.io/a05cc9ff-d4f9-5b65-857a-4b1f5381100d/",
+    "title": "Группа Thirty Seconds to Mars анонсировала переиздание альбома A Beautiful Lie с невыпущенными треками",
+    "description": "Один из них уже доступен.",
+    "fullText": "Один из них уже доступен.",
+    "image": "https://leonardo.osnova.io/d741d1d5-799c-5593-ac8e-5fce9293ed0a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4739209-rycar-semikorolevstv?from=rss",
-    "time": "2026-01-23T06:40:52.000Z"
+    "url": "https://dtf.ru/music/4739381-perezdanie-alboma-a-beautiful-lie-gruppy-thirty-seconds-to-mars?from=rss",
+    "time": "2026-01-23T08:32:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
