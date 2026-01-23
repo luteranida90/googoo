@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Украина получает 90% ракет-перехватчиков из США по программе PURL",
-    "description": "Согласно этому механизму, союзники по НАТО выкупают вооружения для Киева из американских запасов",
-    "fullText": "Согласно этому механизму, союзники по НАТО выкупают вооружения для Киева из американских запасов",
+    "title": "В Ростовской области на ремонт сетей потратят около 2,3 млрд рублей",
+    "description": "Протяженность сетей водоснабжения в регионе составляет около 24,5 тыс. км, из них изношено 74%",
+    "fullText": "Протяженность сетей водоснабжения в регионе составляет около 24,5 тыс. км, из них изношено 74%",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26231923",
-    "time": "2026-01-23T08:43:47.000Z"
+    "url": "https://tass.ru/ekonomika/26232217",
+    "time": "2026-01-23T09:19:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,6 +22,17 @@
     "time": "2026-01-23T07:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Самые богатые клубы мира: «Реал» и «Барселона» – лидеры, у «МЮ» рекордное падение",
+    "description": "Почти половина топ-20 – англичане.",
+    "fullText": "Почти половина топ-20 – англичане.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/66/4187ce5974e23980c8bb6587a3769.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3379303.html",
+    "time": "2026-01-23T06:05:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В каком возрасте Овечкин вошел в топ-100 снайперов НХЛ? Разбираем путь Ови",
     "description": "И разыгрываем шайбу с автографом.",
@@ -33,25 +44,14 @@
     "time": "2026-01-23T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Позор». Костылева провалила первый турнир после воссоединения с Плющенко",
-    "description": "Разнесла себя в КиКе.",
-    "fullText": "Разнесла себя в КиКе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a9/9753582af475dacb688327db55c5e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3379305.html",
-    "time": "2026-01-23T04:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Мы выживаем, но не живём»: первый трейлер анимационного сериала про Дарта Мола — Сэм Уитвер вернулся к роли",
-    "description": "Первые два эпизода выйдут 6 апреля.",
-    "fullText": "Первые два эпизода выйдут 6 апреля.",
-    "image": "https://leonardo.osnova.io/0cc54288-c2da-520c-a9dd-38224dab9bec/-/format/mp4/",
+    "title": "В EGS раздают Rustler (Grand Theft Horse) — игру о средневековом головорезе, вдохновлённую GTA",
+    "description": "Забрать, как и всегда, можно в течение недели.",
+    "fullText": "Забрать, как и всегда, можно в течение недели.",
+    "image": "https://leonardo.osnova.io/571e202c-1bc4-5487-9139-d26c5b110ee7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4738107-animatsionnyy-serial-zvezdnyye-voyny-dart-mol?from=rss",
-    "time": "2026-01-22T17:06:43.000Z"
+    "url": "https://dtf.ru/games/4738843-besplatnaya-razdacha-rustler-grand-theft-horse-v-epic-games-store?from=rss",
+    "time": "2026-01-22T21:23:26.000Z"
   }
 ]
