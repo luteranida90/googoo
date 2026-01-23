@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Зону поиска провалившихся под лед детей в Брянске расширили",
-    "description": "Водолазы проводят поисковые работы на противоположном берегу реки",
-    "fullText": "Водолазы проводят поисковые работы на противоположном берегу реки",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26235735",
-    "time": "2026-01-23T15:31:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Откликайтесь на вакансию golang-разработчика – приходите работать в Спортс’’!",
     "description": "Here we go.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Макан и бои – история большой любви",
-    "description": "Изучаем глубины пацанского рэпа.",
-    "fullText": "Изучаем глубины пацанского рэпа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b6/eb4ed85e44a10821a9d2f98d04c32.jpeg",
+    "title": "«Битва за ЛА» – главная вывеска «Недели противостояний НБА». Игра оправдала афишу",
+    "description": "Но что случилось с Лукой?",
+    "fullText": "Но что случилось с Лукой?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f3/a5b1736474fcb8fc00b938c21ccfd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3378928.html",
-    "time": "2026-01-23T11:35:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3379439.html",
+    "time": "2026-01-23T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Глава Nexon ожидал, что ARC Raiders добьётся вдвое меньших успехов",
-    "description": "Он также признал, что в вопросе использования ИИ важно прислушиваться к голосу игроков.",
-    "fullText": "Он также признал, что в вопросе использования ИИ важно прислушиваться к голосу игроков.",
-    "image": "https://leonardo.osnova.io/2f0df90b-bb84-5ade-a87a-2c93ff3e745f/",
+    "title": "Создатели Fable пояснили, почему в игре не будет трансформации облика в зависимости от решений — система морали работает иначе",
+    "description": "Генеральный менеджер также ответил на вопросы о платформах, обновлённом движке и размерах мира.",
+    "fullText": "Генеральный менеджер также ответил на вопросы о платформах, обновлённом движке и размерах мира.",
+    "image": "https://leonardo.osnova.io/5680f55f-aa2e-585e-bc55-36a0eba7e08d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4739420-glava-nexon-li-chonhun-o-prognozah-dlya-arc-raiders-i-ii?from=rss",
-    "time": "2026-01-23T09:09:08.000Z"
+    "url": "https://dtf.ru/games/4739159-sozdatelya-fable-o-sisteme-morali?from=rss",
+    "time": "2026-01-23T06:19:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
