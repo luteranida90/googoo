@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Ставрополье в ДТП погибли четыре человека",
-    "description": "Два ребенка пострадали",
-    "fullText": "Два ребенка пострадали",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Создан аналог человеческих костей для расширяющихся конечностей робота",
+    "description": "Легковесные конечности способны менять свою длину примерно в три раза, выдерживать большие нагрузки и сохранять стабильность в широком перечне условий",
+    "fullText": "Легковесные конечности способны менять свою длину примерно в три раза, выдерживать большие нагрузки и сохранять стабильность в широком перечне условий",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260123/8763701.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26237425",
-    "time": "2026-01-23T18:22:15.000Z"
+    "url": "https://tass.ru/nauka/26237599",
+    "time": "2026-01-23T19:02:23.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Beast of Reincarnation занимается «относительно небольшая» команда в Game Freak, но также «множество» сторонних студий",
-    "description": "Творческим процессом руководит именно основной коллектив.",
-    "fullText": "Творческим процессом руководит именно основной коллектив.",
-    "image": "https://leonardo.osnova.io/3afa2cc2-91f4-551d-a657-fa48cb1a4512/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4739876-beast-of-reincarnation-ot-game-freak?from=rss",
-    "time": "2026-01-23T14:28:10.000Z"
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Вильярреал» или «Мадрид»? Угадайте победителей в матчах Ла Лиги и заберите призы",
+    "description": "В Пикере Спортса”.",
+    "fullText": "В Пикере Спортса”.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/ff/6730fc95747ebb34acc480ae69dd6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/f7ti7u",
+    "time": "2026-01-23T19:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Если не Лапорта, то кто? Хотите, чтобы было как в «Эспаньоле»?» Лучшие комменты месяца",
+    "description": "Новая подборка.",
+    "fullText": "Новая подборка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c8/60c13d0ef4602bdbc78c6511d6a5a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3379057.html",
+    "time": "2026-01-23T14:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,14 +44,14 @@
     "time": "2026-01-23T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рублев «##### уважал» и вылетел, Бублик обалдел от соперника, Путинцева заткнула фанов. Пятница на Australian Open",
-    "description": "Итоги дня.",
-    "fullText": "Итоги дня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/01/4464cd16345b59beeaf2af50ab0f5.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3379391.html",
-    "time": "2026-01-23T13:40:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Для Cult of the Lamb вышло крупное DLC Woolhaven — оно стоит 620 рублей",
+    "description": "Самое большое, что выпускали для игры с релиза.",
+    "fullText": "Самое большое, что выпускали для игры с релиза.",
+    "image": "https://leonardo.osnova.io/a8585095-1e19-5e23-afb6-a497e9e7f66f/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
+    "time": "2026-01-23T09:16:35.000Z"
   }
 ]
