@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Создан аналог человеческих костей для расширяющихся конечностей робота",
-    "description": "Легковесные конечности способны менять свою длину примерно в три раза, выдерживать большие нагрузки и сохранять стабильность в широком перечне условий",
-    "fullText": "Легковесные конечности способны менять свою длину примерно в три раза, выдерживать большие нагрузки и сохранять стабильность в широком перечне условий",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260123/8763701.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/26237599",
-    "time": "2026-01-23T19:02:23.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Вильярреал» или «Мадрид»? Угадайте победителей в матчах Ла Лиги и заберите призы",
     "description": "В Пикере Спортса”.",
@@ -23,25 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Если не Лапорта, то кто? Хотите, чтобы было как в «Эспаньоле»?» Лучшие комменты месяца",
-    "description": "Новая подборка.",
-    "fullText": "Новая подборка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c8/60c13d0ef4602bdbc78c6511d6a5a.jpeg",
+    "title": "Чья оборона круче: «Ливерпуля» или «Арсенала» против «МЮ»? Что будет в туре АПЛ",
+    "description": "Фэнтези-дедлайн – 15:30 субботы.",
+    "fullText": "Фэнтези-дедлайн – 15:30 субботы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/81/87ce972b34d849db51e670e770427.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379057.html",
-    "time": "2026-01-23T14:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Откликайтесь на вакансию golang-разработчика – приходите работать в Спортс’’!",
-    "description": "Here we go.",
-    "fullText": "Here we go.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/98/a25bac8e34a53acbbfcea421b7770.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/w6hlyp",
-    "time": "2026-01-23T14:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3378770.html",
+    "time": "2026-01-23T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
     "time": "2026-01-23T09:16:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
