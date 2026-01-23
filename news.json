@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Фидан: Совет мира пока сосредоточен на проблеме сектора Газа",
+    "description": "Дискуссий о работе по другим регионам пока нет, отметил глава турецкого МИД",
+    "fullText": "Дискуссий о работе по другим регионам пока нет, отметил глава турецкого МИД",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26237799",
+    "time": "2026-01-23T19:38:26.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Вильярреал» или «Мадрид»? Угадайте победителей в матчах Ла Лиги и заберите призы",
     "description": "В Пикере Спортса”.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чья оборона круче: «Ливерпуля» или «Арсенала» против «МЮ»? Что будет в туре АПЛ",
-    "description": "Фэнтези-дедлайн – 15:30 субботы.",
-    "fullText": "Фэнтези-дедлайн – 15:30 субботы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/81/87ce972b34d849db51e670e770427.jpeg",
+    "title": "Преображение года в НБА: диковатый парень из «Юты» взялся за ум и получит много денег",
+    "description": "Повзрослел.",
+    "fullText": "Повзрослел.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/26/c23e3cd1041fd86d5edcd0626f9be.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3378770.html",
-    "time": "2026-01-23T14:40:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3379294.html",
+    "time": "2026-01-23T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
     "time": "2026-01-23T09:16:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
