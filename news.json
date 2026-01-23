@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Мурманской области из-за отключений света ввели режим повышенной готовности",
+    "description": "Аварийные и оперативные службы работают в усиленном, круглосуточном режиме",
+    "fullText": "Аварийные и оперативные службы работают в усиленном, круглосуточном режиме",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260124/8763821.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26237955",
+    "time": "2026-01-23T22:08:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Вильярреал» или «Мадрид»? Угадайте победителей в матчах Ла Лиги и заберите призы",
     "description": "В Пикере Спортса”.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
     "time": "2026-01-23T09:16:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
