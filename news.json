@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сержант Колхиев спас группу бойцов РФ от атаки FPV-дрона",
-    "description": "Российский военнослужащий открыл огонь по беспилотнику из стрелкового оружия",
-    "fullText": "Российский военнослужащий открыл огонь по беспилотнику из стрелкового оружия",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26238005",
-    "time": "2026-01-23T21:01:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Вильярреал» или «Мадрид»? Угадайте победителей в матчах Ла Лиги и заберите призы",
     "description": "В Пикере Спортса”.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "23 факта про футбол Гренландии",
-    "description": "Вы знали, что гол гренландца изменил судьбу «Челси»?",
-    "fullText": "Вы знали, что гол гренландца изменил судьбу «Челси»?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/09/a9966a8154e7aaa11c4d1c0cfeb56.jpeg",
+    "title": "Угадаете по детскому фото обладателя Кубка Гагарина? А рекодсмена КХЛ?",
+    "description": "Сложный тест на знание звезд!",
+    "fullText": "Сложный тест на знание звезд!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/ac7d85de74ad3a8ee91be7b1daaef.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379081.html",
-    "time": "2026-01-23T15:07:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3378538.html",
+    "time": "2026-01-23T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
     "time": "2026-01-23T09:16:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
