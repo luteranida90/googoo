@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Садовничий: новый спутник МГУ будет искать экзопланеты",
-    "description": "Ректор вуза рассказал, что университет готовит космическую программу",
-    "fullText": "Ректор вуза рассказал, что университет готовит космическую программу",
+    "title": "\"Укрэнерго\": на Украине сильно ухудшилась ситуация с выработкой электроэнергии",
+    "description": "В компании отметили, что причиной послужил аварийный ремонт нескольких объектов генерации",
+    "fullText": "В компании отметили, что причиной послужил аварийный ремонт нескольких объектов генерации",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/26235039",
-    "time": "2026-01-23T13:24:01.000Z"
+    "url": "https://tass.ru/ekonomika/26235613",
+    "time": "2026-01-23T14:09:10.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рублев «##### уважал» и вылетел, Бублик обалдел от соперника, Путинцева заткнула фанов. Пятница на Australian Open",
-    "description": "Итоги дня.",
-    "fullText": "Итоги дня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/01/4464cd16345b59beeaf2af50ab0f5.png",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Откликайтесь на вакансию golang-разработчика – приходите работать в Спортс’’!",
+    "description": "Here we go.",
+    "fullText": "Here we go.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/98/a25bac8e34a53acbbfcea421b7770.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3379391.html",
-    "time": "2026-01-23T09:50:00.000Z"
+    "url": "https://sprts.cc/w6hlyp",
+    "time": "2026-01-23T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выйдет ли Соболенко в полуфинал Australian Open? Решайте в нашем проекте",
-    "description": "И забирайте призы.",
-    "fullText": "И забирайте призы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/86/9aed2d4ef4d2cb3a5c8655a463a4d.webp",
+    "title": "Кто забьет в новом туре Серии А?",
+    "description": "Выберите 5 игроков в Основе на эти выходные.",
+    "fullText": "Выберите 5 игроков в Основе на эти выходные.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/6b/3ac6255d849b8b668606ead742ea3.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/ao-tennis-bingo/?utm_source=native",
-    "time": "2026-01-23T09:30:00.000Z"
+    "url": "https://sirena.world/hiaqf5",
+    "time": "2026-01-23T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как устроены трансферы «Акрона»? Интервью бывшего директора, которого критиковали Дзюба и Тедеев",
+    "description": "Дорский расспросил.",
+    "fullText": "Дорский расспросил.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e8/c9b1eaaaa4363ae1d72d32259e00b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3377157.html",
+    "time": "2026-01-23T10:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Детали и геймплей Forza Horizon 6 — игра выйдет 19 мая",
-    "description": "И на четыре дня раньше для владельцев расширенного издания.",
-    "fullText": "И на четыре дня раньше для владельцев расширенного издания.",
-    "image": "https://leonardo.osnova.io/2a3660ac-126d-5f97-8d1e-91fbb6cccf8a/-/format/mp4/",
+    "title": "Fable от Playground выйдет осенью 2026 года на ПК, Xbox Series X|S и PS5 — подробности и геймплей",
+    "description": "Очень много куриц.",
+    "fullText": "Очень много куриц.",
+    "image": "https://leonardo.osnova.io/a1ca0d65-ec91-5911-8550-f9361510aa62/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4738246-forza-horizon-6-data-vyhoda-i-gejmplej-igry-v-yaponii?from=rss",
-    "time": "2026-01-22T18:19:19.000Z"
+    "url": "https://dtf.ru/games/4738378-fable-ot-playground-vykhod-osenyu-2026-goda?from=rss",
+    "time": "2026-01-22T18:53:35.000Z"
   }
 ]
