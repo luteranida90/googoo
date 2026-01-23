@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Зону поиска провалившихся под лед детей в Брянске расширили",
+    "description": "Водолазы проводят поисковые работы на противоположном берегу реки",
+    "fullText": "Водолазы проводят поисковые работы на противоположном берегу реки",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26235735",
+    "time": "2026-01-23T15:31:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Откликайтесь на вакансию golang-разработчика – приходите работать в Спортс’’!",
     "description": "Here we go.",
@@ -22,36 +33,14 @@
     "time": "2026-01-23T11:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто забьет в новом туре Серии А?",
-    "description": "Выберите 5 игроков в Основе на эти выходные.",
-    "fullText": "Выберите 5 игроков в Основе на эти выходные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/6b/3ac6255d849b8b668606ead742ea3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/hiaqf5",
-    "time": "2026-01-23T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Группа Thirty Seconds to Mars анонсировала переиздание альбома A Beautiful Lie с невыпущенными треками",
-    "description": "Один из них уже доступен.",
-    "fullText": "Один из них уже доступен.",
-    "image": "https://leonardo.osnova.io/d741d1d5-799c-5593-ac8e-5fce9293ed0a/",
+    "title": "Глава Nexon ожидал, что ARC Raiders добьётся вдвое меньших успехов",
+    "description": "Он также признал, что в вопросе использования ИИ важно прислушиваться к голосу игроков.",
+    "fullText": "Он также признал, что в вопросе использования ИИ важно прислушиваться к голосу игроков.",
+    "image": "https://leonardo.osnova.io/2f0df90b-bb84-5ade-a87a-2c93ff3e745f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/4739381-perezdanie-alboma-a-beautiful-lie-gruppy-thirty-seconds-to-mars?from=rss",
-    "time": "2026-01-23T08:32:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4739420-glava-nexon-li-chonhun-o-prognozah-dlya-arc-raiders-i-ii?from=rss",
+    "time": "2026-01-23T09:09:08.000Z"
   }
 ]
