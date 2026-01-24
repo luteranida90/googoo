@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Белый дом: Европа медленно убивает сама себя",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Захарян не нужен «Сосьедаду»? Тревожный инсайд из Испании",
+    "description": "И куда тогда?",
+    "fullText": "И куда тогда?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/68/44b4d1f8846b99c75ecae6721778b.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26238815",
-    "time": "2026-01-24T03:27:25.000Z"
+    "url": "https://www.sports.ru/football/blogs/3379456.html",
+    "time": "2026-01-23T19:16:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-23T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Девушка, которая вдохновляет главный прорыв последнего года в теннисе. Кто она?",
-    "description": "Валентин Вашеро + Эмили Снайдер.",
-    "fullText": "Валентин Вашеро + Эмили Снайдер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f6/9d9f52f2e465cbd8dc443b4d2d34f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3379454.html",
-    "time": "2026-01-23T18:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Для Cult of the Lamb вышло крупное DLC Woolhaven — оно стоит 620 рублей",
     "description": "Самое большое, что выпускали для игры с релиза.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
     "time": "2026-01-23T09:16:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
