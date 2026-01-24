@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Подмосковье объявили желтый уровень погодной опасности из-за мороза",
-    "description": "В отдельных районах ожидается мороз до 30 градусов",
-    "fullText": "В отдельных районах ожидается мороз до 30 градусов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26242075",
-    "time": "2026-01-24T18:10:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Невероятный камбэк Медведева на AO-2026. Теперь ждем его в полуфинале?",
     "description": "Решайте в «Теннисном бинго».",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Трансферные цели каждого клуба РПЛ: кого купить, а кого продать?",
-    "description": "Суммирует Андрей Савин.",
-    "fullText": "Суммирует Андрей Савин.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/57/0a924adc3470d9169fa2bbc2636a3.jpeg",
+    "title": "UFC мощно врывается в 2026-й: Умар, Гейджи и О’Мэлли – на одном турнире в Лас-Вегасе",
+    "description": "Следим в онлайне.",
+    "fullText": "Следим в онлайне.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/cc/126a24fe84d4fbd766b4062f66f11.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379487.html",
-    "time": "2026-01-24T14:20:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3376650.html",
+    "time": "2026-01-24T14:52:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740059-control-resonant-ot-remedy-vyidet-do-kontsa-vtoroogo-kvartala?from=rss",
     "time": "2026-01-23T15:25:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
