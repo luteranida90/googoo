@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В метро Киева движение поездов регулируется в ручном режиме",
-    "description": "Это связано с перебоями электроэнергии",
-    "fullText": "Это связано с перебоями электроэнергии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "5 лет назад было объявлено о запуске Суперлиги. Вспомните все клубы-основатели?",
+    "description": "Всего их 12.",
+    "fullText": "Всего их 12.",
+    "image": "https://photobooth.cdn.sports.ru/preset/news/a/85/73ce34eb340f5bb033f048556ff60.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26239313",
-    "time": "2026-01-24T06:50:39.000Z"
+    "url": "https://sirena.world/xxwhr4",
+    "time": "2026-01-24T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2026-01-23T21:53:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сравниваем карьеру Дёмина с другими российскими игроками в НБА",
-    "description": "И разыгрываем джерси.",
-    "fullText": "И разыгрываем джерси.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/38/68f3bfeb44cfabdc996fedf4ff9b4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/s54ikt",
-    "time": "2026-01-23T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Для Cult of the Lamb вышло крупное DLC Woolhaven — оно стоит 620 рублей",
     "description": "Самое большое, что выпускали для игры с релиза.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4739435-cult-of-the-lamb-dlc-woolhaven?from=rss",
     "time": "2026-01-23T09:16:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
