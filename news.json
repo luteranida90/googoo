@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Подмосковье в ДТП с микроавтобусом пострадали три человека",
+    "description": "Инцидент произошел в Домодедове",
+    "fullText": "Инцидент произошел в Домодедове",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26242515",
+    "time": "2026-01-24T20:19:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Инсайды о новом фигурном календаре: небывало длинный сезон",
+    "description": "Багрянцева разобралась.",
+    "fullText": "Багрянцева разобралась.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/b5/cffa12392446cbf6934da54042ea4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3379319.html",
+    "time": "2026-01-24T16:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Невероятный камбэк Медведева на AO-2026. Теперь ждем его в полуфинале?",
     "description": "Решайте в «Теннисном бинго».",
@@ -11,17 +33,6 @@
     "time": "2026-01-24T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Арсенал» зовет Альвареса, «Челси» нужен защитник «Баварии». Главные инсайды дня",
-    "description": "Here we go!",
-    "fullText": "Here we go!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/cc/5a50fc4f94b2fb67f9167c2a8cc2b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379707.html",
-    "time": "2026-01-24T15:31:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Аналитики ожидают, что Remedy выпустит Control Resonant до конца второго квартала 2026 года",
     "description": "Гораздо быстрее, чем предполагалось.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740059-control-resonant-ot-remedy-vyidet-do-kontsa-vtoroogo-kvartala?from=rss",
     "time": "2026-01-23T15:25:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
