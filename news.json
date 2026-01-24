@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Мурманске открыли второй круглосуточный пункт обогрева",
+    "description": "Он расположился в Детской художественной школе",
+    "fullText": "Он расположился в Детской художественной школе",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26242663",
+    "time": "2026-01-24T21:28:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Разыгрываем джерси Дёмина из «Бруклина». С автографом!",
     "description": "Тест из 10 вопросов.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740059-control-resonant-ot-remedy-vyidet-do-kontsa-vtoroogo-kvartala?from=rss",
     "time": "2026-01-23T15:25:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
