@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Медведев: РФ готова к любому развитию событий",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26246667",
-    "time": "2026-01-25T21:09:47.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Бывший спартаковец, игравший с Погба и Рэшфордом. Вспомните его в «Комбо»?",
-    "description": "Сейчас играет на родине.",
-    "fullText": "Сейчас играет на родине.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/48/59dcea90b488193f06baa3105ca2a.png",
+    "title": "Как фанат «МЮ» мог бы отблагодарить Сульшера? Решаем в новом тесте",
+    "description": "Tak, Gak или Bak?",
+    "fullText": "Tak, Gak или Bak?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/c7/d75d2230e4c0f9b91ffb60c155e3f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/eg4h1n",
-    "time": "2026-01-25T17:20:00.000Z"
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-25T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фильм про «Ф-1» с Питтом номинирован на «Оскар». Заслуживает?",
-    "description": "Да!",
-    "fullText": "Да!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d2/bb4c4bfa44711a090c701f84890b2.jpeg",
+    "title": "2016-й – прайм-эра в фигурном катании: рекорды Медведевой, переход Трусовой к Тутберидзе и прыжки японцев",
+    "description": "Крутихина в тренде.",
+    "fullText": "Крутихина в тренде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/26/7b3b231fc4c25b0678fba57a4bb0a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3379392.html",
-    "time": "2026-01-25T16:55:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3378985.html",
+    "time": "2026-01-25T17:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4740353-dzheyms-gann-predstavil-lobo-s-dzheysonom-momoa?from=rss",
     "time": "2026-01-23T17:39:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
