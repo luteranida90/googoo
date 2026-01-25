@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ким Чен Ын руководил изготовлением скульптур в честь подвигов военных КНДР",
+    "description": "Памятник установят в Мемориальном музее, сообщило Центральное телеграфное агентство Кореи",
+    "fullText": "Памятник установят в Мемориальном музее, сообщило Центральное телеграфное агентство Кореи",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26246875",
+    "time": "2026-01-25T22:25:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Спаллетти разгромил Конте – встретились лишь 2-й раз в жизни! Оба отстают в гонке за титулом",
+    "description": "Как они бегали друг от друга?",
+    "fullText": "Как они бегали друг от друга?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/63/1dd0e9f274d4eab64a28d7f37e74b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3379449.html",
+    "time": "2026-01-25T19:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как фанат «МЮ» мог бы отблагодарить Сульшера? Решаем в новом тесте",
     "description": "Tak, Gak или Bak?",
@@ -11,17 +33,6 @@
     "time": "2026-01-25T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что за бред, как он так закрутил мяч?",
-    "description": "Чудо от Валентина Вашеро.",
-    "fullText": "Чудо от Валентина Вашеро.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d6/5e0031a2242f8ac01c90faf1d6555.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3379666.html",
-    "time": "2026-01-25T18:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "DC Studios показала ролик с Лобо в исполнении Джейсона Момоа — он появится в «Супергёрл»",
     "description": "Актёр давно мечтал об этой роли.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4740353-dzheyms-gann-predstavil-lobo-s-dzheysonom-momoa?from=rss",
     "time": "2026-01-23T17:39:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
