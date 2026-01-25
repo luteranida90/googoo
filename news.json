@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Степанов: США в Гренландии хотят создать базу снабжения атомного флота",
-    "description": "Вашингтон должен \"обеспечить милитаризацию арктического направления в рамках стратегии присутствия и доминирования США на арктическом пространстве\", указал военный эксперт Института права и национальной безопасности РАНХиГС",
-    "fullText": "Вашингтон должен \"обеспечить милитаризацию арктического направления в рамках стратегии присутствия и доминирования США на арктическом пространстве\", указал военный эксперт Института права и национальной безопасности РАНХиГС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26242825",
-    "time": "2026-01-25T00:04:11.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Разыгрываем джерси Дёмина из «Бруклина». С автографом!",
     "description": "Тест из 10 вопросов.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Белые платки – символ протеста в испанском футболе. Так требовали отставки Переса и давили на боссов «Барсы»",
-    "description": "Традиция пришла из корриды.",
-    "fullText": "Традиция пришла из корриды.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c5/c72a31b2e4bdf89905ba283440d51.jpeg",
+    "title": "Угадаете по детскому фото обладателя Кубка Гагарина? А рекодсмена КХЛ?",
+    "description": "Сложный тест на знание звезд!",
+    "fullText": "Сложный тест на знание звезд!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/ac7d85de74ad3a8ee91be7b1daaef.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3378094.html",
-    "time": "2026-01-24T16:57:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3378538.html",
+    "time": "2026-01-24T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740059-control-resonant-ot-remedy-vyidet-do-kontsa-vtoroogo-kvartala?from=rss",
     "time": "2026-01-23T15:25:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
