@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Кисловодске прошел первый студенческий турнир по фиджитал-спорту",
-    "description": "В соревнованиях приняли участие более 100 человек из учебных заведений Ставропольского края",
-    "fullText": "В соревнованиях приняли участие более 100 человек из учебных заведений Ставропольского края",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260125/8765309.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "В «Ф-1» рекордно короткое межсезонье. Здоровье гонщиков в опасности?",
+    "description": "Тренер и психотерапевт объясняют.",
+    "fullText": "Тренер и психотерапевт объясняют.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/5e/1ef184f424175acba3bd467d80892.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/26245527",
-    "time": "2026-01-25T14:36:33.000Z"
+    "url": "https://www.sports.ru/health/blogs/3379356.html",
+    "time": "2026-01-25T11:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-25T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Даниила Медведева деклассировали",
-    "description": "Тьен вынес.",
-    "fullText": "Тьен вынес.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/12/9870d8822465592b1d09d5bf35c06.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3379874.html",
-    "time": "2026-01-25T11:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Переработка локаций и дополнительная карта в апреле — разработчики ARC Raiders рассказали о планах до мая 2026 года",
     "description": "В игре также появятся новые типы врагов.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740310-obnovleniya-v-arc-raiders-do-maja-2026-goda?from=rss",
     "time": "2026-01-23T17:52:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
