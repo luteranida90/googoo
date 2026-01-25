@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Средства ПВО России сбили за сутки 31 снаряд системы HIMARS",
+    "description": "ВС РФ также сбили 68 беспилотных летательных аппаратов самолетного типа",
+    "fullText": "ВС РФ также сбили 68 беспилотных летательных аппаратов самолетного типа",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26244155",
+    "time": "2026-01-25T09:07:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "ChatGPT подсказал Роберту Морено, чтобы игроки не спали 28 часов перед Хабаровском",
+    "description": "Истории о «Сочи» от экс-директора Андрея Орлова.",
+    "fullText": "Истории о «Сочи» от экс-директора Андрея Орлова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/2a/dbedd0d294d07b869c8a46b9d92bb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3379202.html",
+    "time": "2026-01-25T04:46:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой наряд Уильямс поменял правила на «Ролан Гаррос»?",
     "description": "Узнайте в новом тесте.",
@@ -11,36 +33,14 @@
     "time": "2026-01-25T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Инсайды о новом фигурном календаре: небывало длинный сезон",
-    "description": "Багрянцева разобралась.",
-    "fullText": "Багрянцева разобралась.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/b5/cffa12392446cbf6934da54042ea4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3379319.html",
-    "time": "2026-01-25T04:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Аналитики ожидают, что Remedy выпустит Control Resonant до конца второго квартала 2026 года",
-    "description": "Гораздо быстрее, чем предполагалось.",
-    "fullText": "Гораздо быстрее, чем предполагалось.",
-    "image": "https://leonardo.osnova.io/1864f128-4e04-51ed-a1c1-af46aa319562/",
+    "title": "Страницу автора VR-мода для Cyberpunk 2077 заблокировали на Patreon — на него пожаловался издатель Ghostrunner",
+    "description": "Моддер собирается решить вопрос юридическим путём.",
+    "fullText": "Моддер собирается решить вопрос юридическим путём.",
+    "image": "https://leonardo.osnova.io/5d36c05a-e441-577c-89b0-955434fab404/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4740059-control-resonant-ot-remedy-vyidet-do-kontsa-vtoroogo-kvartala?from=rss",
-    "time": "2026-01-23T15:25:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4740003-zablokirovan-vr-mod-dlya-cyberpunk-2077-iz-za-zhaloby-ghostrunner?from=rss",
+    "time": "2026-01-23T15:00:17.000Z"
   }
 ]
