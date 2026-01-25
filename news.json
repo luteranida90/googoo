@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В «Ф-1» рекордно короткое межсезонье. Здоровье гонщиков в опасности?",
-    "description": "Тренер и психотерапевт объясняют.",
-    "fullText": "Тренер и психотерапевт объясняют.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/5e/1ef184f424175acba3bd467d80892.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Ъ\": НСФР предложил исключить право ЦБ устанавливать срок действия банковских карт",
+    "description": "В письме отмечается, что срок действия карт определяется договором банка с клиентом, а предоставление такого права ЦБ рассматривается как вмешательство в гражданско-правовые отношения",
+    "fullText": "В письме отмечается, что срок действия карт определяется договором банка с клиентом, а предоставление такого права ЦБ рассматривается как вмешательство в гражданско-правовые отношения",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260125/8765337.jpg",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3379356.html",
-    "time": "2026-01-25T11:40:00.000Z"
+    "url": "https://tass.ru/ekonomika/26245617",
+    "time": "2026-01-25T15:15:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Разыгрываем джерси Дёмина из «Бруклина». С автографом!",
-    "description": "Тест из 10 вопросов.",
-    "fullText": "Тест из 10 вопросов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/35/db557fc754bcaac76a53111e44061.png",
+    "title": "Синнер в полуфинале Australian Open – да или нет?",
+    "description": "Делайте прогнозы и получайте призы.",
+    "fullText": "Делайте прогнозы и получайте призы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/bd/f25cf58214687af9dde01a9c5b874.webp",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/s54ikt",
-    "time": "2026-01-25T11:30:00.000Z"
+    "url": "https://sirena.sports.ru/ao-tennis-bingo/?utm_source=native",
+    "time": "2026-01-25T13:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мы увидели худший титульник в истории UFC",
+    "description": "Самое странное – всем понравилось.",
+    "fullText": "Самое странное – всем понравилось.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ee/e76fc5bb7495d9751023842dc76f6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3379857.html",
+    "time": "2026-01-25T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740310-obnovleniya-v-arc-raiders-do-maja-2026-goda?from=rss",
     "time": "2026-01-23T17:52:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
