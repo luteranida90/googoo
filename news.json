@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Володин рассказал о принятых в поддержку студентов и вузов законах",
-    "description": "С начала VIII созыва Госдума приняла порядка таких 30 федеральных законов",
-    "fullText": "С начала VIII созыва Госдума приняла порядка таких 30 федеральных законов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250331/8148659.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26243907",
-    "time": "2026-01-25T08:03:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой наряд Уильямс поменял правила на «Ролан Гаррос»?",
     "description": "Узнайте в новом тесте.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Девушка, которая вдохновляет главный прорыв последнего года в теннисе. Кто она?",
-    "description": "Валентин Вашеро + Эмили Снайдер.",
-    "fullText": "Валентин Вашеро + Эмили Снайдер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f6/9d9f52f2e465cbd8dc443b4d2d34f.jpeg",
+    "title": "Инсайды о новом фигурном календаре: небывало длинный сезон",
+    "description": "Багрянцева разобралась.",
+    "fullText": "Багрянцева разобралась.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/b5/cffa12392446cbf6934da54042ea4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3379454.html",
-    "time": "2026-01-25T03:10:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3379319.html",
+    "time": "2026-01-25T04:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4740059-control-resonant-ot-remedy-vyidet-do-kontsa-vtoroogo-kvartala?from=rss",
     "time": "2026-01-23T15:25:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
