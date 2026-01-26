@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Коми преподавателю центра МВД ужесточили меру пресечения",
-    "description": "Владимир Опарин переведен из-под домашнего ареста в СИЗО",
-    "fullText": "Владимир Опарин переведен из-под домашнего ареста в СИЗО",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26249711",
-    "time": "2026-01-26T08:12:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как фанат «МЮ» мог бы отблагодарить Сульшера? Решаем в новом тесте",
     "description": "Tak, Gak или Bak?",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ямаль положил ножницами! «Барса» вернулась на 1-е место, скинули «Реал» обратно",
-    "description": "Хотя 1-й тайм был плохой.",
-    "fullText": "Хотя 1-й тайм был плохой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/50/0f367bad74863b97db9e7ea78b5a3.jpeg",
+    "title": "«МЮ» Кэррика взял 2-й топ-матч подряд. Как убрали «Арсенал»: разбор Лукомского и Палагина",
+    "description": "Разобрался с Артетой.",
+    "fullText": "Разобрался с Артетой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6a/d92fab8054b00b00186d04e504458.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379992.html",
-    "time": "2026-01-25T21:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380063.html",
+    "time": "2026-01-25T22:33:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "С выходом кооператива No Rest for the Wicked побила свой рекорд онлайна в Steam — больше 42 тысяч игроков",
-    "description": "Экшен от авторов Ori всё ещё находится в раннем доступе.",
-    "fullText": "Экшен от авторов Ori всё ещё находится в раннем доступе.",
-    "image": "https://leonardo.osnova.io/a02171e4-90b2-52ab-b6d1-0e1d5c108e52/",
+    "title": "Разработчики Palworld рассматривают только резюме тех геймдизайнеров, которые показывают им свою активность в Steam",
+    "description": "Если специалист играет только на других устройствах, его не станут рассматривать «из принципа».",
+    "fullText": "Если специалист играет только на других устройствах, его не станут рассматривать «из принципа».",
+    "image": "https://leonardo.osnova.io/f6a3040d-d097-5419-9d04-78505e53257e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4741733-no-rest-for-the-wicked-rekord-onlaina?from=rss",
-    "time": "2026-01-24T13:26:40.000Z"
+    "url": "https://dtf.ru/gameindustry/4741831-razrabotchiki-palworld-trebuyut-aktivnost-v-steam?from=rss",
+    "time": "2026-01-24T14:26:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
