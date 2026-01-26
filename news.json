@@ -1,57 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Я что, лох – радоваться победе?» Философия главного российского капитана в CS",
-    "description": "Его команда впервые победила.",
-    "fullText": "Его команда впервые победила.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/be/63746d743492c894dc865b1a773ec.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3380069.html",
-    "time": "2026-01-26T10:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Хаос на Australian Open! Если вы знаете, что будет дальше – делайте прогноз в нашем бинго",
-    "description": "Участвуйте и выигрывайте призы.",
-    "fullText": "Участвуйте и выигрывайте призы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/80/ee1d04e834108ab7f00eae06607e0.webp",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/ao-tennis-bingo/?utm_source=native",
-    "time": "2026-01-26T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Скотти Барнс накрыл Холмгрена (2,16 м) при решающем броске. «Оклахома» не побьет рекорд «Уорриорс»",
-    "description": "Отличная защита.",
-    "fullText": "Отличная защита.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/03/2af8b7c8e440b9095eb503a7f955d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3380097.html",
-    "time": "2026-01-26T09:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Инсайдер: ремейк Prince of Persia был готов на 99%",
-    "description": "Разработчикам оставалось устранить ошибки.",
-    "fullText": "Разработчикам оставалось устранить ошибки.",
-    "image": "https://leonardo.osnova.io/422c5e11-ed53-53cf-af87-159abddaf1da/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4743727-remejk-prince-of-persia-byil-pochemu-otmenyon?from=rss",
-    "time": "2026-01-25T15:04:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "В Петербурге мужчину осудили за попытку мошенничества на 70 млн рублей",
+    "description": "Фигурант получил четыре года лишения свободы в исправительной колонии общего режима",
+    "fullText": "Фигурант получил четыре года лишения свободы в исправительной колонии общего режима",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/proisshestviya/26253571",
+    "time": "2026-01-26T14:10:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Впервые с 2018-го ни одного россиянина в 1/4 AO. Выберете, за кого теперь будете болеть?",
+    "description": "Джокович, Рыбакина или Зверев?",
+    "fullText": "Джокович, Рыбакина или Зверев?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/29/11f7d5573475fa097ad4846b0222d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/jx1x5c",
+    "time": "2026-01-26T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как играть по 60 минут и забивать больше Кордобы и Даку? Брайан Хиль научит",
+    "description": "Андрей Савин – с рассказом о лидере «Балтики».",
+    "fullText": "Андрей Савин – с рассказом о лидере «Балтики».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/73/539b966994bf8bddc202955974e27.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3379273.html",
+    "time": "2026-01-26T10:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Microsoft постарается быть более «последовательной» с релизом портов для PS5 и Switch",
+    "description": "Forza Horizon 6 выйдет на PS5 позже из-за «реалий разработки», а не по каким-то другим причинам.",
+    "fullText": "Forza Horizon 6 выйдет на PS5 позже из-за «реалий разработки», а не по каким-то другим причинам.",
+    "image": "https://leonardo.osnova.io/3b7f97c3-96d0-55c4-8ccc-2765d7945f5c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4744848-microsoft-uluchshit-podderzhku-releza-dlya-ps5-i-switch?from=rss",
+    "time": "2026-01-26T06:10:17.000Z"
   }
 ]
