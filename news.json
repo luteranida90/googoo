@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Омбудсмен Херсонщины предложит наградить погибших сотрудников больницы Алешек",
+    "description": "Все медработники в прифронтовой зоне являются героями, подчеркнул уполномоченный по правам человека в Херсонской области Сергей Георгиев",
+    "fullText": "Все медработники в прифронтовой зоне являются героями, подчеркнул уполномоченный по правам человека в Херсонской области Сергей Георгиев",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26255145",
+    "time": "2026-01-26T17:13:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Впервые с 2018-го ни одного россиянина в 1/4 AO. Выберите, за кого теперь будете болеть",
     "description": "Джокович, Рыбакина или Зверев?",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Вся сборная на ушах». Легкоатлеты бунтуют против переноса ЧР на Сахалин",
-    "description": "Что не так с турниром?",
-    "fullText": "Что не так с турниром?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/84/47c46e0ac456682d8639499fa9d35.jpeg",
+    "title": "Таунса обвиняют в кризисе «Никс». Хотя он не причина",
+    "description": "Кошка, которая гуляла сама по себе.",
+    "fullText": "Кошка, которая гуляла сама по себе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/87/404f8d83d49799993784706e9b3a6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/athletics/blogs/3379658.html",
-    "time": "2026-01-26T11:41:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3379672.html",
+    "time": "2026-01-26T12:02:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Третий ремейк Final Fantasy VII тоже делают на Unreal Engine 4",
-    "description": "Движок значительно модифицировали для нужд команды, поэтому от него решили не отказываться.",
-    "fullText": "Движок значительно модифицировали для нужд команды, поэтому от него решили не отказываться.",
-    "image": "https://leonardo.osnova.io/b8ecb0bc-aa34-5a28-9a59-1aabee416601/",
+    "title": "Для инициативы Stop Killing Games собрали почти 1,3 миллиона подтверждённых подписей",
+    "description": "Процесс идёт, но публику просят набраться терпения.",
+    "fullText": "Процесс идёт, но публику просят набраться терпения.",
+    "image": "https://leonardo.osnova.io/1e445c89-2dc4-519e-bf66-882da4824ea3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4744882-tretiy-remeik-final-fantasy-vii-na-unreal-engine-4?from=rss",
-    "time": "2026-01-26T06:33:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4744959-initsiativa-stop-killing-games-sobrala-1-3-milliona-podpisey?from=rss",
+    "time": "2026-01-26T07:28:21.000Z"
   }
 ]
