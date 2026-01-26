@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДНР фонд \"Защитники Отечества\" делает акцент на трудоустройстве ветеранов",
-    "description": "Один из акцентов сделают на отрасли строительства, сообщила руководитель филиала Марина Соловарова",
-    "fullText": "Один из акцентов сделают на отрасли строительства, сообщила руководитель филиала Марина Соловарова",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26247865",
-    "time": "2026-01-26T04:22:48.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего три американца брали «Везина Трофи». Вспомните хоть одного?",
     "description": "Проверьте себя.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4740353-dzheyms-gann-predstavil-lobo-s-dzheysonom-momoa?from=rss",
     "time": "2026-01-23T17:39:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
