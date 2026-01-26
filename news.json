@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Футболист \"Антальяспора\" Джикия восстановился после травмы",
-    "description": "Он с ноября не выходил на поле в официальных матчах",
-    "fullText": "Он с ноября не выходил на поле в официальных матчах",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260126/8767279.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26252587",
-    "time": "2026-01-26T12:27:01.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Я что, лох – радоваться победе?» Философия главного российского капитана в CS",
     "description": "Его команда впервые победила.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Правильно ли россиянам участвовать в Олимпиаде-2026 без флага и гимна?",
-    "description": "Обсудим в подкасте на ТВ Старт 28 января в 19:00.",
-    "fullText": "Обсудим в подкасте на ТВ Старт 28 января в 19:00.",
-    "image": "https://photobooth.cdn.sports.ru/preset/poll/c/4d/a19e14ab148ff9d645aba176e385a.jpeg",
+    "title": "Скотти Барнс накрыл Холмгрена (2,16 м) при решающем броске. «Оклахома» не побьет рекорд «Уорриорс»",
+    "description": "Отличная защита.",
+    "fullText": "Отличная защита.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/03/2af8b7c8e440b9095eb503a7f955d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/poll/1117053058.html",
-    "time": "2026-01-26T09:01:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3380097.html",
+    "time": "2026-01-26T09:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фильм «Возвращение в Сайлент Хилл» стартовал в прокате США с тремя миллионами долларов — это худший результат для франшизы",
-    "description": "«Аватар» уступил лидерство ленте «Казнить нельзя помиловать» Тимура Бекмамбетова.",
-    "fullText": "«Аватар» уступил лидерство ленте «Казнить нельзя помиловать» Тимура Бекмамбетова.",
-    "image": "https://leonardo.osnova.io/fe771185-adf8-583b-b5ec-49938ec518cb/",
+    "title": "Инсайдер: ремейк Prince of Persia был готов на 99%",
+    "description": "Разработчикам оставалось устранить ошибки.",
+    "fullText": "Разработчикам оставалось устранить ошибки.",
+    "image": "https://leonardo.osnova.io/422c5e11-ed53-53cf-af87-159abddaf1da/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4743974-film-vozvrashchenie-v-sailent-khill?from=rss",
-    "time": "2026-01-25T16:38:21.000Z"
+    "url": "https://dtf.ru/games/4743727-remejk-prince-of-persia-byil-pochemu-otmenyon?from=rss",
+    "time": "2026-01-25T15:04:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
