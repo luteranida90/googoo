@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Петербурге мужчину осудили за попытку мошенничества на 70 млн рублей",
-    "description": "Фигурант получил четыре года лишения свободы в исправительной колонии общего режима",
-    "fullText": "Фигурант получил четыре года лишения свободы в исправительной колонии общего режима",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26253571",
-    "time": "2026-01-26T14:10:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Впервые с 2018-го ни одного россиянина в 1/4 AO. Выберете, за кого теперь будете болеть?",
     "description": "Джокович, Рыбакина или Зверев?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как играть по 60 минут и забивать больше Кордобы и Даку? Брайан Хиль научит",
-    "description": "Андрей Савин – с рассказом о лидере «Балтики».",
-    "fullText": "Андрей Савин – с рассказом о лидере «Балтики».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/73/539b966994bf8bddc202955974e27.jpeg",
+    "title": "Наша юниорка гоняла против Антонелли в Европе, а теперь привела российский прототип на подиум. Как ей после возвращения?",
+    "description": "Большое интервью с Викой Блохиной.",
+    "fullText": "Большое интервью с Викой Блохиной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d7/68784e4d24212bc8e1c76d7e18c78.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379273.html",
-    "time": "2026-01-26T10:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3372164.html",
+    "time": "2026-01-26T10:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4744848-microsoft-uluchshit-podderzhku-releza-dlya-ps5-i-switch?from=rss",
     "time": "2026-01-26T06:10:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
