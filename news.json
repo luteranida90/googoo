@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В ДНР фонд \"Защитники Отечества\" делает акцент на трудоустройстве ветеранов",
+    "description": "Один из акцентов сделают на отрасли строительства, сообщила руководитель филиала Марина Соловарова",
+    "fullText": "Один из акцентов сделают на отрасли строительства, сообщила руководитель филиала Марина Соловарова",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26247865",
+    "time": "2026-01-26T04:22:48.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего три американца брали «Везина Трофи». Вспомните хоть одного?",
     "description": "Проверьте себя.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как же хорош Доргу! В «МЮ» наконец поняли, что он не латераль",
-    "description": "Помог обыграть «Арсенал».",
-    "fullText": "Помог обыграть «Арсенал».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/50/029c6bf984bb49d7a672673e8082a.jpeg",
+    "title": "Спаллетти разгромил Конте – встретились лишь 2-й раз в жизни! Оба отстают в гонке за титулом",
+    "description": "Как они бегали друг от друга?",
+    "fullText": "Как они бегали друг от друга?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/63/1dd0e9f274d4eab64a28d7f37e74b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379698.html",
-    "time": "2026-01-25T19:10:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3379449.html",
+    "time": "2026-01-25T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4740353-dzheyms-gann-predstavil-lobo-s-dzheysonom-momoa?from=rss",
     "time": "2026-01-23T17:39:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
