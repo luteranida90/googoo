@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ВСУ атаковали Белгородскую область при помощи более чем 45 БПЛА за сутки",
+    "description": "Вооруженные силы Украины выпустили свыше 35 боеприпасов",
+    "fullText": "Вооруженные силы Украины выпустили свыше 35 боеприпасов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260126/8766593.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26250653",
+    "time": "2026-01-26T09:32:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как фанат «МЮ» мог бы отблагодарить Сульшера? Решаем в новом тесте",
     "description": "Tak, Gak или Bak?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» Кэррика взял 2-й топ-матч подряд. Как убрали «Арсенал»: разбор Лукомского и Палагина",
-    "description": "Разобрался с Артетой.",
-    "fullText": "Разобрался с Артетой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6a/d92fab8054b00b00186d04e504458.jpeg",
+    "title": "У Эндрика хет-трик! 4+1 всего за 3 матча в «Лионе» – задышал",
+    "description": "Раскрывается.",
+    "fullText": "Раскрывается.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/2d/342c47bf24a599dead843daeef17f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380063.html",
-    "time": "2026-01-25T22:33:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380068.html",
+    "time": "2026-01-25T23:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4741831-razrabotchiki-palworld-trebuyut-aktivnost-v-steam?from=rss",
     "time": "2026-01-24T14:26:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
