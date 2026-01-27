@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Семья Шатунова оценивает общий ущерб по делу продюсера Разина в 1 млрд рублей",
-    "description": "Ущерб ранее оценили в 500 млн рублей",
-    "fullText": "Ущерб ранее оценили в 500 млн рублей",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260128/8771685.jpg",
+    "title": "В США задержали двух россиянок, якобы заехавших на территорию военной базы",
+    "description": "Гражданки РФ ожидают репатриации, сообщили в российском диппредставительстве",
+    "fullText": "Гражданки РФ ожидают репатриации, сообщили в российском диппредставительстве",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26266731",
-    "time": "2026-01-27T22:11:44.000Z"
+    "url": "https://tass.ru/obschestvo/26266795",
+    "time": "2026-01-27T22:41:36.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-27T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Absolum достигли 500 тысяч копий — в честь этого авторы назвали дату релиза крупного апдейта",
-    "description": "Обновление «Нити судьбы» выйдет уже 12 февраля.",
-    "fullText": "Обновление «Нити судьбы» выйдет уже 12 февраля.",
-    "image": "https://leonardo.osnova.io/97b5e5f7-3662-5636-b411-fa6c238b00e6/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4748437-prodazhi-absolum-previshayut-500-tysyach-kopiy?from=rss",
-    "time": "2026-01-27T17:46:32.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "50 км в 50 лет при почти -50°C: приключения Смертина в Оймяконе – как это преодолеть",
     "description": "Уникальные детали.",
@@ -42,5 +31,16 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3380219.html",
     "time": "2026-01-27T17:03:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Для ARC Raiders вышло контентное обновление Headwinds — в нём исправили баг с помощью в прицеливании, которая зависела от fps",
+    "description": "А опытные игроки теперь могут в одиночку сражаться с отрядами.",
+    "fullText": "А опытные игроки теперь могут в одиночку сражаться с отрядами.",
+    "image": "https://leonardo.osnova.io/91ba0007-5745-556b-9b98-be20d290abd0/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4747878-obnovlenie-headwinds-dlya-arc-raiders?from=rss",
+    "time": "2026-01-27T13:55:59.000Z"
   }
 ]
