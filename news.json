@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МОК пригласил саночников Олесик и Репилова на Олимпиаду",
-    "description": "Олимпийские игры пройдут с 6 по 22 февраля",
-    "fullText": "Олимпийские игры пройдут с 6 по 22 февраля",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260127/8771467.jpg",
+    "title": "Финансирование нацпроектов в КБР в 2026 году выросло на 77%",
+    "description": "Объем инвестиций составил 5 млрд 351 млн рублей",
+    "fullText": "Объем инвестиций составил 5 млрд 351 млн рублей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26265821",
-    "time": "2026-01-27T18:01:10.000Z"
+    "url": "https://tass.ru/ekonomika/26266013",
+    "time": "2026-01-27T18:53:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Нани и Мозес в Казахстане – это глупость",
+    "description": "Головин объясняет.",
+    "fullText": "Головин объясняет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/e4/6bb5902f14a6bb9b065569d254289.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3380446.html",
+    "time": "2026-01-27T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-27T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Год истины для самой хаотичной команды «Ф-1»: успех или уход «Рено» из Гран-при?",
-    "description": "Продажа неизбежна?",
-    "fullText": "Продажа неизбежна?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ea/7ee70878e40689181e225a92a4f12.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3378767.html",
-    "time": "2026-01-27T13:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся цифровой релиз «Зверополиса 2»",
-    "description": "Прокат мультфильма получился крайне успешным.",
-    "fullText": "Прокат мультфильма получился крайне успешным.",
-    "image": "https://leonardo.osnova.io/6cb0ff86-5cff-5719-8c79-452ed949bf1f/",
+    "title": "Code Vein II получила 73 балла на Metacritic и «смешанные» отзывы в Steam от первых игроков",
+    "description": "Ролевой экшен уже доступен для обладателей расширенных изданий.",
+    "fullText": "Ролевой экшен уже доступен для обладателей расширенных изданий.",
+    "image": "https://leonardo.osnova.io/2581374d-36d0-5e0f-b74d-a23b509c82e7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4747346-tsifrovoy-releez-multfilma-zveropolis-2?from=rss",
-    "time": "2026-01-27T08:38:01.000Z"
+    "url": "https://dtf.ru/games/4747725-code-vein-ii-73-ballov-na-metacritic?from=rss",
+    "time": "2026-01-27T12:08:40.000Z"
   }
 ]
