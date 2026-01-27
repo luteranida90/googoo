@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Сумах снова произошел взрыв",
+    "description": "В Сумской области объявлена воздушная тревога",
+    "fullText": "В Сумской области объявлена воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26266269",
+    "time": "2026-01-27T19:46:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Продажи Absolum достигли 500 тысяч копий — в честь этого авторы назвали дату релиза крупного апдейта",
     "description": "Обновление «Нити судьбы» выйдет уже 12 февраля.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кому нужна Олимпиада? И зачем?",
-    "description": "Почти всем, хоть и для разного.",
-    "fullText": "Почти всем, хоть и для разного.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/64/b8fa7299f4d2c8452a31d06555e48.jpeg",
+    "title": "Герои тура АПЛ: помощник Салаха, лучший в истории клуба. Один из главных вылетел на 10 недель",
+    "description": "Самый полезный матч у Эстевао.",
+    "fullText": "Самый полезный матч у Эстевао.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/09/34167c33649849f106d43ba9204c8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3380192.html",
-    "time": "2026-01-27T14:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380100.html",
+    "time": "2026-01-27T14:50:00.000Z"
   }
 ]
