@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сийярто согласился с Сибигой, что Венгрия не пустит Украину в ЕС",
-    "description": "По словам главы венгерского МИД, \"украинцы принесут войну\" в Евросоюз",
-    "fullText": "По словам главы венгерского МИД, \"украинцы принесут войну\" в Евросоюз",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251127/8628743.jpg",
+    "title": "Трамп уверен, что ему удастся урегулировать конфликт на Украине",
+    "description": "Об этом американский лидер заявил в интервью телеканалу Fox News",
+    "fullText": "Об этом американский лидер заявил в интервью телеканалу Fox News",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26266517",
-    "time": "2026-01-27T21:03:48.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26266615",
+    "time": "2026-01-27T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -22,6 +22,17 @@
     "time": "2026-01-27T17:46:32.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему Алькарас так сильно бьет?",
+    "description": "Сила – в ногах.",
+    "fullText": "Сила – в ногах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/6d/54c0aa7a6439480a851647e4792a9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3376887.html",
+    "time": "2026-01-27T16:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой наряд Уильямс поменял правила на «Ролан Гаррос»?",
     "description": "Узнайте в новом тесте.",
@@ -31,16 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/df8o17",
     "time": "2026-01-27T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Доходы агентов выросли в два раза – до 1,37 млрд долларов! ФИФА в нокауте",
-    "description": "Меры не сработали.",
-    "fullText": "Меры не сработали.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/cd/746b7563e4e7aa08a8a72b4ca8949.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3378333.html",
-    "time": "2026-01-27T15:56:00.000Z"
   }
 ]
