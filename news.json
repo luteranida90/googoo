@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Семья Шатунова оценивает общий ущерб по делу продюсера Разина в 1 млрд рублей",
+    "description": "Ущерб ранее оценили в 500 млн рублей",
+    "fullText": "Ущерб ранее оценили в 500 млн рублей",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260128/8771685.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26266731",
+    "time": "2026-01-27T22:11:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете по детскому фото обладателя Кубка Гагарина? А рекордсмена КХЛ?",
     "description": "Сложный тест на знание звезд!",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Умер Борис Игнатьев. Он тренировал сборную за 500 долларов и брал юношеский Евро",
-    "description": "Боролся с онкологией.",
-    "fullText": "Боролся с онкологией.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/54/11b45666e4916a0ef18a0f14a7114.jpeg",
+    "title": "50 км в 50 лет при почти -50°C: приключения Смертина в Оймяконе – как это преодолеть",
+    "description": "Уникальные детали.",
+    "fullText": "Уникальные детали.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e8/a35f2277049d191035a0a07d965b3.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380451.html",
-    "time": "2026-01-27T16:52:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380219.html",
+    "time": "2026-01-27T17:03:00.000Z"
   }
 ]
