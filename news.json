@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пострадавшего в Хорлах мальчика в перевели из реанимации РДКБ в палату",
+    "description": "Его состояние улучшается, сообщил губернатор Херсонской области Владимир Сальдо",
+    "fullText": "Его состояние улучшается, сообщил губернатор Херсонской области Владимир Сальдо",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26265033",
+    "time": "2026-01-27T16:12:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Бублик и Медведев уже вылетели с Australian Open. Угадаете, кто следующий?",
     "description": "Делайте прогнозы и получайте призы.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Арина Соболенко не дуболом",
-    "description": "Изучаем разнообразие.",
-    "fullText": "Изучаем разнообразие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/86/890112068418b880dd7d3e23030bc.jpeg",
+    "title": "9 главных отличий футзала от футбола",
+    "description": "Памятка от УЕФА.",
+    "fullText": "Памятка от УЕФА.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/12/da1307c1b4c50ad15da80e13e23f6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3380349.html",
-    "time": "2026-01-27T10:35:00.000Z"
+    "url": "https://www.sports.ru/futsal/blogs/3380291.html",
+    "time": "2026-01-27T10:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Monster Hunter Wilds составили 11 миллионов копий — спустя девять месяцев после достижения 10 миллионов",
-    "description": "Темп продаж так и не поднялся.",
-    "fullText": "Темп продаж так и не поднялся.",
-    "image": "https://leonardo.osnova.io/e597cb0d-c955-5f7c-9dbd-914268fbf865/",
+    "title": "Highguard стартовала в Steam с 97 тысяч одновременных игроков и 28% положительных отзывов",
+    "description": "Шутеру сильно досталось за технические проблемы и недостаточную оптимизацию.",
+    "fullText": "Шутеру сильно досталось за технические проблемы и недостаточную оптимизацию.",
+    "image": "https://leonardo.osnova.io/b844d27a-84f7-510c-af99-26bbecb6c088/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4747314-prodazhi-monster-hunter-wilds-11-millionov-kopiy?from=rss",
-    "time": "2026-01-27T08:11:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4747112-highguard-startoval-v-steam?from=rss",
+    "time": "2026-01-27T06:42:49.000Z"
   }
 ]
