@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пострадавшего в Хорлах мальчика в перевели из реанимации РДКБ в палату",
-    "description": "Его состояние улучшается, сообщил губернатор Херсонской области Владимир Сальдо",
-    "fullText": "Его состояние улучшается, сообщил губернатор Херсонской области Владимир Сальдо",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Наши в НХЛ сейчас круче, чем 25 лет назад",
+    "description": "Извините, для кого это шок.",
+    "fullText": "Извините, для кого это шок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/03/e456bc333422d85effa99bb13bbb9.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26265033",
-    "time": "2026-01-27T16:12:09.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3374821.html",
+    "time": "2026-01-27T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-01-27T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "9 главных отличий футзала от футбола",
-    "description": "Памятка от УЕФА.",
-    "fullText": "Памятка от УЕФА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/12/da1307c1b4c50ad15da80e13e23f6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/futsal/blogs/3380291.html",
-    "time": "2026-01-27T10:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Highguard стартовала в Steam с 97 тысяч одновременных игроков и 28% положительных отзывов",
-    "description": "Шутеру сильно досталось за технические проблемы и недостаточную оптимизацию.",
-    "fullText": "Шутеру сильно досталось за технические проблемы и недостаточную оптимизацию.",
-    "image": "https://leonardo.osnova.io/b844d27a-84f7-510c-af99-26bbecb6c088/",
+    "title": "Томас Малер: каждый день продаётся по 50 тысяч копий No Rest for the Wicked",
+    "description": "На фоне выхода крупного обновления с кооперативом и скидок.",
+    "fullText": "На фоне выхода крупного обновления с кооперативом и скидок.",
+    "image": "https://leonardo.osnova.io/502c7950-f564-55c1-9cba-6e698ed35113/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4747112-highguard-startoval-v-steam?from=rss",
-    "time": "2026-01-27T06:42:49.000Z"
+    "url": "https://dtf.ru/gameindustry/4747205-tomas-mahler-o-prodazhakh-no-rest-for-the-wicked?from=rss",
+    "time": "2026-01-27T07:30:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
