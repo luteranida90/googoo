@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Сибур\" оценил в 4% снижение потребления базовых полимеров в России в 2025 году",
-    "description": "Основное снижение спроса наблюдалось в сегментах транспорта, строительства и производства труб",
-    "fullText": "Основное снижение спроса наблюдалось в сегментах транспорта, строительства и производства труб",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26261415",
-    "time": "2026-01-27T10:13:05.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Разыгрываем джерси Дёмина из «Бруклина». С автографом!",
     "description": "Тест из 10 вопросов.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Арина Соболенко не дуболом",
-    "description": "Изучаем разнообразие.",
-    "fullText": "Изучаем разнообразие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/86/890112068418b880dd7d3e23030bc.jpeg",
+    "title": "«У него лицо просит кулака». Почему все ненавидят Руди Гобера?",
+    "description": "Хроники хейта.",
+    "fullText": "Хроники хейта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/19/ad05e93ae402a9c95afc48fbb1368.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3380349.html",
-    "time": "2026-01-27T04:55:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3376750.html",
+    "time": "2026-01-27T06:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Эман Айяз узнала об отмене проекта с её участием из новостей — актрису связывали с ролью Фары из ремейка Prince of Persia",
-    "description": "Новость стала для неё «эмоциональным потрясением».",
-    "fullText": "Новость стала для неё «эмоциональным потрясением».",
-    "image": "https://leonardo.osnova.io/2ef272f2-0181-5771-85b0-8c3c656d0214/",
+    "title": "Apple выпустила маячок AirTag нового поколения — у него увеличенный радиус действия",
+    "description": "И динамик на 50% громче, чем у предшественника. Благодаря этому звуковой сигнал слышен на более дальних расстояниях.",
+    "fullText": "И динамик на 50% громче, чем у предшественника. Благодаря этому звуковой сигнал слышен на более дальних расстояниях.",
+    "image": "https://leonardo.osnova.io/4485b198-a31b-545b-84bd-140f431afac6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4746117-eman-ayaz-otmena-proekta-prince-of-persia?from=rss",
-    "time": "2026-01-26T17:55:16.000Z"
+    "url": "https://dtf.ru/hard/4746455-apple-novyy-airtag-uvelichennyy-radiys-deystviya?from=rss",
+    "time": "2026-01-26T19:10:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
