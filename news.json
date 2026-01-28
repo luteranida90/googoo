@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Турция заявила о готовности взять ответственность за мир в Газе",
-    "description": "Республика поддерживает целостность Сирии, говорится в заявлении Совета национальной безопасности",
-    "fullText": "Республика поддерживает целостность Сирии, говорится в заявлении Совета национальной безопасности",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26277315",
-    "time": "2026-01-28T17:10:51.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Казнить нельзя помиловать»: поверхностный триллер о вреде и пользе технологий",
     "description": "Тимур Бекмамбетов продолжает покорять Голливуд.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это худший «Монако» со времен Тьерри Анри",
-    "description": "Артем Денисов – о новом кризисе.",
-    "fullText": "Артем Денисов – о новом кризисе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/91/25ec6cb4540398f4708b1f26ea401.jpeg",
+    "title": "«Он самый храбрый человек в мире футбола». У Арбелоа и Моуринью особенные отношения",
+    "description": "Встретятся в ЛЧ.",
+    "fullText": "Встретятся в ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/13/2cb3bc1c1451e8dc8dbd0e85c4464.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380561.html",
+    "url": "https://www.sports.ru/football/blogs/3380513.html",
     "time": "2026-01-28T13:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Дейзи Ридли отметила, что новостей о сольном фильме про Рей стоит ждать «когда-нибудь в будущем»",
-    "description": "О ленте впервые рассказали в 2023 году.",
-    "fullText": "О ленте впервые рассказали в 2023 году.",
-    "image": "https://leonardo.osnova.io/0ffc8918-9e10-573c-97ef-25abd463c27a/",
+    "title": "Judas провела пять лет в предпродакшене — из-за системы реакции персонажей на действия игрока",
+    "description": "Сейчас проект уверенно движется к релизу.",
+    "fullText": "Сейчас проект уверенно движется к релизу.",
+    "image": "https://leonardo.osnova.io/22900066-f85f-5750-b426-ecbf3bfb3416/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4750046-deyzi-ridli-o-solnom-filme-pro-rey-novosti-v-budushchem?from=rss",
-    "time": "2026-01-28T12:51:28.000Z"
+    "url": "https://dtf.ru/games/4749552-judas-pyat-let-v-razrabotke?from=rss",
+    "time": "2026-01-28T09:10:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
