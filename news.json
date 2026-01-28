@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Одесской области возник пожар на объектах портовой инфраструктуры",
-    "description": "Повреждены ангары, производственные здания и элементы логистики, сообщил министр развития общин и территорий Украины Алексей Кулеба",
-    "fullText": "Повреждены ангары, производственные здания и элементы логистики, сообщил министр развития общин и территорий Украины Алексей Кулеба",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Набиуллина: самозапрет на кредиты на \"Госуслугах\" установил 21 млн россиян",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250520/8242053.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26270217",
-    "time": "2026-01-28T08:19:12.000Z"
+    "url": "https://tass.ru/ekonomika/26270779",
+    "time": "2026-01-28T08:49:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сама идея олимпийского движения в 2026-м – жива или нет?",
+    "description": "10 дней до открытия Игр.",
+    "fullText": "10 дней до открытия Игр.",
+    "image": "https://photobooth.cdn.sports.ru/preset/poll/1/d6/ff85a2ea64811aabc491877d5718b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/poll/1117055021.html",
+    "time": "2026-01-28T05:16:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-28T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Игнатьев был нетипичным – скромным и добрым – тренером, но выиграл Евро-U18 и воспитал лучшего снайпера ЧМ",
-    "description": "Играл в футбол до 82 лет.",
-    "fullText": "Играл в футбол до 82 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e9/1b99bb66c4d2abcd30fa8bca7f4f1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380457.html",
-    "time": "2026-01-27T22:17:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Анонсирована тактическая RPG Sonic Terror — в ней рок-музыканты сражаются с пришельцами",
-    "description": "Разработкой занимается отечественная студия Book Burner Games Петра Сальникова.",
-    "fullText": "Разработкой занимается отечественная студия Book Burner Games Петра Сальникова.",
-    "image": "https://leonardo.osnova.io/e69742fd-905d-5069-8858-83501b7e3791/-/format/mp4/",
+    "title": "СМИ: сотрудники Ubisoft планируют организовать забастовку на фоне сокращений из-за перезагрузки компании",
+    "description": "Она пройдёт с 10 по 12 февраля.",
+    "fullText": "Она пройдёт с 10 по 12 февраля.",
+    "image": "https://leonardo.osnova.io/dc68e7a0-6ea6-5802-9573-8a294b1d5a13/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4747790-anons-takticheskoy-rpg-sonic-terror?from=rss",
-    "time": "2026-01-27T12:54:05.000Z"
+    "url": "https://dtf.ru/gameindustry/4748615-zabastovka-sotrudnikov-ubisoft?from=rss",
+    "time": "2026-01-27T19:13:09.000Z"
   }
 ]
