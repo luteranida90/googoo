@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Аш-Шараа: за год число взаимных визитов делегаций России и Сирии достигло 13",
-    "description": "Президент республики 15 октября 2025 года совершил свой первый рабочий визит в РФ",
-    "fullText": "Президент республики 15 октября 2025 года совершил свой первый рабочий визит в РФ",
+    "title": "В Петербурге бизнесмен получил условный срок за легализацию более 500 мигрантов",
+    "description": "Также Валерий Урбан принял участие в отмывании доходов от преступления",
+    "fullText": "Также Валерий Урбан принял участие в отмывании доходов от преступления",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26275949",
-    "time": "2026-01-28T14:40:46.000Z"
+    "url": "https://tass.ru/proisshestviya/26276235",
+    "time": "2026-01-28T15:22:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -20,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3379907.html",
     "time": "2026-01-28T14:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "CD Projekt RED вернула «Кровную вражду» на iOS и Android",
+    "description": "Спин-офф «Ведьмака» пропадал с платформ из-за ошибки сети.",
+    "fullText": "Спин-офф «Ведьмака» пропадал с платформ из-за ошибки сети.",
+    "image": "https://leonardo.osnova.io/ddced940-5ba8-5b67-a7e1-e9289fde1955/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/mobile/4749948-krovnaya-vrazhda-vedmak-i-os-and-android?from=rss",
+    "time": "2026-01-28T12:02:11.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -42,16 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/vryc9s",
     "time": "2026-01-28T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Томас Малер о значении раннего доступа для игр вроде Baldur’s Gate 3: «Они слишком комплексные, и требуется вклад сообщества»",
-    "description": "К тому же списку он причислил свою No Rest for the Wicked.",
-    "fullText": "К тому же списку он причислил свою No Rest for the Wicked.",
-    "image": "https://leonardo.osnova.io/9848840a-693c-5d31-954a-6588019dce80/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4749830-thomas-mahler-o-rannem-dostupe-baldurs-gate-3?from=rss",
-    "time": "2026-01-28T11:09:12.000Z"
   }
 ]
