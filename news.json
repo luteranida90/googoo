@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Аш-Шараа: за год число взаимных визитов делегаций России и Сирии достигло 13",
+    "description": "Президент республики 15 октября 2025 года совершил свой первый рабочий визит в РФ",
+    "fullText": "Президент республики 15 октября 2025 года совершил свой первый рабочий визит в РФ",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26275949",
+    "time": "2026-01-28T14:40:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Казнить нельзя помиловать»: поверхностный триллер о вреде и пользе технологий",
     "description": "Тимур Бекмамбетов продолжает покорять Голливуд.",
@@ -11,15 +22,15 @@
     "time": "2026-01-28T14:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бывшего вице-президента ОКР Билалова объявили в международный розыск",
-    "description": "Ему заочно предъявили обвинение в мошенничестве",
-    "fullText": "Ему заочно предъявили обвинение в мошенничестве",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260128/8773587.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сразу 6 клубов в 1/8 финала ЛЧ от одной страны – теперь это почти реальность",
+    "description": "Англия захватила турнир.",
+    "fullText": "Англия захватила турнир.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/d2/a4db7d4f241ecad25a68d1a404a30.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26275505",
-    "time": "2026-01-28T14:09:23.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3380417.html",
+    "time": "2026-01-28T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2026-01-28T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Последний тур ЛЧ: кому что нужно? Расклады",
-    "description": "Конте бьется за плей-офф, топ-клубы – за восьмерку.",
-    "fullText": "Конте бьется за плей-офф, топ-клубы – за восьмерку.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/1b/168cbcc014c97a7d3c9b4aa805d1c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380361.html",
-    "time": "2026-01-28T10:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ремейк Fatal Frame II: Crimson Butterfly получит демо и коллаборацию с Silent Hill f",
-    "description": "Разработчики также показали в трейлере действие камеры-обскура.",
-    "fullText": "Разработчики также показали в трейлере действие камеры-обскура.",
-    "image": "https://leonardo.osnova.io/d4118680-44d9-5d85-a23d-e369effeee82/",
+    "title": "Томас Малер о значении раннего доступа для игр вроде Baldur’s Gate 3: «Они слишком комплексные, и требуется вклад сообщества»",
+    "description": "К тому же списку он причислил свою No Rest for the Wicked.",
+    "fullText": "К тому же списку он причислил свою No Rest for the Wicked.",
+    "image": "https://leonardo.osnova.io/9848840a-693c-5d31-954a-6588019dce80/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4749679-demo-fatal-frame-ii-crimson-butterfly-silent-hill?from=rss",
-    "time": "2026-01-28T10:13:54.000Z"
+    "url": "https://dtf.ru/gameindustry/4749830-thomas-mahler-o-rannem-dostupe-baldurs-gate-3?from=rss",
+    "time": "2026-01-28T11:09:12.000Z"
   }
 ]
