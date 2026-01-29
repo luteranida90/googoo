@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Переговоры Путина с президентом ОАЭ. Видеотрансляция",
-    "description": "ТАСС/Ruptly",
-    "fullText": "ТАСС/Ruptly",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260129/8775225.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/26280585",
-    "time": "2026-01-29T11:18:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выйдет ли Соболенко в финал АО-2026? Делайте прогноз в «Теннисном бинго»",
-    "description": "Поборитесь за поездку в Дубай.",
-    "fullText": "Поборитесь за поездку в Дубай.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/85/5dbaaf8f242b78040bb66b0edac86.webp",
+    "title": "Только фанаты этого клуба АПЛ знают, как правильно пишется его название. Но вдруг и вы справитесь?",
+    "description": "Легче просто «волки».",
+    "fullText": "Легче просто «волки».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/dc/ba83e2ac34ac6b4d1e9c82e7bceef.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/ao-tennis-bingo/?utm_source=native",
-    "time": "2026-01-29T07:00:00.000Z"
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-01-29T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мы далеки от уровня, на котором хотим быть». Что сказал Арбелоа после краха в Лиссабоне",
-    "description": "Взял вину на себя.",
-    "fullText": "Взял вину на себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/77/4aaac42e74bda9a5d277d18b60b1f.jpeg",
+    "title": "Куртуа поздравил Трубина с голом себе. Уважение дня",
+    "description": "Признал величие момента.",
+    "fullText": "Признал величие момента.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c7/930bd2f274794b62b7fb0979d61c0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380818.html",
-    "time": "2026-01-29T06:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380816.html",
+    "time": "2026-01-29T07:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4750919-ubisoft-predstavila-the-division-definitive-edition?from=rss",
     "time": "2026-01-28T20:18:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
