@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В КБР начнут оказывать бесплатную юридическую помощь родителям, лишенным прав",
-    "description": "В регионе 20 человек лишены родительских прав",
-    "fullText": "В регионе 20 человек лишены родительских прав",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Хоккеист без зуба, но не Овечкин. Узнаете его по детской фотке?",
+    "description": "Сейчас играет в КХЛ.",
+    "fullText": "Сейчас играет в КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/e4/1468f8784431aa193cf12a6b3778e.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26282187",
-    "time": "2026-01-29T08:41:16.000Z"
+    "url": "https://sirena.world/6jssib",
+    "time": "2026-01-29T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все вратари, забивавшие в Лиге чемпионов",
-    "description": "Трубин – пятый.",
-    "fullText": "Трубин – пятый.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/49/f7219f7ba42848f9e5808e374450c.jpeg",
+    "title": "Лига чемпионов: кто куда вышел и что дальше?",
+    "description": "Итоги общего этапа.",
+    "fullText": "Итоги общего этапа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a1/3b8c5cbab4452a92646bdc4e259e3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380823.html",
-    "time": "2026-01-29T00:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "На Олимпиаду без флага – норм или стрем? Спор Кузмака с Владимиром Ивановым",
-    "description": "В подкасте Спортса’’ и ТВ Старт.",
-    "fullText": "В подкасте Спортса’’ и ТВ Старт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/d5/142021db64c5d82360ec5fe375baf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/Olympics-2026_podcast_Start",
-    "time": "2026-01-28T23:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380801.html",
+    "time": "2026-01-29T03:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4750620-dispatch-na-nintendo-switch-tsenzura-v-igre?from=rss",
     "time": "2026-01-28T17:59:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
