@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Белоруссии вернули право проводить мировые турниры по современному пятиборью",
-    "description": "Запрет на проведение международных турниров в РФ продолжает действовать",
-    "fullText": "Запрет на проведение международных турниров в РФ продолжает действовать",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260129/8775437.jpg",
+    "title": "В КБР начнут оказывать бесплатную юридическую помощь родителям, лишенным прав",
+    "description": "В регионе 20 человек лишены родительских прав",
+    "fullText": "В регионе 20 человек лишены родительских прав",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26281531",
-    "time": "2026-01-29T07:45:29.000Z"
+    "url": "https://tass.ru/obschestvo/26282187",
+    "time": "2026-01-29T08:41:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все вратари, забивавшие в Лиге чемпионов",
+    "description": "Трубин – пятый.",
+    "fullText": "Трубин – пятый.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/49/f7219f7ba42848f9e5808e374450c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3380823.html",
+    "time": "2026-01-29T00:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-28T23:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мбаппе побил рекорд Роналду: 13 голов в ЛЧ до плей-офф! И формат-то не сильно помог",
-    "description": "Всего на матч больше.",
-    "fullText": "Всего на матч больше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/a0/db3a847f34641a4229feaebfffac3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380805.html",
-    "time": "2026-01-28T22:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Мини-сериал DTF St. Louis c Джейсоном Бейтманом и Дэвидом Харбором стартует 2 марта — трейлер",
-    "description": "Сюжет шоу расскажет о любовном треугольнике, один человек в котором внезапно умирает.",
-    "fullText": "Сюжет шоу расскажет о любовном треугольнике, один человек в котором внезапно умирает.",
-    "image": "https://leonardo.osnova.io/28dafc93-0471-5fb4-a103-b8ab7c7b24c0/-/format/mp4/",
+    "title": "Dispatch вышла на Nintendo Switch — некоторые сцены в игре подверглись цензуре",
+    "description": "Ограничения обусловлены политикой японской корпорации.",
+    "fullText": "Ограничения обусловлены политикой японской корпорации.",
+    "image": "https://leonardo.osnova.io/450d2995-1b30-5856-9ac2-e67db21ac2af/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4750738-mini-serial-dtf-st-louis-s-dzhejsonom-bejtmanom-i-devidom-harborom?from=rss",
-    "time": "2026-01-28T19:23:45.000Z"
+    "url": "https://dtf.ru/games/4750620-dispatch-na-nintendo-switch-tsenzura-v-igre?from=rss",
+    "time": "2026-01-28T17:59:19.000Z"
   }
 ]
