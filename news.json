@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лукашенко обсудил с мэром Минска перевод в правительство",
+    "description": "Белорусский президент предложил Владимиру Кухареву обсудить этот вопрос \"по-мужски\"",
+    "fullText": "Белорусский президент предложил Владимиру Кухареву обсудить этот вопрос \"по-мужски\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969333.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26286325",
+    "time": "2026-01-29T12:42:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Только фанаты этого клуба АПЛ знают, как правильно пишется его название. Но вдруг и вы справитесь?",
     "description": "Легче просто «волки».",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Куртуа поздравил Трубина с голом себе. Уважение дня",
-    "description": "Признал величие момента.",
-    "fullText": "Признал величие момента.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c7/930bd2f274794b62b7fb0979d61c0.jpeg",
+    "title": "13 наших олимпийцев в Милане: когда за ними следить?",
+    "description": "Памятка на Игры.",
+    "fullText": "Памятка на Игры.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/9d/24be0e81c48a3aac468b81e01397a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380816.html",
-    "time": "2026-01-29T07:15:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3380732.html",
+    "time": "2026-01-29T08:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ubisoft представила The Division: Definitive Edition — в честь десятилетия оригинальной игры",
-    "description": "Изменений в графике и геймплее не будет — эта версия заменит Gold Edition и объединит все DLC, включая косметические.",
-    "fullText": "Изменений в графике и геймплее не будет — эта версия заменит Gold Edition и объединит все DLC, включая косметические.",
-    "image": "https://leonardo.osnova.io/fb39654b-bf36-52f4-97d3-fea41a7859c0/",
+    "title": "У Monster Hunter Wilds улучшилось соотношение положительных и отрицательных обзоров в Steam после апдейта 28 января",
+    "description": "Игроки отмечают, что патч действительно помог с производительностью.",
+    "fullText": "Игроки отмечают, что патч действительно помог с производительностью.",
+    "image": "https://leonardo.osnova.io/bdca2cae-1c69-5250-9e00-6587e9679f11/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4750919-ubisoft-predstavila-the-division-definitive-edition?from=rss",
-    "time": "2026-01-28T20:18:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4751380-u-monster-hunter-wilds-uluchshilos-sootnoshenie-obzorov-v-steam?from=rss",
+    "time": "2026-01-29T06:42:56.000Z"
   }
 ]
