@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дембеле зовут в СА, Онана вернется в «Интер»? Главные инсайды дня",
-    "description": "Here we go!",
-    "fullText": "Here we go!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b9/1f8c195454e02b2ad5e6566f18b5c.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "МВД: больше всего несовершеннолетних преступников выявили в Свердловской области",
+    "description": "На втором и третьем местах по числу совершивших противозаконные действия подростков оказались Челябинская и Иркутская области",
+    "fullText": "На втором и третьем местах по числу совершивших противозаконные действия подростков оказались Челябинская и Иркутская области",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380718.html",
-    "time": "2026-01-28T20:05:00.000Z"
+    "url": "https://tass.ru/obschestvo/26279033",
+    "time": "2026-01-29T01:04:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Джокович против Синнера, Алькарас против Зверева – кто выйдет в финал?",
-    "description": "Выбирайте в Основе Australian Open.",
-    "fullText": "Выбирайте в Основе Australian Open.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/68/cbe894362442a84a5f8cb9c993bf4.png",
+    "title": "Как Смолов отблагодарил ассистента в матче с «Реалом»?",
+    "description": "Яркий момент в карьере Федора.",
+    "fullText": "Яркий момент в карьере Федора.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/81/310179a38402587afeea619e54ad9.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/jx1x5c",
-    "time": "2026-01-28T19:40:00.000Z"
+    "url": "https://sirena.world/eftnht",
+    "time": "2026-01-28T21:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Челси» избавился от Стерлинга. Скинули обузу с самой большой зарплатой",
+    "description": "Не играл за клуб с 2024-го.",
+    "fullText": "Не играл за клуб с 2024-го.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ef/ac8f152234e4eb0a3966d31aa2365.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3380769.html",
+    "time": "2026-01-28T21:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4750160-fanaty-obsyzhdayut-kontsyovku-fallout-new-vegas-vo-vtoroem-sezone-follauta?from=rss",
     "time": "2026-01-28T14:00:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
