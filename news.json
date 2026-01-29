@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Экс-главу курганского муниципального округа уволили в связи с утратой доверия",
-    "description": "Василий Пигачев продал муниципальное имущество фермерскому предприятию, которым владела его жена",
-    "fullText": "Василий Пигачев продал муниципальное имущество фермерскому предприятию, которым владела его жена",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26287543",
-    "time": "2026-01-29T13:41:19.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Авангард» – «Трактор»: смотрим матч недели на ВидеоСпортсе’’",
     "description": "Прямая трансляция Fonbet КХЛ.",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Парня отправили к стоматологу. А он пошел бить штрафные, чтобы показать всем кровавую кашу во рту",
-    "description": "Минус 2 зуба.",
-    "fullText": "Минус 2 зуба.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/1d/dfd5b3d3940939c0241944f5a4489.jpeg",
+    "title": "Девушка из России стала звездой соцсетей, потому что похожа на Холанда. Мы поговорили",
+    "description": "Теперь снимает видео в форме «Ман Сити».",
+    "fullText": "Теперь снимает видео в форме «Ман Сити».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/d0/76801ab1f453fafcff47b4c1cecc7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3380861.html",
-    "time": "2026-01-29T09:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380602.html",
+    "time": "2026-01-29T10:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Apple TV получила права на экранизацию книжной вселенной «Космер» Брэндона Сандерсона",
-    "description": "«Рождённого туманом» хотят превратить во франшизу фильмов, а «Архив Буресвета» — в сериал.",
-    "fullText": "«Рождённого туманом» хотят превратить во франшизу фильмов, а «Архив Буресвета» — в сериал.",
-    "image": "https://leonardo.osnova.io/15a6811f-4046-5e76-8955-82ee35473929/",
+    "title": "На ПК и PS5 вышло демо Nioh 3",
+    "description": "Сохранения можно перенести в полную версию игры.",
+    "fullText": "Сохранения можно перенести в полную версию игры.",
+    "image": "https://leonardo.osnova.io/51ab7d35-8cc4-5c52-a302-9dd7d9b3a6ea/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4751320-apple-tv-ekraniziruet-vselennuyu-kosmer-brendona-sandersona?from=rss",
-    "time": "2026-01-29T05:36:01.000Z"
+    "url": "https://dtf.ru/games/4751468-demo-nioh-3-na-pk-i-ps5?from=rss",
+    "time": "2026-01-29T07:36:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
