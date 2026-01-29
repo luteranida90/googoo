@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп обсудил с президентом Мексики свой возможный визит в страну",
-    "description": "По словам американского лидера, разговор был посвящен по большей части обеспечению безопасности границы, борьбе с контрабандой наркотиков и торговле",
-    "fullText": "По словам американского лидера, разговор был посвящен по большей части обеспечению безопасности границы, борьбе с контрабандой наркотиков и торговле",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26291075",
-    "time": "2026-01-29T18:46:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Эрик Барон сообщил, что в последнее время активно занимался Haunted Chocolatier — он не собирается бросать производство экшен-RPG",
     "description": "Разработчик развеял опасения фанатов.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Матвей Сафонов рассказывает нам все о секретах пенальти",
-    "description": "Большой монолог на Спортсе”.",
-    "fullText": "Большой монолог на Спортсе”.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ee/1828d8c0741a785b41fd0f274a05a.jpeg",
+    "title": "«Хотим показать – людям не пофиг». Монологи фанатов, которые донатят на погашение долга «Крыльев»",
+    "description": "Красивая и грустная история.",
+    "fullText": "Красивая и грустная история.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/18/5cb1335bd441183f49f31f71fef16.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3379110.html",
-    "time": "2026-01-29T15:53:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380766.html",
+    "time": "2026-01-29T16:03:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
