@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мединский: Россия передала Украине 1 000 тел военных",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250515/8233817.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26284161",
+    "time": "2026-01-29T10:24:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сафонов вернулся после исторической серии – но «ПСЖ» мимо топ-8. Не продавили «Ньюкасл»",
+    "description": "Ничья не пустила в 1/8 оба клуба.",
+    "fullText": "Ничья не пустила в 1/8 оба клуба.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bf/03c5d38c54d878adff00d422a2a6a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3380788.html",
+    "time": "2026-01-29T05:23:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Хоккеист без зуба, но не Овечкин. Узнаете его по детской фотке?",
     "description": "Сейчас играет в КХЛ.",
@@ -11,36 +33,14 @@
     "time": "2026-01-29T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лига чемпионов: кто куда вышел и что дальше?",
-    "description": "Итоги общего этапа.",
-    "fullText": "Итоги общего этапа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a1/3b8c5cbab4452a92646bdc4e259e3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380801.html",
-    "time": "2026-01-29T03:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Dispatch вышла на Nintendo Switch — некоторые сцены в игре подверглись цензуре",
-    "description": "Ограничения обусловлены политикой японской корпорации.",
-    "fullText": "Ограничения обусловлены политикой японской корпорации.",
-    "image": "https://leonardo.osnova.io/450d2995-1b30-5856-9ac2-e67db21ac2af/",
+    "title": "Внешность Леона в RE Requiem делали с оглядкой на мнение сотрудниц Capcom — они «тщательно оценивали» даже морщины персонажа",
+    "description": "Дизайн постаревшего героя «заставит любое сердце биться чаще», уверен геймдиректор хоррора.",
+    "fullText": "Дизайн постаревшего героя «заставит любое сердце биться чаще», уверен геймдиректор хоррора.",
+    "image": "https://leonardo.osnova.io/7e8ef99b-5b58-5588-bbc6-aa8b153c9c57/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4750620-dispatch-na-nintendo-switch-tsenzura-v-igre?from=rss",
-    "time": "2026-01-28T17:59:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4750242-vneshnost-leona-v-resident-evil-requiem?from=rss",
+    "time": "2026-01-28T14:49:20.000Z"
   }
 ]
