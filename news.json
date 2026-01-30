@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Смоленской области предстоит создать олеохимический промышленный кластер",
-    "description": "Регион заключил соглашение с Ассоциацией кластеров, технопарков и особых экономических зон",
-    "fullText": "Регион заключил соглашение с Ассоциацией кластеров, технопарков и особых экономических зон",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26301457",
-    "time": "2026-01-30T16:17:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сможете угадать победителей во всех матчах нового тура Серии А?",
     "description": "Челлендж в Пикере Спортса”.",
@@ -22,25 +11,36 @@
     "time": "2026-01-30T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Можно ли Сафонова сравнивать с Акинфеевым? Колонка Артема Реброва",
-    "description": "Элитная вратарская аналитика.",
-    "fullText": "Элитная вратарская аналитика.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/18/1c720c11f41f29d57842ca9d16ede.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3381156.html",
-    "time": "2026-01-30T12:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Code Vein II — стоимость в российском Steam начинается от 4999 рублей",
-    "description": "Настроения первых игроков не изменились — у тайтла всё ещё «смешанные» отзывы.",
-    "fullText": "Настроения первых игроков не изменились — у тайтла всё ещё «смешанные» отзывы.",
-    "image": "https://leonardo.osnova.io/78cf1410-a3d7-5d50-beff-fafa9022aed5/-/format/mp4/",
+    "title": "Lionsgate начала съёмки фильма-приквела «Рэмбо»",
+    "description": "Главного героя сыграет Ноа Сентинео — звезда сериала «Фостеры».",
+    "fullText": "Главного героя сыграет Ноа Сентинео — звезда сериала «Фостеры».",
+    "image": "https://leonardo.osnova.io/d8d72d5c-cecd-5715-8dca-5da93d8d5c58/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4753582-reliz-code-vein-ii-v-steam-tsena-ot-4999-rubley?from=rss",
-    "time": "2026-01-30T10:15:51.000Z"
+    "url": "https://dtf.ru/cinema/4753945-lionsgate-nachala-syomki-prikvela-rembo?from=rss",
+    "time": "2026-01-30T13:35:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Бензема бастует: саудовцы оскорбили условиями нового контракта",
+    "description": "«Предложили играть бесплатно».",
+    "fullText": "«Предложили играть бесплатно».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/87/213222d374f328b4d351d6fa048d6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3381153.html",
+    "time": "2026-01-30T13:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
