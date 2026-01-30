@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Стоимость серебра опустилась ниже $80 впервые с 12 января",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26302205",
+    "time": "2026-01-30T18:21:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Второй сезон сериала «Шугар» стартует 19 июня",
+    "description": "У продолжения шоу с Колином Фарреллом появились первые кадры.",
+    "fullText": "У продолжения шоу с Колином Фарреллом появились первые кадры.",
+    "image": "https://leonardo.osnova.io/a6aa22e9-fc04-54e0-9114-377fb5a2744e/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4754135-vtoroy-sezon-seriala-shugara?from=rss",
+    "time": "2026-01-30T15:26:26.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Сможете угадать победителей во всех матчах нового тура Серии А?",
     "description": "Челлендж в Пикере Спортса”.",
@@ -11,36 +33,14 @@
     "time": "2026-01-30T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Lionsgate начала съёмки фильма-приквела «Рэмбо»",
-    "description": "Главного героя сыграет Ноа Сентинео — звезда сериала «Фостеры».",
-    "fullText": "Главного героя сыграет Ноа Сентинео — звезда сериала «Фостеры».",
-    "image": "https://leonardo.osnova.io/d8d72d5c-cecd-5715-8dca-5da93d8d5c58/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4753945-lionsgate-nachala-syomki-prikvela-rembo?from=rss",
-    "time": "2026-01-30T13:35:19.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бензема бастует: саудовцы оскорбили условиями нового контракта",
-    "description": "«Предложили играть бесплатно».",
-    "fullText": "«Предложили играть бесплатно».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/87/213222d374f328b4d351d6fa048d6.jpeg",
+    "title": "Стыки Лиги Европы: «Фенер» попал на «Ноттингем», ПАОК Оздоева и Чалова – на «Сельту»",
+    "description": "Дорога к стамбульскому финалу.",
+    "fullText": "Дорога к стамбульскому финалу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/3e/aac560da54d57be580b91c4ac5e15.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3381153.html",
-    "time": "2026-01-30T13:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3381186.html",
+    "time": "2026-01-30T13:50:00.000Z"
   }
 ]
