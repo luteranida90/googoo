@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Красноярский край вошел в проект по развитию единоборств \"Выбор сильных\"",
-    "description": "В проекте уже участвуют более 600 тыс. школьников и 12 тыс. студентов по всей стране",
-    "fullText": "В проекте уже участвуют более 600 тыс. школьников и 12 тыс. студентов по всей стране",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Минфин подготовил меры по обелению экономики",
+    "description": "Министерство передало их в аппарат правительства",
+    "fullText": "Министерство передало их в аппарат правительства",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260130/8780503.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26300503",
-    "time": "2026-01-30T14:18:57.000Z"
+    "url": "https://tass.ru/ekonomika/26300947",
+    "time": "2026-01-30T15:13:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Безумие в 1/2 Australian Open: сопли, судороги, 5 часов жесткой борьбы – и победа Алькараса над Зверевым",
+    "description": "Событийно.",
+    "fullText": "Событийно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/7a/b9469233d431db370b7637da35547.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3381150.html",
+    "time": "2026-01-30T11:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Amazon выпустит сериал по комиксу «Секс-преступники» — в нём сыграет Кумэйл Нанджиани",
+    "description": "Сюжет расскажет о грабителях банка с необычной способностью.",
+    "fullText": "Сюжет расскажет о грабителях банка с необычной способностью.",
+    "image": "https://leonardo.osnova.io/b43b6233-2142-525b-80dc-4c63b1e4dc08/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4753698-amazon-serial-seks-prestupniki-kumail-nandzhiani?from=rss",
+    "time": "2026-01-30T11:30:15.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/ctulsl",
     "time": "2026-01-30T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джимми Батлер не спас Стефа Карри и «Голден Стэйт». Что дальше?",
-    "description": "Закат империи.",
-    "fullText": "Закат империи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/3e/de6260e69420db47c9fd5b19436af.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3380784.html",
-    "time": "2026-01-30T10:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "TIME и студия Даррена Аронофски запустили YouTube-сериал о Войне за независимость США — его сделали с помощью ИИ",
-    "description": "Первый эпизод уже доступен.",
-    "fullText": "Первый эпизод уже доступен.",
-    "image": "https://leonardo.osnova.io/d2ed628f-3c60-5c22-887b-d142887a8fc1/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4753235-time-i-darren-aronofski-youtube-serial-o-voyne-za-nezavisimost?from=rss",
-    "time": "2026-01-30T06:35:07.000Z"
   }
 ]
