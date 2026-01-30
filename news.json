@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин заявил о необходимости комплексных подходов к расширению ВТС с ОДКБ",
-    "description": "Президент указал, что тему уже обсуждали",
-    "fullText": "Президент указал, что тему уже обсуждали",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250117/8012237.jpg",
+    "title": "Путин в Кремле провел совещание по ВТС. Видео",
+    "description": "Оно прошло в очном режиме",
+    "fullText": "Оно прошло в очном режиме",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260130/8780863.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26302371",
-    "time": "2026-01-30T18:52:07.000Z"
+    "url": "https://tass.ru/politika/26302271",
+    "time": "2026-01-30T19:08:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-30T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Fallout 76 добавили броню из второго сезона сериала — её продают в составе бандла за 30 долларов",
-    "description": "Некоторые игроки недовольны, что скин нельзя приобрести отдельно.",
-    "fullText": "Некоторые игроки недовольны, что скин нельзя приобрести отдельно.",
-    "image": "https://leonardo.osnova.io/d1173e41-daf6-5a80-89f5-4c2e7f6fb98c/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4754063-fallout-76-novyy-bundl-s-broney-iz-seriala?from=rss",
-    "time": "2026-01-30T15:14:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Я нашел книгу Игоря Ларионова! Он лечил курагой перелом, верил в Горбачева и хотел быть как Сахаров",
     "description": "Ларионов-писатель.",
@@ -42,5 +31,16 @@
     "category": "all",
     "url": "https://www.sports.ru/hockey/blogs/3380403.html",
     "time": "2026-01-30T14:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Появился тизер аниме-сериала «Призрак в доспехах» от студии Science SARU с кадрами из адаптации",
+    "description": "Поклонникам осталось дождаться июля.",
+    "fullText": "Поклонникам осталось дождаться июля.",
+    "image": "https://leonardo.osnova.io/3671f52c-1dfc-5f42-a51f-e1857f7b2429/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/anime/4753356-tizer-anime-prizrak-v-dospehah?from=rss",
+    "time": "2026-01-30T07:46:03.000Z"
   }
 ]
