@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Xinhua: министр по чрезвычайным ситуациям КНР попал под следствие",
-    "description": "Ван Сянси подозревается в серьезных нарушениях дисциплины и законодательства",
-    "fullText": "Ван Сянси подозревается в серьезных нарушениях дисциплины и законодательства",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Шесть олимпийских деревень на Играх-2026: от «панелек» Милана до «трущоб» Кортины",
+    "description": "Разглядываем все.",
+    "fullText": "Разглядываем все.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f6/8dbe801044a4892e39e954726f7b8.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26304917",
-    "time": "2026-01-31T09:41:56.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3376609.html",
+    "time": "2026-01-31T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +22,6 @@
     "time": "2026-01-31T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как надо и не надо отогреваться, если промерзли",
-    "description": "Горячий душ? Растирания? Коньяк?",
-    "fullText": "Горячий душ? Растирания? Коньяк?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/5d/c6f9681fb406c9e78cccdd94801fb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3380740.html",
-    "time": "2026-01-31T06:17:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "1200 способностей и 900 предметов: детали и трейлер Mewgenics — «роглайта» от автора The Binding of Isaac",
     "description": "На изучение всего контента на релизе уйдёт 250 часов.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4753939-mewgenics-1200-sposobnostey-i-900-predmetov?from=rss",
     "time": "2026-01-30T14:02:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
