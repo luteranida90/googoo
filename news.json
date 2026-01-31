@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Адыгее состояние пострадавших при атаке ВСУ оценивают как стабильное",
-    "description": "В пункте временного размещения, развернутом ранее для жителей поврежденных домов на базе отдыха \"Шапсуг\", находятся 22 человека",
-    "fullText": "В пункте временного размещения, развернутом ранее для жителей поврежденных домов на базе отдыха \"Шапсуг\", находятся 22 человека",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ВС РФ освободили Торецкое в ДНР и Петровку в Запорожской области",
+    "description": "Задачу выполнили подразделения группировки войск \"Центр\" и \"Восток\"",
+    "fullText": "Задачу выполнили подразделения группировки войск \"Центр\" и \"Восток\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260131/8781485.png",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26304501",
-    "time": "2026-01-31T08:14:18.000Z"
+    "url": "https://tass.ru/armiya-i-opk/26304679",
+    "time": "2026-01-31T09:05:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Топ-футбол для вас: «Реал» после краха в ЛЧ, «Ливерпуль» – с заявкой на блокбастер",
+    "description": "Ну-ка, покажите афишу.",
+    "fullText": "Ну-ка, покажите афишу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/53/b03d3f7594c13b027342a7ab8248f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3381188.html",
+    "time": "2026-01-31T04:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-01-31T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Большунов, Олимпиада и «высший цинизм»",
-    "description": "Наблюдения Владимира Иванова.",
-    "fullText": "Наблюдения Владимира Иванова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/0a/aad09fb134e5997b4c574b101a797.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3381166.html",
-    "time": "2026-01-31T04:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фото: Пол Мескал, Барри Кеоган, Джозеф Куинн и Харрис Дикинсон в образах участников The Beatles",
-    "description": "Они сыграют в четырёх фильмах Сэма Мендеса о культовой группе.",
-    "fullText": "Они сыграют в четырёх фильмах Сэма Мендеса о культовой группе.",
-    "image": "https://leonardo.osnova.io/2620fcf9-612e-59dd-94f2-d9bdfe511f8b/",
+    "title": "Capcom запустила сайт в честь 20-летия Okami",
+    "description": "К работе над ним привлекли художницу, которая создала оригинальный логотип игры.",
+    "fullText": "К работе над ним привлекли художницу, которая создала оригинальный логотип игры.",
+    "image": "https://leonardo.osnova.io/2030d3da-23a9-5e0c-809b-fd84c5b6536a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4754045-pol-meskal-i-drugie-akteri-v-filmakh-o-the-beatles?from=rss",
-    "time": "2026-01-30T14:18:45.000Z"
+    "url": "https://dtf.ru/games/4754272-capcom-zapustila-sait-okami-20-letie?from=rss",
+    "time": "2026-01-30T17:05:23.000Z"
   }
 ]
