@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кабмин вводит временный запрет на экспорт бензина и дизеля по 31 июля",
+    "description": "При этом запрет на вывоз автомобильного бензина теперь не будет распространяться на непосредственных производителей нефтепродуктов",
+    "fullText": "При этом запрет на вывоз автомобильного бензина теперь не будет распространяться на непосредственных производителей нефтепродуктов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260131/8781665.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26305225",
+    "time": "2026-01-31T11:00:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто забьет в новом туре АПЛ? Выберите лучших игроков этих выходных",
+    "description": "Так будет еще интереснее.",
+    "fullText": "Так будет еще интереснее.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/a9/ec6c87f024709a09294d1e8a00549.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/6ylioa",
+    "time": "2026-01-31T09:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Шесть олимпийских деревень на Играх-2026: от «панелек» Милана до «трущоб» Кортины",
     "description": "Разглядываем все.",
@@ -11,17 +33,6 @@
     "time": "2026-01-31T07:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Разыгрываем джерси с буквой Ё. В НБА такая всего одна!",
-    "description": "С автографом Егора Дёмина.",
-    "fullText": "С автографом Егора Дёмина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/35/db557fc754bcaac76a53111e44061.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/s54ikt",
-    "time": "2026-01-31T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "1200 способностей и 900 предметов: детали и трейлер Mewgenics — «роглайта» от автора The Binding of Isaac",
     "description": "На изучение всего контента на релизе уйдёт 250 часов.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4753939-mewgenics-1200-sposobnostey-i-900-predmetov?from=rss",
     "time": "2026-01-30T14:02:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
