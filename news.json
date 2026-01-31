@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Писториус признал, что Трамп отчасти придал импульс мирным переговорам по Украине",
-    "description": "Министр сравнил состояние НАТО с кризисом в браке после 20 лет",
-    "fullText": "Министр сравнил состояние НАТО с кризисом в браке после 20 лет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26306631",
-    "time": "2026-01-31T16:11:52.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Клюшку с автографом Овечкина получил прямо из его рук – это было незабываемо». Истории хоккеистов КХЛ",
     "description": "Теперь сами стали кумирами.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пресняков-старший, Плющенко, Шара Буллет и еще 15 звезд хотят сыграть в российской Кингс Лиге",
-    "description": "Как у Пике.",
-    "fullText": "Как у Пике.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/16/b90da484d413ba6f5b0d92101e936.jpeg",
+    "title": "Шанс Цыплакова на перезагрузку? «Айлендерс» скинули его в «Нью-Джерси»",
+    "description": "Можно даже не переезжать.",
+    "fullText": "Можно даже не переезжать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ad/366aeeb774ecba89057e292ca5e8b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3381109.html",
-    "time": "2026-01-31T13:05:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3381111.html",
+    "time": "2026-01-31T13:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4754454-prokat-forsazha-11-nachnetsya-17-marta?from=rss",
     "time": "2026-01-30T17:55:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
