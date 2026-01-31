@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Запорожской области мужчина погиб из-за удара дрона ВСУ",
-    "description": "Он получил тяжелые ранения и умер в больнице",
-    "fullText": "Он получил тяжелые ранения и умер в больнице",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26307123",
-    "time": "2026-01-31T18:49:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как Ферстаппен менял правила «Ф-1»?",
     "description": "Он делал это 13 раз.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наша главная надежда на медаль Олимпиады не фигурист и не лыжник",
-    "description": "Никита Филиппов хорош на Кубке мира!",
-    "fullText": "Никита Филиппов хорош на Кубке мира!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ed/49dea4ad841bc92391c97a2576933.jpeg",
+    "title": "Денис Черышев – в «Красаве»? Едет на Кипр после полугода без футбола",
+    "description": "Усиление для клуба Савина.",
+    "fullText": "Усиление для клуба Савина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/65/41513d2a34ba4ab84871201ceb581.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3381446.html",
-    "time": "2026-01-31T14:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3380416.html",
+    "time": "2026-01-31T15:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4754454-prokat-forsazha-11-nachnetsya-17-marta?from=rss",
     "time": "2026-01-30T17:55:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
