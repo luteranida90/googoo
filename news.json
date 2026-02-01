@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Под Кировом нужно восстановить около 900 м железнодорожного полотна",
-    "description": "В работах участвуют более 300 железнодорожников",
-    "fullText": "В работах участвуют более 300 железнодорожников",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Клюшку с автографом Овечкина получил прямо из его рук – это было незабываемо». Истории хоккеистов КХЛ",
+    "description": "Теперь сами стали кумирами.",
+    "fullText": "Теперь сами стали кумирами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4d/fed54aa37466c85bec8f65cae48cb.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26311827",
-    "time": "2026-02-01T19:38:17.000Z"
+    "url": "https://sirena.world/kjl9zn",
+    "time": "2026-02-01T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2026-02-01T15:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Гадать или реагировать? Матвей Сафонов закрывает дискуссию",
-    "description": "Гайд для вратарей.",
-    "fullText": "Гайд для вратарей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/87/f1e12824d431f830bdc78edbe2d27.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/mfdvgq",
-    "time": "2026-02-01T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Вышел масштабный мод Team Fortress 2 Classified — в нём воссоздали «оригинальную версию» шутера",
     "description": "Энтузиасты работали над проектом больше десяти лет.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4754637-mod-team-fortress-2-classified?from=rss",
     "time": "2026-01-30T20:21:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
