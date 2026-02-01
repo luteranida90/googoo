@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В CS встретились два величайших – мы ждали этот матч 2,5 года",
+    "description": "Местные Месси и Роналду.",
+    "fullText": "Местные Месси и Роналду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/df/6d74762e84accb1c72f12e5dbe02a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3381462.html",
+    "time": "2026-02-01T21:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "BZ: европейский рынок наполнился низкокачественными куриными яйцами с Украины",
+    "description": "Они нарушают европейские требования к сельскохозяйственной продукции, так как происходят от куриц клеточного содержания, которое запрещено нормами ЕС, пишет газета",
+    "fullText": "Они нарушают европейские требования к сельскохозяйственной продукции, так как происходят от куриц клеточного содержания, которое запрещено нормами ЕС, пишет газета",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26311965",
+    "time": "2026-02-01T20:30:47.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Клюшку с автографом Овечкина получил прямо из его рук – это было незабываемо». Истории хоккеистов КХЛ",
     "description": "Теперь сами стали кумирами.",
@@ -12,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Секретное оружие Алькараса – легкая ракетка",
-    "description": "Тренд.",
-    "fullText": "Тренд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/89/4a73f7a6841eda292020d51a8f03d.jpeg",
+    "title": "Трамп продавил гонку быстрейших машин США рядом с Белым домом и Капитолием. Разве это реально?",
+    "description": "Следующая цель после боя UFC.",
+    "fullText": "Следующая цель после боя UFC.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/5f/642c5c1ed4a2e8668a4a72aa4bd4c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3381646.html",
-    "time": "2026-02-01T15:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3380869.html",
+    "time": "2026-02-01T17:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4754637-mod-team-fortress-2-classified?from=rss",
     "time": "2026-01-30T20:21:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
