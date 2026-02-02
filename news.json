@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Во Владивостоке загорелся дом на площади 200 кв. м",
-    "description": "До приезда пожарных из дома эвакуировались три человека",
-    "fullText": "До приезда пожарных из дома эвакуировались три человека",
+    "title": "Василевский назвал первую драку в НХЛ одним из значимых моментов карьеры",
+    "description": "Голкипер \"Тампы\" подрался с вратарем \"Бостона\" Джереми Свэйманом",
+    "fullText": "Голкипер \"Тампы\" подрался с вратарем \"Бостона\" Джереми Свэйманом",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26312979",
-    "time": "2026-02-02T04:04:01.000Z"
+    "url": "https://tass.ru/sport/26313735",
+    "time": "2026-02-02T05:26:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Над названием этого клуба раньше смеялись. Сможете его правильно написать?",
+    "description": "В футбольном диктанте.",
+    "fullText": "В футбольном диктанте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/cb/9c3f908b449599f2c4115d5dfe156.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-02-02T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лукман – в «Атлетико» у Симеоне. «Аталанта» после всех ссор отпускает за 35 млн",
-    "description": "Решит кризис в атаке?",
-    "fullText": "Решит кризис в атаке?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/d6/000d8e0d84c1e8933ad0d23f60cb2.jpeg",
+    "title": "Матвей Сафонов рассказывает нам все о секретах пенальти",
+    "description": "Большой монолог на Спортсе”.",
+    "fullText": "Большой монолог на Спортсе”.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ee/1828d8c0741a785b41fd0f274a05a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3381642.html",
-    "time": "2026-02-01T18:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3379110.html",
+    "time": "2026-02-01T18:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел масштабный мод Team Fortress 2 Classified — в нём воссоздали «оригинальную версию» шутера",
-    "description": "Энтузиасты работали над проектом больше десяти лет.",
-    "fullText": "Энтузиасты работали над проектом больше десяти лет.",
-    "image": "https://leonardo.osnova.io/717871ed-5103-5152-bbe5-a831951425ad/-/format/mp4/",
+    "title": "Nintendo сняла с продажи ваучеры для покупки игр на Switch со скидкой",
+    "description": "Уже приобретённые продолжают действовать.",
+    "fullText": "Уже приобретённые продолжают действовать.",
+    "image": "https://leonardo.osnova.io/753b1283-a195-52b7-8e8c-b1b3eb9177d4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4754637-mod-team-fortress-2-classified?from=rss",
-    "time": "2026-01-30T20:21:23.000Z"
+    "url": "https://dtf.ru/gameindustry/4755310-nintendo-zakryvaet-programmu-vaucherov-dlya-igr-na-switch?from=rss",
+    "time": "2026-01-31T09:14:47.000Z"
   }
 ]
