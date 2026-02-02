@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "С марта в Rust появится возможность не пускать на серверы игроков без включённого Secure Boot и TPM 2.0",
+    "description": "Пока это будет дополнительная опция, а не обязательная.",
+    "fullText": "Пока это будет дополнительная опция, а не обязательная.",
+    "image": "https://leonardo.osnova.io/f14b0b67-e63a-57f3-b796-afa85d2c08f3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4759345-s-marta-v-rust-poyavitsya-vozmozhnost-ne-puskat-na-servery-igrokov-bez-vklyuchennogo-secure-boot-i-tpm-20?from=rss",
+    "time": "2026-02-02T12:49:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Шойгу: Запад оказывал прямую финансовую поддержку антиправительственным силам Мьянмы",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250424/8190983.jpg",
+    "title": "Румыния заняла первое место в Евросоюзе по смертельным ДТП",
+    "description": "В стране зафиксировали 77 смертей на дорогах на миллион жителей",
+    "fullText": "В стране зафиксировали 77 смертей на дорогах на миллион жителей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26319219",
-    "time": "2026-02-02T11:18:46.000Z"
+    "url": "https://tass.ru/obschestvo/26320303",
+    "time": "2026-02-02T12:39:13.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Беллингем выбыл на месяц. Мимо матчей с «Бенфикой» в ЛЧ",
-    "description": "Новая проблема «Реала».",
-    "fullText": "Новая проблема «Реала».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/5c/8cda6f1c545cf81d2b7cc2293aed3.jpeg",
+    "title": "«Челси» вернул защитника из аренды, а через неделю отправил в новую. Это еще зачем?",
+    "description": "Ансельмино – часть многоходовки.",
+    "fullText": "Ансельмино – часть многоходовки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/63/ac20496e64daa8eba796e2567fb77.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3381727.html",
-    "time": "2026-02-02T07:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Триллер «На помощь!» Сэма Рэйми возглавил бокс-офис США — 20 миллионов долларов в первые выходные проката",
-    "description": "Sci-fi-хоррор «Железное лёгкое» от ютубера Markiplier тоже показал хороший результат — особенно с учётом бюджета в три миллиона.",
-    "fullText": "Sci-fi-хоррор «Железное лёгкое» от ютубера Markiplier тоже показал хороший результат — особенно с учётом бюджета в три миллиона.",
-    "image": "https://leonardo.osnova.io/40269d1c-7266-5426-bbbf-1c08653563a1/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4757945-triller-na-pomoshch-syema-reymi?from=rss",
-    "time": "2026-02-01T17:35:32.000Z"
+    "url": "https://www.sports.ru/football/blogs/3381638.html",
+    "time": "2026-02-02T08:40:00.000Z"
   }
 ]
