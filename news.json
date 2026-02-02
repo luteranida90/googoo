@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Свердловской области ввели запрет на публикацию фото и видео БПЛА",
-    "description": "Новые меры запрещают размещение материалов о месте расположения, временной и постоянной дислокации сил и средств Вооруженных сил РФ и правоохранительных органов",
-    "fullText": "Новые меры запрещают размещение материалов о месте расположения, временной и постоянной дислокации сил и средств Вооруженных сил РФ и правоохранительных органов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26314217",
-    "time": "2026-02-02T06:37:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Над названием этого клуба раньше смеялись. Сможете его правильно написать?",
     "description": "В футбольном диктанте.",
@@ -22,36 +11,36 @@
     "time": "2026-02-02T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "В CS встретились два величайших – мы ждали этот матч 2,5 года",
-    "description": "Местные Месси и Роналду.",
-    "fullText": "Местные Месси и Роналду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/df/6d74762e84accb1c72f12e5dbe02a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3381462.html",
-    "time": "2026-02-01T21:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Зинченко – в «Аяксе»: совсем поник в Англии. И не нужен «Арсеналу»",
-    "description": "Аренда до конца сезона.",
-    "fullText": "Аренда до конца сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/37/3f5b41a7a4130b2976581e87f0de0.jpeg",
+    "title": "«Простите меня. Я буду хорошим мальчиком». Как же Царукян грызется за титульник UFC",
+    "description": "Даже готов спуститься в полулегкий вес.",
+    "fullText": "Даже готов спуститься в полулегкий вес.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a3/83e246323486db0202e59b6c08c71.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3377382.html",
-    "time": "2026-02-01T20:05:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3381442.html",
+    "time": "2026-02-01T21:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo сняла с продажи ваучеры для покупки игр на Switch со скидкой",
-    "description": "Уже приобретённые продолжают действовать.",
-    "fullText": "Уже приобретённые продолжают действовать.",
-    "image": "https://leonardo.osnova.io/753b1283-a195-52b7-8e8c-b1b3eb9177d4/",
+    "title": "Поддержка Apex Legends на Nintendo Switch закончится 4 августа",
+    "description": "На Switch 2 игра продолжит работать.",
+    "fullText": "На Switch 2 игра продолжит работать.",
+    "image": "https://leonardo.osnova.io/103d535c-a1ca-53b6-8a2d-b7c8626cb7f5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4755310-nintendo-zakryvaet-programmu-vaucherov-dlya-igr-na-switch?from=rss",
-    "time": "2026-01-31T09:14:47.000Z"
+    "url": "https://dtf.ru/games/4755770-podderzhka-apex-legends-na-nintendo-switch-zavershitsya-4-avgusta?from=rss",
+    "time": "2026-01-31T13:58:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
