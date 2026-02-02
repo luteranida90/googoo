@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве задержали ударившего ногой по голове пассажира метро",
+    "description": "Также задержанный разбил стекло вагона поезда",
+    "fullText": "Также задержанный разбил стекло вагона поезда",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26315835",
+    "time": "2026-02-02T08:21:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Над названием этого клуба раньше смеялись. Сможете его правильно написать?",
     "description": "В футбольном диктанте.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Простите меня. Я буду хорошим мальчиком». Как же Царукян грызется за титульник UFC",
-    "description": "Даже готов спуститься в полулегкий вес.",
-    "fullText": "Даже готов спуститься в полулегкий вес.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a3/83e246323486db0202e59b6c08c71.jpeg",
+    "title": "Новый антирекорд СКА – 7 поражений подряд. И что теперь?",
+    "description": "Спасает отрыв от «Шанхая».",
+    "fullText": "Спасает отрыв от «Шанхая».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/bd/50665bbe54b89a54b4b575684e5ac.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3381442.html",
-    "time": "2026-02-01T21:25:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3381702.html",
+    "time": "2026-02-01T22:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Поддержка Apex Legends на Nintendo Switch закончится 4 августа",
-    "description": "На Switch 2 игра продолжит работать.",
-    "fullText": "На Switch 2 игра продолжит работать.",
-    "image": "https://leonardo.osnova.io/103d535c-a1ca-53b6-8a2d-b7c8626cb7f5/",
+    "title": "Авторы Highguard пока не знают, сожалеют ли об анонсе игры на The Game Awards вместо планируемого «шэдоудропа»",
+    "description": "Тем временем для шутера выпустили временный режим «5 на 5».",
+    "fullText": "Тем временем для шутера выпустили временный режим «5 на 5».",
+    "image": "https://leonardo.osnova.io/74111c4f-5fcc-5e17-803c-95a6a4a91b44/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4755770-podderzhka-apex-legends-na-nintendo-switch-zavershitsya-4-avgusta?from=rss",
-    "time": "2026-01-31T13:58:57.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4755605-razrabotchiki-highguard-obshchayut-anons-na-the-game-awards?from=rss",
+    "time": "2026-01-31T12:31:02.000Z"
   }
 ]
