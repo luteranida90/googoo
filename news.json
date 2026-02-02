@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Омске завели дело из-за нарушения прав дольщиков в двух домах",
+    "description": "Пострадали более 100 человек",
+    "fullText": "Пострадали более 100 человек",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26322283",
+    "time": "2026-02-02T15:45:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Клюшку с автографом Овечкина получил прямо из его рук – это было незабываемо». Истории хоккеистов КХЛ",
     "description": "Теперь сами стали кумирами.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Курьез дня в НБА: Егор Дёмин забросил мяч в свое кольцо. На кого записывают такие очки?",
-    "description": "Автоголов в баскетболе не бывает.",
-    "fullText": "Автоголов в баскетболе не бывает.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/4f/d00557ddd418790fb7a5488aff1f0.gif",
+    "title": "Хоккей настолько очистился, что «Детройт» возвращается в плей-офф",
+    "description": "Как в старые добрые времена.",
+    "fullText": "Как в старые добрые времена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ad/b3eeeef024cda917364e683b54e5a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3377509.html",
-    "time": "2026-02-02T11:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3381098.html",
+    "time": "2026-02-02T12:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Ты её знаешь?»: трейлер фильма «Дьявол носит Prada 2»",
-    "description": "Прокат стартует в мае.",
-    "fullText": "Прокат стартует в мае.",
-    "image": "https://leonardo.osnova.io/6fedfc30-032c-5bb8-a4e0-6c10854ae771/-/format/mp4/",
+    "title": "Авторы Fallout 76 не исключили, что в 2026 году сосредоточатся на «углублении» карты, а не расширении",
+    "description": "Они признали, что невозможно бесконечно увеличивать игровые зоны.",
+    "fullText": "Они признали, что невозможно бесконечно увеличивать игровые зоны.",
+    "image": "https://leonardo.osnova.io/9c1b38d9-15a6-5f8e-bb9c-24fd3b1cecc8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4758744-treyler-filma-dyavol-nosit-prada-2?from=rss",
-    "time": "2026-02-02T07:37:46.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4759115-fallout-76-v-2026-godu-uglublenie-karty-vmesto-rasshireniya?from=rss",
+    "time": "2026-02-02T11:09:44.000Z"
   }
 ]
