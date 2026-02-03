@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Дагестане пострадавших от угарного газа детей выпишут из больницы 4 февраля",
-    "description": "В стационаре дети получают необходимый уход",
-    "fullText": "В стационаре дети получают необходимый уход",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин назвал приоритетом повышение производительности труда при дефиците кадров",
+    "description": "Президент призвал более активно внедрять автоматические системы и промышленных роботов, цифровые платформы",
+    "fullText": "Президент призвал более активно внедрять автоматические системы и промышленных роботов, цифровые платформы",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529901.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26335387",
-    "time": "2026-02-03T15:54:27.000Z"
+    "url": "https://tass.ru/ekonomika/26336113",
+    "time": "2026-02-03T17:01:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Из-за Ферстаппена правила «Ф-1» меняли 13 раз. Что стало первой причиной?",
+    "description": "Настоящий бунтарь.",
+    "fullText": "Настоящий бунтарь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/6b/8f3e48adb4f009887e57fff1df335.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/df8o17",
+    "time": "2026-02-03T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новинки на первых испытаниях «Ф-1»: хитрое антикрыло «Мерседеса» и удивительная машина Ньюи",
-    "description": "Есть на что посмотреть.",
-    "fullText": "Есть на что посмотреть.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a1/bd62e2c1848caac12273983943993.jpeg",
+    "title": "«Челси» вернул защитника из аренды, а через неделю отправил в новую. Это еще зачем?",
+    "description": "Ансельмино – часть многоходовки.",
+    "fullText": "Ансельмино – часть многоходовки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/63/ac20496e64daa8eba796e2567fb77.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3381430.html",
-    "time": "2026-02-03T11:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Готовы к хоккейному турниру на Олимпиаде?",
-    "description": "Тест на знание звезд сборных.",
-    "fullText": "Тест на знание звезд сборных.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/ab/fc5808ce345b3a7235c1861464806.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/iedj8h",
-    "time": "2026-02-03T11:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3381638.html",
+    "time": "2026-02-03T13:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Bloober Team уточнили, что их тизер-сайт не связан с какими-либо ремейками",
-    "description": "Вариант с Rule of Rose окончательно отпадает.",
-    "fullText": "Вариант с Rule of Rose окончательно отпадает.",
-    "image": "https://leonardo.osnova.io/dcd4d196-720e-504d-9fad-91cbd6a5b503/",
+    "title": "Sony запатентовала персонализированные ИИ-подкасты с голосами персонажей из игр компании",
+    "description": "С возможностью сообщать новости и давать советы по прохождению.",
+    "fullText": "С возможностью сообщать новости и давать советы по прохождению.",
+    "image": "https://leonardo.osnova.io/3120161f-1df9-5ec9-95f3-30ae4eb561e7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4761072-bloober-team-oprovergnula-sluhy-o-remejkakh?from=rss",
-    "time": "2026-02-03T11:11:23.000Z"
+    "url": "https://dtf.ru/gameindustry/4761199-sony-zapatentovala-ii-podkasty-s-golosami-igrovyh-personazhej?from=rss",
+    "time": "2026-02-03T12:39:58.000Z"
   }
 ]
