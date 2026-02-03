@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Netflix проведет трансляцию первого с 2022 года концерта BTS",
+    "description": "Южнокорейская группа 20 марта выпустит новый альбом, который получил название ARIRANG",
+    "fullText": "Южнокорейская группа 20 марта выпустит новый альбом, который получил название ARIRANG",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/26328263",
+    "time": "2026-02-03T06:35:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "По кому в детстве фанатели игроки КХЛ? Узнайте в новом тексте",
     "description": "Не только по Овечкину.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жереми Жаке – новый большой трансфер «Ливерпуля». Кто это такой?",
-    "description": "Рассказ Артема Денисова.",
-    "fullText": "Рассказ Артема Денисова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/58/b030820a447e890908403a44c6457.jpeg",
+    "title": "Почему одни стадионы похожи на подкову, а другие – на космические корабли?",
+    "description": "Итог вековой борьбы.",
+    "fullText": "Итог вековой борьбы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e6/2844981a2471dbad04f9589ecbae2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3381599.html",
-    "time": "2026-02-02T20:15:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3380910.html",
+    "time": "2026-02-02T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Издательский директор Larian не согласился со словами дизайнера Skyrim, что люди испытали бы «кринж» от переиздания Morrowind",
-    "description": "По его словам, Bethesda нужно найти «свою Bloober Team».",
-    "fullText": "По его словам, Bethesda нужно найти «свою Bloober Team».",
-    "image": "https://leonardo.osnova.io/a9fff3ec-5add-5bd7-a13f-5d76e351a3ab/",
+    "title": "«Сделай это!»: трейлер байопика о Майкле Джексоне",
+    "description": "Зарубежный прокат фильма начнётся 24 апреля.",
+    "fullText": "Зарубежный прокат фильма начнётся 24 апреля.",
+    "image": "https://leonardo.osnova.io/739ffa60-9263-5f9c-b279-556444c609b0/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4759330-izdatel-larian-o-pereizdanii-morrowind?from=rss",
-    "time": "2026-02-02T13:18:09.000Z"
+    "url": "https://dtf.ru/cinema/4759491-bajopik-o-majkle-dzheksonie?from=rss",
+    "time": "2026-02-02T14:08:21.000Z"
   }
 ]
