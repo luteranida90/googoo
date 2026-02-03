@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мишустин отметил внимание \"Справедливой России\" к поддержке бойцов СВО",
-    "description": "Члены партии, как указал председатель правительства РФ, всегда \"придерживались и придерживаются патриотических позиций\"",
-    "fullText": "Члены партии, как указал председатель правительства РФ, всегда \"придерживались и придерживаются патриотических позиций\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241223/7980949.jpg",
+    "title": "В Дагестане пострадавших от угарного газа детей выпишут из больницы 4 февраля",
+    "description": "В стационаре дети получают необходимый уход",
+    "fullText": "В стационаре дети получают необходимый уход",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26335001",
-    "time": "2026-02-03T14:56:03.000Z"
+    "url": "https://tass.ru/proisshestviya/26335387",
+    "time": "2026-02-03T15:54:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,6 +22,17 @@
     "time": "2026-02-03T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новинки на первых испытаниях «Ф-1»: хитрое антикрыло «Мерседеса» и удивительная машина Ньюи",
+    "description": "Есть на что посмотреть.",
+    "fullText": "Есть на что посмотреть.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a1/bd62e2c1848caac12273983943993.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3381430.html",
+    "time": "2026-02-03T11:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Готовы к хоккейному турниру на Олимпиаде?",
     "description": "Тест на знание звезд сборных.",
@@ -33,25 +44,14 @@
     "time": "2026-02-03T11:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вселенная тату Алькараса. Бьет в честь каждого «Шлема», еще есть «мозг, сердце и яйца»",
-    "description": "Скоро появится кенгуру.",
-    "fullText": "Скоро появится кенгуру.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ef/2ab9c1bb0465d917c9033014cfbdf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3381924.html",
-    "time": "2026-02-03T10:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ashes of Creation сняли с продажи в Steam",
-    "description": "А игроки сообщают о рефандах.",
-    "fullText": "А игроки сообщают о рефандах.",
-    "image": "https://leonardo.osnova.io/6c0a2851-8dcd-5274-8ece-d36b2fb84d26/",
+    "title": "В Bloober Team уточнили, что их тизер-сайт не связан с какими-либо ремейками",
+    "description": "Вариант с Rule of Rose окончательно отпадает.",
+    "fullText": "Вариант с Rule of Rose окончательно отпадает.",
+    "image": "https://leonardo.osnova.io/dcd4d196-720e-504d-9fad-91cbd6a5b503/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4760668-ashes-of-creation-snyali-s-prodazhi-v-steam?from=rss",
-    "time": "2026-02-03T08:13:58.000Z"
+    "url": "https://dtf.ru/games/4761072-bloober-team-oprovergnula-sluhy-o-remejkakh?from=rss",
+    "time": "2026-02-03T11:11:23.000Z"
   }
 ]
