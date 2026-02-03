@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Чемпион Европы по велотреку россиянин Гонов надеется к ЧМ стать еще сильнее",
-    "description": "Спортсмен занял первое место в индивидуальной гонке",
-    "fullText": "Спортсмен занял первое место в индивидуальной гонке",
+    "title": "Белый дом: визит Делси Родригес в США обсуждается",
+    "description": "Твердых планов пока нет, уточнила пресс-секретарь вашингтонской администрации Кэролайн Ливитт",
+    "fullText": "Твердых планов пока нет, уточнила пресс-секретарь вашингтонской администрации Кэролайн Ливитт",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26336775",
-    "time": "2026-02-03T19:08:15.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26336933",
+    "time": "2026-02-03T20:10:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что вы пропустили в 24-м туре АПЛ: гол «Ливерпуля» начал болбой, Семеньо не рассчитал сальто",
+    "description": "Пеп вам подмигнул.",
+    "fullText": "Пеп вам подмигнул.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/18/ae9e8f512423e8ade6a10d4ba5ae0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3381800.html",
+    "time": "2026-02-03T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-03T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Марсель и не только: каким он был в 2016-м?",
-    "description": "В стиле тренда про 10 лет.",
-    "fullText": "В стиле тренда про 10 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/53/b104a8a2246fb83985961f26f832d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382027.html",
-    "time": "2026-02-03T15:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "У авторов Dispatch «нет возможности» выпустить физическое издание на Switch без цензуры",
-    "description": "Более того, на коробочную версию пока нет совсем никаких планов.",
-    "fullText": "Более того, на коробочную версию пока нет совсем никаких планов.",
-    "image": "https://leonardo.osnova.io/5ad263ec-6131-5d34-8971-d07f47b662a2/",
+    "title": "В российских онлайн-кинотеатрах состоялся релиз «Выхода 8» — экранизации инди-хоррора про поиск аномалий в подземном переходе",
+    "description": "Режиссёром фильма выступил Гэнки Кавамура.",
+    "fullText": "Режиссёром фильма выступил Гэнки Кавамура.",
+    "image": "https://leonardo.osnova.io/4e581dd1-370c-58a7-8ce5-d99718ec9fdc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4761304-dispatch-ne-smozhet-vypustit-fizicheskoe-izdanie-na-switch-bez-tsenzury?from=rss",
-    "time": "2026-02-03T13:37:53.000Z"
+    "url": "https://dtf.ru/cinema/4761320-vikhod-8-reziz-indi-horrora?from=rss",
+    "time": "2026-02-03T13:51:24.000Z"
   }
 ]
