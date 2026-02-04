@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ульяновской области отменили режим беспилотной опасности",
-    "description": "Режим был введен около 09:40 мск",
-    "fullText": "Режим был введен около 09:40 мск",
+    "title": "Президентский совет Ливии следит за расследованием убийства сына Каддафи",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26343499",
-    "time": "2026-02-04T10:26:38.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26344379",
+    "time": "2026-02-04T11:18:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Сафонов рассказал, как готовится к пенальти",
+    "description": "Секрет успеха прост.",
+    "fullText": "Секрет успеха прост.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/c1/971b325b34df38fde9b3e265b5c07.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/mfdvgq",
+    "time": "2026-02-04T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сейчас научим смотреть фигурное катание и не плавать в судействе",
-    "description": "Крутихина все объясняет.",
-    "fullText": "Крутихина все объясняет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/5d/5152251df452993abfbd2101b9ea6.jpeg",
+    "title": "«Мы их хорошенько отсмурфили!» 25 фактов про «Лаваль» – французский сюрприз из детских воспоминаний Зидана",
+    "description": "Через клуб прошли Лебеф, Обамеянг и Гирасси.",
+    "fullText": "Через клуб прошли Лебеф, Обамеянг и Гирасси.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/21/e0b55fcec4d85a20cb1fb16d629a3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3379148.html",
-    "time": "2026-02-04T05:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Из-за Ферстаппена правила «Ф-1» меняли 13 раз. Что стало первой причиной?",
-    "description": "Настоящий бунтарь.",
-    "fullText": "Настоящий бунтарь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/6b/8f3e48adb4f009887e57fff1df335.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/df8o17",
-    "time": "2026-02-04T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3381964.html",
+    "time": "2026-02-04T06:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Отчёт EA: Battlefield 6 обеспечила рост прибыли на 38% по сравнению с прошлым годом",
-    "description": "Electronic Arts отказалась от проведения традиционной конференции с инвесторами.",
-    "fullText": "Electronic Arts отказалась от проведения традиционной конференции с инвесторами.",
-    "image": "https://leonardo.osnova.io/775bcd2e-4025-51f7-9fe2-821c2555f45e/",
+    "title": "Маркетинговая кампания GTA VI начнётся летом",
+    "description": "Криминальный экшен будет доступен на дисках со дня релиза.",
+    "fullText": "Криминальный экшен будет доступен на дисках со дня релиза.",
+    "image": "https://leonardo.osnova.io/4576a84b-31ce-5c32-82dc-53999d397b2e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4762146-otchet-ea-rost-pribyli-battelfield-6?from=rss",
-    "time": "2026-02-03T22:29:12.000Z"
+    "url": "https://dtf.ru/games/4762132-marketingovaya-kampaniya-gta-vi-nachnetsya-letom?from=rss",
+    "time": "2026-02-03T21:34:57.000Z"
   }
 ]
