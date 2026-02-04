@@ -1,25 +1,47 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Краснодарский край восстановит центр образования и центр единоборств в Геническе",
-    "description": "Также регион-шеф поможет Херсонской области в строительстве водовода в Ивановке для централизованного водоснабжения округа",
-    "fullText": "Также регион-шеф поможет Херсонской области в строительстве водовода в Ивановке для централизованного водоснабжения округа",
+    "title": "Техкомитет \"Кинематография\" разработает ГОСТ для цифрового кинопроизводства",
+    "description": "Это позволит создать единые правила игры для всех участников рынка, сообщил руководитель Федерального агентства по техническому регулированию и метрологии Антон Шалаев",
+    "fullText": "Это позволит создать единые правила игры для всех участников рынка, сообщил руководитель Федерального агентства по техническому регулированию и метрологии Антон Шалаев",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26348303",
-    "time": "2026-02-04T15:55:49.000Z"
+    "url": "https://tass.ru/ekonomika/26348811",
+    "time": "2026-02-04T16:48:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Let’s goooo – Спортс’’ запустил Fast Offer для golang-разработчиков!",
+    "description": "Принимаем заявки до 10 февраля.",
+    "fullText": "Принимаем заявки до 10 февраля.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/fc/5bcbca647432793716fd7a61f8691.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/jastjt",
+    "time": "2026-02-04T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "По кому в детстве фанатели игроки КХЛ? Узнайте в новом тексте",
-    "description": "Не только по Овечкину.",
-    "fullText": "Не только по Овечкину.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4d/fed54aa37466c85bec8f65cae48cb.png",
+    "title": "Хоккеист без зуба, но не Овечкин. Узнаете его по детской фотке?",
+    "description": "И еще 9 звезд КХЛ.",
+    "fullText": "И еще 9 звезд КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/e4/1468f8784431aa193cf12a6b3778e.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/2cgzjg",
-    "time": "2026-02-04T11:30:00.000Z"
+    "url": "https://sirena.world/6jssib",
+    "time": "2026-02-04T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Это твой вайб» – девиз Олимпиады-2026. А вайб это вообще что?",
+    "description": "Кринж или норм?",
+    "fullText": "Кринж или норм?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/33/7cfd9120a4967a4fefd544a338d27.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3369264.html",
+    "time": "2026-02-04T13:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4763003-goiti-suda-generativnyi-ii-romeo-is-a-dead-man?from=rss",
     "time": "2026-02-04T11:23:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Финал ЛЧ на «Камп Ноу» – план «Барсы» на 2029-й. Осталось убрать крыс и протечки",
-    "description": "Следующая цель – финал ЧМ-2030.",
-    "fullText": "Следующая цель – финал ЧМ-2030.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ca/1518833a446ebaa9614b6d26b7604.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382091.html",
-    "time": "2026-02-04T10:30:00.000Z"
   }
 ]
