@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Запорожье произошли взрывы",
-    "description": "В подконтрольных киевским властям районах Запорожской области действует воздушная тревога",
-    "fullText": "В подконтрольных киевским властям районах Запорожской области действует воздушная тревога",
+    "title": "ТАСС: напавшая на одноклассников в школе Красноярска девочка не состоит на учете",
+    "description": "Ребенок растет в полной и обеспеченной семье",
+    "fullText": "Ребенок растет в полной и обеспеченной семье",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26341249",
-    "time": "2026-02-04T08:24:24.000Z"
+    "url": "https://tass.ru/proisshestviya/26342421",
+    "time": "2026-02-04T09:30:41.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2026-02-04T07:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Харден – в «Кливленде», переход Янниса под вопросом, «Бостон» берет Вучевича. Последние дни обменов в НБА",
+    "description": "Онлайн.",
+    "fullText": "Онлайн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/fb/b2d2311fe4034b6e64c59ed9962aa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3381704.html",
+    "time": "2026-02-04T04:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как играет новичок «Ливерпуля» за 60 млн. Оцените сами!",
     "description": "Хайлайты Жереми Жаке.",
@@ -33,25 +44,14 @@
     "time": "2026-02-04T00:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Гринвуда уже 22 гола в сезоне! Ведет «Марсель» к трофею",
-    "description": "Продвинулись в Кубке.",
-    "fullText": "Продвинулись в Кубке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/26/033e0d5f84430b182ef3168d6c375.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382214.html",
-    "time": "2026-02-03T23:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Зарубежный прокат эпической драмы «Смерть Робина Гуда» с Хью Джекманом начнётся 19 июня",
-    "description": "В картине также сыграли Билл Скарсгард и Джоди Комер.",
-    "fullText": "В картине также сыграли Билл Скарсгард и Джоди Комер.",
-    "image": "https://leonardo.osnova.io/c9ddb42e-f75f-5943-b6df-0fdb02cf5906/-/format/mp4/",
+    "title": "«Мухи всегда слетаются на гнилой сыр» — 12 минут геймплея Mouse: P.I. for Hire, чёрно-белого шутера, вдохновлённого классическими работами Disney",
+    "description": "Главного героя, детектива Джека Пеппера, озвучил Трой Бейкер.",
+    "fullText": "Главного героя, детектива Джека Пеппера, озвучил Трой Бейкер.",
+    "image": "https://leonardo.osnova.io/de515915-8d4e-58bf-82a7-82bf7ca668fe/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4761991-smert-robin-guda-hyu-dzhekman?from=rss",
-    "time": "2026-02-03T20:12:50.000Z"
+    "url": "https://dtf.ru/games/4761750-gejmplej-mouse-pi-for-hire-nuarnyj-shuter-v-stile-disney?from=rss",
+    "time": "2026-02-03T18:11:18.000Z"
   }
 ]
