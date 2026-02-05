@@ -1,9 +1,20 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Геоскан\" запустит в Москве серийное производство образовательного дрона с ИИ",
+    "description": "Максимальная продолжительность полета дрона составляет 11 минут",
+    "fullText": "Максимальная продолжительность полета дрона составляет 11 минут",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/26364067",
+    "time": "2026-02-05T18:52:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Шанхай» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "title": "Гамзин спас для ЦСКА победу над «Шанхаем». Показывали на ВидеоСпортсе’’",
+    "description": "Шестая подряд!",
+    "fullText": "Шестая подряд!",
     "image": "https://photobooth.cdn.sports.ru/preset/article/d/97/c5044217a46f1869bda3bb03e4536.jpeg",
     "source": "Sports.ru",
     "category": "all",
@@ -12,35 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Мне просто хотелось посмотреть раздевалку «Барыса». О чем мечтали игроки КХЛ?",
-    "description": "Истории из детства.",
-    "fullText": "Истории из детства.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4d/fed54aa37466c85bec8f65cae48cb.png",
+    "title": "Какой подарок идеально подойдет фанату «Барселоны»? Узнайте в новом тесте",
+    "description": "Про эстетику и спорт.",
+    "fullText": "Про эстетику и спорт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/17/89448eea440798277fa2004715c0f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/2cgzjg",
-    "time": "2026-02-05T14:00:00.000Z"
+    "url": "https://sirena.world/78zfvl",
+    "time": "2026-02-05T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Никитин вновь делает ЦСКА топ-клубом. Спад на старте был ожидаемым",
-    "description": "Уже взлетели в таблице.",
-    "fullText": "Уже взлетели в таблице.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/13/73892c5c34c2ab42f7c8e466ba8b1.jpeg",
+    "title": "Харден привычно форсировал обмен. Теперь не ради титула, а из-за денег",
+    "description": "Встретились два одиночества.",
+    "fullText": "Встретились два одиночества.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/71/ff4735b544959ae3fc3faa2caa757.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3382317.html",
-    "time": "2026-02-05T13:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3382499.html",
+    "time": "2026-02-05T14:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Crimson Desert рассказали о боевой системе и прогрессии",
-    "description": "Победы над некоторыми боссами откроют уникальные способности.",
-    "fullText": "Победы над некоторыми боссами откроют уникальные способности.",
-    "image": "https://leonardo.osnova.io/5f60a75c-c2a4-5ddb-a1de-9e1d5a7d59b1/-/format/mp4/",
+    "title": "Хостинг-компания Squarespace опубликовала рекламный ролик с Эммой Стоун — промо снял Йоргос Лантимос",
+    "description": "Ещё одна работа продуктивного дуэта.",
+    "fullText": "Ещё одна работа продуктивного дуэта.",
+    "image": "https://leonardo.osnova.io/f03c2653-9e5c-52db-a8f1-186c7256c61e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4764899-crimson-desert-podrobnosti-boevoy-sistemy-i-progressii?from=rss",
-    "time": "2026-02-05T10:55:44.000Z"
+    "url": "https://dtf.ru/cinema/4765227-reklamnyj-rolik-squarespace-s-emmoj-stoun-i-jorgosom-lantimosom?from=rss",
+    "time": "2026-02-05T13:34:17.000Z"
   }
 ]
