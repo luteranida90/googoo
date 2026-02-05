@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Каримова: индивидуалистический подход вызывает сложности у педагогов",
-    "description": "Важно уметь понимать запросы студента, чтобы обучение ощущалось как индивидуальное, отметила старший преподаватель УрГПУ",
-    "fullText": "Важно уметь понимать запросы студента, чтобы обучение ощущалось как индивидуальное, отметила старший преподаватель УрГПУ",
+    "title": "Для отечественных радиовещателей введут единую тарификацию за эфир в интернете",
+    "description": "Соглашение, подписанное между РАР, РАО и ВОИС, включает потоковый радиоэфир в интернете как разновидность эфирного и кабельного вещания",
+    "fullText": "Соглашение, подписанное между РАР, РАО и ВОИС, включает потоковый радиоэфир в интернете как разновидность эфирного и кабельного вещания",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26361737",
-    "time": "2026-02-05T15:52:24.000Z"
+    "url": "https://tass.ru/obschestvo/26362917",
+    "time": "2026-02-05T16:59:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Шанхай» – ЦСКА: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/97/c5044217a46f1869bda3bb03e4536.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/uCZC7trrdN5VlWg9TEulzKeiJDPkGAJgaEtjQfLNx8Y",
+    "time": "2026-02-05T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,25 @@
     "time": "2026-02-05T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "У мода по восстановлению Van Buren в Fallout: New Vegas сменилось название — The New West вместо Revelation Blues",
-    "description": "Авторы планируют в ближайшее время выпустить новое демо.",
-    "fullText": "Авторы планируют в ближайшее время выпустить новое демо.",
-    "image": "https://leonardo.osnova.io/96c41aa3-106e-526f-bf4e-0561e994f3ce/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4765067-mod-the-new-west-dlya-fallout-new-vegas?from=rss",
-    "time": "2026-02-05T12:07:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нани едет в клуб загадочного медного магната. И увидит казахский «Энфилд»!",
-    "description": "Рассказывает Азатхан Чекабаев.",
-    "fullText": "Рассказывает Азатхан Чекабаев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b4/a7518e4de4ecb8e4e2e25834854af.jpeg",
+    "title": "Олимпиада-2026 изнутри: 11 часов в пути между аренами – такой логистики еще не было",
+    "description": "Репортаж Иванова и Марьянчик из Милана.",
+    "fullText": "Репортаж Иванова и Марьянчик из Милана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/dc/0766828844ca6a5699f5be388c515.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382358.html",
-    "time": "2026-02-05T11:50:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3382471.html",
+    "time": "2026-02-05T13:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Глава EGS подтвердил, что магазин планируют запустить на следующем Xbox",
+    "description": "Похоже, платформа действительно станет более открытой.",
+    "fullText": "Похоже, платформа действительно станет более открытой.",
+    "image": "https://leonardo.osnova.io/6b6e34a0-df20-5977-a8c6-d8ee3a405f8c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4764888-epic-games-store-na-novom-xbox?from=rss",
+    "time": "2026-02-05T10:16:33.000Z"
   }
 ]
