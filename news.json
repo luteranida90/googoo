@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Харькове произошли взрывы",
-    "description": "В Харьковской области действует воздушная тревога",
-    "fullText": "В Харьковской области действует воздушная тревога",
+    "title": "Космические аппараты вывели на целевую орбиту",
+    "description": "Старт ракеты-носителя прошел в штатном режиме, сообщили в Минобороны РФ",
+    "fullText": "Старт ракеты-носителя прошел в штатном режиме, сообщили в Минобороны РФ",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26364829",
-    "time": "2026-02-05T22:10:03.000Z"
+    "url": "https://tass.ru/kosmos/26364845",
+    "time": "2026-02-05T22:18:03.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -45,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Weappy представила главную тему The Eternal Life of Goldman — её написал Кевин Пенкин, известный по Made in Abyss",
-    "description": "Музыкант потратил на создание мелодии два с лишним года.",
-    "fullText": "Музыкант потратил на создание мелодии два с лишним года.",
-    "image": "https://leonardo.osnova.io/ca93fa25-ea8c-5038-8884-1497a1b0c662/",
+    "title": "Warhorse помогла авторам Knight&#039;s Path — компания разрешила коллегам использовать свою студию захвата движений",
+    "description": "«Любовь к Средневековью и видеоиграм объединяет людей», — заявили создатели фэнтезийной экшен-RPG.",
+    "fullText": "«Любовь к Средневековью и видеоиграм объединяет людей», — заявили создатели фэнтезийной экшен-RPG.",
+    "image": "https://leonardo.osnova.io/5a8f7ee9-3690-5640-a95a-8dd3134399a3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4765614-weappy-muzyka-dlya-the-eternal-life-of-goldman?from=rss",
-    "time": "2026-02-05T16:41:32.000Z"
+    "url": "https://dtf.ru/games/4765479-warhorse-podderzhala-razrabotchikov-knights-path?from=rss",
+    "time": "2026-02-05T15:54:01.000Z"
   }
 ]
