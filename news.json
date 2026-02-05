@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Уильямс и Шарапова обязаны ей контрактами. Кто добился равных условий для теннисисток?",
+    "description": "Легенда спорта.",
+    "fullText": "Легенда спорта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/e4/5ec04bacf4997a7905fad11336d44.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/ctulsl",
+    "time": "2026-02-05T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Монако» Головина бьется за четвертьфинал Кубка – но пока летят «Страсбуру». Следим на ВидеоСпортсе’’ в компании Денисова",
+    "title": "«Монако» Головина пытается спастись в Кубке в жаркой концовке против «Страсбура». Следим на ВидеоСпортсе’’ в компании Денисова",
     "description": "Показываем совместно с ТВ Старт.",
     "fullText": "Показываем совместно с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/b0/0cdf9b0c041059f64278b05ee9c10.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/s9rfiG4PWXdqpKrGlb8d4Y_l6Rjnv-jYuhIGLo9EELY",
-    "time": "2026-02-05T21:11:00.000Z"
+    "time": "2026-02-05T21:27:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Зампред ЦБ заявил, что обман с использованием дипфейков сохранится в 2026 году",
+    "description": "В банковской сфере риск применения дипфейков для входа в дистанционные каналы или получения финансовых услуг сведен к минимуму, отметил Герман Зубарев",
+    "fullText": "В банковской сфере риск применения дипфейков для входа в дистанционные каналы или получения финансовых услуг сведен к минимуму, отметил Герман Зубарев",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26364675",
+    "time": "2026-02-05T21:04:36.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -31,27 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4765614-weappy-muzyka-dlya-the-eternal-life-of-goldman?from=rss",
     "time": "2026-02-05T16:41:32.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какой подарок идеально подойдет фанату «Барселоны»? Узнайте в новом тесте",
-    "description": "Про эстетику и спорт.",
-    "fullText": "Про эстетику и спорт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/17/89448eea440798277fa2004715c0f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/78zfvl",
-    "time": "2026-02-05T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
