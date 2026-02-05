@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Геоскан\" запустит в Москве серийное производство образовательного дрона с ИИ",
-    "description": "Максимальная продолжительность полета дрона составляет 11 минут",
-    "fullText": "Максимальная продолжительность полета дрона составляет 11 минут",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "От штурмана до главкома ВМФ. Каким был путь Владимира Куроедова",
+    "description": "Адмирал флота умер 5 февраля 2026 года",
+    "fullText": "Адмирал флота умер 5 февраля 2026 года",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260205/8794913.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nauka/26364067",
-    "time": "2026-02-05T18:52:40.000Z"
+    "url": "https://tass.ru/info/26364221",
+    "time": "2026-02-05T19:35:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Гамзин спас для ЦСКА победу над «Шанхаем». Показывали на ВидеоСпортсе’’",
-    "description": "Шестая подряд!",
-    "fullText": "Шестая подряд!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/97/c5044217a46f1869bda3bb03e4536.jpeg",
+    "title": "Головин вот-вот поведет «Монако» в четвертьфинал Кубка – обсуждаем в предматчевой студии с Лукомским и Денисовым",
+    "description": "Транслируем совместно с ТВ Старт.",
+    "fullText": "Транслируем совместно с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/b0/0cdf9b0c041059f64278b05ee9c10.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/stream/uCZC7trrdN5VlWg9TEulzKeiJDPkGAJgaEtjQfLNx8Y",
-    "time": "2026-02-05T17:12:00.000Z"
+    "url": "https://video.sports.ru/stream/s9rfiG4PWXdqpKrGlb8d4Y_l6Rjnv-jYuhIGLo9EELY",
+    "time": "2026-02-05T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В EGS раздают Botany Manor — головоломку о выращивании растений",
+    "description": "Игру можно забрать до 12 февраля.",
+    "fullText": "Игру можно забрать до 12 февраля.",
+    "image": "https://leonardo.osnova.io/e0419919-9922-5fb6-ab77-f4951459713b/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4765550-besplatnaya-igra-botany-manor-v-egs?from=rss",
+    "time": "2026-02-05T16:31:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Харден привычно форсировал обмен. Теперь не ради титула, а из-за денег",
-    "description": "Встретились два одиночества.",
-    "fullText": "Встретились два одиночества.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/71/ff4735b544959ae3fc3faa2caa757.jpeg",
+    "title": "Хозяева Олимпиад зимой всегда берут больше медалей, чем до. За 80 лет не сработало только у… Италии!",
+    "description": "Россия делала резкий скачок.",
+    "fullText": "Россия делала резкий скачок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/86/73a28770c46ac8daff0edad4603b6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3382499.html",
-    "time": "2026-02-05T14:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хостинг-компания Squarespace опубликовала рекламный ролик с Эммой Стоун — промо снял Йоргос Лантимос",
-    "description": "Ещё одна работа продуктивного дуэта.",
-    "fullText": "Ещё одна работа продуктивного дуэта.",
-    "image": "https://leonardo.osnova.io/f03c2653-9e5c-52db-a8f1-186c7256c61e/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4765227-reklamnyj-rolik-squarespace-s-emmoj-stoun-i-jorgosom-lantimosom?from=rss",
-    "time": "2026-02-05T13:34:17.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3382227.html",
+    "time": "2026-02-05T15:00:00.000Z"
   }
 ]
