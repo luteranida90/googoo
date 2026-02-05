@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лавров: в плане Зеленского по Украине ничего нет о правах нацменьшинств",
+    "description": "Этого плана из 20 пунктов Москва так и не видела, отметил глава МИД России",
+    "fullText": "Этого плана из 20 пунктов Москва так и не видела, отметил глава МИД России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250204/8044203.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26361151",
+    "time": "2026-02-05T14:58:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Из-за Ферстаппена правила «Ф-1» меняли 13 раз. Что стало первой причиной?",
     "description": "Настоящий бунтарь.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мы вспомнили, что значит быть канадцами». Трогательное письмо Макдэвида перед Олимпиадой",
-    "description": "Откровения для The Players’ Tribune.",
-    "fullText": "Откровения для The Players’ Tribune.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/92/3dd7c3e6e46a3a9e8fd43784910b7.jpeg",
+    "title": "Кого и почему мне будет не хватать в Милане-2026. Здесь даже Степанова",
+    "description": "Исповедь Авдохина.",
+    "fullText": "Исповедь Авдохина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e0/7bb9213594543ba6872018ece0f98.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3382012.html",
-    "time": "2026-02-05T10:10:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3381662.html",
+    "time": "2026-02-05T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Герою из Турции в Overwatch поменяли реплику в ходе разработки — из-за созвучия с турецким матом",
-    "description": "Актёр озвучки предложил менее нецензурный вариант.",
-    "fullText": "Актёр озвучки предложил менее нецензурный вариант.",
-    "image": "https://leonardo.osnova.io/ca285839-a1f6-5c82-84f9-73aeba8c9aa4/",
+    "title": "Режиссёр «Нового Человека-паука» Марк Уэбб станет продюсером сериала «Эрагон» для Disney+",
+    "description": "Для экранизации также нашли двух шоураннеров.",
+    "fullText": "Для экранизации также нашли двух шоураннеров.",
+    "image": "https://leonardo.osnova.io/ea5fb4a0-0686-5c4c-b5a4-d4d761755242/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4764530-izmenenie-repliki-geroya-iz-turcii-v-overwatch-iz-za-mata?from=rss",
-    "time": "2026-02-05T07:16:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4764827-mark-uebb-prodyser-serial-eragon-dlya-disney?from=rss",
+    "time": "2026-02-05T09:34:43.000Z"
   }
 ]
