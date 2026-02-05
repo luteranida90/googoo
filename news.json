@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: даты новых встреч по Украине будут согласованы столицами",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Холанд расколдует «Энфилд»? Бруну продолжит тащить «МЮ»? Что будет в туре АПЛ",
+    "description": "Фэнтези-дедлайн – 23:00 в пятницу.",
+    "fullText": "Фэнтези-дедлайн – 23:00 в пятницу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/81/0e049b95e488c98070184b8d6ff9d.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/26356417",
-    "time": "2026-02-05T10:26:04.000Z"
+    "url": "https://www.sports.ru/football/blogs/3382134.html",
+    "time": "2026-02-05T07:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-02-05T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Никитин делает ЦСКА обратно топ-клубом. Спад на старте был ожидаемым",
-    "description": "Уже взлетели в таблице.",
-    "fullText": "Уже взлетели в таблице.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/13/73892c5c34c2ab42f7c8e466ba8b1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3382317.html",
-    "time": "2026-02-05T06:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "5,4 миллиона пьяных убийств и 48,8 миллиона съеденных яблок: статистика KCD II за год с релиза",
-    "description": "Разработчики также объявили о проведении праздничного конкурса.",
-    "fullText": "Разработчики также объявили о проведении праздничного конкурса.",
-    "image": "https://leonardo.osnova.io/6a29add7-f77e-57c3-93ce-fc2319625419/",
+    "title": "«Триумф Team Ninja»: Nioh 3 получила 87 баллов на OpenCritic",
+    "description": "Критики назвали её самой доступной в серии.",
+    "fullText": "Критики назвали её самой доступной в серии.",
+    "image": "https://leonardo.osnova.io/aaba5ce1-fc72-5ad4-a6e2-d88f9a810ab3/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4763696-statistika-kingdom-come-deliverance-ii?from=rss",
-    "time": "2026-02-04T17:10:59.000Z"
+    "url": "https://dtf.ru/games/4763408-nioh-3-obzor-i-otsenki-igry-na-opencritic?from=rss",
+    "time": "2026-02-04T15:54:20.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
