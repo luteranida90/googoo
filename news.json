@@ -1,36 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "От штурмана до главкома ВМФ. Каким был путь Владимира Куроедова",
-    "description": "Адмирал флота умер 5 февраля 2026 года",
-    "fullText": "Адмирал флота умер 5 февраля 2026 года",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260205/8794913.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/info/26364221",
-    "time": "2026-02-05T19:35:05.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Головин вот-вот поведет «Монако» в четвертьфинал Кубка – обсуждаем в предматчевой студии с Лукомским и Денисовым",
-    "description": "Транслируем совместно с ТВ Старт.",
-    "fullText": "Транслируем совместно с ТВ Старт.",
+    "title": "Головин ведет «Монако» в четвертьфинал Кубка – следим на ВидеоСпортсе’’ в компании Денисова",
+    "description": "Показываем совместно с ТВ Старт.",
+    "fullText": "Показываем совместно с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/b0/0cdf9b0c041059f64278b05ee9c10.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/s9rfiG4PWXdqpKrGlb8d4Y_l6Rjnv-jYuhIGLo9EELY",
-    "time": "2026-02-05T19:30:00.000Z"
+    "time": "2026-02-05T20:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Оверчук: РФ предлагает организовать в Бразилии совместное производство лекарств",
+    "description": "Речь идет о препаратах для борьбы с раком и сахарным диабетом, заявил вице-премьер России",
+    "fullText": "Речь идет о препаратах для борьбы с раком и сахарным диабетом, заявил вице-премьер России",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26364321",
+    "time": "2026-02-05T19:46:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS раздают Botany Manor — головоломку о выращивании растений",
-    "description": "Игру можно забрать до 12 февраля.",
-    "fullText": "Игру можно забрать до 12 февраля.",
-    "image": "https://leonardo.osnova.io/e0419919-9922-5fb6-ab77-f4951459713b/",
+    "title": "Weappy представила главную тему The Eternal Life of Goldman — её написал Кевин Пенкин, известный по Made in Abyss",
+    "description": "Музыкант потратил на создание мелодии два с лишним года.",
+    "fullText": "Музыкант потратил на создание мелодии два с лишним года.",
+    "image": "https://leonardo.osnova.io/ca93fa25-ea8c-5038-8884-1497a1b0c662/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4765550-besplatnaya-igra-botany-manor-v-egs?from=rss",
-    "time": "2026-02-05T16:31:58.000Z"
+    "url": "https://dtf.ru/games/4765614-weappy-muzyka-dlya-the-eternal-life-of-goldman?from=rss",
+    "time": "2026-02-05T16:41:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -45,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хозяева Олимпиад зимой всегда берут больше медалей, чем до. За 80 лет не сработало только у… Италии!",
-    "description": "Россия делала резкий скачок.",
-    "fullText": "Россия делала резкий скачок.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/86/73a28770c46ac8daff0edad4603b6.jpeg",
+    "title": "«Астон Мартин» – самый амбициозный проект «Ф-1». А если победы не придут?",
+    "description": "Команда мечты под угрозой.",
+    "fullText": "Команда мечты под угрозой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0f/20c6f22ba48619e0edfc3f8540ff0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3382227.html",
-    "time": "2026-02-05T15:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3379134.html",
+    "time": "2026-02-05T15:40:00.000Z"
   }
 ]
