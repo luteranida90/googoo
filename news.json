@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Более 16 тыс. абхазцев получили водительские права РФ в упрощенном порядке",
+    "description": "Всего в 2025 году было принято 19 140 заявлений на получение российских водительских удостоверений",
+    "fullText": "Всего в 2025 году было принято 19 140 заявлений на получение российских водительских удостоверений",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26375221",
+    "time": "2026-02-06T21:07:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Из-за Ферстаппена правила «Ф-1» меняли 13 раз. Что стало первой причиной?",
     "description": "Настоящий бунтарь.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Загитова дала интервью, делая макияж: про наряды, детей и «достающую медаль»",
-    "description": "«Без мужчины никуда».",
-    "fullText": "«Без мужчины никуда».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/34/bc7822be545a38f3691fe1e143b79.jpeg",
+    "title": "Глядите! Плющенко носит на руках Костылеву – после разрыва и скандалов с мамой",
+    "description": "Лена – чемпионка!",
+    "fullText": "Лена – чемпионка!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/b6/a7b76e80e4dc48de7704d79b13be0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3382723.html",
-    "time": "2026-02-06T17:45:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3382775.html",
+    "time": "2026-02-06T18:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4766779-reliz-nioh-3-ot-team-ninja-problemy-s-optimizatsiey-na-pk?from=rss",
     "time": "2026-02-06T09:47:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
