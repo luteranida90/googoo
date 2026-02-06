@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Х5 запустила подтверждение статуса пенсионера через Max",
-    "description": "Решение тестируется в торговых сетях \"Пятерочка\" и \"Перекресток\" в Москве",
-    "fullText": "Решение тестируется в торговых сетях \"Пятерочка\" и \"Перекресток\" в Москве",
+    "title": "ВСУ вывезли курянина в Сумы под предлогом лечения руки и не отпускали почти год",
+    "description": "Двойной перелом руки со смещением Александр Ткачев получил во время оккупации Вооруженными силами Украины в приграничье",
+    "fullText": "Двойной перелом руки со смещением Александр Ткачев получил во время оккупации Вооруженными силами Украины в приграничье",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26369953",
-    "time": "2026-02-06T10:22:39.000Z"
+    "url": "https://tass.ru/obschestvo/26370947",
+    "time": "2026-02-06T11:18:01.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-02-06T08:05:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Мне так стыдно». Падение главного факелоносца на открытии Игр в Кортине-56",
+    "description": "Гвидо Кароли споткнулся о провод.",
+    "fullText": "Гвидо Кароли споткнулся о провод.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/74/5f89438fa47d68762867e48cdfaab.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skating/blogs/3372989.html",
+    "time": "2026-02-06T07:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кого возьмете в команду – Мбемо или Ришарлисона? Выберите пять героев нового тура",
     "description": "В Основе АПЛ.",
@@ -33,25 +44,14 @@
     "time": "2026-02-06T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А давайте вспомним открытие Сочи-2014. Последняя нормальная Олимпиада для России",
-    "description": "Ровно 12 лет назад.",
-    "fullText": "Ровно 12 лет назад.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/73/40ecee5014773a65698095890925f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3380855.html",
-    "time": "2026-02-06T06:16:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хендерсон: Ubisoft не исключает возможность продажи своих творческих подразделений",
-    "description": "Компания провела внутреннее совещание.",
-    "fullText": "Компания провела внутреннее совещание.",
-    "image": "https://leonardo.osnova.io/695459ea-a824-5d8a-b34c-1dce21d0f4ba/",
+    "title": "Стив Карелл в первом трейлере Rooster — комедийного сериала от создателя «Клиники» Билла Лоуренса",
+    "description": "Шоу об отношениях писателя и его дочери стартует 9 марта.",
+    "fullText": "Шоу об отношениях писателя и его дочери стартует 9 марта.",
+    "image": "https://leonardo.osnova.io/3c8606a8-3835-5076-a0b5-89301d11a76d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4765936-henderson-ubisoft-rassmatrivaet-prodazhu-tvorcheskikh-podrazdeleniy?from=rss",
-    "time": "2026-02-05T20:02:36.000Z"
+    "url": "https://dtf.ru/cinema/4765921-stev-karell-v-komedii-rooster-ot-billa-lourensa?from=rss",
+    "time": "2026-02-05T19:27:16.000Z"
   }
 ]
