@@ -1,35 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пестрая форма Гаити для Милана-2026: там красная лошадь с седлом – а всадника запретил МОК",
-    "description": "🤷‍♂️",
-    "fullText": "🤷‍♂️",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/f5/6e96e6bce44818e643eee1917333e.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сайт движения Медведчука \"Другая Украина\" подвергся DDoS-атаке",
+    "description": "Ресурс уже работаем в штатном режиме",
+    "fullText": "Ресурс уже работаем в штатном режиме",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26368065",
+    "time": "2026-02-06T08:26:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Карта российского киберспорта на 2026 год: кто спонсирует топ-команды и стримеров",
+    "description": "Собрали все активы букмекеров.",
+    "fullText": "Собрали все активы букмекеров.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/13/b58b41c54498d8b0dc8b8db4d9dc3.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3382498.html",
-    "time": "2026-02-05T21:50:00.000Z"
+    "url": "https://cyber.sports.ru/betting/blogs/3382281.html",
+    "time": "2026-02-06T08:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Стартует фигурный командник на Олимпиаде: США идут за золотом, а Грузия... за бронзой!",
+    "description": "Полный расклад.",
+    "fullText": "Полный расклад.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/2c/084f2189e43b6a44b0d65fe5dc71f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3379413.html",
+    "time": "2026-02-06T04:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Уильямс и Шарапова обязаны ей контрактами. Кто добился равных условий для теннисисток?",
-    "description": "Легенда спорта.",
-    "fullText": "Легенда спорта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/e4/5ec04bacf4997a7905fad11336d44.png",
+    "title": "У кого больше шансов на медали Олимпиады?",
+    "description": "Ставьте на фаворитов с фрибетом до 15 000.",
+    "fullText": "Ставьте на фаворитов с фрибетом до 15 000.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/04/35bd5540e42dbb3f87765521fc00c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/ctulsl",
-    "time": "2026-02-05T21:30:00.000Z"
+    "url": "https://sirena.world/au5pj6",
+    "time": "2026-02-06T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Guerrilla анонсировала кооперативный экшен Horizon Hunters Gathering",
-    "description": "Разработчики заверили, что отказываться от одиночных игр не собираются.",
-    "fullText": "Разработчики заверили, что отказываться от одиночных игр не собираются.",
-    "image": "https://leonardo.osnova.io/2dafd2ff-0721-568a-a29c-03d7566b9cc4/-/format/mp4/",
+    "title": "Вышел ремейк Dragon Quest VII",
+    "description": "У игры больше 80 баллов из 100 от СМИ.",
+    "fullText": "У игры больше 80 баллов из 100 от СМИ.",
+    "image": "https://leonardo.osnova.io/9b81d9ca-c743-520d-ae99-84706e3513be/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4765425-horizon-hunters-gathering-ot-guerrilla?from=rss",
-    "time": "2026-02-05T15:11:56.000Z"
+    "url": "https://dtf.ru/games/4765718-remeik-dragon-quest-vii-vyshel-na-pk-i-konsolyakh?from=rss",
+    "time": "2026-02-05T17:26:53.000Z"
   }
 ]
