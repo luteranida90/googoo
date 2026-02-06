@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Возвращенного из украинского плена курянина госпитализировали",
-    "description": "У мужчины, в частности, диагностировали нарушения от закрытой черепно-мозговой травмы",
-    "fullText": "У мужчины, в частности, диагностировали нарушения от закрытой черепно-мозговой травмы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Стартовала церемония открытия Олимпийских игр 2026 года",
+    "description": "Соревнования пройдут в Италии",
+    "fullText": "Соревнования пройдут в Италии",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260206/8797645.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26374757",
-    "time": "2026-02-06T18:34:02.000Z"
+    "url": "https://tass.ru/sport/26374927",
+    "time": "2026-02-06T19:03:40.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-02-06T16:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что смотреть на Олимпиаде-2026, кроме турниров с нашими",
+    "description": "Есть дуэль Клэбо с биатлонистом.",
+    "fullText": "Есть дуэль Клэбо с биатлонистом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/3b/19328c7254210aa196aa0863094dc.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skiing/blogs/3381789.html",
+    "time": "2026-02-06T14:59:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Композитором фильма «Супергёрл» стал Том «Junkie XL» Холкенборг",
     "description": "Изначально музыку для фильма должен был написать Рамин Джавади",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4767367-kompozitor-filma-supergerl-tom-holkenborg?from=rss",
     "time": "2026-02-06T14:37:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ясновидящий говорил, что Мозякин и Зарипов несовместимы на льду». Илья Воробьев открыл блог на Спортсе’’",
-    "description": "Начало.",
-    "fullText": "Начало.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/66/14b2bed4944d8bd517f255c176862.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3382536.html",
-    "time": "2026-02-06T14:30:00.000Z"
   }
 ]
