@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Сорокин: большинство молдаван поддерживают идею интеграции с Россией",
-    "description": "Руководитель Русско-молдавского центра дружбы и сотрудничества отметил необходимость проведения референдума с двумя вопросами: о вступлении Молдовы в Румынию или РФ",
-    "fullText": "Руководитель Русско-молдавского центра дружбы и сотрудничества отметил необходимость проведения референдума с двумя вопросами: о вступлении Молдовы в Румынию или РФ",
+    "title": "В Харьковской области произошли взрывы",
+    "description": "Городская военная администрация сообщила, что было введено аварийное отключение света в большей части Изюмской общины",
+    "fullText": "Городская военная администрация сообщила, что было введено аварийное отключение света в большей части Изюмской общины",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26373275",
-    "time": "2026-02-06T14:54:30.000Z"
+    "url": "https://tass.ru/proisshestviya/26373581",
+    "time": "2026-02-06T15:25:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Так Гвардиола уходит из «Сити» или нет?",
+    "description": "Слухов все больше.",
+    "fullText": "Слухов все больше.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/4e/b10aa35124dd6994451e8fa5f6c96.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3382664.html",
+    "time": "2026-02-06T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-06T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ваша Олимпиада: конкурс историй на Трибуне",
-    "description": "Лучшие тексты отправим на главную, а победителей – в путешествие.",
-    "fullText": "Лучшие тексты отправим на главную, а победителей – в путешествие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/42/b3819323f445cb5969b9ed77bac4b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3382703.html",
-    "time": "2026-02-06T11:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Свен Винке о сериале по Baldur’s Gate 3: «Надеемся, что наша история для Divinity со временем достигнет тех же высот»",
-    "description": "Крэйг Мэйзин уже связался с главой Larian для обсуждений.",
-    "fullText": "Крэйг Мэйзин уже связался с главой Larian для обсуждений.",
-    "image": "https://leonardo.osnova.io/93735876-ba67-51b2-b772-caf1d5df8d43/",
+    "title": "Лоренс Фишбёрн сыграет в «Изгоняющем дьявола» Майка Флэнагана",
+    "description": "Подробности о роли и сюжете фильма пока не разглашаются.",
+    "fullText": "Подробности о роли и сюжете фильма пока не разглашаются.",
+    "image": "https://leonardo.osnova.io/dccd73cf-297a-5644-b03d-fbbdfdb6dad0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4766568-sven-vinke-o-seriale-baldurs-gate-3?from=rss",
-    "time": "2026-02-06T07:22:06.000Z"
+    "url": "https://dtf.ru/cinema/4766969-lorens-fishburn-v-izgonayushchem-dyavola?from=rss",
+    "time": "2026-02-06T11:00:04.000Z"
   }
 ]
