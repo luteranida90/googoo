@@ -12,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вручила орден Баху и не торопится возвращать Россию: у нового босса МОК первая Олимпиада",
-    "description": "Что изменилось при Ковентри?",
-    "fullText": "Что изменилось при Ковентри?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/50/08fea8f6c4ce8ac478ddbe5055730.jpeg",
+    "title": "Загитова дала интервью, делая макияж: про наряды, детей и «достающую медаль»",
+    "description": "«Без мужчины никуда».",
+    "fullText": "«Без мужчины никуда».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/34/bc7822be545a38f3691fe1e143b79.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3382518.html",
-    "time": "2026-02-06T17:08:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3382723.html",
+    "time": "2026-02-06T17:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4766779-reliz-nioh-3-ot-team-ninja-problemy-s-optimizatsiey-na-pk?from=rss",
     "time": "2026-02-06T09:47:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
