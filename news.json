@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Группа пятен 4366 на Солнце почти побила рекорд активности XXI века",
+    "description": "Чтобы выйти в лидеры, ей нужно произвести две вспышки уровня M или X",
+    "fullText": "Чтобы выйти в лидеры, ей нужно произвести две вспышки уровня M или X",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kosmos/26366751",
+    "time": "2026-02-06T06:37:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Уильямс и Шарапова обязаны ей контрактами. Кто добился равных условий для теннисисток?",
     "description": "Легенда спорта.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://sirena.world/ctulsl",
     "time": "2026-02-05T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Челси» получит от «Ливерпуля» деньги за бесплатный уход вундеркинда Нгумоа. Так решил суд",
+    "description": "Забрали компенсацию.",
+    "fullText": "Забрали компенсацию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ee/40b82c1864fd3909cd8c41cd84b8d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3354824.html",
+    "time": "2026-02-05T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,25 +44,14 @@
     "time": "2026-02-05T21:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Роналду готов уйти из «Аль-Насра»? Бойкот продолжается, пока у Бензема 3+1 за «Аль-Хилаль»",
-    "description": "Новая серия.",
-    "fullText": "Новая серия.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ba/77acb261048c3bfc8e4e36aa9d9c0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382649.html",
-    "time": "2026-02-05T19:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Warhorse помогла авторам Knight&#039;s Path — компания разрешила коллегам использовать свою студию захвата движений",
-    "description": "«Любовь к Средневековью и видеоиграм объединяет людей», — заявили создатели фэнтезийной экшен-RPG.",
-    "fullText": "«Любовь к Средневековью и видеоиграм объединяет людей», — заявили создатели фэнтезийной экшен-RPG.",
-    "image": "https://leonardo.osnova.io/5a8f7ee9-3690-5640-a95a-8dd3134399a3/",
+    "title": "«Он не заводит друзей»: трейлер сериала «Молодой Шерлок» Гая Ричи",
+    "description": "Шоу стартует 4 марта.",
+    "fullText": "Шоу стартует 4 марта.",
+    "image": "https://leonardo.osnova.io/41aaf930-b9e8-5ee2-a332-d20ce5c5d5e3/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4765479-warhorse-podderzhala-razrabotchikov-knights-path?from=rss",
-    "time": "2026-02-05T15:54:01.000Z"
+    "url": "https://dtf.ru/cinema/4765500-treyler-seriala-molodoi-sherlok?from=rss",
+    "time": "2026-02-05T15:59:41.000Z"
   }
 ]
