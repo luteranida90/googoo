@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В четырех районах Воронежской области отменили угрозу удара БПЛА",
+    "description": "При этом на территории региона сохраняется режим опасности атаки беспилотников",
+    "fullText": "При этом на территории региона сохраняется режим опасности атаки беспилотников",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26375549",
+    "time": "2026-02-06T22:40:17.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Из-за Ферстаппена правила «Ф-1» меняли 13 раз. Что стало первой причиной?",
     "description": "Настоящий бунтарь.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4766779-reliz-nioh-3-ot-team-ninja-problemy-s-optimizatsiey-na-pk?from=rss",
     "time": "2026-02-06T09:47:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
