@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Тульской области впервые отметили региональный День семей защитников Отечества",
+    "description": "На предприятиях, в социальных и медицинских учреждениях, межмуниципальных филиалах центра \"Герой 71\" состоялись концерты и встречи с членами семей участников СВО",
+    "fullText": "На предприятиях, в социальных и медицинских учреждениях, межмуниципальных филиалах центра \"Герой 71\" состоялись концерты и встречи с членами семей участников СВО",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26378877",
+    "time": "2026-02-07T15:31:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Атмосфера, цены и закулисье Олимпиады: как журналисты Спортса’’ добирались в Милан",
     "description": "Репортаж Марьянчик и Иванова.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хитрая перестройка «Бостона», усиление «Миннесоты». Теневые сюжеты дедлайна НБА",
-    "description": "Не только Харден и Яннис.",
-    "fullText": "Не только Харден и Яннис.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/84/b281c732243cabd0f2f4f1fd3c01f.jpeg",
+    "title": "Гуменник остался без музыки в короткой программе. И это не заговор, а политика МОК",
+    "description": "Разбор Крутихиной.",
+    "fullText": "Разбор Крутихиной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/56/bc42463fe463bb80ffe610c9d9b65.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3382869.html",
-    "time": "2026-02-07T12:25:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3383062.html",
+    "time": "2026-02-07T12:59:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экранизация романа Remain М. Найта Шьямалана выйдет в феврале 2027 года — в фильме снялся Джейк Джилленхол",
-    "description": "Режиссёр работал над книгой с писателем Николасом Спарксом.",
-    "fullText": "Режиссёр работал над книгой с писателем Николасом Спарксом.",
-    "image": "https://leonardo.osnova.io/bf9c1da5-45be-5b86-8ec9-f13bc5ca6bc0/",
+    "title": "Звезда «Одних из нас» и «Супермена» Изабела Мерсед снимется в фильме по The House of the Dead",
+    "description": "Экранизацию поставит Пол У. С. Андерсон — режиссёр «Обители зла».",
+    "fullText": "Экранизацию поставит Пол У. С. Андерсон — режиссёр «Обители зла».",
+    "image": "https://leonardo.osnova.io/300beb97-d58c-5f8c-bb9d-2c4c722f181e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4767792-film-remain-nayta-shyamalana-dzheyk-dzhillenkhol?from=rss",
-    "time": "2026-02-06T18:26:27.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4767786-izabela-merced-v-ekranizatsiyu-the-house-of-the-dead?from=rss",
+    "time": "2026-02-06T18:07:03.000Z"
   }
 ]
