@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Тарпищеву понравилась церемония открытия Олимпиады в Милане",
+    "description": "Церемония прошла в пятницу",
+    "fullText": "Церемония прошла в пятницу",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260207/8799049.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26379089",
+    "time": "2026-02-07T16:35:17.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Атмосфера, цены и закулисье Олимпиады: как журналисты Спортса’’ добирались в Милан",
     "description": "Репортаж Марьянчик и Иванова.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сборная «Рейнджерс» всех времен. Есть ли место Панарину?",
-    "description": "Мессье, Лич и другие.",
-    "fullText": "Мессье, Лич и другие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/69/9ea03427b40a9907c9f4c1c9867a8.jpeg",
+    "title": "«Бетонная змея разрушила холм». Италия в гневе от бобслейной трассы Игр-2026",
+    "description": "Стоила 118 млн евро.",
+    "fullText": "Стоила 118 млн евро.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/02/99644565f4ba887e2e6d26190f065.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3382591.html",
-    "time": "2026-02-07T13:10:00.000Z"
+    "url": "https://www.sports.ru/bobsleigh/blogs/3372535.html",
+    "time": "2026-02-07T13:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4767786-izabela-merced-v-ekranizatsiyu-the-house-of-the-dead?from=rss",
     "time": "2026-02-06T18:07:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
