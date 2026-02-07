@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Александрова уступила в финале теннисного турнира в Абу-Даби",
-    "description": "Россиянка проиграла чешке Саре Бейлек",
-    "fullText": "Россиянка проиграла чешке Саре Бейлек",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26378767",
-    "time": "2026-02-07T14:50:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Атмосфера, цены и закулисье Олимпиады: как журналисты Спортса’’ добирались в Милан",
     "description": "Репортаж Марьянчик и Иванова.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бруну – в погоне за рекордом Анри и КДБ. Побьет?",
-    "description": "12 из 20.",
-    "fullText": "12 из 20.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/84/47f9e0cc64072a500b0e0b0e46047.jpeg",
+    "title": "Хитрая перестройка «Бостона», усиление «Миннесоты». Теневые сюжеты дедлайна НБА",
+    "description": "Не только Харден и Яннис.",
+    "fullText": "Не только Харден и Яннис.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/84/b281c732243cabd0f2f4f1fd3c01f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382707.html",
-    "time": "2026-02-07T12:05:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3382869.html",
+    "time": "2026-02-07T12:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4767792-film-remain-nayta-shyamalana-dzheyk-dzhillenkhol?from=rss",
     "time": "2026-02-06T18:26:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
