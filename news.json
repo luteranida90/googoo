@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Оттепель придет в Москву к концу будущей недели",
-    "description": "В выходные воздух может прогреться до 2 градусов",
-    "fullText": "В выходные воздух может прогреться до 2 градусов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26382121",
-    "time": "2026-02-08T10:59:47.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Второй день Матча звезд КХЛ – финал и конкурсы. Показываем на ВидеоСпортсе’’",
     "description": "Трансляция из Екатеринбурга.",
@@ -19,7 +8,18 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/h555GfAGEMw_49oxp0qwGcydAzr_kPEDuh3Zwaqu_ZM",
-    "time": "2026-02-08T09:45:00.000Z"
+    "time": "2026-02-08T11:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Неужели Соболев настолько плох?",
+    "description": "Терентьев вспоминает.",
+    "fullText": "Терентьев вспоминает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e0/5954db5e0461488130535d745e718.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3383169.html",
+    "time": "2026-02-08T07:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +33,6 @@
     "time": "2026-02-08T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Эндрика удалили: и желтая, и прямая красная. А ведь так круто стартовал в «Лионе»",
-    "description": "Слишком много эмоций.",
-    "fullText": "Слишком много эмоций.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/d0/ac0cdf18a410d8a491cd1b2919044.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3383191.html",
-    "time": "2026-02-08T06:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Новость хуже расставания с бывшей по SMS»: как в сети отреагировали на анонс сериала по мотивам Baldur’s Gate 3",
     "description": "Издательский директор Larian пока не уверен в успехе HBO.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4767493-reaktsiya-na-anons-seriala-po-baldurs-gate-3?from=rss",
     "time": "2026-02-06T17:00:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
