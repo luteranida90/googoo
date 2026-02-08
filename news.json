@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Алыпов: французского лыжника должны были дисквалифицировать на ОИ",
+    "description": "Организаторы не удовлетворили протест российской стороны на результат гонки, Коростелев остался четвертым",
+    "fullText": "Организаторы не удовлетворили протест российской стороны на результат гонки, Коростелев остался четвертым",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26382699",
+    "time": "2026-02-08T13:07:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Матч дня в CS: лучший игрок мира против молодого снайпера из Казахстана",
     "description": "Финал уровня ЛЧ.",
@@ -11,21 +22,10 @@
     "time": "2026-02-08T12:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава Росгвардии осмотрел РСЗО \"Сарма\" и боеприпас \"Рус-ПЭ\" на World Defense Show",
-    "description": "Осмотр российской экспозиции Виктор Золотов начал со статической площадки",
-    "fullText": "Осмотр российской экспозиции Виктор Золотов начал со статической площадки",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26382403",
-    "time": "2026-02-08T11:48:24.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Второй день Матча звезд КХЛ – финал и конкурсы. Показываем на ВидеоСпортсе’’",
-    "description": "Трансляция из Екатеринбурга.",
-    "fullText": "Трансляция из Екатеринбурга.",
+    "title": "Пента-трик Аймурзина в финале Матча звезд КХЛ. Показывали на ВидеоСпортсе’’",
+    "description": "Победили звезды из России.",
+    "fullText": "Победили звезды из России.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/d/45/eac1225b544ceb539eaa80521468b.png",
     "source": "Sports.ru",
     "category": "all",
@@ -45,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Участвовала в «Мисс Россия», а теперь смущает бойцов вопросами в самой жесткой MMA-лиге",
-    "description": "История Александры Еличевой.",
-    "fullText": "История Александры Еличевой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/37/cbd674f184b23886ebfb54f481127.jpeg",
+    "title": "Фаворита драфта НХЛ чуть не посадили за драку: пострадавший оскорбил мать игрока",
+    "description": "Что происходит с Гэвином Маккенной?",
+    "fullText": "Что происходит с Гэвином Маккенной?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/8d/621d93ab04b32bc3f2b251df02091.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3382513.html",
-    "time": "2026-02-08T08:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3382530.html",
+    "time": "2026-02-08T08:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел гоночный экшен Carmageddon: Rogue Shift",
-    "description": "Игра получила 75 баллов из 100 на OpenCritic.",
-    "fullText": "Игра получила 75 баллов из 100 на OpenCritic.",
-    "image": "https://leonardo.osnova.io/e5c1c3e5-596b-59a2-883c-d99500373462/-/format/mp4/",
+    "title": "В сети появились фото и видео с Софи Тёрнер на съёмках сериала по Tomb Raider",
+    "description": "Актриса выполняет трюки самостоятельно.",
+    "fullText": "Актриса выполняет трюки самостоятельно.",
+    "image": "https://leonardo.osnova.io/646d1650-5c23-53f2-ac1c-b2b50002b458/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4767553-carmageddon-rogue-shift-novyy-gonochniy-ekshen?from=rss",
-    "time": "2026-02-06T17:05:07.000Z"
+    "url": "https://dtf.ru/cinema/4767464-sofi-terner-na-semok-tomb-raider?from=rss",
+    "time": "2026-02-06T14:58:49.000Z"
   }
 ]
