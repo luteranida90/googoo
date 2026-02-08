@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гарт назвала нормальным результат, показанный Павлом Репиловым на Олимпиаде",
-    "description": "Спортсмен занял 14-е место",
-    "fullText": "Спортсмен занял 14-е место",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260208/8800667.jpg",
+    "title": "Сакамото выиграла произвольную программу в командном турнире",
+    "description": "Перед заключительным видом программы у японцев и американцев по 59 очков",
+    "fullText": "Перед заключительным видом программы у японцев и американцев по 59 очков",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26384157",
-    "time": "2026-02-08T19:54:12.000Z"
+    "url": "https://tass.ru/sport/26384233",
+    "time": "2026-02-08T20:40:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Шоу Дронова на Матче звезд КХЛ: вытащил буллит и посадил судью на скамейку штрафников",
+    "description": "А еще показал сильнейший бросок.",
+    "fullText": "А еще показал сильнейший бросок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ab/470e11f9a4748bacf1cb56feeff12.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3383306.html",
+    "time": "2026-02-08T15:39:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/6jssib",
     "time": "2026-02-08T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему «Сити» после перерыва превращается в тыкву?",
-    "description": "Палагин – про главную проблему Пепа.",
-    "fullText": "Палагин – про главную проблему Пепа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/48/c0878ea7c4ac29d6bca826bd3e16d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3383102.html",
-    "time": "2026-02-08T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
