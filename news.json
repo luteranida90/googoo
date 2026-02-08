@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Энергодаре устранили аварию, из-за которой город остался без отопления",
+    "description": "Специалисты начали подачу тепла",
+    "fullText": "Специалисты начали подачу тепла",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26383415",
+    "time": "2026-02-08T15:56:55.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих ребят стал капитаном минского «Динамо»? Узнайте в нашем тесте",
     "description": "А нападающим «Ак Барса»?",
@@ -11,15 +22,15 @@
     "time": "2026-02-08T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Заполярье показатель индивидуального строительства вырос почти вдвое",
-    "description": "В Мурманской области также фиксируется устойчивый рост строительства многоквартирных жилых домов",
-    "fullText": "В Мурманской области также фиксируется устойчивый рост строительства многоквартирных жилых домов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Есть новая программа Гуменника! Репортаж с первой тренировки в Милане",
+    "description": "Марьянчик все увидела.",
+    "fullText": "Марьянчик все увидела.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/63/da80addf14de2a9897a64cd40a845.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/26383271",
-    "time": "2026-02-08T15:05:48.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3383268.html",
+    "time": "2026-02-08T12:46:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -31,17 +42,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3383285.html",
     "time": "2026-02-08T12:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чему учит история Гуменника, которому запретили музыку в последний момент",
-    "description": "Реплика Крутихиной.",
-    "fullText": "Реплика Крутихиной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/20/073158e0d47eb9fcd7f352e37ee10.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3383212.html",
-    "time": "2026-02-08T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
