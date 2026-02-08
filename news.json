@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Канцеров рассказал, как родилась идея повторить гол \"Металлурга\" 2013 года",
-    "description": "Роман Канцеров, Владимир Ткачев и Дмитрий Силантьев повторили гол \"Металлурга\" в ворота \"Авангарда\" во время конкурса \"Эффектный буллит\" во время Матча звезд КХЛ",
-    "fullText": "Роман Канцеров, Владимир Ткачев и Дмитрий Силантьев повторили гол \"Металлурга\" в ворота \"Авангарда\" во время конкурса \"Эффектный буллит\" во время Матча звезд КХЛ",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26383491",
-    "time": "2026-02-08T16:19:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих ребят стал капитаном минского «Динамо»? Узнайте в нашем тесте",
     "description": "А нападающим «Ак Барса»?",
@@ -33,17 +22,6 @@
     "time": "2026-02-08T12:46:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Матч дня в CS: лучший игрок мира против молодого снайпера из Казахстана",
-    "description": "Финал уровня ЛЧ.",
-    "fullText": "Финал уровня ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/67/cc98a1c1741efa206c0f45862baa6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3383285.html",
-    "time": "2026-02-08T12:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Минкульт Франции наградил работников Sandfall Interactive Орденом искусств и литературы — за создание Expedition 33",
     "description": "Сотрудники студии встали в один ряд с автором Rayman Мишелем Анселем и японским геймдизайнером Сигэру Миямото.",
@@ -53,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4768057-sandfall-interactive-orden-iskusstv?from=rss",
     "time": "2026-02-06T20:00:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
