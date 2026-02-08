@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Норвежский конькобежец Эйтрем стал чемпионом Олимпиады на 5 000 м",
+    "description": "Второе место занял чех Методей Йилек, третье - тальянец Риккардо Лорелло",
+    "fullText": "Второе место занял чех Методей Йилек, третье - тальянец Риккардо Лорелло",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26383603",
+    "time": "2026-02-08T16:46:51.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто из этих ребят стал капитаном минского «Динамо»? Узнайте в нашем тесте",
     "description": "А нападающим «Ак Барса»?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Есть новая программа Гуменника! Репортаж с первой тренировки в Милане",
-    "description": "Марьянчик все увидела.",
-    "fullText": "Марьянчик все увидела.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/63/da80addf14de2a9897a64cd40a845.jpeg",
+    "title": "«МЮ» в минусе на 1,4 млрд, «Бенфика» продала на 1,5. Трансферный баланс клубов за 10 лет",
+    "description": "Списки лучших и худших.",
+    "fullText": "Списки лучших и худших.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/61/a73f7b8b5486a896272244b98a935.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3383268.html",
-    "time": "2026-02-08T12:46:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3382435.html",
+    "time": "2026-02-08T13:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4768057-sandfall-interactive-orden-iskusstv?from=rss",
     "time": "2026-02-06T20:00:57.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
