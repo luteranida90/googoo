@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мотострелок Алипов уничтожил семь военных ВСУ",
-    "description": "Вместе с сослуживцами боец организовал оборону, обеспечив плацдарм для подхода основных сил ВС РФ, рассказали в Минобороны",
-    "fullText": "Вместе с сослуживцами боец организовал оборону, обеспечив плацдарм для подхода основных сил ВС РФ, рассказали в Минобороны",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "А в чем не прав Ларионов? Звезды КХЛ не потянули бы уровень Олимпиады с НХЛ",
+    "description": "Профессор не лопух.",
+    "fullText": "Профессор не лопух.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a2/55d3bde9a469780e79eb25a918319.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26394423",
-    "time": "2026-02-09T21:06:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Лесли Бензис взял «временный отпуск для перезарядки» из-за работы в Build a Rocket Boy",
-    "description": "Ситуация продолжает развиваться.",
-    "fullText": "Ситуация продолжает развиваться.",
-    "image": "https://leonardo.osnova.io/3834f618-0c13-5b48-8701-856f71e8f4d9/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4773615-lesli-benzis-vzyal-vremennyy-otpusk-v-build-a-rocket-boy?from=rss",
-    "time": "2026-02-09T19:47:22.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3383558.html",
+    "time": "2026-02-09T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,14 +22,25 @@
     "time": "2026-02-09T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Олимпиада: красотка Лердам победила в коньках, Олесик – пока 14-я в санях, французы лидируют в танцах. Онлайн",
-    "description": "Третий день Игр.",
-    "fullText": "Третий день Игр.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/26/107a2d1a14de18e5bb968a094e183.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Исполнитель роли Драко Малфоя в сериале «Гарри Поттер»: «В этой адаптации вы увидите гораздо больше, чем в книгах»",
+    "description": "Локс Пратт привёл в пример дополнительные сцены со своим героем.",
+    "fullText": "Локс Пратт привёл в пример дополнительные сцены со своим героем.",
+    "image": "https://leonardo.osnova.io/59a1b5a2-2f2c-5493-a2a8-0b0235c91a88/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4772947-loks-pratt-o-roli-drako-malfoya-v-seriale-garri-potter?from=rss",
+    "time": "2026-02-09T14:24:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3383337.html",
-    "time": "2026-02-09T17:20:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
