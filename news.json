@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Роспотребнадзоре рассказали о состоянии отравившихся в тюменской школе детей",
+    "description": "Врачи оценили их состояние как удовлетворительное",
+    "fullText": "Врачи оценили их состояние как удовлетворительное",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26391979",
+    "time": "2026-02-09T13:38:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сафонов не пропустил от «Марселя»! «ПСЖ» забил 5, у Дембеле – 2+1",
+    "description": "Хвича шикарно вышел.",
+    "fullText": "Хвича шикарно вышел.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/09/e12a285914d519f6e86506caa7a13.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3383392.html",
+    "time": "2026-02-09T09:47:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой подарок идеально подойдет фанату «Барселоны»? Узнайте в новом тесте",
     "description": "Про эстетику и спорт.",
@@ -11,36 +33,14 @@
     "time": "2026-02-09T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Канада может легко собрать вторую сборную на Олимпиаду – и та тоже боролась бы за медали",
-    "description": "Бедард, Шефер и компания.",
-    "fullText": "Бедард, Шефер и компания.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7b/5f08f6a844d9e9d22a34a02ea049f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3378431.html",
-    "time": "2026-02-09T08:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Второй сезон «Дорохедоро» стартует 1 апреля",
-    "description": "Шесть лет ожидания подходят к концу.",
-    "fullText": "Шесть лет ожидания подходят к концу.",
-    "image": "https://leonardo.osnova.io/eac80d45-2b8b-5639-ba83-a0926d082ef6/",
+    "title": "Мишель Ансель поделился подробностями неанонсированного ремейка оригинальной Rayman",
+    "description": "По словам геймдизайнера, игру сделают «менее утомительной».",
+    "fullText": "По словам геймдизайнера, игру сделают «менее утомительной».",
+    "image": "https://leonardo.osnova.io/ba59f1f4-6717-54df-b836-ecc707acb757/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/4770997-vtoroi-sezon-dorohedoro-startuet-1-aprelya?from=rss",
-    "time": "2026-02-08T13:45:02.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4772058-mishel-ansel-remake-rayman-ubisoft?from=rss",
+    "time": "2026-02-09T07:18:17.000Z"
   }
 ]
