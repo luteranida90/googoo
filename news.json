@@ -1,5 +1,49 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Бывший менеджер и продюсер EA стал главой Remedy",
+    "description": "Жан-Шарль Годешон проработал в Electronic Arts более 15 лет.",
+    "fullText": "Жан-Шарль Годешон проработал в Electronic Arts более 15 лет.",
+    "image": "https://leonardo.osnova.io/1b21308a-88d0-596d-8a58-d72ece201505/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4773366-zhan-sharl-godeshon-glava-remedy?from=rss",
+    "time": "2026-02-09T17:44:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Старт Форума будущих технологий перенесли на 25 февраля",
+    "description": "Мероприятие будет проходить в Центре международной торговли",
+    "fullText": "Мероприятие будет проходить в Центре международной торговли",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26393571",
+    "time": "2026-02-09T17:18:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Аль-Ахли» хочет гарантировать лидерство в ЛЧ – на выезде в Дубае. Следим на ВидеоСпортсе’‘",
+    "description": "В совместной трансляции с ТВ Старт.",
+    "fullText": "В совместной трансляции с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/1f/b83dd7f5c4ce5838daf081a89c324.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/h555GfAGEMw_49oxp0qwGcydAzr_kPEDuh3Zwaqu_ZM",
+    "time": "2026-02-09T17:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Олимпиада между эпохами Тарасова и Тихонова: героический камбэк в финале и два ящика водки после победы",
+    "description": "Возвращение в Инсбрук.",
+    "fullText": "Возвращение в Инсбрук.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/86/0b562f0e846ebb2916eb2728b5647.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3371091.html",
+    "time": "2026-02-09T14:02:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Клюшку с автографом Овечкина получил прямо из его рук – это было незабываемо». Истории хоккеистов КХЛ",
     "description": "Теперь сами стали кумирами.",
@@ -9,38 +53,5 @@
     "category": "all",
     "url": "https://sirena.world/2cgzjg",
     "time": "2026-02-09T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Трансфер Дурана в «Зенит» – безумный азарт, а не логика",
-    "description": "4 причины – от Андрея Савина.",
-    "fullText": "4 причины – от Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c5/02d8bd4c64df1863b5a19742b3181.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3382197.html",
-    "time": "2026-02-09T11:38:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Shin Megami Tensei IV получила крупный графический мод — в нём обновили интерфейс, портреты, фоны и другие элементы игры",
-    "description": "Катсцены, однако, остались прежними.",
-    "fullText": "Катсцены, однако, остались прежними.",
-    "image": "https://leonardo.osnova.io/35a70a7c-c1e8-57b7-876d-033ffd05c94d/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4772342-shin-megami-tensei-iv-mod-graficheskie-obnovleniya?from=rss",
-    "time": "2026-02-09T09:58:57.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
