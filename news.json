@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Один пожарный пострадал при пожаре в жилой восьмиэтажке в центре столицы",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Песков в День дипломата рассказал о пользе полученного в МИД опыта",
+    "description": "Пресс-секретарь президента РФ отметил, что этот опыт помогает ему всю жизнь",
+    "fullText": "Пресс-секретарь президента РФ отметил, что этот опыт помогает ему всю жизнь",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251009/8512885.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26405977",
-    "time": "2026-02-10T16:15:34.000Z"
+    "url": "https://tass.ru/politika/26406651",
+    "time": "2026-02-10T17:35:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-02-10T15:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Италия финишировала спиной вперед в шорт-треке! Хоть раз видели такое?",
+    "description": "А Фонтана взяла третье золото.",
+    "fullText": "А Фонтана взяла третье золото.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/cd/8cbbe334f4803a7c3450de5077401.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skating/blogs/3383765.html",
+    "time": "2026-02-10T13:26:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Слуцкий мимо плей-офф ЛЧ – выбило домашнее поражение от «Матиды». Болели на ВидеоСпортсе’‘",
     "description": "В совместной трансляции с ТВ Старт.",
@@ -33,25 +44,14 @@
     "time": "2026-02-10T13:12:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лавстори Ютты Лердам и Джейка Пола: сначала называла его «высокомерным болваном» – и он ухаживал год",
-    "description": "Вместе плакали над золотом.",
-    "fullText": "Вместе плакали над золотом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/58/cd63e60ce47198c69e57ff15b3753.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3383684.html",
-    "time": "2026-02-10T12:36:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Escape from Tarkov стартовала коллаборация с Escape from Duckov",
-    "description": "За прохождение тематического ивента дают эксклюзивные награды.",
-    "fullText": "За прохождение тематического ивента дают эксклюзивные награды.",
-    "image": "https://leonardo.osnova.io/d93ba16f-f8dc-5284-b9c2-7fc237b630cc/",
+    "title": "В ARC Raiders началось PvE-событие «Совместный дозор»",
+    "description": "Игроки получают очки за кооперацию с другими рейдерами.",
+    "fullText": "Игроки получают очки за кооперацию с другими рейдерами.",
+    "image": "https://leonardo.osnova.io/f7e644a8-bc14-53b9-8758-7d72957e97be/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4774614-escape-from-tarkov-i-escape-from-duckov-kollaboratsiya?from=rss",
-    "time": "2026-02-10T11:23:38.000Z"
+    "url": "https://dtf.ru/games/4774739-pve-sobytie-sovmestnyy-dozor-v-arc-raiders?from=rss",
+    "time": "2026-02-10T12:35:03.000Z"
   }
 ]
