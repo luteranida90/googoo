@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Поморье разработали игру, воспитывающую полезные экопривычки",
-    "description": "Игра рассчитана на детей от семи лет и взрослых",
-    "fullText": "Игра рассчитана на детей от семи лет и взрослых",
+    "title": "Один пожарный пострадал при пожаре в жилой восьмиэтажке в центре столицы",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26404879",
-    "time": "2026-02-10T14:49:07.000Z"
+    "url": "https://tass.ru/proisshestviya/26405977",
+    "time": "2026-02-10T16:15:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Почему снежный человек стал талисманом КХЛ?",
+    "description": "Разбираемся в новом тексте.",
+    "fullText": "Разбираемся в новом тексте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/80/226c9e57e42e6b6310a1fe6c1ddf1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/n45fhz",
+    "time": "2026-02-10T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +33,25 @@
     "time": "2026-02-10T13:12:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выберите пять лучших игроков нового тура АПЛ. Может, всех из «МЮ»?",
-    "description": "Матчи уже сегодня.",
-    "fullText": "Матчи уже сегодня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/22/c1196ef844ea7acce654b094e60b6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/6ylioa",
-    "time": "2026-02-10T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему футбол Китая утопает в международном позоре",
-    "description": "Есть причины, но нет перспектив.",
-    "fullText": "Есть причины, но нет перспектив.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c2/ebf0aeb5a47fcb753614823aa8606.jpeg",
+    "title": "Лавстори Ютты Лердам и Джейка Пола: сначала называла его «высокомерным болваном» – и он ухаживал год",
+    "description": "Вместе плакали над золотом.",
+    "fullText": "Вместе плакали над золотом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/58/cd63e60ce47198c69e57ff15b3753.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3383463.html",
-    "time": "2026-02-10T10:01:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3383684.html",
+    "time": "2026-02-10T12:36:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся цифровой релиз «Марти Великолепного» — фильм претендует на девять «Оскаров»",
-    "description": "Лента уже стала самым кассовым релизом в истории студии A24.",
-    "fullText": "Лента уже стала самым кассовым релизом в истории студии A24.",
-    "image": "https://leonardo.osnova.io/364661d6-ccf5-5970-8c40-9b2c07042766/",
+    "title": "В Escape from Tarkov стартовала коллаборация с Escape from Duckov",
+    "description": "За прохождение тематического ивента дают эксклюзивные награды.",
+    "fullText": "За прохождение тематического ивента дают эксклюзивные награды.",
+    "image": "https://leonardo.osnova.io/d93ba16f-f8dc-5284-b9c2-7fc237b630cc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4774297-tsifrovoy-reliz-filma-marti-velikolepnyy?from=rss",
-    "time": "2026-02-10T08:07:09.000Z"
+    "url": "https://dtf.ru/games/4774614-escape-from-tarkov-i-escape-from-duckov-kollaboratsiya?from=rss",
+    "time": "2026-02-10T11:23:38.000Z"
   }
 ]
