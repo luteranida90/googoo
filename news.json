@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В палате адвокатов Москвы отметили вклад Падвы в мораторий на смертную казнь",
-    "description": "В адвокатской палате отметили, что Падва прославился блестящим мастерством судебной защиты и работой в сложнейших процессах, многие из которых были общественно значимыми",
-    "fullText": "В адвокатской палате отметили, что Падва прославился блестящим мастерством судебной защиты и работой в сложнейших процессах, многие из которых были общественно значимыми",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26398115",
-    "time": "2026-02-10T07:45:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«МЮ» наконец-то пробьет пять побед подряд? Голосуйте в новом туре АПЛ",
     "description": "В Пикере Спортса’’.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Какой была бы сборная России на Олимпиаде-2026. Версия Ильи Воробьева",
-    "description": "Овечкин – капитан.",
-    "fullText": "Овечкин – капитан.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/09/39246856e46e7b74e8c0bfcf96211.jpeg",
+    "title": "Перекус дня: конькобежец из США питается йогуртами «Простоквашино»",
+    "description": "Наш продукт в Милане.",
+    "fullText": "Наш продукт в Милане.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/63/c869d050a4ba8bd4f7988a4df0f84.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3383394.html",
-    "time": "2026-02-09T22:50:00.000Z"
+    "url": "https://www.sports.ru/skating/blogs/3383475.html",
+    "time": "2026-02-10T03:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Оценки Yakuza Kiwami 3 — 75 баллов на Metacritic и OpenCritic",
-    "description": "Программу минимум ремейк выполняет, но о повышении планки качества говорить не приходится.",
-    "fullText": "Программу минимум ремейк выполняет, но о повышении планки качества говорить не приходится.",
-    "image": "https://leonardo.osnova.io/57505020-b9f7-52c1-ae6d-08ce6c1f1703/",
+    "title": "Бывший менеджер и продюсер EA стал главой Remedy",
+    "description": "Жан-Шарль Годешон проработал в Electronic Arts более 15 лет.",
+    "fullText": "Жан-Шарль Годешон проработал в Electronic Arts более 15 лет.",
+    "image": "https://leonardo.osnova.io/1b21308a-88d0-596d-8a58-d72ece201505/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4773191-yakuza-kiwami-3-otsenki-75-na-metacritic-i-opencritic?from=rss",
-    "time": "2026-02-09T17:58:48.000Z"
+    "url": "https://dtf.ru/gameindustry/4773366-zhan-sharl-godeshon-glava-remedy?from=rss",
+    "time": "2026-02-09T17:44:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
