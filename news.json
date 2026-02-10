@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В США одномоторный самолет аварийно сел на оживленной дороге",
+    "description": "Пострадали два человека",
+    "fullText": "Пострадали два человека",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26394773",
+    "time": "2026-02-09T22:50:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Хочется поправок и в нашу сторону». Сафонов о современных правилах",
+    "description": "Вратарям усложняют жизнь.",
+    "fullText": "Вратарям усложняют жизнь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ad/804df5f314e7fbce642870664d022.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/mfdvgq",
+    "time": "2026-02-09T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "А в чем не прав Ларионов? Звезды КХЛ не потянули бы уровень Олимпиады с НХЛ",
     "description": "Профессор не лопух.",
@@ -11,17 +33,6 @@
     "time": "2026-02-09T19:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Чем крут маскот КХЛ Крут?",
-    "description": "Объединил детей и хоккей.",
-    "fullText": "Объединил детей и хоккей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/80/226c9e57e42e6b6310a1fe6c1ddf1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/n45fhz",
-    "time": "2026-02-09T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Исполнитель роли Драко Малфоя в сериале «Гарри Поттер»: «В этой адаптации вы увидите гораздо больше, чем в книгах»",
     "description": "Локс Пратт привёл в пример дополнительные сцены со своим героем.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4772947-loks-pratt-o-roli-drako-malfoya-v-seriale-garri-potter?from=rss",
     "time": "2026-02-09T14:24:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
