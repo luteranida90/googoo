@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Overwatch начался первый сезон — он ознаменовал собой перезапуск игры",
-    "description": "Онлайн шутера в Steam превысил 100 тысяч человек.",
-    "fullText": "Онлайн шутера в Steam превысил 100 тысяч человек.",
-    "image": "https://leonardo.osnova.io/a97ade7d-c6f2-5bfc-8138-29409a3fffe9/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4775744-perviy-sezon-overwatch-perezapusk-igry?from=rss",
-    "time": "2026-02-10T19:57:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Херсоне произошли взрывы",
-    "description": "При этом воздушная тревога в городе не объявлена",
-    "fullText": "При этом воздушная тревога в городе не объявлена",
+    "title": "Додон возложил ответственность за церковный раскол на правительство Молдавии",
+    "description": "Руководитель Партии социалистов республики призвал полицейских отпустить задержанных при защите храма в селе Деренеу",
+    "fullText": "Руководитель Партии социалистов республики призвал полицейских отпустить задержанных при защите храма в селе Деренеу",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26407333",
-    "time": "2026-02-10T19:34:47.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26407561",
+    "time": "2026-02-10T20:57:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "СКА тянул с объявлением Тамбиева 12 дней. За что же он будет отвечать?",
-    "description": "Ларионов остается главным.",
-    "fullText": "Ларионов остается главным.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d1/70c08594b4abd829199aa139e14d3.jpeg",
+    "title": "30 фото Ютты Лердам – без комбинезона",
+    "description": "Шубы, мини и бикини.",
+    "fullText": "Шубы, мини и бикини.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a3/39325165742228a13589a74fc772f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3381922.html",
-    "time": "2026-02-10T16:00:00.000Z"
+    "url": "https://www.sports.ru/skating/blogs/3383706.html",
+    "time": "2026-02-10T16:54:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Аниме-сериал «Призрак в доспехах» от студии Science SARU выпустят в России на «Кинопоиске»",
+    "description": "Показ стартует одновременно с Японией.",
+    "fullText": "Показ стартует одновременно с Японией.",
+    "image": "https://leonardo.osnova.io/1bb2b410-6516-5aad-a2d6-2df88f194937/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/anime/4774911-anime-prizrak-v-dospehah-na-kinopoise?from=rss",
+    "time": "2026-02-10T13:21:59.000Z"
   }
 ]
