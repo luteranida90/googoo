@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Миллиардер Рэтклифф заявил, что Британия колонизирована мигрантами",
-    "description": "Совладелец футбольного клуба \"Манчестер Юнайтед\" предположил, что премьер-министр Кир Стармер может быть не самым подходящим лидером для того, чтобы управлять страной",
-    "fullText": "Совладелец футбольного клуба \"Манчестер Юнайтед\" предположил, что премьер-министр Кир Стармер может быть не самым подходящим лидером для того, чтобы управлять страной",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26422389",
-    "time": "2026-02-11T21:43:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой подарок идеально подойдет фанату «Барселоны»? Узнайте в новом тесте",
     "description": "Про эстетику и спорт.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/zxdf3v",
     "time": "2026-02-11T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Игрок с пушечными икрами – теперь в «Краснодаре»! Как он их накачал?",
+    "description": "Спросили у самого Боселли.",
+    "fullText": "Спросили у самого Боселли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/8b/828256c1041bcbe754f869dd2e64c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3368229.html",
+    "time": "2026-02-11T19:17:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,17 +33,6 @@
     "time": "2026-02-11T18:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Только посмотрите, что умел Леброн в 12 лет! Появились уникальные кадры",
-    "description": "Занимался баскетболом всего 2 года.",
-    "fullText": "Занимался баскетболом всего 2 года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/28/1d0c04e3245728a4aa66530a1c810.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3383724.html",
-    "time": "2026-02-11T17:16:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "«Не все наши желания идут нам на пользу» — сюжетный трейлер Hellraiser: Revival",
     "description": "Ролик посвящён любовной линии главного героя.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4777041-syuzhetnyy-treyler-hellraiser-revival?from=rss",
     "time": "2026-02-11T14:00:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
