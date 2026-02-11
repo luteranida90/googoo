@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Задержанный после стрельбы в Анапе студент не состоял на профилактических учетах",
-    "description": "По отзывам одногруппников, странного поведения за юношей не замечали",
-    "fullText": "По отзывам одногруппников, странного поведения за юношей не замечали",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26419813",
-    "time": "2026-02-11T15:43:40.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Почему снежный человек стал талисманом КХЛ?",
     "description": "Разбираемся в новом тексте.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вид спорта, который не нужен Олимпиаде",
-    "description": "Исключат к следующим Играм?",
-    "fullText": "Исключат к следующим Играм?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/39/5216129ea4cfdbab94fc5a6ebd660.jpeg",
+    "title": "Гуменник идет ва-банк после 12-го места: сложнее контент будет только у Малинина",
+    "description": "Пятиквадка в деле.",
+    "fullText": "Пятиквадка в деле.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e1/bc5b9d070400e927c3bbe4735b0ad.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3371525.html",
-    "time": "2026-02-11T12:05:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3383991.html",
+    "time": "2026-02-11T12:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Titan Quest II вышло крупное обновление — в игру добавили кентавров",
-    "description": "И дополнительную локацию.",
-    "fullText": "И дополнительную локацию.",
-    "image": "https://leonardo.osnova.io/a9d56ab4-96e4-5ceb-842d-4e45b73bc35e/",
+    "title": "Продолжение сюжета и ускорение прогрессии — разработчики Battlefield 6 раскрыли детали второго сезона",
+    "description": "Команда готовит две карты и два временных режима.",
+    "fullText": "Команда готовит две карты и два временных режима.",
+    "image": "https://leonardo.osnova.io/eca0d280-d968-5641-a555-89c6b0a0868f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4776375-titan-quest-ii-obnovlenie-kentavry-i-novaya-lokatsiya-arkadian-plains?from=rss",
-    "time": "2026-02-11T07:56:19.000Z"
+    "url": "https://dtf.ru/games/4776595-battlefield-6-vtoroy-sezon-novye-karty-i-uluchshennaya-progressiya?from=rss",
+    "time": "2026-02-11T10:20:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
