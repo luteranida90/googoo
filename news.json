@@ -1,35 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Фристайлистка Лемли из США выиграла Олимпиаду в могуле",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26419077",
+    "time": "2026-02-11T14:23:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Над названием этого клуба раньше смеялись. Сможете его правильно написать?",
-    "description": "В футбольном диктанте.",
-    "fullText": "В футбольном диктанте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/cb/9c3f908b449599f2c4115d5dfe156.png",
+    "title": "Почему снежный человек стал талисманом КХЛ?",
+    "description": "Разбираемся в новом тексте.",
+    "fullText": "Разбираемся в новом тексте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/80/226c9e57e42e6b6310a1fe6c1ddf1.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/m0t51e",
-    "time": "2026-02-11T09:30:00.000Z"
+    "url": "https://sirena.world/n45fhz",
+    "time": "2026-02-11T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В НБА начинаются крысиные бега. Кто и зачем сольет остаток сезона",
-    "description": "Слишком много «танкинга».",
-    "fullText": "Слишком много «танкинга».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/7d/559f8d23e4d289a12c2d156f5c3c6.jpeg",
+    "title": "Карвахаль недоволен: капитан «Реала» не играет, новый контракт не дадут",
+    "description": "Пора прощаться?",
+    "fullText": "Пора прощаться?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/10/4d2503e534bfd8a1e03c6c57383f5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3383657.html",
-    "time": "2026-02-11T09:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3383513.html",
+    "time": "2026-02-11T10:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: на Netflix выйдет спектакль-приквел «Очень странных дел»",
-    "description": "Его запишут до середины февраля.",
-    "fullText": "Его запишут до середины февраля.",
-    "image": "https://leonardo.osnova.io/2221310b-8076-503a-afe8-f3cab9e453bd/",
+    "title": "СМИ: режиссёр Майк Флэнаган займётся ещё одной адаптацией повести «Туман» Стивена Кинга",
+    "description": "Экранизацию заказала Warner Bros.",
+    "fullText": "Экранизацию заказала Warner Bros.",
+    "image": "https://leonardo.osnova.io/f281fde4-deff-57cc-a7c3-6daf3c77ece1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4776267-spektral-prikvel-ochen-strannye-dela-na-netflix?from=rss",
-    "time": "2026-02-11T06:45:44.000Z"
+    "url": "https://dtf.ru/cinema/4776627-majk-flenagan-novaya-adaptaciya-tumana?from=rss",
+    "time": "2026-02-11T10:08:19.000Z"
   }
 ]
