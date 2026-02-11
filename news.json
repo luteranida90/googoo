@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Марочко: Российские бойцы, продвинувшись у Студенка, зачищают местность",
+    "description": "Военный эксперт сообщил, что силам РФ предстоит зачистить обширный участок леса",
+    "fullText": "Военный эксперт сообщил, что силам РФ предстоит зачистить обширный участок леса",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26422655",
+    "time": "2026-02-11T23:02:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Италия не парится об организации Олимпиады – но мне это даже нравится",
+    "description": "Головин – из Милана.",
+    "fullText": "Головин – из Милана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/40/7d2e77c0b44ee8f34181f9b8eaaac.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/others/blogs/3383962.html",
+    "time": "2026-02-11T19:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой подарок идеально подойдет фанату «Барселоны»? Узнайте в новом тесте",
     "description": "Про эстетику и спорт.",
@@ -11,47 +33,14 @@
     "time": "2026-02-11T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Игрок с пушечными икрами – теперь в «Краснодаре»! Как он их накачал?",
-    "description": "Спросили у самого Боселли.",
-    "fullText": "Спросили у самого Боселли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/8b/828256c1041bcbe754f869dd2e64c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3368229.html",
-    "time": "2026-02-11T19:17:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "В большом киберспорте впервые отстраняют россиян. Бан на ЧМ сборных от шейхов",
-    "description": "Не поборемся за $70 млн.",
-    "fullText": "Не поборемся за $70 млн.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b4/f214c5bb6401596f1e9f3127c5879.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/dota2/blogs/3383820.html",
-    "time": "2026-02-11T18:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Не все наши желания идут нам на пользу» — сюжетный трейлер Hellraiser: Revival",
-    "description": "Ролик посвящён любовной линии главного героя.",
-    "fullText": "Ролик посвящён любовной линии главного героя.",
-    "image": "https://leonardo.osnova.io/a7535a73-f1fc-5782-ae7f-584ca3f5d8f1/-/format/mp4/",
+    "title": "Вышла «демка» Replaced — киберпанк-экшена об искусственном интеллекте, застрявшем в теле человека",
+    "description": "Долгожданную игру могут опробовать все желающие.",
+    "fullText": "Долгожданную игру могут опробовать все желающие.",
+    "image": "https://leonardo.osnova.io/41a063fc-9ae0-5d87-9814-c44faa67970b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4777041-syuzhetnyy-treyler-hellraiser-revival?from=rss",
-    "time": "2026-02-11T14:00:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4777023-demka-replaced-kiberpunk-ekshen-ob-ii?from=rss",
+    "time": "2026-02-11T14:10:42.000Z"
   }
 ]
