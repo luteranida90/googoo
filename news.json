@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ABC показала трейлер перезапуска «Клиники»",
-    "description": "Культовый сериал вернётся уже 25 февраля.",
-    "fullText": "Культовый сериал вернётся уже 25 февраля.",
-    "image": "https://leonardo.osnova.io/88d775ad-2b13-5375-9f66-b69d7d17483a/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4777597-perezapusk-kliniki-treiler-novogo-sezona?from=rss",
-    "time": "2026-02-11T18:00:56.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Италия не парится об организации Олимпиады – но мне это даже нравится",
-    "description": "Головин – из Милана.",
-    "fullText": "Головин – из Милана.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/40/7d2e77c0b44ee8f34181f9b8eaaac.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3383962.html",
-    "time": "2026-02-11T13:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Почему снежный человек стал талисманом КХЛ?",
-    "description": "Разбираемся в новом тексте.",
-    "fullText": "Разбираемся в новом тексте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/80/226c9e57e42e6b6310a1fe6c1ddf1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/n45fhz",
-    "time": "2026-02-11T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "В Атлантике нашли два подводных водопада из антарктической донной воды",
+    "description": "Ученые подтвердили наличие выраженных магнитных аномалий в осевой зоне Срединно-Атлантического хребта и на его флангах",
+    "fullText": "Ученые подтвердили наличие выраженных магнитных аномалий в осевой зоне Срединно-Атлантического хребта и на его флангах",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/nauka/26421693",
+    "time": "2026-02-11T19:06:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В большом киберспорте впервые отстраняют россиян. Бан на ЧМ сборных от шейхов",
+    "description": "Не поборемся за $70 млн.",
+    "fullText": "Не поборемся за $70 млн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b4/f214c5bb6401596f1e9f3127c5879.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/dota2/blogs/3383820.html",
+    "time": "2026-02-11T18:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Хоккеист без зуба, но не Овечкин. Узнаете его по детской фотке?",
+    "description": "В тесте на знание звезд.",
+    "fullText": "В тесте на знание звезд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/e4/1468f8784431aa193cf12a6b3778e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/6jssib",
+    "time": "2026-02-11T15:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "24 тысячи комментов за 5 минут – и блогер вышел за «Родину». Главное шоу сезона Первой лиги",
+    "description": "Сыграл против «Шанхая» Слуцкого.",
+    "fullText": "Сыграл против «Шанхая» Слуцкого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/17/ae0671b9d4d5ba023e893375fdb38.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3383848.html",
+    "time": "2026-02-11T14:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Тимоти Шаламе назвал «Интерстеллар» любимым фильмом со своим участием",
+    "description": "Актёр припомнил, как Кристофер Нолан отказался менять ради него сцену.",
+    "fullText": "Актёр припомнил, как Кристофер Нолан отказался менять ради него сцену.",
+    "image": "https://leonardo.osnova.io/490cb028-e79d-588f-a170-ee86520eafad/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4776859-timoti-shalame-o-lubimom-filme-interstellar?from=rss",
+    "time": "2026-02-11T12:53:40.000Z"
   }
 ]
