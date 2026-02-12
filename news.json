@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ак Барс» – скрытый фаворит Кубка Гагарина. Вы тоже удивлены?",
-    "description": "Перевернули сезон.",
-    "fullText": "Перевернули сезон.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5c/a0b569ffe427ba36d32c7470637a7.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ДТЭК сообщил о повреждении одной из своих ТЭС",
+    "description": "В холдинге при этом не уточнили название станции и ее местонахождение",
+    "fullText": "В холдинге при этом не уточнили название станции и ее местонахождение",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3384159.html",
-    "time": "2026-02-11T21:40:00.000Z"
+    "url": "https://tass.ru/proisshestviya/26425613",
+    "time": "2026-02-12T07:44:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Клюшку с автографом Овечкина получил прямо из его рук – это было незабываемо». Истории хоккеистов КХЛ",
-    "description": "Теперь сами стали кумирами.",
-    "fullText": "Теперь сами стали кумирами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4d/fed54aa37466c85bec8f65cae48cb.png",
+    "title": "Перед одной из Олимпиад Кириленко переживал из-за кухни в стране-хозяйке. Где проходили те игры?",
+    "description": "Узнайте в новом тесте.",
+    "fullText": "Узнайте в новом тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/61/347e899ce4d1eb48ac62d2ef64473.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/2cgzjg",
-    "time": "2026-02-11T21:30:00.000Z"
+    "url": "https://sirena.world/o2kovj",
+    "time": "2026-02-12T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Реал» вышел из Суперлиги и помирился с УЕФА. Конец истории?",
+    "description": "Видимо, да.",
+    "fullText": "Видимо, да.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/56/f3feb7f75414bb5e6d1d3ada9ee69.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3384046.html",
+    "time": "2026-02-11T23:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экшен Blades of Fire от авторов Lords of Shadow и Metroid Dread выйдет в Steam в мае вместе с масштабным патчем 2.0",
-    "description": "В игру, помимо прочего, добавят NG+, ещё один уровень сложности и фоторежим.",
-    "fullText": "В игру, помимо прочего, добавят NG+, ещё один уровень сложности и фоторежим.",
-    "image": "https://leonardo.osnova.io/52e625e4-a2d1-5f23-9469-c79e5b2d6b70/-/format/mp4/",
+    "title": "«Более масштабная и драматичная версия Little Nightmares»: оценки Reanimal — 80 баллов из 100",
+    "description": "Журналисты назвали игру очень красивой, атмосферной и жуткой, но сюжет, в особенности концовка, понравились не всем.",
+    "fullText": "Журналисты назвали игру очень красивой, атмосферной и жуткой, но сюжет, в особенности концовка, понравились не всем.",
+    "image": "https://leonardo.osnova.io/a6c0b544-52aa-5976-a292-e48d662c8ed7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4777739-blades-of-fire-vyjdet-v-steam-s-patchom-2-0?from=rss",
-    "time": "2026-02-11T19:25:35.000Z"
+    "url": "https://dtf.ru/games/4777391-obzory-reanimal-horror-adventure-80-iz-100?from=rss",
+    "time": "2026-02-11T18:15:32.000Z"
   }
 ]
