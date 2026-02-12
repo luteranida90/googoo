@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВСУ перебросили роту боевиков \"Шквал\" в Великомихайловку",
-    "description": "Это было сделано для того, чтобы замедлить продвижение российских войск",
-    "fullText": "Это было сделано для того, чтобы замедлить продвижение российских войск",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Ак Барс» – скрытый фаворит Кубка Гагарина. Вы тоже удивлены?",
+    "description": "Перевернули сезон.",
+    "fullText": "Перевернули сезон.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5c/a0b569ffe427ba36d32c7470637a7.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26424259",
-    "time": "2026-02-12T05:27:48.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3384159.html",
+    "time": "2026-02-11T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,14 @@
     "time": "2026-02-11T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Слафковски уже забил на Олимпиадах больше, чем Овечкин!",
-    "description": "Положил двушку действующим чемпионам.",
-    "fullText": "Положил двушку действующим чемпионам.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/81/78e50704a43bda802242587377158.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3384111.html",
-    "time": "2026-02-11T19:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Питер Молиньё о перезапуске Fable: «К моим глазам подступили слёзы, когда я смотрел трейлер»",
-    "description": "Но геймдизайнеру не понравилась атмосфера игры.",
-    "fullText": "Но геймдизайнеру не понравилась атмосфера игры.",
-    "image": "https://leonardo.osnova.io/fd0ae1e6-c9ef-53e4-8f7a-50b5863930f9/",
+    "title": "Экшен Blades of Fire от авторов Lords of Shadow и Metroid Dread выйдет в Steam в мае вместе с масштабным патчем 2.0",
+    "description": "В игру, помимо прочего, добавят NG+, ещё один уровень сложности и фоторежим.",
+    "fullText": "В игру, помимо прочего, добавят NG+, ещё один уровень сложности и фоторежим.",
+    "image": "https://leonardo.osnova.io/52e625e4-a2d1-5f23-9469-c79e5b2d6b70/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4777374-piter-molineu-o-fable-slezy-radosti?from=rss",
-    "time": "2026-02-11T16:51:36.000Z"
+    "url": "https://dtf.ru/games/4777739-blades-of-fire-vyjdet-v-steam-s-patchom-2-0?from=rss",
+    "time": "2026-02-11T19:25:35.000Z"
   }
 ]
