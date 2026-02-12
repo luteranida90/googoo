@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Впервые прослежена трансформация крупной звезды в черную дыру",
-    "description": "Изучение этого катаклизма расширит представления ученых о механизмах формирования черных дыр",
-    "fullText": "Изучение этого катаклизма расширит представления ученых о механизмах формирования черных дыр",
+    "title": "В Пензенской области ввели режим беспилотной опасности",
+    "description": "В целях безопасности временно ограничили работу мобильного интернета",
+    "fullText": "В целях безопасности временно ограничили работу мобильного интернета",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nauka/26434145",
-    "time": "2026-02-12T19:07:37.000Z"
+    "url": "https://tass.ru/proisshestviya/26434295",
+    "time": "2026-02-12T19:51:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ИИ изменит Олимпийские игры – это неочевидное наследие Томаса Баха",
-    "description": "От графики до судейства.",
-    "fullText": "От графики до судейства.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/78/775b14d314c3782742f2e471793b3.jpeg",
+    "title": "Гениальная работа Фонсеки в «Лионе»",
+    "description": "12 побед подряд.",
+    "fullText": "12 побед подряд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/20/f4e901811419f965e09869989ff71.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3379959.html",
-    "time": "2026-02-12T16:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3384239.html",
+    "time": "2026-02-12T16:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Blizzard может подумать о дальнейшем расширении Diablo II: Resurrected, если фанаты хорошо примут DLC с классом чернокнижника",
+    "description": "Но разработчики понимают, что им следует действовать крайне осторожно.",
+    "fullText": "Но разработчики понимают, что им следует действовать крайне осторожно.",
+    "image": "https://leonardo.osnova.io/cca3ad69-4da8-5561-be80-b35b61ccac83/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4778736-blizzard-rassmatrivaet-rasshirenie-diablo-ii-resurrected?from=rss",
+    "time": "2026-02-12T11:21:22.000Z"
   }
 ]
