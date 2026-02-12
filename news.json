@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Премьер Греции указал на неудовлетворительную работу энергетического рынка ЕС",
-    "description": "Кириакос Мицотакис отметил необходимость снижения цен на энергоносители в Европе",
-    "fullText": "Кириакос Мицотакис отметил необходимость снижения цен на энергоносители в Европе",
+    "title": "После инцидента с судном на Камчатке организовали проверку",
+    "description": "Судно \"Гипанис\" потеряло ход из-за технической неисправности",
+    "fullText": "Судно \"Гипанис\" потеряло ход из-за технической неисправности",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26429215",
-    "time": "2026-02-12T10:25:39.000Z"
+    "url": "https://tass.ru/proisshestviya/26429909",
+    "time": "2026-02-12T11:23:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-02-12T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главное на Олимпиаде за минуту: сенсация в биатлоне, Вирер без медали, финны проиграли в хоккее, Сизерон стал двукратным. Онлайн",
-    "description": "Пятый день Игр.",
-    "fullText": "Пятый день Игр.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/40/2efecc60b4318860a9153e2b345a2.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3383758.html",
-    "time": "2026-02-12T05:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Diablo II: Resurrected получила большое DLC с классом чернокнижника — трейлер, детали и скриншоты",
-    "description": "ARPG также обзавелась изданием Infernal и вышла в Steam.",
-    "fullText": "ARPG также обзавелась изданием Infernal и вышла в Steam.",
-    "image": "https://leonardo.osnova.io/612c4498-91d2-5a9e-9acb-df57a8e589fa/",
+    "title": "Хидео Кодзима рассказал, что однажды обсуждал с Винсом Зампеллой идею Metal Gear от первого лица",
+    "description": "Японский геймдизайнер и другие ветераны игровой индустрии вспомнили погибшего руководителя на саммите DICE.",
+    "fullText": "Японский геймдизайнер и другие ветераны игровой индустрии вспомнили погибшего руководителя на саммите DICE.",
+    "image": "https://leonardo.osnova.io/0309c1fa-cb3b-5dcd-baed-a5919d85957d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4778014-diablo-ii-resurrected-dopolnenie-s-chernoknizhnikom?from=rss",
-    "time": "2026-02-11T23:23:54.000Z"
+    "url": "https://dtf.ru/gameindustry/4778254-kodzima-i-zampella-metal-gear-dice?from=rss",
+    "time": "2026-02-12T06:33:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сломали очередь и сами не верят в это: Сизерон и Лоло пришли к золоту всего за год",
+    "description": "Развязка в танцах изнутри.",
+    "fullText": "Развязка в танцах изнутри.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/1e/6267ae1ce4c0783ea845c3cade049.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3384168.html",
+    "time": "2026-02-12T06:25:00.000Z"
   }
 ]
