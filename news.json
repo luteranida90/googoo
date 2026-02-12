@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Т Плюс\" ожидает нарастить выработку электроэнергии в 2026 году на 3%",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Панжинский не считает провалом выступление Непряевой на Олимпиаде",
+    "description": "Россиянка заняла 21-е место в гонке с раздельным стартом свободным стилем на 10 км",
+    "fullText": "Россиянка заняла 21-е место в гонке с раздельным стартом свободным стилем на 10 км",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260212/8812483.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26431083",
-    "time": "2026-02-12T12:50:56.000Z"
+    "url": "https://tass.ru/sport/26432047",
+    "time": "2026-02-12T14:09:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Коллекцию классических игр по серии «Парк Юрского периода» снимут с продажи 31 марта",
+    "description": "Она вышла в ноябре 2023 года.",
+    "fullText": "Она вышла в ноябре 2023 года.",
+    "image": "https://leonardo.osnova.io/e8c66d91-a68e-5d2f-800d-dd3544471932/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4778612-kollektsiya-jurassic-park-classic-games-snyat-s-prodazhi?from=rss",
+    "time": "2026-02-12T10:01:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Первое олимпийское золото Виктора Тихонова: рекордные премиальные и панихида по Андропову под AC/DC",
+    "description": "Сараево-1984.",
+    "fullText": "Сараево-1984.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f0/029e02f124d53ba4cfd565e34a284.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3381748.html",
+    "time": "2026-02-12T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/iedj8h",
     "time": "2026-02-12T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Yakuza Kiwami 3",
-    "description": "Для ремейка сразу выпустили два патча.",
-    "fullText": "Для ремейка сразу выпустили два патча.",
-    "image": "https://leonardo.osnova.io/b482a5f0-23d1-54d7-af21-e40fc49b1ce3/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4778319-reliz-yakuza-kiwami-3-patchi-otzyvy-i-kritika?from=rss",
-    "time": "2026-02-12T07:22:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Карнавальный пост Реброва про бразильцев: пончик Фернандо, раздолбай Веллитон и бойчуга Маурисио",
-    "description": "И, конечно, легендарный Кариока.",
-    "fullText": "И, конечно, легендарный Кариока.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4c/eb29a36f64ee18c0530f709389b2a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384038.html",
-    "time": "2026-02-12T07:20:00.000Z"
   }
 ]
