@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минфин: государственный внешний долг России превысил $60 млрд",
-    "description": "По состоянию на 1 февраля 2011 года госдолг РФ составлял $39,7 млрд",
-    "fullText": "По состоянию на 1 февраля 2011 года госдолг РФ составлял $39,7 млрд",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260213/8813241.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26435257",
-    "time": "2026-02-13T01:12:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel’s Spider-Man 2, Test Drive Unlimited Solar Crown, Neva добавят в расширенную подписку PS Plus",
-    "description": "Об этом объявили на презентации State of Play.",
-    "fullText": "Об этом объявили на презентации State of Play.",
-    "image": "https://leonardo.osnova.io/36f47b1b-ffbc-5f90-9890-b6b23b9ff767/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4779752-marvel-spider-man-2-test-drive-unlimited-ps-plus?from=rss",
-    "time": "2026-02-13T00:04:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Мне просто хотелось посмотреть раздевалку «Барыса». О чем мечтали игроки КХЛ?",
     "description": "Истории из детства.",
@@ -34,13 +12,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Япония хочет выиграть ЧМ-2050 и захватить футбольную Европу. Как?",
-    "description": "Александр Журавлев разбирается в феномене азиатского гиганта.",
-    "fullText": "Александр Журавлев разбирается в феномене азиатского гиганта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/1b/8c2c26f024d35920321eef8e75e13.jpeg",
+    "title": "Мистика! У этих парней фотофиниш за золото на двух Олимпиадах подряд",
+    "description": "И исход один.",
+    "fullText": "И исход один.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a5/8c8abdd6e4b4ca7ec598666fda7b8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380763.html",
-    "time": "2026-02-12T19:15:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3384363.html",
+    "time": "2026-02-12T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Сериал «Паук-Нуар» с Николасом Кейджем в главной роли выйдет 27 мая на Prime Video — тизер-трейлер",
+    "description": "Шоу будут выпускать в чёрно-белом и цветном форматах.",
+    "fullText": "Шоу будут выпускать в чёрно-белом и цветном форматах.",
+    "image": "https://leonardo.osnova.io/95a84637-141a-59fd-b7b7-82b8e96cd239/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4779314-serial-pauk-nuar-nikolas-keidzh?from=rss",
+    "time": "2026-02-12T16:03:39.000Z"
   }
 ]
