@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Джокович кайфовал на Олимпиаде – нашел югославский значок и опешил от Малинина",
-    "description": "Семейный досуг.",
-    "fullText": "Семейный досуг.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/78/f7b1948f34ec0997e0d4df6aad23d.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Патрушев: в ПФО нужно построить почти 70 объектов обращения с отходами",
+    "description": "По словам зампреда правительства России, в Приволжском федеральном округе ежегодно образуется около 20% от общего объема твердых коммунальных отходов в стране",
+    "fullText": "По словам зампреда правительства России, в Приволжском федеральном округе ежегодно образуется около 20% от общего объема твердых коммунальных отходов в стране",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3384456.html",
-    "time": "2026-02-13T12:00:00.000Z"
+    "url": "https://tass.ru/obschestvo/26444453",
+    "time": "2026-02-13T16:46:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Детские фотки хоккеистов КХЛ в нашем тесте – чистый кайф",
-    "description": "Тагииил!",
-    "fullText": "Тагииил!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/e4/fe19fea4e43479fccf13963986b49.png",
+    "title": "Тюрам из «Интера» или Тюрам из «Юве» – кого возьмете в команду на этот тур?",
+    "description": "Выберите в Основе Серии А.",
+    "fullText": "Выберите в Основе Серии А.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1f/3e0c9c0984be89bb24a9cb0710f88.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/6jssib",
-    "time": "2026-02-13T11:30:00.000Z"
+    "url": "https://sirena.world/hiaqf5",
+    "time": "2026-02-13T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Барса» в ярости от судейства: позор, скандал, будет жалоба",
+    "description": "После 0:4 с «Атлетико».",
+    "fullText": "После 0:4 с «Атлетико».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/fe/d491c2a144f3cbd029d62d0f1110e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3384512.html",
+    "time": "2026-02-13T12:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Dino Crisis и Dino Crisis 2 вышли в Steam",
-    "description": "Игры продаются по скидке 50%.",
-    "fullText": "Игры продаются по скидке 50%.",
-    "image": "https://leonardo.osnova.io/bbafa792-f666-5be3-909e-f29fde90b3f5/",
+    "title": "Шоураннер аниме «Терминатор Зеро» рассказал, что Netflix закрыл сериал на фоне низких просмотров",
+    "description": "Однако он не держит обиды и считает сервис отличным партнёром.",
+    "fullText": "Однако он не держит обиды и считает сервис отличным партнёром.",
+    "image": "https://leonardo.osnova.io/8aa01f46-5e85-5421-ae16-2385d8b5693e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4780292-dino-crisis-i-dino-crisis-2-teper-v-steam-so-skidkoy-50?from=rss",
-    "time": "2026-02-13T06:50:01.000Z"
+    "url": "https://dtf.ru/anime/4780796-terminator-zero-zakryt-netflix?from=rss",
+    "time": "2026-02-13T11:04:54.000Z"
   }
 ]
