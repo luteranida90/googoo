@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фигурист Петр Гуменник: место на Олимпиаде меня не волнует",
-    "description": "Петр Гуменник сегодня представит произвольную программу на олимпийском турнире фигуристов, в котором он пока идет на 12-м месте. В эксклюзивном интервью ТАСС россиянин рассказал о подготовке к решающему прокату, а также поведал, чье выступление в короткой программе ему понравилось больше всего",
-    "fullText": "Петр Гуменник сегодня представит произвольную программу на олимпийском турнире фигуристов, в котором он пока идет на 12-м месте. В эксклюзивном интервью ТАСС россиянин рассказал о подготовке к решающему прокату, а также поведал, чье выступление в короткой программе ему понравилось больше всего",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260213/8813499.jpg",
+    "title": "Al-Monitor: выведенные с базы Эт-Танф в Сирии войска США переместятся в Иорданию",
+    "description": "Точная численность выведенного с базы американского контингента не раскрывается",
+    "fullText": "Точная численность выведенного с базы американского контингента не раскрывается",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/interviews/26437037",
-    "time": "2026-02-13T07:48:20.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26438445",
+    "time": "2026-02-13T08:56:57.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-02-13T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Открытый тест Marathon пройдёт с 26 февраля по 2 марта — трейлер",
-    "description": "С озвучкой Роджера Кларка.",
-    "fullText": "С озвучкой Роджера Кларка.",
-    "image": "https://leonardo.osnova.io/bc67050e-3fe1-52f9-bf38-0dbe66d13ad5/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4779772-otkrytyj-test-marathon-26-fevralya-po-2-marta?from=rss",
-    "time": "2026-02-12T23:02:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рэтклиффа отменяют в Британии из-за слов об иммигрантах. Боссы «МЮ» тоже в шоке",
-    "description": "Новый «Олд Траффорд» под угрозой?",
-    "fullText": "Новый «Олд Траффорд» под угрозой?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/41/d0ca35cfe43b28d55181d1bb61f63.jpeg",
+    "title": "❌ Бывший тренер «Авангарда» отменил два гола США на Играх!",
+    "description": "Вот это поворот.",
+    "fullText": "Вот это поворот.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/64/3199ec85a440c9f22f060d3c7b215.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384257.html",
-    "time": "2026-02-12T21:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3384427.html",
+    "time": "2026-02-12T22:55:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Remedy показала первый геймплей Control Resonant",
+    "description": "Пока без даты релиза.",
+    "fullText": "Пока без даты релиза.",
+    "image": "https://leonardo.osnova.io/d7668504-76f9-5a41-b663-0039e8c0d1a4/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4779838-control-resonant-gejmplej?from=rss",
+    "time": "2026-02-12T22:28:34.000Z"
   }
 ]
