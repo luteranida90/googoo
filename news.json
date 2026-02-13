@@ -12,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мистика! У этих парней фотофиниш за золото на двух Олимпиадах подряд",
-    "description": "И исход один.",
-    "fullText": "И исход один.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a5/8c8abdd6e4b4ca7ec598666fda7b8.jpeg",
+    "title": "Как же преобразился «Ак Барс»! Взлетели после неудачного старта",
+    "description": "Претендуют на Кубок Гагарина?",
+    "fullText": "Претендуют на Кубок Гагарина?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5c/a0b569ffe427ba36d32c7470637a7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3384363.html",
-    "time": "2026-02-12T19:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3384159.html",
+    "time": "2026-02-12T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4779314-serial-pauk-nuar-nikolas-keidzh?from=rss",
     "time": "2026-02-12T16:03:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
