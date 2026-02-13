@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гунба обратится к РФ с вопросом о возобновлении выдачи в Абхазии паспортов",
-    "description": "Абхазский лидер отметил, что вопрос документирования граждан России, постоянно проживающих в республике, \"пытаются политизировать\"",
-    "fullText": "Абхазский лидер отметил, что вопрос документирования граждан России, постоянно проживающих в республике, \"пытаются политизировать\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26444955",
-    "time": "2026-02-13T18:36:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Топ-тур в Серии А: «Ювентус» и «Интер», «Наполи» и «Рома» – кто победит?",
     "description": "Выбирайте в Пикере Спортса”.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Тоттенхэм» – не топ-клуб». Постекоглу мочит бывшую команду",
-    "description": "Жозе и Конте тоже разносили клуб.",
-    "fullText": "Жозе и Конте тоже разносили клуб.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/4b/d5b9fa83b433f9134b7c0f48463e8.jpeg",
+    "title": "В 2016-м ты был лохом, если не смотрел НБА",
+    "description": "Тогда изменился баскетбол.",
+    "fullText": "Тогда изменился баскетбол.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/a8/224f8b90844c780e45206a918ce16.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384319.html",
-    "time": "2026-02-13T14:32:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3380856.html",
+    "time": "2026-02-13T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Вышел трейлер, и всё пошло наперекосяк»: бывший технический художник Highguard о травле в сети",
-    "description": "Разработчик считает, что игра не заслужила такой реакции.",
-    "fullText": "Разработчик считает, что игра не заслужила такой реакции.",
-    "image": "https://leonardo.osnova.io/43988c91-f379-57dd-b3d0-bdf97c139fac/",
+    "title": "В Deadlock добавили Аполлона — последнего из шести героев масштабного обновления",
+    "description": "Фехтовальщик пользуется точными выпадами для нанесения урона.",
+    "fullText": "Фехтовальщик пользуется точными выпадами для нанесения урона.",
+    "image": "https://leonardo.osnova.io/44b0c184-4b1d-5857-8f6f-c1fed1d6d96f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4780423-trejler-highguard-vyzval-travlyu-mnenie-byvshego-hudozhnika-dzhosha-sobela?from=rss",
-    "time": "2026-02-13T08:19:38.000Z"
+    "url": "https://dtf.ru/games/4780939-apollon-v-deadlock-novyy-geroy-obnovleniya?from=rss",
+    "time": "2026-02-13T12:18:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
