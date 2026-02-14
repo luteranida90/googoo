@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Инфарктный\" матч в Инсбруке. 50 лет назад сборная СССР выиграла Олимпиаду",
-    "description": "В решающей игре советская команда победила сборную ЧССР со счетом 4:3",
-    "fullText": "В решающей игре советская команда победила сборную ЧССР со счетом 4:3",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260214/8816279.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26448921",
-    "time": "2026-02-14T13:44:46.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
     "description": "Узнайте в новом тесте про еду.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лилиан Тюрам круче Зидана? Прошел футбол и дал чит-коды сыновьям",
-    "description": "Сейчас объясним.",
-    "fullText": "Сейчас объясним.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/d7/1fee7bee34e29a9af3c1477a601ef.jpeg",
+    "title": "«Интер» 2 года не побеждает «Юве», но неудобен для Спаллетти. Какой тренд окажется сильнее?",
+    "description": "Лаутаро – самый вероятный автор гола.",
+    "fullText": "Лаутаро – самый вероятный автор гола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/68/aa5e977ce4ad7967a1037bf58e56b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384568.html",
-    "time": "2026-02-14T11:00:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3384653.html",
+    "time": "2026-02-14T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4781275-predzakazy-na-the-life-and-suffering-of-prince-jerian?from=rss",
     "time": "2026-02-13T15:23:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
