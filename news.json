@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В горах Чечни более 10 тыс. человек приняли участие в фестивале черемши",
+    "description": "В рамках фестиваля также прошли соревнования по быстрой чистке черемши среди известных женщин и конкурс на самого стильного кота республики",
+    "fullText": "В рамках фестиваля также прошли соревнования по быстрой чистке черемши среди известных женщин и конкурс на самого стильного кота республики",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26449419",
+    "time": "2026-02-14T15:48:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
     "description": "Узнайте в новом тесте про еду.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Паника Швеции в эстафете! Андерссон дважды упала, бежала с лыжей под мышкой, свалился и тренер",
-    "description": "Отдали золото Норвегии.",
-    "fullText": "Отдали золото Норвегии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/ce/05f07cdbb49aaace27dab447b1686.jpeg",
+    "title": "«При честном судействе Гуменник был бы в тройке». Россия возмущена исходом Олимпиады",
+    "description": "«Ему вообще ничего не дали».",
+    "fullText": "«Ему вообще ничего не дали».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/95/ec8ec369840dd9346021e5742c214.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3384778.html",
-    "time": "2026-02-14T12:40:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3384776.html",
+    "time": "2026-02-14T13:12:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4781275-predzakazy-na-the-life-and-suffering-of-prince-jerian?from=rss",
     "time": "2026-02-13T15:23:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
