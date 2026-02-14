@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Московском регионе началось похолодание",
-    "description": "Причиной является прохождение холодного атмосферного фронта со снегом и порывистым северо-западным ветром",
-    "fullText": "Причиной является прохождение холодного атмосферного фронта со снегом и порывистым северо-западным ветром",
+    "title": "В Сергиевом Посаде при пожаре из-за взрыва газового баллона погиб человек",
+    "description": "Точное количество пострадавших уточняется",
+    "fullText": "Точное количество пострадавших уточняется",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26450117",
-    "time": "2026-02-14T18:41:51.000Z"
+    "url": "https://tass.ru/proisshestviya/26450279",
+    "time": "2026-02-14T19:50:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Тест: как вы готовы к олимпийскому хоккейному турниру?",
+    "description": "Кто из НХЛ приехал в Италию?",
+    "fullText": "Кто из НХЛ приехал в Италию?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/b1/89174675840fea3bf6c1b0d2a1946.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/iedj8h",
+    "time": "2026-02-14T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://www.sports.ru/hockey/blogs/3384761.html",
     "time": "2026-02-14T15:47:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Узнаете всех игроков «Реала» 2000-х в нашей игре?",
-    "description": "Сделайте паузу от дел.",
-    "fullText": "Сделайте паузу от дел.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/7e/9e265cb4a4db1b3d1a54ffa5c2a05.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r2bw0n",
-    "time": "2026-02-14T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
