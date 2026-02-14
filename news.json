@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Рубио подтвердил, что новый раунд переговоров по Украине состоится 17 февраля",
-    "description": "Состав участников может отличаться, отметил американский госсекретарь",
-    "fullText": "Состав участников может отличаться, отметил американский госсекретарь",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26447497",
-    "time": "2026-02-14T08:38:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Мне просто хотелось посмотреть раздевалку «Барыса». О чем мечтали игроки КХЛ?",
     "description": "Истории из детства.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Моим льдом стал старый ковер, а шерстяные носки – коньками». Ваши истории про зимние Олимпиады",
-    "description": "Пять хороших рассказов.",
-    "fullText": "Пять хороших рассказов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/b9/b2474f9e2481a853eea1cd1241c64.jpeg",
+    "title": "Как судили Гуменника на Олимпиаде – это стыд",
+    "description": "Крутихина в гневе.",
+    "fullText": "Крутихина в гневе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/52/c9e0c3da948c791ccb85d92d9f4ea.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3384071.html",
-    "time": "2026-02-14T05:25:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3384694.html",
+    "time": "2026-02-14T06:19:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4781759-sokrashcheniya-v-studii-10-chambers?from=rss",
     "time": "2026-02-13T17:51:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
