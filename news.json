@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Эрмитаже открылась выставка с экспонатами из частной коллекции Захаровой",
-    "description": "Экспозицию посвятили знаменитой китайской керамике, выполненной из уникальной по своему составу глины из города Исин китайской провинции Цзянсу",
-    "fullText": "Экспозицию посвятили знаменитой китайской керамике, выполненной из уникальной по своему составу глины из города Исин китайской провинции Цзянсу",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260214/8816355.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/26449177",
-    "time": "2026-02-14T14:36:24.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
     "description": "Узнайте в новом тесте про еду.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пенальти – оружие «Реала» в этом сезоне Ла Лиги. Атакуют рекорд «Барсы» из 2016-го",
-    "description": "Мбаппе превращается в Роналду.",
-    "fullText": "Мбаппе превращается в Роналду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/e6/551fb0ca54529bf8b8b99c6c95b7e.jpeg",
+    "title": "Паника Швеции в эстафете! Андерссон дважды упала, бежала с лыжей под мышкой, свалился и тренер",
+    "description": "Отдали золото Норвегии.",
+    "fullText": "Отдали золото Норвегии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/ce/05f07cdbb49aaace27dab447b1686.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3384474.html",
-    "time": "2026-02-14T12:25:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3384778.html",
+    "time": "2026-02-14T12:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4781275-predzakazy-na-the-life-and-suffering-of-prince-jerian?from=rss",
     "time": "2026-02-13T15:23:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
