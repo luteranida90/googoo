@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Инфарктный\" матч в Инсбруке. 50 лет назад сборная СССР выиграла Олимпиаду",
+    "description": "В решающей игре советская команда победила сборную ЧССР со счетом 4:3",
+    "fullText": "В решающей игре советская команда победила сборную ЧССР со счетом 4:3",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260214/8816279.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26448921",
+    "time": "2026-02-14T13:44:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
     "description": "Узнайте в новом тесте про еду.",
@@ -11,36 +22,25 @@
     "time": "2026-02-14T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В World Curling отреагировали на заявление о жульничестве канадцев",
-    "description": "Обвинения выдвинул главный тренер сборной Швеции Фредрик Линдберг, поскольку игроки сборной Канады могли повторно касаться камней во время матча на Олимпиаде",
-    "fullText": "Обвинения выдвинул главный тренер сборной Швеции Фредрик Линдберг, поскольку игроки сборной Канады могли повторно касаться камней во время матча на Олимпиаде",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26448807",
-    "time": "2026-02-14T13:08:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что нужно знать о первых тестах новой «Ф-1»? 8 главных сигналов",
-    "description": "Финализируем.",
-    "fullText": "Финализируем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c5/8cb700d99487689edb0cad9884617.jpeg",
+    "title": "Лилиан Тюрам круче Зидана? Прошел футбол и дал чит-коды сыновьям",
+    "description": "Сейчас объясним.",
+    "fullText": "Сейчас объясним.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/d7/1fee7bee34e29a9af3c1477a601ef.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3384351.html",
-    "time": "2026-02-14T10:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3384568.html",
+    "time": "2026-02-14T11:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В студии авторов GTFO и грядущей Den of Wolves прошли масштабные сокращения — ушли даже несколько соучредителей",
-    "description": "Оставшаяся часть команды полностью сосредоточится на создании кооперативного шутера, анонсированного на TGA 2023.",
-    "fullText": "Оставшаяся часть команды полностью сосредоточится на создании кооперативного шутера, анонсированного на TGA 2023.",
-    "image": "https://leonardo.osnova.io/c5b2154a-c187-50a9-9cd6-02e42c912bfd/",
+    "title": "Авторы The Life and Suffering of Prince Jerian открыли предзаказы — обычное издание стоит 880 рублей",
+    "description": "Купить текстовую RPG пока можно лишь на официальном сайте.",
+    "fullText": "Купить текстовую RPG пока можно лишь на официальном сайте.",
+    "image": "https://leonardo.osnova.io/0b6477df-0bca-501d-a2ce-2d15c393a955/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4781759-sokrashcheniya-v-studii-10-chambers?from=rss",
-    "time": "2026-02-13T17:51:38.000Z"
+    "url": "https://dtf.ru/games/4781275-predzakazy-na-the-life-and-suffering-of-prince-jerian?from=rss",
+    "time": "2026-02-13T15:23:38.000Z"
   }
 ]
