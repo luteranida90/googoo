@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Омске бродячая собака напала на ребенка",
+    "description": "Заведено уголовное дело",
+    "fullText": "Заведено уголовное дело",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26448013",
+    "time": "2026-02-14T09:57:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Фото дня: Егор Дёмин с первым трофеем НБА!",
+    "description": "Пока только за победу в Матче восходящих звезд.",
+    "fullText": "Пока только за победу в Матче восходящих звезд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/96/0071a46e642ca8380b8cb8c464888.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3384715.html",
+    "time": "2026-02-14T07:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Мне просто хотелось посмотреть раздевалку «Барыса». О чем мечтали игроки КХЛ?",
     "description": "Истории из детства.",
@@ -11,17 +33,6 @@
     "time": "2026-02-14T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как судили Гуменника на Олимпиаде – это стыд",
-    "description": "Крутихина в гневе.",
-    "fullText": "Крутихина в гневе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/52/c9e0c3da948c791ccb85d92d9f4ea.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3384694.html",
-    "time": "2026-02-14T06:19:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В студии авторов GTFO и грядущей Den of Wolves прошли масштабные сокращения — ушли даже несколько соучредителей",
     "description": "Оставшаяся часть команды полностью сосредоточится на создании кооперативного шутера, анонсированного на TGA 2023.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4781759-sokrashcheniya-v-studii-10-chambers?from=rss",
     "time": "2026-02-13T17:51:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
