@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ГД предложили компенсировать часть средств ипотечным заемщикам-банкротам",
-    "description": "Эта мера поможет гражданам \"не остаться на улице\", что оздоровит социально психологическую обстановку в российском обществе, считает зампред комитета Госдумы по экономполитике Михаил Делягин",
-    "fullText": "Эта мера поможет гражданам \"не остаться на улице\", что оздоровит социально психологическую обстановку в российском обществе, считает зампред комитета Госдумы по экономполитике Михаил Делягин",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260215/8816999.jpg",
+    "title": "В Вологодской области опровергли обвинения в фальсификации данных о рождаемости",
+    "description": "Георгий Филимонов отметил, что в регионе опираются на официальные данные Минздрава России, ЕГАИС, Росстата",
+    "fullText": "Георгий Филимонов отметил, что в регионе опираются на официальные данные Минздрава России, ЕГАИС, Росстата",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26452549",
-    "time": "2026-02-15T06:14:34.000Z"
+    "url": "https://tass.ru/obschestvo/26452703",
+    "time": "2026-02-15T07:02:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Гуменник привез на Олимпиаду не флаг, а стиль",
+    "description": "Цилиндры сближают.",
+    "fullText": "Цилиндры сближают.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/df/0cbc3b0204b0fa63650eac9cc5e81.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3384793.html",
+    "time": "2026-02-14T21:46:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-14T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шайдорова привел к золоту наш олимпийский чемпион Алексей Урманов. Мы поговорили",
-    "description": "«Миша спокоен как мамонт».",
-    "fullText": "«Миша спокоен как мамонт».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4e/6221a516449ed92c92915703400ce.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3384755.html",
-    "time": "2026-02-14T20:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Reanimal — хоррор-адвенчуры от авторов первой и второй частей Little Nightmares",
-    "description": "Главным героям игры, брату и сестре, нужно исследовать таинственный остров с монстрами, чтобы спасти друзей.",
-    "fullText": "Главным героям игры, брату и сестре, нужно исследовать таинственный остров с монстрами, чтобы спасти друзей.",
-    "image": "https://leonardo.osnova.io/47b3bcff-5675-58ff-bf37-d30553c81192/-/format/mp4/",
+    "title": "Cronos: The New Dawn получила обновление с пониженным уровнем сложности",
+    "description": "В игре также появился новый скин.",
+    "fullText": "В игре также появился новый скин.",
+    "image": "https://leonardo.osnova.io/103c8f21-5214-5a39-893f-7e23d96b3aa0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4781115-reliz-reanimal-horror-adventure?from=rss",
-    "time": "2026-02-13T14:06:51.000Z"
+    "url": "https://dtf.ru/games/4781358-cronos-the-new-dawn-obnovlenie-s-ponizhennym-urovnem-slozhnosti?from=rss",
+    "time": "2026-02-13T16:24:22.000Z"
   }
 ]
