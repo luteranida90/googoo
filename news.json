@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На западе Нигерии террористы убили 32 мирных жителя",
-    "description": "Телеканал Arise отмечает, что по почерку совершенные преступления напоминают атаки экстремистской группировки \"Боко харам\"",
-    "fullText": "Телеканал Arise отмечает, что по почерку совершенные преступления напоминают атаки экстремистской группировки \"Боко харам\"",
+    "title": "В Центральном в ЛНР детей перевели на дистант после атаки ВСУ",
+    "description": "Над устранением последствий обстрела в здании работают около 150 человек",
+    "fullText": "Над устранением последствий обстрела в здании работают около 150 человек",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26453669",
-    "time": "2026-02-15T11:14:50.000Z"
+    "url": "https://tass.ru/obschestvo/26453779",
+    "time": "2026-02-15T12:04:51.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,15 +22,26 @@
     "time": "2026-02-15T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Матч звезд НБА – это праздник в коме. Почему лига не сделает такое же шоу, как НФЛ на Супербоуле?",
-    "description": "О несбыточном.",
-    "fullText": "О несбыточном.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/71/97b9c19994cccbef4bf642bee8b25.jpeg",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Матч казанского «Зенита» и «Факела» на ВидеоСпортсе’‘. Начало – 15 февраля в 16:50",
+    "description": "24-й тур чемпионата России.",
+    "fullText": "24-й тур чемпионата России.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/aa/4dbaafbe646a3840fa81003e416b7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3384302.html",
-    "time": "2026-02-15T07:20:00.000Z"
+    "url": "https://video.sports.ru/stream/20DWTbdQDK2_pJie6QT1nTQCPLvaJc0BORJsV17nrEw",
+    "time": "2026-02-15T09:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Дубль Винисиуса с пенальти – и вот «Реал» лидер Ла Лиги. Разгром 4:1 без Мбаппе",
+    "description": "«Сосьедад» пал.",
+    "fullText": "«Сосьедад» пал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/da/d07f9d18442c1a483a72d4a02bb4c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3384880.html",
+    "time": "2026-02-15T08:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
