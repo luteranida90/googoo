@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Самая мощная атака ВСУ. Ситуация в Брянской области после налета БПЛА",
-    "description": "Над регионом сбили более 170 беспилотников самолетного типа",
-    "fullText": "Над регионом сбили более 170 беспилотников самолетного типа",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260216/8818337.jpg",
+    "title": "Посол РФ: на Кубе ввели квоты на топливо для автомобилей дипмиссий",
+    "description": "Виктор Коронелли также напомнил, что Венесуэла и Мексика прекратили поставки нефти на остров, а топлива, добываемого в стране, \"не хватает для покрытия внутренних потребностей\"",
+    "fullText": "Виктор Коронелли также напомнил, что Венесуэла и Мексика прекратили поставки нефти на остров, а топлива, добываемого в стране, \"не хватает для покрытия внутренних потребностей\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26457593",
-    "time": "2026-02-16T07:33:37.000Z"
+    "url": "https://tass.ru/ekonomika/26458207",
+    "time": "2026-02-16T08:38:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Алена Крылова – наша в Милане сегодня: на победы мотивирует себя тортиком",
+    "description": "Какие шансы в шорт-треке?",
+    "fullText": "Какие шансы в шорт-треке?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9e/32cab998e4449a4ed363d81f2b79b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skating/blogs/3383542.html",
+    "time": "2026-02-16T04:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-16T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Русские не вернут медали Сочи-2014? Я не удивлен». Самое странное награждение Олимпиады",
-    "description": "Фуркад и Бьорндален с медалями.",
-    "fullText": "Фуркад и Бьорндален с медалями.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e5/6bcab16f64f45b74f47eaad2747d3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/biathlon/blogs/3384930.html",
-    "time": "2026-02-15T22:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Extraction-шутер в сеттинге Второй мировой и мобильная Assassin’s Creed Singularity: в СМИ рассказали об отменённых играх Ubisoft",
-    "description": "На фоне реструктуризации издатель отказался от шести проектов, включая многострадальный ремейк Prince of Persia.",
-    "fullText": "На фоне реструктуризации издатель отказался от шести проектов, включая многострадальный ремейк Prince of Persia.",
-    "image": "https://leonardo.osnova.io/07fcee6f-ab85-519b-8886-a95ca2ffc3d7/",
+    "title": "«Одно из лучших обновлений» — блогер сравнил Kingdom Come: Deliverance на PS5 с версией для пастгена",
+    "description": "Средневековая RPG преобразилась на консолях.",
+    "fullText": "Средневековая RPG преобразилась на консолях.",
+    "image": "https://leonardo.osnova.io/9d4340bc-2a00-51f5-b2ec-6aaa12e15675/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4785583-otmenennye-igry-ubisoft?from=rss",
-    "time": "2026-02-14T08:20:20.000Z"
+    "url": "https://dtf.ru/games/4782128-sravnenie-kingdom-come-deliverance-na-ps5-i-ps4?from=rss",
+    "time": "2026-02-14T13:45:46.000Z"
   }
 ]
