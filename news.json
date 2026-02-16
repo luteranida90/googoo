@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве представили номер журнала \"Русская мысль\" об отношениях РФ и США",
-    "description": "Выпуск посвящен культурно-историческому аспекту отношений между странами, а также системообразующей взаимосвязи Москвы и Вашингтона",
-    "fullText": "Выпуск посвящен культурно-историческому аспекту отношений между странами, а также системообразующей взаимосвязи Москвы и Вашингтона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26464369",
-    "time": "2026-02-16T16:31:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
     "description": "Узнайте в новом тесте про еду.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гуменник проиграл не соперникам, а системе",
-    "description": "Крутихина с ответом Кузнецову.",
-    "fullText": "Крутихина с ответом Кузнецову.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e4/638a7fb6545d0bcdec3db9b64c00d.jpeg",
+    "title": "Стерлинг в 31 впервые уехал из АПЛ. «Фейеноорд» ради него перенес тренировки в Бельгию",
+    "description": "Встряхнет карьеру?",
+    "fullText": "Встряхнет карьеру?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/38/a93138a57443ba625a4e374189f6f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3385083.html",
-    "time": "2026-02-16T12:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3384355.html",
+    "time": "2026-02-16T13:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Геймдиректор ремейков Final Fantasy VII заверил, что графика триквела не пострадает от мультиплатформенной стратегии",
-    "description": "Разработчики начинают с мощных конфигураций, а затем занимаются оптимизацией под другие платформы.",
-    "fullText": "Разработчики начинают с мощных конфигураций, а затем занимаются оптимизацией под другие платформы.",
-    "image": "https://leonardo.osnova.io/0fa3b559-e695-5fe9-a8bd-ff04bf21c8e3/",
+    "title": "Авторы Mewgenics уже работают над консольными версиями",
+    "description": "Но сроков пока не объявляют.",
+    "fullText": "Но сроков пока не объявляют.",
+    "image": "https://leonardo.osnova.io/4a16da4a-0f91-5212-b99b-f9b7ae83b261/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4789084-grafika-trikvela-final-fantasy-vii-ne-postradaet-ot-multiplatformennosti?from=rss",
-    "time": "2026-02-16T10:07:10.000Z"
+    "url": "https://dtf.ru/games/4789253-konsolnye-versii-mewgenics-v-razrabotke?from=rss",
+    "time": "2026-02-16T11:13:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
