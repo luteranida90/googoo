@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лукашенко заявил, что Запад не сможет обмануть его или столкнуть в сторону",
-    "description": "Белорусский лидер отметил, что ему известна позиция МИД России о том, что в отношениях с Западом следует быть осторожным",
-    "fullText": "Белорусский лидер отметил, что ему известна позиция МИД России о том, что в отношениях с Западом следует быть осторожным",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8009941.jpg",
+    "title": "В Швейцарии из-за схода поезда с рельсов пострадали пять человек",
+    "description": "В момент происшествия в поезде находились 29 пассажиров",
+    "fullText": "В момент происшествия в поезде находились 29 пассажиров",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26459913",
-    "time": "2026-02-16T10:27:25.000Z"
+    "url": "https://tass.ru/proisshestviya/26460649",
+    "time": "2026-02-16T11:21:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Подкаст со Слуцким: 300 млн на счетах, «Оземпик» и нежелание возвращаться в Россию",
+    "description": "А Дзюба – звездулька-капризулька.",
+    "fullText": "А Дзюба – звездулька-капризулька.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/73/bc881b4fd44a2b39a9e630093d41d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3384998.html",
+    "time": "2026-02-16T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-16T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Двойной аксель от Плющенко-младшего: после гола за 2Drots в детской медиалиге",
-    "description": "Сравнили с дебютом Роналду за «МЮ».",
-    "fullText": "Сравнили с дебютом Роналду за «МЮ».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/45/ce05a32424e9c8f258918e432b50a.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3383388.html",
-    "time": "2026-02-16T06:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloober Team анонсировала Layers of Fear 3",
-    "description": "Этому и был посвящён тизер-сайт.",
-    "fullText": "Этому и был посвящён тизер-сайт.",
-    "image": "https://leonardo.osnova.io/57a69826-8cbd-5f9f-8e20-eebac46bef65/",
+    "title": "Онлайн Mewgenics превысил 100 тысяч одновременных игроков в Steam",
+    "description": "Она также возглавила список самых популярных релизов на Steam Deck.",
+    "fullText": "Она также возглавила список самых популярных релизов на Steam Deck.",
+    "image": "https://leonardo.osnova.io/a5b73b30-7d60-5adc-b63f-ff40992dce53/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4787132-bloober-team-anonsirovala-layers-of-fear-3?from=rss",
-    "time": "2026-02-15T07:27:58.000Z"
+    "url": "https://dtf.ru/games/4787232-mewgenics-dostig-100-tysyach-odnovremennykh-igrokov-v-steam?from=rss",
+    "time": "2026-02-15T08:59:59.000Z"
   }
 ]
