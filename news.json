@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Новгородской области обнаружили соколиный двор XII века",
+    "description": "Исследователи нашли черепа ястребов-тетеревятников - птицы, которую в Древней Руси использовали для охоты на дичь",
+    "fullText": "Исследователи нашли черепа ястребов-тетеревятников - птицы, которую в Древней Руси использовали для охоты на дичь",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/26464681",
+    "time": "2026-02-16T18:35:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Аль-Хилаль» Индзаги лидирует в ЛЧ – можно финишировать с отрывом. Следим в прямом эфире Спортса’‘",
+    "description": "Совместно с ТВ Старт.",
+    "fullText": "Совместно с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/9d/649d677584e39a310e2999074637c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/3MdW9Y0_URPfL5sZkcW24_l46Z7pmQJOqgGTGZ3YOr0",
+    "time": "2026-02-16T18:11:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
     "description": "Узнайте в новом тесте про еду.",
@@ -12,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Стерлинг в 31 впервые уехал из АПЛ. «Фейеноорд» ради него перенес тренировки в Бельгию",
-    "description": "Встряхнет карьеру?",
-    "fullText": "Встряхнет карьеру?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/38/a93138a57443ba625a4e374189f6f.jpeg",
+    "title": "«Лейкерс» пожертвовали сезоном перед эрой Дончича. Почему?",
+    "description": "Похоже, уйдет не только Леброн.",
+    "fullText": "Похоже, уйдет не только Леброн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/43/8cab4ea6f4d27a10b0a0e2d6c9687.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384355.html",
-    "time": "2026-02-16T13:45:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3384752.html",
+    "time": "2026-02-16T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Mewgenics уже работают над консольными версиями",
-    "description": "Но сроков пока не объявляют.",
-    "fullText": "Но сроков пока не объявляют.",
-    "image": "https://leonardo.osnova.io/4a16da4a-0f91-5212-b99b-f9b7ae83b261/",
+    "title": "«Товарищ Пётр, помилуйте»: тизер «Холопа 3»",
+    "description": "Прокат на этот раз стартует в июне, а не зимой.",
+    "fullText": "Прокат на этот раз стартует в июне, а не зимой.",
+    "image": "https://leonardo.osnova.io/02383418-f025-5970-9422-f330e85e81d5/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4789253-konsolnye-versii-mewgenics-v-razrabotke?from=rss",
-    "time": "2026-02-16T11:13:16.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4788990-tizer-holopa-3?from=rss",
+    "time": "2026-02-16T09:05:17.000Z"
   }
 ]
