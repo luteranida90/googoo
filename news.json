@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РФ ежегодно выявляют 200 тыс. преступлений, связанных с оборотом наркотиков",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Пицца и паста – это попса!» Вот настоящая еда Милана",
+    "description": "Наталья Марьянчик попробовала.",
+    "fullText": "Наталья Марьянчик попробовала.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/eb/6711dc1344bdd8da95c54e3e1947b.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26462789",
-    "time": "2026-02-16T13:47:39.000Z"
+    "url": "https://www.sports.ru/others/blogs/3384483.html",
+    "time": "2026-02-16T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-02-16T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Малком кайфует в «Аль-Хилале» – попал в идеальные условия",
-    "description": "Прогрессирует даже в Саудовской Аравии.",
-    "fullText": "Прогрессирует даже в Саудовской Аравии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d0/d217f352b4e89832896d1961f9270.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384972.html",
-    "time": "2026-02-16T10:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики Rainbow Six Siege показали оперативника Солида Снейка — с озвучкой Дэвида Хейтера",
-    "description": "А также рассказали о планах на предстоящий год обновлений.",
-    "fullText": "А также рассказали о планах на предстоящий год обновлений.",
-    "image": "https://leonardo.osnova.io/93ac1b8e-645e-509d-b8b2-00266cfeb47c/",
+    "title": "«Сказка о царе Салтане» стартовала с 668 миллионов рублей — это рекорд для российских фильмов, выходивших не в новогодний период",
+    "description": "Однако зрителей у картины оказалось меньше, чем у прошлого лидера — «Льда 2».",
+    "fullText": "Однако зрителей у картины оказалось меньше, чем у прошлого лидера — «Льда 2».",
+    "image": "https://leonardo.osnova.io/53e2b7bd-0d8f-514b-9d47-70f2df287e5e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4788689-solid-sneik-v-rainbow-six-siege?from=rss",
-    "time": "2026-02-16T06:01:25.000Z"
+    "url": "https://dtf.ru/cinema/4788903-skazka-o-tsare-saltane-sobrala-668-millionov-rubley?from=rss",
+    "time": "2026-02-16T08:18:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
