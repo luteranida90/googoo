@@ -1,18 +1,29 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Выпускники техникума в Марий Эл получат сразу несколько профессий",
-    "description": "Для стажировки студентов уже заключены договоры о сотрудничестве с 31 предприятием республики",
-    "fullText": "Для стажировки студентов уже заключены договоры о сотрудничестве с 31 предприятием республики",
+    "title": "В Северной Осетии завели дело после убийства девочки",
+    "description": "По подозрению в совершении преступления задержали ее брата",
+    "fullText": "По подозрению в совершении преступления задержали ее брата",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26464859",
-    "time": "2026-02-16T19:17:32.000Z"
+    "url": "https://tass.ru/proisshestviya/26465095",
+    "time": "2026-02-16T20:04:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Зовем вас в Фэнтези ЛЧ! Собирайте команду на плей-офф, не пропускайте топ-турнир",
+    "description": "Старт – во вторник вечером.",
+    "fullText": "Старт – во вторник вечером.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/60/5a576c60447f7b23e70735731acd0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/fantasyCL",
+    "time": "2026-02-16T19:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Аль-Хилаль» резвится в ЛЧ – уже 1:1 к перерыву! Смотрим на команду Симоне Индзаги в прямом эфире Спортса’‘",
+    "title": "«Аль-Хилаль» финишировал лидером в ЛЧ – с дублем Нуньеса! Смотрели в прямом эфире Спортса’‘",
     "description": "Совместно с ТВ Старт.",
     "fullText": "Совместно с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/a/9d/649d677584e39a310e2999074637c.jpeg",
@@ -34,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Винисиус всех порвал, хитрый прессинг Гасперини, мощнейшее оружие «Дортмунда». Тактика топ-лиг",
-    "description": "И как «Хетафе» разрушил вообще все.",
-    "fullText": "И как «Хетафе» разрушил вообще все.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c0/1f15ed0684b4eb35dfc0adbf776da.jpeg",
+    "title": "Аделия Петросян мечтала об Олимпиаде, но это ее самый тяжелый сезон",
+    "description": "Весь путь в Милан – испытание.",
+    "fullText": "Весь путь в Милан – испытание.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/eb/56250280f4fa38d5ee95adec6725f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385167.html",
-    "time": "2026-02-16T15:00:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3378178.html",
+    "time": "2026-02-16T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Товарищ Пётр, помилуйте»: тизер «Холопа 3»",
-    "description": "Прокат на этот раз стартует в июне, а не зимой.",
-    "fullText": "Прокат на этот раз стартует в июне, а не зимой.",
-    "image": "https://leonardo.osnova.io/02383418-f025-5970-9422-f330e85e81d5/-/format/mp4/",
+    "title": "Bloomberg: Sony не исключает переноса следующей PlayStation на 2028-й или 2029 год — из-за текущего дефицита оперативной памяти",
+    "description": "А Nintendo раздумывает об увеличении стоимости Switch 2.",
+    "fullText": "А Nintendo раздумывает об увеличении стоимости Switch 2.",
+    "image": "https://leonardo.osnova.io/e8b051b9-d9d2-584a-96fa-c37c104fe3eb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4788990-tizer-holopa-3?from=rss",
-    "time": "2026-02-16T09:05:17.000Z"
+    "url": "https://dtf.ru/hard/4789078-sony-perenosit-playstation-na-2028-ili-2029-god?from=rss",
+    "time": "2026-02-16T09:55:07.000Z"
   }
 ]
