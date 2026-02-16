@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фигуранты дела о теракте в \"Крокусе\" выступят в суде 18 и 19 февраля",
-    "description": "",
-    "fullText": "",
+    "title": "В Москве представили номер журнала \"Русская мысль\" об отношениях РФ и США",
+    "description": "Выпуск посвящен культурно-историческому аспекту отношений между странами, а также системообразующей взаимосвязи Москвы и Вашингтона",
+    "fullText": "Выпуск посвящен культурно-историческому аспекту отношений между странами, а также системообразующей взаимосвязи Москвы и Вашингтона",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26464189",
-    "time": "2026-02-16T15:51:56.000Z"
+    "url": "https://tass.ru/obschestvo/26464369",
+    "time": "2026-02-16T16:31:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
+    "description": "Узнайте в новом тесте про еду.",
+    "fullText": "Узнайте в новом тесте про еду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c7/a7a258c9345dd8017c738a333991c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/o2kovj",
+    "time": "2026-02-16T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Матч Звезд Лиги ВТБ – логичнее, чем в НБА. Объясняем по пунктам",
-    "description": "Не верите?",
-    "fullText": "Не верите?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e1/50185542c4605888ff95d37eafc92.jpeg",
+    "title": "Гуменник проиграл не соперникам, а системе",
+    "description": "Крутихина с ответом Кузнецову.",
+    "fullText": "Крутихина с ответом Кузнецову.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e4/638a7fb6545d0bcdec3db9b64c00d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3385127.html",
-    "time": "2026-02-16T12:05:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3385083.html",
+    "time": "2026-02-16T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экшен в открытом мире, а не RPG: в Pearl Abyss ответили на вопросы о Crimson Desert",
-    "description": "Демо не будет, но до релиза авторы поделятся более подробной информацией о производительности.",
-    "fullText": "Демо не будет, но до релиза авторы поделятся более подробной информацией о производительности.",
-    "image": "https://leonardo.osnova.io/2ec0aeca-2515-5ac5-8206-2357f411d401/",
+    "title": "Геймдиректор ремейков Final Fantasy VII заверил, что графика триквела не пострадает от мультиплатформенной стратегии",
+    "description": "Разработчики начинают с мощных конфигураций, а затем занимаются оптимизацией под другие платформы.",
+    "fullText": "Разработчики начинают с мощных конфигураций, а затем занимаются оптимизацией под другие платформы.",
+    "image": "https://leonardo.osnova.io/0fa3b559-e695-5fe9-a8bd-ff04bf21c8e3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4788753-crimson-desert-ekshen-v-otkrytom-mire?from=rss",
-    "time": "2026-02-16T07:27:13.000Z"
+    "url": "https://dtf.ru/games/4789084-grafika-trikvela-final-fantasy-vii-ne-postradaet-ot-multiplatformennosti?from=rss",
+    "time": "2026-02-16T10:07:10.000Z"
   }
 ]
