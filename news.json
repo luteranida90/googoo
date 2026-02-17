@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Госдеп утверждает, что РФ и КНР проводили ядерные испытания",
-    "description": "Помощник американского госсекретаря по контролю над вооружениями и нераспространению Кристофер Йа заявил, что сложившаяся в этой сфере ситуация крайне невыгодна Вашингтону",
-    "fullText": "Помощник американского госсекретаря по контролю над вооружениями и нераспространению Кристофер Йа заявил, что сложившаяся в этой сфере ситуация крайне невыгодна Вашингтону",
+    "title": "Глава Минэнерго США: Вашингтон готов к поставкам СПГ в Европу",
+    "description": "Кристофер Райт заявил, что поставки будут осуществляться \"по низким ценам\"",
+    "fullText": "Кристофер Райт заявил, что поставки будут осуществляться \"по низким ценам\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26476079",
-    "time": "2026-02-17T17:00:03.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26476419",
+    "time": "2026-02-17T18:39:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Команда из киберспорта разрывает в баскете. Бьется за титул в лиге зумеров",
+    "description": "Из киберспорта в большой спорт.",
+    "fullText": "Из киберспорта в большой спорт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/93/cc472a48f45e48a2449c9acc329fa.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3384955.html",
+    "time": "2026-02-17T18:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Мартин Скорсезе исполнил небольшую роль в «Мандалорце и Грогу» — он сыграл арденнийца-лавочника",
+    "description": "Зрители быстро заметили сходство между героем и постановщиком.",
+    "fullText": "Зрители быстро заметили сходство между героем и постановщиком.",
+    "image": "https://leonardo.osnova.io/30823da4-cab6-5ec4-b93a-28177f9cb179/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4791685-martin-skorseze-ardeniec-mandalorec?from=rss",
+    "time": "2026-02-17T17:10:11.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Эти зимние трансферы вы не заметили",
-    "description": "Да и не должны были.",
-    "fullText": "Да и не должны были.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/6f/cbe45f4a74f46bd5d712bc69e6fe4.jpeg",
+    "title": "«Я волшебник: беру воду и делаю из нее арену». Кто и как готовит лед олимпийцам",
+    "description": "Багрянцева все расспросила.",
+    "fullText": "Багрянцева все расспросила.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/c2/e0ff7006b4efba24e0b746a9019e4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3383391.html",
-    "time": "2026-02-17T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фильм «Убить Билла: Кровавое дело целиком» вышел на стриминговых платформах",
-    "description": "В ленту вошли дилогия Тарантино и новый анимационный фрагмент.",
-    "fullText": "В ленту вошли дилогия Тарантино и новый анимационный фрагмент.",
-    "image": "https://leonardo.osnova.io/39374d9c-5eee-58a3-9d99-59bd6869e48f/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4791178-ubity-billa-krovavoe-delo-tselikom?from=rss",
-    "time": "2026-02-17T12:30:14.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3382025.html",
+    "time": "2026-02-17T15:05:00.000Z"
   }
 ]
