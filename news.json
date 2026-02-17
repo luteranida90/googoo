@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Нарышкин отметил важность подготовки историков с применением цифровых технологий",
-    "description": "Нынешних студентов уже нельзя учить по старинке, подчеркнул председатель Российского исторического общества",
-    "fullText": "Нынешних студентов уже нельзя учить по старинке, подчеркнул председатель Российского исторического общества",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Лукашенко заявил, что экономика Белоруссии находится под серьезнейшим прессом",
+    "description": "По словам президента республики, \"элита\" страны должна в любой ситуации работать и выдавать результат",
+    "fullText": "По словам президента республики, \"элита\" страны должна в любой ситуации работать и выдавать результат",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969335.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26469271",
-    "time": "2026-02-17T07:36:34.000Z"
+    "url": "https://tass.ru/ekonomika/26470115",
+    "time": "2026-02-17T08:31:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,25 @@
     "time": "2026-02-17T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Ждем вашу историю на Трибуне!",
-    "description": "Победителей конкурса отправим в путешествие.",
-    "fullText": "Победителей конкурса отправим в путешествие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0b/7f4b6f6e448b0bce5d74da139c7a4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/wdcft6",
-    "time": "2026-02-17T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Нуньеса – дубль за «Аль-Хилаль» в ЛЧ! После исключения из заявки в СА из-за Бензема",
-    "description": "Финиш основного этапа.",
-    "fullText": "Финиш основного этапа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/5a/046e960834f1197c4a0b0030f839a.jpeg",
+    "title": "На Олимпиаде закончились презервативы. Их выдали чуть ли не рекордно мало",
+    "description": "Кризис в Милане.",
+    "fullText": "Кризис в Милане.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/96/81909063943089558d2a39247e0eb.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385262.html",
-    "time": "2026-02-16T23:05:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3384797.html",
+    "time": "2026-02-17T05:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam появилась демоверсия Darkhaven — ARPG «нового поколения» от студии экс-авторов Diablo",
-    "description": "Разработчики также запустили краудфандинговую кампанию на Kickstarter — нужно 500 тысяч долларов.",
-    "fullText": "Разработчики также запустили краудфандинговую кампанию на Kickstarter — нужно 500 тысяч долларов.",
-    "image": "https://leonardo.osnova.io/77bc6a51-549b-5d02-8bb3-cc72240b0ad6/",
+    "title": "«Кинопоиск» запустил линейку вертикальных сериалов — они доступны в мобильном приложении сервиса",
+    "description": "В подборку вошли адаптации «Великого Гэтсби» и «Грозового перевала».",
+    "fullText": "В подборку вошли адаптации «Великого Гэтсби» и «Грозового перевала».",
+    "image": "https://leonardo.osnova.io/a1df0330-1e44-559e-8fbd-76104053ca41/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4789580-demoversiya-darkhaven-v-steam-arpg-ot-sozdateley-diablo?from=rss",
-    "time": "2026-02-16T14:48:48.000Z"
+    "url": "https://dtf.ru/cinema/4789507-kinopoisk-zapustil-vertikalnye-serialy?from=rss",
+    "time": "2026-02-16T14:06:10.000Z"
   }
 ]
