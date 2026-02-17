@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Politico: диктатуры в Европе хотят 20% населения",
-    "description": "При этом 26% заявили о готовности предоставить временные диктаторские полномочия \"способному и эффективному\" лидеру, если таковой появится в их стране, пишет издание",
-    "fullText": "При этом 26% заявили о готовности предоставить временные диктаторские полномочия \"способному и эффективному\" лидеру, если таковой появится в их стране, пишет издание",
+    "title": "Парламент Японии соберется после победы правящей партии на выборах",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26477223",
-    "time": "2026-02-17T19:42:36.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26477515",
+    "time": "2026-02-17T21:08:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-02-17T18:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Никита Кучеров – главная потеря Олимпиады-2026. Лучше него сейчас в НХЛ нет никого",
+    "description": "Невозможный MVP Милана.",
+    "fullText": "Невозможный MVP Милана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/9d/958ba9c1845c5accd9fcfbf2fba0c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3384208.html",
+    "time": "2026-02-17T17:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В плей-офф ЛЧ вышел «Ньюкастл» или «Ньюкасл»? Проверьте свою грамотность",
     "description": "Достаем двойные листочки.",
@@ -33,25 +44,14 @@
     "time": "2026-02-17T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Инфантильность Головина, подвиги Сафонова и путь Витиньи к «ЗМ»: колонка Игнашевича перед «Монако» – «ПСЖ»",
-    "description": "Готовимся к просмотру.",
-    "fullText": "Готовимся к просмотру.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f0/dadc7d5e24fbb940944dbdecd4e89.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385205.html",
-    "time": "2026-02-17T16:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Пятая серия «Рыцаря Семи королевств» вошла в число самых высокооценённых эпизодов среди сериалов по вселенной «Игры престолов»",
-    "description": "У неё 9,8 балла на IMDb.",
-    "fullText": "У неё 9,8 балла на IMDb.",
-    "image": "https://leonardo.osnova.io/81366bd5-a969-5a24-abe4-8fb750bf4b69/",
+    "title": "Embark примет меры против игроков в ARC Raiders, которые злоупотребляли багом с дублированием предметов",
+    "description": "От предупреждения до блокировки аккаунта.",
+    "fullText": "От предупреждения до блокировки аккаунта.",
+    "image": "https://leonardo.osnova.io/5e0d7e90-6a25-5f80-b4f6-a2ff84acec01/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4791078-pyatyj-epizod-rytsarya-semi-korolevstv?from=rss",
-    "time": "2026-02-17T11:29:32.000Z"
+    "url": "https://dtf.ru/games/4791499-embark-nakazyvaet-igrokov-arc-raiders-za-zloupotreblenie-bagom?from=rss",
+    "time": "2026-02-17T15:34:52.000Z"
   }
 ]
