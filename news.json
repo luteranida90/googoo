@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Politico: диктатуры в Европе хотят 20% населения",
+    "description": "При этом 26% заявили о готовности предоставить временные диктаторские полномочия \"способному и эффективному\" лидеру, если таковой появится в их стране, пишет издание",
+    "fullText": "При этом 26% заявили о готовности предоставить временные диктаторские полномочия \"способному и эффективному\" лидеру, если таковой появится в их стране, пишет издание",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26477223",
+    "time": "2026-02-17T19:42:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Команда из киберспорта разрывает в баскете. Бьется за титул в лиге зумеров",
     "description": "Из киберспорта в большой спорт.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Маккенни в «Юве» Спаллетти – самый универсальный игрок мира",
-    "description": "Разрывает Серию А.",
-    "fullText": "Разрывает Серию А.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/7c/44b5a2bd746bfb6a579a78c6ba752.jpeg",
+    "title": "Инфантильность Головина, подвиги Сафонова и путь Витиньи к «ЗМ»: колонка Игнашевича перед «Монако» – «ПСЖ»",
+    "description": "Готовимся к просмотру.",
+    "fullText": "Готовимся к просмотру.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f0/dadc7d5e24fbb940944dbdecd4e89.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385104.html",
-    "time": "2026-02-17T15:49:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3385205.html",
+    "time": "2026-02-17T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ASUS повысила цену ROG Xbox Ally X в Японии почти на 200 долларов",
-    "description": "Поднимут ли стоимость в других регионах, пока неизвестно.",
-    "fullText": "Поднимут ли стоимость в других регионах, пока неизвестно.",
-    "image": "https://leonardo.osnova.io/bd0fd101-ac74-5699-922d-b2aabaf31e0c/",
+    "title": "Пятая серия «Рыцаря Семи королевств» вошла в число самых высокооценённых эпизодов среди сериалов по вселенной «Игры престолов»",
+    "description": "У неё 9,8 балла на IMDb.",
+    "fullText": "У неё 9,8 балла на IMDb.",
+    "image": "https://leonardo.osnova.io/81366bd5-a969-5a24-abe4-8fb750bf4b69/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4791469-asus-uvelichila-tsenu-rog-xbox-ally-x-v-yaponii?from=rss",
-    "time": "2026-02-17T15:13:06.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/4791078-pyatyj-epizod-rytsarya-semi-korolevstv?from=rss",
+    "time": "2026-02-17T11:29:32.000Z"
   }
 ]
