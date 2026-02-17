@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава Минэнерго США: Вашингтон готов к поставкам СПГ в Европу",
-    "description": "Кристофер Райт заявил, что поставки будут осуществляться \"по низким ценам\"",
-    "fullText": "Кристофер Райт заявил, что поставки будут осуществляться \"по низким ценам\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26476419",
-    "time": "2026-02-17T18:39:58.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Команда из киберспорта разрывает в баскете. Бьется за титул в лиге зумеров",
     "description": "Из киберспорта в большой спорт.",
@@ -22,36 +11,47 @@
     "time": "2026-02-17T18:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Мартин Скорсезе исполнил небольшую роль в «Мандалорце и Грогу» — он сыграл арденнийца-лавочника",
-    "description": "Зрители быстро заметили сходство между героем и постановщиком.",
-    "fullText": "Зрители быстро заметили сходство между героем и постановщиком.",
-    "image": "https://leonardo.osnova.io/30823da4-cab6-5ec4-b93a-28177f9cb179/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4791685-martin-skorseze-ardeniec-mandalorec?from=rss",
-    "time": "2026-02-17T17:10:11.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Новые раунды, мультиплеер, рейтинг и много призов – теперь в Три на Три",
-    "description": "Обновление легендарной игры.",
-    "fullText": "Обновление легендарной игры.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/3b/d01a775314fbdbd72c944de66abcf.png",
+    "title": "В плей-офф ЛЧ вышел «Ньюкастл» или «Ньюкасл»? Проверьте свою грамотность",
+    "description": "Достаем двойные листочки.",
+    "fullText": "Достаем двойные листочки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/25/1b1d298554752ba0854fb0777de29.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2026-02-17T15:30:00.000Z"
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-02-17T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я волшебник: беру воду и делаю из нее арену». Кто и как готовит лед олимпийцам",
-    "description": "Багрянцева все расспросила.",
-    "fullText": "Багрянцева все расспросила.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/c2/e0ff7006b4efba24e0b746a9019e4.jpeg",
+    "title": "Маккенни в «Юве» Спаллетти – самый универсальный игрок мира",
+    "description": "Разрывает Серию А.",
+    "fullText": "Разрывает Серию А.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/7c/44b5a2bd746bfb6a579a78c6ba752.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3382025.html",
-    "time": "2026-02-17T15:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3385104.html",
+    "time": "2026-02-17T15:49:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "ASUS повысила цену ROG Xbox Ally X в Японии почти на 200 долларов",
+    "description": "Поднимут ли стоимость в других регионах, пока неизвестно.",
+    "fullText": "Поднимут ли стоимость в других регионах, пока неизвестно.",
+    "image": "https://leonardo.osnova.io/bd0fd101-ac74-5699-922d-b2aabaf31e0c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/hard/4791469-asus-uvelichila-tsenu-rog-xbox-ally-x-v-yaponii?from=rss",
+    "time": "2026-02-17T15:13:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
