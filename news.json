@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Харькове произошел взрыв",
-    "description": "В Николаевской, Сумской , Харьковской и Черниговской областях Украины объявили воздушную тревогу",
-    "fullText": "В Николаевской, Сумской , Харьковской и Черниговской областях Украины объявили воздушную тревогу",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Герой РФ космонавт Юрчихин на лекции в Нетании рассказал о полетах в космос",
+    "description": "На выступлении космонавта присутствовали израильские школьники и учащиеся школы при посольстве России в Тель-Авиве",
+    "fullText": "На выступлении космонавта присутствовали израильские школьники и учащиеся школы при посольстве России в Тель-Авиве",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260218/8823281.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26477715",
-    "time": "2026-02-17T21:55:09.000Z"
+    "url": "https://tass.ru/kosmos/26477783",
+    "time": "2026-02-17T22:33:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Узнаете ли вы всех игроков «Реала» 2000-х в нашей игре?",
+    "description": "Будет несложно.",
+    "fullText": "Будет несложно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/7e/9e265cb4a4db1b3d1a54ffa5c2a05.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r2bw0n",
+    "time": "2026-02-17T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://www.sports.ru/figure-skating/blogs/3385521.html",
     "time": "2026-02-17T19:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какому букету будет рад Мбаппе? Сделали подборку подарков для спортсменов в нашем тесте",
-    "description": "Тест для вдохновения.",
-    "fullText": "Тест для вдохновения.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/17/dd33a52e749b3b0610e66d2d3ef62.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/zxdf3v",
-    "time": "2026-02-17T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
