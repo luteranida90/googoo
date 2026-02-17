@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фигуристка Леонова назвала главных соперниц Петросян на Олимпиаде",
-    "description": "По мнению эксперта, это японки Каори Сакамото, Ами Накаи и американка Эмбер Гленн",
-    "fullText": "По мнению эксперта, это японки Каори Сакамото, Ами Накаи и американка Эмбер Гленн",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260217/8820471.jpg",
+    "title": "Патрушев: РФ должна сделать ставку на создание высокотехнологичного флота",
+    "description": "Председатель Морской коллегии РФ отметил, что одним из приоритетов, которые закладываются в Стратегию развития ВМФ и Программу кораблестроения до 2050 года, является технологическое лидерство",
+    "fullText": "Председатель Морской коллегии РФ отметил, что одним из приоритетов, которые закладываются в Стратегию развития ВМФ и Программу кораблестроения до 2050 года, является технологическое лидерство",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26467537",
-    "time": "2026-02-17T05:16:43.000Z"
+    "url": "https://tass.ru/politika/26468349",
+    "time": "2026-02-17T06:38:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Ждем вашу историю на Трибуне!",
+    "description": "Победителей конкурса отправим в путешествие.",
+    "fullText": "Победителей конкурса отправим в путешествие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0b/7f4b6f6e448b0bce5d74da139c7a4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/wdcft6",
+    "time": "2026-02-17T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Олимпиада: дебют Аделии Петросян – на что она способна? Онлайн",
+    "description": "Главное из Милана.",
+    "fullText": "Главное из Милана.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/3c/f2c0f3a594a0cb1afc4815d82395e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/others/blogs/3385299.html",
+    "time": "2026-02-16T22:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +44,14 @@
     "time": "2026-02-16T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Зовем вас в Фэнтези ЛЧ! Собирайте команду на плей-офф, не пропускайте топ-турнир",
-    "description": "Старт – во вторник вечером.",
-    "fullText": "Старт – во вторник вечером.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/60/5a576c60447f7b23e70735731acd0.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/fantasyCL",
-    "time": "2026-02-16T19:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Приключения Джейка Пола в Армении: швырялся черной икрой, получил в подарок «Жигули»",
-    "description": "Отдохнул с Арманом Царукяном.",
-    "fullText": "Отдохнул с Арманом Царукяном.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0c/29dd796674fb994dfe8bc76a4e563.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3385133.html",
-    "time": "2026-02-16T19:26:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloomberg: Sony не исключает переноса следующей PlayStation на 2028-й или 2029 год — из-за текущего дефицита оперативной памяти",
-    "description": "А Nintendo раздумывает об увеличении стоимости Switch 2.",
-    "fullText": "А Nintendo раздумывает об увеличении стоимости Switch 2.",
-    "image": "https://leonardo.osnova.io/e8b051b9-d9d2-584a-96fa-c37c104fe3eb/",
+    "title": "Анонсирована .hack//Z.E.R.O. — следующая часть серии экшен-RPG об игроках в масштабную MMO",
+    "description": "Проект станет своего рода перезапуском .hack.",
+    "fullText": "Проект станет своего рода перезапуском .hack.",
+    "image": "https://leonardo.osnova.io/0f33bb1d-9d74-55eb-ab33-b10a13b65cba/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4789078-sony-perenosit-playstation-na-2028-ili-2029-god?from=rss",
-    "time": "2026-02-16T09:55:07.000Z"
+    "url": "https://dtf.ru/games/4789476-anons-hackz-e-r-o-ot-cyberconnect2?from=rss",
+    "time": "2026-02-16T13:34:23.000Z"
   }
 ]
