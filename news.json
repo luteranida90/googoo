@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минобрнауки утвердило перечни специальностей для проекта по реформе образования",
-    "description": "Для вузов-участников предусмотрена возможность самостоятельно устанавливать квалификацию в образовательном стандарте, рассказали в ведомстве",
-    "fullText": "Для вузов-участников предусмотрена возможность самостоятельно устанавливать квалификацию в образовательном стандарте, рассказали в ведомстве",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Обезьяна» или «педики»: что на самом деле сказали Винисиусу?",
+    "description": "Комментарии всех сторон.",
+    "fullText": "Комментарии всех сторон.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/c8/e6eac5a0a4cc2b07e7ae19d50f095.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26488911",
-    "time": "2026-02-18T18:31:33.000Z"
+    "url": "https://www.sports.ru/football/blogs/3385606.html",
+    "time": "2026-02-18T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-02-18T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я думал, он черепашка, а не Сплинтер». Лучшие комменты месяца",
-    "description": "Новая подборка.",
-    "fullText": "Новая подборка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/7c/73faac2b14af2bee3da824bb684ef.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385627.html",
-    "time": "2026-02-18T14:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Mewgenics назвали страны с наибольшей аудиторией игры — Россия на седьмом месте",
-    "description": "Неудивительно, что локализация уже в работе.",
-    "fullText": "Неудивительно, что локализация уже в работе.",
-    "image": "https://leonardo.osnova.io/e57043e4-a232-592f-9097-25bfc4627d60/",
+    "title": "Бывший продюсер Capcom донатит по 500 тысяч долларов в свои же гачи, чтобы «понять чувства игроков, вкладывающих большие суммы»",
+    "description": "По его словам, пользоваться правами администратора было бы нечестно.",
+    "fullText": "По его словам, пользоваться правами администратора было бы нечестно.",
+    "image": "https://leonardo.osnova.io/984cbc96-900a-5de6-8d54-59343a4a8495/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4792635-mewgenics-rossiya-na-syedmom-meste-po-auditorii-igry?from=rss",
-    "time": "2026-02-18T07:37:16.000Z"
+    "url": "https://dtf.ru/gameindustry/4793303-yosiki-okamoto-capcom-tratit-500-tysyach-dollarov-na-gachi?from=rss",
+    "time": "2026-02-18T13:58:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
