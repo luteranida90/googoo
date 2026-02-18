@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Выплаты по ОСАГО для грузовиков в 2025 году превысили 23 млрд рублей",
-    "description": "В Национальной страховой информационной системе сообщили, что у автомобилей массой менее 3,5 тонны убыточность достигла 81,28%",
-    "fullText": "В Национальной страховой информационной системе сообщили, что у автомобилей массой менее 3,5 тонны убыточность достигла 81,28%",
+    "title": "ЦБ составил портрет руководителя финансовой организации",
+    "description": "Почти 20% глав компаний владеют акциями или долями возглавляемых ими организаций",
+    "fullText": "Почти 20% глав компаний владеют акциями или долями возглавляемых ими организаций",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26480243",
-    "time": "2026-02-18T07:36:57.000Z"
+    "url": "https://tass.ru/ekonomika/26480881",
+    "time": "2026-02-18T08:30:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сюрприз Олимпиады: Юрген Клопп на биатлоне! У него важная роль",
+    "description": "Фанат Бьорндалена.",
+    "fullText": "Фанат Бьорндалена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/37/3b426dfcc4fd6ba58793c2152454a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/biathlon/blogs/3385523.html",
+    "time": "2026-02-18T05:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-18T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все расистские скандалы Винисиуса",
-    "description": "Не только «Валенсия».",
-    "fullText": "Не только «Валенсия».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/91/2ca80d1984d2d9056b9e8ef6778df.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385558.html",
-    "time": "2026-02-17T23:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix запустил в производство мультсериал от сценаристов «Американского папаши»",
-    "description": "В шоу расскажут о бывшем бейсболисте, который становится продавцом в семейном автосалоне.",
-    "fullText": "В шоу расскажут о бывшем бейсболисте, который становится продавцом в семейном автосалоне.",
-    "image": "https://leonardo.osnova.io/50b54d96-74e0-5c68-9897-710e844eb6af/",
+    "title": "Skyrim получила поддержку 60 fps на Switch 2",
+    "description": "Bethesda добавила режим «Производительность» на фоне недовольства фанатов.",
+    "fullText": "Bethesda добавила режим «Производительность» на фоне недовольства фанатов.",
+    "image": "https://leonardo.osnova.io/a45b4fcf-eb11-557c-8136-30d26032968e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4792009-netflix-zapuskayet-multserial-ot-stsenaristov-amerikanskogo-papashi?from=rss",
-    "time": "2026-02-17T20:24:38.000Z"
+    "url": "https://dtf.ru/games/4791926-skyrim-na-switch-2-sejchas-podderzhivaet-60-fps?from=rss",
+    "time": "2026-02-17T19:27:53.000Z"
   }
 ]
