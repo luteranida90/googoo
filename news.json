@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Bloomberg: Фон дер Ляйен в марте может объявить о мерах поддержки Гренландии",
+    "description": "По информации агентства, глава Еврокомиссии планирует посетить остров, однако дата поездки пока неизвестна",
+    "fullText": "По информации агентства, глава Еврокомиссии планирует посетить остров, однако дата поездки пока неизвестна",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26492195",
+    "time": "2026-02-18T22:50:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Благородство Немова: успокоил 12 тысяч зрителей, которые хотели остановить соревнования",
     "description": "И другие грани мужества.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новый враг Винисиуса – Джанлука Престианни. Он дрался с бразильцем (другим), получал по лицу от ультрас и привлекал «Реал»",
-    "description": "Быстрый портрет.",
-    "fullText": "Быстрый портрет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c5/0edd8805649048f1073855cd603f3.jpeg",
+    "title": "Фанаты ЦСКА против Генича! Дал инсайд, что Глебова ждут большие проблемы с травмами",
+    "description": "Что происходит?",
+    "fullText": "Что происходит?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/07/392a775ce4a2abfce655f743688ab.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385658.html",
-    "time": "2026-02-18T17:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3385707.html",
+    "time": "2026-02-18T18:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4792903-razrabotchiki-godot-o-problemakh-s-ii-slopom?from=rss",
     "time": "2026-02-18T10:37:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
