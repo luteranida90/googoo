@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Военная операция на Украине. Онлайн",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260218/8823613.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/26479401",
+    "time": "2026-02-18T21:00:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какому букету будет рад Мбаппе? Сделали подборку подарков для спортсменов в нашем тесте",
     "description": "Тест для вдохновения.",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывший продюсер Capcom донатит по 500 тысяч долларов в свои же гачи, чтобы «понять чувства игроков, вкладывающих большие суммы»",
-    "description": "По его словам, пользоваться правами администратора было бы нечестно.",
-    "fullText": "По его словам, пользоваться правами администратора было бы нечестно.",
-    "image": "https://leonardo.osnova.io/984cbc96-900a-5de6-8d54-59343a4a8495/",
+    "title": "Разработчики движка Godot пожаловались на «ИИ-слоп» в запросах на изменения в коде",
+    "description": "Они не уверены, что контрибьюторы сами понимают, что предлагают.",
+    "fullText": "Они не уверены, что контрибьюторы сами понимают, что предлагают.",
+    "image": "https://leonardo.osnova.io/88d65b47-3b8d-564e-8675-9c7075175663/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4793303-yosiki-okamoto-capcom-tratit-500-tysyach-dollarov-na-gachi?from=rss",
-    "time": "2026-02-18T13:58:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4792903-razrabotchiki-godot-o-problemakh-s-ii-slopom?from=rss",
+    "time": "2026-02-18T10:37:29.000Z"
   }
 ]
