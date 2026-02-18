@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Аналитики сообщили о всплеске интереса к блинным в российских городах",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26478813",
-    "time": "2026-02-18T04:11:14.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Узнаете ли вы всех игроков «Реала» 2000-х в нашей игре?",
     "description": "Будет несложно.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я пробежал полумарафон у Мертвого моря без подготовки – 10 впечатлений",
-    "description": "Израиль, кроссовки, еда.",
-    "fullText": "Израиль, кроссовки, еда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/a0/c9198da004a828a6d79008e236d3a.jpeg",
+    "title": "Кордоба – бандит, Дуран – уровень Соболева, Боселли хорош. Что показали «Зенит» и «Краснодар»",
+    "description": "Наблюдения Ильи Васильева.",
+    "fullText": "Наблюдения Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/87/bf7701aca4223aa4f85ce9293740e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/athletics/blogs/3383890.html",
-    "time": "2026-02-17T20:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3385506.html",
+    "time": "2026-02-17T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4791499-embark-nakazyvaet-igrokov-arc-raiders-za-zloupotreblenie-bagom?from=rss",
     "time": "2026-02-17T15:34:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
