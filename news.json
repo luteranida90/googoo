@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РСТ: москвичи не отменяют турпоездки из-за снегопада и задержек рейсов",
-    "description": "Время вылета может меняться, поэтому лучше заранее планировать выезд с запасом, отметили в пресс-службе сервиса \"Слетать.ру\"",
-    "fullText": "Время вылета может меняться, поэтому лучше заранее планировать выезд с запасом, отметили в пресс-службе сервиса \"Слетать.ру\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26495769",
-    "time": "2026-02-19T08:28:05.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто сильнее: Кучеров или Макдэвид? Узнайте в «Автобаттлере»",
     "description": "И заберите победу.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А что с «Арсеналом»? Тормознула худшая команда АПЛ – подарок для «Ман Сити»",
-    "description": "Растеряли 11 очков в 2026-м.",
-    "fullText": "Растеряли 11 очков в 2026-м.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f9/7218efba646b5a30dd3183e51c0cd.jpeg",
+    "title": "Куда пропал нерв из разборок Медведева и Циципаса",
+    "description": "Рефлексия.",
+    "fullText": "Рефлексия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/4c/c74c3ba4c40af9ad5d46efd532f22.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385759.html",
-    "time": "2026-02-18T23:37:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3385691.html",
+    "time": "2026-02-19T04:13:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Моддер восстанавливает весь контент, вырезанный из оригинальной Resident Evil 3 в ремейке",
-    "description": "В него входят чернильные ленты и часовая башня.",
-    "fullText": "В него входят чернильные ленты и часовая башня.",
-    "image": "https://leonardo.osnova.io/9ec64625-cb95-585d-8981-8ae80a9986e8/",
+    "title": "Кристен Белл озвучит Эми Роуз в «Сонике 4»",
+    "description": "Фильм снимет Джефф Фаулер, поставивший предыдущие части.",
+    "fullText": "Фильм снимет Джефф Фаулер, поставивший предыдущие части.",
+    "image": "https://leonardo.osnova.io/151e494e-8ecf-533a-b708-71a8bb449927/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4792838-modder-vosstanavlivaet-vyrezannyj-kontent-resident-evil-3?from=rss",
-    "time": "2026-02-18T10:12:56.000Z"
+    "url": "https://dtf.ru/cinema/4793871-kristen-bell-ozvuchit-emi-rouz-v-sonike-4?from=rss",
+    "time": "2026-02-18T18:48:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
