@@ -1,38 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бастрыкин вручил Льву Лещенко медаль СК России",
-    "description": "Высоких наград удостоились также и другие артисты, которых глава Следственного комитета России поблагодарил за духоподъемную творческую программу",
-    "fullText": "Высоких наград удостоились также и другие артисты, которых глава Следственного комитета России поблагодарил за духоподъемную творческую программу",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26504565",
-    "time": "2026-02-19T17:49:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Динамо» – «Сочи»: смотрим матч недели на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/8f/47867972e44c6976ffe77d389f34c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/3fZi5G7V7VyZqL695Go9n5p3kWGBYS33-pKkSSG4jYg",
-    "time": "2026-02-19T16:51:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В EGS началась раздача стартового издания Stalcraft X и визуальной новеллы Return to Ash",
-    "description": "Обе игры можно получить до 26 февраля.",
-    "fullText": "Обе игры можно получить до 26 февраля.",
-    "image": "https://leonardo.osnova.io/29f77657-89c3-5cf2-8fe2-a33987bb472b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4795448-razdacha-stalcraft-x-i-return-to-ash-v-egs?from=rss",
-    "time": "2026-02-19T16:11:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Стадион какого клуба отлично бы украсил этот букет? И другие ассоциации со спортом в подарках в нашем тесте",
     "description": "Простой тест для вдохновения.",
@@ -45,13 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самые крутые фанаты на Олимпиаде – у хоккеистки из США. К ней приехали три брата-весельчака",
-    "description": "Разрывают соцсети.",
-    "fullText": "Разрывают соцсети.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/96/dfde966354173ad1189d1fe358e57.jpeg",
+    "title": "Фото дня. Наш Никита Филиппов – с медалью Олимпиады!",
+    "description": "«Ни-ки-та! Ни-ки-та!»",
+    "fullText": "«Ни-ки-та! Ни-ки-та!»",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/9d/44c99a144426fb4ca1fcca3936b56.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3385634.html",
-    "time": "2026-02-19T14:00:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3385868.html",
+    "time": "2026-02-19T14:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Коготь смерти, коллеги и «рвота» — фото со съёмок «Фоллаута» от Эллы Пернелл",
+    "description": "Актриса отметила, что обожает работать над сериалом.",
+    "fullText": "Актриса отметила, что обожает работать над сериалом.",
+    "image": "https://leonardo.osnova.io/333777d1-19e7-5af7-a19f-56da255f99a1/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4794952-ella-pernell-fallout-foto-so-semok?from=rss",
+    "time": "2026-02-19T10:39:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
