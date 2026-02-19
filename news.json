@@ -1,25 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Лозовой на востоке Украины обесточена крупнейшая котельная",
+    "description": "В городе 18 февраля возникали \"серьезные проблемы с водоснабжением\" из-за повреждения критической инфраструктуры",
+    "fullText": "В городе 18 февраля возникали \"серьезные проблемы с водоснабжением\" из-за повреждения критической инфраструктуры",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26493613",
+    "time": "2026-02-19T05:22:10.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Угадаете по детскому фото обладателя Кубка Гагарина? А рекордсмена КХЛ?",
-    "description": "Сложный тест на знание звезд!",
-    "fullText": "Сложный тест на знание звезд!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9a/ac7d85de74ad3a8ee91be7b1daaef.png",
+    "title": "Кто сильнее: Кучеров или Макдэвид? Узнайте в «Автобаттлере»",
+    "description": "И заберите победу.",
+    "fullText": "И заберите победу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/9d/a7d99cda9499c852e73af77c25d22.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/6jssib",
-    "time": "2026-02-18T21:30:00.000Z"
+    "url": "https://sirena.world/x2cg4p",
+    "time": "2026-02-19T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Марнера ненавидят в Канаде, но за победный гол на Олимпиаде должны простить все",
-    "description": "Спаситель!",
-    "fullText": "Спаситель!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/18/0070845a140f7bfebcc4a455b0163.jpeg",
+    "title": "Цифра дня: 8 (!) чехов на льду во время гола Канаде! Так странно судят на Олимпиаде",
+    "description": "На грани скандала.",
+    "fullText": "На грани скандала.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/8f/184ef1087447b97d1b0cdb4141f24.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3385728.html",
-    "time": "2026-02-18T20:37:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3385745.html",
+    "time": "2026-02-18T21:36:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4792903-razrabotchiki-godot-o-problemakh-s-ii-slopom?from=rss",
     "time": "2026-02-18T10:37:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
