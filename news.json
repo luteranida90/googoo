@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Историк Исаев: \"подарки\" Сталина позволили Польше отстроить сотни кораблей",
-    "description": "К 1966 году в республике уже строились 15 танкеров и 46 многоцелевых судов, рассказал кандидат исторических наук",
-    "fullText": "К 1966 году в республике уже строились 15 танкеров и 46 многоцелевых судов, рассказал кандидат исторических наук",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26492549",
-    "time": "2026-02-19T01:07:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете по детскому фото обладателя Кубка Гагарина? А рекордсмена КХЛ?",
     "description": "Сложный тест на знание звезд!",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ночной кошмар чехов – не забили Канаде в конце матча и вылетели с Олимпиады",
-    "description": "Как же была близка победа!",
-    "fullText": "Как же была близка победа!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/fe/a3a69beb34b53ba21731d89dc638e.jpeg",
+    "title": "Марнера ненавидят в Канаде, но за победный гол на Олимпиаде должны простить все",
+    "description": "Спаситель!",
+    "fullText": "Спаситель!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/18/0070845a140f7bfebcc4a455b0163.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3385729.html",
-    "time": "2026-02-18T19:45:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3385728.html",
+    "time": "2026-02-18T20:37:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4792903-razrabotchiki-godot-o-problemakh-s-ii-slopom?from=rss",
     "time": "2026-02-18T10:37:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
