@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Харькове произошел взрыв",
-    "description": "В регионе звучит воздушная тревога",
-    "fullText": "В регионе звучит воздушная тревога",
+    "title": "PurpleSchool: свыше 25% IT-специалистов в РФ опасаются сокращений на работе",
+    "description": "В частности, 29% участников опроса называют конкуренцию критической и говорят о сотнях откликов на одну вакансию",
+    "fullText": "В частности, 29% участников опроса называют конкуренцию критической и говорят о сотнях откликов на одну вакансию",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26506461",
-    "time": "2026-02-19T22:49:56.000Z"
+    "url": "https://tass.ru/ekonomika/26507929",
+    "time": "2026-02-20T05:10:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Как Овечкин восстанавливает энергию на выездах? И про любимую еду других спортсменов в нашем тесте",
+    "description": "Будет интересно.",
+    "fullText": "Будет интересно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/f2/6f0a0d4f548eda9eed3839b619f99.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/o2kovj",
+    "time": "2026-02-19T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,26 +33,15 @@
     "time": "2026-02-19T21:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из этих ребят стал капитаном минского «Динамо»? Узнайте в нашем тесте",
-    "description": "А нападающим «Ак Барса»?",
-    "fullText": "А нападающим «Ак Барса»?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b9/6843bc5eb47258010fc9dc8b64dc5.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/6jssib",
-    "time": "2026-02-19T19:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Детройт» – лидер НБА. Это уже новая «Оклахома» или очередной мыльный пузырь с Востока?",
-    "description": "Сейчас выясним.",
-    "fullText": "Сейчас выясним.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/29/dabd48e6943af8b4c05afefe8117c.jpeg",
+    "title": "Как «Буде» прибил «Интер», а «Галатасарай» – «Ювентус»? Тактика ЛЧ",
+    "description": "И хороший матч «Реала».",
+    "fullText": "И хороший матч «Реала».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/61/b180ea11a49bd9da0b9af47d73967.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3385131.html",
-    "time": "2026-02-19T18:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3385830.html",
+    "time": "2026-02-19T20:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
