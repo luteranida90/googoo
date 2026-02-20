@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Зенит навсегда» – документальный проект от Спортса’‘, PREMIER и RUTUBE",
+    "description": "Премьера – 17 марта.",
+    "fullText": "Премьера – 17 марта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ca/a6273e00641fea24acadad778183b.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/3fZi5G7V7VyZqL695Go9n5p3kWGBYS33-pKkSSG4jYg",
+    "time": "2026-02-20T16:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Геленджика сняли ограничения",
-    "description": "Ограничения вводили для обеспечения безопасности полетов",
-    "fullText": "Ограничения вводили для обеспечения безопасности полетов",
+    "title": "На ЗАЭС считают атаку ВСУ на школу попыткой сорвать мирный процесс",
+    "description": "По словам директора по коммуникациям ЗАЭС Евгении Яшиной, эта атака является очередным \"чудовищным и безжалостным актом терроризма\"",
+    "fullText": "По словам директора по коммуникациям ЗАЭС Евгении Яшиной, эта атака является очередным \"чудовищным и безжалостным актом терроризма\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26515085",
-    "time": "2026-02-20T15:39:01.000Z"
+    "url": "https://tass.ru/obschestvo/26515373",
+    "time": "2026-02-20T16:26:23.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,6 +44,17 @@
     "time": "2026-02-20T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Победа Алисы Лью прекрасна для фигурного катания",
+    "description": "Реплика Кузнецова.",
+    "fullText": "Реплика Кузнецова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/9c/f8704f2624c779b4ffc6e51226988.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3385969.html",
+    "time": "2026-02-20T13:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Дэниелу Рэдклиффу предлагали сняться в ремейке «Волшебника страны Оз» с Эммой Уотсон и Рупертом Гринтом",
     "description": "Актёра хотели взять на роль Трусливого Льва, знающего карате.",
@@ -42,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4797212-deniel-redkliff-remake-volshebnika-strany-oz?from=rss",
     "time": "2026-02-20T12:34:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Топ-футбол для вас: дерби северного Лондона − а что еще?",
-    "description": "Плотная программа.",
-    "fullText": "Плотная программа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ff/b3b81f054407392648c250865b5ad.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386036.html",
-    "time": "2026-02-20T12:15:00.000Z"
   }
 ]
