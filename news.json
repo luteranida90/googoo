@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Реализация индивидуальной программы Мордовии увеличила рост экономики на 17%",
+    "description": "Общий объем финансирования программы составил 7,2 млрд рублей",
+    "fullText": "Общий объем финансирования программы составил 7,2 млрд рублей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26516889",
+    "time": "2026-02-20T21:00:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Король и Шут. Навсегда» – бессмысленное прощание с Горшком. Такой финал нам не нужен",
     "description": "«Здравствуйте, мои маленькие говнари».",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3386006.html",
     "time": "2026-02-20T20:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропортах Казани и Нижнекамска ввели временные ограничения",
-    "description": "Ограничения необходимы для обеспечения безопасности полетов",
-    "fullText": "Ограничения необходимы для обеспечения безопасности полетов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26516707",
-    "time": "2026-02-20T20:20:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Привез 20 пачек презервативов. Знал, что здесь закончатся». Интервью призера Игр Никиты Филиппова",
-    "description": "Владимир Иванов с вопросами.",
-    "fullText": "Владимир Иванов с вопросами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/49/92ed00f8a498cb1875e7c895248a6.jpeg",
+    "title": "Квартальнов чуть не ушел из Минска – там уволили его ассистента. Что-что?",
+    "description": "Опять полыхает.",
+    "fullText": "Опять полыхает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e8/48ba86a3047d389d91e74169a574c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3386030.html",
-    "time": "2026-02-20T16:45:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3386099.html",
+    "time": "2026-02-20T17:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
