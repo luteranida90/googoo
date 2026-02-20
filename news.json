@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "PurpleSchool: свыше 25% IT-специалистов в РФ опасаются сокращений на работе",
-    "description": "В частности, 29% участников опроса называют конкуренцию критической и говорят о сотнях откликов на одну вакансию",
-    "fullText": "В частности, 29% участников опроса называют конкуренцию критической и говорят о сотнях откликов на одну вакансию",
+    "title": "В Башкирии подросткам назначили условные сроки за нападения на сверстников",
+    "description": "Осужденные нападали на пострадавших в общественных местах, избивали и требовали у некоторых деньги",
+    "fullText": "Осужденные нападали на пострадавших в общественных местах, избивали и требовали у некоторых деньги",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26507929",
-    "time": "2026-02-20T05:10:28.000Z"
+    "url": "https://tass.ru/proisshestviya/26508321",
+    "time": "2026-02-20T06:34:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Звезда Медиалиги уходит в «Урал-2» – хотя еще год назад было «стыдно называть себя футболистом»",
+    "description": "Переубедил Мусагалиев.",
+    "fullText": "Переубедил Мусагалиев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/7d/4cee4d427454e96884ba4cc6445bd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/mediafootball/blogs/3385280.html",
+    "time": "2026-02-19T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2026-02-19T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Киберспортивная Олимпиада: как к ней шли-шли-шли – и почему не дошли?",
-    "description": "Даже проводили тесты.",
-    "fullText": "Даже проводили тесты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/6a/cda9a5455427a854d0de545fbcd98.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3385617.html",
-    "time": "2026-02-19T21:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как «Буде» прибил «Интер», а «Галатасарай» – «Ювентус»? Тактика ЛЧ",
-    "description": "И хороший матч «Реала».",
-    "fullText": "И хороший матч «Реала».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/61/b180ea11a49bd9da0b9af47d73967.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385830.html",
-    "time": "2026-02-19T20:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кодзима сообщил, что закончил монтаж и сведение звука для нового трейлера — какого, пока неясно",
-    "description": "На днях геймдизайнер также вышел на связь со Стокгольмом — чтобы провести «примерку костюма» для персонажа.",
-    "fullText": "На днях геймдизайнер также вышел на связь со Стокгольмом — чтобы провести «примерку костюма» для персонажа.",
-    "image": "https://leonardo.osnova.io/337980a9-066b-5091-882b-dc8ac3f83c4c/",
+    "title": "«Ты бросил своё царство и сына» — трейлер фильма «Острые козырьки: Бессмертный человек»",
+    "description": "Барри Кеоган сыграл лидера нового поколения банды.",
+    "fullText": "Барри Кеоган сыграл лидера нового поколения банды.",
+    "image": "https://leonardo.osnova.io/24d4dba8-1125-5072-a4c4-d35bd5c4932d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4795344-hideo-kojima-zavershil-montazh-novogo-treylera?from=rss",
-    "time": "2026-02-19T14:58:04.000Z"
+    "url": "https://dtf.ru/cinema/4795323-treyler-filma-ostrye-kozyrki-bessmertnyy-chelovek?from=rss",
+    "time": "2026-02-19T14:27:08.000Z"
   }
 ]
