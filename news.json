@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "МВД: сервисы \"пробива\" использовались для сбора данных о военных",
+    "description": "За месяц применение таких сервисов способствовало совершению более 13 тыс. преступлений с ущербом в 15 млрд рублей",
+    "fullText": "За месяц применение таких сервисов способствовало совершению более 13 тыс. преступлений с ущербом в 15 млрд рублей",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260220/8832035.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26515911",
+    "time": "2026-02-20T18:07:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Зенит навсегда» – документальный проект от Спортса’‘, PREMIER и RUTUBE",
     "description": "Премьера – 17 марта.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все 500 голов Кейна: четверть за «Баварию», сотня с пенальти. Главные цифры",
-    "description": "Почти пятая часть – головой.",
-    "fullText": "Почти пятая часть – головой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/6b/91d20250847508ef39fbdbffa4607.png",
+    "title": "Все камни для керлинга добыты в одном месте – на островке у Шотландии. Там никто не живет",
+    "description": "Бизнес-монополия.",
+    "fullText": "Бизнес-монополия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/81/c3a010f7e4ce68ea8ab07e6c7d451.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385570.html",
-    "time": "2026-02-20T13:45:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3386039.html",
+    "time": "2026-02-20T14:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4797073-capcom-protiv-spoilerov-resident-evil-requiem?from=rss",
     "time": "2026-02-20T11:07:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
