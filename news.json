@@ -1,24 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Король и Шут. Навсегда» – бессмысленное прощание с Горшком. Такой финал нам не нужен",
+    "description": "«Здравствуйте, мои маленькие говнари».",
+    "fullText": "«Здравствуйте, мои маленькие говнари».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/fd/d1ab4cf33441ba54f76ec33c440f2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3386006.html",
+    "time": "2026-02-20T20:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин подписал закон, направленный на борьбу с азартными играми",
-    "description": "Закон вступит в силу с 1 сентября",
-    "fullText": "Закон вступит в силу с 1 сентября",
+    "title": "В аэропортах Казани и Нижнекамска ввели временные ограничения",
+    "description": "Ограничения необходимы для обеспечения безопасности полетов",
+    "fullText": "Ограничения необходимы для обеспечения безопасности полетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26516621",
-    "time": "2026-02-20T20:04:30.000Z"
+    "url": "https://tass.ru/ekonomika/26516707",
+    "time": "2026-02-20T20:20:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Вспомните футболистов по двум критериям быстрее соперника",
+    "description": "Мультиплеер в новой версии Три на три.",
+    "fullText": "Мультиплеер в новой версии Три на три.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/aa/9047f77464f6c8594dd50da4a8510.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r58w11",
+    "time": "2026-02-20T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Привез 20 пачек презервативов. Знал, что здесь закончатся». Интервью призера Игр Никиты Филиппова",
+    "description": "Владимир Иванов с вопросами.",
+    "fullText": "Владимир Иванов с вопросами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/49/92ed00f8a498cb1875e7c895248a6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skiing/blogs/3386030.html",
+    "time": "2026-02-20T16:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На консолях Switch выйдут классические Pokémon FireRed и LeafGreen — цена каждой составила 20 долларов",
-    "description": "Выпустят их 27 февраля — после презентации Pokémon Presents в честь 30-летия франшизы.",
-    "fullText": "Выпустят их 27 февраля — после презентации Pokémon Presents в честь 30-летия франшизы.",
-    "image": "https://leonardo.osnova.io/5e90da0d-7e2d-580b-8c26-0905f7415bf2/",
+    "title": "Продажи NieR: Automata превысили десять миллионов копий",
+    "description": "Square Enix намекнула, что продолжение появится.",
+    "fullText": "Square Enix намекнула, что продолжение появится.",
+    "image": "https://leonardo.osnova.io/c6eca5dd-9ec0-5461-9a7d-52e43a7f48c8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4797360-pokemon-firered-i-leafgreen-na-switch?from=rss",
-    "time": "2026-02-20T13:54:40.000Z"
+    "url": "https://dtf.ru/gameindustry/4797100-prodazhi-nier-automata-10-millionov-kopii?from=rss",
+    "time": "2026-02-20T11:35:34.000Z"
   }
 ]
