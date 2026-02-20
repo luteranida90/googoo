@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Сборная Норвегии лидирует в медальном зачете за два дня до конца Олимпиады",
+    "description": "Норвежские спортсмены завоевали 17 золотых, 10 серебряных и 10 бронзовых медалей",
+    "fullText": "Норвежские спортсмены завоевали 17 золотых, 10 серебряных и 10 бронзовых медалей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26517075",
+    "time": "2026-02-20T21:47:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Король и Шут. Навсегда» – бессмысленное прощание с Горшком. Такой финал нам не нужен",
     "description": "«Здравствуйте, мои маленькие говнари».",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4797100-prodazhi-nier-automata-10-millionov-kopii?from=rss",
     "time": "2026-02-20T11:35:34.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
