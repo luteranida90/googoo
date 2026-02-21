@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пожар в жилом доме в центре Москвы локализовали на площади 150 кв. м",
-    "description": "По предварительным данным, никто не пострадал",
-    "fullText": "По предварительным данным, никто не пострадал",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ФТС: на границе России и Эстонии возникли большие очереди",
+    "description": "Со стороны РФ очередей нет, пункты пропуска работают в штатном режиме",
+    "fullText": "Со стороны РФ очередей нет, пункты пропуска работают в штатном режиме",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260221/8833243.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26521567",
-    "time": "2026-02-21T18:18:53.000Z"
+    "url": "https://tass.ru/obschestvo/26521609",
+    "time": "2026-02-21T18:40:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему я обожаю Джеймса Милнера",
+    "description": "Колонка Вадима Лукомского.",
+    "fullText": "Колонка Вадима Лукомского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/51/d27f810b64c53910ecfcf9fd70191.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3386275.html",
+    "time": "2026-02-21T15:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2026-02-21T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Никто не разбудил во мне таких эмоций на Олимпиаде, как Коростелев",
-    "description": "Восторг Чернявского.",
-    "fullText": "Восторг Чернявского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/18/6e03bc5b04de09920ac8d591c6608.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3386335.html",
-    "time": "2026-02-21T15:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
