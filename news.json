@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Акция \"Наши защитники Отечества\" охватит более 200 тыс. участников",
+    "description": "Она направлена на объединение молодого поколения вокруг героев прошлого и настоящего и посвящена темам мужества, долга, любви к Родине и личной ответственности за будущее страны",
+    "fullText": "Она направлена на объединение молодого поколения вокруг героев прошлого и настоящего и посвящена темам мужества, долга, любви к Родине и личной ответственности за будущее страны",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26519551",
+    "time": "2026-02-21T09:53:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Палмера чаще всего ставят в Основу на новый тур АПЛ. А кого возьмете вы?",
     "description": "Выберите 5 футболистов.",
@@ -34,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи NieR: Automata превысили десять миллионов копий",
-    "description": "Square Enix намекнула, что продолжение появится.",
-    "fullText": "Square Enix намекнула, что продолжение появится.",
-    "image": "https://leonardo.osnova.io/c6eca5dd-9ec0-5461-9a7d-52e43a7f48c8/",
+    "title": "На ПК и консолях состоялся релиз российского кооперативного хоррора «КЛЕТЬ»",
+    "description": "Разработчики уже начали выпускать первые патчи.",
+    "fullText": "Разработчики уже начали выпускать первые патчи.",
+    "image": "https://leonardo.osnova.io/e316b897-8951-5d15-b151-5bc9a3c3ee72/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4797100-prodazhi-nier-automata-10-millionov-kopii?from=rss",
-    "time": "2026-02-20T11:35:34.000Z"
+    "url": "https://dtf.ru/games/4797233-reliz-kooperativnogo-horrora-klet?from=rss",
+    "time": "2026-02-20T12:43:02.000Z"
   }
 ]
