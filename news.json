@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лыжник Большунов прибыл на Сахалин для участия в чемпионате России",
-    "description": "Турнир пройдет с 25 февраля по 8 марта",
-    "fullText": "Турнир пройдет с 25 февраля по 8 марта",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260221/8832719.jpg",
+    "title": "Кравцов: в России более 3,5 млн детей могут изучать 76 языков народов страны",
+    "description": "В образовательном процессе педагоги применяют полилингвальные модели обучения, отметил министр просвещения",
+    "fullText": "В образовательном процессе педагоги применяют полилингвальные модели обучения, отметил министр просвещения",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8300283.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26519703",
-    "time": "2026-02-21T10:26:52.000Z"
+    "url": "https://tass.ru/obschestvo/26520225",
+    "time": "2026-02-21T12:14:26.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +22,25 @@
     "time": "2026-02-21T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9hbmtldG9s",
-    "title": "Новости футбола, материалы о теннисе или хайлайты матчей?",
-    "description": "Расскажите в опросе, что выбираете вы.",
-    "fullText": "Расскажите в опросе, что выбираете вы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/26/9b0e3dcc24924914fd2a8fdce2951.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://anketolog.ru/s/1003049/8fuXqzE3/?utm_source=material_base",
-    "time": "2026-02-21T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Доротея Вирер вернула меня в детство",
-    "description": "Слезы ностальгии Николая Живоглядова.",
-    "fullText": "Слезы ностальгии Николая Живоглядова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/ff/a91a2906e44feb430dbfd4fb4fc74.jpeg",
+    "title": "Осторожно, самая жуткая травма Олимпиады – коньком в глаз",
+    "description": "Ух.",
+    "fullText": "Ух.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/4e/843fab00d42a0b5a190fdbef47f7a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/biathlon/blogs/3384241.html",
-    "time": "2026-02-21T06:05:00.000Z"
+    "url": "https://www.sports.ru/skating/blogs/3386254.html",
+    "time": "2026-02-21T08:18:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На ПК и консолях состоялся релиз российского кооперативного хоррора «КЛЕТЬ»",
-    "description": "Разработчики уже начали выпускать первые патчи.",
-    "fullText": "Разработчики уже начали выпускать первые патчи.",
-    "image": "https://leonardo.osnova.io/e316b897-8951-5d15-b151-5bc9a3c3ee72/-/format/mp4/",
+    "title": "Final Fantasy VII Remake вошла в топ-10 по продажам в США за январь — на фоне релиза на Xbox и Switch 2",
+    "description": "А Code Vein II стартовала с 11 строчки.",
+    "fullText": "А Code Vein II стартовала с 11 строчки.",
+    "image": "https://leonardo.osnova.io/a2b1638c-8c13-51cc-ae08-feb062f6e8ed/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4797233-reliz-kooperativnogo-horrora-klet?from=rss",
-    "time": "2026-02-20T12:43:02.000Z"
+    "url": "https://dtf.ru/gameindustry/4797658-final-fantasy-vii-rebirth-v-top-10-prodazh-v-ssha?from=rss",
+    "time": "2026-02-20T16:45:36.000Z"
   }
 ]
