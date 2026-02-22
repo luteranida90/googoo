@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВСУ атаковали Белгородскую область с помощью более 200 БПЛА за сутки",
-    "description": "При атаках пострадали жители",
-    "fullText": "При атаках пострадали жители",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "МОК включил выступление Филиппова в сюжет об Олимпиаде в Италии",
+    "description": "Россиянин стал серебряным призером в ски-альпинизме",
+    "fullText": "Россиянин стал серебряным призером в ски-альпинизме",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260222/8833853.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26523417",
-    "time": "2026-02-22T08:11:20.000Z"
+    "url": "https://tass.ru/sport/26523761",
+    "time": "2026-02-22T09:31:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Саундтрек Олимпиады – великие итальянские песни 80-90-х. Их обожали наши родители",
+    "description": "Денис Пузырев составил трек-лист.",
+    "fullText": "Денис Пузырев составил трек-лист.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/22/0d20a659a4b8fb927fa7324c875ba.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/others/blogs/3386264.html",
+    "time": "2026-02-22T07:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.world/x2cg4p",
     "time": "2026-02-22T07:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сразу шесть канадцев могут попасть в Тройной золотой клуб. А что это такое?",
-    "description": "Хоккейная Лига выдающихся джентльменов.",
-    "fullText": "Хоккейная Лига выдающихся джентльменов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/af/7f4087f714fbdad3964af0c77f611.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3386114.html",
-    "time": "2026-02-22T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
