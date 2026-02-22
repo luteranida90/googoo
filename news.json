@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Хабаровском крае спасли двух тигрят",
+    "description": "Животные проходят реабилитацию",
+    "fullText": "Животные проходят реабилитацию",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260222/8833581.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26522631",
+    "time": "2026-02-22T03:13:46.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как Овечкин восстанавливает энергию на выездах? Тест про любимую еду спортсменов",
     "description": "Будет интересно.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алькараса вообще может что-нибудь остановить?",
-    "description": "Рефлексия после нового титула.",
-    "fullText": "Рефлексия после нового титула.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e5/77e29b8d74529a796d83e935a2a58.jpeg",
+    "title": "«Реал» сгорел «Осасуне» на 90-й – гол Винисиуса не помог. Шанс для «Барсы»",
+    "description": "После восьми побед.",
+    "fullText": "После восьми побед.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/29/d939ecca24a918d338d23b5c7c74e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3386397.html",
-    "time": "2026-02-21T20:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3386400.html",
+    "time": "2026-02-21T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4797580-the-wolf-among-us-v-programme-gog-po-sohraneniyu-igr?from=rss",
     "time": "2026-02-20T15:46:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
