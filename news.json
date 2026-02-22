@@ -1,36 +1,47 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Новгородской области в ДТП погиб человек",
-    "description": "Еще четверо пострадали",
-    "fullText": "Еще четверо пострадали",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Купер: в поражении канадцев на ОИ не виноват формат \"3 на 3\" в овертайме",
+    "description": "Сборная Канады проиграла команде США со счетом 1:2",
+    "fullText": "Сборная Канады проиграла команде США со счетом 1:2",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260222/8834489.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26525459",
-    "time": "2026-02-22T16:37:44.000Z"
+    "url": "https://tass.ru/sport/26525661",
+    "time": "2026-02-22T18:03:26.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Когда Россия одержала эту хоккейную победу?",
-    "description": "И другие триумфы прошлого.",
-    "fullText": "И другие триумфы прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/03/a0c2e41e64cf3a6c2f3b885933e20.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Финал Кубка короля Испании: «Реал» vs «Баскония»! Смотрим на ВидеоСпортсе’’",
+    "description": "Совместно с ТВ Старт.",
+    "fullText": "Совместно с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/54/b6a6f893442ca9e5e6ba96fb57191.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/s4adsu",
-    "time": "2026-02-22T15:30:00.000Z"
+    "url": "https://video.sports.ru/stream/KQwU71F8IQz7TUw0JgDhHTCNsEuKi5wGIyYzJ71NTqE",
+    "time": "2026-02-22T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9hbmtldG9s",
+    "title": "Давно читаете Спортс’‘?",
+    "description": "Опрос для вас.",
+    "fullText": "Опрос для вас.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/26/9b0e3dcc24924914fd2a8fdce2951.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://anketolog.ru/s/1003049/8fuXqzE3/?utm_source=material_base",
+    "time": "2026-02-22T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рейтинг силы мотористов «Ф-1» – кто справился с технореволюцией?",
-    "description": "Все фишки и слабости.",
-    "fullText": "Все фишки и слабости.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/55/b6e41a4dc4f30ae22db24e5849bb0.jpeg",
+    "title": "Олимпиада: Непряеву дисквалифицировали из марафона – взяла чужие лыжи, спутала номер с Коростелевым. Извинилась, ей стыдно. Онлайн",
+    "description": "США вырвали финал у Канады в овертайме!",
+    "fullText": "США вырвали финал у Канады в овертайме!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a1/07fd8e7954d0788ddc1e927f37358.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3386145.html",
-    "time": "2026-02-22T14:00:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3386416.html",
+    "time": "2026-02-22T16:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
