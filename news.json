@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава МИД Финляндии не исключила возможность возобновления диалога с РФ",
-    "description": "Элина Валтонен также считает, что Европе следует играть более значимую роль в мирном процессе",
-    "fullText": "Элина Валтонен также считает, что Европе следует играть более значимую роль в мирном процессе",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26522087",
-    "time": "2026-02-21T22:43:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как Овечкин восстанавливает энергию на выездах? Тест про любимую еду спортсменов",
     "description": "Будет интересно.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4797580-the-wolf-among-us-v-programme-gog-po-sohraneniyu-igr?from=rss",
     "time": "2026-02-20T15:46:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
