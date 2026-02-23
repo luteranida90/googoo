@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Сочи угрозу атаки БПЛА отменили более 10 часов спустя",
+    "description": "Беспилотная опасность была объявлена в городе дважды за сутки",
+    "fullText": "Беспилотная опасность была объявлена в городе дважды за сутки",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26531571",
+    "time": "2026-02-23T20:05:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Нам вернули дух «Игры престолов». Как «Рыцарь Семи Королевств» спас вселенную HBO",
     "description": "Дунк и Эгг – невероятные!",
@@ -11,47 +22,36 @@
     "time": "2026-02-23T19:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Axios: военачальник США предупредил Трампа об угрозе затяжного конфликта с Ираном",
-    "description": "По данным портала, Дэн Кейн в беседах с президентом США и высокопоставленными представителями администрации говорит, то военная кампания против республики \"несет существенные риски\"",
-    "fullText": "По данным портала, Дэн Кейн в беседах с президентом США и высокопоставленными представителями администрации говорит, то военная кампания против республики \"несет существенные риски\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26531389",
-    "time": "2026-02-23T19:25:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Как Овечкин восстанавливает энергию на выездах? И про любимую еду других спортсменов в нашем тесте",
-    "description": "Будет интересно.",
-    "fullText": "Будет интересно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/f2/6f0a0d4f548eda9eed3839b619f99.png",
+    "title": "Когда Россия одержала эту хоккейную победу?",
+    "description": "И другие триумфы прошлого.",
+    "fullText": "И другие триумфы прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/03/a0c2e41e64cf3a6c2f3b885933e20.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/o2kovj",
-    "time": "2026-02-23T16:30:00.000Z"
+    "url": "https://sirena.world/s4adsu",
+    "time": "2026-02-23T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«После чемпионства сказал Галицкому: «Эта победа для вас». Интервью Станислава Агкацева",
-    "description": "Поговорил с Дорским.",
-    "fullText": "Поговорил с Дорским.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ab/fb088701845d5a85053823cba11b6.jpeg",
+    "title": "В Мексике беспорядки после убийства лидера наркокартеля. А ведь скоро там ЧМ",
+    "description": "Взрывы прервали матч.",
+    "fullText": "Взрывы прервали матч.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/d5/2b54f47c8441189a5c598a92e1d3f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386460.html",
-    "time": "2026-02-23T15:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3386622.html",
+    "time": "2026-02-23T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Битва за битвой» Пола Томаса Андерсона стала главным победителем премии BAFTA 2026",
-    "description": "«Марти Великолепный» проиграл во всех категориях.",
-    "fullText": "«Марти Великолепный» проиграл во всех категориях.",
-    "image": "https://leonardo.osnova.io/be4676f1-3ae8-5abe-a6bd-0725f0b661b4/",
+    "title": "Mechanics VoiceOver выпустила ролик об озвучке Silent Hill f с голосами родителей Хинако",
+    "description": "Релиз могут перенести с конца февраля на начало марта.",
+    "fullText": "Релиз могут перенести с конца февраля на начало марта.",
+    "image": "https://leonardo.osnova.io/c7404784-0e3c-588b-a7bf-0b84276b1067/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4803103-bitva-za-bitvoy-pol-tomasa-andersona-bafta?from=rss",
-    "time": "2026-02-23T06:40:44.000Z"
+    "url": "https://dtf.ru/games/4803473-mechanics-voiceover-ozvuchka-silent-hill-f?from=rss",
+    "time": "2026-02-23T10:40:15.000Z"
   }
 ]
