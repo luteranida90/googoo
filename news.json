@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Единая Россия\" запустила в Донецке всероссийскую акцию о здоровом образе жизни",
+    "description": "Акцию начали с донецкого многопрофильного лицея №5 им. Бойко",
+    "fullText": "Акцию начали с донецкого многопрофильного лицея №5 им. Бойко",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26541451",
+    "time": "2026-02-24T17:28:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Сперцян: как отказал «Лидсу» и сорвался «Аякс», о чем говорит с Галицким. Смотрите на ВидеоСпортсе’‘",
     "description": "В гостях у Смолова.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/video/FO2MccNEnAGr-DxFu69Eyt3GFyWJl9q5PlNWC6btIAM",
     "time": "2026-02-24T16:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВСУ с помощью дронов атаковали энергообъекты в двух районах Брянской области",
-    "description": "Ведутся аварийно-восстановительные работы",
-    "fullText": "Ведутся аварийно-восстановительные работы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26540983",
-    "time": "2026-02-24T16:07:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Реванш Мейвезера и Пакьяо – ждем еще одно разочарование?",
-    "description": "Встретятся спустя 11 лет.",
-    "fullText": "Встретятся спустя 11 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f3/68cd1a0e242a6beff1cf317cc4a6c.jpeg",
+    "title": "Соскучились по нашему футболу?",
+    "description": "Эксклюзивные бонусы и фрибеты под старт РПЛ.",
+    "fullText": "Эксклюзивные бонусы и фрибеты под старт РПЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/f4/cd2f371484ae5aae8cc778e260421.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3386832.html",
-    "time": "2026-02-24T12:30:00.000Z"
+    "url": "https://www.sports.ru/betting/bonuses/?ref=sports&ref1=material_direct",
+    "time": "2026-02-24T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хоррор «Возвращение в Сайлент Хилл» вышел в «цифре»",
-    "description": "Со старта проката прошёл месяц.",
-    "fullText": "Со старта проката прошёл месяц.",
-    "image": "https://leonardo.osnova.io/b04b9ca9-6866-550b-8aa7-2e7545d947ba/",
+    "title": "Даниэль Вавра отошёл от разработки игр для создания фильма или сериала по Kingdom Come: Deliverance",
+    "description": "Следующим тайтлом Warhorse он не занимается.",
+    "fullText": "Следующим тайтлом Warhorse он не занимается.",
+    "image": "https://leonardo.osnova.io/ed7b6d9b-09b8-59ce-91a3-038258fe2e68/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4805365-vozvrashchenie-v-saylent-khill-tsifrovoy-rezlis?from=rss",
-    "time": "2026-02-24T09:35:38.000Z"
+    "url": "https://dtf.ru/gameindustry/4805327-daniel-vavra-pokinul-warhorse-dlya-sozdaniya-filma?from=rss",
+    "time": "2026-02-24T08:55:37.000Z"
   }
 ]
