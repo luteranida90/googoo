@@ -1,35 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Сперцян: как отказал «Лидсу» и сорвался «Аякс», о чем говорит с Галицким. Смотрите на ВидеоСпортсе’‘",
+    "description": "В гостях у Смолова.",
+    "fullText": "В гостях у Смолова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/38/16a3fcf4b4bba808da0c13b7b2a56.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/FO2MccNEnAGr-DxFu69Eyt3GFyWJl9q5PlNWC6btIAM",
+    "time": "2026-02-24T16:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В поселке Архыз обследуют склоны на опасность схода снежных лавин",
-    "description": "Объекты инфраструктуры в поселке работают в штатном режиме",
-    "fullText": "Объекты инфраструктуры в поселке работают в штатном режиме",
+    "title": "ВСУ с помощью дронов атаковали энергообъекты в двух районах Брянской области",
+    "description": "Ведутся аварийно-восстановительные работы",
+    "fullText": "Ведутся аварийно-восстановительные работы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26540501",
-    "time": "2026-02-24T15:10:43.000Z"
+    "url": "https://tass.ru/proisshestviya/26540983",
+    "time": "2026-02-24T16:07:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Чемпионский «Ювентус» 2010-х – помните, кто там играл?",
+    "description": "Будет несложно.",
+    "fullText": "Будет несложно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/7b/4dd006e60429f89ee97afb17efc4e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r2bw0n",
+    "time": "2026-02-24T15:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 отложенных мыслей про хоккей в Милане-2026",
-    "description": "Петухов растягивает удовольствие.",
-    "fullText": "Петухов растягивает удовольствие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/34/9beb715c04b0fbede1999c378839c.jpeg",
+    "title": "Реванш Мейвезера и Пакьяо – ждем еще одно разочарование?",
+    "description": "Встретятся спустя 11 лет.",
+    "fullText": "Встретятся спустя 11 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f3/68cd1a0e242a6beff1cf317cc4a6c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3386837.html",
-    "time": "2026-02-24T11:45:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3386832.html",
+    "time": "2026-02-24T12:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Pearl Abyss раскрыла актёрский состав Crimson Desert — протагониста озвучил Алек Ньюман",
-    "description": "Игроки знают его по роли Адама Смэшера в Cyberpunk 2077.",
-    "fullText": "Игроки знают его по роли Адама Смэшера в Cyberpunk 2077.",
-    "image": "https://leonardo.osnova.io/413837fd-572d-5955-845f-98c87c8e5101/",
+    "title": "Хоррор «Возвращение в Сайлент Хилл» вышел в «цифре»",
+    "description": "Со старта проката прошёл месяц.",
+    "fullText": "Со старта проката прошёл месяц.",
+    "image": "https://leonardo.osnova.io/b04b9ca9-6866-550b-8aa7-2e7545d947ba/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4805394-akterskiy-sostav-crimson-desert?from=rss",
-    "time": "2026-02-24T10:05:59.000Z"
+    "url": "https://dtf.ru/cinema/4805365-vozvrashchenie-v-saylent-khill-tsifrovoy-rezlis?from=rss",
+    "time": "2026-02-24T09:35:38.000Z"
   }
 ]
