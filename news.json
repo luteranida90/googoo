@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Эскобар: бразильские наемники по возвращении с Украины будут опасны",
-    "description": "",
-    "fullText": "",
+    "title": "Международный Рахманиновский фестиваль в Тамбовской области пройдет в два сезона",
+    "description": "Такое решение приняли, чтобы объединить дни памяти композитора и концерты в его летней резиденции",
+    "fullText": "Такое решение приняли, чтобы объединить дни памяти композитора и концерты в его летней резиденции",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26533095",
-    "time": "2026-02-24T04:02:08.000Z"
+    "url": "https://tass.ru/kultura/26533413",
+    "time": "2026-02-24T05:12:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-02-23T19:45:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "В НБА давно не было такой жаркой гонки за MVP. Кто лидирует, кто начинает отставать?",
+    "description": "Десятка претендентов.",
+    "fullText": "Десятка претендентов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/37/179fb3bad43d4be0344bdc35a5953.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3386266.html",
+    "time": "2026-02-23T19:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Когда Россия одержала эту хоккейную победу?",
     "description": "И другие триумфы прошлого.",
@@ -33,25 +44,14 @@
     "time": "2026-02-23T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Восемь самых ожидаемых чемпионов Олимпиады, где есть Малинин, Клэбо и альпинисты",
-    "description": "Но были ли предсказуемыми все Игры?",
-    "fullText": "Но были ли предсказуемыми все Игры?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/b8/519ab278d48249c77383f0c219828.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3386425.html",
-    "time": "2026-02-23T18:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Mechanics VoiceOver выпустила ролик об озвучке Silent Hill f с голосами родителей Хинако",
-    "description": "Релиз могут перенести с конца февраля на начало марта.",
-    "fullText": "Релиз могут перенести с конца февраля на начало марта.",
-    "image": "https://leonardo.osnova.io/c7404784-0e3c-588b-a7bf-0b84276b1067/",
+    "title": "В Steam вышло демо Zero Parades: For Dead Spies",
+    "description": "Оно будет доступно до 16 марта.",
+    "fullText": "Оно будет доступно до 16 марта.",
+    "image": "https://leonardo.osnova.io/8bb132a3-3f24-5b70-9169-546a65869907/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4803473-mechanics-voiceover-ozvuchka-silent-hill-f?from=rss",
-    "time": "2026-02-23T10:40:15.000Z"
+    "url": "https://dtf.ru/games/4803723-demo-zero-parades-for-dead-spies?from=rss",
+    "time": "2026-02-23T12:52:00.000Z"
   }
 ]
