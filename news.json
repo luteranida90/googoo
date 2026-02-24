@@ -1,46 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В США из-за снежной бури без света остались более 500 тыс. домохозяйств",
-    "description": "По данным метеобюро, в некоторых местах выпало уже более 90 см снега",
-    "fullText": "По данным метеобюро, в некоторых местах выпало уже более 90 см снега",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26533845",
-    "time": "2026-02-24T06:23:27.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Три хоккеиста собирают больше просмотров в соцсетях, чем хайлайты матчей. И другие необычные факты Олимпиады",
-    "description": "Чем удивят другие олимпийцы?",
-    "fullText": "Чем удивят другие олимпийцы?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/04/f097eb43841afa8dcfbe878bc8155.png",
+    "title": "Хорошо ли вы знаете триумфаторов прошлых ОИ? Давайте проверим",
+    "description": "В нашем тесте.",
+    "fullText": "В нашем тесте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/b1/22d5c44644cf9b50a4ad401352f92.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/dcv9wf",
-    "time": "2026-02-23T21:30:00.000Z"
+    "url": "https://sirena.world/4mvgao",
+    "time": "2026-02-24T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А «Тоттенхэм» может вылететь из АПЛ? Четыре очка запаса и ноль побед в 2026-м",
-    "description": "Тревожный пример «Лестера» и «Лидса».",
-    "fullText": "Тревожный пример «Лестера» и «Лидса».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/3e/9840699a245f4afc96411aca03057.jpeg",
+    "title": "Чему эта Олимпиада научила Россию",
+    "description": "Реплика Авдохина.",
+    "fullText": "Реплика Авдохина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/d3/e2538ea714c53b362548b7cddfd64.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3386656.html",
-    "time": "2026-02-23T21:10:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3386320.html",
+    "time": "2026-02-24T04:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шоураннер «Рыцаря Семи королевств» не исключает дальнейшего сотрудничества с Джорджем Мартином",
-    "description": "У писателя «много идей насчёт продолжения истории».",
-    "fullText": "У писателя «много идей насчёт продолжения истории».",
-    "image": "https://leonardo.osnova.io/5bff11d7-d74c-5553-baa7-bbd7739ef9a9/",
+    "title": "Пиратский «выживач» Windrose от разработчиков из Узбекистана добавили в списки желаемого миллион раз",
+    "description": "Демоверсия игры получила «очень положительный» рейтинг в Steam.",
+    "fullText": "Демоверсия игры получила «очень положительный» рейтинг в Steam.",
+    "image": "https://leonardo.osnova.io/04135818-47d8-5ac2-8bbd-61bdf2f4762c/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4803956-shouranner-rytsarya-semi-korolevstv-obshchayetsya-s-martinom?from=rss",
-    "time": "2026-02-23T15:05:39.000Z"
+    "url": "https://dtf.ru/games/4803356-piratskiy-vyzhivach-windrose-iz-uzbekistana?from=rss",
+    "time": "2026-02-23T09:30:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
