@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РГГУ проверили электросеть после гибели бывшего студента во время репетиции",
-    "description": "По делу проводят расследование",
-    "fullText": "По делу проводят расследование",
+    "title": "В Ессентуках угроза о минировании школы не подтвердилась",
+    "description": "На электронную почту лицея № 6 ранее поступила информация об угрозе",
+    "fullText": "На электронную почту лицея № 6 ранее поступила информация об угрозе",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26541625",
-    "time": "2026-02-24T18:25:15.000Z"
+    "url": "https://tass.ru/proisshestviya/26541975",
+    "time": "2026-02-24T19:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2026-02-24T16:15:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Бык Бенни и денверский Рокки – легенды НБА. Как маскоты так метко бросают с центра площадки спиной с кольцу?",
+    "description": "Чудеса точности.",
+    "fullText": "Чудеса точности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ca/79f1d0c5a44eb9d4060d1f904ebd0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3385618.html",
+    "time": "2026-02-24T15:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Чемпионский «Ювентус» 2010-х – помните, кто там играл?",
     "description": "Будет несложно.",
@@ -33,25 +44,14 @@
     "time": "2026-02-24T15:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Предсезонные расклады на «Ф-1»: неужели год «Феррари»?",
-    "description": "Все котировки после тестов.",
-    "fullText": "Все котировки после тестов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/1e/15447b6144945b635c86e5a400d29.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3386690.html",
-    "time": "2026-02-24T14:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состояние карты «Ураган» и интерактивное пианино — для ARC Raiders вышло обновление Shrouded Sky",
-    "description": "Разработчики также внесли изменения в баланс оружия.",
-    "fullText": "Разработчики также внесли изменения в баланс оружия.",
-    "image": "https://leonardo.osnova.io/394192d5-1c6d-534b-91f0-e478e19678bf/",
+    "title": "A24 представила тизер хоррор-фильма «Закулисье реальности» по мотивам крипипасты The Backrooms",
+    "description": "В кинотеатры России экранизацию привезёт «Вольга» — прокат стартует 4 июня.",
+    "fullText": "В кинотеатры России экранизацию привезёт «Вольга» — прокат стартует 4 июня.",
+    "image": "https://leonardo.osnova.io/99790fad-ed37-56f0-9fa8-c5aac742e475/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4805587-obnovlenie-shrouded-sky-dlya-arc-raiders?from=rss",
-    "time": "2026-02-24T11:59:04.000Z"
+    "url": "https://dtf.ru/cinema/4805815-a24-trailer-zakulise-realnosti?from=rss",
+    "time": "2026-02-24T14:03:18.000Z"
   }
 ]
