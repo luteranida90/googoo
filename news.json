@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Небензя: любые договоренности по Украине должны учитывать озабоченности России",
+    "description": "Постоянный представитель РФ при ООН отметил, что Москва ценит позицию, которую занял Вашингтон",
+    "fullText": "Постоянный представитель РФ при ООН отметил, что Москва ценит позицию, которую занял Вашингтон",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26542339",
+    "time": "2026-02-24T21:39:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какому букету будет рад Мбаппе? Подобрали подарки для спортсменов в тесте",
     "description": "Для вдохновения.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Инсайд дня: ЦСКА интересуется Коутиньо. А что с ним сейчас?",
-    "description": "Напоминает историю с Пьяничем.",
-    "fullText": "Напоминает историю с Пьяничем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f3/cedb71cda4604a009b04061736bf2.jpeg",
+    "title": "Герои тура АПЛ: защитник «Сити» с тремя голами за два тура, лучшие в атаке «Арсенала»",
+    "description": "У кого «Тоттенхэм» – любимый?",
+    "fullText": "У кого «Тоттенхэм» – любимый?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/a6/34d171f6c4d27aa926a77fb9b2aa6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386915.html",
-    "time": "2026-02-24T17:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3386367.html",
+    "time": "2026-02-24T18:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4805844-boevik-ubezhishche-s-dzhejsonom-staytemom?from=rss",
     "time": "2026-02-24T14:26:55.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
