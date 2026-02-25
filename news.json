@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мантуров: разработка стратегии развития биоэкономики находится на завершающей стадии",
+    "description": "По словам первого вице-премьера, речь идет о нескольких месяцах",
+    "fullText": "По словам первого вице-премьера, речь идет о нескольких месяцах",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250528/8259225.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26554217",
+    "time": "2026-02-25T18:58:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Из Лью сделали антипода российских фигуристок. Но Алиса намного ближе к ним, чем кажется",
+    "description": "Колонка Крутихиной.",
+    "fullText": "Колонка Крутихиной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/fa/205789f3d4fed9e8939708a33ebba.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3387036.html",
+    "time": "2026-02-25T15:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Играл и в «Реале», и в «Бенфике» – назовете редкого футболиста?",
     "description": "В Три на три.",
@@ -11,47 +33,14 @@
     "time": "2026-02-25T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9hbmtldG9s",
-    "title": "Что для вас значит спорт?",
-    "description": "Пройдите небольшой опрос.",
-    "fullText": "Пройдите небольшой опрос.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/b7/7f79970cf45e6ac43d5a44fe2e7ff.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://anketolog.ru/s/1003049/8fuXqzE3/?utm_source=material_base",
-    "time": "2026-02-25T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Когда проигрывали немцам, был уверен: «Нифига, забьем!» Илья Воробьев – о золотом финале-2018",
-    "description": "8 лет победе в Пхенчхане.",
-    "fullText": "8 лет победе в Пхенчхане.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/06/797d29bf148368639acd5be8981c7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3386324.html",
-    "time": "2026-02-25T12:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: бюджет «Крика 7» составил 45 миллионов долларов — это самый дорогой фильм серии",
-    "description": "Однако ленте прогнозируют уверенный старт в прокате.",
-    "fullText": "Однако ленте прогнозируют уверенный старт в прокате.",
-    "image": "https://leonardo.osnova.io/0475eb32-1255-58c0-a6e1-f6e35b4bfa66/",
+    "title": "Для Ultrakill вышло крупное обновление — в нём добавили восьмой слой ада",
+    "description": "Шутер всё ближе к выходу из раннего доступа.",
+    "fullText": "Шутер всё ближе к выходу из раннего доступа.",
+    "image": "https://leonardo.osnova.io/a325db8d-3ed0-5015-a6c3-d37c0d004fce/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4807475-krik-7-budjet-45-millionov-dollara?from=rss",
-    "time": "2026-02-25T11:31:30.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4807804-obnovlenie-ultrakill-vosmoj-sloy-ada?from=rss",
+    "time": "2026-02-25T14:19:34.000Z"
   }
 ]
