@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Испании умер руководитель попытки госпереворота 1981 года",
-    "description": "Ему было 93 года",
-    "fullText": "Ему было 93 года",
+    "title": "ГД обсудит обращение из-за информации о планируемых поставках ЯО Киеву",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26554053",
-    "time": "2026-02-25T20:08:41.000Z"
+    "url": "https://tass.ru/politika/26554719",
+    "time": "2026-02-25T21:02:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Издательство Devolver Digital выпустило карточную адвенчуру Reigns: The Witcher",
+    "description": "Игра доступна на ПК, iOS и Android.",
+    "fullText": "Игра доступна на ПК, iOS и Android.",
+    "image": "https://leonardo.osnova.io/d809aabe-a957-5bf3-a501-d228c82616cc/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4808358-reigns-the-witcher-ot-devolver-digital?from=rss",
+    "time": "2026-02-25T17:35:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Из Лью сделали антипода российских фигуристок. Но Алиса намного ближе к ним, чем кажется",
-    "description": "Колонка Крутихиной.",
-    "fullText": "Колонка Крутихиной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/fa/205789f3d4fed9e8939708a33ebba.jpeg",
+    "title": "Я влюбился в КХЛ из-за «Спартака»",
+    "description": "Признание Артема Буторина.",
+    "fullText": "Признание Артема Буторина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/eb/0043245414b919c5f21095b975d9e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3387036.html",
-    "time": "2026-02-25T15:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ABC опубликовала заставку перезапуска «Клиники» — с оригинальной песней «Superman», звучавшей с первого по восьмой сезоны",
-    "description": "События девятого в ребуте будут игнорировать.",
-    "fullText": "События девятого в ребуте будут игнорировать.",
-    "image": "https://leonardo.osnova.io/7e57f8e9-0913-5c1f-b193-95212e91037a/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4807784-perezapusk-kliniki-abc-novaya-zastavka?from=rss",
-    "time": "2026-02-25T13:43:23.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3386927.html",
+    "time": "2026-02-25T17:10:00.000Z"
   }
 ]
