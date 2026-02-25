@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт призвала регионы больше готовить реабилитологов для помощи бойцам СВО",
-    "description": "По словам главного внештатного специалиста Минздрава по санаторно-курортному лечению в УрФО Елены Туровининой, восстановление бойцов перестало быть делом только военных медиков",
-    "fullText": "По словам главного внештатного специалиста Минздрава по санаторно-курортному лечению в УрФО Елены Туровининой, восстановление бойцов перестало быть делом только военных медиков",
+    "title": "ЕК предложила Венгрии альтернативный маршрут поставок нефти",
+    "description": "Он исключает поставки сырья из России",
+    "fullText": "Он исключает поставки сырья из России",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26548277",
-    "time": "2026-02-25T11:09:05.000Z"
+    "url": "https://tass.ru/ekonomika/26548899",
+    "time": "2026-02-25T11:45:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Джаред Харрис вошёл в актёрский состав What Happens at Night — следующего фильма Мартина Скорсезе",
+    "description": "СМИ сообщили о начале съёмок картины в Праге.",
+    "fullText": "СМИ сообщили о начале съёмок картины в Праге.",
+    "image": "https://leonardo.osnova.io/d2bbdecd-0129-5188-b0c9-1fcb84e3dd35/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4807308-jared-harris-v-filme-what-happens-at-night?from=rss",
+    "time": "2026-02-25T09:50:45.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,25 @@
     "time": "2026-02-25T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Последний день конкурса историй!",
-    "description": "Успейте поучаствовать и забрать призы.",
-    "fullText": "Успейте поучаствовать и забрать призы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/0b/7f4b6f6e448b0bce5d74da139c7a4.jpeg",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Матч «Локомотива» и «Факела» на ВидеоСпортсе’‘. Начало – 25 февраля в 16:45",
+    "description": "Смотрим волейбол.",
+    "fullText": "Смотрим волейбол.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/b0/b16774bad47758fd938ae5fd5c07c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sprts.cc/wdcft6",
-    "time": "2026-02-25T07:00:00.000Z"
+    "url": "https://video.sports.ru/stream/-DosRQitjhoikWlYz8Rlp4lx5G8QE-wDX_6ocDSklYM",
+    "time": "2026-02-25T09:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хэмилтона назвали самым высокооплачиваемым пилотом «Феррари». Это правда?",
-    "description": "Шумахер и Райкконен зарабатывали меньше?",
-    "fullText": "Шумахер и Райкконен зарабатывали меньше?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5c/a424d79c64c54abc758394796c7b1.jpeg",
+    "title": "17 случайных впечатлений из поездки на Олимпиаду как болельщик",
+    "description": "Не по работе.",
+    "fullText": "Не по работе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/2f/19685469d4a1c953328d829bdb025.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3379998.html",
-    "time": "2026-02-25T06:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Resident Evil Requiem стала лидером чарта Steam среди платных игр и устройств — в преддверии релиза",
-    "description": "Battlefield 6 вернулась в топ-3 на фоне запуска нового сезона.",
-    "fullText": "Battlefield 6 вернулась в топ-3 на фоне запуска нового сезона.",
-    "image": "https://leonardo.osnova.io/d36f72a9-7fbd-5522-9366-a4f3b94bde32/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4806482-resident-evil-requiem-vozglavila-chart-steam?from=rss",
-    "time": "2026-02-24T19:25:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3386725.html",
+    "time": "2026-02-25T07:45:00.000Z"
   }
 ]
