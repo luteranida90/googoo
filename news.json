@@ -1,25 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Журова назвала бойкот церемонии открытия Паралимпиады слабой попыткой давления",
+    "description": "Некоторые страны заявили о бойкоте церемонии открытия Паралимпийских игр в Италии",
+    "fullText": "Некоторые страны заявили о бойкоте церемонии открытия Паралимпийских игр в Италии",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26545141",
+    "time": "2026-02-25T07:56:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Ждем вашу историю на Трибуне!",
-    "description": "Победителей конкурса отправим в путешествие.",
-    "fullText": "Победителей конкурса отправим в путешествие.",
+    "title": "Последний день конкурса историй!",
+    "description": "Успейте поучаствовать и забрать призы.",
+    "fullText": "Успейте поучаствовать и забрать призы.",
     "image": "https://photobooth.cdn.sports.ru/preset/message/3/0b/7f4b6f6e448b0bce5d74da139c7a4.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/wdcft6",
     "time": "2026-02-25T07:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Саблистка Таллада стала чемпионкой Европы среди юниорок",
-    "description": "Бронза досталась Александре Михайловой",
-    "fullText": "Бронза досталась Александре Михайловой",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26544531",
-    "time": "2026-02-25T06:59:55.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главные сенсации в истории ЛЧ: «Аякс» Тен Хага в полуфинале, блеск «Монако» с «Депортиво». Вписываем «Буде»!",
-    "description": "В шикарную компанию.",
-    "fullText": "В шикарную компанию.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/70/9dbba82c147abbbe73ad681d4e305.jpeg",
+    "title": "«Металлург» потерял лидера до конца сезона! Силантьев жестко влетел в борт",
+    "description": "«Такая же травма, как у Еременко».",
+    "fullText": "«Такая же травма, как у Еременко».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/e9/2f8e85c5b46f9b99be304ff7f017e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386994.html",
-    "time": "2026-02-24T22:40:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3386944.html",
+    "time": "2026-02-24T23:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Xiaomi представила маячок Xiaomi Tag, который совместим с устройствами на iOS и Android",
-    "description": "Продажи пока открыли только в Малайзии.",
-    "fullText": "Продажи пока открыли только в Малайзии.",
-    "image": "https://leonardo.osnova.io/f9a04b26-0ad8-50a2-89c0-0fb53fafdfe3/",
+    "title": "Square Enix выпустила обновлённую версию оригинальной Final Fantasy VII в Steam и GOG",
+    "description": "В магазине Valve переиздание стартовало с «в основном отрицательными» отзывыми.",
+    "fullText": "В магазине Valve переиздание стартовало с «в основном отрицательными» отзывыми.",
+    "image": "https://leonardo.osnova.io/23e4a94b-14e3-5fc1-99eb-8065db5a18dc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4806409-xiaomi-tag-bluetooth-treker-ios-android?from=rss",
-    "time": "2026-02-24T18:30:48.000Z"
+    "url": "https://dtf.ru/games/4806460-obnovlennaya-final-fantasy-vii-vyshla-v-steam-i-gog?from=rss",
+    "time": "2026-02-24T20:34:46.000Z"
   }
 ]
