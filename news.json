@@ -1,14 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ГД обсудит обращение из-за информации о планируемых поставках ЯО Киеву",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто из звезд хоккея сильнее? Выбирайте своих лидеров и забирайте победу",
+    "description": "В Автобаттлере.",
+    "fullText": "В Автобаттлере.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/9d/a7d99cda9499c852e73af77c25d22.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/26554719",
-    "time": "2026-02-25T21:02:43.000Z"
+    "url": "https://sirena.world/x2cg4p",
+    "time": "2026-02-25T19:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как устроен музей «Динамо»: с «Золотым мячом» Яшина и подарком от фанатов «Арсенала»",
+    "description": "Рассказывает гендиректор.",
+    "fullText": "Рассказывает гендиректор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/01/4ab43194f454484376fa152b4650e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3366258.html",
+    "time": "2026-02-25T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -22,25 +33,14 @@
     "time": "2026-02-25T17:35:19.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В истории было «Чудо на льду»: американские студенты обыграли СССР. Когда это случилось?",
-    "description": "И другие яркие моменты прошлого.",
-    "fullText": "И другие яркие моменты прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c1/888b248174658a4afb1b3d712dcbf.png",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://sirena.world/s4adsu",
-    "time": "2026-02-25T17:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я влюбился в КХЛ из-за «Спартака»",
-    "description": "Признание Артема Буторина.",
-    "fullText": "Признание Артема Буторина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/eb/0043245414b919c5f21095b975d9e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3386927.html",
-    "time": "2026-02-25T17:10:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
