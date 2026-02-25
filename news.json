@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Су-30СМ потерпел крушение в Казахстане",
-    "description": "",
-    "fullText": "",
+    "title": "Эксперт призвала регионы больше готовить реабилитологов для помощи бойцам СВО",
+    "description": "По словам главного внештатного специалиста Минздрава по санаторно-курортному лечению в УрФО Елены Туровининой, восстановление бойцов перестало быть делом только военных медиков",
+    "fullText": "По словам главного внештатного специалиста Минздрава по санаторно-курортному лечению в УрФО Елены Туровининой, восстановление бойцов перестало быть делом только военных медиков",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26545877",
-    "time": "2026-02-25T09:01:13.000Z"
+    "url": "https://tass.ru/obschestvo/26548277",
+    "time": "2026-02-25T11:09:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "67% прошедших наш футбольный диктант ошиблись в написании этого клуба. А вы справитесь?",
+    "description": "Играли с нашими в еврокубках.",
+    "fullText": "Играли с нашими в еврокубках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/67/78b0574ae44968eb65de786d7517a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-02-25T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +33,25 @@
     "time": "2026-02-25T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какого продукта нет в рационе Роналду? И другие интересные факты про спортсменов и еду в нашем тесте",
-    "description": "Будет вкусно.",
-    "fullText": "Будет вкусно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/82/90c2445c643538268b9759722e84b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/o2kovj",
-    "time": "2026-02-25T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 безумных фактов о сенсационном «Буде» в ЛЧ",
-    "description": "Не укладывается в голове.",
-    "fullText": "Не укладывается в голове.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/73/694c81fce46118ac38d56317cfa8a.jpeg",
+    "title": "Хэмилтона назвали самым высокооплачиваемым пилотом «Феррари». Это правда?",
+    "description": "Шумахер и Райкконен зарабатывали меньше?",
+    "fullText": "Шумахер и Райкконен зарабатывали меньше?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5c/a424d79c64c54abc758394796c7b1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386997.html",
-    "time": "2026-02-25T03:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3379998.html",
+    "time": "2026-02-25T06:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Square Enix выпустила обновлённую версию оригинальной Final Fantasy VII в Steam и GOG",
-    "description": "В магазине Valve переиздание стартовало с «в основном отрицательными» отзывыми.",
-    "fullText": "В магазине Valve переиздание стартовало с «в основном отрицательными» отзывыми.",
-    "image": "https://leonardo.osnova.io/23e4a94b-14e3-5fc1-99eb-8065db5a18dc/",
+    "title": "Resident Evil Requiem стала лидером чарта Steam среди платных игр и устройств — в преддверии релиза",
+    "description": "Battlefield 6 вернулась в топ-3 на фоне запуска нового сезона.",
+    "fullText": "Battlefield 6 вернулась в топ-3 на фоне запуска нового сезона.",
+    "image": "https://leonardo.osnova.io/d36f72a9-7fbd-5522-9366-a4f3b94bde32/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4806460-obnovlennaya-final-fantasy-vii-vyshla-v-steam-i-gog?from=rss",
-    "time": "2026-02-24T20:34:46.000Z"
+    "url": "https://dtf.ru/gameindustry/4806482-resident-evil-requiem-vozglavila-chart-steam?from=rss",
+    "time": "2026-02-24T19:25:00.000Z"
   }
 ]
