@@ -1,25 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД предупредили о хищении Telegram-аккаунтов через \"переезд\" чата",
+    "description": "В киберполиции отметили, что в чатах публикуется псевдоофициальное сообщение о том, что из-за \"замедления работы\" чат якобы переносится на новую площадку",
+    "fullText": "В киберполиции отметили, что в чатах публикуется псевдоофициальное сообщение о том, что из-за \"замедления работы\" чат якобы переносится на новую площадку",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26557021",
+    "time": "2026-02-26T05:16:22.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из звезд хоккея сильнее? Выбирайте своих лидеров и забирайте победу",
-    "description": "В Автобаттлере.",
-    "fullText": "В Автобаттлере.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/9d/a7d99cda9499c852e73af77c25d22.png",
+    "title": "Кто из этих ребят стал капитаном минского «Динамо»? Узнайте в нашем тесте",
+    "description": "А нападающим «Ак Барса»?",
+    "fullText": "А нападающим «Ак Барса»?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b9/6843bc5eb47258010fc9dc8b64dc5.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/x2cg4p",
-    "time": "2026-02-25T19:35:00.000Z"
+    "url": "https://sirena.world/6jssib",
+    "time": "2026-02-25T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как устроен музей «Динамо»: с «Золотым мячом» Яшина и подарком от фанатов «Арсенала»",
-    "description": "Рассказывает гендиректор.",
-    "fullText": "Рассказывает гендиректор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/01/4ab43194f454484376fa152b4650e.png",
+    "title": "«Что за тупой пост». Грилиш наехал на человека, назвавшего Стерлинга «Бэмби на льду»",
+    "description": "Дебют понравился не всем.",
+    "fullText": "Дебют понравился не всем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d3/03674f4eb4d4090da60b49852e658.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3366258.html",
-    "time": "2026-02-25T18:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387035.html",
+    "time": "2026-02-25T19:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4808358-reigns-the-witcher-ot-devolver-digital?from=rss",
     "time": "2026-02-25T17:35:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
