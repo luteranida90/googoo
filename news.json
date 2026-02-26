@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Курской области завели дело о превышении полномочий при ремонте дороги",
-    "description": "Экс-директора государственного казенного учреждения региона обвиняют в причинении ущерба на сумму почти 2 млн рублей",
-    "fullText": "Экс-директора государственного казенного учреждения региона обвиняют в причинении ущерба на сумму почти 2 млн рублей",
+    "title": "МВД: пропавшую в Смоленске девочку нашли в квартире, где был и мужчина",
+    "description": "Жизни ребенка ничто не угрожает",
+    "fullText": "Жизни ребенка ничто не угрожает",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26566177",
-    "time": "2026-02-26T16:15:09.000Z"
+    "url": "https://tass.ru/obschestvo/26566715",
+    "time": "2026-02-26T17:14:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Спартак» – «Адмирал»: смотрим матч недели на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/58/7686873584da0b5d281e73b6aedd1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/OEhubcKBVlEU4Tn93DoodKTU7Y6Ws3aNeEdf-fKja_c",
+    "time": "2026-02-26T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Аль-Наср» Роналду – лидер лиги с 9 сухими победами подряд. Неужели Криш идет к трофею?",
-    "description": "Возможны даже два.",
-    "fullText": "Возможны даже два.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/bf/56883c6664ebc8c6ab221f3d9d5a1.jpeg",
+    "title": "Подвиг «Ювентуса» вдесятером – не чудо. Это шедевральная работа Спаллетти",
+    "description": "Обычный вечер лучшего футбола.",
+    "fullText": "Обычный вечер лучшего футбола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9f/6371c8bc644d9b99cd0be35c432c1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387242.html",
-    "time": "2026-02-26T11:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387275.html",
+    "time": "2026-02-26T12:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Майк Флэнаган заверил, что его адаптация повести «Туман» не будет ремейком фильма «Мгла»",
-    "description": "Отличия начинаются уже на первой странице сценария.",
-    "fullText": "Отличия начинаются уже на первой странице сценария.",
-    "image": "https://leonardo.osnova.io/7093984f-b13a-5b7e-ad8a-aa4193f95b57/",
+    "title": "На мобильных платформах состоялся запуск Subway Surfers City",
+    "description": "Сиквел одной из самых популярных игр для смартфонов.",
+    "fullText": "Сиквел одной из самых популярных игр для смартфонов.",
+    "image": "https://leonardo.osnova.io/39802e47-48e4-5e66-a5b6-061c1f982590/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4809636-majk-flanagan-novaya-adaptaciya-tumana?from=rss",
-    "time": "2026-02-26T11:28:16.000Z"
+    "url": "https://dtf.ru/mobile/4809706-zapusk-subway-surfers-city-na-mobilnykh-platformakh?from=rss",
+    "time": "2026-02-26T12:02:54.000Z"
   }
 ]
