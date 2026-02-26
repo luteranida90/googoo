@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Politico: в США не исключили удар по верховному лидеру Ирана",
-    "description": "По информации газеты, американские власти рассматривают также удары по ядерным объектам Тегерана",
-    "fullText": "По информации газеты, американские власти рассматривают также удары по ядерным объектам Тегерана",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Житель Белгородской области отказался подвезти Гладкова после поломки поезда",
+    "description": "Губернатор региона предположил, что такое поведение может быть связано с какой-то обидой на власти",
+    "fullText": "Губернатор региона предположил, что такое поведение может быть связано с какой-то обидой на власти",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260226/8842083.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26557441",
-    "time": "2026-02-26T06:36:57.000Z"
+    "url": "https://tass.ru/obschestvo/26557991",
+    "time": "2026-02-26T07:35:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Как Овечкин восстанавливает энергию на выездах? И про любимую еду других спортсменов в нашем тесте",
+    "description": "Будет интересно.",
+    "fullText": "Будет интересно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/f2/6f0a0d4f548eda9eed3839b619f99.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/o2kovj",
+    "time": "2026-02-26T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-02-25T22:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто из этих ребят стал капитаном минского «Динамо»? Узнайте в нашем тесте",
-    "description": "А нападающим «Ак Барса»?",
-    "fullText": "А нападающим «Ак Барса»?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b9/6843bc5eb47258010fc9dc8b64dc5.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/6jssib",
-    "time": "2026-02-25T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Режиссёр фильмов по Resident Evil с Миллой Йовович не стал адаптировать игры дословно, чтобы не спойлерить их сюжет",
-    "description": "Ему нравилась идея дополнить вселенную новыми историями.",
-    "fullText": "Ему нравилась идея дополнить вселенную новыми историями.",
-    "image": "https://leonardo.osnova.io/a86c5119-fc70-5bb9-b753-e4c8db068803/",
+    "title": "«Эбони и Айвори»: отрывок второго сезона сериала по Devil May Cry",
+    "description": "Продолжение выйдет 12 мая на Netflix.",
+    "fullText": "Продолжение выйдет 12 мая на Netflix.",
+    "image": "https://leonardo.osnova.io/1899550f-3ed2-5324-9805-38338d23fc36/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4807607-pol-anderson-o-filmakh-resident-evil-adaptatsiya-i-vliyanie-igr?from=rss",
-    "time": "2026-02-25T12:57:30.000Z"
+    "url": "https://dtf.ru/cinema/4808516-eboni-i-ajvori-vtoryj-sezon-anime-devil-may-cry?from=rss",
+    "time": "2026-02-25T18:56:31.000Z"
   }
 ]
