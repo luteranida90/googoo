@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Французский регулятор потребовал заблокировать сайты 35 российских СМИ",
+    "title": "Глава иранского МИД: Иран и США близки к взаимопониманию по некоторым вопросам",
     "description": "",
     "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26567371",
-    "time": "2026-02-26T18:30:06.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26567805",
+    "time": "2026-02-26T20:08:23.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Epic Games Store началась раздача головоломки Boxes: Lost Fragments и платформера My Night Job",
-    "description": "Первая недоступна в российском регионе.",
-    "fullText": "Первая недоступна в российском регионе.",
-    "image": "https://leonardo.osnova.io/5671a104-201d-5163-8708-3b7921c534ef/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4810295-razdacha-igr-epic-games-store-boxes-lost-fragments-my-night-job?from=rss",
-    "time": "2026-02-26T16:37:05.000Z"
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Подготовьтесь к футбольным выходным и соберите команду в Основе",
+    "description": "В АПЛ, Серии А или Ла Лиге.",
+    "fullText": "В АПЛ, Серии А или Ла Лиге.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/0c/9e7abccaa4c819828a38bf70979af.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/v6n9dq",
+    "time": "2026-02-26T19:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Тотальный Маккенни, сложная победа «Реала», герои камбэка «Аталанты». Тактика ЛЧ",
+    "description": "И трудности «ПСЖ».",
+    "fullText": "И трудности «ПСЖ».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c1/bac6b70204d5ebb97d062df630cf1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387303.html",
+    "time": "2026-02-26T16:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +44,14 @@
     "time": "2026-02-26T16:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Хорошо ли вы знаете триумфаторов прошлых ОИ? Давайте проверим",
-    "description": "В нашем тесте.",
-    "fullText": "В нашем тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/b1/22d5c44644cf9b50a4ad401352f92.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/4mvgao",
-    "time": "2026-02-26T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я влюбился в КХЛ из-за «Спартака»",
-    "description": "Признание Артема Буторина.",
-    "fullText": "Признание Артема Буторина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/eb/0043245414b919c5f21095b975d9e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3386927.html",
-    "time": "2026-02-26T13:45:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Ремастер Alan Wake на ПК получил поддержку HDR и улучшенный DLSS",
+    "description": "Разработчики также увеличили доступную частоту кадров до 240 fps.",
+    "fullText": "Разработчики также увеличили доступную частоту кадров до 240 fps.",
+    "image": "https://leonardo.osnova.io/39cd317b-0c86-5cbd-81fc-d75a9beea356/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4809978-alan-wake-remastered-pk-hdr-dlss-240-fps?from=rss",
+    "time": "2026-02-26T14:01:37.000Z"
   }
 ]
