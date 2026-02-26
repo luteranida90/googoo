@@ -1,20 +1,31 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МВД: пропавшую в Смоленске девочку нашли в квартире, где был и мужчина",
-    "description": "Жизни ребенка ничто не угрожает",
-    "fullText": "Жизни ребенка ничто не угрожает",
+    "title": "Французский регулятор потребовал заблокировать сайты 35 российских СМИ",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26566715",
-    "time": "2026-02-26T17:14:29.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26567371",
+    "time": "2026-02-26T18:30:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В Epic Games Store началась раздача головоломки Boxes: Lost Fragments и платформера My Night Job",
+    "description": "Первая недоступна в российском регионе.",
+    "fullText": "Первая недоступна в российском регионе.",
+    "image": "https://leonardo.osnova.io/5671a104-201d-5163-8708-3b7921c534ef/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4810295-razdacha-igr-epic-games-store-boxes-lost-fragments-my-night-job?from=rss",
+    "time": "2026-02-26T16:37:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Спартак» – «Адмирал»: смотрим матч недели на ВидеоСпортсе’’",
-    "description": "Прямая трансляция Fonbet КХЛ.",
-    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "title": "«Спартак» и «Адмирал» устроили шоу – забросили 9 шайб. Показывали на ВидеоСпортсе’’",
+    "description": "Хет-трик у Егора Филина.",
+    "fullText": "Хет-трик у Егора Филина.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/c/58/7686873584da0b5d281e73b6aedd1.png",
     "source": "Sports.ru",
     "category": "all",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Подвиг «Ювентуса» вдесятером – не чудо. Это шедевральная работа Спаллетти",
-    "description": "Обычный вечер лучшего футбола.",
-    "fullText": "Обычный вечер лучшего футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/9f/6371c8bc644d9b99cd0be35c432c1.jpeg",
+    "title": "Я влюбился в КХЛ из-за «Спартака»",
+    "description": "Признание Артема Буторина.",
+    "fullText": "Признание Артема Буторина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/eb/0043245414b919c5f21095b975d9e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387275.html",
-    "time": "2026-02-26T12:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На мобильных платформах состоялся запуск Subway Surfers City",
-    "description": "Сиквел одной из самых популярных игр для смартфонов.",
-    "fullText": "Сиквел одной из самых популярных игр для смартфонов.",
-    "image": "https://leonardo.osnova.io/39802e47-48e4-5e66-a5b6-061c1f982590/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4809706-zapusk-subway-surfers-city-na-mobilnykh-platformakh?from=rss",
-    "time": "2026-02-26T12:02:54.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3386927.html",
+    "time": "2026-02-26T13:45:00.000Z"
   }
 ]
