@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД предупредили о хищении Telegram-аккаунтов через \"переезд\" чата",
-    "description": "В киберполиции отметили, что в чатах публикуется псевдоофициальное сообщение о том, что из-за \"замедления работы\" чат якобы переносится на новую площадку",
-    "fullText": "В киберполиции отметили, что в чатах публикуется псевдоофициальное сообщение о том, что из-за \"замедления работы\" чат якобы переносится на новую площадку",
+    "title": "Politico: в США не исключили удар по верховному лидеру Ирана",
+    "description": "По информации газеты, американские власти рассматривают также удары по ядерным объектам Тегерана",
+    "fullText": "По информации газеты, американские власти рассматривают также удары по ядерным объектам Тегерана",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26557021",
-    "time": "2026-02-26T05:16:22.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26557441",
+    "time": "2026-02-26T06:36:57.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Винисиус подтвердил: «Реал» в 1/8 финала ЛЧ. С привозом и травмой Асенсио",
+    "description": "У Феде два ассиста!",
+    "fullText": "У Феде два ассиста!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/17/64135687f46c79e9f8c4358214785.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387188.html",
+    "time": "2026-02-25T22:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-25T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Что за тупой пост». Грилиш наехал на человека, назвавшего Стерлинга «Бэмби на льду»",
-    "description": "Дебют понравился не всем.",
-    "fullText": "Дебют понравился не всем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d3/03674f4eb4d4090da60b49852e658.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387035.html",
-    "time": "2026-02-25T19:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Издательство Devolver Digital выпустило карточную адвенчуру Reigns: The Witcher",
-    "description": "Игра доступна на ПК, iOS и Android.",
-    "fullText": "Игра доступна на ПК, iOS и Android.",
-    "image": "https://leonardo.osnova.io/d809aabe-a957-5bf3-a501-d228c82616cc/-/format/mp4/",
+    "title": "Режиссёр фильмов по Resident Evil с Миллой Йовович не стал адаптировать игры дословно, чтобы не спойлерить их сюжет",
+    "description": "Ему нравилась идея дополнить вселенную новыми историями.",
+    "fullText": "Ему нравилась идея дополнить вселенную новыми историями.",
+    "image": "https://leonardo.osnova.io/a86c5119-fc70-5bb9-b753-e4c8db068803/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4808358-reigns-the-witcher-ot-devolver-digital?from=rss",
-    "time": "2026-02-25T17:35:19.000Z"
+    "url": "https://dtf.ru/cinema/4807607-pol-anderson-o-filmakh-resident-evil-adaptatsiya-i-vliyanie-igr?from=rss",
+    "time": "2026-02-25T12:57:30.000Z"
   }
 ]
