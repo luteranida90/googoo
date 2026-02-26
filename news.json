@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Житель Белгородской области отказался подвезти Гладкова после поломки поезда",
-    "description": "Губернатор региона предположил, что такое поведение может быть связано с какой-то обидой на власти",
-    "fullText": "Губернатор региона предположил, что такое поведение может быть связано с какой-то обидой на власти",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260226/8842083.jpg",
+    "title": "Работу одного из \"Магнитов\" приостановили из-за нарушения санитарных норм",
+    "description": "В помещении не проводится влажная уборка с применением моющих и дезинфицирующих средств, подсобные и складские помещения захламлены, бытовой мусор из магазина не вывезен, продукты хранятся на полу",
+    "fullText": "В помещении не проводится влажная уборка с применением моющих и дезинфицирующих средств, подсобные и складские помещения захламлены, бытовой мусор из магазина не вывезен, продукты хранятся на полу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26557991",
-    "time": "2026-02-26T07:35:54.000Z"
+    "url": "https://tass.ru/obschestvo/26558573",
+    "time": "2026-02-26T08:30:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Момент дня: Винисиус станцевал у флажка. Те самые движения",
+    "description": "Дома можно и так.",
+    "fullText": "Дома можно и так.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e7/fef66f53942649125148fca07e6be.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387201.html",
+    "time": "2026-02-26T04:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-02-26T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Винисиус подтвердил: «Реал» в 1/8 финала ЛЧ. С привозом и травмой Асенсио",
-    "description": "У Феде два ассиста!",
-    "fullText": "У Феде два ассиста!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/17/64135687f46c79e9f8c4358214785.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387188.html",
-    "time": "2026-02-25T22:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Эбони и Айвори»: отрывок второго сезона сериала по Devil May Cry",
-    "description": "Продолжение выйдет 12 мая на Netflix.",
-    "fullText": "Продолжение выйдет 12 мая на Netflix.",
-    "image": "https://leonardo.osnova.io/1899550f-3ed2-5324-9805-38338d23fc36/",
+    "title": "«Земля принадлежит мне»: второй трейлер фильма «Мортал Комбат 2»",
+    "description": "Прокат фильма начнётся 8 мая.",
+    "fullText": "Прокат фильма начнётся 8 мая.",
+    "image": "https://leonardo.osnova.io/aaf44ce3-d2f8-5ab4-9ec2-a3c6faf7b632/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4808516-eboni-i-ajvori-vtoryj-sezon-anime-devil-may-cry?from=rss",
-    "time": "2026-02-25T18:56:31.000Z"
+    "url": "https://dtf.ru/cinema/4808468-mortal-kombat-2-treyler-i-syuzhet-novogo-filma?from=rss",
+    "time": "2026-02-25T18:07:50.000Z"
   }
 ]
