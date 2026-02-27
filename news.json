@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Афганистане заявили, что защищали свой суверенитет и достигли целей",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Минсельхоз: состояние озимых в России лучше, чем в 2025 году",
+    "description": "Замминистра сельского хозяйства Андрей Разин добавил, что прогнозировать урожай лучше после весеннего половодья, начала полевых работ с учетом погоды",
+    "fullText": "Замминистра сельского хозяйства Андрей Разин добавил, что прогнозировать урожай лучше после весеннего половодья, начала полевых работ с учетом погоды",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260227/8847011.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26578923",
-    "time": "2026-02-27T13:48:34.000Z"
+    "url": "https://tass.ru/ekonomika/26579691",
+    "time": "2026-02-27T15:15:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Я подумал, что прочитал не тот сценарий»: Кристиан Бэйл сравнил «Невесту» с инди-фильмами",
+    "description": "По словам актёра, студия рискнула, сняв такой необычный фильм.",
+    "fullText": "По словам актёра, студия рискнула, сняв такой необычный фильм.",
+    "image": "https://leonardo.osnova.io/63c360f2-67bb-596d-b0f8-defb93368565/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4812187-kristian-bejl-sravnil-film-nevesta-s-indi-lenty?from=rss",
+    "time": "2026-02-27T13:33:45.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто станет чемпионом? Где закончат «Спартак» и «Балтика»? Уволят ли Гусева? Что ждут авторы Спортса’’ от весны в РПЛ",
-    "description": "Дорский, Чернявский и остальные.",
-    "fullText": "Дорский, Чернявский и остальные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6c/8affab5be4bacaa25dff7e51da64e.jpeg",
+    "title": "«Реал» vs «Сити» – уже классика Лиги чемпионов",
+    "description": "Мысли фаната «Мадрида».",
+    "fullText": "Мысли фаната «Мадрида».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/27/04eeac98146f7b1ddea066805082d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3387312.html",
-    "time": "2026-02-27T10:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "NVIDIA временно отключила загрузку драйвера для Resident Evil Requiem и Marathon из-за бага",
-    "description": "Пользователям советуют откатиться до предыдущей версии.",
-    "fullText": "Пользователям советуют откатиться до предыдущей версии.",
-    "image": "https://leonardo.osnova.io/333c4059-4ae2-53b3-ba00-fb0ac7e0f6f3/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/hard/4811573-nvidia-otklyuchila-zagruzku-drayvera-dlya-resident-evil-requiem-i-marathon?from=rss",
-    "time": "2026-02-27T07:11:19.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387535.html",
+    "time": "2026-02-27T12:00:00.000Z"
   }
 ]
