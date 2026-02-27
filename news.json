@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Экс-посол в РФ не видит угрозы монархии из-за истории с братом Карла III",
-    "description": "Британцы вполне ясно понимают, что Эндрю Маунтбеттен-Виндзор не представляет королевскую семью в целом, считает Энтони Брентон",
-    "fullText": "Британцы вполне ясно понимают, что Эндрю Маунтбеттен-Виндзор не представляет королевскую семью в целом, считает Энтони Брентон",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин ждет к апрелю предложений по ГОСТу на внутреннюю отделку новостроек",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26570463",
-    "time": "2026-02-27T05:14:38.000Z"
+    "url": "https://tass.ru/nedvizhimost/26571135",
+    "time": "2026-02-27T06:38:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Арсенал» – «Челси»: кто победит в дерби? Проголосуйте",
+    "description": "В Пикере Спортса’’.",
+    "fullText": "В Пикере Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ad/510b8e1ba4c8092bbe8f35b1ce408.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/u3u83d",
+    "time": "2026-02-26T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +33,25 @@
     "time": "2026-02-26T20:59:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Подготовьтесь к футбольным выходным и соберите команду в Основе",
-    "description": "В АПЛ, Серии А или Ла Лиге.",
-    "fullText": "В АПЛ, Серии А или Ла Лиге.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/0c/9e7abccaa4c819828a38bf70979af.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/v6n9dq",
-    "time": "2026-02-26T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чьи трансферы эффективны, а чьи – бессмысленны? Оцениваем каждый клуб РПЛ",
-    "description": "Удивил не только ЦСКА.",
-    "fullText": "Удивил не только ЦСКА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e3/0f55d5a644854a3e1a34b29ba3039.png",
+    "title": "Я влюбился в КХЛ из-за «Спартака»",
+    "description": "Признание Артема Буторина.",
+    "fullText": "Признание Артема Буторина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/eb/0043245414b919c5f21095b975d9e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386973.html",
-    "time": "2026-02-26T18:55:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3386927.html",
+    "time": "2026-02-26T20:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "NVIDIA ожидает трудностей с поставками видеокарт GeForce в начале следующего финансового года",
-    "description": "Компания не назвала примерных сроков нормализации ситуации.",
-    "fullText": "Компания не назвала примерных сроков нормализации ситуации.",
-    "image": "https://leonardo.osnova.io/f4ed0701-452b-55da-86da-0b68410c2cfa/",
+    "title": "Legacy of Kain: Defiance Remastered предоставит доступ к демо The Dark Prophecy — отменённой шестой части серии",
+    "description": "Переиздание выйдет уже 3 марта.",
+    "fullText": "Переиздание выйдет уже 3 марта.",
+    "image": "https://leonardo.osnova.io/3d5101d9-4765-5a54-a74d-4238d3f27fe2/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4809839-nvidia-ozhidaet-problemy-s-postavkami-videokart-geforce?from=rss",
-    "time": "2026-02-26T13:22:16.000Z"
+    "url": "https://dtf.ru/games/4810129-legacy-of-kain-defiance-remastered-demo-the-dark-prophecy?from=rss",
+    "time": "2026-02-26T16:15:40.000Z"
   }
 ]
