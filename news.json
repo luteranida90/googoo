@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦСКА впервые выиграл матч КХЛ, уступая с разницей в четыре шайбы",
-    "description": "В пятницу ЦСКА дома со счетом 6:5 в овертайме обыграл \"Шанхай Дрэгонс\", по ходу первого периода столичная команда уступала со счетом 0:4",
-    "fullText": "В пятницу ЦСКА дома со счетом 6:5 в овертайме обыграл \"Шанхай Дрэгонс\", по ходу первого периода столичная команда уступала со счетом 0:4",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260227/8847471.jpg",
+    "title": "ТАСС: в Днепропетровской области погибла медийный снайпер ВСУ Васильченко",
+    "description": "В российских силовых структурах сообщили, что она снялась в фильме про \"украинских амазонок\"",
+    "fullText": "В российских силовых структурах сообщили, что она снялась в фильме про \"украинских амазонок\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26581611",
-    "time": "2026-02-27T19:43:32.000Z"
+    "url": "https://tass.ru/proisshestviya/26581647",
+    "time": "2026-02-27T19:54:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Играл и в «Арсенале», и в «Челси» – сколько таких футболистов вспомните?",
+    "description": "Назовите самого редкого.",
+    "fullText": "Назовите самого редкого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/65/c9e28baf34409bb8aa96d97cbd511.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r58w11",
+    "time": "2026-02-27T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-02-27T15:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» – «Челси»: кто победит в дерби? Проголосуйте",
-    "description": "В Пикере Спортса’’.",
-    "fullText": "В Пикере Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ad/510b8e1ba4c8092bbe8f35b1ce408.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/u3u83d",
-    "time": "2026-02-27T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Космические сражения «точно появятся» в Total War: Warhammer 40,000, но не факт, что на релизе",
-    "description": "Разработчики согласны, что без них никуда.",
-    "fullText": "Разработчики согласны, что без них никуда.",
-    "image": "https://leonardo.osnova.io/afb9a8d5-1ed8-5082-8e4f-48486a0bae6d/",
+    "title": "На ПК и консолях вышла Resident Evil Requiem",
+    "description": "Онлайн в Steam уже превысил 260 тысяч игроков.",
+    "fullText": "Онлайн в Steam уже превысил 260 тысяч игроков.",
+    "image": "https://leonardo.osnova.io/f136effe-6af3-52eb-aced-dfa2ce03b5e4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4811952-kosmicheskie-srazheniya-v-total-war-warhammer-40000-ne-na-relize?from=rss",
-    "time": "2026-02-27T11:13:50.000Z"
+    "url": "https://dtf.ru/games/4811455-resident-evil-requiem-vyshla-na-pk-i-konsolyakh?from=rss",
+    "time": "2026-02-27T06:22:18.000Z"
   }
 ]
