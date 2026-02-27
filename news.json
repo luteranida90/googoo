@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сальдо: ВСУ изобретают изощренные способы ударов по мирным объектам Херсонщины",
-    "description": "Российские военнослужащие делают все, чтобы уменьшить огневое воздействие Украины, отметил губернатор Херсонской области",
-    "fullText": "Российские военнослужащие делают все, чтобы уменьшить огневое воздействие Украины, отметил губернатор Херсонской области",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260218/8824355.jpg",
+    "title": "Reuters: Украина использовала \"Дружбу\" для прокачки своей нефти",
+    "description": "По данным агентства, Киев до прекращения поставок ежемесячно закачивал в нефтепровод около 40 тыс. метрических тонн нефти",
+    "fullText": "По данным агентства, Киев до прекращения поставок ежемесячно закачивал в нефтепровод около 40 тыс. метрических тонн нефти",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26580327",
-    "time": "2026-02-27T16:07:36.000Z"
+    "url": "https://tass.ru/ekonomika/26580753",
+    "time": "2026-02-27T17:06:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Я подумал, что прочитал не тот сценарий»: Кристиан Бэйл сравнил «Невесту» с инди-фильмами",
+    "description": "По словам актёра, студия рискнула, сняв такой необычный фильм.",
+    "fullText": "По словам актёра, студия рискнула, сняв такой необычный фильм.",
+    "image": "https://leonardo.osnova.io/63c360f2-67bb-596d-b0f8-defb93368565/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4812187-kristian-bejl-sravnil-film-nevesta-s-indi-lenty?from=rss",
+    "time": "2026-02-27T13:33:45.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жеребьевка плей-офф ЛЧ: опять «Реал» – «Сити» и «ПСЖ» – «Челси». А «Буде-Глимт» пройдет «Спортинг»?",
-    "description": "«Ливерпуль» – в Турцию, «Барселона» – в Англию.",
-    "fullText": "«Ливерпуль» – в Турцию, «Барселона» – в Англию.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/e3/21e2f5ce64c0bafabeba3690160b3.jpeg",
+    "title": "Бобровского могут обменять. У «Флориды» неделя, чтобы спасти сезон",
+    "description": "Чемпион может не выйти в плей-офф.",
+    "fullText": "Чемпион может не выйти в плей-офф.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/8e/3b79e43ac4a7e989ed2172dfa02ee.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387541.html",
-    "time": "2026-02-27T12:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Metacritic удалил ИИ-обзор Resident Evil Requiem от вымышленного журналиста из VideoGamer",
-    "description": "Агрегатор отправил предупреждение изданиям о запрете таких статей.",
-    "fullText": "Агрегатор отправил предупреждение изданиям о запрете таких статей.",
-    "image": "https://leonardo.osnova.io/d5864305-8f81-56c7-ae34-80718c0728f8/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4811801-metacritic-udali-ii-obzor-resident-evil-requiem?from=rss",
-    "time": "2026-02-27T10:15:55.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3387067.html",
+    "time": "2026-02-27T12:45:00.000Z"
   }
 ]
