@@ -1,57 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин поручил создать в РФ исследовательские центры и испытательные полигоны",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Угадаете, с какой Олимпиады этот кадр?",
+    "description": "Вспоминаем зимние ОИ прошлого.",
+    "fullText": "Вспоминаем зимние ОИ прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/5d/5ad8d31d64e409d5c0e8b9012ad72.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26572145",
-    "time": "2026-02-27T07:32:19.000Z"
+    "url": "https://sirena.world/s4adsu",
+    "time": "2026-02-27T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тотальный Маккенни, сложная победа «Реала», герои камбэка «Аталанты». Тактика ЛЧ",
-    "description": "И трудности «ПСЖ».",
-    "fullText": "И трудности «ПСЖ».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c1/bac6b70204d5ebb97d062df630cf1.jpeg",
+    "title": "9 судей РПЛ и Первой лиги – под следствием. Что нужно знать",
+    "description": "Коррупционное дело.",
+    "fullText": "Коррупционное дело.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/96/933056316404bb2d6f838873d7c2a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387303.html",
-    "time": "2026-02-26T21:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» – «Челси»: кто победит в дерби? Проголосуйте",
-    "description": "В Пикере Спортса’’.",
-    "fullText": "В Пикере Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ad/510b8e1ba4c8092bbe8f35b1ce408.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/u3u83d",
-    "time": "2026-02-26T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Звезда «Рыцаря Семи Королевств» играл в регби за сборную Ирландии! Закончил карьеру из-за веселого нрава",
-    "description": "Бросил спорт – и не прогадал.",
-    "fullText": "Бросил спорт – и не прогадал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/01/0edfd2d0c4e15b523cdc0573d9ee4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3387061.html",
-    "time": "2026-02-26T20:59:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387412.html",
+    "time": "2026-02-26T23:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Страница Kena: Scars of Kosmora появилась в Steam — в описании заявлен полный перевод на русский язык",
-    "description": "Издателем адвенчуры выступит PlayStation.",
-    "fullText": "Издателем адвенчуры выступит PlayStation.",
-    "image": "https://leonardo.osnova.io/5b92febe-15cb-590d-89fe-007147707ce5/",
+    "title": "Анонсирована We Were Here Tomorrow — следующая часть в серии кооперативных головоломок",
+    "description": "Игра выйдет на ПК, PS5 и Xbox Series X|S.",
+    "fullText": "Игра выйдет на ПК, PS5 и Xbox Series X|S.",
+    "image": "https://leonardo.osnova.io/d23cbbc9-5d40-5f48-b9fb-b2bd233f4226/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4810461-kena-scars-of-kosmora-v-steam?from=rss",
-    "time": "2026-02-26T17:51:13.000Z"
+    "url": "https://dtf.ru/games/4810709-anons-we-were-here-tommorow?from=rss",
+    "time": "2026-02-26T19:18:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
