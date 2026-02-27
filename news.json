@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин ждет к апрелю предложений по ГОСТу на внутреннюю отделку новостроек",
+    "title": "Путин поручил создать в РФ исследовательские центры и испытательные полигоны",
     "description": "",
     "fullText": "",
     "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/26571135",
-    "time": "2026-02-27T06:38:43.000Z"
+    "url": "https://tass.ru/ekonomika/26572145",
+    "time": "2026-02-27T07:32:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Тотальный Маккенни, сложная победа «Реала», герои камбэка «Аталанты». Тактика ЛЧ",
+    "description": "И трудности «ПСЖ».",
+    "fullText": "И трудности «ПСЖ».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c1/bac6b70204d5ebb97d062df630cf1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387303.html",
+    "time": "2026-02-26T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2026-02-26T20:59:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я влюбился в КХЛ из-за «Спартака»",
-    "description": "Признание Артема Буторина.",
-    "fullText": "Признание Артема Буторина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/eb/0043245414b919c5f21095b975d9e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3386927.html",
-    "time": "2026-02-26T20:06:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Legacy of Kain: Defiance Remastered предоставит доступ к демо The Dark Prophecy — отменённой шестой части серии",
-    "description": "Переиздание выйдет уже 3 марта.",
-    "fullText": "Переиздание выйдет уже 3 марта.",
-    "image": "https://leonardo.osnova.io/3d5101d9-4765-5a54-a74d-4238d3f27fe2/-/format/mp4/",
+    "title": "Страница Kena: Scars of Kosmora появилась в Steam — в описании заявлен полный перевод на русский язык",
+    "description": "Издателем адвенчуры выступит PlayStation.",
+    "fullText": "Издателем адвенчуры выступит PlayStation.",
+    "image": "https://leonardo.osnova.io/5b92febe-15cb-590d-89fe-007147707ce5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4810129-legacy-of-kain-defiance-remastered-demo-the-dark-prophecy?from=rss",
-    "time": "2026-02-26T16:15:40.000Z"
+    "url": "https://dtf.ru/games/4810461-kena-scars-of-kosmora-v-steam?from=rss",
+    "time": "2026-02-26T17:51:13.000Z"
   }
 ]
