@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Израиле отменили все футбольные матчи, запланированные на 28 февраля",
-    "description": "В субботу вооруженные силы Израиля и США нанесли удары по территории Ирана",
-    "fullText": "В субботу вооруженные силы Израиля и США нанесли удары по территории Ирана",
+    "title": "Два человека погибли при атаке позиций шиитского ополчения в центре Ирака",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26585061",
-    "time": "2026-02-28T08:33:04.000Z"
+    "url": "https://tass.ru/proisshestviya/26586713",
+    "time": "2026-02-28T10:04:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Он стримил CS на морозе в минус 40. Поговорили с автором самых ледяных эфиров",
+    "description": "На связи Иван Kant0ka из Якутска.",
+    "fullText": "На связи Иван Kant0ka из Якутска.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/28/ed4f5ac27432ab847ba49c20e7c89.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3387419.html",
+    "time": "2026-02-28T09:12:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какой продукт Джокович прижимал к животу? От чего отказался Криштиану?",
-    "description": "Узнайте в новом тесте про еду.",
-    "fullText": "Узнайте в новом тесте про еду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c7/a7a258c9345dd8017c738a333991c.png",
+    "title": "Южное противостояние: «Краснодар» и «Ростов» бьются за победу",
+    "description": "Выбирайте фаворита с Лигой Ставок!",
+    "fullText": "Выбирайте фаворита с Лигой Ставок!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/65/aa9d2695b4833a27a4b74ecd2db86.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/o2kovj",
-    "time": "2026-02-28T04:30:00.000Z"
+    "url": "https://sirena.world/lslojs",
+    "time": "2026-02-28T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Исторический камбэк ЦСКА – отыгрались с 0:4 и победили",
-    "description": "Выдали невероятное.",
-    "fullText": "Выдали невероятное.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/22/3126be8f84d6c822307965ed47327.jpeg",
+    "title": "Усику настолько не с кем драться, что он проведет бой... с кикбоксером. Чего?",
+    "description": "Бокс у египетских пирамид.",
+    "fullText": "Бокс у египетских пирамид.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/40/b69bf69f94fc586ffae5ef092fc7f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3387658.html",
-    "time": "2026-02-27T22:30:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3387640.html",
+    "time": "2026-02-28T06:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На ПК и консолях вышла Resident Evil Requiem",
-    "description": "Онлайн в Steam уже превысил 260 тысяч игроков.",
-    "fullText": "Онлайн в Steam уже превысил 260 тысяч игроков.",
-    "image": "https://leonardo.osnova.io/f136effe-6af3-52eb-aced-dfa2ce03b5e4/",
+    "title": "Пляжи с пальмами и скалистые утёсы — Game Freak анонсировала Pokémon Winds и Pokémon Waves",
+    "description": "В трейлере показали стартовых покемонов десятого поколения.",
+    "fullText": "В трейлере показали стартовых покемонов десятого поколения.",
+    "image": "https://leonardo.osnova.io/44378d89-6990-5943-a764-91c3f20b6ae7/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4811455-resident-evil-requiem-vyshla-na-pk-i-konsolyakh?from=rss",
-    "time": "2026-02-27T06:22:18.000Z"
+    "url": "https://dtf.ru/games/4812368-anons-pokemon-winds-i-pokemon-waves-ot-game-freak?from=rss",
+    "time": "2026-02-27T15:03:17.000Z"
   }
 ]
