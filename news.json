@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Туроператоры РФ не отмечают массовых отмен туров на фоне ситуации в Иране",
+    "description": "Спрос на популярные направления, в частности ОАЭ, сохраняется",
+    "fullText": "Спрос на популярные направления, в частности ОАЭ, сохраняется",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26591279",
+    "time": "2026-02-28T15:33:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть в Аркаде",
     "description": "Раньше было ярче.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Трансферы «Спартака» после Федуна – катастрофа",
-    "description": "Исследование Андрея Савина.",
-    "fullText": "Исследование Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b6/8e2006186423389a48c5e8500fc0c.jpeg",
+    "title": "Чем сейчас занимается Лапорта?",
+    "description": "Жизнь перед выборами.",
+    "fullText": "Жизнь перед выборами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/2c/00d7e1bd94f169e7ec2c9637e37d4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385844.html",
-    "time": "2026-02-28T10:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387368.html",
+    "time": "2026-02-28T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4812337-quantic-dream-vypustila-moba-spellcasters-chronicles?from=rss",
     "time": "2026-02-27T14:49:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
