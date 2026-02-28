@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Футболисты \"Локомотива\" в меньшинстве обыграли \"Пари НН\" в матче РПЛ",
-    "description": "Встреча завершилась со счетом 2:1",
-    "fullText": "Встреча завершилась со счетом 2:1",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260228/8849151.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Арсенал» – «Челси»: кто победит в дерби? Проголосуйте",
+    "description": "В Пикере Спортса’’.",
+    "fullText": "В Пикере Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ad/510b8e1ba4c8092bbe8f35b1ce408.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/26591697",
-    "time": "2026-02-28T16:01:27.000Z"
+    "url": "https://sirena.world/u3u83d",
+    "time": "2026-02-28T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,17 +22,6 @@
     "time": "2026-02-28T11:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть в Аркаде",
-    "description": "Раньше было ярче.",
-    "fullText": "Раньше было ярче.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/1d30993774fc8be29d80e90327b46.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/siyghn",
-    "time": "2026-02-28T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Quantic Dream выпустила условно-бесплатную MOBA-игру Spellcasters Chronicles — её онлайн в Steam за первые сутки не превысил и тысячи человек",
     "description": "Отзывы от пользователей оказались «смешанными».",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4812337-quantic-dream-vypustila-moba-spellcasters-chronicles?from=rss",
     "time": "2026-02-27T14:49:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
