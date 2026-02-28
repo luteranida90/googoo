@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фильмы и книги с упоминанием наркотиков будут маркировать",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26593427",
-    "time": "2026-02-28T20:29:04.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Из CS и других игр требуют убрать лутбоксы. А что это и чем грозит?",
     "description": "На Valve подали в суд в США.",
@@ -19,7 +8,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3387281.html",
-    "time": "2026-02-28T17:08:00.000Z"
+    "time": "2026-03-01T17:08:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -30,18 +19,29 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/r2bw0n",
-    "time": "2026-02-28T15:30:00.000Z"
+    "time": "2026-03-01T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Топ-футбол выходных: дерби, дерби, дерби! Посмотрите все?",
-    "description": "Даже в Шотландии.",
-    "fullText": "Даже в Шотландии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4a/ed58cf5c3406a98449c788b6dea9d.jpeg",
+    "title": "Почему в РПЛ нет полуавтоматического офсайда?",
+    "description": "Больная тема.",
+    "fullText": "Больная тема.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/4c/6471e62074548a601c38d28e4c404.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387498.html",
-    "time": "2026-02-28T14:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387755.html",
+    "time": "2026-03-01T15:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Эксперт Кузник: операция против Ирана перевернула весь мировой порядок",
+    "description": "Директор Института ядерных исследований Американского университета в Вашингтоне полагает, что необходима смена режима в США и Израиле",
+    "fullText": "Директор Института ядерных исследований Американского университета в Вашингтоне полагает, что необходима смена режима в США и Израиле",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594159",
+    "time": "2026-02-28T21:24:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
