@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "КСИР: Иран поразил вспомогательный корабль ВМС США",
-    "description": "Другие морские ресурсы ВМС США в дальнейшем будут находиться в зоне поражения ракет",
-    "fullText": "Другие морские ресурсы ВМС США в дальнейшем будут находиться в зоне поражения ракет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590585",
-    "time": "2026-02-28T14:27:06.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть в Аркаде",
     "description": "Раньше было ярче.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4812337-quantic-dream-vypustila-moba-spellcasters-chronicles?from=rss",
     "time": "2026-02-27T14:49:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
