@@ -11,17 +11,6 @@
     "time": "2026-03-01T17:08:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я был толстым ребенком, любил чипсы и «Доту». Новая звезда русского грэпплинга",
-    "description": "Его зовут Николай Ветров.",
-    "fullText": "Его зовут Николай Ветров.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/77/45013285248dabebb09d56a3706fe.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3387348.html",
-    "time": "2026-03-01T16:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспоминаем легенд: чемпионский «Ювентус» 2010-х и «Реал» 2000-х. Назовете игроков тех времен?",
     "description": "Будет несложно.",
@@ -33,15 +22,26 @@
     "time": "2026-03-01T15:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все судейские скандалы рестарта РПЛ. Катастрофа",
+    "description": "Дождались.",
+    "fullText": "Дождались.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e2/96eb30d46429abf95478d5a11627a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387768.html",
+    "time": "2026-03-01T15:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В России обновляется порядок психиатрического освидетельствования работников",
-    "description": "Новые нормы позволяют значительно снизить число лиц, проходящих экспертизу",
-    "fullText": "Новые нормы позволяют значительно снизить число лиц, проходящих экспертизу",
+    "title": "В Иране заявили о 100 убитых детей при ударе Израиля и США по школе",
+    "description": "Число погибших гражданских, отметил постпред исламской республики при ООН",
+    "fullText": "Число погибших гражданских, отметил постпред исламской республики при ООН",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26593977",
-    "time": "2026-02-28T22:30:57.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594803",
+    "time": "2026-02-28T22:40:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
