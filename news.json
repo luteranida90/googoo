@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Матч женских сборных России и Танзании в ОАЭ начался по расписанию",
+    "description": "Встреча проходит в Шардже",
+    "fullText": "Встреча проходит в Шардже",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260228/8849321.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26592483",
+    "time": "2026-02-28T17:09:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Из CS и других игр требуют убрать лутбоксы. А что это и чем грозит?",
+    "description": "На Valve подали в суд в США.",
+    "fullText": "На Valve подали в суд в США.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/a0/7fe103bef43d6bd4d0c1405c4870c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3387281.html",
+    "time": "2026-02-28T17:08:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Арсенал» – «Челси»: кто победит в дерби? Проголосуйте",
     "description": "В Пикере Спортса’’.",
@@ -12,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как там Егор Дёмин на фоне лучших новичков НБА?",
-    "description": "Один из сильнейших.",
-    "fullText": "Один из сильнейших.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/04/f6bb73cff4d1c91db72491d0ac94e.png",
+    "title": "Его отец был звездой футбола, а потом приказал убить и скормить собакам его мать. Невероятная история вратаря «Ботафого»",
+    "description": "Денис Пузырев посмотрел кровавый бразильский сериал.",
+    "fullText": "Денис Пузырев посмотрел кровавый бразильский сериал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/2a/cc3bdf1624b2a9500da3c256a74c5.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3387620.html",
-    "time": "2026-02-28T11:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3387512.html",
+    "time": "2026-02-28T12:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4812337-quantic-dream-vypustila-moba-spellcasters-chronicles?from=rss",
     "time": "2026-02-27T14:49:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
