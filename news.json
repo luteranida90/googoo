@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп: ВС США могут понести еще большие потери",
-    "description": "Американский лидер привел информацию командования ВС о гибели троих военнослужащих",
-    "fullText": "Американский лидер привел информацию командования ВС о гибели троих военнослужащих",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603977",
-    "time": "2026-03-01T21:33:14.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
     "description": "Ищем отличников.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» продолжает побеждать – камбэк против «Пэлас», помогло удаление",
-    "description": "Уже третье место.",
-    "fullText": "Уже третье место.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/de/c9c81debe428f93e13b24b585dfad.jpeg",
+    "title": "Как там Егор Дёмин на фоне лучших новичков НБА?",
+    "description": "Один из сильнейших.",
+    "fullText": "Один из сильнейших.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/04/f6bb73cff4d1c91db72491d0ac94e.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387978.html",
-    "time": "2026-03-01T16:36:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3387620.html",
+    "time": "2026-03-01T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4812422-semki-seriala-po-god-of-war-nachalis-pervyi-vzglyad-na-glavnyh-geroev?from=rss",
     "time": "2026-02-27T15:06:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
