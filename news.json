@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "IRNA: тегеранская биржа приостановила торги до 7 марта",
-    "description": "Решение приняли в связи с военными действиями",
-    "fullText": "Решение приняли в связи с военными действиями",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26602101",
-    "time": "2026-03-01T16:54:24.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Играл и в «Арсенале», и в «Челси» – сколько таких футболистов вспомните?",
     "description": "Назовите самого редкого.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Овечкин забил – сразу дубль «Монреалю»! Два гола до 1000",
-    "description": "Наконец-то.",
-    "fullText": "Наконец-то.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/07/4b3d227ce4a06a8271a9d92e2a6be.jpeg",
+    "title": "«Бостон Селтикс» считают себя особенным клубом НБА. На самом деле это давно не так",
+    "description": "Билл Симмонс опять наврал.",
+    "fullText": "Билл Симмонс опять наврал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b8/ae6cc88ae473092dfc4b0a80f8146.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3387854.html",
-    "time": "2026-03-01T13:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3369633.html",
+    "time": "2026-03-01T13:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4812422-semki-seriala-po-god-of-war-nachalis-pervyi-vzglyad-na-glavnyh-geroev?from=rss",
     "time": "2026-02-27T15:06:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
