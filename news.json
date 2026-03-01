@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Профессор Сакс указал на зависимость от Вашингтона стран с военными базами США",
+    "description": "Экономист выступил с критикой государств, поддержавших удары по Ирану",
+    "fullText": "Экономист выступил с критикой государств, поддержавших удары по Ирану",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26595845",
+    "time": "2026-03-01T04:01:42.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Из CS и других игр требуют убрать лутбоксы. А что это и чем грозит?",
     "description": "На Valve подали в суд в США.",
@@ -8,7 +19,18 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3387281.html",
-    "time": "2026-03-01T17:08:00.000Z"
+    "time": "2026-02-28T17:08:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Я был толстым ребенком, любил чипсы и «Доту». Новая звезда русского грэпплинга",
+    "description": "Его зовут Николай Ветров.",
+    "fullText": "Его зовут Николай Ветров.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/77/45013285248dabebb09d56a3706fe.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3387348.html",
+    "time": "2026-02-28T16:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -19,29 +41,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/r2bw0n",
-    "time": "2026-03-01T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все судейские скандалы рестарта РПЛ. Катастрофа",
-    "description": "Дождались.",
-    "fullText": "Дождались.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e2/96eb30d46429abf95478d5a11627a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387768.html",
-    "time": "2026-03-01T15:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Иране заявили о 100 убитых детей при ударе Израиля и США по школе",
-    "description": "Число погибших гражданских, отметил постпред исламской республики при ООН",
-    "fullText": "Число погибших гражданских, отметил постпред исламской республики при ООН",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594803",
-    "time": "2026-02-28T22:40:46.000Z"
+    "time": "2026-02-28T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
