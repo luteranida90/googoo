@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ламменс – спасение «МЮ». Пришел вопреки Амориму и тащит команду",
-    "description": "Больше никаких привозов.",
-    "fullText": "Больше никаких привозов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/00/a9bc096a74cf59a20bad75d7fadee.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Севастополе в третий раз за день объявляли воздушную тревогу",
+    "description": "В городе приостанавливал движение общественный транспорт",
+    "fullText": "В городе приостанавливал движение общественный транспорт",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387871.html",
-    "time": "2026-03-01T11:45:00.000Z"
+    "url": "https://tass.ru/proisshestviya/26601031",
+    "time": "2026-03-01T15:11:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какого цвета Лондон? Проголосуйте",
-    "description": "В Пикере Спортса’’.",
-    "fullText": "В Пикере Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ad/510b8e1ba4c8092bbe8f35b1ce408.png",
+    "title": "Играл и в «Арсенале», и в «Челси» – сколько таких футболистов вспомните?",
+    "description": "Назовите самого редкого.",
+    "fullText": "Назовите самого редкого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/65/c9e28baf34409bb8aa96d97cbd511.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/u3u83d",
-    "time": "2026-03-01T11:30:00.000Z"
+    "url": "https://sirena.world/r58w11",
+    "time": "2026-03-01T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Интервью Даниила Фомина: почему у Карпина не получилось в «Динамо»?",
+    "description": "Узнавал Дорский.",
+    "fullText": "Узнавал Дорский.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/82/e7295789949c2a967786a72a29603.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387337.html",
+    "time": "2026-03-01T12:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4812201-sony-uluchshila-pssr-dlya-resident-evil-requiem-na-ps5-pro?from=rss",
     "time": "2026-02-27T13:35:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
