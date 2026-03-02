@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Иранец Махдави рассказал, что думает только о шахматах на фоне новостей о войне",
-    "description": "США и Израиль ранее начали военную операцию против Ирана",
-    "fullText": "США и Израиль ранее начали военную операцию против Ирана",
+    "title": "В Новороссийске после атаки БПЛА повреждена братская могила",
+    "description": "Кроме того, пострадали захоронения местных жителей",
+    "fullText": "Кроме того, пострадали захоронения местных жителей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26614821",
-    "time": "2026-03-02T12:44:35.000Z"
+    "url": "https://tass.ru/proisshestviya/26617107",
+    "time": "2026-03-02T14:36:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Какому приему пищи лыжник Легков отдает приоритет? Узнайте в нашем тесте",
+    "description": "Про еду и спортсменов.",
+    "fullText": "Про еду и спортсменов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/f912cdfe54e12a68e9fb8db791544.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/o2kovj",
+    "time": "2026-03-02T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +33,25 @@
     "time": "2026-03-02T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых! Сейчас такой можно выиграть в Аркаде",
-    "description": "Раньше было ярче.",
-    "fullText": "Раньше было ярче.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/1d30993774fc8be29d80e90327b46.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/siyghn",
-    "time": "2026-03-02T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«После слов Тюкавина понял, что не все игроки имеют футбольное уважение». Интервью Даниила Денисова",
-    "description": "О хейте, Тренте и любви к «Спартаку».",
-    "fullText": "О хейте, Тренте и любви к «Спартаку».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/c6/b7c5a62824125bc2aec2874d7391d.jpeg",
+    "title": "«Арсенал» победил «Челси» в дерби угловых. Жовер и Куэва затмили Артету и Росеньора",
+    "description": "Разбор Палагина и Лукомского.",
+    "fullText": "Разбор Палагина и Лукомского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/83/98deae4024d2ca23b0e4504fe0694.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386717.html",
-    "time": "2026-03-02T08:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3388069.html",
+    "time": "2026-03-02T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Онлайн Resident Evil Requiem в Steam превысил 340 тысяч одновременных игроков — это четвёртый результат для Capcom",
-    "description": "Очередной успех для франшизы.",
-    "fullText": "Очередной успех для франшизы.",
-    "image": "https://leonardo.osnova.io/25dbc2ef-c8aa-5f5f-9366-f416f22421a9/",
+    "title": "Сценарист указал в резюме, что Santa Monica работает над «новой франшизой во вселенной God of War»",
+    "description": "Инсайдеры утверждают, что это игра про Фэй.",
+    "fullText": "Инсайдеры утверждают, что это игра про Фэй.",
+    "image": "https://leonardo.osnova.io/6f1a3e34-a78d-5a02-a5b4-d7318b2b8b47/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4816053-resident-evil-requiem-v-steam-344-tysyachi-igrokov?from=rss",
-    "time": "2026-03-01T10:23:35.000Z"
+    "url": "https://dtf.ru/games/4817999-santa-monica-novaya-franshiza-god-of-war?from=rss",
+    "time": "2026-03-02T05:59:12.000Z"
   }
 ]
