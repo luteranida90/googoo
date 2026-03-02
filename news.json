@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ульянов: Запад отказывает Ирану в праве на мирный атом",
-    "description": "",
-    "fullText": "",
+    "title": "Балльную систему оценки локализации могут ввести для видеокамер и регистраторов",
+    "description": "Минпромторг предложил ввести ее с 1 января 2027 года",
+    "fullText": "Минпромторг предложил ввести ее с 1 января 2027 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26619539",
-    "time": "2026-03-02T17:32:32.000Z"
+    "url": "https://tass.ru/ekonomika/26620171",
+    "time": "2026-03-02T18:59:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "ВАР-бинго! Судьи во всех 8 матчах тура РПЛ ходили к монитору",
+    "description": "Впервые в истории.",
+    "fullText": "Впервые в истории.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/6d/ca541c13b4a3ca872faf18a72e08a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3388184.html",
+    "time": "2026-03-02T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-02T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как же не верят в действующего чемпиона «Ф-1»! Рекорд низких предсезонных котировок за 16 лет",
-    "description": "Почему Норрис не фаворит?",
-    "fullText": "Почему Норрис не фаворит?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/da/207e098ce40f3bc1daa92191556cd.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3386880.html",
-    "time": "2026-03-02T12:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Square Enix добилась закрытия японского блога, в котором «порочили репутацию сотрудников компании»",
-    "description": "И это, судя по всему, только начало.",
-    "fullText": "И это, судя по всему, только начало.",
-    "image": "https://leonardo.osnova.io/3cb22b87-bec6-530f-8d2d-8f508b3b822b/",
+    "title": "Фанаты разрабатывают HD-ремейк Mortal Kombat Trilogy — они обновляют спрайты с помощью ИИ",
+    "description": "На данный момент готовы десять персонажей.",
+    "fullText": "На данный момент готовы десять персонажей.",
+    "image": "https://leonardo.osnova.io/80a2ffca-8318-59ee-9185-c478434cc034/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4818707-square-enix-zakryvaet-blog-za-porochashchie-reputatsiyu-materialy?from=rss",
-    "time": "2026-03-02T11:47:50.000Z"
+    "url": "https://dtf.ru/games/4818267-fanaty-sozdaiut-hd-remeik-mortal-kombat-trilogy?from=rss",
+    "time": "2026-03-02T08:48:47.000Z"
   }
 ]
