@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Большинство пассажиров летящего в Москву рейса из Дубая являются гражданами РФ",
-    "description": "Они должны были следовать рейсами с 28 февраля",
-    "fullText": "Они должны были следовать рейсами с 28 февраля",
+    "title": "В Казани открылся первый международный конкурс красоты БРИКС",
+    "description": "Он продлится до 8 марта",
+    "fullText": "Он продлится до 8 марта",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26620835",
-    "time": "2026-03-02T20:14:56.000Z"
+    "url": "https://tass.ru/obschestvo/26621203",
+    "time": "2026-03-02T21:26:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Обладатель Кубка Стэнли может не выйти в плей-офф! Такое вообще было?",
+    "description": "«Флорида» в опасности.",
+    "fullText": "«Флорида» в опасности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/d0/1515c46c24d9eb0677021b118a002.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3388080.html",
+    "time": "2026-03-02T16:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/r58w11",
     "time": "2026-03-02T16:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ВАР-бинго! Судьи во всех 8 матчах тура РПЛ ходили к монитору",
-    "description": "Впервые в истории.",
-    "fullText": "Впервые в истории.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/6d/ca541c13b4a3ca872faf18a72e08a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3388184.html",
-    "time": "2026-03-02T14:20:00.000Z"
   }
 ]
