@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Балльную систему оценки локализации могут ввести для видеокамер и регистраторов",
-    "description": "Минпромторг предложил ввести ее с 1 января 2027 года",
-    "fullText": "Минпромторг предложил ввести ее с 1 января 2027 года",
+    "title": "Большинство пассажиров летящего в Москву рейса из Дубая являются гражданами РФ",
+    "description": "Они должны были следовать рейсами с 28 февраля",
+    "fullText": "Они должны были следовать рейсами с 28 февраля",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26620171",
-    "time": "2026-03-02T18:59:31.000Z"
+    "url": "https://tass.ru/obschestvo/26620835",
+    "time": "2026-03-02T20:14:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Nacon перенесла свою игровую презентацию с марта на май после сообщений о финансовых проблемах",
+    "description": "Издатель пообещал, что разберётся с трудностями.",
+    "fullText": "Издатель пообещал, что разберётся с трудностями.",
+    "image": "https://leonardo.osnova.io/d5f4efff-c67e-53c1-8ddf-8c6de1cadf41/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4819264-nacon-perenesla-prezentatsiyu-na-mai-iz-za-finansovykh-problem?from=rss",
+    "time": "2026-03-02T16:16:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Играл и в «Арсенале», и в «Интере» – кто, кроме Мхитаряна?",
+    "description": "Вспомните футболиста.",
+    "fullText": "Вспомните футболиста.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/13/0a1ecece64b308ba1b958463a5515.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r58w11",
+    "time": "2026-03-02T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3388184.html",
     "time": "2026-03-02T14:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какому приему пищи лыжник Легков отдает приоритет? Узнайте в нашем тесте",
-    "description": "Про еду и спортсменов.",
-    "fullText": "Про еду и спортсменов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/f912cdfe54e12a68e9fb8db791544.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/o2kovj",
-    "time": "2026-03-02T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фанаты разрабатывают HD-ремейк Mortal Kombat Trilogy — они обновляют спрайты с помощью ИИ",
-    "description": "На данный момент готовы десять персонажей.",
-    "fullText": "На данный момент готовы десять персонажей.",
-    "image": "https://leonardo.osnova.io/80a2ffca-8318-59ee-9185-c478434cc034/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4818267-fanaty-sozdaiut-hd-remeik-mortal-kombat-trilogy?from=rss",
-    "time": "2026-03-02T08:48:47.000Z"
   }
 ]
