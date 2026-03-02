@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Кировской области завели дело после смерти женщины из-за схода снега с крыши",
-    "description": "ЧП произошло в Нолинском районе",
-    "fullText": "ЧП произошло в Нолинском районе",
+    "title": "Минфин заявил о росте перетока средств граждан со вкладов на фондовый рынок",
+    "description": "По словам министра финансов Антона Силуанова, сегодня основной инструмент сбережений - это вклад в банке",
+    "fullText": "По словам министра финансов Антона Силуанова, сегодня основной инструмент сбережений - это вклад в банке",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26612341",
-    "time": "2026-03-02T11:18:17.000Z"
+    "url": "https://tass.ru/ekonomika/26611549",
+    "time": "2026-03-02T11:46:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«Спартак» еще ни разу не побеждал в Сочи. Получится сегодня?",
+    "description": "Забирайте эксклюзивные бонусы к матчу дня.",
+    "fullText": "Забирайте эксклюзивные бонусы к матчу дня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/6f/469716ec345679d31d642bc088042.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/1b3ms3",
+    "time": "2026-03-02T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новый триллер «Юве»: камбэк с 1:3 против «Ромы», спасительный гол на 90+3",
+    "description": "Выжили в гонке за ЛЧ.",
+    "fullText": "Выжили в гонке за ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/33/f3207054d4ca6838a21da928ac2d8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3388075.html",
+    "time": "2026-03-02T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +44,14 @@
     "time": "2026-03-02T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Малкин, Бобровский, Михеев: кого из русских могут обменять в дедлайн НХЛ?",
-    "description": "Меньше недели до закрытия рынка.",
-    "fullText": "Меньше недели до закрытия рынка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/6f/4cfcff12a49b58dab442563ec16a1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3387893.html",
-    "time": "2026-03-02T06:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bungie обозначила темы, по которым изучает отзывы игроков в Marathon — среди них есть интерфейс и производительность на ПК",
-    "description": "Студия попросила фанатов делиться мнением.",
-    "fullText": "Студия попросила фанатов делиться мнением.",
-    "image": "https://leonardo.osnova.io/03a5934b-5bf7-5447-b00d-548a1a52e278/",
+    "title": "Онлайн Resident Evil Requiem в Steam превысил 340 тысяч одновременных игроков — это четвёртый результат для Capcom",
+    "description": "Очередной успех для франшизы.",
+    "fullText": "Очередной успех для франшизы.",
+    "image": "https://leonardo.osnova.io/25dbc2ef-c8aa-5f5f-9366-f416f22421a9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4816122-bungie-izuchayet-otzyvy-igrokov-o-marathon?from=rss",
-    "time": "2026-03-01T11:27:01.000Z"
+    "url": "https://dtf.ru/games/4816053-resident-evil-requiem-v-steam-344-tysyachi-igrokov?from=rss",
+    "time": "2026-03-01T10:23:35.000Z"
   }
 ]
