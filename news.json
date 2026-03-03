@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Запорожье призвали волонтеров регистрироваться на \"Добро.рф\" в поездках",
-    "description": "Это поможет получить оперативную поддержку от властей региона",
-    "fullText": "Это поможет получить оперативную поддержку от властей региона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26631597",
-    "time": "2026-03-03T13:49:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Гордон или огненный Шешко? Успейте выбрать игроков",
     "description": "Новый тур АПЛ уже сегодня.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "20 достижений Егора Дёмина к 20 годам",
-    "description": "Впереди еще больше.",
-    "fullText": "Впереди еще больше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/40/10ec11cc4422aa02bb929cf35242e.jpeg",
+    "title": "«Эдмонтон» в тройке самых прибыльных клубов мира. Как?!",
+    "description": "Специфика хоккейных доходов.",
+    "fullText": "Специфика хоккейных доходов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/b0/d50d85fd64f6eaacd10a230f2eaa3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3388361.html",
-    "time": "2026-03-03T09:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3387441.html",
+    "time": "2026-03-03T10:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Во что поиграть: главные релизы марта 2026",
-    "description": "Строим планы на первый месяц весны.",
-    "fullText": "Строим планы на первый месяц весны.",
-    "image": "https://leonardo.osnova.io/2bbd5d9e-b55d-5b23-b70c-c2eda77c151e/",
+    "title": "Marathon, Burglin&#039; Gnomes и Windrose: Valve раскрыла самые популярные демо фестиваля «Играм быть»",
+    "description": "Ожидаемо, лидируют в основном кооперативные игры.",
+    "fullText": "Ожидаемо, лидируют в основном кооперативные игры.",
+    "image": "https://leonardo.osnova.io/d208e1d1-5bd7-5f36-9413-fd7c96c81e46/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4816694-vo-chto-poigrat-v-marte-2026-glavnie-relezi?from=rss",
-    "time": "2026-03-02T20:04:31.000Z"
+    "url": "https://dtf.ru/games/4820591-marathon-burglin-gnomes-windrose-samye-populyarnye-demo-festivala?from=rss",
+    "time": "2026-03-03T08:59:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
