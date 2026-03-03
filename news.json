@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Генерал Картер: союзники США опасаются нехватки боеприпасов для Украины",
-    "description": "При этом бывший начштаба обороны Великобритании со скепсисом отозвался о возможности смены власти в Иране без наземной операции",
-    "fullText": "При этом бывший начштаба обороны Великобритании со скепсисом отозвался о возможности смены власти в Иране без наземной операции",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26621575",
-    "time": "2026-03-02T22:59:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете, с какой Олимпиады этот кадр?",
     "description": "Вспоминаем яркие моменты зимних ОИ.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4819264-nacon-perenesla-prezentatsiyu-na-mai-iz-za-finansovykh-problem?from=rss",
     "time": "2026-03-02T16:16:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
