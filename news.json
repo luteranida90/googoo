@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Несколько сотен человек собрались у посольства США в Риме на акцию протеста",
-    "description": "На митинге осуждали \"империалистическую политику\" Вашингтона и действия правительства Италии",
-    "fullText": "На митинге осуждали \"империалистическую политику\" Вашингтона и действия правительства Италии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26635957",
-    "time": "2026-03-03T21:01:20.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В The Sims 4 появится торговая площадка для создателей контента",
     "description": "Делать покупки на ней придётся с новой внутриигровой валютой.",
@@ -20,6 +9,17 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4821988-torgovaya-ploshchadka-v-the-sims-4?from=rss",
     "time": "2026-03-03T19:53:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Каждый второй ошибается в написании этого клуба, хотя они регулярно играют в еврокубках. Вы справитесь?",
+    "description": "Даже брали ЛЕ.",
+    "fullText": "Даже брали ЛЕ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/23/91c13c8f049098d124c95799e490a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-03-03T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -33,14 +33,14 @@
     "time": "2026-03-03T16:11:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "АПЛ сегодня! Угадаете победителей во всех матчах?",
-    "description": "Быстро пропикайте новый тур.",
-    "fullText": "Быстро пропикайте новый тур.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/6c/63fffd7e048daaf53595fd6d1159b.png",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://sirena.world/u3u83d",
-    "time": "2026-03-03T16:00:00.000Z"
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
