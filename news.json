@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "КСИР заявил об ударе по дата-центру Amazon в Бахрейне",
-    "description": "Центр обработки данных компании является крупнейшим на Ближнем Востоке",
-    "fullText": "Центр обработки данных компании является крупнейшим на Ближнем Востоке",
+    "title": "После ДТП с гибелью ребенка в Домодедове завели дело",
+    "description": "Авария произошла на 42-м км автодороги М-4 \"Дон\"",
+    "fullText": "Авария произошла на 42-м км автодороги М-4 \"Дон\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26653775",
-    "time": "2026-03-04T20:31:18.000Z"
+    "url": "https://tass.ru/proisshestviya/26654021",
+    "time": "2026-03-04T21:04:43.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-03-04T19:15:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Бывшие сотрудники Humble Games выкупили издательство и объявили о его ребрендинге",
+    "description": "Компания будет специализироваться на выпуске «крупных инди-игр».",
+    "fullText": "Компания будет специализироваться на выпуске «крупных инди-игр».",
+    "image": "https://leonardo.osnova.io/a0ec02ea-8ac1-5431-8764-8eeeca96450d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4824101-humble-games-teper-banor-games?from=rss",
+    "time": "2026-03-04T18:38:02.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlb3Nw",
     "title": "«Краснодар». Путь к чемпионству» – важнейшая документалка теперь и на ВидеоСпортсе’’",
     "description": "Дорога к титулу изнутри.",
@@ -33,25 +44,14 @@
     "time": "2026-03-04T18:25:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Звезда «Богемской рапсодии» Люси Бойтон присоединилась к актёрскому составу второго сезона «Рыцаря Семи королевств»",
-    "description": "В сериале также появятся Питер Муллан и Бабу Сизей.",
-    "fullText": "В сериале также появятся Питер Муллан и Бабу Сизей.",
-    "image": "https://leonardo.osnova.io/d9207832-8085-5905-8f9e-624e7ad60daa/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4823886-lyusi-boyton-v-rytsare-semi-korolevstv?from=rss",
-    "time": "2026-03-04T17:09:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Газета Роналду устроила скандал: в правительстве потратили 20к евро на футбольное ТВ!",
-    "description": "Их нравы.",
-    "fullText": "Их нравы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/23/44d18ee4b4252b7bff8e5a3f92173.jpeg",
+    "title": "«Лига 1 – дерьмовый чемпионат!» и другие скандалы экс-президента «Марселя»",
+    "description": "От футбольного симулятора до президента «Марселя».",
+    "fullText": "От футбольного симулятора до президента «Марселя».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/fa/1c7c8b4564d49ae22cc8c0d7df855.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386984.html",
-    "time": "2026-03-04T16:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3388596.html",
+    "time": "2026-03-04T16:30:00.000Z"
   }
 ]
