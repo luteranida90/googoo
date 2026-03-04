@@ -1,14 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В The Sims 4 появится торговая площадка для создателей контента",
-    "description": "Делать покупки на ней придётся с новой внутриигровой валютой.",
-    "fullText": "Делать покупки на ней придётся с новой внутриигровой валютой.",
-    "image": "https://leonardo.osnova.io/93fa91a7-daa4-5dd3-a443-665e99f53726/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4821988-torgovaya-ploshchadka-v-the-sims-4?from=rss",
-    "time": "2026-03-03T19:53:25.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Вероятный преемник Хаменеи и ситуация на базах США. Конфликт на Ближнем Востоке",
+    "description": "Моджтаба Хаменеи, сын погибшего верховного лидера Ирана, стал наиболее вероятным кандидатом в преемники своего отца, передает NYT",
+    "fullText": "Моджтаба Хаменеи, сын погибшего верховного лидера Ирана, стал наиболее вероятным кандидатом в преемники своего отца, передает NYT",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26639565",
+    "time": "2026-03-04T07:01:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как сделать хоккей в КХЛ зрелищнее и интереснее. Объясняет Илья Воробьев",
+    "description": "Атака решает.",
+    "fullText": "Атака решает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/82/47f5e111042289ee8943b9c607dd1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3388471.html",
+    "time": "2026-03-03T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-03T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рюдигер ударил коленом в лицо соперника – даже не желтая. «Хетафе» в ярости",
-    "description": "Умышленно ли?",
-    "fullText": "Умышленно ли?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/89/ff56b35de438eb70d2a9a42ce9623.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3388484.html",
-    "time": "2026-03-03T18:33:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "СМИ: сценарист «Андора» работает над фильмом по «Игре престолов»",
+    "description": "В нём расскажут об Эйгоне I Завоевателе.",
+    "fullText": "В нём расскажут об Эйгоне I Завоевателе.",
+    "image": "https://leonardo.osnova.io/f066a5ac-8076-5fe6-b23c-d021c38fa7e4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4821620-scenarist-andora-bo-uillimon-film-igre-prestolov?from=rss",
+    "time": "2026-03-03T17:28:11.000Z"
   }
 ]
