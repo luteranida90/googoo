@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В 2025 году в Москве зафиксировано намного меньше убийств, чем в год Олимпиады-80",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26645663",
+    "time": "2026-03-04T11:20:54.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадайте топ-клуб по подарку и забирайте секретный промокод",
     "description": "К 8 марта.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я нырнула под лед Байкала в минус 20 🥶🥶🥶",
-    "description": "Морозный репортаж Селенковой.",
-    "fullText": "Морозный репортаж Селенковой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/2c/f47d0ad1a48a89957a1115314c9e6.jpeg",
+    "title": "«Формула-1» снова перепридумала себя! Зачем нужны изменения каждые 5 лет?",
+    "description": "Артем Рубанков – о важности перемен.",
+    "fullText": "Артем Рубанков – о важности перемен.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2b/b6f6109d64b3d8f9c5b19d17d02c9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3388412.html",
-    "time": "2026-03-04T06:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3382238.html",
+    "time": "2026-03-04T06:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crimson Desert добавили в списки желаемого более трёх миллионов раз",
-    "description": "Релиз игры состоится уже 19 марта.",
-    "fullText": "Релиз игры состоится уже 19 марта.",
-    "image": "https://leonardo.osnova.io/538267e3-6dad-5eaa-abbe-d1a34571b1b1/",
+    "title": "Resident Evil Requiem удержала лидерство в чарте Steam среди платных игр, а Marathon заняла шестое место",
+    "description": "В топ-10 вернулись Kingdom Come: Deliverance II и Space Marine 2.",
+    "fullText": "В топ-10 вернулись Kingdom Come: Deliverance II и Space Marine 2.",
+    "image": "https://leonardo.osnova.io/a939f0e9-a130-5fa6-8d0d-648c8630a918/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4821716-crimson-desert-dobavili-v-spiski-zhelaemogo-bolshe-3-millionov-raz?from=rss",
-    "time": "2026-03-03T19:35:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4822026-resident-evil-requiem-liderstvo-steam-marathon-shestoe-mesto?from=rss",
+    "time": "2026-03-03T20:16:52.000Z"
   }
 ]
