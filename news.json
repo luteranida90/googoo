@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Посол в РФ: внешняя политика Ирана и впредь будет опираться на наследие Хаменеи",
-    "description": "Казем Джалали назвал верховного лидера Ирана великим архитектором",
-    "fullText": "Казем Джалали назвал верховного лидера Ирана великим архитектором",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260304/8856431.jpg",
+    "title": "Сенатор Гибатдинов предложил перейти от ОГЭ/ЕГЭ к старой экзаменационной системе",
+    "description": "Такую инициативу он предложил вместо обязательного устного экзамена по истории, который введут для девятиклассников в 2027-2028 году",
+    "fullText": "Такую инициативу он предложил вместо обязательного устного экзамена по истории, который введут для девятиклассников в 2027-2028 году",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26637783",
-    "time": "2026-03-04T03:46:52.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В The Sims 4 появится торговая площадка для создателей контента",
-    "description": "Делать покупки на ней придётся с новой внутриигровой валютой.",
-    "fullText": "Делать покупки на ней придётся с новой внутриигровой валютой.",
-    "image": "https://leonardo.osnova.io/93fa91a7-daa4-5dd3-a443-665e99f53726/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4821988-torgovaya-ploshchadka-v-the-sims-4?from=rss",
-    "time": "2026-03-03T19:53:25.000Z"
+    "url": "https://tass.ru/obschestvo/26638429",
+    "time": "2026-03-04T05:08:26.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что вы пропустили в 28-м туре АПЛ: «Энфилд» поет на языке жестов, «Эвертон» забивает задницей 🍑",
-    "description": "И ни слова о статистике угловых «Арсенала».",
-    "fullText": "И ни слова о статистике угловых «Арсенала».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/80/4d2301e204152a437730fcc2e3f66.jpeg",
+    "title": "«Хочется, чтобы Этери не забронзовела». Мысли Игоря Порошина о фигурном катании",
+    "description": "Гость «Чистого хвоста».",
+    "fullText": "Гость «Чистого хвоста».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/3d/cf8da657c49b78834b222d451803b.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3385692.html",
-    "time": "2026-03-03T17:35:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3388367.html",
+    "time": "2026-03-03T18:04:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Бесплатные оболочки, снаряжение, зоны, ивенты и другой контент: Bungie рассказала о сезонах в Marathon",
+    "description": "Они будут идти примерно по три месяца.",
+    "fullText": "Они будут идти примерно по три месяца.",
+    "image": "https://leonardo.osnova.io/0543e6af-2254-520d-9328-96baec893bb9/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4821618-sezony-v-marathon-besplatnye-obolochki-snarjazhenie-i-iventy-ot-bungie?from=rss",
+    "time": "2026-03-03T17:00:02.000Z"
   }
 ]
