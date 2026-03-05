@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Киеве с памятника академику Патону сбили советскую символику",
+    "description": "Ректор украинской Национальной академии музыки Максим Тимошенко назвал это актом вандализма",
+    "fullText": "Ректор украинской Национальной академии музыки Максим Тимошенко назвал это актом вандализма",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26666179",
+    "time": "2026-03-05T12:45:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Динамо» против «Спартака» в кубковом поединке",
     "description": "Сделайте ставку с фрибетом от Лиги Ставок!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Только одна команда играла в футбол». Тренер «Брайтона» проехался по стилю Артеты",
-    "description": "Не хочет побеждать так.",
-    "fullText": "Не хочет побеждать так.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/f4/91f5251954be188ae6a215d01c8d3.jpeg",
+    "title": "Кто начнет сезон «Ф-1» с победы? Непривычный топ фаворитов",
+    "description": "Расклады на Гран-при Австралии.",
+    "fullText": "Расклады на Гран-при Австралии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/75/777a48ee34458aa1f1f6605189252.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3388803.html",
-    "time": "2026-03-05T07:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3388430.html",
+    "time": "2026-03-05T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4824273-tizer-seriala-fonari?from=rss",
     "time": "2026-03-04T19:12:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
