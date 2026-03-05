@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВТБ: российские банки в феврале сократили выдачи ипотеки на 28%",
-    "description": "Всего с начала года объем выдач жилищных кредитов составил около 722 млрд рублей, сообщает кредитная организация",
-    "fullText": "Всего с начала года объем выдач жилищных кредитов составил около 722 млрд рублей, сообщает кредитная организация",
+    "title": "Новосибирский драмтеатр представит мюзикл по повести Лескова при участии ИИ",
+    "description": "Речь идет о произведении \"Левша\"",
+    "fullText": "Речь идет о произведении \"Левша\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/26656649",
-    "time": "2026-03-05T05:02:10.000Z"
+    "url": "https://tass.ru/kultura/26657899",
+    "time": "2026-03-05T07:11:31.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlb3Nw",
@@ -22,6 +22,17 @@
     "time": "2026-03-04T22:11:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Они отказывались от ЧМ сами: из-за бойкотов, денег и обиды",
+    "description": "Все случаи.",
+    "fullText": "Все случаи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/20/53d3150314c5bbe21072e8f0a59c5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3387899.html",
+    "time": "2026-03-04T21:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадаете Олимпиады по их талисманам? Сочи-2014 – легко, а Ванкувер-2010?",
     "description": "Проверьте себя.",
@@ -33,25 +44,14 @@
     "time": "2026-03-04T21:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Большунов, наконец, дал интервью. Приветы Елене Вяльбе, сервисерам и FIS",
-    "description": "«Ни на кого не обижаюсь».",
-    "fullText": "«Ни на кого не обижаюсь».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/57/0f12e8dc54bb79907af110eaa053f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3388660.html",
-    "time": "2026-03-04T20:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я устал повторяться»: в Pearl Abyss заявили, что не скрывают консольный геймплей Crimson Desert",
-    "description": "Его точно покажут до релиза.",
-    "fullText": "Его точно покажут до релиза.",
-    "image": "https://leonardo.osnova.io/62faf51e-9ab0-577b-8b87-50ccc93628a3/",
+    "title": "Konami уточнила, что Castlevania: Belmont&#039;s Curse не будет «роглайком» или «роглайтом»",
+    "description": "А привычный 2D-экшен с исследованием локаций.",
+    "fullText": "А привычный 2D-экшен с исследованием локаций.",
+    "image": "https://leonardo.osnova.io/b301c4b9-effd-59d7-b01d-c1fc02975d15/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4823823-konsolnyy-geympley-crimson-desert-ot-pearl-abyss?from=rss",
-    "time": "2026-03-04T16:38:51.000Z"
+    "url": "https://dtf.ru/games/4824137-castlevania-belmonts-curse-ne-budet-roglajkom?from=rss",
+    "time": "2026-03-04T18:29:04.000Z"
   }
 ]
