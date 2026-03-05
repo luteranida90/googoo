@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве с памятника академику Патону сбили советскую символику",
-    "description": "Ректор украинской Национальной академии музыки Максим Тимошенко назвал это актом вандализма",
-    "fullText": "Ректор украинской Национальной академии музыки Максим Тимошенко назвал это актом вандализма",
+    "title": "Алиев: за нападением на посольство Азербайджана в Тегеране стояли спецслужбы Ирана",
+    "description": "Теракт произошел в январе 2023 года",
+    "fullText": "Теракт произошел в январе 2023 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26666179",
-    "time": "2026-03-05T12:45:28.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26667245",
+    "time": "2026-03-05T13:48:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Сельта» ищет футболку Мадонны с концерта в Виго – почти через 36 лет. Обратилась даже президент Моуринью!",
+    "description": "Подключили весь интернет.",
+    "fullText": "Подключили весь интернет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/35/c8399a8904651a8abad55a4278b71.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3388676.html",
+    "time": "2026-03-05T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-05T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто начнет сезон «Ф-1» с победы? Непривычный топ фаворитов",
-    "description": "Расклады на Гран-при Австралии.",
-    "fullText": "Расклады на Гран-при Австралии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/75/777a48ee34458aa1f1f6605189252.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3388430.html",
-    "time": "2026-03-05T08:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Твоё время на исходе»: первый тизер сериала «Фонари»",
-    "description": "Шоу стартует в августе.",
-    "fullText": "Шоу стартует в августе.",
-    "image": "https://leonardo.osnova.io/6b6759ed-3648-5e66-b3c5-ba8a8314c9e0/-/format/mp4/",
+    "title": "Приквел «Одиннадцати друзей Оушена» с Марго Робби лишился режиссёра",
+    "description": "Ли Айзек Чун покинул проект из-за творческих разногласий.",
+    "fullText": "Ли Айзек Чун покинул проект из-за творческих разногласий.",
+    "image": "https://leonardo.osnova.io/d0d68343-2024-5185-b9fd-865f4742fca4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4824273-tizer-seriala-fonari?from=rss",
-    "time": "2026-03-04T19:12:00.000Z"
+    "url": "https://dtf.ru/cinema/4824804-prikvel-odinnadtsati-druzey-oushena-bez-rezhissora?from=rss",
+    "time": "2026-03-05T05:58:39.000Z"
   }
 ]
