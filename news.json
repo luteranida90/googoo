@@ -1,25 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В раннем доступе вышла Slay the Spire 2",
-    "description": "По цене в 1099 рублей.",
-    "fullText": "По цене в 1099 рублей.",
-    "image": "https://leonardo.osnova.io/5ff37d77-5695-50d7-95e7-4c60c16ea61b/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4826410-ranij-dostup-slay-the-spire-2?from=rss",
-    "time": "2026-03-05T19:30:01.000Z"
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Эндрик с «Лионом» бьется за полуфинал Кубка – против местной сенсации. Смотрим на ВидеоСпортсе’’ с Денисовым",
+    "description": "В совместной трансляции с ТВ Старт.",
+    "fullText": "В совместной трансляции с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/7e/f121e42ec4be288c6465a482269ec.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/TO5ePD1QQRhCfLAaTjm7DBN1KzSJlyoUEgxtbPEQhF4",
+    "time": "2026-03-05T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Клуб НХЛ \"Нью-Джерси\" поместил на драфт отказов Дадонова и Цыплакова",
-    "description": "В течение 24 часов любая команда НХЛ может забрать игроков с драфта отказа",
-    "fullText": "В течение 24 часов любая команда НХЛ может забрать игроков с драфта отказа",
+    "title": "Главы МИД ЛАГ проведут экстренное заседание 8 марта",
+    "description": "По информации агентства MENA, министры обсудят агрессию Ирана против некоторых арабских стран",
+    "fullText": "По информации агентства MENA, министры обсудят агрессию Ирана против некоторых арабских стран",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/26670691",
-    "time": "2026-03-05T19:18:53.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26670905",
+    "time": "2026-03-05T20:05:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9hbmtldG9s",
+    "title": "Помогите сделать интерфейсы Спортса’’ лучше!",
+    "description": "Короткий опрос.",
+    "fullText": "Короткий опрос.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/b7/7f79970cf45e6ac43d5a44fe2e7ff.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://anketolog.ru/rs/1007041/V6Kqudks",
+    "time": "2026-03-05T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -31,6 +42,17 @@
     "category": "all",
     "url": "https://sirena.world/siyghn",
     "time": "2026-03-05T19:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Apple Music добавит систему метаданных, с помощью которой лейблы и дистрибьюторы музыки должны будут помечать ИИ-контент",
+    "description": "В том числе фрагменты композиций, тексты песен, обложки и видео.",
+    "fullText": "В том числе фрагменты композиций, тексты песен, обложки и видео.",
+    "image": "https://leonardo.osnova.io/289fa74c-5e7a-520a-9855-3740a91a4a28/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/music/4826312-apple-music-metadata-ii-kontent?from=rss",
+    "time": "2026-03-05T18:28:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlb3Nw",
@@ -56,13 +78,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Журавель – как понять Англию. Большое интервью Кораблеву",
-    "description": "Аршавин, пиво, фиш энд чипс.",
-    "fullText": "Аршавин, пиво, фиш энд чипс.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/64/df9259eea4c9e88cd975edf691ffd.png",
+    "title": "Смогут ли США собрать «Дрим-Тим» на домашнюю Олимпиаду-2028?",
+    "description": "Старые и новые кандидаты.",
+    "fullText": "Старые и новые кандидаты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/34/b2503ec44472a9429fbfa03c6c346.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3388150.html",
-    "time": "2026-03-05T14:30:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3388142.html",
+    "time": "2026-03-05T15:50:00.000Z"
   }
 ]
