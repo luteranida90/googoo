@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новосибирский драмтеатр представит мюзикл по повести Лескова при участии ИИ",
-    "description": "Речь идет о произведении \"Левша\"",
-    "fullText": "Речь идет о произведении \"Левша\"",
+    "title": "В РФ число разрешений на строительство снизилось на 4,5%",
+    "description": "На 1 февраля их было 205, сообщила директор департамента жилищной политики Минстроя Ольга Корниенко",
+    "fullText": "На 1 февраля их было 205, сообщила директор департамента жилищной политики Минстроя Ольга Корниенко",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/26657899",
-    "time": "2026-03-05T07:11:31.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlb3Nw",
-    "title": "«Марсель» Гринвуда вылетел из Кубка – с безумными пенальти и файерами на поле. Эфир на ВидеоСпортсе’‘ с Денисовым",
-    "description": "Показали с ТВ Старт.",
-    "fullText": "Показали с ТВ Старт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/e0/7a9517db24e969747ba1256ebd4a2.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://videosports.ru/Marseille-Toulouse",
-    "time": "2026-03-04T22:11:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Они отказывались от ЧМ сами: из-за бойкотов, денег и обиды",
-    "description": "Все случаи.",
-    "fullText": "Все случаи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/20/53d3150314c5bbe21072e8f0a59c5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3387899.html",
-    "time": "2026-03-04T21:45:00.000Z"
+    "url": "https://tass.ru/ekonomika/26658459",
+    "time": "2026-03-05T07:49:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Угадаете Олимпиады по их талисманам? Сочи-2014 – легко, а Ванкувер-2010?",
-    "description": "Проверьте себя.",
-    "fullText": "Проверьте себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/6b/04c6a93cd4ac2873df57d45aa3477.png",
+    "title": "Угадайте топ-клуб по подарку и забирайте секретный промокод к 8 марта",
+    "description": "Для подарков близким.",
+    "fullText": "Для подарков близким.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/7e/0caffd2e545a9aaa04bcbd3e0c4c7.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/s4adsu",
-    "time": "2026-03-04T21:20:00.000Z"
+    "url": "https://sirena.world/zxdf3v",
+    "time": "2026-03-05T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Данк Уэббера через Баркли был крут сам по себе. Но Nike сделали его еще лучше",
+    "description": "Маленькие интриги большой корпорации.",
+    "fullText": "Маленькие интриги большой корпорации.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f4/1e8b0430349e5b533778b1a9d1883.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3383076.html",
+    "time": "2026-03-04T22:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Konami уточнила, что Castlevania: Belmont&#039;s Curse не будет «роглайком» или «роглайтом»",
-    "description": "А привычный 2D-экшен с исследованием локаций.",
-    "fullText": "А привычный 2D-экшен с исследованием локаций.",
-    "image": "https://leonardo.osnova.io/b301c4b9-effd-59d7-b01d-c1fc02975d15/",
+    "title": "Epic Games объявила о скором возвращении Fortnite в Google Play за пределами США",
+    "description": "Это стало возможно благодаря тому, что все споры с Google решили — та представила более выгодные условия для создателей приложений.",
+    "fullText": "Это стало возможно благодаря тому, что все споры с Google решили — та представила более выгодные условия для создателей приложений.",
+    "image": "https://leonardo.osnova.io/dbdfbb25-f8a2-5573-a50f-3c62cda1dcd1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4824137-castlevania-belmonts-curse-ne-budet-roglajkom?from=rss",
-    "time": "2026-03-04T18:29:04.000Z"
+    "url": "https://dtf.ru/gameindustry/4824209-fortnite-vozvrashchaetsya-v-google-play?from=rss",
+    "time": "2026-03-04T19:40:07.000Z"
   }
 ]
