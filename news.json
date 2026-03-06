@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Средства ПВО ОАЭ 6 марта перехватили и уничтожили девять баллистических ракет",
-    "description": "",
-    "fullText": "",
+    "title": "Темпы глобального потепления выросли на 75% за прошедшее десятилетие",
+    "description": "Это свидетельствует об ускоренной дестабилизации климата Земли",
+    "fullText": "Это свидетельствует об ускоренной дестабилизации климата Земли",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26679227",
-    "time": "2026-03-06T12:32:51.000Z"
+    "url": "https://tass.ru/nauka/26680341",
+    "time": "2026-03-06T14:19:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Матч «Новы» и «Белогорья» на ВидеоСпортсе’‘. Начало – 6 марта в 17:50",
+    "description": "Смотрим волейбол.",
+    "fullText": "Смотрим волейбол.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/42/2688f93744805b59416622fecc8ea.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/80CB1PP9AXv_zPoKtMuqDThVRaum-GVcpOfX3bSQomc",
+    "time": "2026-03-06T12:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Обыграете Сергея Игнашевича в Три на три?",
-    "description": "Проверьте в новом раунде.",
-    "fullText": "Проверьте в новом раунде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/ac/6a6e819704841839f727ad1dd181c.png",
+    "title": "Когда Россия одержала эту хоккейную победу?",
+    "description": "И другие триумфы прошлого.",
+    "fullText": "И другие триумфы прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/03/a0c2e41e64cf3a6c2f3b885933e20.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2026-03-06T09:30:00.000Z"
+    "url": "https://sirena.world/s4adsu",
+    "time": "2026-03-06T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что мы вообще знаем про Альваро Арбелоа?",
-    "description": "Загадочный тренер «Мадрида».",
-    "fullText": "Загадочный тренер «Мадрида».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/81/0ab3e888b48e8a872be5ddffd5146.jpeg",
+    "title": "Леброн побил еще один рекорд НБА – этот был старше его самого!",
+    "description": "Снова подвинул Карима.",
+    "fullText": "Снова подвинул Карима.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ae/eb2cf31204f4f9eafa4f8ca47025f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3386751.html",
-    "time": "2026-03-06T07:45:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3389092.html",
+    "time": "2026-03-06T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Pragmata выйдет на неделю раньше — 17 апреля",
-    "description": "Разработчики также раскрыли состав Deluxe-издания экшена.",
-    "fullText": "Разработчики также раскрыли состав Deluxe-издания экшена.",
-    "image": "https://leonardo.osnova.io/c4ac705e-93d6-5feb-808d-cbfe70fe34fc/",
+    "title": "Mouse: P.I. for Hire будет стоить 30 долларов — прохождение шутера займёт от 12 до 20 часов",
+    "description": "Анонс сопроводили иллюстрацией.",
+    "fullText": "Анонс сопроводили иллюстрацией.",
+    "image": "https://leonardo.osnova.io/6a9f5481-9a64-5145-87e7-e6fcc5024874/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4826741-pragmata-vyhodit-na-nedelyu-ranshe?from=rss",
-    "time": "2026-03-05T22:19:59.000Z"
+    "url": "https://dtf.ru/games/4827143-mouse-pi-for-hire-shuter-30-dollarov?from=rss",
+    "time": "2026-03-06T07:35:49.000Z"
   }
 ]
