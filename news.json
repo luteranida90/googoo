@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Тульской области задержали сотрудника фирмы, в цехе которой обрушилась крыша",
+    "description": "Мужчине предъявили обвинение в причинении смерти по неосторожности",
+    "fullText": "Мужчине предъявили обвинение в причинении смерти по неосторожности",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260306/8865737.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26682951",
+    "time": "2026-03-06T18:54:55.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
     "description": "Ищем отличников.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вижу новости, что «Ф-1» обновилась в 2026-м. Но что именно изменилось?",
-    "description": "Разбираемся.",
-    "fullText": "Разбираемся.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/fe/cbd1ac2b045d2a127171222c29287.jpeg",
+    "title": "Этот сезон «Ф-1» может стать последним для многих гонщиков. Кто под угрозой?",
+    "description": "Алонсо тоже в списке.",
+    "fullText": "Алонсо тоже в списке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f5/4f5ec9aac45558e92e8a6e4498d0b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3388614.html",
-    "time": "2026-03-06T14:15:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3388489.html",
+    "time": "2026-03-06T15:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "У мода The New West появилось демо — его авторы восстанавливают отменённую Van Buren в Fallout: New Vegas",
-    "description": "Игроки смогут выполнить семь квестов.",
-    "fullText": "Игроки смогут выполнить семь квестов.",
-    "image": "https://leonardo.osnova.io/232d59bb-0b44-523a-a32a-c5e9f820e712/-/format/mp4/",
+    "title": "Arrowhead окончательно откажется от «тяжёлой» ПК-версии Helldivers 2 в патче 17 марта",
+    "description": "Тестирование «худой» сочли успешным.",
+    "fullText": "Тестирование «худой» сочли успешным.",
+    "image": "https://leonardo.osnova.io/2547375c-280d-5762-b23d-613618498884/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4827876-demo-moda-the-new-west-fallout-new-vegas?from=rss",
-    "time": "2026-03-06T14:13:47.000Z"
+    "url": "https://dtf.ru/games/4827629-arrowhead-otkazyvaetsya-ot-tyazheloy-versii-helldivers-2?from=rss",
+    "time": "2026-03-06T11:27:30.000Z"
   }
 ]
