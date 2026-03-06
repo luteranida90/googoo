@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Китай пообещал продвигать интернационализацию юаня и трансграничные платежи",
+    "description": "Пекин будет создавать \"более безопасную, эффективную и диверсифицированную систему\", заявил глава Народного банка республики Пань Гуншэн",
+    "fullText": "Пекин будет создавать \"более безопасную, эффективную и диверсифицированную систему\", заявил глава Народного банка республики Пань Гуншэн",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26678361",
+    "time": "2026-03-06T11:10:21.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадайте топ-клуб по подарку и забирайте секретный промокод к 8 Марта",
     "description": "Для подарков близким.",
@@ -11,26 +22,15 @@
     "time": "2026-03-06T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Матч «Новы» и «Белогорья» на ВидеоСпортсе’‘. Начало – 6 марта в 17:50",
-    "description": "Смотрим волейбол.",
-    "fullText": "Смотрим волейбол.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/42/2688f93744805b59416622fecc8ea.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/80CB1PP9AXv_zPoKtMuqDThVRaum-GVcpOfX3bSQomc",
-    "time": "2026-03-06T06:19:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Динамо» Гусева прекрасно. Впечатления после 5:2 со «Спартаком»",
-    "description": "Илья Васильев восхищается.",
-    "fullText": "Илья Васильев восхищается.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/02/1596d7f8f4ad0a5763313a56f9ed8.jpeg",
+    "title": "Вижу новости, что «Ф-1» обновилась в 2026-м. Но что именно изменилось?",
+    "description": "Разбираемся.",
+    "fullText": "Разбираемся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/fe/cbd1ac2b045d2a127171222c29287.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3389024.html",
-    "time": "2026-03-06T06:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3388614.html",
+    "time": "2026-03-06T06:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4825321-reliz-marathon-ot-bungie-novyy-extraction-shuter?from=rss",
     "time": "2026-03-05T18:00:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
