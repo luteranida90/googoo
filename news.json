@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В районе Тель-Авива действует воздушная тревога",
-    "description": "ЦАХАЛ предупредил жителей о ракетной угрозе после новых запусков с территории Ирана",
-    "fullText": "ЦАХАЛ предупредил жителей о ракетной угрозе после новых запусков с территории Ирана",
+    "title": "Нацгвардия Кувейта сообщила об уничтожении БПЛА в районе своей ответственности",
+    "description": "Она оказывает поддержку Минобороны страны",
+    "fullText": "Она оказывает поддержку Минобороны страны",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26687833",
-    "time": "2026-03-07T13:00:09.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26688021",
+    "time": "2026-03-07T13:47:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что вы пропустили в 29-м туре АПЛ: офсайд из-за носа, 122 дня Салаха без голов",
+    "description": "«Арсенал» поздравил Сака нашивкой.",
+    "fullText": "«Арсенал» поздравил Сака нашивкой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c6/59efaa4e04958811477735c265dd4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3388223.html",
+    "time": "2026-03-07T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-07T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Челси» рекорд по красным. Целый состав из удаленных",
-    "description": "Проблема не решается.",
-    "fullText": "Проблема не решается.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/55/b9e77ce9d4e239d8266c799f16e05.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3388901.html",
-    "time": "2026-03-07T08:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "HBO представила актёрский состав студентов Хогвартса в сериале «Гарри Поттер»",
-    "description": "Среди них — однокурсники Гарри Поттера и игроки в квиддич.",
-    "fullText": "Среди них — однокурсники Гарри Поттера и игроки в квиддич.",
-    "image": "https://leonardo.osnova.io/5f7275b1-42fb-51aa-9c52-17f6d7824213/",
+    "title": "Стартовали съёмки сериала-сиквела «Острых козырьков»",
+    "description": "В производстве находится два сезона по шесть эпизодов.",
+    "fullText": "В производстве находится два сезона по шесть эпизодов.",
+    "image": "https://leonardo.osnova.io/5ddbb9cd-ce34-50af-9369-85846f53c0c9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4827422-hbo-predstavil-akterov-studentov-hogvarts-v-seriale-garri-potter?from=rss",
-    "time": "2026-03-06T10:18:00.000Z"
+    "url": "https://dtf.ru/cinema/4828202-nachalo-syomok-ostrye-kozyrki?from=rss",
+    "time": "2026-03-06T16:29:35.000Z"
   }
 ]
