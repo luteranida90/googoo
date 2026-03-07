@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Волгограде выписали из больницы ребенка, пострадавшего при атаке БПЛА",
-    "description": "Мальчик получил травмы в ночь на 13 февраля",
-    "fullText": "Мальчик получил травмы в ночь на 13 февраля",
+    "title": "ISNA: в Тегеране снова произошли взрывы",
+    "description": "По данным агентства, они затронули несколько районов города",
+    "fullText": "По данным агентства, они затронули несколько районов города",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26686911",
-    "time": "2026-03-07T09:42:59.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26687001",
+    "time": "2026-03-07T10:11:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Батраков дал интервью Шнякину: капитанство «Локо», новый характер, девушка-футболистка",
+    "description": "И своя коллекция одежды.",
+    "fullText": "И своя коллекция одежды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/b4/7d0faadee457b9280ec94d6cb5cf9.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/fh650q",
+    "time": "2026-03-07T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-03-07T05:12:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "8 Марта не за горами! Успейте забрать промокод от Спортса’’ для подарков близким",
-    "description": "В нашем тесте.",
-    "fullText": "В нашем тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/70/674391ea84268be22acfe37c7c613.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/zxdf3v",
-    "time": "2026-03-07T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для RoboCop: Rogue City вышло обновление, которое временно заменило экшен на игру с названием Hunter: The Reckoning",
-    "description": "Странная ошибка, которую исправили через полчаса.",
-    "fullText": "Странная ошибка, которую исправили через полчаса.",
-    "image": "https://leonardo.osnova.io/06f711ea-b900-552a-bea0-f082e1441a65/",
+    "title": "Документальный фильм о разработке оригинальной Modern Warfare 3 выйдет 27 марта",
+    "description": "В него войдут ранее не публиковавшиеся интервью с бывшими сотрудниками Infinity Ward.",
+    "fullText": "В него войдут ранее не публиковавшиеся интервью с бывшими сотрудниками Infinity Ward.",
+    "image": "https://leonardo.osnova.io/4ab6239a-d5a7-5497-b2b7-c84d8435fa9a/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4827961-obnovlenie-robocop-rogue-city-zamenilo-igru-na-hunter-the-reckoning?from=rss",
-    "time": "2026-03-06T14:23:51.000Z"
+    "url": "https://dtf.ru/cinema/4828049-dokumentalnyy-film-o-sozdanii-modern-warfare-3?from=rss",
+    "time": "2026-03-06T15:12:31.000Z"
   }
 ]
