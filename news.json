@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Военная операция США и Израиля в Иране. Онлайн",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26686233",
-    "time": "2026-03-07T21:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто хозяин «Сан-Сиро»? Выберите победителя самого яркого дерби выходных",
     "description": "«Интер» или «Милан»?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "РПЛ рядом с топ-5 по выручке, «Реал» – самый богатый, а в «Сити» жирнейшие зарплаты: все деньги еврофутбола",
-    "description": "Игорь Сергеев анализирует отчет УЕФА.",
-    "fullText": "Игорь Сергеев анализирует отчет УЕФА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/9a/4ec63387942f6a69208078d2e5b81.jpeg",
+    "title": "Как сделать хоккей в КХЛ зрелищнее и интереснее. Объясняет Илья Воробьев",
+    "description": "Атака решает.",
+    "fullText": "Атака решает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/82/47f5e111042289ee8943b9c607dd1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3388951.html",
-    "time": "2026-03-07T14:35:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3388471.html",
+    "time": "2026-03-07T14:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4828202-nachalo-syomok-ostrye-kozyrki?from=rss",
     "time": "2026-03-06T16:29:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
