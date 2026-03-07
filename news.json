@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп заявил, что у него нет данных о передаче Россией разведданных Ирану",
+    "description": "Больше подробностей американский лидер не раскрыл",
+    "fullText": "Больше подробностей американский лидер не раскрыл",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26690199",
+    "time": "2026-03-07T21:39:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто хозяин «Сан-Сиро»? Выберите победителя самого яркого дерби выходных",
     "description": "«Интер» или «Милан»?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как сделать хоккей в КХЛ зрелищнее и интереснее. Объясняет Илья Воробьев",
-    "description": "Атака решает.",
-    "fullText": "Атака решает.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/82/47f5e111042289ee8943b9c607dd1.jpeg",
+    "title": "Кто начнет сезон «Ф-1» с победы? «Мерседес» потряс квалу, Ферстаппен разбил болид и в хвосте",
+    "description": "Расселл – на поуле.",
+    "fullText": "Расселл – на поуле.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/75/777a48ee34458aa1f1f6605189252.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3388471.html",
-    "time": "2026-03-07T14:45:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3388430.html",
+    "time": "2026-03-07T15:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4828202-nachalo-syomok-ostrye-kozyrki?from=rss",
     "time": "2026-03-06T16:29:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
