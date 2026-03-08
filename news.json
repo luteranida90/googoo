@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "WP: операция против Ирана наносит больший экономический ущерб Европе, чем США",
-    "description": "В публикации издания отмечается, что закрытие международных аэропортов в зоне конфликта привело к перебоям поставок бытовой электроники, фармацевтической продукции и драгоценных металлов",
-    "fullText": "В публикации издания отмечается, что закрытие международных аэропортов в зоне конфликта привело к перебоям поставок бытовой электроники, фармацевтической продукции и драгоценных металлов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26695961",
-    "time": "2026-03-08T20:26:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Соберите команду НХЛ только из наших игроков! Сможете выиграть?",
     "description": "В Автобаттлере.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Димарко идет на рекорд Серии А по ассистам. Какие у него секреты?",
-    "description": "Защитник с левой десятки.",
-    "fullText": "Защитник с левой десятки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/84/702f8488e44e59f0c7a4a0610751b.jpeg",
+    "title": "Роналду улетел из Саудовской Аравии – в Мадрид. Лечить травму",
+    "description": "Все серьезнее, чем ожидалось.",
+    "fullText": "Все серьезнее, чем ожидалось.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/73/4b7b8e35d4171bd8a7960f4d05def.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3389034.html",
-    "time": "2026-03-08T15:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3389244.html",
+    "time": "2026-03-08T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4828358-sony-pozdravila-bungie-s-relizom-marathon?from=rss",
     "time": "2026-03-06T18:10:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
