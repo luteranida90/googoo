@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Каждая вторая опрошенная москвичка мечтает о собственной, а не семейной квартире",
-    "description": "Также в пятерку желанных подарков на 8 Марта вошли путешествие мечты, автомобиль премиум-бренда и абонемент в спа-салон или фитнес-клуб",
-    "fullText": "Также в пятерку желанных подарков на 8 Марта вошли путешествие мечты, автомобиль премиум-бренда и абонемент в спа-салон или фитнес-клуб",
+    "title": "В Петербурге три моста подсветят в честь 8 Марта",
+    "description": "Фасады зданий по 10 адресам в 7 районах города украсили к празднику тематическими световыми проекциями",
+    "fullText": "Фасады зданий по 10 адресам в 7 районах города украсили к празднику тематическими световыми проекциями",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/26691421",
-    "time": "2026-03-08T07:13:55.000Z"
+    "url": "https://tass.ru/obschestvo/26692283",
+    "time": "2026-03-08T08:22:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Оливейра просто измучил Холлоуэя. Забрал пояс самого опасного ублюдка UFC!",
+    "description": "Главные события из Лас-Вегаса.",
+    "fullText": "Главные события из Лас-Вегаса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/34/b2f3c1fc74d5694acc62e8e77848b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3386040.html",
+    "time": "2026-03-08T05:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-08T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Теперь офсайд прямо на лицевой – вы что-то поняли? Чемпионат России по черчению линий продолжается",
-    "description": "В воротах «Балтики».",
-    "fullText": "В воротах «Балтики».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/96/26338a2f1457c906f18c02a0b478b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3389416.html",
-    "time": "2026-03-07T22:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовали съёмки сериала-сиквела «Острых козырьков»",
-    "description": "В производстве находится два сезона по шесть эпизодов.",
-    "fullText": "В производстве находится два сезона по шесть эпизодов.",
-    "image": "https://leonardo.osnova.io/5ddbb9cd-ce34-50af-9369-85846f53c0c9/",
+    "title": "Capcom выпустила патч для Resident Evil Requiem и подтвердила работу над полноценной поддержкой DualSense на ПК",
+    "description": "В обновлении устранили баг, препятствовавший прохождению.",
+    "fullText": "В обновлении устранили баг, препятствовавший прохождению.",
+    "image": "https://leonardo.osnova.io/f136effe-6af3-52eb-aced-dfa2ce03b5e4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4828202-nachalo-syomok-ostrye-kozyrki?from=rss",
-    "time": "2026-03-06T16:29:35.000Z"
+    "url": "https://dtf.ru/games/4827757-capcom-vypustila-patch-dlya-resident-evil-requiem?from=rss",
+    "time": "2026-03-06T12:24:52.000Z"
   }
 ]
