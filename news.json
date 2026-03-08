@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Экзитпол: партия Мерца уступает \"Зеленым\" на выборах в Баден-Вюртемберге",
+    "description": "По прогнозам, \"Зеленые\" набирают 32%, в то время как ХДС - 29%",
+    "fullText": "По прогнозам, \"Зеленые\" набирают 32%, в то время как ХДС - 29%",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26695167",
+    "time": "2026-03-08T17:14:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто хозяин «Сан-Сиро»? Выберите победителя самого яркого дерби выходных",
     "description": "«Интер» или «Милан»?",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Проиграли... ну такой сезон». Разгром в дуэли наших топ-пар – Галлямов смирился",
-    "description": "Все забрали Бойкова и Козловский.",
-    "fullText": "Все забрали Бойкова и Козловский.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/7d/785efa26c425eac43dc9ff1332789.jpeg",
+    "title": "🥉 Есть первая медаль у лыжников! Коростелев с бронзой на Кубке мира, Клэбо его похвалил",
+    "description": "«Он будет еще лучше».",
+    "fullText": "«Он будет еще лучше».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/02/a0c3692c54cd8aac0edd1a89484b7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3389619.html",
-    "time": "2026-03-08T12:50:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3389631.html",
+    "time": "2026-03-08T13:04:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4828358-sony-pozdravila-bungie-s-relizom-marathon?from=rss",
     "time": "2026-03-06T18:10:07.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
