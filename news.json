@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Саудовской Аравии из-за попадания снаряда в жилой дом погибли два человека",
-    "description": "Еще 12 получили ранения",
-    "fullText": "Еще 12 получили ранения",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26694917",
-    "time": "2026-03-08T16:13:27.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Кто хозяин «Сан-Сиро»? Выберите победителя самого яркого дерби выходных",
     "description": "«Интер» или «Милан»?",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Цифра дня: «Феррари» и «Мерседес» 7 раз обгоняли друг друга на старте новой «Ф-1»",
-    "description": "В итоге все решила стратегия.",
-    "fullText": "В итоге все решила стратегия.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/37/10225c66341b3a8d67a95889d06b7.jpeg",
+    "title": "«Проиграли... ну такой сезон». Разгром в дуэли наших топ-пар – Галлямов смирился",
+    "description": "Все забрали Бойкова и Козловский.",
+    "fullText": "Все забрали Бойкова и Козловский.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/7d/785efa26c425eac43dc9ff1332789.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3389530.html",
-    "time": "2026-03-08T12:35:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3389619.html",
+    "time": "2026-03-08T12:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4828358-sony-pozdravila-bungie-s-relizom-marathon?from=rss",
     "time": "2026-03-06T18:10:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
