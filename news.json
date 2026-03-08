@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фицо заявил о готовности Словакии заблокировать кредит ЕС для Украины в €90 млрд",
-    "description": "Словацкий премьер отметил, что его страна готова перенять эту эстафету от Венгрии при необходимости на фоне нежелания киевских властей восстановить поставки нефти по \"Дружбе\"",
-    "fullText": "Словацкий премьер отметил, что его страна готова перенять эту эстафету от Венгрии при необходимости на фоне нежелания киевских властей восстановить поставки нефти по \"Дружбе\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26692727",
-    "time": "2026-03-08T09:53:50.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Угадайте топ-клуб по подарку и забирайте секретный промокод для подарков близким",
     "description": "В нашем тесте.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучшие фигуристы снимаются с чемпионата мира – уже минус три героя Олимпиады",
-    "description": "Виноваты травмы и усталость.",
-    "fullText": "Виноваты травмы и усталость.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/40/cf978f40b41ebb61848b530de56f9.jpeg",
+    "title": "Цифра дня: «Феррари» и «Мерседес» 7 раз обгоняли друг друга на старте новой «Ф-1»",
+    "description": "В итоге все решила стратегия.",
+    "fullText": "В итоге все решила стратегия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/37/10225c66341b3a8d67a95889d06b7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3389403.html",
-    "time": "2026-03-08T06:30:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3389530.html",
+    "time": "2026-03-08T06:49:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4828556-south-of-midnight-na-ps5-vyidet-31-marta?from=rss",
     "time": "2026-03-06T18:44:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
