@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минздрав рекомендовал сотрудникам шесть цветов формы в зависимости от должности",
-    "description": "Для руководящего персонала рекомендуется форма темно-синего цвета, для врачей - темно-зеленого, для среднего медицинского персонала - светло-зеленого",
-    "fullText": "Для руководящего персонала рекомендуется форма темно-синего цвета, для врачей - темно-зеленого, для среднего медицинского персонала - светло-зеленого",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260309/8869335.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26697731",
-    "time": "2026-03-09T07:23:20.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В такой форме Месси выиграл ЛЧ с Пепом – а сейчас ее можно выиграть в Аркаде",
     "description": "Просто закатите мяч.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Их лучшая атака – промах». Как главные тренеры НБА заболели идеей подборов в атаке",
-    "description": "Переосмысление этого сезона.",
-    "fullText": "Переосмысление этого сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f8/17d5b025f47ef831380318f428d4d.jpeg",
+    "title": "Убойные стандарты «Динамо», вредители-новички ЦСКА и прекрасный Бителло: 5 мыслей о дерби",
+    "description": "От Ильи Васильева.",
+    "fullText": "От Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/77/d2cf207374614839863aee54b2052.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3386866.html",
-    "time": "2026-03-08T19:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3389702.html",
+    "time": "2026-03-08T21:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo подала в суд на правительство США — из-за пошлин Дональда Трампа",
-    "description": "В феврале Верховный суд признал их незаконными, поэтому компания добивается возмещения ущерба.",
-    "fullText": "В феврале Верховный суд признал их незаконными, поэтому компания добивается возмещения ущерба.",
-    "image": "https://leonardo.osnova.io/7f816735-5d09-5f52-bd8f-87bdb17fc36c/",
+    "title": "WSJ: Pixar работает над третьим фильмом по «Корпорации монстров»",
+    "description": "А «Суперсемейка 3» ожидается в 2028 году.",
+    "fullText": "А «Суперсемейка 3» ожидается в 2028 году.",
+    "image": "https://leonardo.osnova.io/7035149f-1759-5c1d-9a2f-ab0c518d1707/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4828607-nintendo-sud-pravitelstvo-ssha-poshliny-trampa?from=rss",
-    "time": "2026-03-06T19:11:34.000Z"
+    "url": "https://dtf.ru/cinema/4829405-pixar-tretij-film-korporaciya-montstrov?from=rss",
+    "time": "2026-03-07T09:16:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
