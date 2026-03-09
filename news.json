@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "При столкновении лодки с катером у берегов Антальи погибли 14 человек",
+    "description": "Инцидент произошел у побережья в районе Беймелек в округе Демре",
+    "fullText": "Инцидент произошел у побережья в районе Беймелек в округе Демре",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26698515",
+    "time": "2026-03-09T09:23:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Зенит» разучился дожимать",
+    "description": "Колонка Ильи Васильева.",
+    "fullText": "Колонка Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2e/d696415d14617bc3736c8ca980c2c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3389624.html",
+    "time": "2026-03-08T22:04:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В такой форме Месси выиграл ЛЧ с Пепом – а сейчас ее можно выиграть в Аркаде",
     "description": "Просто закатите мяч.",
@@ -11,36 +33,14 @@
     "time": "2026-03-08T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Убойные стандарты «Динамо», вредители-новички ЦСКА и прекрасный Бителло: 5 мыслей о дерби",
-    "description": "От Ильи Васильева.",
-    "fullText": "От Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/77/d2cf207374614839863aee54b2052.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3389702.html",
-    "time": "2026-03-08T21:03:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "WSJ: Pixar работает над третьим фильмом по «Корпорации монстров»",
-    "description": "А «Суперсемейка 3» ожидается в 2028 году.",
-    "fullText": "А «Суперсемейка 3» ожидается в 2028 году.",
-    "image": "https://leonardo.osnova.io/7035149f-1759-5c1d-9a2f-ab0c518d1707/",
+    "title": "NetEase откажется от финансирования студии автора Yakuza Тосихиро Нагоси",
+    "description": "***.",
+    "fullText": "***.",
+    "image": "https://leonardo.osnova.io/bf314187-6b09-5b53-aca6-171b3f62a073/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4829405-pixar-tretij-film-korporaciya-montstrov?from=rss",
-    "time": "2026-03-07T09:16:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4829498-neteiz-prekrashchaet-finansirovanie-studii-tosihiro-nagosi?from=rss",
+    "time": "2026-03-07T09:43:08.000Z"
   }
 ]
