@@ -1,25 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Лучший кастинг на «Оскаре»: все о новой номинации",
+    "description": "Этого ждали почти 30 лет.",
+    "fullText": "Этого ждали почти 30 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/cc/a9204b262406d9e71cf3be7aaf9fd.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3385648.html",
+    "time": "2026-03-10T21:05:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Постпред при ООН: США и Израиль неизбирательно бьют по гражданским объектам в Иране",
+    "title": "Военная операция США и Израиля в Иране. Онлайн",
     "description": "",
     "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26714163",
-    "time": "2026-03-10T20:04:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фильм про Bon Jovi находится в работе у Universal",
-    "description": "В создании ленты принимает участие сам Джон Бон Джови.",
-    "fullText": "В создании ленты принимает участие сам Джон Бон Джови.",
-    "image": "https://leonardo.osnova.io/18d1fa8c-a765-5714-b6cf-58f4fe80d550/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4836674-bajopik-o-bon-jovi-universal?from=rss",
-    "time": "2026-03-10T19:58:41.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26704527",
+    "time": "2026-03-10T21:00:01.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Стадион «Галатасарая» = сумасшествие. Шизят даже бабушки, а соперники выходят с затычками в ушах",
-    "description": "Эльвин Керимов – о месте, где от свиста болит голова.",
-    "fullText": "Эльвин Керимов – о месте, где от свиста болит голова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e5/4ef1b1f1e4857b30e9078ded49e6a.png",
+    "title": "«Не вижу у него предела». Прорыв сезона в нашей фигурке – Угожаев?",
+    "description": "Забрал первую медаль финала Гран-при",
+    "fullText": "Забрал первую медаль финала Гран-при",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/fe/090bff9874c62a4990bfd8ffce902.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3389943.html",
-    "time": "2026-03-10T16:50:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3389944.html",
+    "time": "2026-03-10T17:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Capcom подтвердила, что работает над сюжетным DLC для Resident Evil Requiem",
+    "description": "Игру ждут ещё несколько нововведений вроде фоторежима.",
+    "fullText": "Игру ждут ещё несколько нововведений вроде фоторежима.",
+    "image": "https://leonardo.osnova.io/f0c239d6-db40-5bcd-87fe-89e30d9d8296/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4835756-capcom-rabotayet-nad-dlc-dlya-resident-evil-requiem?from=rss",
+    "time": "2026-03-10T11:18:04.000Z"
   }
 ]
