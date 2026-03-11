@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новый художественный руководитель Михайловского театра. Карьера Ильдара Абдразакова",
-    "description": "Губернатор Санкт-Петербурга Александр Беглов 11 марта 2026 года сообщил, что художественным руководителем театра назначен народный артист РФ оперный певец Ильдар Абдразаков",
-    "fullText": "Губернатор Санкт-Петербурга Александр Беглов 11 марта 2026 года сообщил, что художественным руководителем театра назначен народный артист РФ оперный певец Ильдар Абдразаков",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260311/8875997.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/info/26728463",
-    "time": "2026-03-11T17:45:52.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего 8 футболистов играли и в «Сити», и в «Реале». Среди них – чемпион РПЛ",
     "description": "Кого вписали бы в ячейку?",
@@ -22,25 +11,36 @@
     "time": "2026-03-11T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Оригинальный PvE-режим «Сражение с бурей» в Fortnite станет бесплатным 16 апреля",
-    "description": "Спустя почти девять лет после премиального запуска.",
-    "fullText": "Спустя почти девять лет после премиального запуска.",
-    "image": "https://leonardo.osnova.io/d405cdef-d6ce-5036-a961-7a45d08982cb/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4838075-pve-rezhim-srazhenie-s-burei-v-fortnite-stanovitsya-besplatnym?from=rss",
-    "time": "2026-03-11T13:57:40.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Тудор разрушил карьеру Кински». Шмейхель, Де Хеа и Харт сочувствуют вратарю «Тоттенхэма»",
-    "description": "Реакции на провал в ЛЧ.",
-    "fullText": "Реакции на провал в ЛЧ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e9/8ae487bb247dd80835c0c1dadcff9.jpeg",
+    "title": "Тудор – заявка на худшего тренера в истории АПЛ",
+    "description": "Колонка Вадима Лукомского.",
+    "fullText": "Колонка Вадима Лукомского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a6/45a4e3348443f91547d7b5b5908a7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3390292.html",
-    "time": "2026-03-11T13:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3390336.html",
+    "time": "2026-03-11T14:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Всё начинает звучать упрощённо»: создатель Dragon Quest о локализациях с японского на английский",
+    "description": "При этом тон и манера речи помогают передать смысл.",
+    "fullText": "При этом тон и манера речи помогают передать смысл.",
+    "image": "https://leonardo.osnova.io/43b2f719-022f-5249-87c4-072eda92e352/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4837933-lokalizatsiya-igr-yudzi-khoriya-o-perevode-dragon-quest?from=rss",
+    "time": "2026-03-11T12:39:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
