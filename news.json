@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "НИИ Византии и Причерноморья получил 300 млн рублей на три года работы",
-    "description": "Институт, который в перспективе будет вести исследования международного уровня, работает на базе СевГУ с 1 января 2025 года",
-    "fullText": "Институт, который в перспективе будет вести исследования международного уровня, работает на базе СевГУ с 1 января 2025 года",
+    "title": "В аэропортах Бугульмы и Нижнекамска отменили ограничения",
+    "description": "Они были необходимы для обеспечения безопасности полетов",
+    "fullText": "Они были необходимы для обеспечения безопасности полетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nauka/26716783",
-    "time": "2026-03-11T05:12:08.000Z"
+    "url": "https://tass.ru/obschestvo/26717505",
+    "time": "2026-03-11T06:31:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Набил бы морду этому Мбаппе». Килиан задел Оксану Самойлову плечом в Париже – и что тут началось!",
+    "description": "«Он запихался в мой отсек».",
+    "fullText": "«Он запихался в мой отсек».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/2a/c7d6707e8488384a3d109c8f53542.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3390012.html",
+    "time": "2026-03-10T22:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2026-03-10T21:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ливерпуль» проиграл в оглушительном Стамбуле. 2-й раз за сезон «Галатасарай» повалил фаворита",
-    "description": "У Осимхена ассист и отмененный гол.",
-    "fullText": "У Осимхена ассист и отмененный гол.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/27/fb9efa927463eaa4e959f839ce7bc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3390178.html",
-    "time": "2026-03-10T21:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Лучший кастинг на «Оскаре»: все о новой номинации",
-    "description": "Этого ждали почти 30 лет.",
-    "fullText": "Этого ждали почти 30 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/cc/a9204b262406d9e71cf3be7aaf9fd.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3385648.html",
-    "time": "2026-03-10T21:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom подтвердила, что работает над сюжетным DLC для Resident Evil Requiem",
-    "description": "Игру ждут ещё несколько нововведений вроде фоторежима.",
-    "fullText": "Игру ждут ещё несколько нововведений вроде фоторежима.",
-    "image": "https://leonardo.osnova.io/f0c239d6-db40-5bcd-87fe-89e30d9d8296/-/format/mp4/",
+    "title": "Ghost of Yotei получила масштабное обновление с кооперативным режимом Legends",
+    "description": "Игрокам нужно объединиться и дать отпор демоническим версиям боссов из оригинальной экшен-адвенчуры.",
+    "fullText": "Игрокам нужно объединиться и дать отпор демоническим версиям боссов из оригинальной экшен-адвенчуры.",
+    "image": "https://leonardo.osnova.io/7cb9ad67-efb8-5032-877c-6930a2f3a48b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4835756-capcom-rabotayet-nad-dlc-dlya-resident-evil-requiem?from=rss",
-    "time": "2026-03-10T11:18:04.000Z"
+    "url": "https://dtf.ru/games/4836402-ghost-of-yotei-legends-kooperativnoe-obnovlenie?from=rss",
+    "time": "2026-03-10T17:29:17.000Z"
   }
 ]
