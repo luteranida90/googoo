@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Хайнань в 2026 году ускорит создание двух крупных транспортных узлов",
-    "description": "Планируется углубление реформы по регистрации судов на базе порта Янпу",
-    "fullText": "Планируется углубление реформы по регистрации судов на базе порта Янпу",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly90Lm1lL2N5",
+    "title": "Тамагочи теперь в телеграме!",
+    "description": "Покормите его.",
+    "fullText": "Покормите его.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/3d/77ab9d1b14a7e95cd5fc29e9bf664.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26735875",
-    "time": "2026-03-12T09:31:04.000Z"
+    "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_material",
+    "time": "2026-03-12T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Осторожно, Медведев роскошно играет",
-    "description": "Порхает в Индиан-Уэллс.",
-    "fullText": "Порхает в Индиан-Уэллс.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/e0/2360ad1a14eaf9ab51798592e95b5.gif",
+    "title": "Ну разве это фол на Мадуэке? «Арсенал» спасся в ЛЧ со спорного пенальти в самом конце",
+    "description": "«Байер» почти смог.",
+    "fullText": "«Байер» почти смог.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/07/adbf3dc8e4a1b894be5f1a60a3a26.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3390470.html",
-    "time": "2026-03-12T05:02:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3390419.html",
+    "time": "2026-03-12T06:23:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Deadline — Кейт Уинслет исполнит ведущую роль в фильме «Властелин колец: Охота на Голлума»",
-    "description": "Актриса согласилась сняться в фильме после долгих уговоров.",
-    "fullText": "Актриса согласилась сняться в фильме после долгих уговоров.",
-    "image": "https://leonardo.osnova.io/095c677d-3b17-52ce-9931-6662554c09f3/",
+    "title": "Valve ответила на обвинения властей Нью-Йорка по поводу «нелегального продвижения азартных игр» — компания собирается пойти в суд",
+    "description": "Разработчики не считают, что лутбоксы возможно приравнять к слот-машинам.",
+    "fullText": "Разработчики не считают, что лутбоксы возможно приравнять к слот-машинам.",
+    "image": "https://leonardo.osnova.io/48be7322-0baf-52c4-a0ae-14a3a98afae9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4838400-keit-uinslet-v-vlastelin-kolec-ohota-na-golluma?from=rss",
-    "time": "2026-03-11T17:01:56.000Z"
+    "url": "https://dtf.ru/gameindustry/4838417-valve-otvetila-isk-nyu-yorka-neligalnoe-prodvizhenie-azartnyh-igr?from=rss",
+    "time": "2026-03-11T18:03:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
