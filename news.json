@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ООН: более 3 млн человек стали внутренне перемещенными лицами в Иране",
+    "description": "Согласно информации Управления верховного комиссара организации по делам беженцев, основная масса перемещенного населения покидает Тегеран и другие крупные мегаполисы, направляясь в северные регионы страны и сельскую местность в целях безопасности",
+    "fullText": "Согласно информации Управления верховного комиссара организации по делам беженцев, основная масса перемещенного населения покидает Тегеран и другие крупные мегаполисы, направляясь в северные регионы страны и сельскую местность в целях безопасности",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26737995",
+    "time": "2026-03-12T11:17:59.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90Lm1lL2N5",
     "title": "Тамагочи теперь в телеграме!",
     "description": "Покормите его.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_material",
     "time": "2026-03-12T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Фиаско Пепа: как «Сити» провалился 0:3 в Мадриде? Разбор",
+    "description": "Мысли Палагина.",
+    "fullText": "Мысли Палагина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/5b/29329c8524b89afa3e66bc3064781.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3390461.html",
+    "time": "2026-03-12T07:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,17 +44,6 @@
     "time": "2026-03-12T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ну разве это фол на Мадуэке? «Арсенал» спасся в ЛЧ со спорного пенальти в самом конце",
-    "description": "«Байер» почти смог.",
-    "fullText": "«Байер» почти смог.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/07/adbf3dc8e4a1b894be5f1a60a3a26.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3390419.html",
-    "time": "2026-03-12T06:23:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Valve ответила на обвинения властей Нью-Йорка по поводу «нелегального продвижения азартных игр» — компания собирается пойти в суд",
     "description": "Разработчики не считают, что лутбоксы возможно приравнять к слот-машинам.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4838417-valve-otvetila-isk-nyu-yorka-neligalnoe-prodvizhenie-azartnyh-igr?from=rss",
     "time": "2026-03-11T18:03:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
