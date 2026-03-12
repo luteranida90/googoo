@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Никитин анонсировал посадку по биометрии на ВСМ",
+    "description": "Глава Минтранса отметил, что при реализации проекта важно не только расстояние \"от города до города\", но и в целом \"от двери до двери\"",
+    "fullText": "Глава Минтранса отметил, что при реализации проекта важно не только расстояние \"от города до города\", но и в целом \"от двери до двери\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26743153",
+    "time": "2026-03-12T18:26:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Царукян забирает пояса везде, кроме UFC, хотя заслужил титульник. Это ненормально",
+    "description": "Стал чемпионом Hype FC и ждет Оливейру.",
+    "fullText": "Стал чемпионом Hype FC и ждет Оливейру.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/b3/cee59e9b6454fae2f87d5d108e278.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3390511.html",
+    "time": "2026-03-12T14:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспоминаем легенд: чемпионский «Ювентус» 2010-х и «Реал» 2000-х. Назовете игроков тех времен?",
     "description": "В Мемо.",
@@ -11,36 +33,14 @@
     "time": "2026-03-12T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вальверде спрятал проблемы «Реала» – и еще забил «Сити» три. Восторг Лукомского",
-    "description": "Монументальное выступление.",
-    "fullText": "Монументальное выступление.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ac/e82f49bfc4502a6d35c22f75bb7e0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3390448.html",
-    "time": "2026-03-12T13:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики Diablo IV рассказали про обновлённую систему крафта в дополнении Lord of Hatred",
-    "description": "Обычные предметы смогут получать легендарные свойства.",
-    "fullText": "Обычные предметы смогут получать легендарные свойства.",
-    "image": "https://leonardo.osnova.io/179f6638-e686-5b8f-a6f3-247aa0394f8d/",
+    "title": "Джефф Каплан об уходе из Blizzard: «Мне назвали дату, к которой Overwatch должна принести такую-то сумму. Или тысячу человек уволят»",
+    "description": "По словам геймдиректора, на развитие игры негативно повлияла киберспортивная лига.",
+    "fullText": "По словам геймдиректора, на развитие игры негативно повлияла киберспортивная лига.",
+    "image": "https://leonardo.osnova.io/97eddbfb-50ff-56a7-9b0e-62402a7b03fb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4839705-obnovlennaya-sistema-krafta-v-diablo-iv-v-dopolnenii-lord-of-hatred?from=rss",
-    "time": "2026-03-12T11:42:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4839439-dzheff-kaplan-o-ukhode-iz-blizzard?from=rss",
+    "time": "2026-03-12T08:44:47.000Z"
   }
 ]
