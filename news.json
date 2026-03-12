@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Эксперт Степанов: США могут создать резерв для поддержки Украины в Румынии",
+    "description": "По словам эксперта Института права и национальной безопасности РАНХиГС, страна фактически превращается в ключевой форпост НАТО на юго-восточном направлении с перспективой размещения практически всех видов вооружений",
+    "fullText": "По словам эксперта Института права и национальной безопасности РАНХиГС, страна фактически превращается в ключевой форпост НАТО на юго-восточном направлении с перспективой размещения практически всех видов вооружений",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26730667",
+    "time": "2026-03-12T01:01:48.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего 8 футболистов играли и в «Сити», и в «Реале». Среди них – чемпион РПЛ",
     "description": "Кого вписали бы в ячейку?",
@@ -12,46 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Металлург» – обладатель Кубка Континента! Впервые в истории",
-    "description": "Бесспорное доминирование.",
-    "fullText": "Бесспорное доминирование.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/37/4e3a6cd0d46cb85192a249f478b4d.jpeg",
+    "title": "Ну разве это фол на Мадуэке? «Арсенал» спасся в ЛЧ со спорного пенальти в самом конце",
+    "description": "«Байер» почти смог.",
+    "fullText": "«Байер» почти смог.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/07/adbf3dc8e4a1b894be5f1a60a3a26.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3390144.html",
-    "time": "2026-03-11T20:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Посмотрел сериал «На льду»: льда на 5 минут, секса – уже 4 сцены!",
-    "description": "Впечатления от первой серии.",
-    "fullText": "Впечатления от первой серии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/1c/7c7934c154f8eb7e5c7d1c1122432.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3390033.html",
-    "time": "2026-03-11T20:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3390419.html",
+    "time": "2026-03-11T21:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Эдмунд Макмиллен подтвердил, что Mewgenics получит как минимум два дополнения",
-    "description": "Оба DLC будут достаточно крупными.",
-    "fullText": "Оба DLC будут достаточно крупными.",
-    "image": "https://leonardo.osnova.io/03e0ed39-5529-5a7b-8914-4221b0a8115e/",
+    "title": "Для Dark Messiah of Might and Magic выпустили публичную версию RTX-мода",
+    "description": "Авторы работают над Сommunity Edition вместе с Valve и Ubisoft.",
+    "fullText": "Авторы работают над Сommunity Edition вместе с Valve и Ubisoft.",
+    "image": "https://leonardo.osnova.io/e710c012-8716-51b2-8d4d-507a0be73081/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4838233-mewgenics-dopolneniya-ot-edmunda-makmillena?from=rss",
-    "time": "2026-03-11T15:54:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4837709-publichnaya-versiya-rtx-mod-dlya-dark-messiah?from=rss",
+    "time": "2026-03-11T10:44:27.000Z"
   }
 ]
