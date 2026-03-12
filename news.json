@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Крыму подпорная стена обрушилась на три припаркованных автомобиля",
-    "description": "Прокуратура проводит проверку",
-    "fullText": "Прокуратура проводит проверку",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26741765",
-    "time": "2026-03-12T15:17:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспоминаем легенд: чемпионский «Ювентус» 2010-х и «Реал» 2000-х. Назовете игроков тех времен?",
     "description": "В Мемо.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«В 16 лет поверил, что я Бог». «Реал» купил Вальверде за 5 млн",
-    "description": "Теперь он стоит 120.",
-    "fullText": "Теперь он стоит 120.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/61/b274f90744b48a277e867d869ff3c.jpeg",
+    "title": "Вальверде спрятал проблемы «Реала» – и еще забил «Сити» три. Восторг Лукомского",
+    "description": "Монументальное выступление.",
+    "fullText": "Монументальное выступление.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ac/e82f49bfc4502a6d35c22f75bb7e0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3390501.html",
-    "time": "2026-03-12T11:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3390448.html",
+    "time": "2026-03-12T13:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Аудитория ремейка Silent Hill 2 достигла 5 миллионов игроков",
-    "description": "В цифру включены показатели в подписочных сервисах.",
-    "fullText": "В цифру включены показатели в подписочных сервисах.",
-    "image": "https://leonardo.osnova.io/15c1607f-79c0-5c28-bd74-ec083975edfe/",
+    "title": "Разработчики Diablo IV рассказали про обновлённую систему крафта в дополнении Lord of Hatred",
+    "description": "Обычные предметы смогут получать легендарные свойства.",
+    "fullText": "Обычные предметы смогут получать легендарные свойства.",
+    "image": "https://leonardo.osnova.io/179f6638-e686-5b8f-a6f3-247aa0394f8d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4839288-silent-hill-2-remeik-5-millionov-igrokov?from=rss",
-    "time": "2026-03-12T06:34:03.000Z"
+    "url": "https://dtf.ru/games/4839705-obnovlennaya-sistema-krafta-v-diablo-iv-v-dopolnenii-lord-of-hatred?from=rss",
+    "time": "2026-03-12T11:42:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
