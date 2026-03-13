@@ -1,20 +1,31 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Россети Северный Кавказ\" оштрафовали на 1 млн рублей за частые отключения света",
-    "description": "По данным проверки, с января 2025 по 2026 год общая длительность отключений на одном из фидеров составила 147 часов",
-    "fullText": "По данным проверки, с января 2025 по 2026 год общая длительность отключений на одном из фидеров составила 147 часов",
+    "title": "Минобороны Афганистана сообщило об ударе по военному объекту в Исламабаде",
+    "description": "Атака беспилотников была нацелена на командный центр и другие важные объекты, сообщило министерство обороны исламского эмирата",
+    "fullText": "Атака беспилотников была нацелена на командный центр и другие важные объекты, сообщило министерство обороны исламского эмирата",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26756099",
-    "time": "2026-03-13T17:07:23.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26756437",
+    "time": "2026-03-13T18:10:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Какой же стильный вратарский свитер у «Ромы» в нулевых, согласны? Сейчас его можно забрать в Аркаде",
+    "description": "Раньше было ярче.",
+    "fullText": "Раньше было ярче.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/1d30993774fc8be29d80e90327b46.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/siyghn",
+    "time": "2026-03-13T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Когда наши фигуристы вернутся на международные турниры?",
-    "description": "Обсуждаем в недавнем выпуске подкаста «Чистый хвост».",
-    "fullText": "Обсуждаем в недавнем выпуске подкаста «Чистый хвост».",
+    "description": "Обсуждаем в подкасте «Чистый хвост».",
+    "fullText": "Обсуждаем в подкасте «Чистый хвост».",
     "image": "https://photobooth.cdn.sports.ru/preset/article/6/d2/2b35dd09b444697f065d5b7dcb182.jpeg",
     "source": "Sports.ru",
     "category": "all",
@@ -22,36 +33,25 @@
     "time": "2026-03-13T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В какой команде «Ф-1» вы бы гоняли? Узнайте, ответив на 9 вопросов",
-    "description": "В нашем тесте.",
-    "fullText": "В нашем тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/6d/5f61dd953400ea0000f42ab761fd2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/qh6qcj",
-    "time": "2026-03-13T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шефы-враги бьются за долю в команде-аутсайдере «Ф-1»! Но вмешался «Мерседес»",
-    "description": "Хорнер против Вольффа.",
-    "fullText": "Хорнер против Вольффа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/75/53867c116495db405a299190f944a.jpeg",
+    "title": "«Наши победы – это Настин результат. А я всего лишь «глаза». Он – гид паралимпийской чемпионки",
+    "description": "Он и ведет, и тренирует.",
+    "fullText": "Он и ведет, и тренирует.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5e/cdd1ddf494ff1bc3a527398a42238.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3390475.html",
-    "time": "2026-03-13T12:50:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3390774.html",
+    "time": "2026-03-13T14:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Monster Hunter Stories 3: Twisted Reflection",
-    "description": "Пока у игры 86 баллов на Metacritic, но «смешанные» отзывы в Steam.",
-    "fullText": "Пока у игры 86 баллов на Metacritic, но «смешанные» отзывы в Steam.",
-    "image": "https://leonardo.osnova.io/b25061e4-0597-5dda-8ffd-66197d9055fd/",
+    "title": "Pearl Abyss: системные требования Crimson Desert составлялись с учётом Denuvo",
+    "description": "Digital Foundry готовила видео о ПК-версии на основе сборки с защитой.",
+    "fullText": "Digital Foundry готовила видео о ПК-версии на основе сборки с защитой.",
+    "image": "https://leonardo.osnova.io/9190d904-930d-575f-9c1a-aeda30f70427/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4841406-reliz-monster-hunter-stories-3-twisted-reflection?from=rss",
-    "time": "2026-03-13T09:13:21.000Z"
+    "url": "https://dtf.ru/games/4841240-sistemnye-trebovaniya-crimson-desert-s-denuvo?from=rss",
+    "time": "2026-03-13T06:56:58.000Z"
   }
 ]
