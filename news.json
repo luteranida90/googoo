@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минобороны Афганистана сообщило об ударе по военному объекту в Исламабаде",
-    "description": "Атака беспилотников была нацелена на командный центр и другие важные объекты, сообщило министерство обороны исламского эмирата",
-    "fullText": "Атака беспилотников была нацелена на командный центр и другие важные объекты, сообщило министерство обороны исламского эмирата",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Российские лыжники выступят в эстафете на Паралимпиаде",
+    "description": "В гонке 4 x 2,5 км, которая пройдет 14 марта, примут участие Анастасия Багиян и Иван Голубков",
+    "fullText": "В гонке 4 x 2,5 км, которая пройдет 14 марта, примут участие Анастасия Багиян и Иван Голубков",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260313/8881093.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26756437",
-    "time": "2026-03-13T18:10:17.000Z"
+    "url": "https://tass.ru/sport/26756657",
+    "time": "2026-03-13T18:46:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +33,25 @@
     "time": "2026-03-13T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Наши победы – это Настин результат. А я всего лишь «глаза». Он – гид паралимпийской чемпионки",
-    "description": "Он и ведет, и тренирует.",
-    "fullText": "Он и ведет, и тренирует.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/5e/cdd1ddf494ff1bc3a527398a42238.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3390774.html",
-    "time": "2026-03-13T14:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Pearl Abyss: системные требования Crimson Desert составлялись с учётом Denuvo",
-    "description": "Digital Foundry готовила видео о ПК-версии на основе сборки с защитой.",
-    "fullText": "Digital Foundry готовила видео о ПК-версии на основе сборки с защитой.",
-    "image": "https://leonardo.osnova.io/9190d904-930d-575f-9c1a-aeda30f70427/",
+    "title": "СМИ: Брэдли Купера рассматривают на должность режиссёра приквела «Одиннадцати друзей Оушена»",
+    "description": "Он также может сыграть одну из ведущих ролей, присоединившись к Марго Робби.",
+    "fullText": "Он также может сыграть одну из ведущих ролей, присоединившись к Марго Робби.",
+    "image": "https://leonardo.osnova.io/03c9f526-c529-5a7d-80e1-5017135afab6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4841240-sistemnye-trebovaniya-crimson-desert-s-denuvo?from=rss",
-    "time": "2026-03-13T06:56:58.000Z"
+    "url": "https://dtf.ru/cinema/4842204-bradli-kuper-rezhisser-odinnadtsati-druzey-oushena?from=rss",
+    "time": "2026-03-13T15:15:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Возня в победе Медведева – была помеха или нет?",
+    "description": "Даниил выиграл.",
+    "fullText": "Даниил выиграл.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/e3/10d6f4f434e94b2dd753b32c57f72.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3390721.html",
+    "time": "2026-03-13T14:50:00.000Z"
   }
 ]
