@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Разработан метод голосовой аутентификации, проверяющей состояние человека",
-    "description": "Система способна распознавать по голосу нормальное состояние, сонливость и три стадии алкогольного опьянения",
-    "fullText": "Система способна распознавать по голосу нормальное состояние, сонливость и три стадии алкогольного опьянения",
+    "title": "Ялтинца осудили за передачу разведке Украины данных о кораблях в Севастополе",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nauka/26746327",
-    "time": "2026-03-13T05:06:46.000Z"
+    "url": "https://tass.ru/proisshestviya/26747685",
+    "time": "2026-03-13T07:30:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лука Дончич расторг помолвку с матерью дочек. Их история любви походила на идеальный ромком",
+    "description": "Грустный финал.",
+    "fullText": "Грустный финал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/78/fd5fd3a9c488ab6701ea9c76b72bc.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3390260.html",
+    "time": "2026-03-12T21:31:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-12T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я нырнула под лед Байкала в минус 20 🥶🥶",
-    "description": "Морозный репортаж Селенковой.",
-    "fullText": "Морозный репортаж Селенковой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/2c/f47d0ad1a48a89957a1115314c9e6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3388412.html",
-    "time": "2026-03-12T19:29:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Аарон Пьер вернётся к роли Джона Стюарта в сиквеле «Супермена»",
-    "description": "Съёмки фильма стартуют летом.",
-    "fullText": "Съёмки фильма стартуют летом.",
-    "image": "https://leonardo.osnova.io/7a580f8c-8f51-55b7-84ef-10e4cf3bac16/",
+    "title": "Solasta II вышла на ПК в раннем доступе",
+    "description": "Цена RPG в российским регионе — 1394 рубля с учётом скидки 10%.",
+    "fullText": "Цена RPG в российским регионе — 1394 рубля с учётом скидки 10%.",
+    "image": "https://leonardo.osnova.io/0a43be9d-2708-5eb6-9d15-3491b692189b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4840616-aaron-pier-vernetsya-k-roli-styuarta-v-sikle-supermena?from=rss",
-    "time": "2026-03-12T18:39:24.000Z"
+    "url": "https://dtf.ru/games/4840123-solasta-ii-vyshla-v-rannem-dostupe-na-pk-v-steam?from=rss",
+    "time": "2026-03-12T14:45:44.000Z"
   }
 ]
