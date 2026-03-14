@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Самарской области отменили угрозу подлета БПЛА",
-    "description": "Об этом сообщил губернатор Вячеслав Федорищев",
-    "fullText": "Об этом сообщил губернатор Вячеслав Федорищев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26758385",
-    "time": "2026-03-14T03:28:31.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Димарко или Йылдыз? Соберете лучшую команду тура – подарим альбом Panini",
     "description": "Выбирайте игроков в Основе.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бэм Адебайо набрал 83 очка и заставил себя ненавидеть. В чем ценность неожиданного рекорда?",
-    "description": "Указал на очевидное.",
-    "fullText": "Указал на очевидное.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b4/681cdae684e1b9aba043a32dc77b2.jpeg",
+    "title": "14 потерь у «Тоттенхэма» перед «Ливерпулем». Сколько-сколько? 👀",
+    "description": "Тудор в шоке.",
+    "fullText": "Тудор в шоке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/11/40fe725c64facacaff6ab953cb17b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3390572.html",
-    "time": "2026-03-13T18:38:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3390895.html",
+    "time": "2026-03-13T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4842204-bradli-kuper-rezhisser-odinnadtsati-druzey-oushena?from=rss",
     "time": "2026-03-13T15:15:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
