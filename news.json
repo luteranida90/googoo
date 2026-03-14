@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Текслер стал самым результативным игроком в Матче друзей по баскетболу 3х3",
+    "description": "Кубок губернатора Челябинской области проходит с 13 по 15 марта",
+    "fullText": "Кубок губернатора Челябинской области проходит с 13 по 15 марта",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26761805",
+    "time": "2026-03-14T15:04:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "1.90 – на «Зенит», 4.30 – на «Спартак»",
     "description": "Делайте прогноз с фрибетом в Лиге Ставок!",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ЦСКА против СКА в первом раунде плей-офф КХЛ? Расклад на сегодня",
-    "description": "Следим онлайн.",
-    "fullText": "Следим онлайн.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/08/537858e644eac990691110220b487.jpeg",
+    "title": "Самый недооцененный полузащитник РПЛ",
+    "description": "Андрей Савин – о суперклее «Локо».",
+    "fullText": "Андрей Савин – о суперклее «Локо».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/f7/c7cb81e1c4be3b5f924e371cf4926.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3390630.html",
-    "time": "2026-03-14T09:48:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3390913.html",
+    "time": "2026-03-14T10:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4842105-control-i-alan-wake-2-uluchshennyj-pssr-na-ps5-pro?from=rss",
     "time": "2026-03-13T14:18:21.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
