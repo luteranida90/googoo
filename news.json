@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропорту Кирова ввели временные ограничения",
+    "description": "Введены временные ограничения на прием и выпуск самолетов",
+    "fullText": "Введены временные ограничения на прием и выпуск самолетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26766773",
+    "time": "2026-03-15T11:24:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто из звезд хоккея сильнее? Выбирайте своих лидеров и забирайте победу",
+    "description": "В Автобаттлере.",
+    "fullText": "В Автобаттлере.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/9d/a7d99cda9499c852e73af77c25d22.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/x2cg4p",
+    "time": "2026-03-15T09:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "«Ливерпуль» теперь самый стильный в АПЛ. Все благодаря Tommy Hilfiger",
     "description": "Тоннель «Энфилда» стал подиумом.",
@@ -11,17 +33,6 @@
     "time": "2026-03-15T07:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Узнаете ли всех игроков «Реала» 2000-х в нашей игре?",
-    "description": "Будет несложно.",
-    "fullText": "Будет несложно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/33/011c819504619bed883522bdc7fd4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r2bw0n",
-    "time": "2026-03-15T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Начались съёмки «Изгоняющего дьявола» Майка Флэнагана",
     "description": "Зарубежный прокат фильма стартует 12 марта 2027 года.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4842633-syomki-perezapuska-izgonjajushhego-djavola?from=rss",
     "time": "2026-03-13T19:02:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
