@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Военная операция США и Израиля в Иране. Онлайн",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26765163",
+    "time": "2026-03-15T21:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "70% прошедших наш футбольный диктант ошиблись в написании этого клуба. А вы справитесь?",
+    "description": "Играли с нашими в еврокубках.",
+    "fullText": "Играли с нашими в еврокубках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/67/78b0574ae44968eb65de786d7517a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-03-15T19:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Оскар» уже сегодня! Онлайн главного кинособытия года",
     "description": "Смотрим вместе.",
@@ -22,17 +44,6 @@
     "time": "2026-03-15T16:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Для меня существует лишь один подлинный вид серфового спорта – кайтсерфинг»",
-    "description": "Поговорили с чемпионом России по кайтингу.",
-    "fullText": "Поговорили с чемпионом России по кайтингу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/6d/1ea5bc5154c34b357ab2662c71ea2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/ixysqy",
-    "time": "2026-03-15T16:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Пять наград у «Войны миров» и две — у гномов из «Белоснежки»: итоги антипремии «Золотая малина 2026»",
     "description": "Ленту с Айс Кьюбом в том числе признали худшим фильмом.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4843438-itogi-zolotaya-malina-2026?from=rss",
     "time": "2026-03-14T10:12:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
