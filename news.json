@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДНР запустят возведенное по нацпроекту приемное отделение больницы",
-    "description": "Объект посетила делегация из Минздрава под руководством замминистра Андрея Плутницкого",
-    "fullText": "Объект посетила делегация из Минздрава под руководством замминистра Андрея Плутницкого",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26768549",
-    "time": "2026-03-15T17:44:29.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Оскар» уже сегодня! Онлайн главного кинособытия года",
     "description": "Смотрим вместе.",
@@ -22,26 +11,26 @@
     "time": "2026-03-15T17:23:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Финалиссимы не будет. Не нашли стадион на фоне конфликта на Ближнем Востоке",
-    "description": "Аргентина не захотела «Бернабеу».",
-    "fullText": "Аргентина не захотела «Бернабеу».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ed/fe74f35734c55a908e06db49059f0.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Для меня существует лишь один подлинный вид серфового спорта – кайтсерфинг»",
+    "description": "Поговорили с чемпионом России по кайтингу.",
+    "fullText": "Поговорили с чемпионом России по кайтингу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/6d/1ea5bc5154c34b357ab2662c71ea2.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3390608.html",
-    "time": "2026-03-15T14:20:00.000Z"
+    "url": "https://sirena.world/ixysqy",
+    "time": "2026-03-15T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Вспомните россиян, которые играли в Бразилии? Вы точно их знаете",
-    "description": "Челлендж в 3х3.",
-    "fullText": "Челлендж в 3х3.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/95/ecd12c9374e3ea939aceac62fb913.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«На меня смотреть не надо, я плохой пример для детей». Правила жизни Александра Бублика",
+    "description": "Главное из подкаста Соколовского.",
+    "fullText": "Главное из подкаста Соколовского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/8c/d9cdbd0ac43d0a2092c3596c70c5f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2026-03-15T14:00:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3391211.html",
+    "time": "2026-03-15T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4843438-itogi-zolotaya-malina-2026?from=rss",
     "time": "2026-03-14T10:12:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
