@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Индия увеличила объемы закупок нефти у России",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26774555",
+    "time": "2026-03-16T09:26:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "«Оскар»-2026: все новости и победители главной кинопремии года!",
     "description": "Мы следили в онлайне.",
@@ -8,50 +19,39 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3380406.html",
-    "time": "2026-03-16T06:01:00.000Z"
+    "time": "2026-03-16T08:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Вспомните россиян, которые играли в Бразилии? Вы точно их знаете",
-    "description": "Челлендж в 3х3.",
-    "fullText": "Челлендж в 3х3.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/95/ecd12c9374e3ea939aceac62fb913.png",
+    "title": "Узнаете ли всех игроков «Реала» 2000-х в нашей игре?",
+    "description": "Будет несложно.",
+    "fullText": "Будет несложно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/33/011c819504619bed883522bdc7fd4.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2026-03-15T21:30:00.000Z"
+    "url": "https://sirena.world/r2bw0n",
+    "time": "2026-03-16T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Александр Емельяненко наговорил – про биты в багажнике, три месяца на Афоне и «всегда голосую за Путина»",
-    "description": "Главное из большого интервью.",
-    "fullText": "Главное из большого интервью.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/46/e4891cabd4800879dd04c599e3dab.jpeg",
+    "title": "12 главных фактов о новом победителе Гран-при «Ф-1» Кими Антонелли",
+    "description": "Первый успех для итальянцев с 2006-го.",
+    "fullText": "Первый успех для итальянцев с 2006-го.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e8/34f466928405f886b8fb10aea6274.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3391336.html",
-    "time": "2026-03-15T20:59:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3391263.html",
+    "time": "2026-03-16T05:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom объявила о финальной стадии разработки Onimusha и показала одну из локаций",
-    "description": "Для её создания вдохновлялись атмосферой домов с привидениями.",
-    "fullText": "Для её создания вдохновлялись атмосферой домов с привидениями.",
-    "image": "https://leonardo.osnova.io/2d973243-ade3-5115-95d0-742954070dc3/",
+    "title": "В WB Games Montreal прошли сокращения — студию покинула часть разработчиков Gotham Knights",
+    "description": "Некоторые из них также принимали участие в производстве Suicide Squad: Kill the Justice League и Wonder Woman.",
+    "fullText": "Некоторые из них также принимали участие в производстве Suicide Squad: Kill the Justice League и Wonder Woman.",
+    "image": "https://leonardo.osnova.io/a9e84eca-9303-5c3e-a55b-c17c3eb5f9c8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4843862-capcom-zavershila-razrabotku-onimusha?from=rss",
-    "time": "2026-03-14T14:36:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4845040-sokrashcheniya-v-wb-games-montreal-ukhod-razrabotchikov-gotham-knights?from=rss",
+    "time": "2026-03-15T09:18:49.000Z"
   }
 ]
