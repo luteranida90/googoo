@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Индия увеличила объемы закупок нефти у России",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Лукашенко поздравил Токаева с успешным проведением конституционного референдума",
+    "description": "Президент Белоруссии также выразил уверенность в том, что реализация заложенных в новую конституцию принципов послужит фундаментом для дальнейшего процветания Казахстана",
+    "fullText": "Президент Белоруссии также выразил уверенность в том, что реализация заложенных в новую конституцию принципов послужит фундаментом для дальнейшего процветания Казахстана",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250623/8308059.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26774555",
-    "time": "2026-03-16T09:26:37.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Оскар»-2026: все новости и победители главной кинопремии года!",
-    "description": "Мы следили в онлайне.",
-    "fullText": "Мы следили в онлайне.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/3f/b4d56c2e240fe83d7c9da5da48a11.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3380406.html",
-    "time": "2026-03-16T08:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Узнаете ли всех игроков «Реала» 2000-х в нашей игре?",
-    "description": "Будет несложно.",
-    "fullText": "Будет несложно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/33/011c819504619bed883522bdc7fd4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r2bw0n",
-    "time": "2026-03-16T07:00:00.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26778733",
+    "time": "2026-03-16T12:46:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "12 главных фактов о новом победителе Гран-при «Ф-1» Кими Антонелли",
-    "description": "Первый успех для итальянцев с 2006-го.",
-    "fullText": "Первый успех для итальянцев с 2006-го.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e8/34f466928405f886b8fb10aea6274.jpeg",
+    "title": "МОК, возвращай уже российский спорт! Паралимпиада показала, что в этом ничего страшного",
+    "description": "Пора!",
+    "fullText": "Пора!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/21/041d6d1224ea7a9e426e1b4100ded.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3391263.html",
-    "time": "2026-03-16T05:40:00.000Z"
+    "url": "https://www.sports.ru/skiing/blogs/3391389.html",
+    "time": "2026-03-16T09:43:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "70% прошедших наш футбольный диктант ошиблись в написании этого клуба. А вы справитесь?",
+    "description": "Играли с нашими в еврокубках.",
+    "fullText": "Играли с нашими в еврокубках.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/67/78b0574ae44968eb65de786d7517a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-03-16T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В WB Games Montreal прошли сокращения — студию покинула часть разработчиков Gotham Knights",
-    "description": "Некоторые из них также принимали участие в производстве Suicide Squad: Kill the Justice League и Wonder Woman.",
-    "fullText": "Некоторые из них также принимали участие в производстве Suicide Squad: Kill the Justice League и Wonder Woman.",
-    "image": "https://leonardo.osnova.io/a9e84eca-9303-5c3e-a55b-c17c3eb5f9c8/",
+    "title": "Нейтан Филлион анонсировал мультсериал по «Светлячку»",
+    "description": "Тот самый анонс, который актёр обещал на прошлой неделе.",
+    "fullText": "Тот самый анонс, который актёр обещал на прошлой неделе.",
+    "image": "https://leonardo.osnova.io/c351f8c1-ef6e-570a-938f-09b8139a82fa/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4845040-sokrashcheniya-v-wb-games-montreal-ukhod-razrabotchikov-gotham-knights?from=rss",
-    "time": "2026-03-15T09:18:49.000Z"
+    "url": "https://dtf.ru/cinema/4845749-neitan-fillion-anonsiroval-multserial-po-svetlyachku?from=rss",
+    "time": "2026-03-15T14:54:18.000Z"
   }
 ]
