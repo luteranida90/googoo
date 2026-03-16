@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На ферме в Новосибирской области при пожаре погибли 104 теленка",
-    "description": "Площадь возгорания составила 1,6 тыс. кв. м",
-    "fullText": "Площадь возгорания составила 1,6 тыс. кв. м",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26771227",
-    "time": "2026-03-16T04:40:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Оскар»! Онлайн главного кинособытия года",
-    "description": "Смотрим победителей.",
-    "fullText": "Смотрим победителей.",
+    "title": "«Оскар»-2026: все новости и победители главной кинопремии года!",
+    "description": "Мы следили в онлайне.",
+    "fullText": "Мы следили в онлайне.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/a/3f/b4d56c2e240fe83d7c9da5da48a11.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3380406.html",
-    "time": "2026-03-15T23:01:00.000Z"
+    "time": "2026-03-16T06:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сколько раз это еще должно произойти?» «Ливерпуль» отдал ничью «Тоттенхэму» на 90-й – Слот негодует",
-    "description": "Упустили шанс на топ-4.",
-    "fullText": "Упустили шанс на топ-4.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/7f/6f1d0b5ed4ddb8113e4f537f00e63.jpeg",
+    "title": "Александр Емельяненко наговорил – про биты в багажнике, три месяца на Афоне и «всегда голосую за Путина»",
+    "description": "Главное из большого интервью.",
+    "fullText": "Главное из большого интервью.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/46/e4891cabd4800879dd04c599e3dab.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391369.html",
-    "time": "2026-03-15T19:30:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3391336.html",
+    "time": "2026-03-15T20:59:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Slay the Spire 2 достигли трёх миллионов копий — за неделю с релиза в раннем доступе",
-    "description": "Игроки совершили уже более 25 миллионов вылазок.",
-    "fullText": "Игроки совершили уже более 25 миллионов вылазок.",
-    "image": "https://leonardo.osnova.io/6b3e5914-6396-571e-9021-65950e7d63b9/",
+    "title": "Capcom объявила о финальной стадии разработки Onimusha и показала одну из локаций",
+    "description": "Для её создания вдохновлялись атмосферой домов с привидениями.",
+    "fullText": "Для её создания вдохновлялись атмосферой домов с привидениями.",
+    "image": "https://leonardo.osnova.io/2d973243-ade3-5115-95d0-742954070dc3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4843320-slay-the-spire-2-prodano-tri-milliona-kopij?from=rss",
-    "time": "2026-03-14T08:58:30.000Z"
+    "url": "https://dtf.ru/games/4843862-capcom-zavershila-razrabotku-onimusha?from=rss",
+    "time": "2026-03-14T14:36:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
