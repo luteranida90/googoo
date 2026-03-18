@@ -8,18 +8,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/9q9m6o?erid=2SDnjc96y5T",
-    "time": "2026-03-18T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российский рынок акций закрылся разнонаправленным изменением биржевых индексов",
-    "description": "Индекс Мосбиржи вырос на 0,64%, долларовый индекс РТС опустился на 0,83%",
-    "fullText": "Индекс Мосбиржи вырос на 0,64%, долларовый индекс РТС опустился на 0,83%",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26809905",
-    "time": "2026-03-18T17:11:07.000Z"
+    "time": "2026-03-18T17:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мичков проваливает свой второй сезон в НХЛ. Разбираемся, что происходит",
-    "description": "Стоит волноваться?",
-    "fullText": "Стоит волноваться?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/e0/87de5257a4809bf90311aaaf701af.jpeg",
+    "title": "16-летний вратарь может сыграть в плей-офф ЛЧ! У «Баварии» травмированы 4 кипера",
+    "description": "Возвращаем в ворота Кейна?",
+    "fullText": "Возвращаем в ворота Кейна?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/64/0bd15ae274ee7af66f95aaf5ce4ec.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3390606.html",
-    "time": "2026-03-18T13:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3391444.html",
+    "time": "2026-03-18T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Лес, граната и два пистолета: фото и видео со съёмок сериала по Tomb Raider от Amazon",
-    "description": "В ролике Лара стреляет «по-македонски».",
-    "fullText": "В ролике Лара стреляет «по-македонски».",
-    "image": "https://leonardo.osnova.io/57c17979-82c5-53d0-a34e-7937a4381125/",
+    "title": "Постановщик фильма «Грязь» и Джеймс Макэвой занимаются сериалом о наркомане, который расследует убийство лучшего друга",
+    "description": "Съёмки шоу, основанного на книге Meantime, начались.",
+    "fullText": "Съёмки шоу, основанного на книге Meantime, начались.",
+    "image": "https://leonardo.osnova.io/5ef769d8-839a-5c8b-8811-5010d5ec836b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4851633-sjemki-seriala-po-tomb-raider?from=rss",
-    "time": "2026-03-18T09:01:43.000Z"
+    "url": "https://dtf.ru/cinema/4852217-dzheyms-makevoy-i-dzhon-s-beird-snimayut-serial-o-narkomane-i-ubijstve?from=rss",
+    "time": "2026-03-18T13:54:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
