@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новак: несмотря на санкционное давление, экономика РФ демонстрирует устойчивость",
+    "title": "В Иране заявили о повреждении восьми фармацевтических заводов",
     "description": "",
     "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26800741",
-    "time": "2026-03-18T08:44:38.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26801805",
+    "time": "2026-03-18T09:44:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Худший матч в карьере Новака Джоковича",
+    "description": "Антирейтинг.",
+    "fullText": "Антирейтинг.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/49/899d85cf94ee6ac5402a79ad9f0c3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3387097.html",
+    "time": "2026-03-18T04:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +33,14 @@
     "time": "2026-03-18T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главные камбэки в плей-офф ЛЧ: «Барса» вынесла «ПСЖ» после 0:4, но провалилась с «Ливерпулем» и «Ромой»",
-    "description": "До «Спортинга» с «Буде».",
-    "fullText": "До «Спортинга» с «Буде».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/e5/29c8fd7c64bf5ac7aff27a834adfd.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391780.html",
-    "time": "2026-03-17T23:21:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Тодд Говард о производстве The Elder Scrolls VI: «Билды игры стабильно работают почти каждый день»",
-    "description": "Разработчик доволен новым движком Creation Engine 3.",
-    "fullText": "Разработчик доволен новым движком Creation Engine 3.",
-    "image": "https://leonardo.osnova.io/6c469ec0-476a-52ed-b0ac-57287ae7ba70/",
+    "title": "Crimson Desert в преддверии релиза заняла второе место в чарте Steam среди платных игр, уступив лидерство Slay the Spire 2",
+    "description": "А Monster Hunter Stories 3: Twisted Reflection оказалась в топ-3.",
+    "fullText": "А Monster Hunter Stories 3: Twisted Reflection оказалась в топ-3.",
+    "image": "https://leonardo.osnova.io/3681374f-69ad-549b-98bf-981579e8d1e9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4850423-todd-govard-o-the-elder-scrolls-vi?from=rss",
-    "time": "2026-03-17T16:53:13.000Z"
+    "url": "https://dtf.ru/gameindustry/4850832-crimson-desert-vtoroe-mesto-v-chartah-steam?from=rss",
+    "time": "2026-03-17T19:04:20.000Z"
   }
 ]
