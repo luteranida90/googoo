@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Расчлененное тело в чемоданах. Главное об убийстве женщины в Красногорске",
-    "description": "Предполагаемый убийца покончил с собой",
-    "fullText": "Предполагаемый убийца покончил с собой",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260318/8892627.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«Зенит Навсегда» – фильм о ключевых вехах истории сине-бело-голубых!",
+    "description": "Смотрите на PREMIER и RUTUBE.",
+    "fullText": "Смотрите на PREMIER и RUTUBE.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/d4/f2064a14449b192b7501853fc9f24.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26807931",
-    "time": "2026-03-18T14:34:26.000Z"
+    "url": "https://sprts.cc/9q9m6o?erid=2SDnjc96y5T",
+    "time": "2026-03-18T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Каст сериала по Assassin&#039;s Creed от Netflix пополнился ещё двумя актёрами",
-    "description": "В съёмках шоу примут участие Клас Банг и Набан Ризван.",
-    "fullText": "В съёмках шоу примут участие Клас Банг и Набан Ризван.",
-    "image": "https://leonardo.osnova.io/084d4ac2-f757-5c9b-a58c-69c3e890e121/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4852179-kast-seriala-assassins-creed-netflix?from=rss",
-    "time": "2026-03-18T13:34:47.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Российский рынок акций закрылся разнонаправленным изменением биржевых индексов",
+    "description": "Индекс Мосбиржи вырос на 0,64%, долларовый индекс РТС опустился на 0,83%",
+    "fullText": "Индекс Мосбиржи вырос на 0,64%, долларовый индекс РТС опустился на 0,83%",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26809905",
+    "time": "2026-03-18T17:11:07.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
-    "description": "Ищем отличников.",
-    "fullText": "Ищем отличников.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/e5/acba6c4034aa29e133bcca6290d61.png",
+    "title": "Подарим ретроджерси вашей мечты – в нашей футбольной Аркаде",
+    "description": "Достанем любую.",
+    "fullText": "Достанем любую.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/85/2031d89e74b7a9df3e60ee56d3002.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/m0t51e",
-    "time": "2026-03-18T11:30:00.000Z"
+    "url": "https://sirena.world/siyghn",
+    "time": "2026-03-18T15:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наш чемпион Паралимпиады нашел маму в 15 лет. Мы с ним поговорили",
-    "description": "История Ивана Голубкова.",
-    "fullText": "История Ивана Голубкова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/89/3dc74ff874d808b238b7a0dd7a9a7.jpeg",
+    "title": "Мичков проваливает свой второй сезон в НХЛ. Разбираемся, что происходит",
+    "description": "Стоит волноваться?",
+    "fullText": "Стоит волноваться?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/e0/87de5257a4809bf90311aaaf701af.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3391844.html",
-    "time": "2026-03-18T10:05:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3390606.html",
+    "time": "2026-03-18T13:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Лес, граната и два пистолета: фото и видео со съёмок сериала по Tomb Raider от Amazon",
+    "description": "В ролике Лара стреляет «по-македонски».",
+    "fullText": "В ролике Лара стреляет «по-македонски».",
+    "image": "https://leonardo.osnova.io/57c17979-82c5-53d0-a34e-7937a4381125/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4851633-sjemki-seriala-po-tomb-raider?from=rss",
+    "time": "2026-03-18T09:01:43.000Z"
   }
 ]
