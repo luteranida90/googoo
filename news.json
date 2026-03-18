@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Замглавы МИД Ирана: речи о перемирии в войне с США и Израилем не идет",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26811233",
+    "time": "2026-03-18T20:25:11.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Фэнтези Кубка Гагарина запущен – приглашаем собирать команды!",
+    "description": "Лучший спутник для плей-офф.",
+    "fullText": "Лучший спутник для плей-офф.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/c1/50cfee30d40acaa690694448d8d19.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/khl_gagarin_cup",
+    "time": "2026-03-18T18:35:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "«Зенит Навсегда» – фильм о ключевых вехах истории сине-бело-голубых!",
     "description": "Смотрите на PREMIER и RUTUBE.",
@@ -11,47 +33,25 @@
     "time": "2026-03-18T17:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Подарим ретроджерси вашей мечты – в нашей футбольной Аркаде",
-    "description": "Достанем любую.",
-    "fullText": "Достанем любую.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/85/2031d89e74b7a9df3e60ee56d3002.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/siyghn",
-    "time": "2026-03-18T15:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "16-летний вратарь может сыграть в плей-офф ЛЧ! У «Баварии» травмированы 4 кипера",
-    "description": "Возвращаем в ворота Кейна?",
-    "fullText": "Возвращаем в ворота Кейна?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/64/0bd15ae274ee7af66f95aaf5ce4ec.jpeg",
+    "title": "Этот вечно усталый друг Инфантино отнимает Кубок Африки у Сенегала",
+    "description": "Босс КАФ и его команда.",
+    "fullText": "Босс КАФ и его команда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/a5/fb830c3fd4c3a89c21ad27515a4f7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391444.html",
-    "time": "2026-03-18T15:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3391845.html",
+    "time": "2026-03-18T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Постановщик фильма «Грязь» и Джеймс Макэвой занимаются сериалом о наркомане, который расследует убийство лучшего друга",
-    "description": "Съёмки шоу, основанного на книге Meantime, начались.",
-    "fullText": "Съёмки шоу, основанного на книге Meantime, начались.",
-    "image": "https://leonardo.osnova.io/5ef769d8-839a-5c8b-8811-5010d5ec836b/",
+    "title": "В трилогию Hitman World of Assassination сыграло свыше 85 миллионов человек за десять лет",
+    "description": "Результат внушительный.",
+    "fullText": "Результат внушительный.",
+    "image": "https://leonardo.osnova.io/acc406fb-7f49-5be3-b400-619fc1c0b860/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4852217-dzheyms-makevoy-i-dzhon-s-beird-snimayut-serial-o-narkomane-i-ubijstve?from=rss",
-    "time": "2026-03-18T13:54:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4852345-hitman-world-of-assassination-85-millionov-igrokov?from=rss",
+    "time": "2026-03-18T14:51:28.000Z"
   }
 ]
