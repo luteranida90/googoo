@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гуцан поручил проверить, как служат ушедшие на СВО осужденные за коррупцию",
-    "description": "",
-    "fullText": "",
+    "title": "Представители МВФ находятся в Киеве для переговоров по программе финансирования",
+    "description": "Приезд сотрудников фонда позволит обновить прогнозы по ситуации в стране, отметила официальный представитель Международного валютного фонда Джули Козак",
+    "fullText": "Приезд сотрудников фонда позволит обновить прогнозы по ситуации в стране, отметила официальный представитель Международного валютного фонда Джули Козак",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26821807",
-    "time": "2026-03-19T14:02:43.000Z"
+    "url": "https://tass.ru/ekonomika/26822791",
+    "time": "2026-03-19T15:03:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "СМИ: Ubisoft увольняет 105 разработчиков из Red Storm Entertainment — студия больше не будет делать игры",
+    "description": "Когда-то компания активно занималась франшизами Rainbow Six и Ghost Recon.",
+    "fullText": "Когда-то компания активно занималась франшизами Rainbow Six и Ghost Recon.",
+    "image": "https://leonardo.osnova.io/46b7bfc0-b5eb-501f-8d14-64e866cfe81d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4854993-smi-ubisoft-uvolnyaet-105-razrabotchikov-iz-red-storm-entertainment-studiya-bolshe-ne-budet-delat-igry?from=rss",
+    "time": "2026-03-19T15:02:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лангу из «Галатасарая» отрезало часть пальца. Кошмар из-за рекламного щита на «Энфилде»",
+    "description": "«Ему больно, очень больно».",
+    "fullText": "«Ему больно, очень больно».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e4/700992d3149d9bb585cc47a089ebe.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3392074.html",
+    "time": "2026-03-19T10:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://sirena.world/dh2wm3",
     "time": "2026-03-19T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Похоже, Овечкин не побьет рекорд Гретцки по голам с учетом плей-офф. Матчей осталось меньше, чем шайб",
-    "description": "Но только если это последний сезон в НХЛ.",
-    "fullText": "Но только если это последний сезон в НХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/6f/d5e3653b2419a9855362b445c4b5e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3358112.html",
-    "time": "2026-03-19T08:33:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Переполнена идеями, но многие из них кажутся недоработанными»: Crimson Desert получила 78 баллов на Metacritic",
-    "description": "Игровой процесс, несомненно, доставит удовольствие, однако интересных историй от экшена можно не ждать.",
-    "fullText": "Игровой процесс, несомненно, доставит удовольствие, однако интересных историй от экшена можно не ждать.",
-    "image": "https://leonardo.osnova.io/fe954b62-1116-5dc9-b2d9-f91cfa347592/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4853166-crimson-desert-78-ballov-na-metacritic?from=rss",
-    "time": "2026-03-18T23:19:13.000Z"
   }
 ]
