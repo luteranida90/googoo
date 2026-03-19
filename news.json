@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: на юге Москвы машина скорой помощи перевернулась после ДТП",
+    "description": "На месте происшествия работают правоохранительные органы и экстренные службы",
+    "fullText": "На месте происшествия работают правоохранительные органы и экстренные службы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26825461",
+    "time": "2026-03-19T19:20:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Самый дорогой и нелепый наряд на «Оскаре». Мужик повесил карточку Кобе, Майкла и Леброна за 20 млн долларов",
     "description": "Босс хайпа.",
@@ -9,6 +20,17 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3391895.html",
     "time": "2026-03-19T16:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Только 3% игроков одерживают победу без Кучерова. Сможете так?",
+    "description": "В Автобаттлере.",
+    "fullText": "В Автобаттлере.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/37/b9b35fd2e47389bad22759b024a0a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/x2cg4p",
+    "time": "2026-03-19T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -23,46 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "20 крутых историй о тренерах Серии А",
-    "description": "Политика, взбалмошные решения, жизнь.",
-    "fullText": "Политика, взбалмошные решения, жизнь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ca/18e68def04859b777dd26abee075d.jpeg",
+    "title": "Кейлор Навас, Фалькао, Вальбуэна и другие легенды, которые все еще играют",
+    "description": "И незаменимый Роке Санта Крус!",
+    "fullText": "И незаменимый Роке Санта Крус!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/17/1d04b8ffe49a8b86addc4aacc2db6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391086.html",
-    "time": "2026-03-19T14:11:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3391645.html",
+    "time": "2026-03-19T15:11:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Элайджа Вуд рассказал, что наконец-то начал читать трилогию «Властелин колец»",
-    "description": "Лучше поздно, чем никогда.",
-    "fullText": "Лучше поздно, чем никогда.",
-    "image": "https://leonardo.osnova.io/425b8806-fdc8-54a6-bf24-5b360696c860/",
+    "title": "В Fortnite начался сезон «Противостояние» — его посвятили конфликту Основателя и Владыки льда",
+    "description": "Геймерам предстоит выбрать сторону.",
+    "fullText": "Геймерам предстоит выбрать сторону.",
+    "image": "https://leonardo.osnova.io/e0e85ed6-5b94-55c0-8699-7db7cbe02a91/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/read/4854641-elajdja-vud-nachal-chitat-trilogiju-vlastelin-kolec?from=rss",
-    "time": "2026-03-19T14:07:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Ямаль или Мбаппе, Бруну или Экитике – кто будет в вашей дрим-тим?",
-    "description": "Выберите на эти выходные.",
-    "fullText": "Выберите на эти выходные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/a5/4c2c232ba407b9ab30bf121bbec2c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/v6n9dq",
-    "time": "2026-03-19T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4854391-fortnite-sezon-protivostoyanie-konflikt-osnovatelya-i-vladyki-lda?from=rss",
+    "time": "2026-03-19T14:41:03.000Z"
   }
 ]
