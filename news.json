@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: на юге Москвы машина скорой помощи перевернулась после ДТП",
-    "description": "На месте происшествия работают правоохранительные органы и экстренные службы",
-    "fullText": "На месте происшествия работают правоохранительные органы и экстренные службы",
+    "title": "В Орловской области объявили опасность атаки БПЛА",
+    "description": "МЧС России призвало граждан сохранять бдительность",
+    "fullText": "МЧС России призвало граждан сохранять бдительность",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26825461",
-    "time": "2026-03-19T19:20:19.000Z"
+    "url": "https://tass.ru/proisshestviya/26825653",
+    "time": "2026-03-19T20:02:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лингард теперь в «Коринтиансе» – вместе с Депаем. Ушел из «Сеула» после двух сезонов",
+    "description": "Ему уже 33.",
+    "fullText": "Ему уже 33.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/11/6797c367d457c8ed517aa90380c99.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3389365.html",
+    "time": "2026-03-19T16:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,36 +44,14 @@
     "time": "2026-03-19T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Авангард» перевернул матч с «Северсталью» – 4 гола за период. Показывали на ВидеоСпортсе’’",
-    "description": "«Безобразный третий период».",
-    "fullText": "«Безобразный третий период».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/5a/00f95f0e44c95b399d98d3431d1c1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/JUmxckpk9GqKf6kAlI6P-9bJ-bXqAAqxBLdhySqtM50",
-    "time": "2026-03-19T15:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кейлор Навас, Фалькао, Вальбуэна и другие легенды, которые все еще играют",
-    "description": "И незаменимый Роке Санта Крус!",
-    "fullText": "И незаменимый Роке Санта Крус!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/17/1d04b8ffe49a8b86addc4aacc2db6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391645.html",
-    "time": "2026-03-19T15:11:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Fortnite начался сезон «Противостояние» — его посвятили конфликту Основателя и Владыки льда",
-    "description": "Геймерам предстоит выбрать сторону.",
-    "fullText": "Геймерам предстоит выбрать сторону.",
-    "image": "https://leonardo.osnova.io/e0e85ed6-5b94-55c0-8699-7db7cbe02a91/-/format/mp4/",
+    "title": "СМИ: Ubisoft увольняет 105 разработчиков из Red Storm Entertainment — студия больше не будет делать игры",
+    "description": "Когда-то компания активно занималась франшизами Rainbow Six и Ghost Recon.",
+    "fullText": "Когда-то компания активно занималась франшизами Rainbow Six и Ghost Recon.",
+    "image": "https://leonardo.osnova.io/46b7bfc0-b5eb-501f-8d14-64e866cfe81d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4854391-fortnite-sezon-protivostoyanie-konflikt-osnovatelya-i-vladyki-lda?from=rss",
-    "time": "2026-03-19T14:41:03.000Z"
+    "url": "https://dtf.ru/gameindustry/4854993-ubisoft-uvolnyaet-105-razrabotchikov-red-storm-entertainment?from=rss",
+    "time": "2026-03-19T15:02:05.000Z"
   }
 ]
