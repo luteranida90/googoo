@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Прощание с женой Басилашвили пройдет в Петербурге 23 марта",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26833889",
+    "time": "2026-03-20T12:47:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вы больше похожи на пилота «Феррари» или «Мерседеса»?",
     "description": "Узнайте в нашем тесте.",
@@ -11,36 +22,25 @@
     "time": "2026-03-20T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Швентек жестко посыпалась",
-    "description": "Бывший доминатор.",
-    "fullText": "Бывший доминатор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ab/3264692e84c09a465942ea6155d72.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3392303.html",
-    "time": "2026-03-20T07:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crimson Desert вышла на ПК, PS5 и Xbox Series X|S",
-    "description": "У игры 80 баллов из 100 на OpenCritic.",
-    "fullText": "У игры 80 баллов из 100 на OpenCritic.",
-    "image": "https://leonardo.osnova.io/fad9edac-dc68-5d77-9bf1-c5540aeef67a/-/format/mp4/",
+    "title": "Нейтан Филлион объяснил выбор временного отрезка для мультсериала по «Светлячку» — авторы хотят воссоединить персонажей",
+    "description": "Пастора Бука сыграет другой актёр вместо покойного Рона Гласса.",
+    "fullText": "Пастора Бука сыграет другой актёр вместо покойного Рона Гласса.",
+    "image": "https://leonardo.osnova.io/e67d37d5-9907-5e69-9c6e-9a3d006e88c9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4856844-crimson-desert-vyshla-na-pk-ps5-i-xbox-series-xs?from=rss",
-    "time": "2026-03-19T22:01:41.000Z"
+    "url": "https://dtf.ru/cinema/4860564-nejtan-fillion-o-multseriale-svetlyachok?from=rss",
+    "time": "2026-03-20T07:59:10.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кошмар ЦСКА продолжается: Мойзес наехал на Челестини – теперь отстранен от основы",
+    "description": "После удаления с «Краснодаром».",
+    "fullText": "После удаления с «Краснодаром».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/29/7b9d6e84b433f9f3eda65533a0140.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3392265.html",
+    "time": "2026-03-20T07:40:00.000Z"
   }
 ]
