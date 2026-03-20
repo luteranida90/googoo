@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мантуров и Собянин осмотрели ход строительства заводов аккумуляторных батарей",
-    "description": "Первый вице-премьер РФ рассчитывает, что Москва реализует этот проект до конца года",
-    "fullText": "Первый вице-премьер РФ рассчитывает, что Москва реализует этот проект до конца года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Футболист \"Балтики\" Хиль объяснил эмоциями потасовку в игре с ЦСКА",
+    "description": "Нападающий калининградской команды отметил, что матч получился очень энергозатратным",
+    "fullText": "Нападающий калининградской команды отметил, что матч получился очень энергозатратным",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260320/8899201.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26835865",
-    "time": "2026-03-20T14:55:33.000Z"
+    "url": "https://tass.ru/sport/26836281",
+    "time": "2026-03-20T15:38:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Все о петербургском клубе: с основания до наших дней – фильм «Зенит Навсегда»",
+    "description": "Уже доступен на PREMIER и RUTUBE.",
+    "fullText": "Уже доступен на PREMIER и RUTUBE.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/3c/794b510f1409e9c963cbd05deffee.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/9q9m6o?erid=2SDnjc91wEZ",
+    "time": "2026-03-20T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +44,17 @@
     "time": "2026-03-20T13:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Спортом в России занимается 84 млн человек, за год +585 тысяч бодибилдеров – новые подсчеты Минспорта",
+    "description": "Авдохин изучил отчет.",
+    "fullText": "Авдохин изучил отчет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ee/06b357f8944e09ddf31b23532091b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/aquatics/blogs/3391804.html",
+    "time": "2026-03-20T11:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Диарра, Павлюченко и Билялетдинов – знаете, что их объединяет?",
     "description": "Проверьте свои знания.",
@@ -44,25 +66,14 @@
     "time": "2026-03-20T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ф-1» теперь сравнивают с «Марио Карт». И ведь действительно похожи!",
-    "description": "Гриб есть – нужны ракушка и банан.",
-    "fullText": "Гриб есть – нужны ракушка и банан.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b1/93abaf2f6415280e050ca3d0d6c07.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3390805.html",
-    "time": "2026-03-20T10:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«„Марафон“ ждёт»: релизный трейлер первой эндгейм-карты Marathon с рейд-механиками",
-    "description": "Она будет доступна только по выходным.",
-    "fullText": "Она будет доступна только по выходным.",
-    "image": "https://leonardo.osnova.io/f9398868-84cb-51f0-9baa-1ed48eeffd70/-/format/mp4/",
+    "title": "Ubisoft и Netflix приступили к съёмкам сериала по Assassin&#039;s Creed",
+    "description": "События развернутся в Древнем Риме 64 года.",
+    "fullText": "События развернутся в Древнем Риме 64 года.",
+    "image": "https://leonardo.osnova.io/def62e48-1b8f-532c-98d7-1cb53ee1597f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4860380-reliznyj-trejler-karty-marathon-s-rejd-mehanikami?from=rss",
-    "time": "2026-03-20T07:04:08.000Z"
+    "url": "https://dtf.ru/cinema/4861586-ubisoft-i-netflix-syemki-assassins-creed?from=rss",
+    "time": "2026-03-20T10:41:02.000Z"
   }
 ]
