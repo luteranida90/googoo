@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Причиной пожара в ТЦ в Бурятии мог стать аварийный режим работы электросети",
-    "description": "Инцидент произошел ночью в поселке Таксимо",
-    "fullText": "Инцидент произошел ночью в поселке Таксимо",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26826615",
-    "time": "2026-03-20T01:24:01.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«МЮ» победит «Борнмут»? Угадайте победителей в новом туре АПЛ и выиграйте проектор",
     "description": "В Пикере Спортса’’.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4855006-vampire-crawlers-spin-off-vampire-survivors?from=rss",
     "time": "2026-03-19T15:13:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
