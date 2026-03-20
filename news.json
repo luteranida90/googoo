@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Петросян будет капитаном команды Москвы на Кубке Первого канала",
-    "description": "Капитаном команды Санкт-Петербурга станет Евгений Устенко",
-    "fullText": "Капитаном команды Санкт-Петербурга станет Евгений Устенко",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260320/8899309.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Собрали все рекорды текущего сезона КХЛ в одном тесте. Даже ложные – вычислите их?",
+    "description": "Тест для фанатов хоккея.",
+    "fullText": "Тест для фанатов хоккея.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/cb/22b699e93460984b1dcaed4216045.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/26837035",
-    "time": "2026-03-20T16:44:31.000Z"
+    "url": "https://sirena.world/86pcn7",
+    "time": "2026-03-20T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,47 +22,36 @@
     "time": "2026-03-20T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Умер Чак Норрис. Легенде боевиков было 86 лет",
-    "description": "Главное о трагедии.",
-    "fullText": "Главное о трагедии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/05/f3c182f0041c88f5b1291f7399c29.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3392418.html",
-    "time": "2026-03-20T14:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 молодых звезд бокса, которые сменят Усика, Кроуфорда и Канело",
-    "description": "Следите за ними уже сейчас.",
-    "fullText": "Следите за ними уже сейчас.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/99/a9fd471484e75a0b88fcda754aae8.png",
+    "title": "Шевалье уйдет из «ПСЖ»? Облизывается тонущий «Тоттенхэм»",
+    "description": "Проиграл конкуренцию Сафонову.",
+    "fullText": "Проиграл конкуренцию Сафонову.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/2f/8e181fe124042aa79c9cfc190e17b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3390155.html",
-    "time": "2026-03-20T13:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90Lm1lL2N5",
-    "title": "Тамагочи в 2026 году – заводим питомца в телефоне",
-    "description": "Новая версия игры.",
-    "fullText": "Новая версия игры.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/78/225fbaf0040c88b6b444253ea382a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_material",
-    "time": "2026-03-20T13:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3392287.html",
+    "time": "2026-03-20T15:09:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи No, I&#039;m not a Human достигли миллиона копий",
-    "description": "Поклонников также порадовали приятными бонусами.",
-    "fullText": "Поклонников также порадовали приятными бонусами.",
-    "image": "https://leonardo.osnova.io/59e065cb-01a4-53ba-b682-3df803ff5a10/",
+    "title": "Сценарист «Иллюзии обмана 3» и приквелов «Голодных игр» напишет «Форсаж 11»",
+    "description": "О назначении объявил лично Вин Дизель.",
+    "fullText": "О назначении объявил лично Вин Дизель.",
+    "image": "https://leonardo.osnova.io/b63de508-4ed2-5924-b2e5-ac7b517fda01/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4861422-prodazhi-no-im-not-a-human-prevyshili-million-kopiy?from=rss",
-    "time": "2026-03-20T10:09:53.000Z"
+    "url": "https://dtf.ru/cinema/4862276-scenarist-majkl-lesli-napishhet-film-forzh-11?from=rss",
+    "time": "2026-03-20T11:54:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
