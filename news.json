@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "10 лучших фильмов и сериалов с Чаком Норрисом. Наши любимые драки и удары ногой с разворота",
+    "description": "Навсегда в сердечке.",
+    "fullText": "Навсегда в сердечке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e2/8a576da2b48f7b3a056191696e861.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3392461.html",
+    "time": "2026-03-20T20:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Вучич заявил, что будет трудно предотвратить третью мировую войну",
+    "description": "По словам сербского лидера, \"борьба за нефть, газ, минералы, редкие металлы и другие ресурсы давно началась\"",
+    "fullText": "По словам сербского лидера, \"борьба за нефть, газ, минералы, редкие металлы и другие ресурсы давно началась\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26838011",
+    "time": "2026-03-20T19:57:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Собрали все рекорды текущего сезона КХЛ в одном тесте. Даже ложные – вычислите их?",
     "description": "Тест для фанатов хоккея.",
@@ -11,47 +33,25 @@
     "time": "2026-03-20T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Все о петербургском клубе: с основания до наших дней – фильм «Зенит Навсегда»",
-    "description": "Уже доступен на PREMIER и RUTUBE.",
-    "fullText": "Уже доступен на PREMIER и RUTUBE.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/3c/794b510f1409e9c963cbd05deffee.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/9q9m6o?erid=2SDnjc91wEZ",
-    "time": "2026-03-20T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шевалье уйдет из «ПСЖ»? Облизывается тонущий «Тоттенхэм»",
-    "description": "Проиграл конкуренцию Сафонову.",
-    "fullText": "Проиграл конкуренцию Сафонову.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/2f/8e181fe124042aa79c9cfc190e17b.jpeg",
+    "title": "Дзюба вернется в «Спартак»?",
+    "description": "Чернявский искал ответы.",
+    "fullText": "Чернявский искал ответы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/3f/1a2330b0a400682e10b991eb2a140.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3392287.html",
-    "time": "2026-03-20T15:09:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3392314.html",
+    "time": "2026-03-20T16:28:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сценарист «Иллюзии обмана 3» и приквелов «Голодных игр» напишет «Форсаж 11»",
-    "description": "О назначении объявил лично Вин Дизель.",
-    "fullText": "О назначении объявил лично Вин Дизель.",
-    "image": "https://leonardo.osnova.io/b63de508-4ed2-5924-b2e5-ac7b517fda01/",
+    "title": "Crimson Desert стартовала в Steam с онлайном в 239 тысяч и «смешанными» отзывами",
+    "description": "В основном игроки жалуются на управление и скучные квесты.",
+    "fullText": "В основном игроки жалуются на управление и скучные квесты.",
+    "image": "https://leonardo.osnova.io/7b7dfeb1-ed68-5736-bd6d-ba320ee2fa83/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4862276-scenarist-majkl-lesli-napishhet-film-forzh-11?from=rss",
-    "time": "2026-03-20T11:54:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4859883-crimson-desert-v-steam-239-tysyach-igrokov?from=rss",
+    "time": "2026-03-20T06:04:50.000Z"
   }
 ]
