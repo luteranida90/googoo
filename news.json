@@ -1,46 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Хабаровском крае устранили аварию, оставившую три района без отопления",
-    "description": "Ограничения коснулись 348 многоквартирных домов",
-    "fullText": "Ограничения коснулись 348 многоквартирных домов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26845567",
-    "time": "2026-03-22T09:44:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» не проигрывает уже 14 матчей! Удержат серию в финале Кубка против «Ман Сити»?",
-    "description": "Следим с фрибетом до 15 000 от FONBET.",
-    "fullText": "Следим с фрибетом до 15 000 от FONBET.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/d8/857cae6c14a7e9efa0747e04d52fc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/xvo9gw",
-    "time": "2026-03-22T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Семаку нужно победить не только конкурентов, но и своих игроков",
-    "description": "Колонка Ильи Васильева.",
-    "fullText": "Колонка Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/dd/ed8e0394e4d9da3528adecda5e116.jpeg",
+    "title": "«Я твой мама, твою папа...». Дончич повелся на грузинский трэшток и будет дисквалифицирован",
+    "description": "Оскорбили семью.",
+    "fullText": "Оскорбили семью.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f3/b6060ddc345b2ac2dfc9ac9cbe9b0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391915.html",
-    "time": "2026-03-22T06:35:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3392764.html",
+    "time": "2026-03-22T10:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Resident Evil Requiem стала самой продаваемой игрой 2026-го в США",
-    "description": "Первый финансовый хит текущего года.",
-    "fullText": "Первый финансовый хит текущего года.",
-    "image": "https://leonardo.osnova.io/f4c6d9fd-7ee1-5ede-9d69-acc080ea2e6c/",
+    "title": "СМИ: Nintendo работает над новой моделью Switch 2 — со съёмной батареей",
+    "description": "Она будет продаваться в Европе.",
+    "fullText": "Она будет продаваться в Европе.",
+    "image": "https://leonardo.osnova.io/1fdc3721-52bb-5d41-862d-dc21a7186c18/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4863357-resident-evil-requiem-samaya-prodayemaya-igra-v-ssha?from=rss",
-    "time": "2026-03-20T15:05:05.000Z"
+    "url": "https://dtf.ru/hard/4865038-nintendo-switch-2-s-syomnoy-batareyey-dlya-evropy?from=rss",
+    "time": "2026-03-20T17:51:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
