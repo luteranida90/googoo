@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я твой мама, твою папа...». Дончич повелся на грузинский трэшток и будет дисквалифицирован",
-    "description": "Оскорбили семью.",
-    "fullText": "Оскорбили семью.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f3/b6060ddc345b2ac2dfc9ac9cbe9b0.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В нулевых «Локо» обыгрывал «Реал», а «Спартак» – «Арсенал»! Выиграйте джерси тех лет",
+    "description": "В футбольной Аркаде.",
+    "fullText": "В футбольной Аркаде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/c6/7f5db1f544c4084c379a849ea09fd.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3392764.html",
-    "time": "2026-03-22T10:10:00.000Z"
+    "url": "https://sirena.world/siyghn",
+    "time": "2026-03-22T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пулково принимает и отправляет рейсы по согласованию",
+    "description": "Меры приняты для обеспечения безопасности полетов",
+    "fullText": "Меры приняты для обеспечения безопасности полетов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260322/8901559.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26846449",
+    "time": "2026-03-22T13:37:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Ливерпуль» проиграл 35-летнему Уэлбеку",
+    "description": "У него дубль.",
+    "fullText": "У него дубль.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/3a/22ff0fe6248d5b27a86ecc52d4d00.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3392627.html",
+    "time": "2026-03-22T10:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/4865038-nintendo-switch-2-s-syomnoy-batareyey-dlya-evropy?from=rss",
     "time": "2026-03-20T17:51:12.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
