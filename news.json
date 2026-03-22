@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В ГД могут вернуться к вопросу о цензе оседлости для получения маткапитала",
+    "description": "Как напомнил глава комитета Госдумы по труду, соцполитике и делам ветеранов Ярослав Нилов, с 1 апреля 2027 года это ограничение введут для единого пособия на детей",
+    "fullText": "Как напомнил глава комитета Госдумы по труду, соцполитике и делам ветеранов Ярослав Нилов, с 1 апреля 2027 года это ограничение введут для единого пособия на детей",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260323/8902207.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26848227",
+    "time": "2026-03-22T22:41:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Над названием этого клуба раньше смеялись. Сможете его правильно написать?",
+    "description": "В футбольном диктанте.",
+    "fullText": "В футбольном диктанте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/cb/9c3f908b449599f2c4115d5dfe156.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-03-22T21:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlb3Nw",
     "title": "«Реал» разнес «Барсу» – что это было?! Разбор на ВидеоСпортсе’’",
     "description": "Показали баскет с ТВ Старт.",
@@ -22,17 +44,6 @@
     "time": "2026-03-22T19:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Всего 14 футболистов играли и в «Реале», и в «Атлетико» в этом веке – кого назовете?",
-    "description": "Вспомните самого редкого.",
-    "fullText": "Вспомните самого редкого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/0b/79316a50c4e958dc1f3a2f087899f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2026-03-22T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "SEGA выпустила мини-сериал по Yakuza — все три эпизода доступны на YouTube-канале компании",
     "description": "Фанаты отметили, что низкобюджетная адаптация получилась лучше, чем шоу от Amazon.",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4865758-miniserial-po-yakuza-ot-sega?from=rss",
     "time": "2026-03-20T19:34:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
