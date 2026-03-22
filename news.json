@@ -1,25 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Аэропорты Домодедово и Жуковский обслуживают рейсы по согласованию",
-    "description": "Об этом сообщила Росавиация",
-    "fullText": "Об этом сообщила Росавиация",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/26848085",
-    "time": "2026-03-22T21:32:31.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
+    "id": "aHR0cHM6Ly92aWRlb3Nw",
     "title": "«Реал» разнес «Барсу» – что это было?! Разбор на ВидеоСпортсе’’",
     "description": "Показали баскет с ТВ Старт.",
     "fullText": "Показали баскет с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/a/a9/e024d5cfc42d5b00d215d42479755.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/nscbcdpQycoroSNFe79dkuevhUJHAfcaZrEMeYVIUDQ",
+    "url": "https://videosports.ru/real_vs_barca_high",
     "time": "2026-03-22T19:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Каким был 1000-й гол Уэйна Гретцки",
+    "description": "У Овечкина теперь тоже тысяча.",
+    "fullText": "У Овечкина теперь тоже тысяча.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/45/5515de15747768d0d29a6e297e609.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3388403.html",
+    "time": "2026-03-22T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,17 +33,6 @@
     "time": "2026-03-22T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Семак идеально выбрал состав на «Динамо». Расцвели и Энрике, и Глушенков",
-    "description": "Колонка Ильи Васильева.",
-    "fullText": "Колонка Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/3f/0122fdd094b95942b44064125b0c4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3392882.html",
-    "time": "2026-03-22T18:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "SEGA выпустила мини-сериал по Yakuza — все три эпизода доступны на YouTube-канале компании",
     "description": "Фанаты отметили, что низкобюджетная адаптация получилась лучше, чем шоу от Amazon.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4865758-miniserial-po-yakuza-ot-sega?from=rss",
     "time": "2026-03-20T19:34:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
