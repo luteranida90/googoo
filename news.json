@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пострадавшим на стекольном заводе в Ростовской области провели операции",
+    "description": "Медики оценили состояние пациентов как удовлетворительное",
+    "fullText": "Медики оценили состояние пациентов как удовлетворительное",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26854219",
+    "time": "2026-03-23T10:47:02.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Узнаете ли всех игроков «Реала» 2000-х в нашей игре?",
     "description": "Будет несложно.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наши любимые голы Овечкина в НХЛ",
-    "description": "Дух Хлебонасущенского тоже выбрал!",
-    "fullText": "Дух Хлебонасущенского тоже выбрал!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/9f/61837720b4c12b3c9a8c8685fee2d.jpeg",
+    "title": "«Реал» вырвал мегаматч у «Атлетико»! Камбэк с двумя шедеврами, дублем Винисиуса, голом и красной Вальверде",
+    "description": "Очень спорной красной.",
+    "fullText": "Очень спорной красной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e8/f19d049124d6fb3bf3f0eadc4f251.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3388749.html",
-    "time": "2026-03-23T05:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3392943.html",
+    "time": "2026-03-23T06:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Анонсирована Minecraft Dungeons II",
-    "description": "Релиз состоится осенью.",
-    "fullText": "Релиз состоится осенью.",
-    "image": "https://leonardo.osnova.io/66f3139a-2284-50ea-ad83-e66f14803287/-/format/mp4/",
+    "title": "Авторы аниме-сериала «Дорохедоро» представили опенинг второго сезона",
+    "description": "А также эндинг и несколько стильных артов.",
+    "fullText": "А также эндинг и несколько стильных артов.",
+    "image": "https://leonardo.osnova.io/94a1f668-7333-51fa-a796-bfc787096a1d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4881274-minecraft-dungeons-ii-anonsirovana-reliz-osenyu?from=rss",
-    "time": "2026-03-22T07:42:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/anime/4882412-dorohedoro-opending-vtoroogo-sezona?from=rss",
+    "time": "2026-03-22T10:16:42.000Z"
   }
 ]
