@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Индекс Мосбиржи на открытии утренней торговой сессии рос на 0,33%",
+    "description": "К 07:12 мск он находился на отметке 2 869,5 пункта",
+    "fullText": "К 07:12 мск он находился на отметке 2 869,5 пункта",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26849421",
+    "time": "2026-03-23T04:18:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Реал» разнес «Барсу» – что это было?! Разбор на ВидеоСпортсе’’",
     "description": "Показали баскет с ТВ Старт.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Забил, отдал, много двигается, старается – что еще нужно нападающему?» Семак доволен Соболевым",
-    "description": "И «Зенитом» в целом.",
-    "fullText": "И «Зенитом» в целом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5d/8031e751e4cacb39561a08ebca769.jpeg",
+    "title": "Чак Норрис – боец-миф?",
+    "description": "Оцениваем спортивную карьеру.",
+    "fullText": "Оцениваем спортивную карьеру.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/4d/3baf80621475f828b91a1ef8563d8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3392912.html",
-    "time": "2026-03-22T20:00:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3392598.html",
+    "time": "2026-03-22T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4865758-miniserial-po-yakuza-ot-sega?from=rss",
     "time": "2026-03-20T19:34:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
