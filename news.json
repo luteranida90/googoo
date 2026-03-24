@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве на нескольких улицах закрыли движение транспорта",
-    "description": "Для поездок по городу горожанам и гостям столицы рекомендуется использовать общественный транспорт",
-    "fullText": "Для поездок по городу горожанам и гостям столицы рекомендуется использовать общественный транспорт",
+    "title": "С бывшего главного бухгалтера базы ФК ЦСКА взыскали более 3,25 млн рублей",
+    "description": "Суд указал, что размер причиненного ущерба уже установлен вступившим в законную силу приговором и не подлежит повторному доказыванию",
+    "fullText": "Суд указал, что размер причиненного ущерба уже установлен вступившим в законную силу приговором и не подлежит повторному доказыванию",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26863629",
-    "time": "2026-03-24T06:37:36.000Z"
+    "url": "https://tass.ru/proisshestviya/26864635",
+    "time": "2026-03-24T07:54:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Какой клуб объединяет Овчинникова, Смертина и Вальбуэна?",
+    "description": "И другие футбольные трио.",
+    "fullText": "И другие футбольные трио.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/3a/da06cb444449c991275cd638f970b.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/dh2wm3",
+    "time": "2026-03-24T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Приношу извинения всем, кроме тренеров ЦСКА». Взгляд Талалаева на стычку и новый бан",
+    "description": "Челестини наговорил много плохого.",
+    "fullText": "Челестини наговорил много плохого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f1/d90272f9041468aac5c66ca1feb27.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3393071.html",
+    "time": "2026-03-23T21:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +44,14 @@
     "time": "2026-03-23T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как букмекеры выходят на рынок и при чем тут неработающие компании с лицензиями",
-    "description": "Феномен спящих лицензий.",
-    "fullText": "Феномен спящих лицензий.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/61/177a5b15d48209fff2f2ada293fba.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/industry/blogs/3392102.html",
-    "time": "2026-03-23T20:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
-    "description": "Ищем отличников.",
-    "fullText": "Ищем отличников.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/e5/acba6c4034aa29e133bcca6290d61.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/m0t51e",
-    "time": "2026-03-23T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Рутина в пригороде: IGN показал 15 минут геймплея киберпанк-экшена Replaced",
-    "description": "Без драк, но с изучением большой локации и беседами с NPC.",
-    "fullText": "Без драк, но с изучением большой локации и беседами с NPC.",
-    "image": "https://leonardo.osnova.io/0c20a9d1-bd7f-594a-bf18-afc150198cb6/",
+    "title": "Серверы Battlefield Hardline на PS4 и Xbox One отключат, а игру удалят из цифровых магазинов",
+    "description": "ПК-версия всё ещё будет доступна.",
+    "fullText": "ПК-версия всё ещё будет доступна.",
+    "image": "https://leonardo.osnova.io/9467df2f-69d5-53da-a7ab-43bad961aa42/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4894777-geympley-replaced-15-minut-kiberpunk-ekshena-ot-sad-cat?from=rss",
-    "time": "2026-03-23T14:41:53.000Z"
+    "url": "https://dtf.ru/games/4895942-battlefield-hardline-ps4-xbox-one-otklyuchat?from=rss",
+    "time": "2026-03-23T16:51:58.000Z"
   }
 ]
