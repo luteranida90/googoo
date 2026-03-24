@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "С бывшего главного бухгалтера базы ФК ЦСКА взыскали более 3,25 млн рублей",
-    "description": "Суд указал, что размер причиненного ущерба уже установлен вступившим в законную силу приговором и не подлежит повторному доказыванию",
-    "fullText": "Суд указал, что размер причиненного ущерба уже установлен вступившим в законную силу приговором и не подлежит повторному доказыванию",
+    "title": "В России введут в оборот вакцину от аллергии на пыльцу березы",
+    "description": "Вице-президент Общества врачей России отметил, что препарат появится в 2026-2027 годах",
+    "fullText": "Вице-президент Общества врачей России отметил, что препарат появится в 2026-2027 годах",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26864635",
-    "time": "2026-03-24T07:54:08.000Z"
+    "url": "https://tass.ru/obschestvo/26866033",
+    "time": "2026-03-24T09:17:02.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Супермомент в CS: лучший игрок мира в соло выиграл невозможный раунд против 5",
+    "description": "Никто не верил.",
+    "fullText": "Никто не верил.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/a4/bea0e5cbd47fe81c8aaa4d12fc9d6.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3393124.html",
+    "time": "2026-03-24T08:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "10 итогов Кубка Первого канала у фигуристов: что понравилось, а что нет",
+    "description": "Резюме Крутихиной.",
+    "fullText": "Резюме Крутихиной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/8a/6063a4d4443f987f8512a5d0aeb50.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3392906.html",
+    "time": "2026-03-24T04:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +44,14 @@
     "time": "2026-03-24T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Приношу извинения всем, кроме тренеров ЦСКА». Взгляд Талалаева на стычку и новый бан",
-    "description": "Челестини наговорил много плохого.",
-    "fullText": "Челестини наговорил много плохого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f1/d90272f9041468aac5c66ca1feb27.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393071.html",
-    "time": "2026-03-23T21:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Откликайтесь на вакансию golang-разработчика и приходите работать в Спортс’’",
-    "description": "Here we go!",
-    "fullText": "Here we go!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/98/a25bac8e34a53acbbfcea421b7770.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/kntiqm",
-    "time": "2026-03-23T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Серверы Battlefield Hardline на PS4 и Xbox One отключат, а игру удалят из цифровых магазинов",
-    "description": "ПК-версия всё ещё будет доступна.",
-    "fullText": "ПК-версия всё ещё будет доступна.",
-    "image": "https://leonardo.osnova.io/9467df2f-69d5-53da-a7ab-43bad961aa42/",
+    "title": "Режиссёр синематиков Overwatch присоединился к Naughty Dog — он займёт должность руководителя по роликам для Intergalactic",
+    "description": "Он проработал в Blizzard более 20 лет.",
+    "fullText": "Он проработал в Blizzard более 20 лет.",
+    "image": "https://leonardo.osnova.io/d069bfe1-72a5-5b33-a9b6-e71ef12432c2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4895942-battlefield-hardline-ps4-xbox-one-otklyuchat?from=rss",
-    "time": "2026-03-23T16:51:58.000Z"
+    "url": "https://dtf.ru/gameindustry/4895754-rezhissyor-overwatch-dzheyson-khill-naughty-dog?from=rss",
+    "time": "2026-03-23T17:01:42.000Z"
   }
 ]
