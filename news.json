@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Азаров: ЕС выделяет деньги Киеву для войны, игнорируя нужды населения в газе",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26862549",
-    "time": "2026-03-24T04:01:43.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Откликайтесь на вакансию golang-разработчика и приходите работать в Спортс’’",
     "description": "Here we go!",
@@ -45,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Колесо Клэбо. Норвежец вваливает в гору бегом – и никто ничего не может с этим сделать",
-    "description": "Разбираем феномен.",
-    "fullText": "Разбираем феномен.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/84/490b8376e4db5a8bdb60ce76d6d58.gif",
+    "title": "Скандальный гол «Трактора»: отменили, засчитали, а потом опять отменили",
+    "description": "Ого? Да.",
+    "fullText": "Ого? Да.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/49/d474b269a4f44acf223fbb342d4a5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/skiing/blogs/3389782.html",
-    "time": "2026-03-23T17:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393089.html",
+    "time": "2026-03-23T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4892607-naoki-yoshida-o-populyarnosti-final-fantasy?from=rss",
     "time": "2026-03-23T10:11:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
