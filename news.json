@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве на нескольких улицах закрыли движение транспорта",
+    "description": "Для поездок по городу горожанам и гостям столицы рекомендуется использовать общественный транспорт",
+    "fullText": "Для поездок по городу горожанам и гостям столицы рекомендуется использовать общественный транспорт",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26863629",
+    "time": "2026-03-24T06:37:36.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Откликайтесь на вакансию golang-разработчика и приходите работать в Спортс’’",
     "description": "Here we go!",
@@ -11,15 +22,15 @@
     "time": "2026-03-23T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Фэйк-пенальти «Зенита», «Краснодар» в прайме, к Карседо вопросы. Обзор тура от Смолова – на ВидеоСпортсе’’",
-    "description": "Инсайды, скандалы и судейство.",
-    "fullText": "Инсайды, скандалы и судейство.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/6c/e0a3c85e54108a63ef6f0c6255289.jpeg",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как букмекеры выходят на рынок и при чем тут неработающие компании с лицензиями",
+    "description": "Феномен спящих лицензий.",
+    "fullText": "Феномен спящих лицензий.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/61/177a5b15d48209fff2f2ada293fba.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/1aIcmJb2kF2oP_HZmp-JHj0PfObW8pOgEiATIkpqJDc",
-    "time": "2026-03-23T19:40:00.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3392102.html",
+    "time": "2026-03-23T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,36 +44,14 @@
     "time": "2026-03-23T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Скандальный гол «Трактора»: отменили, засчитали, а потом опять отменили",
-    "description": "Ого? Да.",
-    "fullText": "Ого? Да.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/49/d474b269a4f44acf223fbb342d4a5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3393089.html",
-    "time": "2026-03-23T18:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер Final Fantasy Наоки Ёсида считает, что франшиза растеряла популярность у молодого поколения из-за редких релизов",
-    "description": "Проблема, однако, касается не только серии Square Enix.",
-    "fullText": "Проблема, однако, касается не только серии Square Enix.",
-    "image": "https://leonardo.osnova.io/48736af4-0c9f-5c65-a163-1227bac508e1/",
+    "title": "Рутина в пригороде: IGN показал 15 минут геймплея киберпанк-экшена Replaced",
+    "description": "Без драк, но с изучением большой локации и беседами с NPC.",
+    "fullText": "Без драк, но с изучением большой локации и беседами с NPC.",
+    "image": "https://leonardo.osnova.io/0c20a9d1-bd7f-594a-bf18-afc150198cb6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4892607-naoki-yoshida-o-populyarnosti-final-fantasy?from=rss",
-    "time": "2026-03-23T10:11:15.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4894777-geympley-replaced-15-minut-kiberpunk-ekshena-ot-sad-cat?from=rss",
+    "time": "2026-03-23T14:41:53.000Z"
   }
 ]
