@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ВЦИОМ: 37% россиян за последний год занимались волонтерской деятельностью",
+    "description": "наиболее популярными каналами вовлечения в добровольческую деятельность стали самостоятельное волонтерство, инициативные группы граждан и близкое окружение",
+    "fullText": "наиболее популярными каналами вовлечения в добровольческую деятельность стали самостоятельное волонтерство, инициативные группы граждан и близкое окружение",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26879253",
+    "time": "2026-03-25T08:47:12.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90Lm1lL2N5",
     "title": "Если заводить питомца в 2026-м, то лучше в телефоне!",
     "description": "С призами за лучшего хозяина.",
@@ -11,47 +22,36 @@
     "time": "2026-03-25T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "285 млн рублей в год – зарплата Семака. Рейтинг инсайдера Карпова",
-    "description": "Черчесов выше Мусаева.",
-    "fullText": "Черчесов выше Мусаева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c4/adf9890b940a08b462048eeabf017.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Такой же стильный вратарский свитер «Ромы» нулевых можно выиграть в нашей Аркаде!",
+    "description": "Раньше было ярче.",
+    "fullText": "Раньше было ярче.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/1d30993774fc8be29d80e90327b46.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393379.html",
-    "time": "2026-03-24T21:40:00.000Z"
+    "url": "https://sirena.world/siyghn",
+    "time": "2026-03-25T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Чемпионский «Ювентус» 2010-х – помните, кто там играл?",
-    "description": "Проверьте себя в игре.",
-    "fullText": "Проверьте себя в игре.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/11/a792f69284bee9bb43adc415d58a0.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мало Мирре проблем – так еще и спина заболела",
+    "description": "Травма в Майами.",
+    "fullText": "Травма в Майами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/19/ea3e0207e4e9491e222534c8569e7.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r2bw0n",
-    "time": "2026-03-24T21:30:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3393236.html",
+    "time": "2026-03-25T03:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Ты совсем не изменился»: тизер и подробности второго сезона анимационного сериала Devil May Cry",
-    "description": "Шоураннер обещает, что продолжение станет масштабнее.",
-    "fullText": "Шоураннер обещает, что продолжение станет масштабнее.",
-    "image": "https://leonardo.osnova.io/a1b83b9b-c702-59c2-b6d9-cdf1a3633880/-/format/mp4/",
+    "title": "«Аниме стало очень длинным»: ремейк «Ван-Пис» от Wit Studio решили снимать из-за сожалений Эйитиро Оды",
+    "description": "В новой адаптации хотят ускорить темп для современных зрителей.",
+    "fullText": "В новой адаптации хотят ускорить темп для современных зрителей.",
+    "image": "https://leonardo.osnova.io/1566e4fc-c7ad-5d50-97f8-8973adc119ea/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4905878-tizer-vtorogo-sezona-devil-may-cry?from=rss",
-    "time": "2026-03-24T16:20:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/anime/4904087-remeik-van-pis-ot-wit-studio?from=rss",
+    "time": "2026-03-24T12:44:59.000Z"
   }
 ]
