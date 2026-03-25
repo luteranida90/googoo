@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Экс-члена генсовета \"Деловой России\" Малофейкина арестовали",
-    "description": "Сергея Малофейкина обвиняют в незаконной банковской деятельности",
-    "fullText": "Сергея Малофейкина обвиняют в незаконной банковской деятельности",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260325/8912749.jpg",
+    "title": "\"Бенфику\" наказали частичным закрытием трибун за расизм в матче с \"Реалом\"",
+    "description": "Клубу запретили реализовывать 500 билетов на следующий домашний матч под эгидой УЕФА",
+    "fullText": "Клубу запретили реализовывать 500 билетов на следующий домашний матч под эгидой УЕФА",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26887525",
-    "time": "2026-03-25T17:12:03.000Z"
+    "url": "https://tass.ru/sport/26888579",
+    "time": "2026-03-25T18:36:01.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,25 +22,25 @@
     "time": "2026-03-25T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Tekken 8 выпустят экстренный патч — на фоне негативной реакции на изменение баланса в третьем сезоне",
-    "description": "Серьёзные проблемы обещают устранить постепенно.",
-    "fullText": "Серьёзные проблемы обещают устранить постепенно.",
-    "image": "https://leonardo.osnova.io/6243ec83-6c3b-5274-92f2-1d5b4206f846/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4913919-ekstrennyj-patch-dlya-tekken-8-isspravit-problemy?from=rss",
-    "time": "2026-03-25T12:50:50.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Какие ТИ оформляют в России и мире? У нас для лечения астмы, у них – СДВГ",
-    "description": "Наталья Марьянчик разобралась.",
-    "fullText": "Наталья Марьянчик разобралась.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/23/bc7528f834a5ea9d400488958acd4.jpeg",
+    "title": "«Человек-паук» и фанат UFC – самый недооцененный тандем вратарей КХЛ",
+    "description": "Ведут «Автомобилист» к Кубку Гагарина.",
+    "fullText": "Ведут «Автомобилист» к Кубку Гагарина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/5a/7f578693849c5b1d196f784a33a1a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3392978.html",
-    "time": "2026-03-25T12:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393291.html",
+    "time": "2026-03-25T13:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Silent Hill f адаптируют в формате манги",
+    "description": "С новой концовкой, которую напишет Рюкиси07.",
+    "fullText": "С новой концовкой, которую напишет Рюкиси07.",
+    "image": "https://leonardo.osnova.io/459c95a8-9930-5fb3-8d35-ccb922187a8a/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/read/4914037-silent-hill-f-adaptatsiya-mangi?from=rss",
+    "time": "2026-03-25T13:20:02.000Z"
   }
 ]
