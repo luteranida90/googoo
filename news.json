@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ульяновске возобновили приостановленные 24 марта поиски пропавших подростков",
-    "description": "Они пропали в ночь на 23 марта при переходе реки Волги по льду",
-    "fullText": "Они пропали в ночь на 23 марта при переходе реки Волги по льду",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly90Lm1lL2N5",
+    "title": "Если заводить питомца в 2026-м, то лучше в телефоне!",
+    "description": "С призами за лучшего хозяина.",
+    "fullText": "С призами за лучшего хозяина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/78/225fbaf0040c88b6b444253ea382a.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26877507",
-    "time": "2026-03-25T06:47:07.000Z"
+    "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_material",
+    "time": "2026-03-25T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Мессина сделал ЦСКА чемпионом Евролиги – и в чем его наследие? Тайны успеха от Андрея Ватутина",
-    "description": "Впервые за 35 лет.",
-    "fullText": "Впервые за 35 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/db/64bd6b4664196914fe0aac4f16505.png",
+    "title": "285 млн рублей в год – зарплата Семака. Рейтинг инсайдера Карпова",
+    "description": "Черчесов выше Мусаева.",
+    "fullText": "Черчесов выше Мусаева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c4/adf9890b940a08b462048eeabf017.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3392887.html",
-    "time": "2026-03-24T19:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3393379.html",
+    "time": "2026-03-24T21:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Только три испанца забили больше 25 голов в ЛЧ. Вспомните их?",
-    "description": "Тут нет Торреса.",
-    "fullText": "Тут нет Торреса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/8f/b7f23990040c19adcbc366e232f20.png",
+    "title": "Чемпионский «Ювентус» 2010-х – помните, кто там играл?",
+    "description": "Проверьте себя в игре.",
+    "fullText": "Проверьте себя в игре.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/11/a792f69284bee9bb43adc415d58a0.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/r58w11",
-    "time": "2026-03-24T19:00:00.000Z"
+    "url": "https://sirena.world/r2bw0n",
+    "time": "2026-03-24T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шрайер: PlayStation закрыла студию Dark Outlaw Games, которую возглавлял экс-соруководитель Treyarch",
-    "description": "Команду основали в марте 2025 года.",
-    "fullText": "Команду основали в марте 2025 года.",
-    "image": "https://leonardo.osnova.io/a2f7cfb6-5c6d-546c-b387-aba657400398/",
+    "title": "«Ты совсем не изменился»: тизер и подробности второго сезона анимационного сериала Devil May Cry",
+    "description": "Шоураннер обещает, что продолжение станет масштабнее.",
+    "fullText": "Шоураннер обещает, что продолжение станет масштабнее.",
+    "image": "https://leonardo.osnova.io/a1b83b9b-c702-59c2-b6d9-cdf1a3633880/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4907094-zakrytie-studii-dark-outlaw-games?from=rss",
-    "time": "2026-03-24T18:21:22.000Z"
+    "url": "https://dtf.ru/cinema/4905878-tizer-vtorogo-sezona-devil-may-cry?from=rss",
+    "time": "2026-03-24T16:20:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
