@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Захарова назвала фейками публикации о неуважительном отношении в РФ к Гейдару Алиеву",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26885593",
+    "time": "2026-03-25T14:29:57.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Только три испанца забили больше 25 голов в ЛЧ. Вспомните их?",
     "description": "Тут нет Торреса.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Карина Истомина – психотерапия, Смолов, жены футболистов, комменты. Большое интервью Кораблеву",
-    "description": "«Мужчинам нужно слышать: следите за ментальным здоровьем».",
-    "fullText": "«Мужчинам нужно слышать: следите за ментальным здоровьем».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/63/de468deba4043b85af456b3fba1cd.png",
+    "title": "Галимов из «Ак Барса» – главный сюрприз сезона КХЛ. Увы, со знаком «минус»",
+    "description": "В Казани заждались голов от Артема.",
+    "fullText": "В Казани заждались голов от Артема.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/58/c74fa18214511acd499e4b30c2f6e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393048.html",
-    "time": "2026-03-25T08:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393290.html",
+    "time": "2026-03-25T09:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Epic Games увольняет 1000 сотрудников — на фоне снижения активности игроков в Fortnite",
-    "description": "Компания «тратит значительно больше, чем зарабатывает».",
-    "fullText": "Компания «тратит значительно больше, чем зарабатывает».",
-    "image": "https://leonardo.osnova.io/25b22d2a-c324-5e2d-8dab-c8b20792c90a/",
+    "title": "Crimson Desert стартовала с первого места чарта Steam среди платных игр, а Death Stranding 2 — с третьего",
+    "description": "CoD: Modern Warfare и RE3 попали в топ-10 на фоне огромных скидок.",
+    "fullText": "CoD: Modern Warfare и RE3 попали в топ-10 на фоне огромных скидок.",
+    "image": "https://leonardo.osnova.io/cc60dd9c-f93b-5fb5-8ccd-5de5b1b054bc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4905489-epic-games-uvolit-1000-sotrudnikov?from=rss",
-    "time": "2026-03-24T15:21:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4907491-crimson-desert-chart-steam-death-stranding?from=rss",
+    "time": "2026-03-24T19:17:55.000Z"
   }
 ]
