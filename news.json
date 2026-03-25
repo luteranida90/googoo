@@ -1,46 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Только три испанца забили больше 25 голов в ЛЧ. Вспомните их?",
+    "description": "Тут нет Торреса.",
+    "fullText": "Тут нет Торреса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/8f/b7f23990040c19adcbc366e232f20.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/r58w11",
+    "time": "2026-03-25T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Чите завели дело из-за смерти младенца на следующий день после рождения",
-    "description": "Причиной стала травма черепа, предположительно полученная при родах",
-    "fullText": "Причиной стала травма черепа, предположительно полученная при родах",
+    "title": "Разработан новый метод диагностики аварийных сооружений",
+    "description": "Он позволяет проверять грунт под городскими объектами без проведения масштабных буровых работ и нарушения его целостности",
+    "fullText": "Он позволяет проверять грунт под городскими объектами без проведения масштабных буровых работ и нарушения его целостности",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26880173",
-    "time": "2026-03-25T09:46:47.000Z"
+    "url": "https://tass.ru/nauka/26882373",
+    "time": "2026-03-25T11:27:29.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90Lm1lL2N5",
-    "title": "Если заводить питомца в 2026-м, то лучше в телефоне!",
-    "description": "С призами за лучшего хозяина.",
-    "fullText": "С призами за лучшего хозяина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/78/225fbaf0040c88b6b444253ea382a.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Актер «СашаТаня» встретился с Карпиным, а Сафонов стал стримером",
+    "description": "Новый день из жизни сборной – на ВидеоСпортсе’’.",
+    "fullText": "Новый день из жизни сборной – на ВидеоСпортсе’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/09/b9258bb9a4ad09627bba8eb22c86e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_material",
-    "time": "2026-03-25T07:00:00.000Z"
+    "url": "https://video.sports.ru/video/V4_cgDVZ8LLWnXmpG43I2I_z-qROd3nFQxlX8m4anpE",
+    "time": "2026-03-25T10:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "18-летний финн набрал 103 очка за матч. Почему-то никто не воспринимает это всерьез",
-    "description": "Финский ответ Чемберлену.",
-    "fullText": "Финский ответ Чемберлену.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/d3/2b8dc6e7e4726aa2384c6ff90e679.jpeg",
+    "title": "Каори Сакамото показала, как провести в фигурном катании долгую и счастливую жизнь",
+    "description": "Легенда прощается на ЧМ.",
+    "fullText": "Легенда прощается на ЧМ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/18/6fe18669d4059a3c9fbd110b9ce31.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3393196.html",
-    "time": "2026-03-25T05:30:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3386414.html",
+    "time": "2026-03-25T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: В производстве у Disney находится спин-офф «Золушки» про Анастасию и Дризеллу",
-    "description": "Режиссёром выступит Акива Шаффер, автор прошлогоднего «Голого пистолета».",
-    "fullText": "Режиссёром выступит Акива Шаффер, автор прошлогоднего «Голого пистолета».",
-    "image": "https://leonardo.osnova.io/764c2f0f-eb8e-530c-94aa-8de86fec1633/",
+    "title": "Первый кадр сериала «Гарри Поттер» от HBO",
+    "description": "Больше подробностей о шоу должно появиться уже 25 марта.",
+    "fullText": "Больше подробностей о шоу должно появиться уже 25 марта.",
+    "image": "https://leonardo.osnova.io/eeb70395-1942-5c7d-be8f-9f828e68b2ae/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4907456-disney-spin-off-zolushki-anastasiya-drizella?from=rss",
-    "time": "2026-03-24T19:29:27.000Z"
+    "url": "https://dtf.ru/cinema/4905207-pervyy-kadr-seriala-garri-potter-ot-hbo?from=rss",
+    "time": "2026-03-24T14:22:02.000Z"
   }
 ]
