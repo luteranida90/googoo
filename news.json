@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Прозоров: массовая отправка наемников на передовую не отвечает интересам ВСУ",
-    "description": "Экс-сотрудник СБУ отметил, что наемники могут утратить интерес к участию в боевых действиях на стороне Украины",
-    "fullText": "Экс-сотрудник СБУ отметил, что наемники могут утратить интерес к участию в боевых действиях на стороне Украины",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "После введения ограничений в Пулкове на запасной аэродром ушло 26 рейсов",
+    "description": "Из них 10 вернулись в аэропорт в период открытого неба",
+    "fullText": "Из них 10 вернулись в аэропорт в период открытого неба",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260325/8909729.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26876239",
-    "time": "2026-03-25T04:08:19.000Z"
+    "url": "https://tass.ru/ekonomika/26876707",
+    "time": "2026-03-25T05:15:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-03-24T19:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«ПСЖ» переносит матч со второй командой Франции – из-за ЛЧ. «Ланс» в ярости",
+    "description": "«Тревожно, что Лига 1 уступает евроамбициям».",
+    "fullText": "«Тревожно, что Лига 1 уступает евроамбициям».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/64/296e63b2549c0a5719ce6400536e7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3393220.html",
+    "time": "2026-03-24T18:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Шрайер: PlayStation закрыла студию Dark Outlaw Games, которую возглавлял экс-соруководитель Treyarch",
     "description": "Команду основали в марте 2025 года.",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4907094-zakrytie-studii-dark-outlaw-games?from=rss",
     "time": "2026-03-24T18:21:22.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Неожиданный позор Бразилии в MotoGP: дыры на трассе, травмы гонщиков и тюремный десант",
-    "description": "Провели гонку в худший момент.",
-    "fullText": "Провели гонку в худший момент.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4b/535cf46064327bc9f2dad8d66673a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3393094.html",
-    "time": "2026-03-24T18:00:00.000Z"
   }
 ]
