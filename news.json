@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Писатель Сораль: Франция приближается к диктатуре, осуждая оппозиционеров",
-    "description": "По мнению эссеиста, сегодня французы, не согласные с официальной позицией, вынуждены покидать страну, чтобы избежать тюрьмы",
-    "fullText": "По мнению эссеиста, сегодня французы, не согласные с официальной позицией, вынуждены покидать страну, чтобы избежать тюрьмы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26891417",
-    "time": "2026-03-26T04:22:24.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В какой команде «Ф-1» вы бы гоняли? Узнайте, ответив на 9 вопросов",
     "description": "В нашем тесте.",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Пока мы даже не понимаем, как это скажется на поддержке Fortnite в ближайший год и после»: разработчики Epic Games о сокращениях",
-    "description": "Тим Суини тем временем заверил, что специалисты из его компании передовые, и их можно смело брать.",
-    "fullText": "Тим Суини тем временем заверил, что специалисты из его компании передовые, и их можно смело брать.",
-    "image": "https://leonardo.osnova.io/63ab04a4-8240-58f3-8239-d52f2823c859/",
+    "title": "Square Enix возглавила рейтинг игровых издателей 2025 года на Metacritic — впервые в истории агрегатора",
+    "description": "В пятёрку лидеров также попали Capcom и Microsoft.",
+    "fullText": "В пятёрку лидеров также попали Capcom и Microsoft.",
+    "image": "https://leonardo.osnova.io/040e1a25-8dd3-5084-a796-63fd00e40678/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4913896-sokrascheniya-v-epic-games-fortnite?from=rss",
-    "time": "2026-03-25T12:21:04.000Z"
+    "url": "https://dtf.ru/gameindustry/4914183-square-enix-reyting-izdateley-metacritic-2025?from=rss",
+    "time": "2026-03-25T15:13:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
