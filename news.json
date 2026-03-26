@@ -1,5 +1,38 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На Дальнем Востоке с участием инвесторов из Китая реализуется 93 проекта",
+    "description": "Объем инвестиций составляет около 1 трлн рублей",
+    "fullText": "Объем инвестиций составляет около 1 трлн рублей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26902533",
+    "time": "2026-03-26T17:09:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Звезда «Станции одиннадцать» Химеш Патель вошёл в актёрский состав перезапуска «Секретных материалов»",
+    "description": "Он исполнит одну из главных ролей.",
+    "fullText": "Он исполнит одну из главных ролей.",
+    "image": "https://leonardo.osnova.io/0fde9ce1-6329-5ea8-a274-52003e6c8a57/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/4916625-zvezda-stancii-odinnadcat-himesh-patel-voshel-v-akterskii-sostav-perezapuska-sekretnyh-materialov?from=rss",
+    "time": "2026-03-26T17:08:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Собирайте свою команду и получайте игровой компьютер!",
+    "description": "И много других призов.",
+    "fullText": "И много других призов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/d1/9eccfee3941f58d0fa07c271039c8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/upmveg",
+    "time": "2026-03-26T16:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "«Зенит Навсегда» – фильм о ключевых вехах истории сине-бело-голубых!",
     "description": "Смотрите на PREMIER и RUTUBE.",
@@ -12,35 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Карина Истомина – психотерапия, Смолов, жены футболистов, комменты. Большое интервью Кораблеву",
-    "description": "«Мужчинам нужно слышать: следите за ментальным здоровьем».",
-    "fullText": "«Мужчинам нужно слышать: следите за ментальным здоровьем».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/63/de468deba4043b85af456b3fba1cd.png",
+    "title": "Турецкий Йокич разбил себе лицо, спасая команду. Но «Хьюстон» все равно слил +13 в овертайме",
+    "description": "Исторический камбэк.",
+    "fullText": "Исторический камбэк.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/18/38b7c0b764156b0de4337876e0335.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393048.html",
-    "time": "2026-03-26T11:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Мы делали чертовски крутую игру»: глава Dark Outlaw Games высказался о закрытии студии",
-    "description": "Разработчик заверил, что не держит обиды на Sony.",
-    "fullText": "Разработчик заверил, что не держит обиды на Sony.",
-    "image": "https://leonardo.osnova.io/41ca56bf-3412-5dd4-a9a5-3d4fdce5502e/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4915689-zakrytie-dark-outlaw-games-mnenie-dzheysona-blandella-o-sony?from=rss",
-    "time": "2026-03-26T09:32:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3393656.html",
+    "time": "2026-03-26T12:40:00.000Z"
   }
 ]
