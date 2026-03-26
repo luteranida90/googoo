@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "В какой команде «Ф-1» вы бы гоняли? Узнайте, ответив на 9 вопросов",
-    "description": "В нашем тесте.",
-    "fullText": "В нашем тесте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/6d/5f61dd953400ea0000f42ab761fd2.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/qh6qcj",
-    "time": "2026-03-25T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто не любит Гризманна? Это вообще возможно?",
-    "description": "Прощание Тимура Бокова.",
-    "fullText": "Прощание Тимура Бокова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/aa/f3ddaecbb4b3eb9ea2f04b26fa038.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393469.html",
-    "time": "2026-03-25T18:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Square Enix возглавила рейтинг игровых издателей 2025 года на Metacritic — впервые в истории агрегатора",
-    "description": "В пятёрку лидеров также попали Capcom и Microsoft.",
-    "fullText": "В пятёрку лидеров также попали Capcom и Microsoft.",
-    "image": "https://leonardo.osnova.io/040e1a25-8dd3-5084-a796-63fd00e40678/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4914183-square-enix-reyting-izdateley-metacritic-2025?from=rss",
-    "time": "2026-03-25T15:13:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "ФСБ показала кадры задержания в Ингушетии создателей узла связи для украинского кол-центра",
+    "description": "В результате мошеннических схем гражданам России причинен ущерб на сумму не менее 1,3 млн рублей",
+    "fullText": "В результате мошеннических схем гражданам России причинен ущерб на сумму не менее 1,3 млн рублей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/proisshestviya/26892989",
+    "time": "2026-03-26T07:26:11.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Поучаствуйте в выборе нового названия для формата на Спортсе’‘",
+    "description": "Ждем ваше мнение.",
+    "fullText": "Ждем ваше мнение.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/b7/7f79970cf45e6ac43d5a44fe2e7ff.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/p4e1xh",
+    "time": "2026-03-26T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Девушка Батракова – звезда медиафутбола: пародировала Смородскую и играла даже на каблуках",
+    "description": "Ирина Подшибякина – топ.",
+    "fullText": "Ирина Подшибякина – топ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e6/beffa040940ecb0d12e660d84336a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/mediafootball/blogs/3392279.html",
+    "time": "2026-03-25T21:59:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Этот диктант вы бы не стали прогуливать: «Страсбур» или «Страсбург», «Жерона» или «Жирона»?",
+    "description": "Проверьте себя!",
+    "fullText": "Проверьте себя!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/17/0eed023a44f11b6e420efaff9dffa.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/m0t51e",
+    "time": "2026-03-25T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Роглайт»-битемап Absolum вышел на Xbox Series X|S",
+    "description": "Теперь игра доступна всем владельцам Game Pass, в том числе и на ПК.",
+    "fullText": "Теперь игра доступна всем владельцам Game Pass, в том числе и на ПК.",
+    "image": "https://leonardo.osnova.io/07052be8-5065-5f9b-8d8d-30dc6ec083e5/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4914428-absolum-roglayt-bitemap-vyshel-na-xbox-series-x-s?from=rss",
+    "time": "2026-03-25T17:02:44.000Z"
   }
 ]
