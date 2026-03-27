@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "СК Армении завершил предварительное следствие по делу в против Карапетяна",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26913977",
+    "time": "2026-03-27T12:50:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Смотрите матчи сборной России с фрибетом от БЕТСИТИ",
     "description": "Акция для новых игроков.",
@@ -11,36 +22,25 @@
     "time": "2026-03-27T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Херсонской области при обстрелах ВСУ с 2022 года погибли 14 детей",
-    "description": "Еще 54 пострадали",
-    "fullText": "Еще 54 пострадали",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/26912595",
-    "time": "2026-03-27T11:25:31.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джеко спас Боснию, Левандовски вышел на Дьокереша (у него хет-трик), все совпало на 86-й. Главное в стыках ЧМ-2026",
-    "description": "Итальянцы поедут в Зеницу.",
-    "fullText": "Итальянцы поедут в Зеницу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/9c/717a602314f92bf7fa7c0199864e8.jpeg",
+    "title": "В Омске оживили заброшку – уникальный дворец из СССР: там играл Ягр, а Шатунов дал 32 концерта за неделю",
+    "description": "Сегодня открытие нового СКК имени Блинова.",
+    "fullText": "Сегодня открытие нового СКК имени Блинова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/0d/89ccff0d04765b9dfc131ee72562a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393813.html",
-    "time": "2026-03-27T06:33:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393706.html",
+    "time": "2026-03-27T07:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "PC Gamer поделился подробностями о Star Wars Zero Company — сюжет от соавтора Jedi, третье лицо вне боёв и перманентная смерть героев",
-    "description": "Нелинейность тоже будет.",
-    "fullText": "Нелинейность тоже будет.",
-    "image": "https://leonardo.osnova.io/2c04ba67-4896-5935-923c-ec10188f0486/",
+    "title": "Похожа на Returnal, но ещё лучше: главное из превью Saros",
+    "description": "Релиз игры состоится 30 апреля эксклюзивно на PS5.",
+    "fullText": "Релиз игры состоится 30 апреля эксклюзивно на PS5.",
+    "image": "https://leonardo.osnova.io/5541edf2-6bc5-50be-8ce5-5cbd690b9ea4/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4916315-podrobnosti-star-wars-zero-company?from=rss",
-    "time": "2026-03-26T19:05:18.000Z"
+    "url": "https://dtf.ru/games/4916521-saros-novaya-igra-ot-housemarque-pokhozha-na-returnal?from=rss",
+    "time": "2026-03-26T20:23:46.000Z"
   }
 ]
