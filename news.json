@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фото: Майкл Фассбендер в образе Джозефа Кеннеди-старшего для сериала «Кеннеди» от Netflix",
-    "description": "Съёмки исторической драмы об известной американской семье начались.",
-    "fullText": "Съёмки исторической драмы об известной американской семье начались.",
-    "image": "https://leonardo.osnova.io/e893ed10-bd37-576a-be8a-3b3446d831bb/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4918852-foto-maikl-fassbender-v-obraze-dzhozefa-kennedi-starshego-dlya-seriala-kennedi-ot-netflix?from=rss",
-    "time": "2026-03-27T17:52:54.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РФ в СБ ООН призвала сфокусироваться на деэскалации конфликта на Ближнем Востоке",
-    "description": "Российское постпредство также рассказало об оказании помощи народу Ирана",
-    "fullText": "Российское постпредство также рассказало об оказании помощи народу Ирана",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Карпин признал, что российские футболисты недооценили соперников из Никарагуа",
+    "description": "Сборная России одержала победу со счетом 3:1",
+    "fullText": "Сборная России одержала победу со счетом 3:1",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260327/8920623.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26916733",
-    "time": "2026-03-27T17:52:13.000Z"
+    "url": "https://tass.ru/sport/26917359",
+    "time": "2026-03-27T19:36:23.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Смогли бы вы стать напарником Льюиса Хэмилтона? А Джорджа Расселла?",
-    "description": "Есть способ это проверить.",
-    "fullText": "Есть способ это проверить.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9f/30d5900784a4e84e09ee4f712032e.png",
+    "title": "В Омске оживили заброшку – уникальный дворец из СССР: там играл Ягр, а Шатунов дал 32 концерта за неделю",
+    "description": "Сегодня открытие нового СКК имени Блинова.",
+    "fullText": "Сегодня открытие нового СКК имени Блинова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/0d/89ccff0d04765b9dfc131ee72562a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/f1-team/?utm_source=native",
-    "time": "2026-03-27T13:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393706.html",
+    "time": "2026-03-27T14:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В The Finals начался десятый сезон — в стиле фэнтэзи",
+    "description": "В шутер добавили ещё одну арену, парящую платформу и арбалет.",
+    "fullText": "В шутер добавили ещё одну арену, парящую платформу и арбалет.",
+    "image": "https://leonardo.osnova.io/25145895-16c3-5f61-b81e-aa632f5a6677/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4917646-desyatyj-sezon-the-finals-fenteziynyj-stil?from=rss",
+    "time": "2026-03-27T08:06:59.000Z"
   }
 ]
