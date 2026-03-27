@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: в Хасавюрте нашли тело новорожденного",
-    "description": "Заведено уголовное дело",
-    "fullText": "Заведено уголовное дело",
+    "title": "Нефтяники РФ подтвердили наличие достаточных запасов бензина и дизтоплива",
+    "description": "Переработка находится на уровне марта 2025 года, сообщил российский кабмин",
+    "fullText": "Переработка находится на уровне марта 2025 года, сообщил российский кабмин",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26915643",
-    "time": "2026-03-27T15:48:41.000Z"
+    "url": "https://tass.ru/ekonomika/26916383",
+    "time": "2026-03-27T17:01:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "КХЛ забанила Кузнецова за оскорбительный жест. О чем он думал?",
+    "description": "«Птичку» занесло не туда.",
+    "fullText": "«Птичку» занесло не туда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/51/6e11d804740c7aff90dd61fbcc973.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3393850.html",
+    "time": "2026-03-27T12:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,27 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4918100-sozdatelya-v-rising-novaya-igra?from=rss",
     "time": "2026-03-27T11:41:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Смотрите матчи сборной России с фрибетом от БЕТСИТИ",
-    "description": "Акция для новых игроков.",
-    "fullText": "Акция для новых игроков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/17/4a443ac8d483ca32c5811fa0ec952.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/t7col2",
-    "time": "2026-03-27T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Соболенко так сурова, что уничтожила даже Рыбакину – главную соперницу в 2026-м",
-    "description": "Доминирование в Майами.",
-    "fullText": "Доминирование в Майами.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/b1/ddfbdbe0648529905c58e7e7fe309.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3393833.html",
-    "time": "2026-03-27T11:03:00.000Z"
   }
 ]
