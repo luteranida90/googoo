@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Энергоком\": потребности Молдавии в электроэнергии на 27 марта будут обеспечены",
-    "description": "Молдавская госкомпания сообщила, что поддержку в этом оказали энергетики Румынии и Украины",
-    "fullText": "Молдавская госкомпания сообщила, что поддержку в этом оказали энергетики Румынии и Украины",
+    "title": "ТАСС: в Хасавюрте нашли тело новорожденного",
+    "description": "Заведено уголовное дело",
+    "fullText": "Заведено уголовное дело",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26914307",
-    "time": "2026-03-27T14:04:01.000Z"
+    "url": "https://tass.ru/proisshestviya/26915643",
+    "time": "2026-03-27T15:48:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Создатели V Rising работают над следующей и более амбициозной игрой в этой же вселенной",
+    "description": "Процесс на ранних этапах, поэтому анонса придётся подождать.",
+    "fullText": "Процесс на ранних этапах, поэтому анонса придётся подождать.",
+    "image": "https://leonardo.osnova.io/0ff1d9fe-54ca-5547-b0ad-a4f04323ae7e/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4918100-sozdatelya-v-rising-novaya-igra?from=rss",
+    "time": "2026-03-27T11:41:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«У Мессины и Вантерпула намечалась драка – я утихомирил». Интервью легендарного Сергея Панова",
-    "description": "Капитан ЦСКА-2006.",
-    "fullText": "Капитан ЦСКА-2006.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/06/bb6b53d094e4f80dfce2c0bceb4b2.png",
+    "title": "Соболенко так сурова, что уничтожила даже Рыбакину – главную соперницу в 2026-м",
+    "description": "Доминирование в Майами.",
+    "fullText": "Доминирование в Майами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/b1/ddfbdbe0648529905c58e7e7fe309.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3393361.html",
-    "time": "2026-03-27T08:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Devil May Cry 5, Hell Is Us и ещё несколько игр получили возрастной рейтинг для Switch 2",
-    "description": "Возможно, скоро Nintendo Direct.",
-    "fullText": "Возможно, скоро Nintendo Direct.",
-    "image": "https://leonardo.osnova.io/36edf4cf-85c1-5a81-94bb-36a6870db84d/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4917586-devil-may-cry-5-hell-is-us-reyting-nintendo-switch-2?from=rss",
-    "time": "2026-03-27T06:59:34.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3393833.html",
+    "time": "2026-03-27T11:03:00.000Z"
   }
 ]
