@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Египте приняли меры по экономии топлива в связи с ситуацией в регионе",
+    "description": "В частности, во всех государственных учреждениях с 1 апреля на месяц вводится удаленная работа на один день в неделю с возможностью добавления еще одного дня, сообщил премьер-министр Мустафа Мадбули",
+    "fullText": "В частности, во всех государственных учреждениях с 1 апреля на месяц вводится удаленная работа на один день в неделю с возможностью добавления еще одного дня, сообщил премьер-министр Мустафа Мадбули",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/26922775",
+    "time": "2026-03-28T14:23:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Вспоминаем легенд: чемпионский «Ювентус» 2010-х и «Реал» 2000-х. Назовете игроков тех времен?",
     "description": "Будет несложно.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«#####, он бьет 180 км/ч». Синнер вогнал Зверева в грусть",
-    "description": "Седьмая победа подряд.",
-    "fullText": "Седьмая победа подряд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/27/a70b7ffdf46a6975063604d4d753a.jpeg",
+    "title": "Как менялись тренеры топов РПЛ за 10 лет. У «Спартака» и «Динамо» уже по 8",
+    "description": "В «Зените» несменяемо.",
+    "fullText": "В «Зените» несменяемо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/25/5ea7729b844d0a9960a942eb9f76f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3394027.html",
-    "time": "2026-03-28T10:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3388062.html",
+    "time": "2026-03-28T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/4918328-moya-volna-v-yandeks-muzyke-teper-rabotayet-offlayn?from=rss",
     "time": "2026-03-27T13:45:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
