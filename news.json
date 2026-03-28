@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Дагестане более 320 тыс. человек остаются без света",
+    "description": "Аварийно-восстановительные работы ведутся с привлечением 22 бригад электриков",
+    "fullText": "Аварийно-восстановительные работы ведутся с привлечением 22 бригад электриков",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/26921949",
+    "time": "2026-03-28T12:01:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Все о петербургском клубе: с основания до наших дней – фильм «Зенит Навсегда»",
     "description": "Уже доступен на PREMIER и RUTUBE.",
@@ -8,18 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/9q9m6o?erid=2SDnjc91wEZ",
-    "time": "2026-03-28T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Россети\" восстанавливают электроснабжение потребителей Дагестана",
-    "description": "Для восстановления электроснабжения задействованы 97 бригад",
-    "fullText": "Для восстановления электроснабжения задействованы 97 бригад",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26921741",
-    "time": "2026-03-28T11:04:28.000Z"
+    "time": "2026-03-28T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тренер должен знать зарплаты и бонусы игроков? У Талалаева и Галактионова полярные позиции",
-    "description": "Разный подход к работе.",
-    "fullText": "Разный подход к работе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/65/ebed14b5941f896b1ef5388696768.jpeg",
+    "title": "Сезон КХЛ в 27 картинах художников",
+    "description": "«Кинопоиск» изобразил.",
+    "fullText": "«Кинопоиск» изобразил.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/92/9bc8060794a5a857cc030c4a29342.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3380711.html",
-    "time": "2026-03-28T07:25:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393863.html",
+    "time": "2026-03-28T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "PUBG: Blindspot закроют 30 марта — менее чем через два месяца после выхода игры в раннем доступе",
-    "description": "Разработчики не смогли придумать, как развивать командный шутер.",
-    "fullText": "Разработчики не смогли придумать, как развивать командный шутер.",
-    "image": "https://leonardo.osnova.io/baca3db8-65c6-5620-bc4e-23f3bd5ad65d/-/format/mp4/",
+    "title": "Фото: Майкл Фассбендер в образе Джозефа Кеннеди-старшего для сериала «Кеннеди» от Netflix",
+    "description": "Съёмки исторической драмы об известной американской семье начались.",
+    "fullText": "Съёмки исторической драмы об известной американской семье начались.",
+    "image": "https://leonardo.osnova.io/e893ed10-bd37-576a-be8a-3b3446d831bb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4919086-zakrytie-pubg-blindspot-30-marta?from=rss",
-    "time": "2026-03-27T19:58:45.000Z"
+    "url": "https://dtf.ru/cinema/4918852-maikl-fassbender-v-roli-dzhozefa-kennedii-starshogo?from=rss",
+    "time": "2026-03-27T17:52:54.000Z"
   }
 ]
