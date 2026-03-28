@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Иванов: Радулов все так же заряжает \"Локомотив\", общается в раздевалке",
-    "description": "Железнодорожники в серии первого раунда плей-офф КХЛ выигрывают у \"Спартака\" со счетом 2-1",
-    "fullText": "Железнодорожники в серии первого раунда плей-офф КХЛ выигрывают у \"Спартака\" со счетом 2-1",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260328/8922059.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26923615",
-    "time": "2026-03-28T18:39:11.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Провал Адесаньи – почему закончилась суперзвезда UFC",
     "description": "Четыре поражения в пяти боях.",
@@ -31,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/4918328-moya-volna-v-yandeks-muzyke-teper-rabotayet-offlayn?from=rss",
     "time": "2026-03-27T13:45:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
