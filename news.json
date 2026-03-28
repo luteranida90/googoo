@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Полтавской области произошло землетрясение",
+    "description": "Магнитуда составила 3, 2",
+    "fullText": "Магнитуда составила 3, 2",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/26923835",
+    "time": "2026-03-28T19:54:25.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Провал Адесаньи – почему закончилась суперзвезда UFC",
-    "description": "Четыре поражения в пяти боях.",
-    "fullText": "Четыре поражения в пяти боях.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/cc/0a99ba3af46ad99a113b4e28ecef6.jpeg",
+    "title": "Почему Кучеров не стал звездой КХЛ? Изучили его карьеру в ЦСКА",
+    "description": "Поговорили с бывшими тренерами и партнерами Никиты.",
+    "fullText": "Поговорили с бывшими тренерами и партнерами Никиты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/30/e0530b32d43519e9678359dab3585.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3393806.html",
-    "time": "2026-03-28T15:15:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3393292.html",
+    "time": "2026-03-28T15:37:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/4918328-moya-volna-v-yandeks-muzyke-teper-rabotayet-offlayn?from=rss",
     "time": "2026-03-27T13:45:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
