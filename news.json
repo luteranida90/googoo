@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Временную поверенную Британии вызвали в МИД РФ",
+    "description": "Речь идет о Дейни Долакии",
+    "fullText": "Речь идет о Дейни Долакии",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260329/8923307.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26928049",
+    "time": "2026-03-29T14:00:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Пройдите футбольный лабиринт и выиграйте ретроджерси легенд или Nintendo Switch 2",
     "description": "И другие призы.",
@@ -11,36 +22,25 @@
     "time": "2026-03-29T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Литвинов уверен, что в сборной России скоро будет больше спартаковцев",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260329/8923103.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26927431",
-    "time": "2026-03-29T11:17:18.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хабибу досталось за критику женских ММА. Справедливо?",
-    "description": "«Расскажи «Ночным ведьмам», кто сильнее».",
-    "fullText": "«Расскажи «Ночным ведьмам», кто сильнее».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ce/041f447cb4a8db11355e5b0a6dc9d.jpeg",
+    "title": "Кофейни Европы были богемными салонами футбольного мира. Континентальный стиль родился там",
+    "description": "Из-за них Англия отстала.",
+    "fullText": "Из-за них Англия отстала.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/2e/49832c8524a15b453e6d364882c6a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3394136.html",
-    "time": "2026-03-29T06:29:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3357544.html",
+    "time": "2026-03-29T09:02:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Dying Light: The Beast вышел апдейт с режимом «Освобождённая земля» — в нём на место убитых зомби не будут приходить новые",
-    "description": "В игре также появились новые квесты, испытания и достижения.",
-    "fullText": "В игре также появились новые квесты, испытания и достижения.",
-    "image": "https://leonardo.osnova.io/85c46e6f-7bf0-5fac-9a2b-892b792e7f45/-/format/mp4/",
+    "title": "Konami повысит зарплату всем сотрудникам в Японии",
+    "description": "В компании нацелены на улучшение условий труда.",
+    "fullText": "В компании нацелены на улучшение условий труда.",
+    "image": "https://leonardo.osnova.io/57416fb7-b7b8-575f-b0a8-5525304f2a9d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4918459-obnovlenie-dying-light-the-beast-s-rezhimom-osvobozhdennaya-zemlya?from=rss",
-    "time": "2026-03-27T15:32:45.000Z"
+    "url": "https://dtf.ru/gameindustry/4918681-konami-povisit-zarplatu-sotrudnikam-v-yaponii?from=rss",
+    "time": "2026-03-27T16:38:48.000Z"
   }
 ]
