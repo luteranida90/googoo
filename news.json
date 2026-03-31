@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Автора хет-трика в матче плей-офф со СКА Гурьянова вдохновила свадьба",
-    "description": "ЦСКА одержал победу со счетом 6:2 и вышел в следующий раунд Кубка Гагарина",
-    "fullText": "ЦСКА одержал победу со счетом 6:2 и вышел в следующий раунд Кубка Гагарина",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260331/8930527.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/26955207",
-    "time": "2026-03-31T20:14:08.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
     "description": "Приглашаем!",
@@ -19,28 +8,39 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/odw2cy",
-    "time": "2026-03-31T19:20:00.000Z"
+    "time": "2026-04-01T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший велогонщик современности – не допингист. Зато команда выжимает его ради истории",
-    "description": "В чем феномен Погачара?",
-    "fullText": "В чем феномен Погачара?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6e/fbea9e8414f77a7e00443120ab35f.jpeg",
+    "title": "В КХЛ рекордная выручка: стало еще больше денег. Откуда?",
+    "description": "Разбор Игоря Сергеева.",
+    "fullText": "Разбор Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/32/b70d0a6f84461844965923d19859a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/cycle-racing/blogs/3393547.html",
-    "time": "2026-03-31T16:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3394576.html",
+    "time": "2026-04-01T17:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Карпин заявил, что Петров ему понравился больше в матче с никарагуанцами",
+    "description": "Полузащитник \"Балтики\" дебютировал в национальной команде 27 марта, а также принял участие в игре с малийцами 31 марта",
+    "fullText": "Полузащитник \"Балтики\" дебютировал в национальной команде 27 марта, а также принял участие в игре с малийцами 31 марта",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260401/8930599.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26955865",
+    "time": "2026-03-31T21:10:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Он уничтожил наш мир»: полноценный трейлер игрового фильма по «Властелинам Вселенной»",
-    "description": "Блокбастер от Amazon, в котором Джаред Лето исполнил роль Скелетора, выйдет 5 июня.",
-    "fullText": "Блокбастер от Amazon, в котором Джаред Лето исполнил роль Скелетора, выйдет 5 июня.",
-    "image": "https://leonardo.osnova.io/c4f4fcc8-f9d9-5a85-969a-498877d166ff/-/format/mp4/",
+    "title": "Продажи Dispatch достигли четырёх миллионов копий",
+    "description": "Летом интерактивный сериал выйдет на Xbox.",
+    "fullText": "Летом интерактивный сериал выйдет на Xbox.",
+    "image": "https://leonardo.osnova.io/f6a515dc-0942-5fb4-a40b-1fff3c76dce4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4926738-polnotsennyj-trejler-igrovogo-filma-vlasteliny-vselennoy?from=rss",
-    "time": "2026-03-31T13:18:59.000Z"
+    "url": "https://dtf.ru/gameindustry/4926899-prodazhi-igry-dispatch-dostigli-chetyryokh-millionov-kopiy?from=rss",
+    "time": "2026-03-31T14:26:13.000Z"
   }
 ]
