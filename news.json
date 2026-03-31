@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Сделайте фанатский арт для Акинфеева – и выиграйте джерси с ним",
-    "description": "В нашем проекте.",
-    "fullText": "В нашем проекте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/fa/42bbb5957440ea8b3747ee7c9a615.png",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Автора хет-трика в матче плей-офф со СКА Гурьянова вдохновила свадьба",
+    "description": "ЦСКА одержал победу со счетом 6:2 и вышел в следующий раунд Кубка Гагарина",
+    "fullText": "ЦСКА одержал победу со счетом 6:2 и вышел в следующий раунд Кубка Гагарина",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260331/8930527.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/26955207",
+    "time": "2026-03-31T20:14:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
+    "description": "Приглашаем!",
+    "fullText": "Приглашаем!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/97/80d2415524273ad20b7115d64635e.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/akinfeev-birthday/?utm_source=native",
-    "time": "2026-03-31T15:30:00.000Z"
+    "url": "https://sirena.world/odw2cy",
+    "time": "2026-03-31T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я срал». Энтони Эдвардс внезапно не вышел в старте «Миннесоты» – опоздал к началу матча",
-    "description": "Не в первый раз.",
-    "fullText": "Не в первый раз.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/2f/5332caa7048b0ae4a56ece957f55b.jpeg",
+    "title": "Лучший велогонщик современности – не допингист. Зато команда выжимает его ради истории",
+    "description": "В чем феномен Погачара?",
+    "fullText": "В чем феномен Погачара?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/6e/fbea9e8414f77a7e00443120ab35f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3394650.html",
-    "time": "2026-03-31T13:30:00.000Z"
+    "url": "https://www.sports.ru/cycle-racing/blogs/3393547.html",
+    "time": "2026-03-31T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Аватар: Пламя и пепел» вышел в «цифре»",
-    "description": "Лента собрала в прокате почти полтора миллиарда долларов.",
-    "fullText": "Лента собрала в прокате почти полтора миллиарда долларов.",
-    "image": "https://leonardo.osnova.io/3880a055-b955-52b3-b771-c0c750c1f453/",
+    "title": "«Он уничтожил наш мир»: полноценный трейлер игрового фильма по «Властелинам Вселенной»",
+    "description": "Блокбастер от Amazon, в котором Джаред Лето исполнил роль Скелетора, выйдет 5 июня.",
+    "fullText": "Блокбастер от Amazon, в котором Джаред Лето исполнил роль Скелетора, выйдет 5 июня.",
+    "image": "https://leonardo.osnova.io/c4f4fcc8-f9d9-5a85-969a-498877d166ff/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4926317-avatar-plamya-i-pepel-vyshel-v-tsifre?from=rss",
-    "time": "2026-03-31T10:34:59.000Z"
+    "url": "https://dtf.ru/cinema/4926738-polnotsennyj-trejler-igrovogo-filma-vlasteliny-vselennoy?from=rss",
+    "time": "2026-03-31T13:18:59.000Z"
   }
 ]
