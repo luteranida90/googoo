@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин поздравил российских евреев с праздником Песах",
-    "description": "По словам президента, еврейская община в стране показывает пример межрелигиозного сотрудничества",
-    "fullText": "По словам президента, еврейская община в стране показывает пример межрелигиозного сотрудничества",
+    "title": "В Дагестан поступила гуманитарная помощь из Астраханской области",
+    "description": "В состав груза вошли продукты питания, питьевая вода, средства личной гигиены и предметы первой необходимости",
+    "fullText": "В состав груза вошли продукты питания, питьевая вода, средства личной гигиены и предметы первой необходимости",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26958723",
-    "time": "2026-04-01T06:44:13.000Z"
+    "url": "https://tass.ru/obschestvo/26962123",
+    "time": "2026-04-01T09:33:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Италия заслужила невыход на ЧМ. Не смогли обмануть, что умеют играть в футбол",
+    "description": "Почти беспросветно.",
+    "fullText": "Почти беспросветно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ed/a328a55694387a3b60450618b509c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3394809.html",
+    "time": "2026-04-01T05:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2026-04-01T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlb3Nw",
-    "title": "Пол-Боснии на улицах! Празднуют выход сборной на ЧМ: тонны счастья и огня",
-    "description": "Смотрим на ВидеоСпортсе’‘",
-    "fullText": "Смотрим на ВидеоСпортсе’‘",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/1d/43601617c47ec8c6fabb138c82702.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://videosports.ru/Bosnia_WC2026",
-    "time": "2026-04-01T01:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все о стыках ЧМ-2026: кто использовал последние шансы?",
-    "description": "Босния выкинула Италию.",
-    "fullText": "Босния выкинула Италию.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/cc/da127c87f4b67b93a50e737478c52.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393090.html",
-    "time": "2026-03-31T22:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хендерсон: Eidos отменила неанонсированную игру, на которую потратила семь лет и «сотни миллионов долларов»",
-    "description": "Игра о подростке, который путешествует на огромном мифическом существе, была почти готова — релиз запланировали на конец года.",
-    "fullText": "Игра о подростке, который путешествует на огромном мифическом существе, была почти готова — релиз запланировали на конец года.",
-    "image": "https://leonardo.osnova.io/dced5634-9fc8-5fa2-8c8f-5cc14fb0a61b/",
+    "title": "«Месть не поможет справиться с болью»: трейлер «Супергёрл»",
+    "description": "Прокат фильма в США начнётся 26 июня.",
+    "fullText": "Прокат фильма в США начнётся 26 июня.",
+    "image": "https://leonardo.osnova.io/4fde6add-97b3-5f32-9e20-8bf4074af786/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4927009-eidos-otmenila-igru-wildlands?from=rss",
-    "time": "2026-03-31T15:23:22.000Z"
+    "url": "https://dtf.ru/cinema/4926597-treyler-supergerl?from=rss",
+    "time": "2026-03-31T16:09:06.000Z"
   }
 ]
