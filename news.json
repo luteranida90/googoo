@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Игроки считают, что главный герой Baby Steps — сын Нейтана Дрейка из Uncharted",
+    "description": "Devolver Digital тем временем подогревает интерес к теории.",
+    "fullText": "Devolver Digital тем временем подогревает интерес к теории.",
+    "image": "https://leonardo.osnova.io/204c792d-55d7-5cf1-8323-228bd9897288/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4932593-igroki-schitayut-chto-glavnyi-geroi-baby-steps-syn-neitana-dreika-iz-uncharted?from=rss",
+    "time": "2026-04-01T19:28:59.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Свириденко: на Украине работает менее половины всего трудоспособного населения",
-    "description": "Это 13,1 млн человек, сообщила премьер-министр",
-    "fullText": "Это 13,1 млн человек, сообщила премьер-министр",
+    "title": "Пезешкиан заявил, что продолжение противостояния Ирана и США не имеет смысла",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/26969213",
-    "time": "2026-04-01T17:47:16.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26969859",
+    "time": "2026-04-01T19:16:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Этот диктант вы бы не стали прогуливать: «Страсбур» или «Страсбург», «Жерона» или «Жирона»?",
+    "description": "Проверьте себя!",
+    "fullText": "Проверьте себя!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/17/0eed023a44f11b6e420efaff9dffa.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/diktant-2026/?utm_source=native",
+    "time": "2026-04-01T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,25 +44,14 @@
     "time": "2026-04-01T17:43:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Криминальный триллер «Ограбление в Лос-Анджелесе» со звёдным актёрским составом вышел в «цифре»",
-    "description": "Фильм провалился в прокате, но получил неплохие оценки от критиков и зрителей.",
-    "fullText": "Фильм провалился в прокате, но получил неплохие оценки от критиков и зрителей.",
-    "image": "https://leonardo.osnova.io/048be8f4-7013-5f4d-96bb-47ad2675fab1/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4931077-kriminalnyj-triller-ograblenie-v-los-andzhelese?from=rss",
-    "time": "2026-04-01T16:30:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Если бы все тренеры КХЛ сыграли в одной команде",
-    "description": "Дрим-тим?",
-    "fullText": "Дрим-тим?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2c/17ae60c404e1f9d5c114a28d0d924.png",
+    "title": "Как Италия реагирует на провал: предлагают ввести лимит и сократить Серию А до 16 команд",
+    "description": "Все из-за невыхода на ЧМ.",
+    "fullText": "Все из-за невыхода на ЧМ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/77/71d11cde94ff5a9fd9dd9b02fc7b6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3371692.html",
-    "time": "2026-04-01T13:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3394933.html",
+    "time": "2026-04-01T14:40:00.000Z"
   }
 ]
