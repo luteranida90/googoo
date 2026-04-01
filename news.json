@@ -1,46 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Дагестан поступила гуманитарная помощь из Астраханской области",
-    "description": "В состав груза вошли продукты питания, питьевая вода, средства личной гигиены и предметы первой необходимости",
-    "fullText": "В состав груза вошли продукты питания, питьевая вода, средства личной гигиены и предметы первой необходимости",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26962123",
-    "time": "2026-04-01T09:33:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Италия заслужила невыход на ЧМ. Не смогли обмануть, что умеют играть в футбол",
-    "description": "Почти беспросветно.",
-    "fullText": "Почти беспросветно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ed/a328a55694387a3b60450618b509c.jpeg",
+    "title": "11 шокирующих фактов о невыходе Италии на ЧМ",
+    "description": "Россия бывает чаще.",
+    "fullText": "Россия бывает чаще.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/d5/a345673054f95a67ad4f1ce3e000b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3394809.html",
-    "time": "2026-04-01T05:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте футболку легенды «Ювентуса» Дель Пьеро!",
-    "description": "Привет из прошлого.",
-    "fullText": "Привет из прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/da/0c23aae9945fdab546abc967899dc.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-04-01T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3394820.html",
+    "time": "2026-04-01T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Месть не поможет справиться с болью»: трейлер «Супергёрл»",
-    "description": "Прокат фильма в США начнётся 26 июня.",
-    "fullText": "Прокат фильма в США начнётся 26 июня.",
-    "image": "https://leonardo.osnova.io/4fde6add-97b3-5f32-9e20-8bf4074af786/-/format/mp4/",
+    "title": "Мультфильм «Супер Марио: Галактическое кино» стартовал с 44% одобрения на Rotten Tomatoes",
+    "description": "Сиквел назвали простым, хотя некоторые фанаты останутся довольны обилием отсылок к играм.",
+    "fullText": "Сиквел назвали простым, хотя некоторые фанаты останутся довольны обилием отсылок к играм.",
+    "image": "https://leonardo.osnova.io/8bacb092-4679-507b-bca6-572ba721fce2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4926597-treyler-supergerl?from=rss",
-    "time": "2026-03-31T16:09:06.000Z"
+    "url": "https://dtf.ru/cinema/4927684-super-mario-galakticheskoe-kino?from=rss",
+    "time": "2026-03-31T20:21:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
