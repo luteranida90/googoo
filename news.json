@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Запорожье восстановят гидрологические посты на реках и морскую метеостанцию",
-    "description": "Сенатор Дмитрий Ворона добавил, что в планах на год также установка пяти пунктов контроля за загрязнением атмосферы в Мелитополе и Бердянске",
-    "fullText": "Сенатор Дмитрий Ворона добавил, что в планах на год также установка пяти пунктов контроля за загрязнением атмосферы в Мелитополе и Бердянске",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Сделайте фанатский арт для Акинфеева – и выиграйте джерси с ним",
+    "description": "Как в «Пэйнте».",
+    "fullText": "Как в «Пэйнте».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/96/a4f4066854d539ad1c8607646a51c.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/26970159",
-    "time": "2026-04-01T20:11:32.000Z"
+    "url": "https://specials.sports.ru/akinfeev-birthday/?utm_source=native",
+    "time": "2026-04-01T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Величайшая погоня» Кравцова, телефон Голдобина и рекорды: главное за сезон КХЛ – в одном ролике",
-    "description": "Разбираем события прошедшей регулярки.",
-    "fullText": "Разбираем события прошедшей регулярки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/4d/f1a995a0a4857abf4723f07cede41.png",
+    "title": "Лукаку ссорится с «Наполи»: не вернулся из сборной, клуб угрожает исключением. Сыграл лишь 64 минуты за сезон",
+    "description": "Измучился.",
+    "fullText": "Измучился.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7a/c986c800a46fe8b0dfee2e952bcc5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3392987.html",
-    "time": "2026-04-01T16:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3394714.html",
+    "time": "2026-04-01T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4929393-zloveshie-mertvetsy-peklo-viydet-v-rossii-etim-letom?from=rss",
     "time": "2026-04-01T13:44:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
