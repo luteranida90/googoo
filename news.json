@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Марочко: освободив Бойково, ВС РФ взяли под контроль около 2 км границы",
-    "description": "Об освобождении населенного пункта сообщили 1 апреля",
-    "fullText": "Об освобождении населенного пункта сообщили 1 апреля",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260402/8934153.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/26970755",
-    "time": "2026-04-01T22:01:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Сделайте фанатский арт для Акинфеева – и выиграйте джерси с ним",
     "description": "Как в «Пэйнте».",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/4929393-zloveshie-mertvetsy-peklo-viydet-v-rossii-etim-letom?from=rss",
     "time": "2026-04-01T13:44:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
