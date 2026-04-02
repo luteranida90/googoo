@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "С детства следите за Акинфеевым? Поздравьте легенду с юбилеем!",
+    "description": "В нашем проекте.",
+    "fullText": "В нашем проекте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/46/5f02cd9e4491da6c0bd43360d6140.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/akinfeev-birthday/start?utm_source=native",
+    "time": "2026-04-02T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах снова произошел взрыв",
-    "description": "В Сумской области объявлена воздушная тревога",
-    "fullText": "В Сумской области объявлена воздушная тревога",
+    "title": "Минкульт Абхазии заключил соглашения с российскими организациями в рамках форума",
+    "description": "Абхазское ведомство будет сотрудничать с предприятием \"Башкирские художественные промыслы \"Агидель\", \"Росгосцирком\", Историко-мемориальным музеем Нестора Лакобы и Государственным центральным музеем современной истории России",
+    "fullText": "Абхазское ведомство будет сотрудничать с предприятием \"Башкирские художественные промыслы \"Агидель\", \"Росгосцирком\", Историко-мемориальным музеем Нестора Лакобы и Государственным центральным музеем современной истории России",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/26984613",
-    "time": "2026-04-02T17:30:58.000Z"
+    "url": "https://tass.ru/kultura/26985235",
+    "time": "2026-04-02T19:16:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +33,25 @@
     "time": "2026-04-02T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "72% прошедших наш футбольный диктант ошиблись в названии этого клуба. А вы справитесь?",
-    "description": "Играли с нашими в еврокубках.",
-    "fullText": "Играли с нашими в еврокубках.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/67/78b0574ae44968eb65de786d7517a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/diktant-2026/?utm_source=native",
-    "time": "2026-04-02T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Стартовал финальный этап продаж билетов на ЧМ-2026. Как купить?",
-    "description": "Гайд от Игоря Сергеева.",
-    "fullText": "Гайд от Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/cc/7a330b1ed4759b50dcabf9e73ec05.jpeg",
+    "title": "Как Агкацев стал пожирателем пенальти",
+    "description": "Разбор Ильи Васильева.",
+    "fullText": "Разбор Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/fe/824e34fab4f4494f3165ea67a0dc7.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3393945.html",
-    "time": "2026-04-02T13:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395100.html",
+    "time": "2026-04-02T15:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Моддеры обнаружили в Crimson Desert деактивированную систему «последствий от приёма пищи»",
-    "description": "У еды могло быть ещё более важное место в игре.",
-    "fullText": "У еды могло быть ещё более важное место в игре.",
-    "image": "https://leonardo.osnova.io/61e44b0f-f301-5329-af5a-4d5186ef0d6b/",
+    "title": "Анимационный сериал «Звёздные войны. Дарт Мол: Повелитель теней» продлили на второй сезон",
+    "description": "Первые эпизоды шоу выйдут 6 апреля.",
+    "fullText": "Первые эпизоды шоу выйдут 6 апреля.",
+    "image": "https://leonardo.osnova.io/c9a3cc77-7d39-5216-a7e0-760b18bf4130/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4944157-v-crimson-desert-najdena-deaktivirovannaya-sistema-posledstvij-ot-edy?from=rss",
-    "time": "2026-04-02T11:54:19.000Z"
+    "url": "https://dtf.ru/cinema/4945583-animatsionnyy-serial-zvezdnye-voyny-dart-mol-poluchil-prodolzhenie?from=rss",
+    "time": "2026-04-02T15:02:19.000Z"
   }
 ]
