@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: ВСУ используют жилые кварталы Харькова для ударов по Белгородской области",
-    "description": "Украинские террористические формирования продолжают активно использовать жилые кварталы, отметил собеседник агентства",
-    "fullText": "Украинские террористические формирования продолжают активно использовать жилые кварталы, отметил собеседник агентства",
+    "title": "Израиль заявил о новом обстреле из Ирана",
+    "description": "Израильские оборонные системы работают над перехватом, сообщили военные",
+    "fullText": "Израильские оборонные системы работают над перехватом, сообщили военные",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/26983117",
-    "time": "2026-04-02T15:25:11.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26983961",
+    "time": "2026-04-02T16:37:23.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Ищем креатора для наших спецпроектов – скорее откликайтесь на вакансию!",
+    "description": "Ждем вас в Сирене.",
+    "fullText": "Ждем вас в Сирене.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/f0/7512c70984032902bf7adb249ed03.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pteb95",
+    "time": "2026-04-02T16:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Студия Уоррена Спектора сменила концепцию Thick as Thieves — с PvPvE на одиночное и кооперативное прохождение",
+    "description": "Больше подробностей о стелс-экшене появится уже скоро — на презентации The Triple-i Initiative.",
+    "fullText": "Больше подробностей о стелс-экшене появится уже скоро — на презентации The Triple-i Initiative.",
+    "image": "https://leonardo.osnova.io/85af009a-3d1b-5d3c-abe5-ccefa62ee0ec/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4945709-thick-as-thieves-novaya-kontseptsia?from=rss",
+    "time": "2026-04-02T15:54:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хорошо следили за сезоном КХЛ?",
-    "description": "Давайте проверим.",
-    "fullText": "Давайте проверим.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/42/32ee7e49348938ceedca008fe377d.png",
+    "title": "Бонифасе после травмы о-о-очень округлился. Пишут даже про 120 кг 🤯",
+    "description": "Не впервые.",
+    "fullText": "Не впервые.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d8/79460581c4224aef72d39bbc172d3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3391606.html",
-    "time": "2026-04-02T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Legacy of Kain: Ascendance получила «в основном отрицательные отзывы» в Steam и 58 баллов на OpenCritic",
-    "description": "Промежуточные итоги для игры, которая вышла 31 марта.",
-    "fullText": "Промежуточные итоги для игры, которая вышла 31 марта.",
-    "image": "https://leonardo.osnova.io/6852bdf2-4dc3-5856-9f72-4c3add5d34e6/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4943553-legacy-of-kain-ascendance-otritsatelnie-otzyvy?from=rss",
-    "time": "2026-04-02T10:50:30.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395088.html",
+    "time": "2026-04-02T13:10:00.000Z"
   }
 ]
