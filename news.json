@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Театр Олега Табакова выпускает \"Нежное сердце\" Владимира Соллогуба",
+    "description": "Постановка возвращает на сцену традиции русского водевиля и переносит зрителей в Санкт-Петербург 1850-1860-х годов",
+    "fullText": "Постановка возвращает на сцену традиции русского водевиля и переносит зрителей в Санкт-Петербург 1850-1860-х годов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/26985705",
+    "time": "2026-04-02T21:31:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Кантона – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
     "time": "2026-04-02T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В проекте ГОСТа прописали рекомендации по подаче борща",
-    "description": "Согласно документу, суп лучше подавать со сметаной, салом, чесноком, зеленью и пампушками",
-    "fullText": "Согласно документу, суп лучше подавать со сметаной, салом, чесноком, зеленью и пампушками",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/26985699",
-    "time": "2026-04-02T21:10:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бонифасе после травмы о-о-очень округлился. Пишут даже про 120 кг 🤯",
-    "description": "Не впервые.",
-    "fullText": "Не впервые.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d8/79460581c4224aef72d39bbc172d3.jpeg",
+    "title": "Тактический разбор футбольного матча из «Смешариков»",
+    "description": "Анализ от блогера Трибуны.",
+    "fullText": "Анализ от блогера Трибуны.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/a3/21cdc56184a1d8cb4dd9d459c3b20.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395088.html",
-    "time": "2026-04-02T17:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3393712.html",
+    "time": "2026-04-02T18:08:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
