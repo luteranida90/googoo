@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ООН сообщила о гибели 10 моряков при атаках в Ормузском проливе",
+    "description": "С начала конфликта 28 февраля Международная морская организация подтвердила 21 нападение на коммерческие суда",
+    "fullText": "С начала конфликта 28 февраля Международная морская организация подтвердила 21 нападение на коммерческие суда",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26985441",
+    "time": "2026-04-02T19:59:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "С детства следите за Акинфеевым? Поздравьте легенду с юбилеем!",
     "description": "В нашем проекте.",
@@ -11,47 +22,25 @@
     "time": "2026-04-02T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минкульт Абхазии заключил соглашения с российскими организациями в рамках форума",
-    "description": "Абхазское ведомство будет сотрудничать с предприятием \"Башкирские художественные промыслы \"Агидель\", \"Росгосцирком\", Историко-мемориальным музеем Нестора Лакобы и Государственным центральным музеем современной истории России",
-    "fullText": "Абхазское ведомство будет сотрудничать с предприятием \"Башкирские художественные промыслы \"Агидель\", \"Росгосцирком\", Историко-мемориальным музеем Нестора Лакобы и Государственным центральным музеем современной истории России",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/26985235",
-    "time": "2026-04-02T19:16:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Ищем креатора для наших спецпроектов – скорее откликайтесь на вакансию!",
-    "description": "Ждем вас в Сирене.",
-    "fullText": "Ждем вас в Сирене.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/f0/7512c70984032902bf7adb249ed03.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/pteb95",
-    "time": "2026-04-02T16:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Агкацев стал пожирателем пенальти",
-    "description": "Разбор Ильи Васильева.",
-    "fullText": "Разбор Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/fe/824e34fab4f4494f3165ea67a0dc7.png",
+    "title": "«Торонто» надо менять Мэттьюса. Объясняем, куда и почему",
+    "description": "Революция.",
+    "fullText": "Революция.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fb/5104140604cedab913119e7a91548.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395100.html",
-    "time": "2026-04-02T15:35:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3394878.html",
+    "time": "2026-04-02T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Анимационный сериал «Звёздные войны. Дарт Мол: Повелитель теней» продлили на второй сезон",
-    "description": "Первые эпизоды шоу выйдут 6 апреля.",
-    "fullText": "Первые эпизоды шоу выйдут 6 апреля.",
-    "image": "https://leonardo.osnova.io/c9a3cc77-7d39-5216-a7e0-760b18bf4130/",
+    "title": "Первые детали и кадр Ally — мультфильма от режиссёра «Паразитов» и «Микки 17»",
+    "description": "Главной героиней станет кальмар-поросёнок.",
+    "fullText": "Главной героиней станет кальмар-поросёнок.",
+    "image": "https://leonardo.osnova.io/50aed9b8-2c20-5084-91f0-d551ead534f8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4945583-animatsionnyy-serial-zvezdnye-voyny-dart-mol-poluchil-prodolzhenie?from=rss",
-    "time": "2026-04-02T15:02:19.000Z"
+    "url": "https://dtf.ru/cinema/4945695-pervyj-animacionnyj-film-ally-ot-pon-dzhun-ho?from=rss",
+    "time": "2026-04-02T16:01:18.000Z"
   }
 ]
