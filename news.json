@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Израиль заявил о новом обстреле из Ирана",
-    "description": "Израильские оборонные системы работают над перехватом, сообщили военные",
-    "fullText": "Израильские оборонные системы работают над перехватом, сообщили военные",
+    "title": "В Сумах снова произошел взрыв",
+    "description": "В Сумской области объявлена воздушная тревога",
+    "fullText": "В Сумской области объявлена воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26983961",
-    "time": "2026-04-02T16:37:23.000Z"
+    "url": "https://tass.ru/proisshestviya/26984613",
+    "time": "2026-04-02T17:30:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -20,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/pteb95",
     "time": "2026-04-02T16:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия Уоррена Спектора сменила концепцию Thick as Thieves — с PvPvE на одиночное и кооперативное прохождение",
-    "description": "Больше подробностей о стелс-экшене появится уже скоро — на презентации The Triple-i Initiative.",
-    "fullText": "Больше подробностей о стелс-экшене появится уже скоро — на презентации The Triple-i Initiative.",
-    "image": "https://leonardo.osnova.io/85af009a-3d1b-5d3c-abe5-ccefa62ee0ec/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4945709-thick-as-thieves-novaya-kontseptsia?from=rss",
-    "time": "2026-04-02T15:54:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Бонифасе после травмы о-о-очень округлился. Пишут даже про 120 кг 🤯",
-    "description": "Не впервые.",
-    "fullText": "Не впервые.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d8/79460581c4224aef72d39bbc172d3.jpeg",
+    "title": "Стартовал финальный этап продаж билетов на ЧМ-2026. Как купить?",
+    "description": "Гайд от Игоря Сергеева.",
+    "fullText": "Гайд от Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/cc/7a330b1ed4759b50dcabf9e73ec05.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395088.html",
-    "time": "2026-04-02T13:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3393945.html",
+    "time": "2026-04-02T13:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Моддеры обнаружили в Crimson Desert деактивированную систему «последствий от приёма пищи»",
+    "description": "У еды могло быть ещё более важное место в игре.",
+    "fullText": "У еды могло быть ещё более важное место в игре.",
+    "image": "https://leonardo.osnova.io/61e44b0f-f301-5329-af5a-4d5186ef0d6b/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4944157-v-crimson-desert-najdena-deaktivirovannaya-sistema-posledstvij-ot-edy?from=rss",
+    "time": "2026-04-02T11:54:19.000Z"
   }
 ]
