@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лавров в шутку поправил переводчика на переговорах с египетским коллегой",
+    "description": "Глава МИД пошутил про точность перевода, отметив, что Бадр Абдель Аты не произнес его отчество",
+    "fullText": "Глава МИД пошутил про точность перевода, отметив, что Бадр Абдель Аты не произнес его отчество",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/26992189",
+    "time": "2026-04-03T09:56:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все пары второго раунда плей-офф КХЛ: «Авангард» против ЦСКА, «Динамо Минск» с «Ак Барсом»",
+    "description": "Официально!",
+    "fullText": "Официально!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/92/209efdef44b6c90a736d4d42722fd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3395216.html",
+    "time": "2026-04-03T06:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Кантона – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -11,36 +33,14 @@
     "time": "2026-04-03T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кузнецов протащил «Салават» во второй раунд! Какой же он мастер",
-    "description": "Перекрыл ошибки.",
-    "fullText": "Перекрыл ошибки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7a/5be1af97049d6be0fdc58732b3662.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3395211.html",
-    "time": "2026-04-03T01:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия Уоррена Спектора сменила концепцию Thick as Thieves — с PvPvE на одиночное и кооперативное прохождение",
-    "description": "Больше подробностей о стелс-экшене появится уже скоро — на презентации The Triple-i Initiative.",
-    "fullText": "Больше подробностей о стелс-экшене появится уже скоро — на презентации The Triple-i Initiative.",
-    "image": "https://leonardo.osnova.io/85af009a-3d1b-5d3c-abe5-ccefa62ee0ec/",
+    "title": "Одиночный режим, никакого ИИ и peer-to-peer мультиплеер — детали «роглайта» Serious Sam: Shatterverse",
+    "description": "Длительность одного «забега» составит около 45 минут.",
+    "fullText": "Длительность одного «забега» составит около 45 минут.",
+    "image": "https://leonardo.osnova.io/5fe09718-c888-52ad-9a83-89e95cd9a547/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4945709-thick-as-thieves-novaya-kontseptsia?from=rss",
-    "time": "2026-04-02T15:54:37.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4945432-serious-sam-shatterverse-roglayt-odinokiy-rezhim?from=rss",
+    "time": "2026-04-02T14:19:41.000Z"
   }
 ]
