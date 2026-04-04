@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МИД Ирана: действия Тегерана в Ормузском проливе соответствуют международному праву",
-    "description": "Министр иностранных дел исламской республики Аббас Арагчи отметил, что \"суда невраждебных государств\" могут проходить через пролив в координации с Ираном",
-    "fullText": "Министр иностранных дел исламской республики Аббас Арагчи отметил, что \"суда невраждебных государств\" могут проходить через пролив в координации с Ираном",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Черно-белая форма сборной России. Почему?",
+    "description": "Ответ – в Музее русского футбола.",
+    "fullText": "Ответ – в Музее русского футбола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/fd/35bc768d149cdb6ea715e4dfbabdb.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27003195",
-    "time": "2026-04-04T18:03:40.000Z"
+    "url": "https://sprts.cc/oi9iy6",
+    "time": "2026-04-04T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ротенберг – кандидат на место тренера «Динамо». Неужели он возвращается?",
-    "description": "Не факт.",
-    "fullText": "Не факт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/a5/79dfde9d24653b7a80e3e4ab47c70.jpeg",
+    "title": "Кто спасет «Краснодар» без Сперцяна?",
+    "description": "Джон Кордоба и Никита Кривцов наготове.",
+    "fullText": "Джон Кордоба и Никита Кривцов наготове.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/d2/68af3ca5f40cb845bd2eb75aff0e1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3395524.html",
-    "time": "2026-04-04T14:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "«Зенит Навсегда» – уникальный проект об истории петербургского клуба!",
-    "description": "Смотрите на PREMIER и RUTUBE.",
-    "fullText": "Смотрите на PREMIER и RUTUBE.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/60/1bff1214e4c4abe0887c2e789fc1c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/9q9m6o?erid=2SDnjcKEfHC",
-    "time": "2026-04-04T14:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395146.html",
+    "time": "2026-04-04T14:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4947618-alfa-testy-state-of-decay-3?from=rss",
     "time": "2026-04-03T15:33:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
