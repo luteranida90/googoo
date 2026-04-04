@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Над регионами России сбили 69 украинских беспилотников",
+    "description": "Цели поразили в течение семи часов",
+    "fullText": "Цели поразили в течение семи часов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260404/8942765.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/27003379",
+    "time": "2026-04-04T19:12:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Черно-белая форма сборной России. Почему?",
     "description": "Ответ – в Музее русского футбола.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто спасет «Краснодар» без Сперцяна?",
-    "description": "Джон Кордоба и Никита Кривцов наготове.",
-    "fullText": "Джон Кордоба и Никита Кривцов наготове.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/d2/68af3ca5f40cb845bd2eb75aff0e1.jpeg",
+    "title": "Как неловко! Карлсен согласился на селфи с соперницей, а потом попросил судей забрать у нее телефон",
+    "description": "Правила есть правила.",
+    "fullText": "Правила есть правила.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/86/b3ddbdc1448c3ac96393ba0ea185d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395146.html",
-    "time": "2026-04-04T14:15:00.000Z"
+    "url": "https://www.sports.ru/chess/blogs/3395587.html",
+    "time": "2026-04-04T15:29:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4947618-alfa-testy-state-of-decay-3?from=rss",
     "time": "2026-04-03T15:33:56.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
