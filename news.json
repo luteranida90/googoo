@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Харькове произошли взрывы",
+    "description": "В регионе объявлена воздушная тревога",
+    "fullText": "В регионе объявлена воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27005069",
+    "time": "2026-04-05T08:17:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "1.95 – на «Спартак», 3.80 – на «Локомотив»",
+    "description": "Ставьте на матч РПЛ с бонусом от Лиги Ставок.",
+    "fullText": "Ставьте на матч РПЛ с бонусом от Лиги Ставок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b9/139cf73fc460786d18028fa614815.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/ppckg0",
+    "time": "2026-04-05T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Ваш автограф и рисунок – на груди фанатского джерси ЦСКА",
     "description": "За поздравление капитана.",
@@ -11,47 +33,25 @@
     "time": "2026-04-05T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Калуге ночью уничтожили три украинских беспилотника",
-    "description": "Пострадавших и разрушений инфраструктуры нет",
-    "fullText": "Пострадавших и разрушений инфраструктуры нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27004253",
-    "time": "2026-04-05T04:23:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Черно-белая форма сборной России. Почему?",
-    "description": "Ответ – в Музее русского футбола.",
-    "fullText": "Ответ – в Музее русского футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/fd/35bc768d149cdb6ea715e4dfbabdb.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/oi9iy6",
-    "time": "2026-04-04T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гол за правило 8 секунд: ЦСКА наказал вратаря за задержку. Впервые в истории РПЛ",
-    "description": "Игнат Тереховский долго вводил мяч.",
-    "fullText": "Игнат Тереховский долго вводил мяч.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/4a/147ebc79a4171b54bcb504b98ff58.jpeg",
+    "title": "Кор-до-ба! На 86-й затащил матч с «Ахматом»",
+    "description": "Тяжелейший.",
+    "fullText": "Тяжелейший.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/d9/624202220401d85a596b2ff740271.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395545.html",
-    "time": "2026-04-04T18:24:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395656.html",
+    "time": "2026-04-05T00:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Undead Labs анонсировала серию альфа-тестов State of Decay 3 — они начнутся в мае",
-    "description": "На сайте игры уже можно подать заявку на участие.",
-    "fullText": "На сайте игры уже можно подать заявку на участие.",
-    "image": "https://leonardo.osnova.io/4adea77d-07d3-501d-856b-98d666cf9b2f/",
+    "title": "В Steam вышел All Will Fall — градостроительный симулятор о развитии колонии посреди океана",
+    "description": "Цена игры составила 880 рублей.",
+    "fullText": "Цена игры составила 880 рублей.",
+    "image": "https://leonardo.osnova.io/d785a081-c210-5663-a7aa-f165364744fc/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4947618-alfa-testy-state-of-decay-3?from=rss",
-    "time": "2026-04-03T15:33:56.000Z"
+    "url": "https://dtf.ru/games/4947613-all-will-fall-gradostroitelnyj-simulator?from=rss",
+    "time": "2026-04-03T15:44:50.000Z"
   }
 ]
