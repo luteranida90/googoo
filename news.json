@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Дагестане из-за подтоплений эвакуировали 37 пассажиров поезда Москва - Дербент",
+    "description": "Всех пассажиров эвакуировали с железнодорожного вокзала Махачкалы на трех автобусах",
+    "fullText": "Всех пассажиров эвакуировали с железнодорожного вокзала Махачкалы на трех автобусах",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27007785",
+    "time": "2026-04-05T15:09:02.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Умеете в логичные и простые интерфейсы, но делаете их уникальными? Тогда вам в Сирену!",
     "description": "Ищем дизайнера спецпроектов.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/nb8jqr",
     "time": "2026-04-05T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Комитет ОПЕК+ заявил о необходимости охраны морских путей поставок энергоресурсов",
-    "description": "Комитет рассмотрел ситуацию на мировом рынке энергоресурсов",
-    "fullText": "Комитет рассмотрел ситуацию на мировом рынке энергоресурсов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27007289",
-    "time": "2026-04-05T13:59:36.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -45,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рэпер Pharaoh – фанат футбола: топит за «Атлетико», в треках – отсылки на Зидана и «Палермо»",
-    "description": "Смолов называл его «Месси из рэпа».",
-    "fullText": "Смолов называл его «Месси из рэпа».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/74/bcb5fd1d945fbb92637cc750a396a.jpeg",
+    "title": "«Хочется, чтобы жертвы домашнего насилия перестали быть невидимыми». Номер-манифест Туктамышевой",
+    "description": "Важное на «Русском вызове».",
+    "fullText": "Важное на «Русском вызове».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e4/91de9725e4283b5e9430e57e9e2fb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3395115.html",
-    "time": "2026-04-05T10:30:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3395689.html",
+    "time": "2026-04-05T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
