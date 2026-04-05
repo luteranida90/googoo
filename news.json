@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Орбан назвал вопиющим преступлением действия Украины против Венгрии",
+    "description": "Венгерский премьер-министр считает, что весь мир оказался на пороге \"энергетического и финансового кризисов\", которые вызваны нарушением поставок энергоресурсов и ростом цен",
+    "fullText": "Венгерский премьер-министр считает, что весь мир оказался на пороге \"энергетического и финансового кризисов\", которые вызваны нарушением поставок энергоресурсов и ростом цен",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007063",
+    "time": "2026-04-05T13:30:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Симпл – легенда CS. Вот весь его путь",
+    "description": "С самого детства.",
+    "fullText": "С самого детства.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/e2/0bc4ff3a344179be93789a885616b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3395289.html",
+    "time": "2026-04-05T13:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "«Интер» или «Рома»? «Наполи» или «Милан»? Голосуйте за победителей в новом туре Серии А",
     "description": "В Пикере Спортса’’.",
@@ -12,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему я против лимита. Второй текст Юрия Семина",
-    "description": "Легенда на связи.",
-    "fullText": "Легенда на связи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/2c/8f77f39d44f84b8425971ea739689.png",
+    "title": "Еще 5 претензий к Дженнаро Гаттузо",
+    "description": "Оправданное увольнение.",
+    "fullText": "Оправданное увольнение.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/12/97aa9b11f40859ae1ec04dc1d9a98.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395272.html",
-    "time": "2026-04-05T07:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395430.html",
+    "time": "2026-04-05T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam вышел All Will Fall — градостроительный симулятор о развитии колонии посреди океана",
-    "description": "Цена игры составила 880 рублей.",
-    "fullText": "Цена игры составила 880 рублей.",
-    "image": "https://leonardo.osnova.io/d785a081-c210-5663-a7aa-f165364744fc/-/format/mp4/",
+    "title": "«Роглайт»-слэшер Morbid Metal выйдет в раннем доступе уже 8 апреля — трейлер и скриншоты",
+    "description": "Стартовая цена игры составит 18 долларов с учётом скидки.",
+    "fullText": "Стартовая цена игры составит 18 долларов с учётом скидки.",
+    "image": "https://leonardo.osnova.io/f6e74b0c-2b4e-5536-ad50-a0d8c0dc987b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4947613-all-will-fall-gradostroitelnyj-simulator?from=rss",
-    "time": "2026-04-03T15:44:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4947738-roglayt-morbid-metal-v-rannem-dostupe?from=rss",
+    "time": "2026-04-03T16:43:32.000Z"
   }
 ]
