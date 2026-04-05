@@ -1,36 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Махачкале развернули девять ПВР из-за непогоды",
-    "description": "Коммунальные службы города работают в усиленном режиме",
-    "fullText": "Коммунальные службы города работают в усиленном режиме",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27005619",
-    "time": "2026-04-05T09:48:08.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "1.95 – на «Спартак», 3.80 – на «Локомотив»",
-    "description": "Ставьте на матч РПЛ с бонусом от Лиги Ставок.",
-    "fullText": "Ставьте на матч РПЛ с бонусом от Лиги Ставок.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b9/139cf73fc460786d18028fa614815.jpeg",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "«Интер» или «Рома»? «Наполи» или «Милан»? Голосуйте за победителей в новом туре Серии А",
+    "description": "В Пикере Спортса’’.",
+    "fullText": "В Пикере Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/4d/f89fe46b640889c446e25ea82b675.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/ppckg0",
-    "time": "2026-04-05T07:00:00.000Z"
+    "url": "https://m.sports.ru/picker/seria-a/?utm_source=native",
+    "time": "2026-04-05T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» дожала «Атлетико» в большинстве. Уже 7 очков от «Реала» – это все?",
-    "description": "Забил Левандовски.",
-    "fullText": "Забил Левандовски.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/88/9f8eccf6645ab9e994eaac960d0d2.jpeg",
+    "title": "Почему я против лимита. Второй текст Юрия Семина",
+    "description": "Легенда на связи.",
+    "fullText": "Легенда на связи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/2c/8f77f39d44f84b8425971ea739689.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395657.html",
-    "time": "2026-04-05T06:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395272.html",
+    "time": "2026-04-05T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4947613-all-will-fall-gradostroitelnyj-simulator?from=rss",
     "time": "2026-04-03T15:44:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
