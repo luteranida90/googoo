@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
+    "description": "Приглашаем!",
+    "fullText": "Приглашаем!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/97/80d2415524273ad20b7115d64635e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/101-museum/?ref=sports&ref2=main&ref3=supertop",
+    "time": "2026-04-06T14:37:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РКК \"Энергия\": США предлагают использовать опыт России для затопления МКС",
-    "description": "Метод управляемого схода с орбиты станции \"Мир\" - это тоже очень серьезная работа, отметил генеральный конструктор - заместитель генерального директора РКК Владимир Соловьев",
-    "fullText": "Метод управляемого схода с орбиты станции \"Мир\" - это тоже очень серьезная работа, отметил генеральный конструктор - заместитель генерального директора РКК Владимир Соловьев",
+    "title": "Эксперт Гладилин назвал \"Науку 0+\" мировым эталоном в популяризации исследований",
+    "description": "Международный фестиваль проводится в России и за рубежом с 2006 года",
+    "fullText": "Международный фестиваль проводится в России и за рубежом с 2006 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/27018119",
-    "time": "2026-04-06T13:41:01.000Z"
+    "url": "https://tass.ru/nauka/27018651",
+    "time": "2026-04-06T14:31:55.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как изменилось «Динамо» после Карпина – детали в блоге Тюкавина",
-    "description": "Новый пост на Спортсе’’.",
-    "fullText": "Новый пост на Спортсе’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/1b/b6ffaebee4614b0b7485d61386eb7.png",
+    "title": "«Я использовал трудности, чтобы стать лучше». Лагрейд – лучший в мире после рефлексии над изменой",
+    "description": "«Я вернулся к себе».",
+    "fullText": "«Я вернулся к себе».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/4e/b862a542f4d3681adcb3756beb892.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395346.html",
-    "time": "2026-04-06T10:00:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3395746.html",
+    "time": "2026-04-06T10:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Следующие эпизоды «Гонки „Стальной шар“» начнут выпускать осенью 2026 года",
-    "description": "Такое расписание задумывали с самого начала.",
-    "fullText": "Такое расписание задумывали с самого начала.",
-    "image": "https://leonardo.osnova.io/9d37dfb1-df4d-5ef3-b759-64de030c5505/",
+    "title": "СМИ: съёмки фильма по Elden Ring начнутся уже в первой половине апреля",
+    "description": "Одну из ролей может исполнить Ник Офферман.",
+    "fullText": "Одну из ролей может исполнить Ник Офферман.",
+    "image": "https://leonardo.osnova.io/0ff25a27-4c30-5c96-94d4-db57b33848e0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/4952366-novye-epizody-gonki-stalnoy-shar-na-netflix?from=rss",
-    "time": "2026-04-06T07:56:25.000Z"
+    "url": "https://dtf.ru/cinema/4952164-syemki-filma-po-elden-ring-nachnutsya?from=rss",
+    "time": "2026-04-06T05:53:56.000Z"
   }
 ]
