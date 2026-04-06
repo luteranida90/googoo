@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Организаторы Менделеевской олимпиады не используют ИИ для создания заданий",
-    "description": "Состязание юных химиков состоит из трех туров: двух теоретических и одного практического",
-    "fullText": "Состязание юных химиков состоит из трех туров: двух теоретических и одного практического",
+    "title": "ТАСС: ВСУ занимаются мародерством в Славянске",
+    "description": "Они используют жителей в качестве живого щита, сообщили в российских силовых структурах",
+    "fullText": "Они используют жителей в качестве живого щита, сообщили в российских силовых структурах",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27014621",
-    "time": "2026-04-06T09:55:39.000Z"
+    "url": "https://tass.ru/obschestvo/27015839",
+    "time": "2026-04-06T11:05:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как «Сочи» стал одной из двух худших команд в истории РПЛ",
+    "description": "Рассказ Ильи Васильева.",
+    "fullText": "Рассказ Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/63/8ab12ebcf427eaa83d26d7b2f1c9d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3394922.html",
+    "time": "2026-04-06T07:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,25 +33,14 @@
     "time": "2026-04-06T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как и зачем мы сделали Музей русского футбола в 101 предмете",
-    "description": "Рассказывает креативный продюсер Спортса’‘.",
-    "fullText": "Рассказывает креативный продюсер Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/19/92574b48c47789a83317a96bb66af.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3394503.html",
-    "time": "2026-04-06T06:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовало аниме «Цугаи загробного мира» по одноимённой манге от создательницы «Стального алхимика»",
-    "description": "Релиз состоялся на Crunchyroll.",
-    "fullText": "Релиз состоялся на Crunchyroll.",
-    "image": "https://leonardo.osnova.io/efc05f44-2f14-539b-a8a8-fcf427a182ca/",
+    "title": "СМИ: глава ТВ-подразделения Amazon MGM попросил доработать сценарий сериала по Mass Effect для расширения аудитории",
+    "description": "В той же статье упомянули, что компания не собирается закрывать «Кольца власти».",
+    "fullText": "В той же статье упомянули, что компания не собирается закрывать «Кольца власти».",
+    "image": "https://leonardo.osnova.io/dd2c3b5f-3ecb-5ada-b2c5-1518a0453f5d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/4949363-anime-tsugai-zagrobnogo-mira?from=rss",
-    "time": "2026-04-04T16:19:25.000Z"
+    "url": "https://dtf.ru/cinema/4950520-serial-po-mass-effect-amazon-mgm-dorabotka-scenariya?from=rss",
+    "time": "2026-04-05T08:02:16.000Z"
   }
 ]
