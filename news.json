@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Капризова признали первой звездой дня в НХЛ",
-    "description": "Российский форвард оформил хет-трик в матче с \"Детройтом\"",
-    "fullText": "Российский форвард оформил хет-трик в матче с \"Детройтом\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Самый спорный гол в истории. Как взмах флажка решил все?",
+    "description": "Яркий эпизод.",
+    "fullText": "Яркий эпизод.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/48/6e9c5a6bd43eca75eedb01ea11df5.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/sport/27011061",
-    "time": "2026-04-06T04:54:16.000Z"
+    "url": "https://sprts.cc/hxriq9",
+    "time": "2026-04-06T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему весенний спад «Локомотива» не удивляет",
-    "description": "Колонка Ильи Васильева.",
-    "fullText": "Колонка Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/8c/8e86ec3604c7b8c93ba816e90b262.jpeg",
+    "title": "Бонгонда не пускают в «Спартак» из ДР Конго: сборную заперли в стране, чтобы отмечать выход на ЧМ-2026",
+    "description": "Клубы злятся.",
+    "fullText": "Клубы злятся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/e2/3929b68ca4b6b8e170e289255ebf4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3394927.html",
-    "time": "2026-04-05T20:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3395815.html",
+    "time": "2026-04-05T22:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam началась раздача симулятора ремонта House Flipper",
-    "description": "Игру можно забрать до 6 апреля включительно.",
-    "fullText": "Игру можно забрать до 6 апреля включительно.",
-    "image": "https://leonardo.osnova.io/df71f5a3-28b9-5ded-bb1e-60948f1db6ba/",
+    "title": "Во что поиграть: главные релизы апреля 2026",
+    "description": "Продолжаем насыщенный весенний сезон.",
+    "fullText": "Продолжаем насыщенный весенний сезон.",
+    "image": "https://leonardo.osnova.io/083fd36f-d3cb-5d99-8889-63afddb37703/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4947912-razdacha-igry-house-flipper-v-steam?from=rss",
-    "time": "2026-04-03T18:22:28.000Z"
+    "url": "https://dtf.ru/games/4921773-vo-chto-poigrat-glavnye-igry-na-pk-i-konsolyakh?from=rss",
+    "time": "2026-04-03T14:00:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
