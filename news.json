@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин поздравил То Лама с избранием президентом Вьетнама",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260407/8949201.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27025733",
+    "time": "2026-04-07T08:46:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
     "description": "Ищем отличников.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "🍕Пицца в РПЛ: как Смородская всех подсадила?",
-    "description": "Расследование Ковалева.",
-    "fullText": "Расследование Ковалева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7a/c4a6cfe6640aa982d04b30353b63f.png",
+    "title": "Россия повторяет путь развития гонок Бразилии. И как же это правильно!",
+    "description": "Неужели в работе Ротенберга есть смысл?",
+    "fullText": "Неужели в работе Ротенберга есть смысл?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/43/49d1932614186adbe12637a630d83.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395058.html",
-    "time": "2026-04-06T21:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3383927.html",
+    "time": "2026-04-06T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«М.Видео»: средняя цена смартфона в РФ за первые месяцы 2026 года составила 25,7 тысячи рублей",
-    "description": "Самой популярной моделью оказался realme Note 60X.",
-    "fullText": "Самой популярной моделью оказался realme Note 60X.",
-    "image": "https://leonardo.osnova.io/5022d370-9b6a-5648-b87e-b7a88f63bbf8/",
+    "title": "«Что случилось с этим городом?»: релизный трейлер Samson — игры от студии автора Just Cause",
+    "description": "Экшен выйдет 8 апреля.",
+    "fullText": "Экшен выйдет 8 апреля.",
+    "image": "https://leonardo.osnova.io/9cb31567-9dab-5746-b2b5-412981d7a51c/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/4953101-srednyaya-tsena-smartfonov-v-rossii-po-dannym-mvideo?from=rss",
-    "time": "2026-04-06T14:38:55.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4953020-releiznyj-trejler-igry-samson-ot-studii-liquid-swords?from=rss",
+    "time": "2026-04-06T13:56:05.000Z"
   }
 ]
