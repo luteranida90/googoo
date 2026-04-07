@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Татарстане объявили ракетную опасность",
-    "description": "Необходимо принять меры безопасности",
-    "fullText": "Необходимо принять меры безопасности",
+    "title": "Mehr: нефтехимический завод в Махшехре подвергся удару",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27034525",
-    "time": "2026-04-07T19:44:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Автор «Фарго» и «Легиона» снимет для Warner Bros. ремейк аргентинского хоррора «Оцепеневшие от страха»",
-    "description": "Он займётся фильмом в тесном сотрудничестве с постановщиком оригинала.",
-    "fullText": "Он займётся фильмом в тесном сотрудничестве с постановщиком оригинала.",
-    "image": "https://leonardo.osnova.io/b2adad02-4c50-582f-a15e-a38327b0eb04/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4960849-avtor-fargo-i-legiona-snimet-dlya-warner-bros-remeik-argentinskogo-horrora-ocepenevshie-ot-straha?from=rss",
-    "time": "2026-04-07T19:41:49.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27035005",
+    "time": "2026-04-07T21:01:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -31,6 +20,17 @@
     "category": "all",
     "url": "https://video.sports.ru/video/xOT9d4Ons57ERAm0wi_DbmbNF5TrPycusNxZWF9G7Ao",
     "time": "2026-04-07T18:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
+    "description": "Приглашаем!",
+    "fullText": "Приглашаем!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/97/80d2415524273ad20b7115d64635e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/101-museum/?ref=sports&ref2=main&ref3=supertop",
+    "time": "2026-04-07T18:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -45,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вы ничего не знаете про игроков ЦСКА",
-    "description": "Давайте знакомиться.",
-    "fullText": "Давайте знакомиться.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/7b/b55322f75491cac75a8614776750f.jpeg",
+    "title": "«Реал» против «Баварии» – потенциально главное шоу сезона",
+    "description": "Лукомский предвкушает.",
+    "fullText": "Лукомский предвкушает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/80/4cbed6f6b4112992c22ec816fcece.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3396173.html",
-    "time": "2026-04-07T16:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396118.html",
+    "time": "2026-04-07T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Бавария» – небольшой фаворит игры с «Реалом», но ЛЧ может удивлять!",
-    "description": "Ставьте на исход с фрибетом до 15 000.",
-    "fullText": "Ставьте на исход с фрибетом до 15 000.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/85/a9a65fc724aeebf9e01f3615adc5c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/oz8t07",
-    "time": "2026-04-07T15:50:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Глава ИРИ об импортозамещении игр: «Задача кратно более сложная, чем работа с кино и сериалами»",
+    "description": "В то же время он считает, что «ничего невозможного нет».",
+    "fullText": "В то же время он считает, что «ничего невозможного нет».",
+    "image": "https://leonardo.osnova.io/e0e6c75c-8793-5f69-a563-e9ab08c59b7b/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/4954969-importozameshchenie-igr?from=rss",
+    "time": "2026-04-07T12:28:50.000Z"
   }
 ]
