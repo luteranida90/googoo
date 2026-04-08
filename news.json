@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Смагин: шахматист Есипенко не до конца понял уровень турнира претендентов",
-    "description": "Россиянин занимает восьмое место на турнире",
-    "fullText": "Россиянин занимает восьмое место на турнире",
+    "title": "В Хабаровском крае выстроили комплексную систему поддержки материнства",
+    "description": "В крае действуют как федеральные, так и региональные меры поддержки",
+    "fullText": "В крае действуют как федеральные, так и региональные меры поддержки",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27038733",
-    "time": "2026-04-08T07:02:25.000Z"
+    "url": "https://tass.ru/obschestvo/27040239",
+    "time": "2026-04-08T08:31:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "40 вопросов Акинфееву в 40 лет – такой искренности еще не было. Смотрите на ВидеоСпортсе’‘",
+    "description": "Проект ЦСКА.",
+    "fullText": "Проект ЦСКА.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/66/8a3473dd94bd79175e5a76f2f104e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/LARZ6nisrs3ndGSHgPaDkNW3-WKDV4oTSU-m-Hvm1tw",
+    "time": "2026-04-08T08:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дончич хочет ускорить возвращение стволовыми клетками. Это ошибка",
-    "description": "Лука неудержим.",
-    "fullText": "Лука неудержим.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/40/0c567c595411baff021852f2da78e.jpeg",
+    "title": "Нечто неприличное: ЦСКА выиграл +80 в молодежной лиге, соперник 20 минут не мог попасть в корзину!",
+    "description": "Будущее здесь.",
+    "fullText": "Будущее здесь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9b/2db1610584c0daa7626455906af96.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3396108.html",
-    "time": "2026-04-07T21:50:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3396196.html",
+    "time": "2026-04-07T23:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Открылись предзаказы ремейка Gothic — 2699 рублей в Steam",
-    "description": "На консолях игра будет дороже, чем на ПК.",
-    "fullText": "На консолях игра будет дороже, чем на ПК.",
-    "image": "https://leonardo.osnova.io/3503d6b7-0178-5858-bf15-80ba1e32a816/",
+    "title": "«Заставь их страдать»: геймплейный трейлер российского арт-слэшера «Царевна»",
+    "description": "Страница игры доступна в Steam и VK Play.",
+    "fullText": "Страница игры доступна в Steam и VK Play.",
+    "image": "https://leonardo.osnova.io/f63e7933-df62-5c38-a96d-77e57e085909/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4955050-predzakazy-remeyka-gothic?from=rss",
-    "time": "2026-04-07T13:10:32.000Z"
+    "url": "https://dtf.ru/games/4955238-gejmplejnyj-trejler-tsarevna?from=rss",
+    "time": "2026-04-07T14:44:44.000Z"
   }
 ]
