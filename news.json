@@ -1,57 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Барселона» vs «Атлетико» – кто будет сильнее в ЛЧ? Делайте ставку с БЕТСИТИ",
-    "description": "И забирайте фрибет.",
-    "fullText": "И забирайте фрибет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/ed/ebd86e09d46b497740c1284d68d1e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/oqv1xi",
-    "time": "2026-04-08T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Акинфееву – 40. Его эпоха – в 40 фактах и 40 фото",
-    "description": "Юбилей.",
-    "fullText": "Юбилей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/2e/31f603a9248fb896530d0f5fe693a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3396295.html",
-    "time": "2026-04-08T09:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Акинфееву сегодня 40 лет, а поздравить могут все – и вы в том числе",
-    "description": "Оставьте теплые слова.",
-    "fullText": "Оставьте теплые слова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/e2837631a4cf9a5006b3a807c2b77.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/akinfeev-birthday/start?utm_source=native",
-    "time": "2026-04-08T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ещё одна страница Steam становится шире — теперь это мастерская",
-    "description": "Пока тоже только в бете.",
-    "fullText": "Пока тоже только в бете.",
-    "image": "https://leonardo.osnova.io/ff2ff91b-8c3f-521c-80c8-b314d2cd898b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4974599-obnovlenie-masterskoy-steam?from=rss",
-    "time": "2026-04-08T08:15:07.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "Пезешкиан осудил атаки на острова Лаван и Сири в нарушение режима прекращения огня",
+    "description": "Исламская республика решительно ответит на любые нападения, заявил президент Ирана",
+    "fullText": "Исламская республика решительно ответит на любые нападения, заявил президент Ирана",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27047541",
+    "time": "2026-04-08T16:34:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Жара в Париже: «ПСЖ» за 1.73 или «Ливерпуль» за 4.4?",
+    "description": "Ставьте на игры 1/4 финала ЛЧ с FONBET.",
+    "fullText": "Ставьте на игры 1/4 финала ЛЧ с FONBET.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/7b/d6d7b3dad4140beed707be95b143c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/oz8t07",
+    "time": "2026-04-08T13:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Офигеть, Медведев проиграл 0:6, 0:6",
+    "description": "Необъяснимое.",
+    "fullText": "Необъяснимое.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/99/ac1e36d604c20a40e421e4e5bd024.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3396360.html",
+    "time": "2026-04-08T12:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Crystal Dynamics показала ранний геймплей Tomb Raider: Legend в честь 20-летия игры",
+    "description": "Для него задействовали обновлённую модель героини из The Angel of Darkness.",
+    "fullText": "Для него задействовали обновлённую модель героини из The Angel of Darkness.",
+    "image": "https://leonardo.osnova.io/10c0ac60-b84d-5110-a087-79bd3aaf41fa/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4974698-crystal-dynamics-ranij-gejmplej-tomb-raider-legend?from=rss",
+    "time": "2026-04-08T09:34:19.000Z"
   }
 ]
