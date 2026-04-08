@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "МИД Британии: сделка по Ирану должна гарантировать безопасность его соседей",
-    "description": "Важно, чтобы предложенные переговоры привели к полному окончанию конфликта, отметил глава МИД Соединенного Королевства Иветт Купер",
-    "fullText": "Важно, чтобы предложенные переговоры привели к полному окончанию конфликта, отметил глава МИД Соединенного Королевства Иветт Купер",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27043991",
-    "time": "2026-04-08T11:57:33.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Барселона» vs «Атлетико» – кто будет сильнее в ЛЧ? Делайте ставку с БЕТСИТИ",
     "description": "И забирайте фрибет.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/oqv1xi",
     "time": "2026-04-08T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Акинфееву – 40. Его эпоха – в 40 фактах и 40 фото",
+    "description": "Юбилей.",
+    "fullText": "Юбилей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/2e/31f603a9248fb896530d0f5fe693a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3396295.html",
+    "time": "2026-04-08T09:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -33,36 +33,25 @@
     "time": "2026-04-08T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "40 вопросов Акинфееву в 40 лет – такой искренности еще не было. Смотрите на ВидеоСпортсе’‘",
-    "description": "Проект ЦСКА.",
-    "fullText": "Проект ЦСКА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/66/8a3473dd94bd79175e5a76f2f104e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/LARZ6nisrs3ndGSHgPaDkNW3-WKDV4oTSU-m-Hvm1tw",
-    "time": "2026-04-08T08:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Локомотив» – уникальный опыт для Хартли: он ничего не ломал, но добавил канадский стиль",
-    "description": "Ярославль летит за новым Кубком Гагарина.",
-    "fullText": "Ярославль летит за новым Кубком Гагарина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3a/c990255154e999bd6c19b06e03bbc.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3395044.html",
-    "time": "2026-04-08T07:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crimson Desert продолжает лидировать в чарте Steam среди платных игр",
-    "description": "На фоне скидки 60% в топ-3 попал ремейк Resident Evil 4.",
-    "fullText": "На фоне скидки 60% в топ-3 попал ремейк Resident Evil 4.",
-    "image": "https://leonardo.osnova.io/71311898-ed89-59b6-b351-41859037d149/",
+    "title": "Ещё одна страница Steam становится шире — теперь это мастерская",
+    "description": "Пока тоже только в бете.",
+    "fullText": "Пока тоже только в бете.",
+    "image": "https://leonardo.osnova.io/ff2ff91b-8c3f-521c-80c8-b314d2cd898b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4960412-crimson-desert-lidiruet-v-chartah-steam?from=rss",
-    "time": "2026-04-07T19:58:35.000Z"
+    "url": "https://dtf.ru/gameindustry/4974599-obnovlenie-masterskoy-steam?from=rss",
+    "time": "2026-04-08T08:15:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
