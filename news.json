@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пленный из ВСУ рассказал, что из-за мобилизации его неходячая мать осталась одна",
+    "description": "По словам Владимира Шведа, если бы он отказался и сбежал, то его бы нашли дома и отправили \"на горячие точки, где, как говорят, на живое мясо бросают\"",
+    "fullText": "По словам Владимира Шведа, если бы он отказался и сбежал, то его бы нашли дома и отправили \"на горячие точки, где, как говорят, на живое мясо бросают\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/27037623",
+    "time": "2026-04-08T05:21:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
+    "description": "Ищем отличников.",
+    "fullText": "Ищем отличников.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/e5/acba6c4034aa29e133bcca6290d61.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/diktant-2026/?utm_source=native",
+    "time": "2026-04-08T04:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Все о петербургском клубе: с основания до наших дней – фильм «Зенит Навсегда»",
     "description": "Уже доступен на PREMIER и RUTUBE.",
@@ -11,37 +33,15 @@
     "time": "2026-04-07T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
-    "description": "Привет из прошлого.",
-    "fullText": "Привет из прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1c/7b9d539004772921bc8e8bb5a510d.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-04-07T19:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сокрушенный Артета на картинке-меме из FIFA – как это получилось?",
-    "description": "Мы знаем матч и помним обстоятельства.",
-    "fullText": "Мы знаем матч и помним обстоятельства.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/5b/ba7a260674e61a1789487bc775fbc.jpeg",
+    "title": "Через «Кубань» отмыли миллиард рублей. Вице-губернатор Коробка задержан",
+    "description": "Курировал клуб перед распадом.",
+    "fullText": "Курировал клуб перед распадом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/95/f690bed6344468b4a07cf82a68af9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3394457.html",
-    "time": "2026-04-07T19:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Секрет угловых «Арсенала»: формула Жовера и темные искусства Артеты. Разбор Лукомского на ВидеоСпортсе’‘",
-    "description": "Магия.",
-    "fullText": "Магия.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/73/a4c00d3f5403291e31867897c05ce.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/xOT9d4Ons57ERAm0wi_DbmbNF5TrPycusNxZWF9G7Ao",
-    "time": "2026-04-07T18:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396202.html",
+    "time": "2026-04-07T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/4954969-importozameshchenie-igr?from=rss",
     "time": "2026-04-07T12:28:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
