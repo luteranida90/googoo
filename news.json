@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Приморский край направил на подготовку к ВЭФ 1,3 млрд рублей",
+    "description": "Форум пройдет с 1 по 4 сентября во Владивостоке",
+    "fullText": "Форум пройдет с 1 по 4 сентября во Владивостоке",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27051055",
+    "time": "2026-04-09T05:56:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Не поздравили Акинфеева с юбилеем? Не беда – еще собираем ваши пожелания легенде",
     "description": "Не упустите возможность.",
@@ -11,36 +22,25 @@
     "time": "2026-04-09T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ: устойчивая инфляция остается в диапазоне 4-5%, несмотря на рост НДС",
-    "description": "С таким заявлением выступил советник председателя Центробанка Кирилл Тремасов",
-    "fullText": "С таким заявлением выступил советник председателя Центробанка Кирилл Тремасов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27050561",
-    "time": "2026-04-09T04:25:29.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Аршавин, Сиссе и Попов – какой клуб их объединяет?",
-    "description": "Проверьте себя.",
-    "fullText": "Проверьте себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/79/5ad017c0e4198bff633d2760b1f3a.png",
+    "title": "«Такого хамства не припомню». Мусаев зол на судью, Кордоба в запасе – тренер, как Роналду",
+    "description": "Детали вокруг важного матча.",
+    "fullText": "Детали вокруг важного матча.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/5b/607033be8431a9f2dfaaf6fb23afb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/rpl-clubs/?utm_source=native",
-    "time": "2026-04-08T21:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396478.html",
+    "time": "2026-04-08T21:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Forza Horizon 6 показали первые шесть минут игры",
-    "description": "Взгляд на вступление гоночного симулятора.",
-    "fullText": "Взгляд на вступление гоночного симулятора.",
-    "image": "https://leonardo.osnova.io/db6a8573-5080-59f8-bbf4-3d4a45e1ef80/-/format/mp4/",
+    "title": "«До скорой встречи!»: трейлер Сьерры — следующей героини в Overwatch",
+    "description": "Она появится в онлайн-шутере 14 апреля.",
+    "fullText": "Она появится в онлайн-шутере 14 апреля.",
+    "image": "https://leonardo.osnova.io/361eec3b-8ade-543c-9027-73b5b0688e03/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4975027-gejmplej-forza-horizon-6-pervye-shest-minut?from=rss",
-    "time": "2026-04-08T12:20:46.000Z"
+    "url": "https://dtf.ru/games/4975624-sierra-v-overwatch-treiler-novoy-geroini?from=rss",
+    "time": "2026-04-08T16:55:26.000Z"
   }
 ]
