@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Франция спишет фермерам социальные сборы на €20 млн",
+    "description": "Средства выделят на поддержку наиболее уязвимых хозяйств, заявил премьер-министр государства Себастьен Лекорню",
+    "fullText": "Средства выделят на поддержку наиболее уязвимых хозяйств, заявил премьер-министр государства Себастьен Лекорню",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27060901",
+    "time": "2026-04-09T20:41:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Новые «Пацаны» – эталонная сатира и мрак. Людей сажают за мемы, Хоумлендер обезумел",
+    "description": "Впечатления после первых эпизодов.",
+    "fullText": "Впечатления после первых эпизодов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/a2/2511065fd46f1b52231dcf24c4341.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3396635.html",
+    "time": "2026-04-09T20:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Каждый второй ошибается в написании этого клуба. Хотя они регулярно играют в еврокубках",
     "description": "Даже брали ЛЕ.",
@@ -11,36 +33,25 @@
     "time": "2026-04-09T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Футболистов Игорей и Юриев в Бразилии больше, чем в России. Почему?",
-    "description": "Денис Пузырев проверил паспорта.",
-    "fullText": "Денис Пузырев проверил паспорта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/3d/1081af6f64be5b39315549c391127.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3392571.html",
-    "time": "2026-04-09T14:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатель Road to Vostok рассказал об успешном запуске — бюджет игры обеспечен на «годы вперёд»",
-    "description": "Пользователям хардкорный шутер тоже пришёлся по вкусу.",
-    "fullText": "Пользователям хардкорный шутер тоже пришёлся по вкусу.",
-    "image": "https://leonardo.osnova.io/33e4e636-6018-522c-b1a9-a7355b13f3bf/",
+    "title": "Take-Two выпустила Borderlands Mobile",
+    "description": "Игра доступна в американском App Store.",
+    "fullText": "Игра доступна в американском App Store.",
+    "image": "https://leonardo.osnova.io/1b85bc48-421f-5b4d-9011-266d634a8f08/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4977287-road-to-vostok-uspehnyy-zapusk?from=rss",
-    "time": "2026-04-09T12:45:06.000Z"
+    "url": "https://dtf.ru/mobile/4977700-borderlands-mobile-ot-take-two?from=rss",
+    "time": "2026-04-09T17:51:13.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Никто не покупал майку Соболева на «Газпром Арене». А я купила – и пошла в ней на «Спартак»",
+    "description": "Эксперимент Любови Курчавовой.",
+    "fullText": "Эксперимент Любови Курчавовой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/1e/a8635962f45159703e133886aa1d6.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396546.html",
+    "time": "2026-04-09T16:20:00.000Z"
   }
 ]
