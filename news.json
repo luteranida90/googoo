@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ГД предложили обязать региональных чиновников проводить стримы для граждан",
-    "description": "Это позволит сделать общение власти с гражданами более регулярным и доступным, отметили депутаты думской фракции \"Новые люди\"",
-    "fullText": "Это позволит сделать общение власти с гражданами более регулярным и доступным, отметили депутаты думской фракции \"Новые люди\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27059323",
-    "time": "2026-04-09T16:32:26.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
     "description": "Приглашаем!",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура ЛЧ: Хвича отрабатывает цену, Мбаппе – в обороне, вратарь-затычка",
-    "description": "Лучший – Руджери.",
-    "fullText": "Лучший – Руджери.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/be/c5200e65d4608837730b1163fb28f.jpeg",
+    "title": "Кучерову потребуется чудо: Макдэвид набрал 5 очков и почти гарантировал себе «Арт Росс»",
+    "description": "А, скорее всего, и «Харт».",
+    "fullText": "А, скорее всего, и «Харт».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/23/d922fdac047808bc583f292569ab0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3396581.html",
-    "time": "2026-04-09T13:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3396552.html",
+    "time": "2026-04-09T13:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Питер Динклэйдж сыграет во втором сезоне шоу «Чужой: Земля»",
-    "description": "Съёмки начнутся уже в мае.",
-    "fullText": "Съёмки начнутся уже в мае.",
-    "image": "https://leonardo.osnova.io/d7f027cf-eb7a-5633-a695-eb845f79f31b/",
+    "title": "«Её личный ад», следующий фильм Николаса Виндинга Рефна, официально выпустят в РФ — дебютный кадр",
+    "description": "Ведущую роль в первой с 2016 года картине постановщика исполнила Софи Тэтчер.",
+    "fullText": "Ведущую роль в первой с 2016 года картине постановщика исполнила Софи Тэтчер.",
+    "image": "https://leonardo.osnova.io/1f070964-64a5-5426-9a5d-49f33db9acf3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4976862-piter-dinkleydzh-v-chuzhoy-zemlya-vtoroy-sezon?from=rss",
-    "time": "2026-04-09T08:50:17.000Z"
+    "url": "https://dtf.ru/cinema/4977367-eyo-lichnyy-ad-nikolasa-vindinga-refna-vykhodit-v-rf?from=rss",
+    "time": "2026-04-09T13:14:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
