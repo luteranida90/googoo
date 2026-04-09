@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Будкин: Украина может столкнуться с дефицитом авиатоплива",
-    "description": "Это возможно из-за конфликта вокруг Ирана, отметил сооснователь инвестиционно-банковской компании FinPoint",
-    "fullText": "Это возможно из-за конфликта вокруг Ирана, отметил сооснователь инвестиционно-банковской компании FinPoint",
+    "title": "В Петербурге рассмотрят иск россиян к Финляндии о выкупе их дома",
+    "description": "Семья Цветковых требует обязать финские власти выкупить принадлежащую им недвижимость, так как им запретили въезд в страну",
+    "fullText": "Семья Цветковых требует обязать финские власти выкупить принадлежащую им недвижимость, так как им запретили въезд в страну",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27054325",
-    "time": "2026-04-09T10:40:25.000Z"
+    "url": "https://tass.ru/obschestvo/27056301",
+    "time": "2026-04-09T13:13:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "У этой картинки есть звук. Слышите?",
+    "description": "Его источник – в Музее русского футбола.",
+    "fullText": "Его источник – в Музее русского футбола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/66/11180a8f04113b07f1134b57707db.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/fh3v71",
+    "time": "2026-04-09T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Людишки, которые мусолят йогурты. Почему наши фигуристы регулярно срываются на фанатов?",
-    "description": "Колонка Крутихиной.",
-    "fullText": "Колонка Крутихиной.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/52/eaeb174344b30afdbc319242de4da.jpeg",
+    "title": "Потеря миллионов, отказ от тренировок, мечта сыграть с братьями, обмен в «Майами». Что нового в саге Янниса?",
+    "description": "В этой истории заляпались все.",
+    "fullText": "В этой истории заляпались все.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/6b/5f60a54e04b9d881694e0f17ea66f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3396287.html",
-    "time": "2026-04-09T07:15:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3396469.html",
+    "time": "2026-04-09T09:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Похожий на лабиринт Токио и покупка подержанных авто с тюнингом: главное из превью Forza Horizon 6",
-    "description": "Обозреватели похвалили игру за масштабный мир — карта на 25% больше, чем в пятой части.",
-    "fullText": "Обозреватели похвалили игру за масштабный мир — карта на 25% больше, чем в пятой части.",
-    "image": "https://leonardo.osnova.io/0876f988-eea1-568f-bfd5-3eb7b4a64405/-/format/mp4/",
+    "title": "Вышедший в марте extraction-шутер The Cube, Save Us закроют",
+    "description": "Однако пользователи получили рефанды внутриигровых покупок.",
+    "fullText": "Однако пользователи получили рефанды внутриигровых покупок.",
+    "image": "https://leonardo.osnova.io/c829ac1b-2f2f-5151-be56-02d96f0c76eb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4975187-forza-horizon-6-karta-yaponii-tyuning-avto-i-issledovanie-tokio?from=rss",
-    "time": "2026-04-08T15:30:15.000Z"
+    "url": "https://dtf.ru/games/4976689-zakrytie-extraction-shutera-the-cube-save-us?from=rss",
+    "time": "2026-04-09T07:17:55.000Z"
   }
 ]
