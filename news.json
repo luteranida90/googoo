@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Сравни\": спрос на электронные полисы ОСАГО вырос на 18% в I квартале 2026 года",
+    "description": "Средняя стоимость полиса е-ОСАГО достигла 6 710 рублей, свидетельствуют данные финансового маркетплейса",
+    "fullText": "Средняя стоимость полиса е-ОСАГО достигла 6 710 рублей, свидетельствуют данные финансового маркетплейса",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27061311",
+    "time": "2026-04-09T22:22:09.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Действующие топ-игроки, которые так и не взяли ЛЧ. Вспомните всех в Невидимке?",
     "description": "В лиге «Лузеры».",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://m.sports.ru/invisible/?utm_source=native",
     "time": "2026-04-09T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ульяновске на конференции \"Стачка\" обсудят вопросы ИИ и IT-волонтерства",
-    "description": "Одна из больших секций конференции будет посвящена образованию и использованию информационных технологий в образовании, а также позволит развить участникам навыки IT-волонтерства",
-    "fullText": "Одна из больших секций конференции будет посвящена образованию и использованию информационных технологий в образовании, а также позволит развить участникам навыки IT-волонтерства",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27061007",
-    "time": "2026-04-09T21:12:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -44,6 +44,17 @@
     "time": "2026-04-09T19:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Барсу» лишили пенальти? Защитник «Атлетико» глупо тронул мяч рукой в штрафной – судья проигнорировал",
+    "description": "Флик очень зол.",
+    "fullText": "Флик очень зол.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2b/51a6f61214007b0a86aef5fed9d38.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3396542.html",
+    "time": "2026-04-09T18:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Take-Two выпустила Borderlands Mobile",
     "description": "Игра доступна в американском App Store.",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/mobile/4977700-borderlands-mobile-ot-take-two?from=rss",
     "time": "2026-04-09T17:51:13.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Иркутск» при смерти: игрокам не платят 3 месяца. Подрабатывают грузчиками и таксистами",
-    "description": "Умирает уже 4-й клуб за 20 лет.",
-    "fullText": "Умирает уже 4-й клуб за 20 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ae/a6482d871452fa48195877621d162.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3396467.html",
-    "time": "2026-04-09T17:40:00.000Z"
   }
 ]
