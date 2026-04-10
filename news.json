@@ -11,17 +11,6 @@
     "time": "2026-04-10T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин: технологии ИИ развиваются стремительно",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260410/8962307.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27072641",
-    "time": "2026-04-10T19:23:02.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "«Челси» или «Сити»? Угадаете победителей в новом туре АПЛ?",
     "description": "Принимаем ваши голоса.",
@@ -31,6 +20,17 @@
     "category": "all",
     "url": "https://m.sports.ru/picker/epl/?utm_source=native",
     "time": "2026-04-10T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Роман Хэмилтона с Ким Кардашьян – правда?",
+    "description": "Они постоянно вместе.",
+    "fullText": "Они постоянно вместе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f4/91876a75c4437b7328b807af5db82.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3396480.html",
+    "time": "2026-04-10T15:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -44,25 +44,25 @@
     "time": "2026-04-10T14:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Майкла Джордана обвиняют в убийствах детей",
-    "description": "Все дело в кроссовках.",
-    "fullText": "Все дело в кроссовках.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/4a/1693289b146c4b5290b4be1fc1d90.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3382280.html",
-    "time": "2026-04-10T14:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Настройки сложности и повторные битвы с боссами: детали поддержки Crimson Desert",
-    "description": "Разработчики продолжают внимательно следить за отзывами игроков.",
-    "fullText": "Разработчики продолжают внимательно следить за отзывами игроков.",
-    "image": "https://leonardo.osnova.io/4121a79a-e58c-5e10-b902-908a5513cad1/",
+    "title": "Группа Evanescence анонсировала шестой альбом — Sanctuary",
+    "description": "В него войдёт 12 треков, включая песню из мультсериала по Devil May Cry.",
+    "fullText": "В него войдёт 12 треков, включая песню из мультсериала по Devil May Cry.",
+    "image": "https://leonardo.osnova.io/c7aa72d0-7dfe-53c2-a4d9-0e7c809cb86f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4978808-podderzhka-crimson-desert-novie-funktsii-i-slozhnosti-v-igre?from=rss",
-    "time": "2026-04-10T07:14:52.000Z"
+    "url": "https://dtf.ru/music/4978739-evanescence-anonsirovala-albom-sanctuary?from=rss",
+    "time": "2026-04-10T06:34:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
