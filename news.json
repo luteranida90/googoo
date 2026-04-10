@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин: в развитие сферы ИИ должны быть вовлечены и частный бизнес, и государство",
+    "description": "Президент РФ отметил, что необходимо выстроить финансовую составляющую \"масштабного, значимого для страны проекта\" по строительству российской архитектуры искусственного интеллекта",
+    "fullText": "Президент РФ отметил, что необходимо выстроить финансовую составляющую \"масштабного, значимого для страны проекта\" по строительству российской архитектуры искусственного интеллекта",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27073395",
+    "time": "2026-04-10T21:04:47.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Какой стильный вратарский свитер у «Ромы» в нулевых – сейчас его можно выиграть в Аркаде",
     "description": "Раньше было ярче.",
@@ -23,25 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Роман Хэмилтона с Ким Кардашьян – правда?",
-    "description": "Они постоянно вместе.",
-    "fullText": "Они постоянно вместе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/f4/91876a75c4437b7328b807af5db82.jpeg",
+    "title": "«Краснодар» не забьет «Зениту» много, «Динамо» с ЦСКА накидают. Что будет в туре РПЛ: вероятности",
+    "description": "А «Балтика» высушит.",
+    "fullText": "А «Балтика» высушит.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f0/641b628604151ab645d495d54e5dc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3396480.html",
-    "time": "2026-04-10T15:01:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Скрытая камера «Зенита» на серии пенальти со «Спартаком». Как это было?",
-    "description": "Внутрянка самого жаркого матча весны – на ВидеоСпортсе’’.",
-    "fullText": "Внутрянка самого жаркого матча весны – на ВидеоСпортсе’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/1b/abf16f42345838459c5f41dba62d8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/TH4drUbaTuJx9wfbPq4RG0cKw6tQyM10iaU669h7PaM",
-    "time": "2026-04-10T14:40:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3396887.html",
+    "time": "2026-04-10T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/4978739-evanescence-anonsirovala-albom-sanctuary?from=rss",
     "time": "2026-04-10T06:34:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
