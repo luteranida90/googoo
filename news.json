@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Пензенской области объявили беспилотную опасность",
-    "description": "Ввели временные ограничения работы мобильного интернета",
-    "fullText": "Ввели временные ограничения работы мобильного интернета",
+    "title": "Для доставки Благодатного огня в РФ принимают экстраординарные меры безопасности",
+    "description": "Ситуация непростая, заявил председатель попечительского совета Фонда Андрея Первозванного Владимир Якунин",
+    "fullText": "Ситуация непростая, заявил председатель попечительского совета Фонда Андрея Первозванного Владимир Якунин",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27065417",
-    "time": "2026-04-10T08:42:05.000Z"
+    "url": "https://tass.ru/obschestvo/27066691",
+    "time": "2026-04-10T10:00:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«Зенит навсегда» – сериал о ключевых вехах истории сине-бело-голубых!",
+    "description": "Смотрите на PREMIER и RUTUBE.",
+    "fullText": "Смотрите на PREMIER и RUTUBE.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/08/0eead1728493ab021fc5b02ca1d40.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/9q9m6o",
+    "time": "2026-04-10T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,6 +33,17 @@
     "time": "2026-04-10T07:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лучший гол плей-офф КХЛ уже забит. Ткачев (магнитогорский) придумал красоту",
+    "description": "Слишком легко.",
+    "fullText": "Слишком легко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/c3/5fd509c51441f846cec6158a12f4e.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3396670.html",
+    "time": "2026-04-10T05:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Холанд или Жоао Педро – кого выберете на этот тур АПЛ? Соберите команду",
     "description": "«Челси» сыграет с «Сити».",
@@ -33,25 +55,14 @@
     "time": "2026-04-10T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В двух парах ЛЕ вся борьба еще впереди, а вот в ЛК без интриг. Разбираем шансы на камбэки",
-    "description": "Хороший день для хозяев.",
-    "fullText": "Хороший день для хозяев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c6/cb949a0d44cf691523534ab1b60a9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3396665.html",
-    "time": "2026-04-09T22:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Экранизацию Metal Gear Solid снимут Зак Липовски и Адам Б. Стейн — режиссёры «Пункта назначения 6»",
-    "description": "Фильмом займётся Columbia Pictures.",
-    "fullText": "Фильмом займётся Columbia Pictures.",
-    "image": "https://leonardo.osnova.io/c9845eca-77d0-53c1-b93c-a8818c1d62aa/",
+    "title": "Катсцены от первого лица, слоистые облака и реалистичные отражения: подробности Ace Combat 8",
+    "description": "По игре будет заметен многолетний опыт разработчиков.",
+    "fullText": "По игре будет заметен многолетний опыт разработчиков.",
+    "image": "https://leonardo.osnova.io/92f92797-8efa-5b15-8eae-c221630f1c66/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4978136-ekranizaciya-metal-gear-solid-ot-zak-lipovskij-i-adam-b-stein?from=rss",
-    "time": "2026-04-09T19:26:50.000Z"
+    "url": "https://dtf.ru/games/4977531-ace-combat-8-katsceny-ot-pervogo-litsa?from=rss",
+    "time": "2026-04-09T15:41:16.000Z"
   }
 ]
