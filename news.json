@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Bloomberg: в Азии добиваются от США продления санкционных послаблений на нефть РФ",
+    "description": "По данным агентства, давление на Вашингтон со стороны азиатских стран сталкивается с противодействием европейских союзников",
+    "fullText": "По данным агентства, давление на Вашингтон со стороны азиатских стран сталкивается с противодействием европейских союзников",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260410/8961969.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27071247",
+    "time": "2026-04-10T15:29:51.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Скрытая камера «Зенита» на серии пенальти со «Спартаком». Как это было?",
     "description": "Внутрянка самого жаркого матча весны – на ВидеоСпортсе’’.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/video/TH4drUbaTuJx9wfbPq4RG0cKw6tQyM10iaU669h7PaM",
     "time": "2026-04-10T14:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "WP: США на переговорах с Ираном попросят освободить задержанных американцев",
-    "description": "Если переговоры будут идти трудно, этот \"запрос может быть отложен\", уточнили источники газеты",
-    "fullText": "Если переговоры будут идти трудно, этот \"запрос может быть отложен\", уточнили источники газеты",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27070565",
-    "time": "2026-04-10T14:28:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,6 +33,17 @@
     "time": "2026-04-10T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сейчас вам захочется корюшки – главной еды Петербурга. Рассказывают Быстров и Радимов",
+    "description": "🐟🐟🐟.",
+    "fullText": "🐟🐟🐟.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/83/e6ced24da4fe7a2bb6d4de2c184f0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3394409.html",
+    "time": "2026-04-10T11:48:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Действующие топ-игроки, которые так и не взяли Лигу чемпионов. Вспомните всех в Невидимке?",
     "description": "В лиге «Лузеры».",
@@ -44,25 +55,14 @@
     "time": "2026-04-10T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ливерпуль» побьет, Бруну посверкает в «МЮ», «Челси» и «Сити» много создадут. Что будет в туре АПЛ",
-    "description": "Дедлайн – 22:00 в пятницу.",
-    "fullText": "Дедлайн – 22:00 в пятницу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ec/07384074a464ca36f29754a5b35c3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3396188.html",
-    "time": "2026-04-10T10:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "HBO продлила комедийный сериал «Рустер» со Стивом Кареллом на второй сезон",
-    "description": "За месяц до окончания первого.",
-    "fullText": "За месяц до окончания первого.",
-    "image": "https://leonardo.osnova.io/3ceb4421-4d0f-58b8-bdfa-5d5a170ad626/",
+    "title": "PvP в Dune: Awakening сделают полностью опциональным",
+    "description": "Разработчики поняли, что большинство игроков в нём не заинтересованы.",
+    "fullText": "Разработчики поняли, что большинство игроков в нём не заинтересованы.",
+    "image": "https://leonardo.osnova.io/30d31be8-014c-50c2-a4e5-d346d5cee6dd/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4978931-hbo-prodlila-komediynyy-serial-ruster-so-stivom-karellom?from=rss",
-    "time": "2026-04-10T08:27:08.000Z"
+    "url": "https://dtf.ru/games/4978862-pvp-v-dune-awakening-stanet-opcionalnym?from=rss",
+    "time": "2026-04-10T07:46:42.000Z"
   }
 ]
