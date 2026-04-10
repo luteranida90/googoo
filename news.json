@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Для доставки Благодатного огня в РФ принимают экстраординарные меры безопасности",
-    "description": "Ситуация непростая, заявил председатель попечительского совета Фонда Андрея Первозванного Владимир Якунин",
-    "fullText": "Ситуация непростая, заявил председатель попечительского совета Фонда Андрея Первозванного Владимир Якунин",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27066691",
-    "time": "2026-04-10T10:00:46.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В студии авторов Rust отвергли предположения фанатов о работе над сиквелом",
+    "description": "Спекуляции появились на фоне обнаружения страницы Rust 2 в Steam.",
+    "fullText": "Спекуляции появились на фоне обнаружения страницы Rust 2 в Steam.",
+    "image": "https://leonardo.osnova.io/38925230-d59b-59aa-bf0d-ad26415adfb1/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/4979232-v-studii-avtorov-rust-otvergli-predpolozheniya-fanatov-o-rabote-nad-sikvelom?from=rss",
+    "time": "2026-04-10T11:02:30.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -34,35 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший гол плей-офф КХЛ уже забит. Ткачев (магнитогорский) придумал красоту",
-    "description": "Слишком легко.",
-    "fullText": "Слишком легко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/c3/5fd509c51441f846cec6158a12f4e.gif",
+    "title": "Робертсон уходит из «Ливерпуля» – спустя 9 лет. Из команды Клоппа остались только Алиссон, Ван Дейк и Гомес",
+    "description": "Стоил 8 млн фунтов.",
+    "fullText": "Стоил 8 млн фунтов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/08/c658e483e4c7e9ca5120842fb9e26.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3396670.html",
-    "time": "2026-04-10T05:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Холанд или Жоао Педро – кого выберете на этот тур АПЛ? Соберите команду",
-    "description": "«Челси» сыграет с «Сити».",
-    "fullText": "«Челси» сыграет с «Сити».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/42/5d5c99b27459e99fb6fabe8f19c79.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/osnova/epl/?utm_source=native",
-    "time": "2026-04-10T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Катсцены от первого лица, слоистые облака и реалистичные отражения: подробности Ace Combat 8",
-    "description": "По игре будет заметен многолетний опыт разработчиков.",
-    "fullText": "По игре будет заметен многолетний опыт разработчиков.",
-    "image": "https://leonardo.osnova.io/92f92797-8efa-5b15-8eae-c221630f1c66/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/4977531-ace-combat-8-katsceny-ot-pervogo-litsa?from=rss",
-    "time": "2026-04-09T15:41:16.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396738.html",
+    "time": "2026-04-10T06:01:00.000Z"
   }
 ]
