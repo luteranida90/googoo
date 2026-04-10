@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Цивилева проверила ход модернизации военно-медицинских учреждений в Петербурге",
+    "description": "Статс-секретарь - заместитель министра обороны РФ посетила клиники Военно-медицинской академии С. М. Кирова",
+    "fullText": "Статс-секретарь - заместитель министра обороны РФ посетила клиники Военно-медицинской академии С. М. Кирова",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/27068055",
+    "time": "2026-04-10T11:56:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Действующие топ-игроки, которые так и не взяли Лигу чемпионов. Вспомните всех в Невидимке?",
+    "description": "В лиге «Лузеры».",
+    "fullText": "В лиге «Лузеры».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/03/2de79ffc24c289c7201533e09562a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-04-10T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "В студии авторов Rust отвергли предположения фанатов о работе над сиквелом",
     "description": "Спекуляции появились на фоне обнаружения страницы Rust 2 в Steam.",
@@ -7,7 +29,7 @@
     "image": "https://leonardo.osnova.io/38925230-d59b-59aa-bf0d-ad26415adfb1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4979232-v-studii-avtorov-rust-otvergli-predpolozheniya-fanatov-o-rabote-nad-sikvelom?from=rss",
+    "url": "https://dtf.ru/games/4979232-razrabotchiki-rust-oprovergli-sluhi-o-sikele-rust-2?from=rss",
     "time": "2026-04-10T11:02:30.000Z"
   },
   {
@@ -34,13 +56,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Робертсон уходит из «Ливерпуля» – спустя 9 лет. Из команды Клоппа остались только Алиссон, Ван Дейк и Гомес",
-    "description": "Стоил 8 млн фунтов.",
-    "fullText": "Стоил 8 млн фунтов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/08/c658e483e4c7e9ca5120842fb9e26.jpeg",
+    "title": "«Вашингтон» не попадает в плей-офф через уайлд-кард, но может залезть в топ-3 дивизиона! Дикие расклады Востока НХЛ",
+    "description": "Надо, чтоб почти все проиграли.",
+    "fullText": "Надо, чтоб почти все проиграли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/06/3ca2af05e4202af1017c84c60ee93.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3396738.html",
-    "time": "2026-04-10T06:01:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3396797.html",
+    "time": "2026-04-10T06:40:00.000Z"
   }
 ]
