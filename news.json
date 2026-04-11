@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Красноармейском районе Кубани эвакуировали жителей нескольких домов",
-    "description": "На территории нашли фрагменты упавшего БПЛА с боевой частью",
-    "fullText": "На территории нашли фрагменты упавшего БПЛА с боевой частью",
+    "title": "В Кулинском районе Дагестана снегопады привели к гибели около 250 сельхозживотных",
+    "description": "Потери включают крупный и мелкий рогатый скот, а также лошадей",
+    "fullText": "Потери включают крупный и мелкий рогатый скот, а также лошадей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27076287",
-    "time": "2026-04-11T09:30:18.000Z"
+    "url": "https://tass.ru/proisshestviya/27076567",
+    "time": "2026-04-11T10:31:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Металлург» – «Торпедо»: смотрим матч плей-офф на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/7d/8044d785f49688f24d811ed0768a5.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/iZdqxHD0fECfimof82A3QYGitpNqg5BTr9jV9M7qMZ8",
+    "time": "2026-04-11T10:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,26 +33,15 @@
     "time": "2026-04-11T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Федоровцева против Марковой – в финале турецкой лиги. Смотрим на ВидеоСпортсе’‘!",
-    "description": "Начало – в 17:00 по Москве.",
-    "fullText": "Начало – в 17:00 по Москве.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/83/02a08197644ba99ea2999ead2558f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/7MhoquxVVlL_9yCUTCkTrf6EF-02tsOv93MwEVtyF2M",
-    "time": "2026-04-11T05:09:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алькарас, Бублик и Медведев жалуются, что против них слишком хорошо играют. Это нытье или факт?",
-    "description": "Исследуем.",
-    "fullText": "Исследуем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/c3/f732b8faa4ec38cda1435766a214f.jpeg",
+    "title": "Чей футбол интереснее: «Зенита» или «Краснодара»?",
+    "description": "Размышления Андрея Савина.",
+    "fullText": "Размышления Андрея Савина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/7e/a7d8d632a4da8a7ad70fcb09f8162.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3394442.html",
-    "time": "2026-04-11T05:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396884.html",
+    "time": "2026-04-11T06:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
