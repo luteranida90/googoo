@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: спортивный директор \"Динамо\" Якубов покинет хоккейный клуб",
+    "description": "Он был назначен на должность в мае 2025 года",
+    "fullText": "Он был назначен на должность в мае 2025 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/27078397",
+    "time": "2026-04-11T17:00:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "«Челси» или «Сити»? Угадаете победителей в новом туре АПЛ?",
     "description": "Принимаем ваши голоса.",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дети Карлоса Бузера – часть соблазнительного драфта НБА. Они появились на свет, чтобы спасти больного брата",
-    "description": "Не стали чемпионами NCAA.",
-    "fullText": "Не стали чемпионами NCAA.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/23/b2ed81b2c427588862967d924339a.jpeg",
+    "title": "Наша волейболистка разрывает чемпионат Турции – ее заметили в студенческой лиге США",
+    "description": "Взлет Марины Марковой.",
+    "fullText": "Взлет Марины Марковой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/5c/4e8029872461d90e5fea82c0f6feb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3396597.html",
-    "time": "2026-04-11T12:50:00.000Z"
+    "url": "https://www.sports.ru/volleyball/blogs/3396959.html",
+    "time": "2026-04-11T12:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4979674-mappa-treyler-anime-dlya-honkai-star-rail?from=rss",
     "time": "2026-04-10T15:09:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
