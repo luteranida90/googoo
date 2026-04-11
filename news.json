@@ -11,17 +11,6 @@
     "time": "2026-04-11T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Балтика\" и \"Пари НН\" сыграли вничью в матче РПЛ",
-    "description": "Встреча завершилась со счетом 2:2",
-    "fullText": "Встреча завершилась со счетом 2:2",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260411/8964167.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27078793",
-    "time": "2026-04-11T18:32:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Расскажите про ваш опыт в небольшом опросе!",
     "description": "Учтем мнение.",
@@ -45,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фьюри vs Махмудов – большое возвращение против российского нокаутера",
-    "description": "Главные события – из Лондона.",
-    "fullText": "Главные события – из Лондона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/63/da9f2ea164b0197dad46ebf9da7ea.jpeg",
+    "title": "Жедсон превращается в Жерсона",
+    "description": "Взгляд Андрея Савина.",
+    "fullText": "Взгляд Андрея Савина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/31/66eaf604d4240bd4c762aa6d4bf59.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3393457.html",
-    "time": "2026-04-11T14:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3396934.html",
+    "time": "2026-04-11T15:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4979674-mappa-treyler-anime-dlya-honkai-star-rail?from=rss",
     "time": "2026-04-10T15:09:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
