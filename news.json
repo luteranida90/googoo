@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ТАСС: ВСУ атаковали Донецк БПЛА",
+    "description": "Вооруженные силы Украины нарушили пасхальное перемирие",
+    "fullText": "Вооруженные силы Украины нарушили пасхальное перемирие",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27079019",
+    "time": "2026-04-11T20:24:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте футболку легенды «Ювентуса» Дель Пьеро!",
     "description": "Привет из прошлого.",
@@ -22,6 +33,17 @@
     "time": "2026-04-11T17:35:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Видеотренеры «Ак Барса» отменили еще один гол в плей-офф. Как они это делают?",
+    "description": "Видят лучше судей.",
+    "fullText": "Видят лучше судей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/93/f2b330ecc4cd08b8ef9a5d829b124.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3397092.html",
+    "time": "2026-04-11T16:12:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Действующие топ-игроки, которые так и не взяли ЛЧ. Вспомните всех в Невидимке?",
     "description": "В лиге «Лузеры».",
@@ -33,17 +55,6 @@
     "time": "2026-04-11T16:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жедсон превращается в Жерсона",
-    "description": "Взгляд Андрея Савина.",
-    "fullText": "Взгляд Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/31/66eaf604d4240bd4c762aa6d4bf59.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3396934.html",
-    "time": "2026-04-11T15:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "MAPPA выпустила концептуальный аниме-трейлер для Honkai: Star Rail",
     "description": "В HoYoverse намекнули, что студия работает над полноценной экранизацией.",
@@ -53,16 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/anime/4979674-mappa-treyler-anime-dlya-honkai-star-rail?from=rss",
     "time": "2026-04-10T15:09:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
