@@ -11,17 +11,6 @@
     "time": "2026-04-11T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Названа самая популярная книга в период Великого поста",
-    "description": "По данным книжного сервиса \"Литрес\", ей стала \"Несвятые святые\" Митрополита Тихона",
-    "fullText": "По данным книжного сервиса \"Литрес\", ей стала \"Несвятые святые\" Митрополита Тихона",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27075357",
-    "time": "2026-04-11T06:47:07.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Федоровцева против Марковой – в финале турецкой лиги. Смотрим на ВидеоСпортсе’‘!",
     "description": "Начало – в 17:00 по Москве.",
@@ -67,13 +56,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Группа Evanescence анонсировала шестой альбом — Sanctuary",
-    "description": "В него войдёт 12 треков, включая песню из мультсериала по Devil May Cry.",
-    "fullText": "В него войдёт 12 треков, включая песню из мультсериала по Devil May Cry.",
-    "image": "https://leonardo.osnova.io/c7aa72d0-7dfe-53c2-a4d9-0e7c809cb86f/",
+    "title": "Marvel&#039;s Guardians of the Galaxy получила возрастной рейтинг для Switch 2",
+    "description": "Вероятно, анонс уже скоро.",
+    "fullText": "Вероятно, анонс уже скоро.",
+    "image": "https://leonardo.osnova.io/e4e329dc-438e-5f14-9545-6ab3314d0cff/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/4978739-evanescence-anonsirovala-albom-sanctuary?from=rss",
-    "time": "2026-04-10T06:34:40.000Z"
+    "url": "https://dtf.ru/gameindustry/4979243-marvel-guardians-of-the-galaxy-dlya-switch-2?from=rss",
+    "time": "2026-04-10T11:13:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
