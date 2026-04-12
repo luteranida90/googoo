@@ -1,36 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "WSJ: Иран сохранил большую часть малых военных кораблей",
-    "description": "По данным газеты, свыше 60% ударных скоростных катеров КСИР остаются в строю",
-    "fullText": "По данным газеты, свыше 60% ударных скоростных катеров КСИР остаются в строю",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27083785",
-    "time": "2026-04-12T17:52:30.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте футболку легенды «Ювентуса» Дель Пьеро!",
-    "description": "Привет из прошлого.",
-    "fullText": "Привет из прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/da/0c23aae9945fdab546abc967899dc.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-04-12T16:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вспомните всех, кто забил больше одного гола в матчах «Зенита» и «Краснодара»? 20 фамилий!",
-    "description": "Проверяем.",
-    "fullText": "Проверяем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/b1/29c4a2c5b4dd2bfa0221f2e4e18e3.jpeg",
+    "title": "«Локо» еле спасся от «Махачкалы» – теперь 7 «мня» Евсеева. «Спартак» расслабился и упустил",
+    "description": "Потери параллельно.",
+    "fullText": "Потери параллельно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/41/4a1864a314b40b06fa1746bbe602c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3395857.html",
-    "time": "2026-04-12T15:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3397338.html",
+    "time": "2026-04-12T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4981143-anons-novoy-igry-metro-na-state-of-play?from=rss",
     "time": "2026-04-10T17:24:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
