@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Буэнос-Айресе россияне и аргентинцы возложили цветы к бюсту Гагарина",
+    "description": "Полет советского космонавта навсегда изменил историю человечества, заявила глава представительства Россотрудничества в Аргентине Дина Оюн",
+    "fullText": "Полет советского космонавта навсегда изменил историю человечества, заявила глава представительства Россотрудничества в Аргентине Дина Оюн",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260412/8965433.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27083345",
+    "time": "2026-04-12T15:30:14.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Все о петербургском клубе: с основания до наших дней – сериал «Зенит навсегда»",
     "description": "Уже доступен на PREMIER и RUTUBE.",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первая женщина-тренер в топ-лигах: Мари-Луизе Эта возглавила «Унион»",
-    "description": "До конца сезона.",
-    "fullText": "До конца сезона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/4f/c2bb2ea284f918a1bd6c86ffe8aa9.jpeg",
+    "title": "Я посмотрела самый первый матч Синнера и Алькараса – когда они были совсем пацанами",
+    "description": "Как это было.",
+    "fullText": "Как это было.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/ef/e4e57a75544ddb618dc01874bdaaf.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397219.html",
-    "time": "2026-04-12T10:45:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3397129.html",
+    "time": "2026-04-12T11:46:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия Moon выпустила ещё один патч для No Rest for the Wicked — дальше её ждёт «финальный рывок к подготовке релиза версии 1.0»",
-    "description": "В апдейте не добавили новый контент, но внесли множество правок.",
-    "fullText": "В апдейте не добавили новый контент, но внесли множество правок.",
-    "image": "https://leonardo.osnova.io/6e3268a6-35f7-5af1-9e5f-a67cbf48ff95/",
+    "title": "«Добро пожаловать в „Сосны“»: трейлер и подробности психологического хоррора The Pines",
+    "description": "Игрой занимается разработчик из Нидерландов.",
+    "fullText": "Игрой занимается разработчик из Нидерландов.",
+    "image": "https://leonardo.osnova.io/5beff324-5fb3-51a7-bd60-bc827b6ba61b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4982052-obnovlenie-no-rest-for-the-wicked-ot-moon-studios?from=rss",
-    "time": "2026-04-10T18:33:21.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4980839-psikhologicheskiy-khorror-the-pines?from=rss",
+    "time": "2026-04-10T17:59:10.000Z"
   }
 ]
