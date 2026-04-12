@@ -8,18 +8,29 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.world/0viujq",
-    "time": "2026-04-12T11:30:00.000Z"
+    "time": "2026-04-12T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВСУ выпустили по Белгородской области 115 беспилотников и 24 боеприпаса за сутки",
-    "description": "Два человека погибли",
-    "fullText": "Два человека погибли",
+    "title": "Трамп: США будут задерживать суда, заплатившие за проход через Ормузский пролив",
+    "description": "Никто из тех, кто уплатил незаконный сбор, не получит безопасного прохода в открытом море, заявил американский лидер",
+    "fullText": "Никто из тех, кто уплатил незаконный сбор, не получит безопасного прохода в открытом море, заявил американский лидер",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27081883",
-    "time": "2026-04-12T11:23:20.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27082773",
+    "time": "2026-04-12T13:12:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Эндрика 1 гол в 10 матчах. Тренер «Лиона» уже публично критикует",
+    "description": "Недоволен его игрой.",
+    "fullText": "Недоволен его игрой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/9b/7d43d9a8e46a6aa96c650a7d19df9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3397044.html",
+    "time": "2026-04-12T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -33,25 +44,14 @@
     "time": "2026-04-12T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ТВ-рейтинги новой «Ф-1» валятся везде, кроме Италии? Разбираемся",
-    "description": "Эффект новых правил?",
-    "fullText": "Эффект новых правил?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/cc/8070cc1ae4a81a9441ccb32f9fce6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3396356.html",
-    "time": "2026-04-12T07:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сиквел «Оружейного барона» с Николасом Кейджем и Биллом Скарсгардом выйдет в 2027 году",
-    "description": "В продолжении Юрий Орлов вступит в борьбу со своим сыном.",
-    "fullText": "В продолжении Юрий Орлов вступит в борьбу со своим сыном.",
-    "image": "https://leonardo.osnova.io/96c72493-2cdf-5eed-910d-cd5c88394018/",
+    "title": "Студия Moon выпустила ещё один патч для No Rest for the Wicked — дальше её ждёт «финальный рывок к подготовке релиза версии 1.0»",
+    "description": "В апдейте не добавили новый контент, но внесли множество правок.",
+    "fullText": "В апдейте не добавили новый контент, но внесли множество правок.",
+    "image": "https://leonardo.osnova.io/6e3268a6-35f7-5af1-9e5f-a67cbf48ff95/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4979737-prodolzhenie-oruzhejnogo-barona?from=rss",
-    "time": "2026-04-10T15:16:43.000Z"
+    "url": "https://dtf.ru/games/4982052-obnovlenie-no-rest-for-the-wicked-ot-moon-studios?from=rss",
+    "time": "2026-04-10T18:33:21.000Z"
   }
 ]
