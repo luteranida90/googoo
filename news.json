@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Политик Мема: РФ примет меры, если атаки БПЛА ВСУ через Финляндию продолжатся",
+    "description": "Четвертый украинский беспилотник упал на территорию Финляндии, рассказал член финской национально-консервативной партии \"Альянс свободы\"",
+    "fullText": "Четвертый украинский беспилотник упал на территорию Финляндии, рассказал член финской национально-консервативной партии \"Альянс свободы\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27081027",
+    "time": "2026-04-12T08:22:32.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Действующие топ-игроки, которые так и не взяли Лигу чемпионов. Вспомните всех в Невидимке?",
     "description": "В лиге «Лузеры».",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» покуражилась – с дублем Феррана и шикарным Ямалем. Чемпионы?",
-    "description": "+9 от «Реала.",
-    "fullText": "+9 от «Реала.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/dd/3b2f3fe494998b7a2ae825faddf0d.jpeg",
+    "title": "Самый кассовый фильм года взял название из американского футбола. У нас его перевели как «Проект «Конец света»",
+    "description": "Станислав Рынкевич – о том, как меняются смыслы.",
+    "fullText": "Станислав Рынкевич – о том, как меняются смыслы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/9c/01a595a414bd28bade28c2dbbaf5b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397138.html",
-    "time": "2026-04-11T23:21:00.000Z"
+    "url": "https://www.sports.ru/amfootball/blogs/3396918.html",
+    "time": "2026-04-12T03:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "MAPPA выпустила концептуальный аниме-трейлер для Honkai: Star Rail",
-    "description": "В HoYoverse намекнули, что студия работает над полноценной экранизацией.",
-    "fullText": "В HoYoverse намекнули, что студия работает над полноценной экранизацией.",
-    "image": "https://leonardo.osnova.io/4f2f7e95-d667-5071-9378-5c76c900eb2b/-/format/mp4/",
+    "title": "Для Samson вышел первый патч, в котором частично устранили «основные ошибки» игры",
+    "description": "Глава Liquid Swords признал проблемный релиз экшена.",
+    "fullText": "Глава Liquid Swords признал проблемный релиз экшена.",
+    "image": "https://leonardo.osnova.io/491ab650-0083-5a45-9076-cacdb739db75/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/4979674-mappa-treyler-anime-dlya-honkai-star-rail?from=rss",
-    "time": "2026-04-10T15:09:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/4979814-patch-dlya-samson-ustranyaet-osnovnye-oshibki-igry?from=rss",
+    "time": "2026-04-10T16:14:40.000Z"
   }
 ]
