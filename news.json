@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Все о петербургском клубе: с основания до наших дней – сериал «Зенит навсегда»",
+    "description": "Уже доступен на PREMIER и RUTUBE.",
+    "fullText": "Уже доступен на PREMIER и RUTUBE.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/d4/f2064a14449b192b7501853fc9f24.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/dcze55",
+    "time": "2026-04-12T14:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Зенит» за 2.03 или «Краснодар» за 3.85? С фрибетом до 15 000 можно выбрать фаворита!",
     "description": "Битва лидеров РПЛ с акцией от FONBET.",
@@ -11,37 +22,15 @@
     "time": "2026-04-12T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп: США будут задерживать суда, заплатившие за проход через Ормузский пролив",
-    "description": "Никто из тех, кто уплатил незаконный сбор, не получит безопасного прохода в открытом море, заявил американский лидер",
-    "fullText": "Никто из тех, кто уплатил незаконный сбор, не получит безопасного прохода в открытом море, заявил американский лидер",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27082773",
-    "time": "2026-04-12T13:12:54.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Эндрика 1 гол в 10 матчах. Тренер «Лиона» уже публично критикует",
-    "description": "Недоволен его игрой.",
-    "fullText": "Недоволен его игрой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/9b/7d43d9a8e46a6aa96c650a7d19df9.jpeg",
+    "title": "Первая женщина-тренер в топ-лигах: Мари-Луизе Эта возглавила «Унион»",
+    "description": "До конца сезона.",
+    "fullText": "До конца сезона.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/4f/c2bb2ea284f918a1bd6c86ffe8aa9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397044.html",
-    "time": "2026-04-12T09:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "«Челси» или «Сити»? Угадаете победителей в новом туре АПЛ?",
-    "description": "Принимаем ваши голоса.",
-    "fullText": "Принимаем ваши голоса.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/95/c26f3ba5e47999b006a00273c9791.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/picker/epl/?utm_source=native",
-    "time": "2026-04-12T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3397219.html",
+    "time": "2026-04-12T10:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/4982052-obnovlenie-no-rest-for-the-wicked-ot-moon-studios?from=rss",
     "time": "2026-04-10T18:33:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
