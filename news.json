@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "CNN: в США обсуждают детали вторых переговоров с Ираном до истечения перемирия",
-    "description": "В качестве потенциальных площадок для следующего раунда снова рассматриваются Женева и Исламабад, сообщил телеканал",
-    "fullText": "В качестве потенциальных площадок для следующего раунда снова рассматриваются Женева и Исламабад, сообщил телеканал",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27094885",
-    "time": "2026-04-13T19:25:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Народный музей прямо на Трибуне!",
     "description": "Участвуйте в конкурсе.",
@@ -34,35 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Овечкин и Кросби вывели НХЛ на орбиту, Демидов и Шефер – ее проводники к новым галактикам",
-    "description": "Следующие.",
-    "fullText": "Следующие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/5c/fd6f021e945e28b08826164f5a9cf.jpeg",
+    "title": "Почему баскетболисты не встают с паркета без чужой помощи",
+    "description": "Не только братская помощь.",
+    "fullText": "Не только братская помощь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/77/001f65aac4ba49640736dc84ce8cf.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3397475.html",
-    "time": "2026-04-13T16:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Выиграйте футболку легенды «Ювентуса» Дель Пьеро!",
-    "description": "Привет из прошлого.",
-    "fullText": "Привет из прошлого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/da/0c23aae9945fdab546abc967899dc.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-04-13T16:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3396630.html",
+    "time": "2026-04-13T17:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Заставь их запомнить тебя»: трейлер фильма «Голодные игры: Рассвет жатвы»",
-    "description": "Прокат стартует 19 ноября.",
-    "fullText": "Прокат стартует 19 ноября.",
-    "image": "https://leonardo.osnova.io/625c8a99-9e65-5533-bb86-e82bb9897c7a/-/format/mp4/",
+    "title": "Roblox с июня 2026 года запустит «детские» аккаунты — для пользователей от 5 до 9 лет и для тех, кому от 9 до 15 лет",
+    "description": "От учётной записи зависит, в какие игры сможет зайти ребёнок.",
+    "fullText": "От учётной записи зависит, в какие игры сможет зайти ребёнок.",
+    "image": "https://leonardo.osnova.io/2fb84fbb-cf11-57c5-8730-ede1e8626ddc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4994066-golodnye-igry-rassvet-zhatvy?from=rss",
-    "time": "2026-04-13T13:20:30.000Z"
+    "url": "https://dtf.ru/gameindustry/4994502-roblox-zapusk-detskikh-akkauntov?from=rss",
+    "time": "2026-04-13T16:38:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
