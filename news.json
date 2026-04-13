@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Чувашии отменили опасность атаки беспилотников",
-    "description": "Об отмене угрозы сообщили в МЧС",
-    "fullText": "Об отмене угрозы сообщили в МЧС",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27086359",
-    "time": "2026-04-13T07:06:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Действующие топ-игроки, которые так и не взяли ЛЧ. Вспомните всех в Невидимке?",
     "description": "В лиге «Лузеры».",
@@ -22,17 +11,6 @@
     "time": "2026-04-13T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Как можно высосать красную, непонятно». Семак зол на судей после «Краснодара»",
-    "description": "Уверен, что удаления не было.",
-    "fullText": "Уверен, что удаления не было.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c9/a38c6f8f441f0a489fa65eb0fca26.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397413.html",
-    "time": "2026-04-12T23:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Наши волейболистки спорят за золото в Турции. Смотрите матч на ВидеоСпортсе’‘",
     "description": "Федоровцева vs Маркова в 19:00.",
@@ -41,17 +19,39 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/1biBLItpmsCjnMov7_EAC54GbzSFGYhcGyKlf8WgYuY",
-    "time": "2026-04-12T22:50:00.000Z"
+    "time": "2026-04-13T04:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мбаппе показал швы над бровью от удара. Раз Ла Лига не дала крови в трансляции",
+    "description": "Отрицают заговор.",
+    "fullText": "Отрицают заговор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/05/43e5364734b2788c105db18c68967.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3397365.html",
+    "time": "2026-04-12T23:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Команда Mechanics VoiceOver продемонстировала русскоязычный дубляж для NieR: Automata",
-    "description": "И полноценно анонсировала работу над ним.",
-    "fullText": "И полноценно анонсировала работу над ним.",
-    "image": "https://leonardo.osnova.io/6569987e-8184-5629-a025-8182f2512932/",
+    "title": "Rockstar подтвердила утечку данных, но заявила, что она «не повлияет на компанию или игроков»",
+    "description": "Хакеры потребовали денег, но, похоже, ничего не получат.",
+    "fullText": "Хакеры потребовали денег, но, похоже, ничего не получат.",
+    "image": "https://leonardo.osnova.io/1b701dc3-feac-5e0c-8304-dcc2f87835e0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4990288-russkiy-dublazh-nier-automata-mechanics-voiceover?from=rss",
-    "time": "2026-04-11T11:34:07.000Z"
+    "url": "https://dtf.ru/gameindustry/4991806-rockstar-podtverdila-utechku-dannyh?from=rss",
+    "time": "2026-04-12T09:01:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
