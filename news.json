@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На журналистку Марианну Беленькую завели уголовное дело",
-    "description": "Она обвиняется в уклонении от обязанностей иноагента",
-    "fullText": "Она обвиняется в уклонении от обязанностей иноагента",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260413/8966071.jpg",
+    "title": "В Чувашии отменили опасность атаки беспилотников",
+    "description": "Об отмене угрозы сообщили в МЧС",
+    "fullText": "Об отмене угрозы сообщили в МЧС",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27085563",
-    "time": "2026-04-13T05:08:20.000Z"
+    "url": "https://tass.ru/proisshestviya/27086359",
+    "time": "2026-04-13T07:06:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Действующие топ-игроки, которые так и не взяли ЛЧ. Вспомните всех в Невидимке?",
+    "description": "В лиге «Лузеры».",
+    "fullText": "В лиге «Лузеры».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/03/2de79ffc24c289c7201533e09562a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-04-13T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Как можно высосать красную, непонятно». Семак зол на судей после «Краснодара»",
+    "description": "Уверен, что удаления не было.",
+    "fullText": "Уверен, что удаления не было.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c9/a38c6f8f441f0a489fa65eb0fca26.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3397413.html",
+    "time": "2026-04-12T23:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +44,14 @@
     "time": "2026-04-12T22:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мирра Андреева – снова чемпионка!",
-    "description": "Идет за «Ролан Гаррос».",
-    "fullText": "Идет за «Ролан Гаррос».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7b/e92c99b7e43c6ae43680bdf2a7d9c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3397284.html",
-    "time": "2026-04-12T21:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Хотите в FONBET BAR на матч ЦСКА? Меняем ваши теплые слова Акинфееву на 2 билета",
-    "description": "В нашем проекте.",
-    "fullText": "В нашем проекте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/bf/20837e0084f679837ec5edb859f47.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/akinfeev-birthday/start?utm_source=native",
-    "time": "2026-04-12T21:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Инсайдеры: новую Metro покажут с 13 по 19 апреля",
-    "description": "Возможно, игру представят на потенциальной State of Play.",
-    "fullText": "Возможно, игру представят на потенциальной State of Play.",
-    "image": "https://leonardo.osnova.io/75d26bb5-bb81-5c24-8d1a-1ea89bbf0704/",
+    "title": "Команда Mechanics VoiceOver продемонстировала русскоязычный дубляж для NieR: Automata",
+    "description": "И полноценно анонсировала работу над ним.",
+    "fullText": "И полноценно анонсировала работу над ним.",
+    "image": "https://leonardo.osnova.io/6569987e-8184-5629-a025-8182f2512932/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4981143-anons-novoy-igry-metro-na-state-of-play?from=rss",
-    "time": "2026-04-10T17:24:47.000Z"
+    "url": "https://dtf.ru/games/4990288-russkiy-dublazh-nier-automata-mechanics-voiceover?from=rss",
+    "time": "2026-04-11T11:34:07.000Z"
   }
 ]
