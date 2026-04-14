@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ОАК заявили о подтвержденном спросе на 570 отечественных самолетов до 2035 года",
-    "description": "Завершается согласование финансовых моделей и параметров сделки с \"Аэрофлотом\" на следующую партию из 90 самолетов МС-21",
-    "fullText": "Завершается согласование финансовых моделей и параметров сделки с \"Аэрофлотом\" на следующую партию из 90 самолетов МС-21",
+    "title": "В Баевском районе Алтайского края ввели режим ЧС из-за паводка",
+    "description": "Всего подтоплено 38 домов и 19 приусадебных участков",
+    "fullText": "Всего подтоплено 38 домов и 19 приусадебных участков",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27102645",
-    "time": "2026-04-14T11:45:53.000Z"
+    "url": "https://tass.ru/proisshestviya/27105229",
+    "time": "2026-04-14T14:40:23.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что общего у Burger King и футболиста Макдональда?",
-    "description": "Разбираем примеры спортивного креатива.",
-    "fullText": "Разбираем примеры спортивного креатива.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/2a/8c28f1ad1497f94181187c403993e.png",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Акинфеев и вы – вместе творите джерси",
+    "description": "Оставьте послание легенде.",
+    "fullText": "Оставьте послание легенде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/4a/e5db490a749bd8d8182499729ebad.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3394462.html",
-    "time": "2026-04-14T07:00:00.000Z"
+    "url": "https://specials.sports.ru/akinfeev-birthday/start?utm_source=native",
+    "time": "2026-04-14T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Graveyard Keeper принесла разработчикам около 250 тысяч долларов на фоне бесплатной раздачи",
-    "description": "В данные пока вошли только цифры со Steam.",
-    "fullText": "В данные пока вошли только цифры со Steam.",
-    "image": "https://leonardo.osnova.io/caa85df2-e354-51ed-a1a6-7c6d765497b6/",
+    "title": "Состоялся цифровой релиз аниме-адаптации ранобэ All You Need Is Kill",
+    "description": "После проката на родине.",
+    "fullText": "После проката на родине.",
+    "image": "https://leonardo.osnova.io/c360c2e5-f7c9-5039-859a-8505bc1b6026/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/4995527-graveyard-keeper-prinesla-razrabotchikam-dokhod?from=rss",
-    "time": "2026-04-14T06:38:42.000Z"
+    "url": "https://dtf.ru/anime/4996146-tsifrovoy-reliz-anime-adaptatsii-ranobe-vsyo-chto-tebe-nuzhno-eto-ubivat?from=rss",
+    "time": "2026-04-14T12:30:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как спастись «Реалу», «Барсе», «Ливерпулю» и «Спортингу»? Колонка Игнашевича",
+    "description": "Ищем варианты.",
+    "fullText": "Ищем варианты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/77/29f9e532347f6910ca7527e7b4144.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3397667.html",
+    "time": "2026-04-14T10:30:00.000Z"
   }
 ]
