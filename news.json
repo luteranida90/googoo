@@ -1,57 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Омской области задержали 10 подозреваемых в мошенничестве с выплатами страховки",
-    "description": "Заведено более 20 уголовных дел о мошенничестве в сфере страхования, которые соединены в одно производство",
-    "fullText": "Заведено более 20 уголовных дел о мошенничестве в сфере страхования, которые соединены в одно производство",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27097303",
-    "time": "2026-04-14T05:33:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Хотите в FONBET BAR на матч ЦСКА? Меняем ваши теплые слова Акинфееву на 2 билета",
-    "description": "В нашем проекте.",
-    "fullText": "В нашем проекте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/bf/20837e0084f679837ec5edb859f47.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/akinfeev-birthday/start?utm_source=native",
-    "time": "2026-04-13T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "1+1 Клаудиньо – и Бензема с Индзаги вылетели из ЛЧ, Карим запорол пенальти. Смотрели триллер на ВидеоСпортсе’‘",
-    "description": "Показали с ТВ Старт.",
-    "fullText": "Показали с ТВ Старт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/78/7d6ec76f74995b2ebdb1b2d75c729.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/8jTvFlz7JSgcCxTs-QN2WhPIEPjNV2-5dus4XAIBdbw",
-    "time": "2026-04-13T20:47:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Звездный «Анжи»-2012/13. Где они сейчас?",
-    "description": "30 персон.",
-    "fullText": "30 персон.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/1d/a69eb156e4da393d15d1535a013e1.jpeg",
+    "title": "Герои тура РПЛ: сила «Динамо», банда Черчесова, туристы из «Сочи»",
+    "description": "Разошелся защитник «Оренбурга».",
+    "fullText": "Разошелся защитник «Оренбурга».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/fe/55b0616aa4976aae16655d5279e9c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3384830.html",
-    "time": "2026-04-13T20:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3397617.html",
+    "time": "2026-04-13T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Группа Bring Me the Horizon анонсировала перезапись дебютного альбома Count Your Blessings",
-    "description": "20-летие пластинки отметят с размахом.",
-    "fullText": "20-летие пластинки отметят с размахом.",
-    "image": "https://leonardo.osnova.io/092b1a2c-1232-51b8-a367-6ab5e0f54e44/",
+    "title": "Bethesda готовит хотфикс с исправлением вылетов в PS5-версии Starfield",
+    "description": "Обновление выйдет в ближайшие несколько дней.",
+    "fullText": "Обновление выйдет в ближайшие несколько дней.",
+    "image": "https://leonardo.osnova.io/c0b1b490-8bd1-5398-b6ca-387428095904/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/4993943-bring-me-the-horizon-perezapis-count-your-blessings?from=rss",
-    "time": "2026-04-13T12:30:00.000Z"
+    "url": "https://dtf.ru/games/4994778-bethesda-gotovit-hotfix-dlya-starfield-na-ps5?from=rss",
+    "time": "2026-04-13T19:27:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
