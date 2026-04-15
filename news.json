@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве почти на четверть снизилось количество ипотечных сделок",
-    "description": "В среднем с начала 2026 года в столице оформляется по 7,5 тыс. соглашений в месяц",
-    "fullText": "В среднем с начала 2026 года в столице оформляется по 7,5 тыс. соглашений в месяц",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nedvizhimost/27112365",
-    "time": "2026-04-15T07:46:05.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Редкий мерч из 90-х? Расскажите свою историю",
     "description": "Лучшие получат призы.",
@@ -22,36 +11,36 @@
     "time": "2026-04-15T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Акинфеев и вы – вместе творите джерси",
-    "description": "Оставьте послание легенде.",
-    "fullText": "Оставьте послание легенде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/4a/e5db490a749bd8d8182499729ebad.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/akinfeev-birthday/?utm_source=native",
-    "time": "2026-04-15T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Это грабеж, судьи боятся победы «Барсы». Рафинью прорвало после вылета из ЛЧ",
-    "description": "А Ямаль злится с фэйк-аккаунта?",
-    "fullText": "А Ямаль злится с фэйк-аккаунта?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/7a/278f857df4abf9abf295b598954b7.jpeg",
+    "title": "«Аа-а-а-а-ах, 4-й полуфинал ЛЧ!» Послушайте, как Симеоне счастлив 🥰",
+    "description": "Вернулся.",
+    "fullText": "Вернулся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e6/b6b86fe61488bb3c96c23e97752e7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397876.html",
-    "time": "2026-04-15T00:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3397883.html",
+    "time": "2026-04-15T06:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Forza Horizon 6 вернулась в топ-3 недельного чарта Steam среди платных товаров — на фоне превью",
-    "description": "Crimson Desert всё ещё на первой строчке, а Road to Vostok дебютировала с седьмой позиции.",
-    "fullText": "Crimson Desert всё ещё на первой строчке, а Road to Vostok дебютировала с седьмой позиции.",
-    "image": "https://leonardo.osnova.io/03853756-4177-54f7-ad03-6af1d4e12d06/",
+    "title": "Для Grounded 2 вышло обновление Beat the Heat — в нём добавили босса-ящерицу и систему прокачки насекомых",
+    "description": "В игре также появилась дополнительная локация.",
+    "fullText": "В игре также появилась дополнительная локация.",
+    "image": "https://leonardo.osnova.io/f0772083-42be-5099-ad43-0632b062af09/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/4996980-forza-horizon-6-v-top-steam?from=rss",
-    "time": "2026-04-14T18:51:50.000Z"
+    "url": "https://dtf.ru/games/4997084-obnovlenie-beat-the-heat-dlya-grounded-2?from=rss",
+    "time": "2026-04-14T20:12:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
