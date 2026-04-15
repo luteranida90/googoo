@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: Россия рассчитывает, что удары по Ирану не возобновятся",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260415/8974789.jpg",
+    "title": "Нетаньяху заявил о стремлении к \"миру через силу\" в Ливане",
+    "description": "Израиль продолжает операцию против \"Хезболлах\"",
+    "fullText": "Израиль продолжает операцию против \"Хезболлах\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/27119185",
-    "time": "2026-04-15T15:45:50.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27121187",
+    "time": "2026-04-15T19:12:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Ак Барс» обыграл Минск – не помогли даже два гола с пустыми воротами. Показали на ВидеоСпортсе’’",
+    "description": "Казань вышла в полуфинал.",
+    "fullText": "Казань вышла в полуфинал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/1a/2b53fdb1a400e8226a9497d3ffde0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/NPctNPlhJnXKlT8F_an6g_hf-q-AE0JpTNvFkryGPbo",
+    "time": "2026-04-15T18:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В среднем наш футбольный диктант пишут на «4». Сможете лучше?",
+    "description": "Ищем отличников.",
+    "fullText": "Ищем отличников.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/e5/acba6c4034aa29e133bcca6290d61.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/diktant-2026/?utm_source=native",
+    "time": "2026-04-15T17:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жесточайший нокаут Кудряшова: ногой вырубил рэпер! Откачивали с кислородной маской",
-    "description": "Кошмарный дебют.",
-    "fullText": "Кошмарный дебют.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/4e/3558326f5470691952da012b882eb.jpeg",
+    "title": "«Этот русский не знает про давление». Новые восторги Сафоновым во Франции",
+    "description": "Матвей тоже доволен.",
+    "fullText": "Матвей тоже доволен.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/95/5704f1c724e66ace90cb7583fbcef.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3397854.html",
-    "time": "2026-04-15T11:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3397983.html",
+    "time": "2026-04-15T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кайдзю в Нью-Йорке: первый тизер фильма «Годзилла минус ноль»",
-    "description": "Картина выйдет в зарубежный прокат в ноябре.",
-    "fullText": "Картина выйдет в зарубежный прокат в ноябре.",
-    "image": "https://leonardo.osnova.io/aa59a5de-9401-51d1-97af-33c8476e8dfd/-/format/mp4/",
+    "title": "Энтузиасты объявили о работе над масштабным графическим модом для Prince of Persia: The Sands of Time",
+    "description": "В том числе добавят трассировку пути.",
+    "fullText": "В том числе добавят трассировку пути.",
+    "image": "https://leonardo.osnova.io/b0c0cee2-0eee-59c3-9d9c-29de4dab4a92/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/4997925-godzilla-minus-nol-tizer-v-n-yu-yorke?from=rss",
-    "time": "2026-04-15T09:06:46.000Z"
+    "url": "https://dtf.ru/games/4998412-sozdanie-graficheskogo-moda-dlya-prince-of-persia?from=rss",
+    "time": "2026-04-15T13:56:00.000Z"
   }
 ]
