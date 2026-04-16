@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Депутат Тарбаев: экскурсии по крышам Петербурга нужно делать цивилизованными",
+    "description": "Такие прогулки уже стали традиционным \"аттракционом\" в городе, однако существующие маршруты не обеспечивают туристам должный уровень безопасности, отметил глава комитета Госдумы по туризму и развитию туристической инфраструктуры",
+    "fullText": "Такие прогулки уже стали традиционным \"аттракционом\" в городе, однако существующие маршруты не обеспечивают туристам должный уровень безопасности, отметил глава комитета Госдумы по туризму и развитию туристической инфраструктуры",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27134899",
+    "time": "2026-04-16T22:12:17.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Хотите в FONBET BAR на матч ЦСКА? Меняем ваши теплые слова Акинфееву на 2 билета",
     "description": "В нашем проекте.",
@@ -11,15 +22,15 @@
     "time": "2026-04-16T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новак участвовал в церемонии инаугурации избранного президента Республики Конго",
-    "description": "Вице-премьер возглавил российскую делегацию",
-    "fullText": "Вице-премьер возглавил российскую делегацию",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Уже пора собрать команду на Кубок Стэнли! С Фэнтези следить намного увлекательнее",
+    "description": "Уже в субботу старт.",
+    "fullText": "Уже в субботу старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/de/d53a2dbee4862b24685777ecffe54.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/27134709",
-    "time": "2026-04-16T21:18:43.000Z"
+    "url": "https://sirena.world/NHL_playoffs_feed",
+    "time": "2026-04-16T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,6 +44,17 @@
     "time": "2026-04-16T18:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мудрик полтора года без футбола. Что слышно о нем и его дисквалификации?",
+    "description": "Тренируется самостоятельно.",
+    "fullText": "Тренируется самостоятельно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/8d/4f5f3e81241958bf57a5fec208261.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3397117.html",
+    "time": "2026-04-16T18:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Фильм по Call of Duty выйдет 30 июня 2028 года",
     "description": "Режиссёром выступит Питер Берг, известный по «Уцелевшему».",
@@ -42,27 +64,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/5001182-film-po-call-of-duty-detal-i-o-rezhissere?from=rss",
     "time": "2026-04-16T17:46:33.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Фэнтези плей-офф НБА: пора собирать команды! Приглашаем именно вас",
-    "description": "Да-да, а как без вашей команды?",
-    "fullText": "Да-да, а как без вашей команды?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/f6/15baf1f794382994df0d9c6354a0e.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/nba_playoffs_feed",
-    "time": "2026-04-16T17:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ираола уходит из «Борнмута». Похоже, на повышение",
-    "description": "Но куда именно?",
-    "fullText": "Но куда именно?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/3e/5aba272084907b87aefab008ea2cd.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397783.html",
-    "time": "2026-04-16T17:15:00.000Z"
   }
 ]
