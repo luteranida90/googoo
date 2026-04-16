@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Дагестане закрыли участок автодороги Касумкент - Цмур из-за оползня",
-    "description": "Движение транспорта перенаправлено по объездной дороге",
-    "fullText": "Движение транспорта перенаправлено по объездной дороге",
+    "title": "В парламенте Нидерландов трижды прерывали заседание из-за пропалестинских протестующих",
+    "description": "Некоторых протестующих пришлось выносить из здания, удерживая за руки и ноги, поскольку они продолжали выкрикивать лозунги и сопротивлялись требованиям покинуть парламент, сообщила газета De Telegraaf",
+    "fullText": "Некоторых протестующих пришлось выносить из здания, удерживая за руки и ноги, поскольку они продолжали выкрикивать лозунги и сопротивлялись требованиям покинуть парламент, сообщила газета De Telegraaf",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27132395",
-    "time": "2026-04-16T15:50:47.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27133585",
+    "time": "2026-04-16T17:36:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,25 +22,25 @@
     "time": "2026-04-16T15:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony и Netflix анонсировали анимационный фильм о Вилли Вонке — персонажа озвучит Тайка Вайтити",
-    "description": "У ленты также появился дебютный кадр.",
-    "fullText": "У ленты также появился дебютный кадр.",
-    "image": "https://leonardo.osnova.io/161dd4e1-3e5e-5acc-a95e-374b41aff0ae/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5000687-animatsionnyy-film-o-villie-vonke?from=rss",
-    "time": "2026-04-16T14:12:23.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вратарь вышел в поле и забил дважды школе Слуцкого – так исправился за привоз. Мы с ним поговорили",
-    "description": "Денис Ковалев из «Волгаря».",
-    "fullText": "Денис Ковалев из «Волгаря».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/10/dd3260d8448908a8da741f0a1daee.jpeg",
+    "title": "Боня готовится к самой сложной вершине мира: гипоксическая маска, пептиды и гантели в рюкзаке",
+    "description": "Стартует в июле.",
+    "fullText": "Стартует в июле.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/4c/926d3b8b94f25982760ed34fe6039.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397991.html",
-    "time": "2026-04-16T11:45:00.000Z"
+    "url": "https://www.sports.ru/health/blogs/3397332.html",
+    "time": "2026-04-16T13:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Zaycev.Net вышел на первое место в российском App Store среди музыкальных сервисов",
+    "description": "Обогнав «Яндекс Музыку».",
+    "fullText": "Обогнав «Яндекс Музыку».",
+    "image": "https://leonardo.osnova.io/57f2973e-185f-5ab6-a312-91ef151ff00f/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/music/5000360-zaycev-net-lider-v-app-store?from=rss",
+    "time": "2026-04-16T11:07:19.000Z"
   }
 ]
