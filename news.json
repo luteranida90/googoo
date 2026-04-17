@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Белый: человечество в ближайшие 10 лет ждут серьезные вызовы в области неврологии",
-    "description": "Люди станут жить дольше, нервная система - изнашиваться гораздо больше, и человечество столкнется с проблемами деменции, двигательными расстройствами, с атрофией нервов или миелинового покрова вокруг них, отметил основатель и председатель совета директоров компании \"Промомед\"",
-    "fullText": "Люди станут жить дольше, нервная система - изнашиваться гораздо больше, и человечество столкнется с проблемами деменции, двигательными расстройствами, с атрофией нервов или миелинового покрова вокруг них, отметил основатель и председатель совета директоров компании \"Промомед\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27145479",
-    "time": "2026-04-17T16:33:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Каким был мир, когда вышла «Игра престолов»? Последнее чемпионство «МЮ», Кобе жив, доллар по 28 рублей",
     "description": "Первая серия была 15 лет назад!",
@@ -33,36 +22,36 @@
     "time": "2026-04-17T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Возьмите в команду игроков матча «Челси» – «МЮ» и выиграйте джерси",
-    "description": "В новом туре Основы АПЛ.",
-    "fullText": "В новом туре Основы АПЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/df/2f6d4be514fb38cf8ac81a79dfccc.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/osnova/epl/?utm_source=native",
-    "time": "2026-04-17T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главный пахарь «Спартака» в 2026-м",
-    "description": "Илья Васильев – о Романе Зобнине.",
-    "fullText": "Илья Васильев – о Романе Зобнине.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/cb/02b67446c498f8716d317e1af4490.jpeg",
+    "title": "Квалификации в «Ф-1» больше не про риск. Для поула нужно ехать... медленнее?",
+    "description": "Все о кризисе.",
+    "fullText": "Все о кризисе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9d/60533159647dbb91a5f34312d63ce.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3397992.html",
-    "time": "2026-04-17T13:03:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3397329.html",
+    "time": "2026-04-17T14:17:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Replaced уточнили, что в разработке не использовался генеративный ИИ",
-    "description": "На фоне неоднозначной подводки к обзору IGN в соцсетях.",
-    "fullText": "На фоне неоднозначной подводки к обзору IGN в соцсетях.",
-    "image": "https://leonardo.osnova.io/878e5111-499a-51b6-aa96-93f2d82c2f30/",
+    "title": "На HBO Max закончился второй сезон «Больницы Питт»",
+    "description": "Все 15 эпизодов получили больше 8 баллов на IMDb.",
+    "fullText": "Все 15 эпизодов получили больше 8 баллов на IMDb.",
+    "image": "https://leonardo.osnova.io/403e4564-7abc-549a-a3a9-42fcc76e987d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5002669-razrabotchiki-replaced-podtverdili-otsutstvie-generativnogo-ii?from=rss",
-    "time": "2026-04-17T11:27:53.000Z"
+    "url": "https://dtf.ru/cinema/5002744-serial-bolnitsa-pitt-zavershil-vtoryj-sezon-na-hbo-max?from=rss",
+    "time": "2026-04-17T11:51:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
