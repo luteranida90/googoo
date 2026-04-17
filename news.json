@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Полпред президента в СКФО направил гуманитарный груз в Дагестан",
-    "description": "На склад Управления ГО ЧС Махачкалы поступили 20 генераторов и 20 тепловых пушек",
-    "fullText": "На склад Управления ГО ЧС Махачкалы поступили 20 генераторов и 20 тепловых пушек",
+    "title": "Определены первые десять резидентов второй очереди креативного кластера \"Сколково\"",
+    "description": "Специалисты будут разрабатывать уникальные отечественные решения для создания, обработки и распространения контента",
+    "fullText": "Специалисты будут разрабатывать уникальные отечественные решения для создания, обработки и распространения контента",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27139665",
-    "time": "2026-04-17T09:37:46.000Z"
+    "url": "https://tass.ru/obschestvo/27140609",
+    "time": "2026-04-17T10:41:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,6 +22,17 @@
     "time": "2026-04-17T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Phasmophobia получит коллаборацию с Alan Wake 2 — временный ивент стартует 12 мая",
+    "description": "Продажи кооперативного хоррора достигли 28 миллионов копий.",
+    "fullText": "Продажи кооперативного хоррора достигли 28 миллионов копий.",
+    "image": "https://leonardo.osnova.io/dab2934b-fc1b-50d6-99a1-66892c92b79c/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5002371-phasmophobia-i-alan-wake-kollaboratsiya?from=rss",
+    "time": "2026-04-17T09:00:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "«Челси» или «МЮ» – кто победит в топ-матче тура АПЛ? Проголосуйте",
     "description": "В Пикере Спортса’’.",
@@ -33,36 +44,14 @@
     "time": "2026-04-17T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Уже пора собрать команду на Кубок Стэнли! С Фэнтези следить намного увлекательнее",
-    "description": "Уже в субботу старт.",
-    "fullText": "Уже в субботу старт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/de/d53a2dbee4862b24685777ecffe54.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/NHL_playoffs_feed",
-    "time": "2026-04-17T06:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Панарин против Маккиннона уже в первом раунде Кубка Стэнли-2026. Все пары плей-офф определены",
-    "description": "Старт плей-офф – уже в ночь на воскресенье!",
-    "fullText": "Старт плей-офф – уже в ночь на воскресенье!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/a6/0292f0b984582a15673be20d59361.jpeg",
+    "title": "7-й полуфинал Эмери, «Бетис» вдруг сгорел, Италия валится. Знаем всех в 1/2 финала ЛЕ и ЛК",
+    "description": "Много англичан в топ-4.",
+    "fullText": "Много англичан в топ-4.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a2/ce78254b9487baf0144b7e5a4b87d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3397538.html",
-    "time": "2026-04-17T03:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Atomic Heart получила финальное дополнение «Кровь на хрустале» — самое масштабное из всех",
-    "description": "DLC закончит историю первой части и проложит путь для дальнейшего развития франшизы.",
-    "fullText": "DLC закончит историю первой части и проложит путь для дальнейшего развития франшизы.",
-    "image": "https://leonardo.osnova.io/80479eeb-f129-5893-b617-04efcc6ceeaa/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5000877-atomic-heart-finalnoe-dopolnenie-krov-na-hrustale?from=rss",
-    "time": "2026-04-16T15:55:47.000Z"
+    "url": "https://www.sports.ru/football/blogs/3398307.html",
+    "time": "2026-04-17T06:17:00.000Z"
   }
 ]
