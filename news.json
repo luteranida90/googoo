@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Эксперт Белый: человечество в ближайшие 10 лет ждут серьезные вызовы в области неврологии",
+    "description": "Люди станут жить дольше, нервная система - изнашиваться гораздо больше, и человечество столкнется с проблемами деменции, двигательными расстройствами, с атрофией нервов или миелинового покрова вокруг них, отметил основатель и председатель совета директоров компании \"Промомед\"",
+    "fullText": "Люди станут жить дольше, нервная система - изнашиваться гораздо больше, и человечество столкнется с проблемами деменции, двигательными расстройствами, с атрофией нервов или миелинового покрова вокруг них, отметил основатель и председатель совета директоров компании \"Промомед\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27145479",
+    "time": "2026-04-17T16:33:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Каким был мир, когда вышла «Игра престолов»? Последнее чемпионство «МЮ», Кобе жив, доллар по 28 рублей",
+    "description": "Первая серия была 15 лет назад!",
+    "fullText": "Первая серия была 15 лет назад!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/93/e8e40be2043c18988f4b03ac02341.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3398451.html",
+    "time": "2026-04-17T16:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Гонки на реактивном ранце в духе культовых игр на Dendy!",
     "description": "Полетели. Кто дальше?",
@@ -23,35 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартак» много забьет, в защиту «Зенита» слишком верят? Что будет в туре РПЛ: вероятности",
-    "description": "Ждем сухаря от «Краснодара».",
-    "fullText": "Ждем сухаря от «Краснодара».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/9a/5c9ac554647b58729bb50e82e31a9.jpeg",
+    "title": "Главный пахарь «Спартака» в 2026-м",
+    "description": "Илья Васильев – о Романе Зобнине.",
+    "fullText": "Илья Васильев – о Романе Зобнине.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/cb/02b67446c498f8716d317e1af4490.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3398392.html",
-    "time": "2026-04-17T11:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3397992.html",
+    "time": "2026-04-17T13:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Trails in the Sky 2nd Chapter выйдет 17 сентября",
-    "description": "Разработчики показали содержимое специального издания.",
-    "fullText": "Разработчики показали содержимое специального издания.",
-    "image": "https://leonardo.osnova.io/0bc338c2-0491-5624-90b9-192c9537dd94/",
+    "title": "Авторы Replaced уточнили, что в разработке не использовался генеративный ИИ",
+    "description": "На фоне неоднозначной подводки к обзору IGN в соцсетях.",
+    "fullText": "На фоне неоднозначной подводки к обзору IGN в соцсетях.",
+    "image": "https://leonardo.osnova.io/878e5111-499a-51b6-aa96-93f2d82c2f30/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5002222-trails-in-the-sky-2nd-chapter-vyydet-na-pk-i-konsolyakh?from=rss",
-    "time": "2026-04-17T07:52:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/5002669-razrabotchiki-replaced-podtverdili-otsutstvie-generativnogo-ii?from=rss",
+    "time": "2026-04-17T11:27:53.000Z"
   }
 ]
