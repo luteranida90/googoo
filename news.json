@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Липецкой области объявили воздушную опасность",
+    "description": "Об этом сообщил губернатор региона Игорь Артамонов",
+    "fullText": "Об этом сообщил губернатор региона Игорь Артамонов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27146169",
+    "time": "2026-04-17T19:25:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Фабиньо и Эн-Несири бьются за полуфинал ЛЧ – пока проигрывают сенсации. Смотрим в прямом эфире на ВидеоСпортсе’‘",
+    "description": "Показываем совместно с ТВ Старт.",
+    "fullText": "Показываем совместно с ТВ Старт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/a1/ae46db61540859c2747870ba3454f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/68K1MEMOxBcMb92OC-b8G8RCqfh2drTAK03e2ARng1U",
+    "time": "2026-04-17T19:19:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Каким был мир, когда вышла «Игра престолов»? Последнее чемпионство «МЮ», Кобе жив, доллар по 28 рублей",
     "description": "Первая серия была 15 лет назад!",
@@ -11,47 +33,25 @@
     "time": "2026-04-17T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Гонки на реактивном ранце в духе культовых игр на Dendy!",
-    "description": "Полетели. Кто дальше?",
-    "fullText": "Полетели. Кто дальше?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b9/36c5f00d147b9bdc3812edd05a143.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/turbach/?utm_source=sports_material",
-    "time": "2026-04-17T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Квалификации в «Ф-1» больше не про риск. Для поула нужно ехать... медленнее?",
-    "description": "Все о кризисе.",
-    "fullText": "Все о кризисе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/9d/60533159647dbb91a5f34312d63ce.jpeg",
+    "title": "Герой легендарного боя в ММА почти 10 лет парализован. Он ведет блог, где показывает, как встает на ноги",
+    "description": "Борьба Йошихиро Такаямы.",
+    "fullText": "Борьба Йошихиро Такаямы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/cf/f6c1b161e482d94a9c81d6983ef18.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3397329.html",
-    "time": "2026-04-17T14:17:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3395061.html",
+    "time": "2026-04-17T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На HBO Max закончился второй сезон «Больницы Питт»",
-    "description": "Все 15 эпизодов получили больше 8 баллов на IMDb.",
-    "fullText": "Все 15 эпизодов получили больше 8 баллов на IMDb.",
-    "image": "https://leonardo.osnova.io/403e4564-7abc-549a-a3a9-42fcc76e987d/",
+    "title": "Продажи Road to Vostok превысили 200 тысяч копий",
+    "description": "Количество ежедневных игроков выросло до 43 тысяч человек.",
+    "fullText": "Количество ежедневных игроков выросло до 43 тысяч человек.",
+    "image": "https://leonardo.osnova.io/d471f4f7-333a-5642-8bf4-16dddfc21fdc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5002744-serial-bolnitsa-pitt-zavershil-vtoryj-sezon-na-hbo-max?from=rss",
-    "time": "2026-04-17T11:51:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/5002909-prodazhi-igry-road-to-vostok?from=rss",
+    "time": "2026-04-17T13:41:16.000Z"
   }
 ]
