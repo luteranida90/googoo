@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Липецкой области объявили воздушную опасность",
-    "description": "Об этом сообщил губернатор региона Игорь Артамонов",
-    "fullText": "Об этом сообщил губернатор региона Игорь Артамонов",
+    "title": "В Мордовии объявили беспилотную опасность",
+    "description": "Об этом сообщило правительство республики",
+    "fullText": "Об этом сообщило правительство республики",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27146169",
-    "time": "2026-04-17T19:25:31.000Z"
+    "url": "https://tass.ru/proisshestviya/27146283",
+    "time": "2026-04-17T20:04:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Звезда «Грешников» Ли Цзюнь Ли пополнила актёрский состав третьего сезона «Одних из нас»",
+    "description": "Она исполнит роль матери Яры и Лева.",
+    "fullText": "Она исполнит роль матери Яры и Лева.",
+    "image": "https://leonardo.osnova.io/2e9793fe-0181-56f0-a555-776e9a562fd3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5003576-li-dzyun-li-tretiy-sezon-odnix-iz-nas?from=rss",
+    "time": "2026-04-17T19:49:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Фабиньо и Эн-Несири бьются за полуфинал ЛЧ – пока проигрывают сенсации. Смотрим в прямом эфире на ВидеоСпортсе’‘",
-    "description": "Показываем совместно с ТВ Старт.",
-    "fullText": "Показываем совместно с ТВ Старт.",
+    "title": "Фабиньо и Эн-Несири вылетели из ЛЧ – проиграли сенсации. Смотрели в прямом эфире на ВидеоСпортсе’‘",
+    "description": "Показали совместно с ТВ Старт.",
+    "fullText": "Показали совместно с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/e/a1/ae46db61540859c2747870ba3454f.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/68K1MEMOxBcMb92OC-b8G8RCqfh2drTAK03e2ARng1U",
-    "time": "2026-04-17T19:19:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Каким был мир, когда вышла «Игра престолов»? Последнее чемпионство «МЮ», Кобе жив, доллар по 28 рублей",
-    "description": "Первая серия была 15 лет назад!",
-    "fullText": "Первая серия была 15 лет назад!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/93/e8e40be2043c18988f4b03ac02341.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3398451.html",
-    "time": "2026-04-17T16:20:00.000Z"
+    "time": "2026-04-17T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герой легендарного боя в ММА почти 10 лет парализован. Он ведет блог, где показывает, как встает на ноги",
-    "description": "Борьба Йошихиро Такаямы.",
-    "fullText": "Борьба Йошихиро Такаямы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/cf/f6c1b161e482d94a9c81d6983ef18.jpeg",
+    "title": "Играл и в «Челси», и в «МЮ» – кого вспомнили помимо Лукаку?",
+    "description": "Впишите игрока в ячейку.",
+    "fullText": "Впишите игрока в ячейку.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/18/a5ebdf4f34861a3071585dac78d5e.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3395061.html",
-    "time": "2026-04-17T16:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Road to Vostok превысили 200 тысяч копий",
-    "description": "Количество ежедневных игроков выросло до 43 тысяч человек.",
-    "fullText": "Количество ежедневных игроков выросло до 43 тысяч человек.",
-    "image": "https://leonardo.osnova.io/d471f4f7-333a-5642-8bf4-16dddfc21fdc/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5002909-prodazhi-igry-road-to-vostok?from=rss",
-    "time": "2026-04-17T13:41:16.000Z"
+    "url": "https://www.sports.ru/special/3x3/?utm_source=native",
+    "time": "2026-04-17T17:30:00.000Z"
   }
 ]
