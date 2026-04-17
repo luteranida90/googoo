@@ -11,17 +11,6 @@
     "time": "2026-04-17T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Самарской области объявили угрозу подлета беспилотников",
-    "description": "Об этом сообщил глава региона Вячеслав Федорищев",
-    "fullText": "Об этом сообщил глава региона Вячеслав Федорищев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27146561",
-    "time": "2026-04-17T21:29:40.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Мирра щелкнула королеву грунта Швентек – таких побед у нее не было почти год",
     "description": "Важно.",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/5002997-finalnyj-albom-saundtreka-atomic-heart?from=rss",
     "time": "2026-04-17T14:18:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
