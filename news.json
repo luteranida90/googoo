@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Определены первые десять резидентов второй очереди креативного кластера \"Сколково\"",
-    "description": "Специалисты будут разрабатывать уникальные отечественные решения для создания, обработки и распространения контента",
-    "fullText": "Специалисты будут разрабатывать уникальные отечественные решения для создания, обработки и распространения контента",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27140609",
-    "time": "2026-04-17T10:41:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Все о петербургском клубе: с основания до наших дней – сериал «Зенит навсегда»",
     "description": "Уже доступен на PREMIER и RUTUBE.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Phasmophobia получит коллаборацию с Alan Wake 2 — временный ивент стартует 12 мая",
-    "description": "Продажи кооперативного хоррора достигли 28 миллионов копий.",
-    "fullText": "Продажи кооперативного хоррора достигли 28 миллионов копий.",
-    "image": "https://leonardo.osnova.io/dab2934b-fc1b-50d6-99a1-66892c92b79c/-/format/mp4/",
+    "title": "Первый трейлер «Созвездия пса» Ридли Скотта — с Джейкобом Элорди, Маргарет Куолли и Джошем Бролином",
+    "description": "Картина о выживании в постапокалиптическом мире выйдет в конце лета.",
+    "fullText": "Картина о выживании в постапокалиптическом мире выйдет в конце лета.",
+    "image": "https://leonardo.osnova.io/91b79a63-a71e-5aa6-80ba-79008b4a1d2b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5002371-phasmophobia-i-alan-wake-kollaboratsiya?from=rss",
-    "time": "2026-04-17T09:00:31.000Z"
+    "url": "https://dtf.ru/cinema/5002168-sozvezdie-psa-ridli-skotta?from=rss",
+    "time": "2026-04-17T07:02:01.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "7-й полуфинал Эмери, «Бетис» вдруг сгорел, Италия валится. Знаем всех в 1/2 финала ЛЕ и ЛК",
-    "description": "Много англичан в топ-4.",
-    "fullText": "Много англичан в топ-4.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a2/ce78254b9487baf0144b7e5a4b87d.jpeg",
+    "title": "Секреты Сафонова – разбирает Ребров. Хитрая позиция, подпрыжка (!) и не только",
+    "description": "Элитная вратарская аналитика.",
+    "fullText": "Элитная вратарская аналитика.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/69/05e6643954b1fa5e75740df5bbd5c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3398307.html",
-    "time": "2026-04-17T06:17:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3398121.html",
+    "time": "2026-04-17T06:28:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
