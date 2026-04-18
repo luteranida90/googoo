@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Жителя Камчатки арестовали за дискредитацию ВС РФ",
+    "description": "Кроме того, его обвиняют в возбуждении ненависти и вражды по национальному и религиозному признаку",
+    "fullText": "Кроме того, его обвиняют в возбуждении ненависти и вражды по национальному и религиозному признаку",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27148085",
+    "time": "2026-04-18T05:36:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "70% прошедших наш футбольный диктант ошиблись в написании этого клуба. А вы справитесь?",
     "description": "Играли с нашими в еврокубках.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мирра щелкнула королеву грунта Швентек – таких побед у нее не было почти год",
-    "description": "Важно.",
-    "fullText": "Важно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/3a/5b3daf0cd498894aa7c458dabb7a3.jpeg",
+    "title": "С нового сезона будет «Альфа-банк РПЛ»: лига сменила титульного спонсора. Но осталась с Winline",
+    "description": "Привыкаем к звучанию.",
+    "fullText": "Привыкаем к звучанию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/aa/6cd81e2054d48b370a9127283dcec.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3398571.html",
-    "time": "2026-04-17T19:01:00.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3398444.html",
+    "time": "2026-04-17T19:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/music/5002997-finalnyj-albom-saundtreka-atomic-heart?from=rss",
     "time": "2026-04-17T14:18:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
