@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Стрелок в Киеве уже привлекался к уголовной ответственности, но дело закрыли",
-    "description": "Дело по статье о нанесении легких телесных повреждений рассматривалось в Голосеевском районном суде Киева",
-    "fullText": "Дело по статье о нанесении легких телесных повреждений рассматривалось в Голосеевском районном суде Киева",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«МЮ» чудом выиграл 1:0 у «Челси» – вытерпели. Как там шансы на ЛЧ?",
+    "description": "Благодаря 18-му ассисту Бруну.",
+    "fullText": "Благодаря 18-му ассисту Бруну.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/b8/87beba09444728fc74c2f61c3162c.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27154349",
-    "time": "2026-04-19T09:15:41.000Z"
+    "url": "https://www.sports.ru/football/blogs/3398807.html",
+    "time": "2026-04-19T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,25 +22,25 @@
     "time": "2026-04-19T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Каролина» всухую забрала первый матч плей-офф. Оборонялась по-чемпионски",
-    "description": "«Оттава» без голов и без Зуба.",
-    "fullText": "«Оттава» без голов и без Зуба.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/b3/7445e50004f2c822b54f1cc2b3646.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3398828.html",
-    "time": "2026-04-19T06:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Amazon MGM продлили прокат «Проекта „Конец света“» на фоне высоких сборов",
-    "description": "Фильм уже стал вторым по этому показателю в карьере Райана Гослинга.",
-    "fullText": "Фильм уже стал вторым по этому показателю в карьере Райана Гослинга.",
-    "image": "https://leonardo.osnova.io/dd7e1223-f566-5c01-a8f8-00bbd0205cf4/",
+    "title": "Студия Питера Молиньё показала трейлер к запуску раннего доступа Masters of Albion",
+    "description": "«Симулятор бога» выйдет в Steam 22 апреля.",
+    "fullText": "«Симулятор бога» выйдет в Steam 22 апреля.",
+    "image": "https://leonardo.osnova.io/91284246-3a0c-5d1d-a494-c3a7acd2dc2a/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5003111-prodlenie-prokata-proekta-konec-sveta?from=rss",
-    "time": "2026-04-17T15:33:44.000Z"
+    "url": "https://dtf.ru/games/5003244-masters-of-albion-treiler-rannego-dostupa?from=rss",
+    "time": "2026-04-17T16:54:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
