@@ -1,7 +1,18 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Вратаря \"Ливерпуля\" Мамардашвили унесли на носилках после пропущенного гола",
+    "description": "Голкипер получил травму в столкновении с игроком \"Эвертона\" Бету",
+    "fullText": "Голкипер получил травму в столкновении с игроком \"Эвертона\" Бету",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/27155619",
+    "time": "2026-04-19T14:34:28.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Роналду на ВидеоСпортсе’’ – на наших глазах бьется за полуфинал ЛЧ! Смотрим в прямой трансляции",
+    "title": "Роналду на ВидеоСпортсе’’! На наших глазах бьется за полуфинал ЛЧ – и уже забил. Смотрим в прямой трансляции",
     "description": "Показываем совместно с ТВ Старт.",
     "fullText": "Показываем совместно с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/d/62/67a73ae12438b9ae42f9ca00090f3.jpeg",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Дубай – мой родной край». Эмиратская глава приключений Марадоны",
-    "description": "Диего Армандо приложил руку и к азиатскому футболу.",
-    "fullText": "Диего Армандо приложил руку и к азиатскому футболу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/39/aad7927c44f28a6a8a0bae1ea18a5.jpeg",
+    "title": "Как там Трусова через 3 месяца после камбэка? Кажется, она фаворит нового сезона",
+    "description": "«Русская ракета» разгоняется.",
+    "fullText": "«Русская ракета» разгоняется.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/35/b8768f7d8497491d544e1c3843983.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3398713.html",
-    "time": "2026-04-19T10:00:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3398731.html",
+    "time": "2026-04-19T11:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5003244-masters-of-albion-treiler-rannego-dostupa?from=rss",
     "time": "2026-04-17T16:54:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
