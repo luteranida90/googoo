@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Урожайность сои может упасть на 91% к 2050 году",
-    "description": "Это может произойти из-за изменений климата и отсутствия технологических решений",
-    "fullText": "Это может произойти из-за изменений климата и отсутствия технологических решений",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nauka/27157927",
-    "time": "2026-04-20T05:05:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Грустно, класс Рублева – уже не топ",
-    "description": "Мысли по финалу в Барселоне.",
-    "fullText": "Мысли по финалу в Барселоне.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/10/66f37de974deba9defbba175d43d7.jpeg",
+    "title": "«Зенит» обогнал «Краснодар»! Календарь и расклады",
+    "description": "Изучаем гонку.",
+    "fullText": "Изучаем гонку.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/3d/f2a36a65b4788976f2290792b6a2b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3398968.html",
-    "time": "2026-04-19T20:12:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3398795.html",
+    "time": "2026-04-19T22:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/5002762-pragmata-na-switch-2-testy-digital-foundry?from=rss",
     "time": "2026-04-17T18:55:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
