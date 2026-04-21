@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Белый дом сообщил об отставке главы Минтруда США Чавес-Деример",
-    "description": "Подробностей такого решения не привели",
-    "fullText": "Подробностей такого решения не привели",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27167799",
-    "time": "2026-04-20T22:38:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Действующие топ-игроки, которые так и не взяли Лигу чемпионов. Вспомните всех в Невидимке?",
     "description": "В лиге «Лузеры».",
@@ -64,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/science/5008167-komandyr-missii-artemida-2-zakat-zemli-na-iphone?from=rss",
     "time": "2026-04-20T10:32:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
