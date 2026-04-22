@@ -1,25 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Порту» и «Спортинг» рубятся за финал Кубка Португалии – смотрим в прямом эфире ВидеоСпортса’’",
-    "description": "Показываем вместе с ТВ Старт.",
-    "fullText": "Показываем вместе с ТВ Старт.",
+    "title": "«Спортинг» в финале Кубка Португалии – зарубился с «Порту» и удержал важную ничью в гостях. Смотрим в прямом эфире ВидеоСпортса’’",
+    "description": "Показали вместе с ТВ Старт.",
+    "fullText": "Показали вместе с ТВ Старт.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/c/ba/2d6786a444730959f825e39f528cc.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/stream/_1JHOVJOgRHyyDVZ7X4IRbdZSYkhaqXG5DIEKCKi0Qs",
-    "time": "2026-04-22T21:23:00.000Z"
+    "time": "2026-04-22T21:54:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "США заявили о перенаправлении 29 судов с начала морской блокады Ирана",
-    "description": "Центральное командование ВС Соединенных Штатов опровергло информацию о том, что нескольким кораблям удалось обойти блокаду",
-    "fullText": "Центральное командование ВС Соединенных Штатов опровергло информацию о том, что нескольким кораблям удалось обойти блокаду",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
+    "description": "Привет из прошлого.",
+    "fullText": "Привет из прошлого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/1c/7b9d539004772921bc8e8bb5a510d.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27192555",
-    "time": "2026-04-22T21:07:25.000Z"
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-04-22T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -34,13 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Росеньор потерял управление «Челси». И, похоже, самого себя",
-    "description": "Инсайды про увольнение.",
-    "fullText": "Инсайды про увольнение.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/46/1a1e1b6cc486598c0e78ccec26e5a.jpeg",
+    "title": "В АХЛ больше 40 русских – и многие уже играли в НХЛ. Как прошел их сезон?",
+    "description": "Разобрали почти всех.",
+    "fullText": "Разобрали почти всех.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/0d/e6ba2aa954ae1808150c8b4a2216d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3399731.html",
+    "url": "https://www.sports.ru/hockey/blogs/3399216.html",
     "time": "2026-04-22T18:27:00.000Z"
   },
   {
@@ -53,5 +53,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/mobile/5012880-control-dostupna-na-iphone-i-ipad?from=rss",
     "time": "2026-04-22T11:56:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
