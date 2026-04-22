@@ -1,57 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве аренда элитных квартир подорожала на 17% за первый квартал 2026 года",
-    "description": "Стоимость по итогам марта составила 322 тыс. рублей в месяц",
-    "fullText": "Стоимость по итогам марта составила 322 тыс. рублей в месяц",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/nedvizhimost/27182977",
-    "time": "2026-04-22T05:36:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlb3Nw",
-    "title": "«Надо радикально что-то менять. Смотреть в зеркало». 60 секунд боли Росеньора после жуткой серии «Челси» – на ВидеоСпортсе’‘",
-    "description": "«Такое защищать невозможно».",
-    "fullText": "«Такое защищать невозможно».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/1b/e6e7826824ecaa3d7c7ad2c914935.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://videosports.ru/Rosenior_Chelsea_03",
-    "time": "2026-04-21T23:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "71% прошедших наш футбольный диктант ошиблись в написании этого клуба. А вы справитесь?",
-    "description": "Играли с нашими в еврокубках.",
-    "fullText": "Играли с нашими в еврокубках.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/67/78b0574ae44968eb65de786d7517a.png",
+    "title": "Всего 8 вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
+    "description": "В хоккейном Три на три.",
+    "fullText": "В хоккейном Три на три.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/ae/e712eddf14aefbefee7f9edb6786f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/diktant-2026/?utm_source=native",
-    "time": "2026-04-21T21:30:00.000Z"
+    "url": "https://sirena.sports.ru/3x3-hockey/?utm_source=native",
+    "time": "2026-04-22T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ЦСКА тонет весной: 13-е место. И что делать с Челестини?",
-    "description": "Теперь – 1:1 с «Ростовом».",
-    "fullText": "Теперь – 1:1 с «Ростовом».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ce/3a87b9d244b6bbb794fc8f22f2687.jpeg",
+    "title": "Отмена гола на 90+2 из-за невовремя вброшенного аута в полуфинале ЛЧ! Вы такое вообще видели?!",
+    "description": "Глупость из Азии.",
+    "fullText": "Глупость из Азии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/19/30c47d43c41478229f22ab5b66e56.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3399516.html",
-    "time": "2026-04-21T20:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3399526.html",
+    "time": "2026-04-21T23:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Третий сезон «Укрытия» от Apple стартует 3 июля",
-    "description": "Анонс сопроводили тизером и кадрами.",
-    "fullText": "Анонс сопроводили тизером и кадрами.",
-    "image": "https://leonardo.osnova.io/c4bfd659-6eb7-5d84-bd42-2cdc26b2972a/",
+    "title": "СМИ: из фильма «Дьявол носит Prada 2» убрали камео Сидни Суини",
+    "description": "Сцена с актрисой структурно не вписывалась в начало фильма.",
+    "fullText": "Сцена с актрисой структурно не вписывалась в начало фильма.",
+    "image": "https://leonardo.osnova.io/1ebdca71-a9be-5446-b7c3-2b4f5ebe9a71/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5010792-tretiy-sezon-ukrytiya-ot-apple?from=rss",
-    "time": "2026-04-21T14:29:08.000Z"
+    "url": "https://dtf.ru/cinema/5011292-sidni-suini-vyrezali-iz-filma-dyavol-nosit-prada-2?from=rss",
+    "time": "2026-04-21T18:27:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
