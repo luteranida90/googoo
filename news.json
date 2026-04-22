@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минфин США назвал мифом данные, что РФ получила $14 млрд от послабления санкций",
-    "description": "Это один из тезисов Национального комитета Демократической партии, с которым приходилось сталкиваться уже много раз, отметил американский министр финансов Скотт Бессент",
-    "fullText": "Это один из тезисов Национального комитета Демократической партии, с которым приходилось сталкиваться уже много раз, отметил американский министр финансов Скотт Бессент",
+    "title": "Футбольный клуб \"Челси\" уволил главного тренера Лиама Росеньора",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27189763",
-    "time": "2026-04-22T14:51:16.000Z"
+    "url": "https://tass.ru/sport/27190713",
+    "time": "2026-04-22T16:23:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Роналду бьется за финал ЛЧ в прямом эфире ВидеоСпортса’’ – смотрим вместе с ТВ Старт",
+    "description": "В двух шагах от трофея.",
+    "fullText": "В двух шагах от трофея.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9c/247edbe4c4f45b386f93d6d2e974e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/aJy3UugO3g1BALOgRbtlDDiD9i5CYx4Tjsr5_a9O2SQ",
+    "time": "2026-04-22T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Без лести, я бы доверила ему любое дело». Душевный монолог жены главного защитника КХЛ",
-    "description": "Дамир Шарипзянов капитанит в «Авангарде».",
-    "fullText": "Дамир Шарипзянов капитанит в «Авангарде».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/28/2e81868f047ea81179e6a4ae9a4de.jpeg",
+    "title": "9 лучших боев Александра Усика",
+    "description": "Коллекция величия.",
+    "fullText": "Коллекция величия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/73/62d847f1c42238465a1a476b6f002.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3395691.html",
-    "time": "2026-04-22T10:59:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Главный народный аксессуар из дворов – в Музее русского футбола",
-    "description": "101 экспонат ждет вас.",
-    "fullText": "101 экспонат ждет вас.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ad/7f417b90b4722acd205d26281d26b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/ycdox0",
-    "time": "2026-04-22T09:30:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3399020.html",
+    "time": "2026-04-22T13:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Отчёт 11 bit studios: 545 тысяч копий у The Alters и работа над переосмыслением This War of Mine",
-    "description": "В производстве также находятся оригинальные проекты и игра из вселенной Frostpunk в новом жанре.",
-    "fullText": "В производстве также находятся оригинальные проекты и игра из вселенной Frostpunk в новом жанре.",
-    "image": "https://leonardo.osnova.io/8fd24c49-f0e0-5855-9b4f-fb3e17fcbbbb/",
+    "title": "Аналитики: в 2025 году общий бюджет выпущенных игр в Steam составил 27 миллиардов долларов — в 2,7 раза больше, чем в 2019-м",
+    "description": "Хотя точные цифры оценить почти невозможно, тренд понятен.",
+    "fullText": "Хотя точные цифры оценить почти невозможно, тренд понятен.",
+    "image": "https://leonardo.osnova.io/b498f054-ddf4-5476-8ba4-4397aaaf16a0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5012168-11-bit-studios-uspeh-the-alters-i-pereosmyslenie-this-war-of-mine?from=rss",
-    "time": "2026-04-22T06:44:49.000Z"
+    "url": "https://dtf.ru/gameindustry/5012749-analiz-budjeta-igr-v-steam-rost-zatrat?from=rss",
+    "time": "2026-04-22T11:18:11.000Z"
   }
 ]
