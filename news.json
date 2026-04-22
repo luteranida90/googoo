@@ -1,5 +1,38 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«В чём дело, док?»: трейлер фильма «Хитрый Койот» с персонажами Looney Tunes",
+    "description": "Многострадальная комедия выйдет в зарубежный прокат 28 августа.",
+    "fullText": "Многострадальная комедия выйдет в зарубежный прокат 28 августа.",
+    "image": "https://leonardo.osnova.io/43faf68c-4872-55a1-b2c5-c4a73609fc4b/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5013054-v-chem-delo-dok-treiler-filma-hitryi-koiot-s-personazhami-looney-tunes?from=rss",
+    "time": "2026-04-22T13:50:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Краснодаре после ДТП с автобусом завели дело",
+    "description": "В аварии пострадали шесть человек",
+    "fullText": "В аварии пострадали шесть человек",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260422/8994523.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27188997",
+    "time": "2026-04-22T13:37:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "👑 30 топов с ЛЧ – топ-уровень в Невидимке. Угадаете всех?",
+    "description": "В лиге «Триумфаторы».",
+    "fullText": "В лиге «Триумфаторы».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-04-22T13:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Главный народный аксессуар из дворов – в Музее русского футбола",
     "description": "101 экспонат ждет вас.",
@@ -11,47 +44,14 @@
     "time": "2026-04-22T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кем проще стать: хоккеистом или космонавтом?",
-    "description": "Узнайте в нашем проекте.",
-    "fullText": "Узнайте в нашем проекте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/65/3061dea404a45a37469daf03a143b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/khl-kosmos/?utm_source=native",
-    "time": "2026-04-22T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучший вратарь КХЛ не играет в НХЛ и даже не задрафтован. Как так?",
-    "description": "Боль Даниила Исаева.",
-    "fullText": "Боль Даниила Исаева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/e8/52ca2406f432cadee8068dd1845c8.jpeg",
+    "title": "Доллар запретить, Крым переименовать, Кремль перекрасить: 29 идей министра Дегтярева",
+    "description": "Не только лимит.",
+    "fullText": "Не только лимит.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/24/4a0a484904faeb84839a3e221ea28.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3397652.html",
-    "time": "2026-04-22T06:04:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывшие журналисты StopGame открыли собственное издательство Multifora Digital",
-    "description": "Они собираются активно помогать авторам игр — и не только с продвижением.",
-    "fullText": "Они собираются активно помогать авторам игр — и не только с продвижением.",
-    "image": "https://leonardo.osnova.io/564c5226-a505-5e5e-aa6c-297f108e3c65/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5010906-izdatelstvo-multifora-digital-ot-byvshikh-zhurnalistov-stopgame?from=rss",
-    "time": "2026-04-21T15:32:56.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://www.sports.ru/football/blogs/3399220.html",
+    "time": "2026-04-22T08:05:00.000Z"
   }
 ]
