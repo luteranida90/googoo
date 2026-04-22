@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Москве аренда элитных квартир подорожала на 17% за первый квартал 2026 года",
+    "description": "Стоимость по итогам марта составила 322 тыс. рублей в месяц",
+    "fullText": "Стоимость по итогам марта составила 322 тыс. рублей в месяц",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nedvizhimost/27182977",
+    "time": "2026-04-22T05:36:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlb3Nw",
+    "title": "«Надо радикально что-то менять. Смотреть в зеркало». 60 секунд боли Росеньора после жуткой серии «Челси» – на ВидеоСпортсе’‘",
+    "description": "«Такое защищать невозможно».",
+    "fullText": "«Такое защищать невозможно».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/1b/e6e7826824ecaa3d7c7ad2c914935.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://videosports.ru/Rosenior_Chelsea_03",
+    "time": "2026-04-21T23:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "71% прошедших наш футбольный диктант ошиблись в написании этого клуба. А вы справитесь?",
     "description": "Играли с нашими в еврокубках.",
@@ -11,58 +33,25 @@
     "time": "2026-04-21T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Всероссийский студенческий корпус спасателей отмечает 25-летие",
-    "description": "ВСКС основали в 2001 году по инициативе МЧС России",
-    "fullText": "ВСКС основали в 2001 году по инициативе МЧС России",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27180177",
-    "time": "2026-04-21T21:07:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlb3Nw",
-    "title": "Японская сенсация в финале ЛЧ! Смотрели дикую и глупую развязку на ВидеоСпортсе’‘",
-    "description": "Показали вместе с ТВ Старт.",
-    "fullText": "Показали вместе с ТВ Старт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/21/31493c2b34a4db3bffa25d147dfeb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://videosports.ru/AFC_12fin_Matida",
-    "time": "2026-04-21T18:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "3-я победа «Сочи» подряд! Чудо-спасение еще ближе",
-    "description": "Серия – впервые с 2022-го.",
-    "fullText": "Серия – впервые с 2022-го.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/62/056e6cfb74e94beac3d1e7e625bfc.jpeg",
+    "title": "ЦСКА тонет весной: 13-е место. И что делать с Челестини?",
+    "description": "Теперь – 1:1 с «Ростовом».",
+    "fullText": "Теперь – 1:1 с «Ростовом».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ce/3a87b9d244b6bbb794fc8f22f2687.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3399506.html",
-    "time": "2026-04-21T18:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Тим Кук покинет пост главы Apple: чем запомнится его эпоха",
-    "description": "15 лет у руля – итоги.",
-    "fullText": "15 лет у руля – итоги.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/4b/221e309e0429ca88fe809b6943856.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/tech/blogs/3399467.html",
-    "time": "2026-04-21T17:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3399516.html",
+    "time": "2026-04-21T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Брат против брата: трейлер второго сезона анимационного сериала Devil May Cry",
-    "description": "Новые эпизоды выйдут уже 12 мая.",
-    "fullText": "Новые эпизоды выйдут уже 12 мая.",
-    "image": "https://leonardo.osnova.io/be3aa40b-1ac6-5a53-8172-88ad0c8cc0cf/-/format/mp4/",
+    "title": "Третий сезон «Укрытия» от Apple стартует 3 июля",
+    "description": "Анонс сопроводили тизером и кадрами.",
+    "fullText": "Анонс сопроводили тизером и кадрами.",
+    "image": "https://leonardo.osnova.io/c4bfd659-6eb7-5d84-bd42-2cdc26b2972a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5010889-vtoroy-sezon-devil-may-cry?from=rss",
-    "time": "2026-04-21T15:19:50.000Z"
+    "url": "https://dtf.ru/cinema/5010792-tretiy-sezon-ukrytiya-ot-apple?from=rss",
+    "time": "2026-04-21T14:29:08.000Z"
   }
 ]
