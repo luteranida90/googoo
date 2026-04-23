@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Тульской области объявили угрозу атаки БПЛА",
-    "description": "Губернатор региона Дмитрий Миляев попросил жителей сохранять спокойствие",
-    "fullText": "Губернатор региона Дмитрий Миляев попросил жителей сохранять спокойствие",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27192945",
-    "time": "2026-04-22T23:30:01.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Выиграйте ретрофутболку Месси – нужно всего лишь закатить мячик",
     "description": "Привет из прошлого.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Номер-терапия Трусовой: сменила «Круэллу» на нежность и поцелуи с мужем",
-    "description": "«Все на своих местах».",
-    "fullText": "«Все на своих местах».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/0a/717da37a74e3cb1344220c12e1421.jpeg",
+    "title": "Скандальные 0:0 «Зенита» и «Локо». «Краснодар» вернется на первое место?",
+    "description": "Что за гонка.",
+    "fullText": "Что за гонка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/72/5638161c8492f8c406a1b18089b4e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3399770.html",
-    "time": "2026-04-22T19:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3399773.html",
+    "time": "2026-04-22T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/mobile/5012880-control-dostupna-na-iphone-i-ipad?from=rss",
     "time": "2026-04-22T11:56:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
