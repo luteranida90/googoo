@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Третий авианосец прибыл в зону ответственности Центрального командования ВС США",
-    "description": "USS George H. W. Bush идет по Индийскому океану, уточнили в CENTCOM",
-    "fullText": "USS George H. W. Bush идет по Индийскому океану, уточнили в CENTCOM",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
+    "description": "Топ-уровень в Невидимке.",
+    "fullText": "Топ-уровень в Невидимке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27204669",
-    "time": "2026-04-23T20:24:32.000Z"
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-04-23T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вот почему Расселл все равно станет чемпионом «Ф-1» – невезение не остановит",
-    "description": "Все факторы, почему Джордж крут.",
-    "fullText": "Все факторы, почему Джордж крут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c0/16da61b554c7b8a54dba70da70280.jpeg",
+    "title": "«Живущий в Сербии кыргызский пилот» – наш чемпион мира. У него важнейший год на пути к «Ф-1»",
+    "description": "Кирилл Куцков пытается закрепиться в Европе.",
+    "fullText": "Кирилл Куцков пытается закрепиться в Европе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/bb/98dcc0fb347648212d17a2de53af5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3396001.html",
-    "time": "2026-04-23T16:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3399772.html",
+    "time": "2026-04-23T17:16:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Conan Exiles анонсировали улучшенную версию — игру перевели на Unreal Engine 5",
-    "description": "Она выйдет 5 мая только в Steam.",
-    "fullText": "Она выйдет 5 мая только в Steam.",
-    "image": "https://leonardo.osnova.io/0c51ad3d-bf34-59a8-826a-1266ffa88795/-/format/mp4/",
+    "title": "«Солнце вечно, как и я»: релизный трейлер экшена Saros",
+    "description": "Игра выйдет 30 апреля на PS5.",
+    "fullText": "Игра выйдет 30 апреля на PS5.",
+    "image": "https://leonardo.osnova.io/74334d76-d422-5425-951d-2dde666614e7/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5015507-conan-exiles-uluchshennaya-versiya-na-unreal-engine-5?from=rss",
-    "time": "2026-04-23T15:58:51.000Z"
+    "url": "https://dtf.ru/games/5015160-saros-releznij-trejler-ekshena-ot-studii-housemarque?from=rss",
+    "time": "2026-04-23T12:41:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
