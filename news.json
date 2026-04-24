@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Праздник настольного тенниса прошел в ЦДМ в Москве",
-    "description": "23 апреля отмечается Всемирный день настольного тенниса",
-    "fullText": "23 апреля отмечается Всемирный день настольного тенниса",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260424/9001843.jpg",
+    "title": "В селе на Кубани множество домов находятся под угрозой подтопления из-за паводка",
+    "description": "Река Чибрик вышла из берегов в поселке Южный Краснодарского края",
+    "fullText": "Река Чибрик вышла из берегов в поселке Южный Краснодарского края",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27216001",
-    "time": "2026-04-24T17:02:48.000Z"
+    "url": "https://tass.ru/proisshestviya/27216297",
+    "time": "2026-04-24T17:44:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Открываю дверь, там сэр Пол Маккартни, и у меня все ладошки в поту». Сергей Кущенко – архитектор золотого ЦСКА",
+    "description": "Интервью о музыке и ЦСКА.",
+    "fullText": "Интервью о музыке и ЦСКА.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/83/330d7309d428d8979c5eaa9d397ac.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3400040.html",
+    "time": "2026-04-24T13:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,25 +33,14 @@
     "time": "2026-04-24T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура РПЛ: спаситель Адамов, мастер важных матчей, форвард с мизерным процентом",
-    "description": "И соблазн из «Рубина».",
-    "fullText": "И соблазн из «Рубина».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f0/964eb9aad42de8a47e5ee1ee4be24.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400060.html",
-    "time": "2026-04-24T12:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер ремейка Black Flag уточнил, что в релизной версии будет кровь, а визуальные эффекты во время боя «поубавят»",
-    "description": "Время до релиза ещё есть, поэтому авторы собирают отзывы.",
-    "fullText": "Время до релиза ещё есть, поэтому авторы собирают отзывы.",
-    "image": "https://leonardo.osnova.io/e4e4755d-496f-585b-ad0b-77c5af3c88bd/",
+    "title": "Тейлор Свифт стала самым прослушиваемым исполнителем в истории Spotify",
+    "description": "Также представили лидеров по альбомам и трекам.",
+    "fullText": "Также представили лидеров по альбомам и трекам.",
+    "image": "https://leonardo.osnova.io/d685e075-3079-50f7-a896-007fc5ef0ab6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5016945-producer-black-flag-krov-i-izmeneniya-v-boevyh-effektah?from=rss",
-    "time": "2026-04-24T09:43:38.000Z"
+    "url": "https://dtf.ru/music/5016558-teylor-svift-samyy-proslushivaemyy-artist-na-spotify?from=rss",
+    "time": "2026-04-24T06:45:15.000Z"
   }
 ]
