@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Доля нерезидентов в российских ОФЗ в марте снизилась до 3,4%",
-    "description": "На 1 марта показатель находился на уровне 3,5%",
-    "fullText": "На 1 марта показатель находился на уровне 3,5%",
+    "title": "Войнов вернулся в состав \"Авангарда\" на первый матч полуфинала плей-офф КХЛ",
+    "description": "Он не выходил на лед в официальных матчах с 30 марта",
+    "fullText": "Он не выходил на лед в официальных матчах с 30 марта",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27214897",
-    "time": "2026-04-24T14:35:50.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Little Nightmares VR: Altered Echoes",
-    "description": "Критики назвали игру жуткой, но отметили неудобное управление.",
-    "fullText": "Критики назвали игру жуткой, но отметили неудобное управление.",
-    "image": "https://leonardo.osnova.io/14034eed-dac3-53b5-9900-f1c4bfecb785/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5017411-reliz-little-nightmares-vr-altered-echoes-i-ego-osobennosti?from=rss",
-    "time": "2026-04-24T14:04:08.000Z"
+    "url": "https://tass.ru/sport/27215541",
+    "time": "2026-04-24T15:50:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Моуринью может вернуться в «Реал». Точно в списке кандидатов и нравится Пересу",
-    "description": "Камбэк?",
-    "fullText": "Камбэк?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/03/bec13656e41f7a1a13f8f6c1b6a3a.jpeg",
+    "title": "В какой форме играет «Арсенал»?",
+    "description": "Определите подделку.",
+    "fullText": "Определите подделку.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/65/b14029bfe460bb7154a34c8b44288.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400095.html",
-    "time": "2026-04-24T09:50:00.000Z"
+    "url": "https://www.sports.ru/specials/ucl-kits/?utm_source=native",
+    "time": "2026-04-24T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Pearl Abyss выпустила первую часть саундтрека Crimson Desert",
+    "description": "75 композиций на 4,5 часа.",
+    "fullText": "75 композиций на 4,5 часа.",
+    "image": "https://leonardo.osnova.io/916596a4-7eb5-58a1-9551-8d8569030229/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/music/5017111-soundtrek-crimson-desert-ot-pearl-abyss?from=rss",
+    "time": "2026-04-24T11:03:45.000Z"
   }
 ]
