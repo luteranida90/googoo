@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Кубани подтоплены более 100 дворов",
-    "description": "Эвакуировали 10 человек",
-    "fullText": "Эвакуировали 10 человек",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/pavodki-v-rossii/27217455",
-    "time": "2026-04-24T20:42:16.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
     "description": "Топ-уровень в Невидимке.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Терри и Карвалью в «Челси» – самая неприступная оборона в истории АПЛ. Раскрываем секреты и разбиваем мифы",
-    "description": "Пропустили 15 голов за весь сезон.",
-    "fullText": "Пропустили 15 голов за весь сезон.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/57/ec589b92c40f2a6f0f13a560ccb13.jpeg",
+    "title": "Узнаете самого молодого дебютанта сборной России до Пиняева?",
+    "description": "Начал в 18 лет и 20 дней.",
+    "fullText": "Начал в 18 лет и 20 дней.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/ce/fd0708bb54a269bfd2c9af6ab7edb.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3348661.html",
-    "time": "2026-04-24T16:33:00.000Z"
+    "url": "https://www.sports.ru/special/hot-or-haaland?utm_source=native",
+    "time": "2026-04-24T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5016782-microsoft-predstavila-novyy-logotip-xbox?from=rss",
     "time": "2026-04-24T08:44:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
