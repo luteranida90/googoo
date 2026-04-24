@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Горячева: ставки по ипотеке в РФ могут снизиться до 14% к концу года",
-    "description": "По словам коммерческого директора компании \"Эволюция\", механика влияния на рынок носит последовательный характер",
-    "fullText": "По словам коммерческого директора компании \"Эволюция\", механика влияния на рынок носит последовательный характер",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Минтранс: российские самолеты должны быть конкурентоспособны в мире",
+    "description": "Министр транспорта РФ Андрей Никитин отметил, что нельзя рассчитывать только на внутренний рынок и субсидирование программ",
+    "fullText": "Министр транспорта РФ Андрей Никитин отметил, что нельзя рассчитывать только на внутренний рынок и субсидирование программ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260424/9000669.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/27210929",
-    "time": "2026-04-24T10:39:43.000Z"
+    "url": "https://tass.ru/ekonomika/27211573",
+    "time": "2026-04-24T11:34:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,6 +22,17 @@
     "time": "2026-04-24T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Я частенько ругаюсь на Рашевского – очень сильно бросает». Никита Серебряков и его рейтинг игроков КХЛ",
+    "description": "Перед полуфиналом с «Локо».",
+    "fullText": "Перед полуфиналом с «Локо».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fa/2ca2012894ea0bc65820e12115404.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3396863.html",
+    "time": "2026-04-24T07:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "«Зенит навсегда» – столетняя история петербуржцев в документальном сериале Спортса’’",
     "description": "Уже доступен на PREMIER и RUTUBE.",
@@ -33,36 +44,14 @@
     "time": "2026-04-24T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Самые безумные теории заговора в футболе. Рейтинг «Мяч Production» на ВидеоСпортсе’‘",
-    "description": "Изучаем главные.",
-    "fullText": "Изучаем главные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/36/a898568bb460393d6450bc882fd20.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/66LtXnv0o9LQCtaj0Xh7AgvnNJetoSQKwQSNGhT2g0I",
-    "time": "2026-04-24T06:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ризван Уциев – футбол, война, 21 год в «Ахмате»",
-    "description": "Поговорил Артем Терентьев.",
-    "fullText": "Поговорил Артем Терентьев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/24/7e7cbd1c64f5a9d690759ec2ceb80.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3399890.html",
-    "time": "2026-04-24T06:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел Kiln — онлайн-экшен о боях гончарных изделий, который разработала студия Double Fine",
-    "description": "«Игра для тех, кто любит и творить, и разрушать».",
-    "fullText": "«Игра для тех, кто любит и творить, и разрушать».",
-    "image": "https://leonardo.osnova.io/b8008efd-e0ea-5c1f-84cd-e714e0c0e1d6/-/format/mp4/",
+    "title": "Ubisoft представила ремейк Assassin’s Creed IV Black Flag — игра выйдет 9 июля",
+    "description": "Первый геймплей и детали.",
+    "fullText": "Первый геймплей и детали.",
+    "image": "https://leonardo.osnova.io/88c94521-1dbc-505c-9080-71d15c125f68/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5015882-kiln-onlajn-ekshen-ot-double-fine-o-boyah-goncharnyh-izdelij?from=rss",
-    "time": "2026-04-23T18:42:20.000Z"
+    "url": "https://dtf.ru/games/4526372-ubisoft-prezentovala-remejk-assassins-creed-iv-black-flag?from=rss",
+    "time": "2026-04-23T16:16:07.000Z"
   }
 ]
