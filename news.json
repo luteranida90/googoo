@@ -1,35 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Ищем дизайнера спецпроектов – делать визуально сильные и удобные решения",
+    "description": "Приходите работать в Сирену!",
+    "fullText": "Приходите работать в Сирену!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/15/064b16f2a4a1b95c0b12bc3d51c6f.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/kx4k35",
+    "time": "2026-04-25T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Днепропетровске горит резервуар с топливом",
-    "description": "Официальных комментариев пока не поступало",
-    "fullText": "Официальных комментариев пока не поступало",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Мамиашвили убежден, что российским борцам вернут флаг страны к чемпионату мира",
+    "description": "С февраля 2025 года россияне выступают на взрослых турнирах под флагом Объединенного мира борьбы (UWW)",
+    "fullText": "С февраля 2025 года россияне выступают на взрослых турнирах под флагом Объединенного мира борьбы (UWW)",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260425/9002707.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27220205",
-    "time": "2026-04-25T10:11:43.000Z"
+    "url": "https://tass.ru/sport/27220449",
+    "time": "2026-04-25T11:04:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Металлург» – «Ак Барс»: смотрим матч плей-офф на ВидеоСпортсе’’",
+    "description": "Прямая трансляция Fonbet КХЛ.",
+    "fullText": "Прямая трансляция Fonbet КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/ce/b95332afd475db870eab34c9cc233.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/stream/6a4HL2hZPWCLGk7MXKJ-n7Mg2k7l4h_2ifZq8EIN1dY",
+    "time": "2026-04-25T11:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Олимпийская чемпионка создала себе ИИ-тренера. И стала еще сильнее!",
-    "description": "Будущее наступило.",
-    "fullText": "Будущее наступило.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/cb/5c4041a774105b63b870101e92025.jpeg",
+    "title": "🤯 Фуражка милиционера помешала посмотреть ВАР – абсурд на старте Медиалиги в Абхазии",
+    "description": "«Амкал» в шоке.",
+    "fullText": "«Амкал» в шоке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/c5/2bd4dfd284fd2a1984b784e628f34.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/cycle-racing/blogs/3400114.html",
-    "time": "2026-04-25T06:42:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3400287.html",
+    "time": "2026-04-25T07:51:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Clair Obscur: Expedition 33 составили восемь миллионов копий — для RPG также выпустили патч с новыми причёсками",
-    "description": "Французской игре исполнился один год.",
-    "fullText": "Французской игре исполнился один год.",
-    "image": "https://leonardo.osnova.io/71a81b85-a899-5baf-8e59-b1152a510095/",
+    "title": "Байопик о Майкле Джексоне показал лучший старт года по итогам предпоказов в Северной Америке",
+    "description": "Лента обошла по сборам «Проект „Конец света“» и «Крик 7».",
+    "fullText": "Лента обошла по сборам «Проект „Конец света“» и «Крик 7».",
+    "image": "https://leonardo.osnova.io/d6488fa8-d618-5b85-a62d-e6209c705d77/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5017379-prodazhi-clair-obscur-expedition-33?from=rss",
-    "time": "2026-04-24T13:30:48.000Z"
+    "url": "https://dtf.ru/cinema/5017765-bajopik-o-maikle-dzheksone?from=rss",
+    "time": "2026-04-24T16:54:41.000Z"
   }
 ]
