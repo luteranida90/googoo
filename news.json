@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Русский из «Тампы» – вспомните кого-то кроме Василевского?",
-    "description": "Оригинальность приветствуется.",
-    "fullText": "Оригинальность приветствуется.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/e6/ba627b3884bf0bd269d1a2c41b9b4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/3x3-hockey/?utm_source=native",
-    "time": "2026-04-26T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Де Йонг – лидер среди голландцев по матчам за «Барселону». А вспомните всех в клубе?",
-    "description": "22 футболиста – 19 фамилий!",
-    "fullText": "22 футболиста – 19 фамилий!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/df/9202d96fa43eab4173c84ba1ad884.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3399947.html",
-    "time": "2026-04-26T10:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Инсайдер назвал список из 58 игр, которые войдут в «стартовый» уровень подписки Xbox Game Pass",
-    "description": "Тариф, вероятно, станет доступен в мае.",
-    "fullText": "Тариф, вероятно, станет доступен в мае.",
-    "image": "https://leonardo.osnova.io/064cda5e-c31c-5db2-914c-4645b637538a/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5018082-spisok-igr-dlya-podpiski-xbox-game-pass-starter-edition?from=rss",
-    "time": "2026-04-24T19:44:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "Эстонский патрульный катер из-за технической неисправности вынесло в российские воды",
+    "description": "Экипажу удалось вернуть судно обратно в эстонские воды",
+    "fullText": "Экипажу удалось вернуть судно обратно в эстонские воды",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27225711",
+    "time": "2026-04-26T17:20:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Нам нужен тот, кто доведет самые крутые спецпроекты от идеи до релиза",
+    "description": "Ждем вас в Сирене!",
+    "fullText": "Ждем вас в Сирене!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/e8/ca85b80644622bf35e5c756154d24.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/ylp5b5",
+    "time": "2026-04-26T16:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "32% читателей Спортса’’ знают, как пишется название этого клуба. Вы справитесь?",
+    "description": "Легче просто «волки».",
+    "fullText": "Легче просто «волки».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/dc/ba83e2ac34ac6b4d1e9c82e7bceef.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/diktant-2026/?utm_source=native",
+    "time": "2026-04-26T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Меньян – герой сезона. Но что это говорит о «Милане»?",
+    "description": "Шикарный сезон Мэджик Майка.",
+    "fullText": "Шикарный сезон Мэджик Майка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/95/75a349753483ebd8c33093dca5902.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3400482.html",
+    "time": "2026-04-26T13:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Следующую «Мумию» с Бренданом Фрейзером перенесли на октябрь 2027 года",
+    "description": "Фильм выйдет на полгода раньше.",
+    "fullText": "Фильм выйдет на полгода раньше.",
+    "image": "https://leonardo.osnova.io/3903faaf-bdb6-5da7-86f2-501f3f8359e6/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5018835-novaya-mumiya-s-brendanom-freyzerom-perenesenna-na-osenn?from=rss",
+    "time": "2026-04-25T08:06:28.000Z"
   }
 ]
