@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Tasnim: Арагчи направляется в Исламабад",
-    "description": "По информации агентства, глава МИД Ирана завершил свой визит в Маскат",
-    "fullText": "По информации агентства, глава МИД Ирана завершил свой визит в Маскат",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27225729",
-    "time": "2026-04-26T13:30:34.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Русский из «Тампы» – вспомните кого-то кроме Василевского?",
     "description": "Оригинальность приветствуется.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ренн» – главная академия Франции",
-    "description": "Рассказ Игоря Сергеева.",
-    "fullText": "Рассказ Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/d6/a95b3ac204b44895193a8b84c6439.png",
+    "title": "Де Йонг – лидер среди голландцев по матчам за «Барселону». А вспомните всех в клубе?",
+    "description": "22 футболиста – 19 фамилий!",
+    "fullText": "22 футболиста – 19 фамилий!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/df/9202d96fa43eab4173c84ba1ad884.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400043.html",
-    "time": "2026-04-26T10:52:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3399947.html",
+    "time": "2026-04-26T10:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5018082-spisok-igr-dlya-podpiski-xbox-game-pass-starter-edition?from=rss",
     "time": "2026-04-24T19:44:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
