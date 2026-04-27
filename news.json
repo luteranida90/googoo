@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Полтавской области сотрудников СБУ задержали за вымогательство",
-    "description": "По данным следствия, чиновники через посредника требовали от предпринимателя 110 тыс. гривен за соглашение о признании вины и прекращении уголовного преследования его компании",
-    "fullText": "По данным следствия, чиновники через посредника требовали от предпринимателя 110 тыс. гривен за соглашение о признании вины и прекращении уголовного преследования его компании",
+    "title": "Беглов отметил высокое признание таланта петербургских спортсменов",
+    "description": "По словам главы Петербурга, развитие дзюдо остается приоритетом городского правительства",
+    "fullText": "По словам главы Петербурга, развитие дзюдо остается приоритетом городского правительства",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27237455",
-    "time": "2026-04-27T16:57:25.000Z"
+    "url": "https://tass.ru/sport/27237821",
+    "time": "2026-04-27T18:18:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Стратегия Battlestar Galactica: Scattered Hopes выйдет 11 мая",
+    "description": "Игрокам предстоит спасать свой флот от угрозы сайлонов.",
+    "fullText": "Игрокам предстоит спасать свой флот от угрозы сайлонов.",
+    "image": "https://leonardo.osnova.io/ef25213e-e6c8-5304-b9ca-ea4e5d4e08c4/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5023351-strategiya-battlestar-galactica-scattered-hopes-dlya-pk?from=rss",
+    "time": "2026-04-27T16:13:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Судейский мегаскандал в Италии: «Интер» могут отправить в Серию Б",
-    "description": "Главное о расследовании.",
-    "fullText": "Главное о расследовании.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0c/63ae91a8e4a62bbbe8a78f6796463.jpeg",
+    "title": "В какой форме играет «Арсенал»?",
+    "description": "Определите подделку.",
+    "fullText": "Определите подделку.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/65/b14029bfe460bb7154a34c8b44288.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400545.html",
-    "time": "2026-04-27T12:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сценарист Black Flag написал для ремейка две новые сцены и изменил существующую",
-    "description": "Одна из них теперь входит в его топ-5 моментов из игры.",
-    "fullText": "Одна из них теперь входит в его топ-5 моментов из игры.",
-    "image": "https://leonardo.osnova.io/0003c186-d899-5fc2-bdaf-faabfd3352c9/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5022892-stsenarist-assassins-creed-black-flag-novye-stseny-remeyka?from=rss",
-    "time": "2026-04-27T12:30:41.000Z"
+    "url": "https://www.sports.ru/specials/ucl-kits/?utm_source=native",
+    "time": "2026-04-27T14:05:00.000Z"
   }
 ]
