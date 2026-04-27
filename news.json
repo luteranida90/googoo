@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Беглов отметил высокое признание таланта петербургских спортсменов",
-    "description": "По словам главы Петербурга, развитие дзюдо остается приоритетом городского правительства",
-    "fullText": "По словам главы Петербурга, развитие дзюдо остается приоритетом городского правительства",
+    "title": "В Москве у Савеловского вокзала появится новый городской квартал",
+    "description": "Также запланированы строительство и реконструкция прилегающей улично-дорожной сети - свыше 3 км дорог",
+    "fullText": "Также запланированы строительство и реконструкция прилегающей улично-дорожной сети - свыше 3 км дорог",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27237821",
-    "time": "2026-04-27T18:18:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стратегия Battlestar Galactica: Scattered Hopes выйдет 11 мая",
-    "description": "Игрокам предстоит спасать свой флот от угрозы сайлонов.",
-    "fullText": "Игрокам предстоит спасать свой флот от угрозы сайлонов.",
-    "image": "https://leonardo.osnova.io/ef25213e-e6c8-5304-b9ca-ea4e5d4e08c4/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5023351-strategiya-battlestar-galactica-scattered-hopes-dlya-pk?from=rss",
-    "time": "2026-04-27T16:13:20.000Z"
+    "url": "https://tass.ru/obschestvo/27238145",
+    "time": "2026-04-27T19:40:23.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В какой форме играет «Арсенал»?",
-    "description": "Определите подделку.",
-    "fullText": "Определите подделку.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/65/b14029bfe460bb7154a34c8b44288.png",
+    "title": "Дегтярев говорит, что клубы мало тратят на детский футбол, а государство – много. Проверяем!",
+    "description": "Подсчеты Игоря Сергеева.",
+    "fullText": "Подсчеты Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e9/a6b658fe04396bb0b2d46c899fbad.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/ucl-kits/?utm_source=native",
-    "time": "2026-04-27T14:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3400833.html",
+    "time": "2026-04-27T15:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Люди воспринимают всё слишком серьёзно»: Питер Капальди о критике последних исполнителей роли Доктора Кто",
+    "description": "По мнению актёра, шоу стало «чересчур масштабным».",
+    "fullText": "По мнению актёра, шоу стало «чересчур масштабным».",
+    "image": "https://leonardo.osnova.io/53a7536e-cb60-5fec-89e5-d9711b795a40/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5023187-piter-kapaldi-o-syraile-doktor-kto-i-kritike-novykh-ispolniteley?from=rss",
+    "time": "2026-04-27T15:10:28.000Z"
   }
 ]
