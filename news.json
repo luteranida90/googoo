@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Екатеринбурге жильцы поврежденных БПЛА квартир получат 15 тыс. рублей помощи",
-    "description": "Также можно получить компенсацию за потерю имущества",
-    "fullText": "Также можно получить компенсацию за потерю имущества",
+    "title": "В Полтавской области сотрудников СБУ задержали за вымогательство",
+    "description": "По данным следствия, чиновники через посредника требовали от предпринимателя 110 тыс. гривен за соглашение о признании вины и прекращении уголовного преследования его компании",
+    "fullText": "По данным следствия, чиновники через посредника требовали от предпринимателя 110 тыс. гривен за соглашение о признании вины и прекращении уголовного преследования его компании",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27236627",
-    "time": "2026-04-27T15:22:34.000Z"
+    "url": "https://tass.ru/proisshestviya/27237455",
+    "time": "2026-04-27T16:57:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Самый спорный гол в истории. Как взмах флажка решил все?",
+    "description": "Яркий эпизод.",
+    "fullText": "Яркий эпизод.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/48/6e9c5a6bd43eca75eedb01ea11df5.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/hxriq9",
+    "time": "2026-04-27T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ищем лучший пост на Трибуне",
-    "description": "Напишите его – и выиграйте 100 тысяч рублей!",
-    "fullText": "Напишите его – и выиграйте 100 тысяч рублей!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c7/c0ffcea8f4e23883baaf356cf3718.png",
+    "title": "Судейский мегаскандал в Италии: «Интер» могут отправить в Серию Б",
+    "description": "Главное о расследовании.",
+    "fullText": "Главное о расследовании.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0c/63ae91a8e4a62bbbe8a78f6796463.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400171.html",
-    "time": "2026-04-27T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3400545.html",
+    "time": "2026-04-27T12:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Инсайдер: EA Sports UFC 6 выйдет на ПК — впервые в серии",
-    "description": "На консолях релиз должен состояться 19 июня.",
-    "fullText": "На консолях релиз должен состояться 19 июня.",
-    "image": "https://leonardo.osnova.io/4ad9f9e5-0825-5eb9-826a-791bbb574ddb/",
+    "title": "Сценарист Black Flag написал для ремейка две новые сцены и изменил существующую",
+    "description": "Одна из них теперь входит в его топ-5 моментов из игры.",
+    "fullText": "Одна из них теперь входит в его топ-5 моментов из игры.",
+    "image": "https://leonardo.osnova.io/0003c186-d899-5fc2-bdaf-faabfd3352c9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5022639-ea-sports-ufc-6-na-pk-vpervye-v-istorii-serii?from=rss",
-    "time": "2026-04-27T10:17:36.000Z"
+    "url": "https://dtf.ru/games/5022892-stsenarist-assassins-creed-black-flag-novye-stseny-remeyka?from=rss",
+    "time": "2026-04-27T12:30:41.000Z"
   }
 ]
