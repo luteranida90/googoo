@@ -1,18 +1,29 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Белогорьев назвал условие для продолжения соглашения ОПЕК+",
-    "description": "По словам директора по исследованиям Института энергетики и финансов, оно сохранится за счет негласного партнерства Саудовской Аравии и России",
-    "fullText": "По словам директора по исследованиям Института энергетики и финансов, оно сохранится за счет негласного партнерства Саудовской Аравии и России",
+    "title": "В ГД предложили сохранить соцпомощь на дому для инвалидов после 18 лет",
+    "description": "Детям соцобслуживание предоставляется бесплатно, однако после совершеннолетия условия меняются",
+    "fullText": "Детям соцобслуживание предоставляется бесплатно, однако после совершеннолетия условия меняются",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27249909",
-    "time": "2026-04-28T14:51:02.000Z"
+    "url": "https://tass.ru/obschestvo/27250973",
+    "time": "2026-04-28T16:44:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«ПСЖ» vs «Бавария» – в кого верите на этот раз? Ставьте на ЛЧ с фрибетом",
+    "description": "До 15 000 рублей от FONBET.",
+    "fullText": "До 15 000 рублей от FONBET.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/83/bb8e24b6642f2b7dc549e8fe8501d.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/oz8t07",
+    "time": "2026-04-28T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Разбор супербитвы «Баварии» и «ПСЖ»: чем могут наказать друг друга? Разбор на ВидеоСпортсе’‘",
+    "title": "Разбор супербитвы «Баварии» и «ПСЖ»: чем могут наказать друг друга? На ВидеоСпортсе’‘",
     "description": "От «Баварского акцента».",
     "fullText": "От «Баварского акцента».",
     "image": "https://photobooth.cdn.sports.ru/preset/article/4/1e/10518526146cda008961d754ebd67.jpeg",
@@ -22,25 +33,25 @@
     "time": "2026-04-28T14:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Guild Wars Reforged выпустят на iOS и Android",
-    "description": "Запуск игры на мобильных устройствах состоится летом.",
-    "fullText": "Запуск игры на мобильных устройствах состоится летом.",
-    "image": "https://leonardo.osnova.io/8cba75be-a92f-5d45-a607-c3ca7e68ffaf/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/mobile/5025166-guild-wars-reforged-na-ios-i-android?from=rss",
-    "time": "2026-04-28T14:00:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура АПЛ: кто в огне на финише сезона?",
-    "description": "Люди в лучшей форме.",
-    "fullText": "Люди в лучшей форме.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/ef/5104a0ebb4564bbde990125d57c6a.jpeg",
+    "title": "Фьоре – удивительный легионер «Авангарда»! Полюбил борщ и баню, хочет получить российский паспорт",
+    "description": "Приключение итальянца в России.",
+    "fullText": "Приключение итальянца в России.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/35/71c5f9750478d804a6d25fac7d883.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400668.html",
-    "time": "2026-04-28T10:40:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3400548.html",
+    "time": "2026-04-28T12:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "ARC Raiders получила крупное обновление с прибрежной картой",
+    "description": "В extraction-шутер добавили временное событие и проект с наградами.",
+    "fullText": "В extraction-шутер добавили временное событие и проект с наградами.",
+    "image": "https://leonardo.osnova.io/dcb82276-599e-59c8-bb56-ff4e613ec7b1/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5024709-arc-raiders-obnovlenie-pribrezhnaya-karta?from=rss",
+    "time": "2026-04-28T10:46:24.000Z"
   }
 ]
