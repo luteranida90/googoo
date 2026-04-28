@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В поврежденной при ударе ВСУ Марковской гимназии в ЛНР приостановили учебный процесс",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27247541",
+    "time": "2026-04-28T12:11:42.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Всего 8 вратарей брали Кубок Стэнли несколько раз. Вспомните всех?",
     "description": "В хоккейном Три на три.",
@@ -11,47 +22,25 @@
     "time": "2026-04-28T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
-    "description": "Топ-уровень в Невидимке.",
-    "fullText": "Топ-уровень в Невидимке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-04-28T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Странное чувство: вместе с человеком идешь к его смерти». Уткин глазами близкого друга и автора книги о нем",
-    "description": "Кораблев поговорил со Станиславом Гридасовым.",
-    "fullText": "Кораблев поговорил со Станиславом Гридасовым.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c7/b0ba831d84362b615d6f0d5684807.jpeg",
+    "title": "Тедеско уволен после 0:3 от «Галатасарая». Хотя выдал лучшую серию в истории «Фенербахче»",
+    "description": "После Моуринью не стало лучше.",
+    "fullText": "После Моуринью не стало лучше.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/af/b2255ed05463f8baa741b4c4f5431.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400531.html",
-    "time": "2026-04-28T06:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3400992.html",
+    "time": "2026-04-28T07:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Valve подтвердила, что «усердно работает» над Steam Deck 2",
-    "description": "Но выхода устройства, судя по всему, придётся подождать.",
-    "fullText": "Но выхода устройства, судя по всему, придётся подождать.",
-    "image": "https://leonardo.osnova.io/3a149c33-dcf4-59a7-a1d8-f0dccc563d3a/",
+    "title": "Вышло дополнение Diablo IV: Lord of Hatred",
+    "description": "Журналисты им очень довольны — оценка на агрегаторах составила 84 балла из 100.",
+    "fullText": "Журналисты им очень довольны — оценка на агрегаторах составила 84 балла из 100.",
+    "image": "https://leonardo.osnova.io/78cb918d-dcfe-5947-ad8a-9adbf67dd0f2/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5023563-valve-rabotayet-nad-steam-deck-2?from=rss",
-    "time": "2026-04-27T17:41:01.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/5022901-dopolnenie-diablo-iv-lord-of-hatred?from=rss",
+    "time": "2026-04-27T23:12:35.000Z"
   }
 ]
