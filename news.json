@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Аль-Наср\" обыграл \"Аль-Ахли\" благодаря 970-му голу Роналду в карьере",
-    "description": "Португальский нападающий является лучшим бомбардиром в истории футбола",
-    "fullText": "Португальский нападающий является лучшим бомбардиром в истории футбола",
+    "title": "ГОСТ на клининговые услуги по уходу за коврами и шторами вступил в силу",
+    "description": "Документ устанавливает требования к уходу и чистке различных видов текстильных изделий в интерьере",
+    "fullText": "Документ устанавливает требования к уходу и чистке различных видов текстильных изделий в интерьере",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27266613",
-    "time": "2026-04-29T20:10:46.000Z"
+    "url": "https://tass.ru/ekonomika/27266987",
+    "time": "2026-04-29T21:15:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мудрика забанили на 4 года за допинг. Что дальше в мельдониевом деле?",
+    "description": "Уже подали апелляцию.",
+    "fullText": "Уже подали апелляцию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/22/c11564d6f4b3e844fff79fb52f29c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3401406.html",
+    "time": "2026-04-29T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2026-04-29T17:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Ак Барс» уверенно обыграл «Металлург». Показывали на ВидеоСпортсе’’",
-    "description": "4:1!",
-    "fullText": "4:1!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/9f/2fd30fa734fdcbff2eab3a3c53d37.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/ebYTD7cQctgi3nrbLFxT2qSgaT6GW-UVMkqk4R1G97c",
-    "time": "2026-04-29T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Обращаться в полицию из-за драки не по-мужски». Интервью нашего боксера, которого после победы в Турции избила толпа",
-    "description": "История Сергея Горохова.",
-    "fullText": "История Сергея Горохова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/07/22ca15311443bb32a66a06bacc396.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3401316.html",
-    "time": "2026-04-29T15:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Карту Cache вернули в ротацию Counter-Strike 2 — после семи лет отсутствия",
-    "description": "Локацию значительно переработали под Source 2.",
-    "fullText": "Локацию значительно переработали под Source 2.",
-    "image": "https://leonardo.osnova.io/66aa146e-43e1-5f1f-9685-36320ce09a69/",
+    "title": "Valve рассматривала ассиметричные стики для Steam Deck — контроллер уже делали по аналогии с портативным ПК",
+    "description": "Удобство геймпада PlayStation убедило компанию.",
+    "fullText": "Удобство геймпада PlayStation убедило компанию.",
+    "image": "https://leonardo.osnova.io/3c1521a0-b02b-5487-9a49-9bdaa9f7a229/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5026820-karta-cache-vernulas-v-counter-strike-2?from=rss",
-    "time": "2026-04-29T10:39:53.000Z"
+    "url": "https://dtf.ru/hard/5027040-valve-rassmatrivala-assimetrichnye-stiki-dlya-steam-deck?from=rss",
+    "time": "2026-04-29T12:22:12.000Z"
   }
 ]
