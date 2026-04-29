@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Axios: Трамп обсудил с главами нефтегазовых компаний конфликт с Ираном",
-    "description": "По данным портала, среди глав корпораций был руководитель Chevron Майкл Уиртс",
-    "fullText": "По данным портала, среди глав корпораций был руководитель Chevron Майкл Уиртс",
+    "title": "На Ставрополье стоимость комплекса по выращиванию бананов составит 3 млрд рублей",
+    "description": "Его площадь составит 45 га",
+    "fullText": "Его площадь составит 45 га",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27259143",
-    "time": "2026-04-29T10:13:25.000Z"
+    "url": "https://tass.ru/ekonomika/27260353",
+    "time": "2026-04-29T11:47:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Это плевок в спорт». Топ-стример открыл матч РПЛ – хайп не оценили",
+    "description": "Что ответили в «Рубине»?",
+    "fullText": "Что ответили в «Рубине»?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/5c/06f640233492abee1c72a2309325c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3401051.html",
+    "time": "2026-04-29T10:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В ЛЧ лишь 7 проходов после поражения в первом полуфинале. У «Баварии» получится?",
-    "description": "Неутешительная статистика.",
-    "fullText": "Неутешительная статистика.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c2/77a16b9a04fd4a8031028b0cd50ce.jpeg",
+    "title": "10+5 Хвичи – рекорд «ПСЖ» в ЛЧ. Обошел Дембеле в сезон «Золотого мяча»",
+    "description": "У грузина дубль «Баварии».",
+    "fullText": "У грузина дубль «Баварии».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/61/2002dd9b149d1ad7bba53c84ed639.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3401112.html",
-    "time": "2026-04-29T06:33:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3401222.html",
+    "time": "2026-04-29T08:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Nacon собирается закрыть студию Spiders, известную по GreedFall",
-    "description": "Издатель не смог найти покупателя.",
-    "fullText": "Издатель не смог найти покупателя.",
-    "image": "https://leonardo.osnova.io/242aeac2-6f9d-5bba-a2ab-01c521af3e7d/",
+    "title": "Булзай на коне, Джесси против Лилипад и новые персонажи: кадры «Истории игрушек 5»",
+    "description": "Мультфильм выйдет в прокат 19 июня.",
+    "fullText": "Мультфильм выйдет в прокат 19 июня.",
+    "image": "https://leonardo.osnova.io/7ffa9725-9a83-5d96-b144-01a0b07addbc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5025307-zakrytie-studii-spiders-ot-nacon?from=rss",
-    "time": "2026-04-28T15:04:10.000Z"
+    "url": "https://dtf.ru/cinema/5025571-novye-personazhi-i-syuzhet-istorii-igroek-5?from=rss",
+    "time": "2026-04-28T17:12:41.000Z"
   }
 ]
