@@ -1,35 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Названа возможная причина обрушения на угольном разрезе на Колыме",
-    "description": "Оно могло произойти из-за оттайки вечной мерзлоты",
-    "fullText": "Оно могло произойти из-за оттайки вечной мерзлоты",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Угадаете победителей всех матчей нового тура АПЛ? Проверьте интуицию",
+    "description": "Вызов в Пикере Спортса’’.",
+    "fullText": "Вызов в Пикере Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/e8/72f38db834af8b5db2aecc10fa86c.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27280159",
-    "time": "2026-04-30T18:42:29.000Z"
+    "url": "https://m.sports.ru/picker/epl/?utm_source=native",
+    "time": "2026-05-01T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В CS добавили отсылку к ЧМ-90. Когда сборная СССР провалилась, а Марадона снова сыграл рукой",
+    "description": "Посмотрите – игру не узнать!",
+    "fullText": "Посмотрите – игру не узнать!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/d5/39ea1836b48c3922994e24312d505.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3401303.html",
+    "time": "2026-05-01T19:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Смертин тренировал голову, чтобы дойти до суточного забега?",
-    "description": "Разминка перед 24-часовым стартом.",
-    "fullText": "Разминка перед 24-часовым стартом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/41/96b1675354f6991d6ccc93abee952.jpeg",
+    "title": "«400 тысяч в месяц – и ребенок будет игроком топ-100». Наш пользователь растит теннисного профи",
+    "description": "Интервью.",
+    "fullText": "Интервью.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/9e/0c7a9b3264ef0b7dcd8dc100a9af4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3401516.html",
-    "time": "2026-04-30T14:30:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3400775.html",
+    "time": "2026-05-01T17:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В России вступил в силу запрет на вывоз золотых слитков свыше 100 г",
+    "description": "В порядке исключения вывоз драгметалла разрешен в страны ЕАЭС через воздушные пункты пропуска в аэропортах Внуково, Шереметьево, Домодедово и Кневичи, вывоз физлицами в государства, не являющиеся странами ЕАЭС, через те же аэропорты",
+    "fullText": "В порядке исключения вывоз драгметалла разрешен в страны ЕАЭС через воздушные пункты пропуска в аэропортах Внуково, Шереметьево, Домодедово и Кневичи, вывоз физлицами в государства, не являющиеся странами ЕАЭС, через те же аэропорты",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27280935",
+    "time": "2026-04-30T21:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom вырезала одну из глав Resident Evil Requiem в ходе разработки",
-    "description": "В рамках «строгого процесса отбора».",
-    "fullText": "В рамках «строгого процесса отбора».",
-    "image": "https://leonardo.osnova.io/2bda4c6c-c4bf-531e-9382-6babe29dc8ad/",
+    "title": "В Epic Games Store стартовала повторная раздача Hogwarts Legacy",
+    "description": "Игра недоступна в российском регионе магазина.",
+    "fullText": "Игра недоступна в российском регионе магазина.",
+    "image": "https://leonardo.osnova.io/19c53cb0-9c19-5883-a90c-c1d086941b3d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5029037-capcom-vyrezala-glavu-iz-resident-evil-requiem?from=rss",
-    "time": "2026-04-30T11:25:47.000Z"
+    "url": "https://dtf.ru/games/5029755-razdacha-hogwarts-legacy-v-epic-games-store?from=rss",
+    "time": "2026-04-30T16:45:05.000Z"
   }
 ]
