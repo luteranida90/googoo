@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Туапсе начали оборудовать дренажную систему на потушенном НПЗ",
-    "description": "",
-    "fullText": "",
+    "title": "Эксперт Виноградов назвал экономическое развитие Дагестана главной задачей нового главы",
+    "description": "Президент фонда \"Петербургская политика\" отметил, что, несмотря на серьезные вызовы, Сергей Меликов смог избежать экстренных негативных ситуаций в республике",
+    "fullText": "Президент фонда \"Петербургская политика\" отметил, что, несмотря на серьезные вызовы, Сергей Меликов смог избежать экстренных негативных ситуаций в республике",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27277847",
-    "time": "2026-04-30T14:15:51.000Z"
+    "url": "https://tass.ru/obschestvo/27279033",
+    "time": "2026-04-30T16:02:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "LEGO Batman: Legacy of the Dark Knight ушла «на золото»",
+    "description": "Основной этап разработки завершен.",
+    "fullText": "Основной этап разработки завершен.",
+    "image": "https://leonardo.osnova.io/15ec02d5-9ed3-5709-bfc3-47dd6ceb3be5/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5029548-lego-batman-nasledie-temnogo-rytsarya-zavershila-razrabotku?from=rss",
+    "time": "2026-04-30T15:13:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "10 худших титульных боев в истории UFC",
+    "description": "Одного бойца вспомнили трижды.",
+    "fullText": "Одного бойца вспомнили трижды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/74/6e0e6158f4030898dae5e9c01c91b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3401302.html",
+    "time": "2026-04-30T12:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://video.sports.ru/video/Wdo4SMyn5H4H1bEGDWBonxAGbGaW5TZ2vnfoaF9CQts",
     "time": "2026-04-30T12:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Английские фавориты, сенсационный «Фрайбург» и крепкий «Шахтер». Кто пройдет в финалы ЛК и ЛЕ",
-    "description": "Развязка уже близко.",
-    "fullText": "Развязка уже близко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/b4/4e52c52774889b731634bdccd0021.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3401333.html",
-    "time": "2026-04-30T11:17:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывший глава ZeniMax Online считает отменённую MMO «упущенной возможностью», но понимает, что она была «слишком большим риском»",
-    "description": "Разработчик назвал ситуацию примером того, как развлекательный бизнес не всегда вяжется с корпоративными стратегями.",
-    "fullText": "Разработчик назвал ситуацию примером того, как развлекательный бизнес не всегда вяжется с корпоративными стратегями.",
-    "image": "https://leonardo.osnova.io/e5e5e7f4-cf86-5618-8f33-94e71e8bf1b1/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5028961-otmena-mmo-blackbird-zenimax-online?from=rss",
-    "time": "2026-04-30T10:18:56.000Z"
   }
 ]
