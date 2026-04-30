@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Виноградов назвал экономическое развитие Дагестана главной задачей нового главы",
-    "description": "Президент фонда \"Петербургская политика\" отметил, что, несмотря на серьезные вызовы, Сергей Меликов смог избежать экстренных негативных ситуаций в республике",
-    "fullText": "Президент фонда \"Петербургская политика\" отметил, что, несмотря на серьезные вызовы, Сергей Меликов смог избежать экстренных негативных ситуаций в республике",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "На конгрессе ФИФА почтили память Никиты Симоняна",
+    "description": "Также почтили память бывшего главного тренера сборной России Бориса Игнатьева",
+    "fullText": "Также почтили память бывшего главного тренера сборной России Бориса Игнатьева",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260430/9019311.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27279033",
-    "time": "2026-04-30T16:02:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "LEGO Batman: Legacy of the Dark Knight ушла «на золото»",
-    "description": "Основной этап разработки завершен.",
-    "fullText": "Основной этап разработки завершен.",
-    "image": "https://leonardo.osnova.io/15ec02d5-9ed3-5709-bfc3-47dd6ceb3be5/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5029548-lego-batman-nasledie-temnogo-rytsarya-zavershila-razrabotku?from=rss",
-    "time": "2026-04-30T15:13:55.000Z"
+    "url": "https://tass.ru/sport/27279567",
+    "time": "2026-04-30T17:28:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 худших титульных боев в истории UFC",
-    "description": "Одного бойца вспомнили трижды.",
-    "fullText": "Одного бойца вспомнили трижды.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/74/6e0e6158f4030898dae5e9c01c91b.jpeg",
+    "title": "ФИФА обсуждает мировой лимит: игрок до 21 года в старте. Кто сейчас вписывается?",
+    "description": "У «Краснодара» – ноль таких игр.",
+    "fullText": "У «Краснодара» – ноль таких игр.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/8b/616b5bebd4afabca20b415cb0e968.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3401302.html",
-    "time": "2026-04-30T12:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3401428.html",
+    "time": "2026-04-30T13:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Экскурсия на стадион «Кристал Пэлас», дом Теда Лассо. Путешествие в Англию на ВидеоСпортсе’‘",
-    "description": "Вместе с Тимуром Журавелем.",
-    "fullText": "Вместе с Тимуром Журавелем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/41/cba447e0447cb90a5da311db348ab.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/Wdo4SMyn5H4H1bEGDWBonxAGbGaW5TZ2vnfoaF9CQts",
-    "time": "2026-04-30T12:30:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Ubisoft рассказала о возможностях кастомизации интерфейса Assassin&#039;s Creed Black Flag Resynced",
+    "description": "Ремейк сделали так, чтобы важную информацию можно было узнать и без UI — например, по слетающим шляпам противников.",
+    "fullText": "Ремейк сделали так, чтобы важную информацию можно было узнать и без UI — например, по слетающим шляпам противников.",
+    "image": "https://leonardo.osnova.io/c7a7cdef-ed04-533a-817b-d35c4117e079/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5029110-ubisoft-o-kustomizatsii-interfeysa-assassins-creed-black-flag-resynced?from=rss",
+    "time": "2026-04-30T11:45:24.000Z"
   }
 ]
