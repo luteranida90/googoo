@@ -23,25 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«400 тысяч в месяц – и ребенок будет игроком топ-100». Наш пользователь растит теннисного профи",
-    "description": "Интервью.",
-    "fullText": "Интервью.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/9e/0c7a9b3264ef0b7dcd8dc100a9af4.jpeg",
+    "title": "Шансы «Арсенала» с «Сити», стычка «МЮ» – «Ливерпуль». Что будет в туре АПЛ",
+    "description": "Фэнтези-дедлайн – 22:00 в пятницу.",
+    "fullText": "Фэнтези-дедлайн – 22:00 в пятницу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/2d/ec9abf08e41e091012c8806e5019e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3400775.html",
-    "time": "2026-05-01T17:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В России вступил в силу запрет на вывоз золотых слитков свыше 100 г",
-    "description": "В порядке исключения вывоз драгметалла разрешен в страны ЕАЭС через воздушные пункты пропуска в аэропортах Внуково, Шереметьево, Домодедово и Кневичи, вывоз физлицами в государства, не являющиеся странами ЕАЭС, через те же аэропорты",
-    "fullText": "В порядке исключения вывоз драгметалла разрешен в страны ЕАЭС через воздушные пункты пропуска в аэропортах Внуково, Шереметьево, Домодедово и Кневичи, вывоз физлицами в государства, не являющиеся странами ЕАЭС, через те же аэропорты",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27280935",
-    "time": "2026-04-30T21:06:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3401023.html",
+    "time": "2026-05-01T18:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5029755-razdacha-hogwarts-legacy-v-epic-games-store?from=rss",
     "time": "2026-04-30T16:45:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
