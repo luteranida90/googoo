@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Я выступила со стендапом про киберспорт в обычном баре. Что из этого вышло",
+    "description": "Наберите воздуха в грудь!",
+    "fullText": "Наберите воздуха в грудь!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/3b/6240e9c0e4cfc998a30f92119ffe2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3399453.html",
+    "time": "2026-05-01T06:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Молодежное крыло свердловского отделения \"Яблока\" заявило о своей ликвидации",
+    "description": "Председателя регионального отделения партии и члена организации задерживали по подозрению в оправдании терроризма",
+    "fullText": "Председателя регионального отделения партии и члена организации задерживали по подозрению в оправдании терроризма",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27282275",
+    "time": "2026-05-01T05:32:59.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Угадаете победителей всех матчей нового тура АПЛ? Проверьте интуицию",
     "description": "Вызов в Пикере Спортса’’.",
@@ -11,47 +33,25 @@
     "time": "2026-04-30T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "В CS добавили отсылку к ЧМ-90. Когда сборная СССР провалилась, а Марадона снова сыграл рукой",
-    "description": "Посмотрите – игру не узнать!",
-    "fullText": "Посмотрите – игру не узнать!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/d5/39ea1836b48c3922994e24312d505.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3401303.html",
-    "time": "2026-04-30T19:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто самый молодой вратарь сборной России?",
-    "description": "Начал в 18 лет и 20 дней.",
-    "fullText": "Начал в 18 лет и 20 дней.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/19/c93f46a70444e8c9bd778449e8c1f.png",
+    "title": "Величайший матч медиафутбола повторят в Медиалиге: «Амкал» – 2Drots 2 мая",
+    "description": "Спустя 5 лет.",
+    "fullText": "Спустя 5 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/d7/63cabaf21442abe86ac48a7b73a4c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/special/hot-or-haaland?utm_source=native",
-    "time": "2026-04-30T19:00:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3401668.html",
+    "time": "2026-04-30T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Epic Games Store стартовала повторная раздача Hogwarts Legacy",
-    "description": "Игра недоступна в российском регионе магазина.",
-    "fullText": "Игра недоступна в российском регионе магазина.",
-    "image": "https://leonardo.osnova.io/19c53cb0-9c19-5883-a90c-c1d086941b3d/",
+    "title": "Ранний доступ к Subnautica 2 стартует 14 мая",
+    "description": "Цена составит 30 долларов.",
+    "fullText": "Цена составит 30 долларов.",
+    "image": "https://leonardo.osnova.io/c39f7701-35ec-523b-833b-7b7bfc6469a2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5029755-razdacha-hogwarts-legacy-v-epic-games-store?from=rss",
-    "time": "2026-04-30T16:45:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/5029595-ranyj-dostup-k-subnautica-2?from=rss",
+    "time": "2026-04-30T15:30:44.000Z"
   }
 ]
