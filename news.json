@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Трамп заявил, что предпочел бы не возобновлять удары по Ирану",
+    "description": "Президент США отметил, что предпочитает по-человечески не делать этого",
+    "fullText": "Президент США отметил, что предпочитает по-человечески не делать этого",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27285911",
+    "time": "2026-05-01T16:37:24.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "Где бы еще почитать материал от Спортса?",
     "description": "На футболках из нового дропа.",
@@ -34,35 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Эдмонтона» самый смешной топ-защитник в истории – Эван Бушар",
-    "description": "Вы влюбитесь в этого парня.",
-    "fullText": "Вы влюбитесь в этого парня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ee/d082413e34bfdbd8ed4e64340161f.jpeg",
+    "title": "Александр Блокс – не поэт, а прорыв «Мастерса» в Мадриде",
+    "description": "Вышел в 1/2.",
+    "fullText": "Вышел в 1/2.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/92/e3a752e4d4494a55bd74508320b95.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3401652.html",
-    "time": "2026-05-01T11:45:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3401736.html",
+    "time": "2026-05-01T12:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Warhorse не стала пояснять ситуацию с уволенным переводчиком в сессии вопросов и ответов, но пообещала нанять новых",
-    "description": "О следующей игре пока ничего не говорят, но это «иммерсивная RPG».",
-    "fullText": "О следующей игре пока ничего не говорят, но это «иммерсивная RPG».",
-    "image": "https://leonardo.osnova.io/d65ebe7e-9550-5504-93b3-df3d3422c977/",
+    "title": "Релиз адвенчуры Outbound перенесли на три дня вперёд из-за Subnautica 2",
+    "description": "Но не на всех платформах.",
+    "fullText": "Но не на всех платформах.",
+    "image": "https://leonardo.osnova.io/c61790d6-585c-59ff-aae1-bece6f9d7cf5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5030561-warhorse-prokommentirovala-uvolnenie-perevodchika?from=rss",
-    "time": "2026-05-01T06:58:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/5030746-reliz-igry-outbound-perenesli-iz-za-subnautica-2?from=rss",
+    "time": "2026-05-01T08:41:05.000Z"
   }
 ]
