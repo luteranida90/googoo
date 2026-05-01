@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "The Nation: Иран возобновил полеты в Пакистан после двухмесячной паузы",
+    "description": "Первый коммерческий рейс прибыл в Исламабад 30 апреля",
+    "fullText": "Первый коммерческий рейс прибыл в Исламабад 30 апреля",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27284481",
+    "time": "2026-05-01T12:40:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "«Локомотив» при поддержке BetBoom празднует «Год Юбилеев» – проверьте, насколько хорошо вы знаете клуб",
     "description": "И выиграйте призы.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Какой клуб НХЛ играл в красной ретроформе?",
-    "description": "И это не «Вашингтон».",
-    "fullText": "И это не «Вашингтон».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/fd/9f9e9e4c7416daeaad16b24a37981.png",
+    "title": "Тебас уничтожает Ла Лигу? Едва ли",
+    "description": "ФФП в Испании – проблема?",
+    "fullText": "ФФП в Испании – проблема?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/61/dff2b97984f12ad5c7f815d65282f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/retro-jerseys-nhl/?utm_source=native",
-    "time": "2026-05-01T07:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3400686.html",
+    "time": "2026-05-01T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ведущая актриса Intergalactic: «Игра покажет Naughty Dog с другой стороны»",
-    "description": "По её словам, студия «бросила вызов сама себе».",
-    "fullText": "По её словам, студия «бросила вызов сама себе».",
-    "image": "https://leonardo.osnova.io/b4cdfd44-ddb3-5ce8-8bee-29a2c0185e78/",
+    "title": "Студия авторов EVE Online станет независимой",
+    "description": "С 2018 года она принадлежала Pearl Abyss.",
+    "fullText": "С 2018 года она принадлежала Pearl Abyss.",
+    "image": "https://leonardo.osnova.io/0b770d17-ebe4-5a23-9531-218e9d4c1c0f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5029686-aktrisa-intergalactic-o-naughty-dog?from=rss",
-    "time": "2026-04-30T16:22:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/5030091-ccp-games-stanovitsya-nezavisimoj-studiej?from=rss",
+    "time": "2026-04-30T19:31:01.000Z"
   }
 ]
