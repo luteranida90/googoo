@@ -8,7 +8,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://m.sports.ru/picker/epl/?utm_source=native",
-    "time": "2026-05-01T21:30:00.000Z"
+    "time": "2026-04-30T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -19,29 +19,18 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3401303.html",
-    "time": "2026-05-01T19:45:00.000Z"
+    "time": "2026-04-30T19:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Шансы «Арсенала» с «Сити», стычка «МЮ» – «Ливерпуль». Что будет в туре АПЛ",
-    "description": "Фэнтези-дедлайн – 22:00 в пятницу.",
-    "fullText": "Фэнтези-дедлайн – 22:00 в пятницу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/2d/ec9abf08e41e091012c8806e5019e.jpeg",
+    "title": "Кто самый молодой вратарь сборной России?",
+    "description": "Начал в 18 лет и 20 дней.",
+    "fullText": "Начал в 18 лет и 20 дней.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/19/c93f46a70444e8c9bd778449e8c1f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3401023.html",
-    "time": "2026-05-01T18:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мадьяр выдвинул на пост главы Минюста Венгрии своего зятя",
-    "description": "По данным телеканала М1, лидера партии \"Тиса\" обвиняют в кумовстве",
-    "fullText": "По данным телеканала М1, лидера партии \"Тиса\" обвиняют в кумовстве",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27281147",
-    "time": "2026-04-30T22:33:09.000Z"
+    "url": "https://www.sports.ru/special/hot-or-haaland?utm_source=native",
+    "time": "2026-04-30T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5029755-razdacha-hogwarts-legacy-v-epic-games-store?from=rss",
     "time": "2026-04-30T16:45:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
