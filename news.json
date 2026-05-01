@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Песков: Путин решит, будет ли Меликов дорабатывать срок на посту главы Дагестана",
+    "description": "Глава государства ранее анонсировал переход Меликова на новую работу",
+    "fullText": "Глава государства ранее анонсировал переход Меликова на новую работу",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250113/8004249.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27282845",
+    "time": "2026-05-01T08:05:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Я выступила со стендапом про киберспорт в обычном баре. Что из этого вышло",
     "description": "Наберите воздуха в грудь!",
@@ -11,47 +22,25 @@
     "time": "2026-05-01T06:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Молодежное крыло свердловского отделения \"Яблока\" заявило о своей ликвидации",
-    "description": "Председателя регионального отделения партии и члена организации задерживали по подозрению в оправдании терроризма",
-    "fullText": "Председателя регионального отделения партии и члена организации задерживали по подозрению в оправдании терроризма",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/27282275",
-    "time": "2026-05-01T05:32:59.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Угадаете победителей всех матчей нового тура АПЛ? Проверьте интуицию",
-    "description": "Вызов в Пикере Спортса’’.",
-    "fullText": "Вызов в Пикере Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/e8/72f38db834af8b5db2aecc10fa86c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/picker/epl/?utm_source=native",
-    "time": "2026-04-30T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Величайший матч медиафутбола повторят в Медиалиге: «Амкал» – 2Drots 2 мая",
-    "description": "Спустя 5 лет.",
-    "fullText": "Спустя 5 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/d7/63cabaf21442abe86ac48a7b73a4c.png",
+    "title": "Голы в дерби, ЦСКА – «Зенит», новый сухарь «Рубина». Что будет в туре РПЛ: вероятности",
+    "description": "Ждем голы и от «Ахмата».",
+    "fullText": "Ждем голы и от «Ахмата».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/47/ce95929e042448eee48bc55298909.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3401668.html",
-    "time": "2026-04-30T20:10:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3401696.html",
+    "time": "2026-04-30T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ранний доступ к Subnautica 2 стартует 14 мая",
-    "description": "Цена составит 30 долларов.",
-    "fullText": "Цена составит 30 долларов.",
-    "image": "https://leonardo.osnova.io/c39f7701-35ec-523b-833b-7b7bfc6469a2/",
+    "title": "Состоялся релиз Invincible VS — файтинга по «Неуязвимому»",
+    "description": "Критики приняли игру вполне позитивно.",
+    "fullText": "Критики приняли игру вполне позитивно.",
+    "image": "https://leonardo.osnova.io/44fdcb3d-c4c3-552e-97fc-9bf36e5a8c19/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5029595-ranyj-dostup-k-subnautica-2?from=rss",
-    "time": "2026-04-30T15:30:44.000Z"
+    "url": "https://dtf.ru/games/5029520-releiz-invincible-vs-fayting-po-vselennoy-neuyazvimyy?from=rss",
+    "time": "2026-04-30T17:04:26.000Z"
   }
 ]
