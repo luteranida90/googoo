@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "PEC: 27 журналистов убили в мире с начала года",
-    "description": "По информации Press Emblem Campaign, девять человек погибли в Ливане, шесть - в секторе Газа, один журналист был убит в Иране и еще один - в Сирии",
-    "fullText": "По информации Press Emblem Campaign, девять человек погибли в Ливане, шесть - в секторе Газа, один журналист был убит в Иране и еще один - в Сирии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Где бы еще почитать материал от Спортса?",
+    "description": "На футболках из нового дропа.",
+    "fullText": "На футболках из нового дропа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/76/c5bca21be4203a956e0204072ba42.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27285073",
-    "time": "2026-05-01T14:12:34.000Z"
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-01T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,36 +33,36 @@
     "time": "2026-05-01T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "«Локомотив» при поддержке BetBoom празднует «Год Юбилеев» – проверьте, насколько хорошо вы знаете клуб",
-    "description": "И выиграйте призы.",
-    "fullText": "И выиграйте призы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/fc/ce5d3cccb473b89781f03e36a7cb6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-01T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вы когда-нибудь видели такой счет в плей-офф НБА?",
-    "description": "«Никс» сотворили историю.",
-    "fullText": "«Никс» сотворили историю.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/68/113a8f7a241aead98df8daa8bbf82.jpeg",
+    "title": "У «Эдмонтона» самый смешной топ-защитник в истории – Эван Бушар",
+    "description": "Вы влюбитесь в этого парня.",
+    "fullText": "Вы влюбитесь в этого парня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ee/d082413e34bfdbd8ed4e64340161f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3401813.html",
-    "time": "2026-05-01T09:40:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3401652.html",
+    "time": "2026-05-01T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Метроидвания об исследовании мегаполиса City of None от авторов Celeste выйдет в 2027 году — трейлер",
-    "description": "Игроки смогут посетить пять районов города, населённого разными существами.",
-    "fullText": "Игроки смогут посетить пять районов города, населённого разными существами.",
-    "image": "https://leonardo.osnova.io/2d725b99-d4d1-51d4-a59a-b81a04cce6df/-/format/mp4/",
+    "title": "Warhorse не стала пояснять ситуацию с уволенным переводчиком в сессии вопросов и ответов, но пообещала нанять новых",
+    "description": "О следующей игре пока ничего не говорят, но это «иммерсивная RPG».",
+    "fullText": "О следующей игре пока ничего не говорят, но это «иммерсивная RPG».",
+    "image": "https://leonardo.osnova.io/d65ebe7e-9550-5504-93b3-df3d3422c977/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5030118-metroidvaniya-city-of-none-ot-celeste-issledovanie-megapolisa?from=rss",
-    "time": "2026-04-30T20:03:40.000Z"
+    "url": "https://dtf.ru/gameindustry/5030561-warhorse-prokommentirovala-uvolnenie-perevodchika?from=rss",
+    "time": "2026-05-01T06:58:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
