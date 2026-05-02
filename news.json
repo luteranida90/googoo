@@ -1,36 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Рутульском районе Дагестана 14 сел заблокированы из-за обвала",
-    "description": "Работы по расчистке начаты с привлечением одной спецтехники",
-    "fullText": "Работы по расчистке начаты с привлечением одной спецтехники",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27291043",
-    "time": "2026-05-02T17:28:07.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
-    "description": "Топ-уровень в Невидимке.",
-    "fullText": "Топ-уровень в Невидимке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-05-02T16:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 главных молодых бойцов UFC",
-    "description": "Будущие чемпионы?",
-    "fullText": "Будущие чемпионы?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f8/a970588134b21892ab718303d7760.png",
+    "title": "«Филадельфия» перед Играми шла 13-й на Востоке, а теперь во втором раунде. Как так?",
+    "description": "Яркое преображение.",
+    "fullText": "Яркое преображение.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/6a/359894dd446a684a5b7ee8806c75c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3400423.html",
-    "time": "2026-05-02T14:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3402120.html",
+    "time": "2026-05-02T16:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/5031539-sistemnye-trebovaniya-subnautica-2?from=rss",
     "time": "2026-05-01T15:45:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
