@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Филадельфия» перед Играми шла 13-й на Востоке, а теперь во втором раунде. Как так?",
-    "description": "Яркое преображение.",
-    "fullText": "Яркое преображение.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/6a/359894dd446a684a5b7ee8806c75c.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Олимпийский чемпион в воротах «Айлендерс». Поняли, о ком речь?",
+    "description": "Вы его знаете.",
+    "fullText": "Вы его знаете.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/ec/9066a687344f3a01aa51570d16086.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3402120.html",
-    "time": "2026-05-02T16:40:00.000Z"
+    "url": "https://sirena.sports.ru/3x3-hockey/?utm_source=native",
+    "time": "2026-05-02T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Sky: в Лондоне при стрельбе пострадали четыре человека",
+    "description": "Неизвестный из машины обстрелял место, где проходила многолюдная вечеринка",
+    "fullText": "Неизвестный из машины обстрелял место, где проходила многолюдная вечеринка",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27291499",
+    "time": "2026-05-02T20:49:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Унижение в UFC, которого вы не видели. Постарался будущий соперник Махачева",
+    "description": "Невероятный Карлос Пратес.",
+    "fullText": "Невероятный Карлос Пратес.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/41/758f2062c4dff82ded8ba80687c24.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3402153.html",
+    "time": "2026-05-02T17:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/5031539-sistemnye-trebovaniya-subnautica-2?from=rss",
     "time": "2026-05-01T15:45:54.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
