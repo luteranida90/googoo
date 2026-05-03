@@ -1,46 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
-    "description": "Топ-уровень в Невидимке.",
-    "fullText": "Топ-уровень в Невидимке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-05-03T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лучшие комментарии в истории Спортса’’",
-    "description": "«Спартак», сборная, Джон Терри.",
-    "fullText": "«Спартак», сборная, Джон Терри.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e8/f7178519a40ea97d1b41734534995.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3401139.html",
-    "time": "2026-05-03T00:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Metro 2039 добавили в списки желаемого миллион раз",
-    "description": "На это игре понадобилось две недели с момента анонса.",
-    "fullText": "На это игре понадобилось две недели с момента анонса.",
-    "image": "https://leonardo.osnova.io/712ad6ea-e3ea-5a8e-9813-7f5a65416bfe/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5031232-metro-2039-sobrala-million-vishlistov?from=rss",
-    "time": "2026-05-01T13:10:11.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "Эксперт Масала: вывод войск США из ФРГ носит символический характер",
+    "description": "Профессор Университета Бундесвера отметил, что куда более существенной является информация о том, что США планируют разорвать соглашение, заключенное в 2024 году с Германией о размещении ракет Tomahawk и систем Dark Eagle",
+    "fullText": "Профессор Университета Бундесвера отметил, что куда более существенной является информация о том, что США планируют разорвать соглашение, заключенное в 2024 году с Германией о размещении ракет Tomahawk и систем Dark Eagle",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27294235",
+    "time": "2026-05-03T10:59:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Барса» почти чемпион – возможно, уже в воскресенье. Все зависит от «Реала»",
+    "description": "Расклады.",
+    "fullText": "Расклады.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/aa/6a5a54bf04cdfb6f2297985f0114d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3402251.html",
+    "time": "2026-05-03T06:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "HoMM: Olden Era продалась тиражом в 250 тысяч копий — за сутки с выхода в раннем доступе",
+    "description": "Игра уже окупилась и заняла первую строчку в чарте Steam.",
+    "fullText": "Игра уже окупилась и заняла первую строчку в чарте Steam.",
+    "image": "https://leonardo.osnova.io/3cc74f45-0ddd-562c-9b81-b427e1fc8cf7/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5031439-heroes-of-might-and-magic-olden-era-v-charte-steam?from=rss",
+    "time": "2026-05-01T14:52:54.000Z"
   }
 ]
