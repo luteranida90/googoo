@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пролив Босфор перекрыли из-за поломки следующего в Россию сухогруза",
+    "description": "Судно Zaltron шло под флагом Панамы из Египта",
+    "fullText": "Судно Zaltron шло под флагом Панамы из Египта",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27294929",
+    "time": "2026-05-03T14:27:34.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "Новые футболки от Спортса’’ излучают чемпионскую Ауру",
     "description": "Примерь ее на себя.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фергюсон запретил трансферы в «Ливерпуль». Но Бенитес едва не выкрал Хайнце из-за ошибки «МЮ»",
-    "description": "Железный принцип.",
-    "fullText": "Железный принцип.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/b9/880ba4d7940ec8ec1292f69798793.jpeg",
+    "title": "Откуда у Собослаи пробивающий стены удар?",
+    "description": "Лидер АПЛ по голам со штрафных.",
+    "fullText": "Лидер АПЛ по голам со штрафных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/c5/bc0b0d09546c2b97596c1a2fa4e11.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3401692.html",
-    "time": "2026-05-03T10:14:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3401814.html",
+    "time": "2026-05-03T10:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Crimson Desert получила патч с повторными блокадами территорий и боями с боссами",
-    "description": "Авторы собираются дорабатывать эти функции в будущем.",
-    "fullText": "Авторы собираются дорабатывать эти функции в будущем.",
-    "image": "https://leonardo.osnova.io/50164967-09b6-5a5f-9847-a30ec6e62da5/",
+    "title": "Авторы LEGO Batman: Legacy of the Dark Knight обновили системные требования — теперь в них учитывается апскейлинг и генерация кадров",
+    "description": "Не самый лучший знак.",
+    "fullText": "Не самый лучший знак.",
+    "image": "https://leonardo.osnova.io/3402e12c-53b3-5b07-b054-2cfa5c40c8e1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5032702-crimson-desert-obnovlenie-s-povtornymi-boyami-s-bossami-i-blokadoj-territorij?from=rss",
-    "time": "2026-05-02T08:35:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/hard/5032772-obnovlennye-sistemnye-trebovaniya-lego-batman-legacy-of-the-dark-knight?from=rss",
+    "time": "2026-05-02T09:33:29.000Z"
   }
 ]
