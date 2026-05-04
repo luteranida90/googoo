@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: в Калининграде у многоэтажного дома обнаружили тела трех человек",
-    "description": "В их числе трехлетний ребенок",
-    "fullText": "В их числе трехлетний ребенок",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260504/9023575.jpg",
+    "title": "В Приангарье турист погиб в велопоходе во время камнепада",
+    "description": "Следственное управление СК по области начало проверку",
+    "fullText": "Следственное управление СК по области начало проверку",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27297957",
-    "time": "2026-05-04T05:49:45.000Z"
+    "url": "https://tass.ru/proisshestviya/27299613",
+    "time": "2026-05-04T08:45:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
+    "description": "Топ-уровень в Невидимке.",
+    "fullText": "Топ-уровень в Невидимке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-05-04T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -22,36 +33,25 @@
     "time": "2026-05-04T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Сейчас «Тоттенхэм» на грани вылета из АПЛ, но когда-то Бэйл зажигал в этой форме – забирайте ее",
-    "description": "В футбольной Аркаде.",
-    "fullText": "В футбольной Аркаде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/f3/93a8163b94b01982c3071e12c66bd.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-05-03T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У лидера «Ф-1» Антонелли самые трезвые подиумы. Почему вместо шампанского ему подают сок?",
-    "description": "Разбираемся.",
-    "fullText": "Разбираемся.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/38/f613f470c4299af2bb1bc4fcbbdce.jpeg",
+    "title": "Какой же «Ак Барс» гениальный! Абсолютно заслуженный выход в финал",
+    "description": "Магнитогорск вылетает.",
+    "fullText": "Магнитогорск вылетает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/bf/653469b984c2b9733a4a1d1b8cb34.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3401149.html",
-    "time": "2026-05-03T19:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3402395.html",
+    "time": "2026-05-03T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разнообразие противников, аудиозаписи и захват движений даже для существ: Remedy о создании паранормального Манхэттена в Control Resonant",
-    "description": "Новое окружение, новый подход.",
-    "fullText": "Новое окружение, новый подход.",
-    "image": "https://leonardo.osnova.io/5bb5c513-867f-5d09-96cd-161bb5d79b50/-/format/mp4/",
+    "title": "«Меня не интересуют слабые»: трейлер Кунимицу для Tekken 8 — первого бойца третьего сезона",
+    "description": "Обладатели сезонного пропуска смогут сыграть за неё 27 мая.",
+    "fullText": "Обладатели сезонного пропуска смогут сыграть за неё 27 мая.",
+    "image": "https://leonardo.osnova.io/0a171a68-f189-5f46-8333-2e0e20ddce40/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5032938-raznoobrazie-vragov-i-audiozapis-v-control-resonant?from=rss",
-    "time": "2026-05-02T11:22:08.000Z"
+    "url": "https://dtf.ru/games/5034623-kunimitsu-v-tekken-8-treyler-novogo-bojca-trehtogo-sezona?from=rss",
+    "time": "2026-05-03T11:14:18.000Z"
   }
 ]
