@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Группировка \"Восток\" уничтожила технику производства США в Запорожской области",
-    "description": "Цель поразили при помощи FPV-дронов и \"Ланцетов\"",
-    "fullText": "Цель поразили при помощи FPV-дронов и \"Ланцетов\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ТАСС: в Калининграде у многоэтажного дома обнаружили тела трех человек",
+    "description": "В их числе трехлетний ребенок",
+    "fullText": "В их числе трехлетний ребенок",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260504/9023575.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27296963",
-    "time": "2026-05-04T02:02:05.000Z"
+    "url": "https://tass.ru/proisshestviya/27297957",
+    "time": "2026-05-04T05:49:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Где еще почитать материал от Спортса’’?",
+    "description": "На футболках из нового дропа.",
+    "fullText": "На футболках из нового дропа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/76/c5bca21be4203a956e0204072ba42.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-04T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,25 +44,14 @@
     "time": "2026-05-03T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "«Зенит навсегда» – уникальный проект об истории петербургского клуба!",
-    "description": "Смотрите на PREMIER и RUTUBE.",
-    "fullText": "Смотрите на PREMIER и RUTUBE.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/ac/7704e0b6e44bfb470d707ede9012f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/07ynxo",
-    "time": "2026-05-03T19:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Игроки смогут разрушать окружение в Total War: Warhammer 40,000, но с ограничениями",
-    "description": "Врагу негде спрятаться, если снести все его укрытия.",
-    "fullText": "Врагу негде спрятаться, если снести все его укрытия.",
-    "image": "https://leonardo.osnova.io/cbb60300-6691-53c5-9e57-187baaaee831/",
+    "title": "Разнообразие противников, аудиозаписи и захват движений даже для существ: Remedy о создании паранормального Манхэттена в Control Resonant",
+    "description": "Новое окружение, новый подход.",
+    "fullText": "Новое окружение, новый подход.",
+    "image": "https://leonardo.osnova.io/5bb5c513-867f-5d09-96cd-161bb5d79b50/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5033068-razrushenie-okruzheniya-v-total-war-warhammer-40000?from=rss",
-    "time": "2026-05-02T12:38:09.000Z"
+    "url": "https://dtf.ru/games/5032938-raznoobrazie-vragov-i-audiozapis-v-control-resonant?from=rss",
+    "time": "2026-05-02T11:22:08.000Z"
   }
 ]
