@@ -1,57 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Приангарье турист погиб в велопоходе во время камнепада",
-    "description": "Следственное управление СК по области начало проверку",
-    "fullText": "Следственное управление СК по области начало проверку",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27299613",
-    "time": "2026-05-04T08:45:07.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "👑 30 топов с ЛЧ – угадаете всех по размытому фото?",
-    "description": "Топ-уровень в Невидимке.",
-    "fullText": "Топ-уровень в Невидимке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/01/b9ec7b72e47e4b1ed1bfe30160a05.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-05-04T07:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Где еще почитать материал от Спортса’’?",
-    "description": "На футболках из нового дропа.",
-    "fullText": "На футболках из нового дропа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/76/c5bca21be4203a956e0204072ba42.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
-    "time": "2026-05-04T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Какой же «Ак Барс» гениальный! Абсолютно заслуженный выход в финал",
-    "description": "Магнитогорск вылетает.",
-    "fullText": "Магнитогорск вылетает.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/bf/653469b984c2b9733a4a1d1b8cb34.jpeg",
+    "title": "Русская тройка – новый национальный спорт. Продвинул Дмитрий Киселев",
+    "description": "Дегтярев и Мединский поддержали.",
+    "fullText": "Дегтярев и Мединский поддержали.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/8d/7e67ad56f43d99e92f3f6b2f6bd4b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3402395.html",
-    "time": "2026-05-03T22:30:00.000Z"
+    "url": "https://www.sports.ru/exotic/blogs/3402497.html",
+    "time": "2026-05-04T13:28:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Меня не интересуют слабые»: трейлер Кунимицу для Tekken 8 — первого бойца третьего сезона",
-    "description": "Обладатели сезонного пропуска смогут сыграть за неё 27 мая.",
-    "fullText": "Обладатели сезонного пропуска смогут сыграть за неё 27 мая.",
-    "image": "https://leonardo.osnova.io/0a171a68-f189-5f46-8333-2e0e20ddce40/-/format/mp4/",
+    "title": "Вышло демо The Vow: Vampire&#039;s Curse — тактического «роглайка» про вампиров от российских разработчиков",
+    "description": "Опробовать игру можно в Steam.",
+    "fullText": "Опробовать игру можно в Steam.",
+    "image": "https://leonardo.osnova.io/af3646f0-91e5-5da3-b250-e88db5fe0e41/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5034623-kunimitsu-v-tekken-8-treyler-novogo-bojca-trehtogo-sezona?from=rss",
-    "time": "2026-05-03T11:14:18.000Z"
+    "url": "https://dtf.ru/games/5036585-demo-the-vow-vampires-curse?from=rss",
+    "time": "2026-05-04T12:16:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
