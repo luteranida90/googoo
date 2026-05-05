@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве вывески в аварийном состоянии будут принудительно демонтированы",
-    "description": "Правительство города внесло несколько изменений в городские правила размещения вывесок",
-    "fullText": "Правительство города внесло несколько изменений в городские правила размещения вывесок",
+    "title": "Саудовская Аравия снизила цены на свою нефть для Азии на июнь",
+    "description": "Стоимость нефти марки Arab Light для азиатских покупателей снижена на $4 за баррель",
+    "fullText": "Стоимость нефти марки Arab Light для азиатских покупателей снижена на $4 за баррель",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27317051",
-    "time": "2026-05-05T17:34:51.000Z"
+    "url": "https://tass.ru/ekonomika/27317695",
+    "time": "2026-05-05T19:56:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Возвращение легенды! Впечатления от новых «Героев меча и магии»",
+    "description": "Количество бессонных ночей увеличилось вдвое.",
+    "fullText": "Количество бессонных ночей увеличилось вдвое.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/05/323c146594155af126312248c193b.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3402710.html",
+    "time": "2026-05-05T19:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,36 +33,25 @@
     "time": "2026-05-05T17:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Чемпион мира по снукеру – китаец У. Ему казалось, что зал гудит против него – а пели его имя",
+    "description": "Финал-триллер.",
+    "fullText": "Финал-триллер.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ea/c7c5993ed48bd8729b146beb26d37.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/billiards/blogs/3402773.html",
+    "time": "2026-05-05T16:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стали известны некоторые ключевые разработчики Star Wars: Fate of the Old Republic — среди них оказались бывшие сотрудники BioWare и Ubisoft",
-    "description": "Кейси Хадсон собирает команду в том числе из бывших коллег.",
-    "fullText": "Кейси Хадсон собирает команду в том числе из бывших коллег.",
-    "image": "https://leonardo.osnova.io/f4365c50-45cc-5985-b883-8fcb2fc3a230/",
+    "title": "В Steam вышла Conan Exiles Enhanced — обновлённая версия «выживача» на Unreal Engine 5",
+    "description": "Релиз приурочили к восьмилетию с выхода игры.",
+    "fullText": "Релиз приурочили к восьмилетию с выхода игры.",
+    "image": "https://leonardo.osnova.io/c0fb7145-dfde-58c2-bf93-36169d11d110/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5038722-razrabotchiki-star-wars-fate-of-the-old-republic?from=rss",
-    "time": "2026-05-05T14:40:31.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто выйдет в финал ЛЧ? Решайте с фрибетом до 15 000 от FONBET",
-    "description": "«Арсенал» или «Атлетико»?",
-    "fullText": "«Арсенал» или «Атлетико»?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/2d/0219a325c4b7fa4151cebb27db7e9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/oz8t07",
-    "time": "2026-05-05T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«В школе оформила старшекласснику фирменную двоечку». Возможно, самая красивая девушка-боец из России",
-    "description": "Знакомимся с Александрой Савичевой.",
-    "fullText": "Знакомимся с Александрой Савичевой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/1c/607b257d145a99b77934536c45140.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3401806.html",
-    "time": "2026-05-05T12:38:00.000Z"
+    "url": "https://dtf.ru/games/5038799-obnovlennaya-versiya-conan-exiles?from=rss",
+    "time": "2026-05-05T15:59:45.000Z"
   }
 ]
