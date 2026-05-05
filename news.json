@@ -1,35 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДНР заявили, что ВСУ несут колоссальные потери в Харьковской области",
-    "description": "Советник главы региона Игорь Кимаковский отметил, что против них успешно работает группировка войск \"Запад\"",
-    "fullText": "Советник главы региона Игорь Кимаковский отметил, что против них успешно работает группировка войск \"Запад\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27312069",
-    "time": "2026-05-05T10:31:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Радулов творил чудеса с неправильным номером на шлеме. А так можно?",
-    "description": "47-й стал седьмым и спас «Локомотив».",
-    "fullText": "47-й стал седьмым и спас «Локомотив».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ce/7a4df8e494e9a90a1afe85f6ca605.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Арсенал» или «Атлетико»? Болейте и ставьте",
+    "description": "С фрибетом до 3000 рублей от Балтбет.",
+    "fullText": "С фрибетом до 3000 рублей от Балтбет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/6d/35ced373f465eab914386890f75a8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3402703.html",
-    "time": "2026-05-05T06:30:00.000Z"
+    "url": "https://sirena.world/f1esth",
+    "time": "2026-05-05T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Увольнение Челестини, лидеры идут без ошибок, реакция на слова Дивеева – Смолов вернулся и разобрал главное",
+    "description": "«Закамбэчил из Англии».",
+    "fullText": "«Закамбэчил из Англии».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/ff/b797ec1934622bacd67ffab27939e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/qbeMsdoTc9B8kZzVc15irBl0p00bc8cpTAyBeZZbyIs",
+    "time": "2026-05-05T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джез Корден: «Чтобы Xbox выжил, Аше Шарме нужно победить Microsoft»",
-    "description": "По его словам, компания поставила перед брендом слишком амбициозные задачи.",
-    "fullText": "По его словам, компания поставила перед брендом слишком амбициозные задачи.",
-    "image": "https://leonardo.osnova.io/cbbaf102-d93e-53f7-b854-6630b5f7843c/",
+    "title": "Спин-офф «Собирателя душ» с Николасом Кейджем выйдет в зарубежный прокат в январе 2028 года",
+    "description": "Подробности сюжета пока не сообщались.",
+    "fullText": "Подробности сюжета пока не сообщались.",
+    "image": "https://leonardo.osnova.io/0dea27c6-0390-5c9f-918f-a137aef67c88/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5037384-djez-korden-o-budushchem-xbox-i-vyzovakh-dlya-ashi-sharmy?from=rss",
-    "time": "2026-05-04T20:06:20.000Z"
+    "url": "https://dtf.ru/cinema/5038049-spin-off-sobiratela-dush?from=rss",
+    "time": "2026-05-05T08:19:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "То, что сделал «Авангард» – самоубийство",
+    "description": "После такого поражения будет сложно.",
+    "fullText": "После такого поражения будет сложно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/47/f7efae21243e59e0faab185abdade.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3402724.html",
+    "time": "2026-05-05T07:02:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
