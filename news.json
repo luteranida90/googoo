@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ж/д-перевозчик в Крым внедрил решение по улучшению интернета в поездах",
+    "description": "Когда станет возможным, добавят спутниковую связь, сообщил гендиректор компании \"Гранд сервис экспресс\" Александр Ганов",
+    "fullText": "Когда станет возможным, добавят спутниковую связь, сообщил гендиректор компании \"Гранд сервис экспресс\" Александр Ганов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27318229",
+    "time": "2026-05-05T22:11:52.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "«Зенит навсегда» – столетняя история петербуржцев в документальном сериале Спортса’’",
     "description": "Уже доступен на PREMIER и RUTUBE.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sprts.cc/1sf7qm",
     "time": "2026-05-05T21:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В КДК РФС объяснили, почему \"Уфе\" присудили техническое поражение",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260506/9028637.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27318031",
-    "time": "2026-05-05T21:11:58.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,25 +33,25 @@
     "time": "2026-05-05T19:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В НБА был сумасшедший 1-й раунд. Давайте запомним всех его героев",
-    "description": "Все, кто удивляли.",
-    "fullText": "Все, кто удивляли.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/dd/172c23d7b4a068e2ff9c7c177df1e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3402852.html",
-    "time": "2026-05-05T18:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam вышла Conan Exiles Enhanced — обновлённая версия «выживача» на Unreal Engine 5",
-    "description": "Релиз приурочили к восьмилетию с выхода игры.",
-    "fullText": "Релиз приурочили к восьмилетию с выхода игры.",
-    "image": "https://leonardo.osnova.io/c0fb7145-dfde-58c2-bf93-36169d11d110/-/format/mp4/",
+    "title": "15-й сезон «Царя горы» выйдет 20 июля",
+    "description": "Будет десять эпизодов.",
+    "fullText": "Будет десять эпизодов.",
+    "image": "https://leonardo.osnova.io/a26ae585-bd78-5cda-80b7-1232143eed18/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5038799-obnovlennaya-versiya-conan-exiles?from=rss",
-    "time": "2026-05-05T15:59:45.000Z"
+    "url": "https://dtf.ru/cinema/5039219-novyj-sezon-tsarya-gory-na-hulu?from=rss",
+    "time": "2026-05-05T18:37:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Локомотив» против «Авангарда» – расклады на 7-й матч. Кто теперь фаворит?",
+    "description": "Шансы равны.",
+    "fullText": "Шансы равны.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/2b/96a85a20340bb97677b2373a4022e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3402911.html",
+    "time": "2026-05-05T18:30:00.000Z"
   }
 ]
