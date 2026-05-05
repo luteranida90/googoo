@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Алтайском крае загорелся бензовоз",
+    "description": "Пострадали два человека",
+    "fullText": "Пострадали два человека",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27315803",
+    "time": "2026-05-05T15:48:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Монреаль», наслаждайся! Через пару лет ты станешь «Тампой»",
+    "description": "Как и «Филадельфия», «Анахайм» и «Баффало».",
+    "fullText": "Как и «Филадельфия», «Анахайм» и «Баффало».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d9/33bc562ad4706b2dbf06cf05aa62e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3402783.html",
+    "time": "2026-05-05T11:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Арсенал» или «Атлетико»? Болейте и ставьте",
     "description": "С фрибетом до 3000 рублей от Балтбет.",
@@ -23,35 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Спин-офф «Собирателя душ» с Николасом Кейджем выйдет в зарубежный прокат в январе 2028 года",
-    "description": "Подробности сюжета пока не сообщались.",
-    "fullText": "Подробности сюжета пока не сообщались.",
-    "image": "https://leonardo.osnova.io/0dea27c6-0390-5c9f-918f-a137aef67c88/",
+    "title": "Перекупщики продают Steam Controller по цене вплоть до 400 долларов — на фоне дефицита устройств",
+    "description": "Игроки недовольны отсутствием возможности занять очередь.",
+    "fullText": "Игроки недовольны отсутствием возможности занять очередь.",
+    "image": "https://leonardo.osnova.io/03026f60-4c5c-58e6-8137-b6095797189b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5038049-spin-off-sobiratela-dush?from=rss",
-    "time": "2026-05-05T08:19:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "То, что сделал «Авангард» – самоубийство",
-    "description": "После такого поражения будет сложно.",
-    "fullText": "После такого поражения будет сложно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/47/f7efae21243e59e0faab185abdade.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3402724.html",
-    "time": "2026-05-05T07:02:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/hard/5038194-perekupshchiki-prodayut-steam-controller?from=rss",
+    "time": "2026-05-05T10:05:21.000Z"
   }
 ]
