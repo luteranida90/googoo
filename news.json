@@ -1,57 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Алтайском крае загорелся бензовоз",
-    "description": "Пострадали два человека",
-    "fullText": "Пострадали два человека",
+    "title": "В Москве вывески в аварийном состоянии будут принудительно демонтированы",
+    "description": "Правительство города внесло несколько изменений в городские правила размещения вывесок",
+    "fullText": "Правительство города внесло несколько изменений в городские правила размещения вывесок",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27315803",
-    "time": "2026-05-05T15:48:40.000Z"
+    "url": "https://tass.ru/obschestvo/27317051",
+    "time": "2026-05-05T17:34:51.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Монреаль», наслаждайся! Через пару лет ты станешь «Тампой»",
-    "description": "Как и «Филадельфия», «Анахайм» и «Баффало».",
-    "fullText": "Как и «Филадельфия», «Анахайм» и «Баффало».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d9/33bc562ad4706b2dbf06cf05aa62e.jpeg",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Легенды Мюнхена, которые еще не завершили карьеру – узнаете 30 игроков?",
+    "description": "В Невидимке.",
+    "fullText": "В Невидимке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/8e/c081940504fe993edba673ed84554.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3402783.html",
-    "time": "2026-05-05T11:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» или «Атлетико»? Болейте и ставьте",
-    "description": "С фрибетом до 3000 рублей от Балтбет.",
-    "fullText": "С фрибетом до 3000 рублей от Балтбет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/6d/35ced373f465eab914386890f75a8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/f1esth",
-    "time": "2026-05-05T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Увольнение Челестини, лидеры идут без ошибок, реакция на слова Дивеева – Смолов вернулся и разобрал главное",
-    "description": "«Закамбэчил из Англии».",
-    "fullText": "«Закамбэчил из Англии».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/ff/b797ec1934622bacd67ffab27939e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/qbeMsdoTc9B8kZzVc15irBl0p00bc8cpTAyBeZZbyIs",
-    "time": "2026-05-05T11:05:00.000Z"
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-05-05T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Перекупщики продают Steam Controller по цене вплоть до 400 долларов — на фоне дефицита устройств",
-    "description": "Игроки недовольны отсутствием возможности занять очередь.",
-    "fullText": "Игроки недовольны отсутствием возможности занять очередь.",
-    "image": "https://leonardo.osnova.io/03026f60-4c5c-58e6-8137-b6095797189b/",
+    "title": "Стали известны некоторые ключевые разработчики Star Wars: Fate of the Old Republic — среди них оказались бывшие сотрудники BioWare и Ubisoft",
+    "description": "Кейси Хадсон собирает команду в том числе из бывших коллег.",
+    "fullText": "Кейси Хадсон собирает команду в том числе из бывших коллег.",
+    "image": "https://leonardo.osnova.io/f4365c50-45cc-5985-b883-8fcb2fc3a230/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5038194-perekupshchiki-prodayut-steam-controller?from=rss",
-    "time": "2026-05-05T10:05:21.000Z"
+    "url": "https://dtf.ru/games/5038722-razrabotchiki-star-wars-fate-of-the-old-republic?from=rss",
+    "time": "2026-05-05T14:40:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто выйдет в финал ЛЧ? Решайте с фрибетом до 15 000 от FONBET",
+    "description": "«Арсенал» или «Атлетико»?",
+    "fullText": "«Арсенал» или «Атлетико»?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/2d/0219a325c4b7fa4151cebb27db7e9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/oz8t07",
+    "time": "2026-05-05T13:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«В школе оформила старшекласснику фирменную двоечку». Возможно, самая красивая девушка-боец из России",
+    "description": "Знакомимся с Александрой Савичевой.",
+    "fullText": "Знакомимся с Александрой Савичевой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/1c/607b257d145a99b77934536c45140.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3401806.html",
+    "time": "2026-05-05T12:38:00.000Z"
   }
 ]
