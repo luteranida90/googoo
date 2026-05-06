@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Роману Вишняку не стали увеличивать срок по делу Лерчек",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260506/9030047.jpg",
+    "title": "На Маврикии госслужащих переведут на удаленный режим для экономии энергоресурсов",
+    "description": "Меры начнут действовать 11 мая, сообщила газета L'Express",
+    "fullText": "Меры начнут действовать 11 мая, сообщила газета L'Express",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27323255",
-    "time": "2026-05-06T10:21:41.000Z"
+    "url": "https://tass.ru/ekonomika/27324717",
+    "time": "2026-05-06T12:13:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Скучали по Джоковичу? Возьмите его в команду",
+    "description": "В Основе от BB Tennis по «Мастерсу» в Риме.",
+    "fullText": "В Основе от BB Tennis по «Мастерсу» в Риме.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/01/57690e3c2476a9dabee17603d7a84.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/rome/?utm_source=native&erid=2SDnje45E6e",
+    "time": "2026-05-06T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Главное дерби страны с фрибетом до 15 тысяч! Кто пройдет в Суперфинал?",
-    "description": "«Спартак» vs ЦСКА.",
-    "fullText": "«Спартак» vs ЦСКА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/99/920cfba1648f2b009da678cd5e350.jpeg",
+    "title": "«Бавария» vs «ПСЖ» в ответном матче ЛЧ! Ставьте на игру с фрибетом",
+    "description": "До 1500 рублей.",
+    "fullText": "До 1500 рублей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/36/5c10885084a1f8165e41bcb9b85ed.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/gvspa4",
-    "time": "2026-05-06T07:00:00.000Z"
+    "url": "https://sirena.world/r4fqal",
+    "time": "2026-05-06T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дембеле с Упамекано рубились еще в школе на переменах. Друзья детства играли класс на класс – а теперь в полуфинале ЛЧ!",
-    "description": "Гордость одного района.",
-    "fullText": "Гордость одного района.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/02/442bb7aa7438ab7f9e4dec701410b.jpeg",
+    "title": "Хартли – мастер камбэков в плей-офф. Спасался с 1-3 даже в финале",
+    "description": "Волшебный Боб.",
+    "fullText": "Волшебный Боб.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/b4/4ed2f07f14ba0b5c43bb26a7e710e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3402706.html",
-    "time": "2026-05-06T06:40:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3402851.html",
+    "time": "2026-05-06T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Семья — корень всего зла»: трейлер новых «Зловещих мертвецов»",
-    "description": "Зарубежный прокат стартует 10 июля.",
-    "fullText": "Зарубежный прокат стартует 10 июля.",
-    "image": "https://leonardo.osnova.io/5060bcf4-6085-5ec1-b010-0ef771f4215c/-/format/mp4/",
+    "title": "Ubisoft показала четыре минуты геймплея ремейка Black Flag с основными игровыми механиками",
+    "description": "Экшен-адвенчура обещает быть лучше оригинала во всём.",
+    "fullText": "Экшен-адвенчура обещает быть лучше оригинала во всём.",
+    "image": "https://leonardo.osnova.io/c747eabf-1c0a-525a-9eba-34864c31341f/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5038899-zloveshie-mertvetsy-peklo-treiler?from=rss",
-    "time": "2026-05-05T16:19:18.000Z"
+    "url": "https://dtf.ru/games/5038858-remeik-black-flag-ot-ubisoft-gejmplej-i-novye-mekhaniki?from=rss",
+    "time": "2026-05-05T16:25:09.000Z"
   }
 ]
