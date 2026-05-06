@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ понизил курс доллара на 7 мая до 75,22 рубля",
-    "description": "Официальный курс евро упал до 88,06 рубля",
-    "fullText": "Официальный курс евро упал до 88,06 рубля",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260506/9031239.jpg",
+    "title": "В КБР отремонтировали мост на одной из крупнейших рек Кавказа",
+    "description": "Работы завершились досрочно",
+    "fullText": "Работы завершились досрочно",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27326589",
-    "time": "2026-05-06T14:49:42.000Z"
+    "url": "https://tass.ru/obschestvo/27327393",
+    "time": "2026-05-06T16:24:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Распознаете 30 топов «Баварии» по размытому фото?",
+    "description": "Время размяться перед ЛЧ.",
+    "fullText": "Время размяться перед ЛЧ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/53550469e4b8aa29913215fa1f5d8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-05-06T15:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Нехорошо распространять дезинформацию»: Ubisoft отреагировала на утечку возможного скриншота из онлайновой Assassin’s Creed Invictus",
+    "description": "В ответ инсайдер опубликовал ещё одну версию изображения.",
+    "fullText": "В ответ инсайдер опубликовал ещё одну версию изображения.",
+    "image": "https://leonardo.osnova.io/de59fe2c-ad7c-5ec0-a3a7-e725797b4fb1/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5040665-ubisoft-otreagirovala-na-utechku-assassins-creed-invictus?from=rss",
+    "time": "2026-05-06T13:41:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -23,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Баварию» никто не хотел тренировать. Приглашение Компани после вылета из АПЛ считали шуткой",
-    "description": "Теперь на Венсана смотрит «Сити».",
-    "fullText": "Теперь на Венсана смотрит «Сити».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/83/a21187d9041929e55c972d485bb0a.jpeg",
+    "title": "Халк подписал контракт с «Флуминенсе»! Пошел на повышение в почти 40",
+    "description": "Не стареет.",
+    "fullText": "Не стареет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/0b/7cf37185143e6ba86d17ff6c59a8f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400351.html",
-    "time": "2026-05-06T12:11:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Оно смотрит на нас»: трейлер сериала «Городок» с Алфредом Молиной в главной роли",
-    "description": "В шоу, которое продюсировали авторы «Очень странных дел», группа стариков охотится на инопланетного монстра.",
-    "fullText": "В шоу, которое продюсировали авторы «Очень странных дел», группа стариков охотится на инопланетного монстра.",
-    "image": "https://leonardo.osnova.io/351485b9-c0f8-5263-a099-6ee49ead49fc/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5040149-treyler-seriala-gorodok-s-alfredom-molynom?from=rss",
-    "time": "2026-05-06T09:42:06.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403042.html",
+    "time": "2026-05-06T12:50:00.000Z"
   }
 ]
