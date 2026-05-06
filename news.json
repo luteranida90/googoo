@@ -1,35 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Марочко: ВСУ полностью вышли из Бударок Харьковской области",
-    "description": "Российские бойцы осторожны и еще не закреплялись в населенном пункте, сообщил военный эксперт",
-    "fullText": "Российские бойцы осторожны и еще не закреплялись в населенном пункте, сообщил военный эксперт",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260507/9032025.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27328711",
-    "time": "2026-05-06T22:01:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я побывал на дерби с фанатами – как же это мощно",
-    "description": "Илья Ковалев с «Лукойл Арены».",
-    "fullText": "Илья Ковалев с «Лукойл Арены».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/c2/d468268a944daba4a6c95d24ab5e6.jpeg",
+    "title": "«Локомотив» vs «Ак Барс» – расклады на финал Кубка Гагарина. Что нужно знать?",
+    "description": "Дождались.",
+    "fullText": "Дождались.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/ec/cd1296fb64165a6a51d987f71775b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3403224.html",
-    "time": "2026-05-06T20:07:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3403217.html",
+    "time": "2026-05-06T20:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сиквел Aliens: Fireteam Elite представят 7 мая",
-    "description": "Издание IGN запустит показ в 18:30 по Москве.",
-    "fullText": "Издание IGN запустит показ в 18:30 по Москве.",
-    "image": "https://leonardo.osnova.io/efbf01b1-4126-5eb2-867b-def1a5d35b7d/",
+    "title": "Обновление Test of Time для Civilization VII выйдет 19 мая",
+    "description": "В нём, помимо прочего, добавят возможность пройти кампанию одной цивилизацией.",
+    "fullText": "В нём, помимо прочего, добавят возможность пройти кампанию одной цивилизацией.",
+    "image": "https://leonardo.osnova.io/8ef91028-60dc-55f8-b08c-834ac51f5214/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5040917-pervyy-treyler-aliens-fireteam-elite-2?from=rss",
-    "time": "2026-05-06T15:49:48.000Z"
+    "url": "https://dtf.ru/games/5041036-obnovlenie-test-of-time-dlya-civilization-vii?from=rss",
+    "time": "2026-05-06T17:27:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
