@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гусев объяснил замену Бителло и Осипенко перед серией пенальти в Кубке России",
-    "description": "\"Динамо\" проиграло \"Краснодару\" и не смогло выйти в суперфинал турнира",
-    "fullText": "\"Динамо\" проиграло \"Краснодару\" и не смогло выйти в суперфинал турнира",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260507/9035429.jpg",
+    "title": "В Мордовии отменили беспилотную опасность",
+    "description": "Об этом сообщили в правительстве региона",
+    "fullText": "Об этом сообщили в правительстве региона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27343499",
-    "time": "2026-05-07T20:41:51.000Z"
+    "url": "https://tass.ru/proisshestviya/27343901",
+    "time": "2026-05-07T21:52:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Заходите за футболками от Спортса” с легендарными футбольными героями",
+    "description": "Ночью – без очереди!",
+    "fullText": "Ночью – без очереди!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-07T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlb3Nw",
@@ -22,36 +33,25 @@
     "time": "2026-05-07T19:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "О дизайне в спортивном медиа – в новом выпуске подкаста «Коллеги, добрый день!»",
-    "description": "Рассказывает Дмитрий Горбачев.",
-    "fullText": "Рассказывает Дмитрий Горбачев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/24/1e9f931214ebe9fa41c5b99b65d1d.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/tzae9j",
-    "time": "2026-05-07T18:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что «Авангарду» делать с Ги Буше?",
-    "description": "Уволить или оставить.",
-    "fullText": "Уволить или оставить.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/09/46ba3f9df44b0b43be1c7692cf8b1.jpeg",
+    "title": "«От финала ЛЧ эмоций меньше». Генич безумно счастлив в Медиалиге",
+    "description": "Самый увлеченный президент.",
+    "fullText": "Самый увлеченный президент.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/76/ed6a8bb39458a841d51cf5cb5da97.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3403388.html",
-    "time": "2026-05-07T17:20:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3403284.html",
+    "time": "2026-05-07T18:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Датамайнер нашёл вырезанные из Resident Evil Requiem механики — в игре мог появиться торговец",
-    "description": "А у Леона было усиление способностей с помощью крови.",
-    "fullText": "А у Леона было усиление способностей с помощью крови.",
-    "image": "https://leonardo.osnova.io/f56d052a-f4e3-5f60-925f-9b82b871d295/",
+    "title": "СМИ: Apple дозаказала у TSMC чипы A18 для MacBook Neo из-за «неожиданно высокого» спроса на ноутбук",
+    "description": "При этом в продаже могут оставить только более дорогую версию Neo на 512 ГБ за 699 долларов.",
+    "fullText": "При этом в продаже могут оставить только более дорогую версию Neo на 512 ГБ за 699 долларов.",
+    "image": "https://leonardo.osnova.io/ed02fccc-289f-555a-8f10-8784d36e3c96/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5042435-udalennye-mehaniki-resident-evil-requiem?from=rss",
-    "time": "2026-05-07T12:54:32.000Z"
+    "url": "https://dtf.ru/hard/5042716-apple-uvelichila-zakaz-chipov-a18-dlya-macbook-neo?from=rss",
+    "time": "2026-05-07T14:49:38.000Z"
   }
 ]
