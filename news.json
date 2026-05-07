@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Громкая встреча Трампа с участниками турнира UFC в Белом доме: показал уникальный пояс и вспомнил Хабиба",
-    "description": "Приехали Топурия и Перейра.",
-    "fullText": "Приехали Топурия и Перейра.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b8/c804ef23a4d5ab8075073891a6d2d.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Захарова: РФ прорывает блокаду, создаваемую Западом вокруг праздника Победы",
+    "description": "По словам дипломата, коллективное западное меньшинство пытается не просто преуменьшить, но и всячески очернить роль Красной армии в разгроме нацизма",
+    "fullText": "По словам дипломата, коллективное западное меньшинство пытается не просто преуменьшить, но и всячески очернить роль Красной армии в разгроме нацизма",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250118/8014703.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27334293",
+    "time": "2026-05-07T09:03:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Распознаете 30 топов «Баварии» по размытому фото?",
+    "description": "Квест в Невидимке.",
+    "fullText": "Квест в Невидимке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/53550469e4b8aa29913215fa1f5d8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3403250.html",
-    "time": "2026-05-06T22:05:00.000Z"
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-05-07T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Локомотив» безумно отпраздновал выход в финал – и заставил грустить весь Омск",
+    "description": "Такие разные эмоции.",
+    "fullText": "Такие разные эмоции.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ba/aca5e36e54e789fa562d6969094d7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3403257.html",
+    "time": "2026-05-07T05:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Руководитель франшизы Dying Light объявил об уходе из Techland",
-    "description": "Он проработал в студии 13 лет.",
-    "fullText": "Он проработал в студии 13 лет.",
-    "image": "https://leonardo.osnova.io/2adc9dc9-f5d1-5ec1-a8c1-21df154d2725/",
+    "title": "Сериал «Гарри Поттер» от HBO продлили на второй сезон",
+    "description": "До старта шоу ещё больше полугода.",
+    "fullText": "До старта шоу ещё больше полугода.",
+    "image": "https://leonardo.osnova.io/e74f7bdd-ab52-5fcb-bb7c-7b2a6354b148/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5040804-ukhod-timona-smektaly-iz-techland?from=rss",
-    "time": "2026-05-06T14:39:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/5041159-garri-potter-ot-hbo-prodlili-na-vtoryj-sezon?from=rss",
+    "time": "2026-05-06T18:09:39.000Z"
   }
 ]
