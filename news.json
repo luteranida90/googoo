@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Расчет \"Ланцета\" уничтожил технику и живую силу ВСУ в Сумской области",
-    "description": "Командир взвода беспилотных систем с позывным Ворчун назвал главным преимуществом комплекса его мультифункциональность",
-    "fullText": "Командир взвода беспилотных систем с позывным Ворчун назвал главным преимуществом комплекса его мультифункциональность",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27329687",
-    "time": "2026-05-07T02:04:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лига чемпионов – турнир Хвичи",
-    "description": "Он прекрасен.",
-    "fullText": "Он прекрасен.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c9/faf32a15f4617868021dc8dbba8dd.jpeg",
+    "title": "Громкая встреча Трампа с участниками турнира UFC в Белом доме: показал уникальный пояс и вспомнил Хабиба",
+    "description": "Приехали Топурия и Перейра.",
+    "fullText": "Приехали Топурия и Перейра.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b8/c804ef23a4d5ab8075073891a6d2d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3402995.html",
-    "time": "2026-05-06T21:18:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3403250.html",
+    "time": "2026-05-06T22:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5040804-ukhod-timona-smektaly-iz-techland?from=rss",
     "time": "2026-05-06T14:39:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
