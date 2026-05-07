@@ -1,25 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Гусев объяснил замену Бителло и Осипенко перед серией пенальти в Кубке России",
+    "description": "\"Динамо\" проиграло \"Краснодару\" и не смогло выйти в суперфинал турнира",
+    "fullText": "\"Динамо\" проиграло \"Краснодару\" и не смогло выйти в суперфинал турнира",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260507/9035429.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/27343499",
+    "time": "2026-05-07T20:41:51.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlb3Nw",
     "title": "Величие и трагедия Зидана, итальянский дух, дебют Месси и Роналду. Чем запомнился ЧМ-2006?",
     "description": "Путешествие в прошлое на ВидеоСпортсе’‘.",
     "fullText": "Путешествие в прошлое на ВидеоСпортсе’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/fd/a82a55a694f93b1730d8f0043ddc4.jpeg",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/7f/f3de6a7a049d7b896f72ca0664774.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://videosports.ru/2XuBPi",
     "time": "2026-05-07T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Fars: несколько взрывов произошли вблизи Бендер-Аббаса",
-    "description": "Происхождение и источник звуков пока не определены",
-    "fullText": "Происхождение и источник звуков пока не определены",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27343109",
-    "time": "2026-05-07T18:48:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,25 +33,25 @@
     "time": "2026-05-07T18:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: Apple дозаказала у TSMC чипы A18 для MacBook Neo из-за «неожиданно высокого» спроса на ноутбук",
-    "description": "При этом в продаже могут оставить только более дорогую версию Neo на 512 ГБ за 699 долларов.",
-    "fullText": "При этом в продаже могут оставить только более дорогую версию Neo на 512 ГБ за 699 долларов.",
-    "image": "https://leonardo.osnova.io/ed02fccc-289f-555a-8f10-8784d36e3c96/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/hard/5042716-apple-uvelichila-zakaz-chipov-a18-dlya-macbook-neo?from=rss",
-    "time": "2026-05-07T14:49:38.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто лучше всех в мире бьет штрафные?",
-    "description": "8 главных исполнителей.",
-    "fullText": "8 главных исполнителей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4d/dc3535ff24a36a364af4dba2c2bc1.jpeg",
+    "title": "Что «Авангарду» делать с Ги Буше?",
+    "description": "Уволить или оставить.",
+    "fullText": "Уволить или оставить.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/09/46ba3f9df44b0b43be1c7692cf8b1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3401390.html",
-    "time": "2026-05-07T14:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3403388.html",
+    "time": "2026-05-07T17:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Датамайнер нашёл вырезанные из Resident Evil Requiem механики — в игре мог появиться торговец",
+    "description": "А у Леона было усиление способностей с помощью крови.",
+    "fullText": "А у Леона было усиление способностей с помощью крови.",
+    "image": "https://leonardo.osnova.io/f56d052a-f4e3-5f60-925f-9b82b871d295/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5042435-udalennye-mehaniki-resident-evil-requiem?from=rss",
+    "time": "2026-05-07T12:54:32.000Z"
   }
 ]
