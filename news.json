@@ -1,57 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ушаков: Киеву нужно сделать один серьезный шаг, чтобы приостановить военные действия",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/27340103",
-    "time": "2026-05-07T13:03:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Астон Вилла» примет «Ноттингем» в ответном матче ЛЕ! Ставьте на игру с БЕТСИТИ",
-    "description": "И фрибетом до 1500.",
-    "fullText": "И фрибетом до 1500.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/34/34c514d724e3f8b0bcb9bcea364f0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/rm5043",
-    "time": "2026-05-07T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Леброн вписался в раскрутку новой «Одиссеи». Он и сам как герой древнего мифа",
-    "description": "«Муза, скажи мне о том многоопытном муже…»",
-    "fullText": "«Муза, скажи мне о том многоопытном муже…»",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/76/5eea4cf394599aa6c49b5f5dd21aa.jpeg",
+    "title": "Сафонов специально лупил в ауты с «Баварией»? Очень сомнительная теория",
+    "description": "Но популярная.",
+    "fullText": "Но популярная.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/01/b81aad8e34dd4a5a944b3fd2096ed.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3401129.html",
-    "time": "2026-05-07T09:55:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jbGlja3Mu",
-    "title": "«Краснодар» или «Динамо» – кто станет соперником «Спартака» в Суперфинале FONBET Кубка России?",
-    "description": "Фрибет до 15 000 к игре.",
-    "fullText": "Фрибет до 15 000 к игре.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/14/c1972dc1e493086a957fdf7f472e8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://clicks.af-ru2e2e.com/click?offer_id=125&partner_id=4596&utm_medium=Affiliate&landing_id=4901&sub_1=%7Bsports.ru%7D&sub_2=%7Bmaterial%7D&sub_3=%7Bfb_15k_cuprus%7D",
-    "time": "2026-05-07T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403333.html",
+    "time": "2026-05-07T12:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ремейк Star Fox 64 выйдет 25 июня на Switch 2",
-    "description": "Неожиданный анонс от Nintendo.",
-    "fullText": "Неожиданный анонс от Nintendo.",
-    "image": "https://leonardo.osnova.io/3cd6be31-9863-5e87-ae25-187570237290/-/format/mp4/",
+    "title": "Atari приобрела права на первые пять частей классической серии Wizardry",
+    "description": "Издатель планирует перевыпустить игры.",
+    "fullText": "Издатель планирует перевыпустить игры.",
+    "image": "https://leonardo.osnova.io/0c88c8ba-af07-5060-843e-c05920ba549e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5041526-remeik-star-fox-64-dlya-switch-2?from=rss",
-    "time": "2026-05-06T23:31:20.000Z"
+    "url": "https://dtf.ru/gameindustry/5042245-atari-priobrela-prava-na-seriyu-wizardry?from=rss",
+    "time": "2026-05-07T10:58:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
