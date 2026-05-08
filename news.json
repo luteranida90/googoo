@@ -1,36 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Шереметьево за день обслужил более 90 тыс. пассажиров",
-    "description": "Аэропорт обеспечил выполнение 791 рейса",
-    "fullText": "Аэропорт обеспечил выполнение 791 рейса",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27356013",
-    "time": "2026-05-08T19:36:43.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "«Барса» или «Реал» – кто победит в новом класико? Голосуйте",
-    "description": "В Пикере Спортса’’.",
-    "fullText": "В Пикере Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/07/e60fb90e24d2a957871474cbeecc3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/picker/la-liga/?utm_source=native",
-    "time": "2026-05-08T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Врачи вернули Хави Симонса на поле с разрывом крестов – и разозлили фанатов. А может, они все делали верно?",
-    "description": "Объясняет реабилитолог.",
-    "fullText": "Объясняет реабилитолог.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/bb/992ec21d14306993f11eaa66bf2bb.jpeg",
+    "title": "Илья Воробьев – о жарких полуфиналах плей-офф КХЛ",
+    "description": "Плюс мнение о финале Кубка Гагарина.",
+    "fullText": "Плюс мнение о финале Кубка Гагарина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/5a/c6c94ebf9487d9181459cabde69b1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3403429.html",
-    "time": "2026-05-08T15:05:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3403713.html",
+    "time": "2026-05-08T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5044638-takicheskaya-igra-razvedka-1944?from=rss",
     "time": "2026-05-08T12:38:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
