@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Парадоксально любезный Трамп: что скрывается за особыми отношениями лидеров Бразилии и США",
-    "description": "Дмитрий Гадалин — о том, какую действительно политику стоит ждать от Вашингтона касательно соседей",
-    "fullText": "Дмитрий Гадалин — о том, какую действительно политику стоит ждать от Вашингтона касательно соседей",
+    "title": "Горная, холмистая, престижная. История велогонки \"Джиро д'Италия\"",
+    "description": "8 мая в Болгарии стартует уже 109-я по счету веломногодневка, которая пройдет по дорогам трех стран",
+    "fullText": "8 мая в Болгарии стартует уже 109-я по счету веломногодневка, которая пройдет по дорогам трех стран",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/opinions/27347223",
-    "time": "2026-05-08T08:40:01.000Z"
+    "url": "https://tass.ru/info/27348291",
+    "time": "2026-05-08T10:13:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Никто еще не прополз все 15 уровней без падений и тупиков!",
+    "description": "Проверьте свою логику.",
+    "fullText": "Проверьте свою логику.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/88/85048e353490489a25a12fd48acc0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/captain-cherv-2/?utm_source=material_sports",
+    "time": "2026-05-08T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,36 +33,25 @@
     "time": "2026-05-08T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "«Локомотив» празднует «Год юбилеев» – проверьте, как хорошо вы знаете клуб",
-    "description": "И выиграйте призы.",
-    "fullText": "И выиграйте призы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/66/2f9649f654433baaebbf6ebe11eb4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-08T04:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что «Авангарду» делать с Ги Буше?",
-    "description": "Уволить или оставить.",
-    "fullText": "Уволить или оставить.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/09/46ba3f9df44b0b43be1c7692cf8b1.jpeg",
+    "title": "Свечников наконец-то проснулся! А «Каролина» близка к финалу Востока – 3-0 в серии",
+    "description": "Не опять, а снова.",
+    "fullText": "Не опять, а снова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ae/613f0d62046c2b5e8ce5dd93908dc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3403388.html",
-    "time": "2026-05-07T23:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3403591.html",
+    "time": "2026-05-08T05:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Я отниму у тебя всё» — релизный трейлер LEGO Batman: Legacy of the Dark Knight",
-    "description": "Приключенческий экшен, вдохновлённый многолетней историей культового супергероя, выйдет уже 22 мая.",
-    "fullText": "Приключенческий экшен, вдохновлённый многолетней историей культового супергероя, выйдет уже 22 мая.",
-    "image": "https://leonardo.osnova.io/2934a782-df7c-5621-9c5d-587eba40d89c/-/format/mp4/",
+    "title": "Адвенчура Mixtape от авторов The Artful Escape вышла на ПК и консолях — у игры больше 90 баллов на OpenCritic",
+    "description": "Нарисовался инди-хит.",
+    "fullText": "Нарисовался инди-хит.",
+    "image": "https://leonardo.osnova.io/7a6399b8-9eb7-509c-8338-9a098753c96b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5043021-lego-batman-legacy-of-the-dark-knight?from=rss",
-    "time": "2026-05-07T17:26:23.000Z"
+    "url": "https://dtf.ru/games/5042226-igra-mixtape-ot-beethoven-and-dinosaur?from=rss",
+    "time": "2026-05-07T13:32:26.000Z"
   }
 ]
