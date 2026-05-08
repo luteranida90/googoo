@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На жителя Читы завели дело о реабилитации нацизма",
-    "description": "Мужчина оставлял комментарии в соцсетях, в которых унижал честь и достоинство ветеранов Великой Отечественной войны",
-    "fullText": "Мужчина оставлял комментарии в соцсетях, в которых унижал честь и достоинство ветеранов Великой Отечественной войны",
+    "title": "Парадоксально любезный Трамп: что скрывается за особыми отношениями лидеров Бразилии и США",
+    "description": "Дмитрий Гадалин — о том, какую действительно политику стоит ждать от Вашингтона касательно соседей",
+    "fullText": "Дмитрий Гадалин — о том, какую действительно политику стоит ждать от Вашингтона касательно соседей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27346655",
-    "time": "2026-05-08T06:52:56.000Z"
+    "url": "https://tass.ru/opinions/27347223",
+    "time": "2026-05-08T08:40:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Скучали по Джоковичу? Возьмите его в команду",
+    "description": "В Основе от BB Tennis по «Мастерсу» в Риме.",
+    "fullText": "В Основе от BB Tennis по «Мастерсу» в Риме.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/01/57690e3c2476a9dabee17603d7a84.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/rome/?utm_source=native&erid=2SDnje45E6e",
+    "time": "2026-05-08T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,36 +33,25 @@
     "time": "2026-05-08T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Заходите за футболками от Спортса” с легендарными футбольными героями",
-    "description": "Ночью – без очереди!",
-    "fullText": "Ночью – без очереди!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
-    "time": "2026-05-07T21:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как беговые сообщества помогают не бросить тренировки и найти друзей",
-    "description": "Ответ в статье.",
-    "fullText": "Ответ в статье.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ba/89a50de514239987eacb5f34bd299.png",
+    "title": "Что «Авангарду» делать с Ги Буше?",
+    "description": "Уволить или оставить.",
+    "fullText": "Уволить или оставить.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/09/46ba3f9df44b0b43be1c7692cf8b1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3402770.html?erid=2SDnjdeMRtn",
-    "time": "2026-05-07T20:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3403388.html",
+    "time": "2026-05-07T23:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Рок-группа Papa Roach представила песню «See U in Hell» — она войдёт в саундтрек второго сезона анимационного шоу Devil May Cry",
-    "description": "В записи композиции принял участие исполнитель Hanumankind.",
-    "fullText": "В записи композиции принял участие исполнитель Hanumankind.",
-    "image": "https://leonardo.osnova.io/849ce4f0-a398-5cbe-abf4-5efd6a857ef4/",
+    "title": "«Я отниму у тебя всё» — релизный трейлер LEGO Batman: Legacy of the Dark Knight",
+    "description": "Приключенческий экшен, вдохновлённый многолетней историей культового супергероя, выйдет уже 22 мая.",
+    "fullText": "Приключенческий экшен, вдохновлённый многолетней историей культового супергероя, выйдет уже 22 мая.",
+    "image": "https://leonardo.osnova.io/2934a782-df7c-5621-9c5d-587eba40d89c/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/5042751-papa-roach-pesnya-see-u-in-hell-devil-may-cry?from=rss",
-    "time": "2026-05-07T15:25:20.000Z"
+    "url": "https://dtf.ru/games/5043021-lego-batman-legacy-of-the-dark-knight?from=rss",
+    "time": "2026-05-07T17:26:23.000Z"
   }
 ]
