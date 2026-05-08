@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Театр \"Современник\" представил акцию \"Бессмертный полк\" на фасаде здания",
-    "description": "В пресс-службе театра поздравили россиян с Днем Победы и выразили признательность героям Великой Отечественной войны",
-    "fullText": "В пресс-службе театра поздравили россиян с Днем Победы и выразили признательность героям Великой Отечественной войны",
+    "title": "Вице-премьер Италии Сальвини побывал в павильоне России на Венецианской биеннале",
+    "description": "Культура и спорт должны быть нейтральными полями, заявил Маттео Сальвини",
+    "fullText": "Культура и спорт должны быть нейтральными полями, заявил Маттео Сальвини",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/27354163",
-    "time": "2026-05-08T16:31:24.000Z"
+    "url": "https://tass.ru/kultura/27354789",
+    "time": "2026-05-08T17:57:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "«Барса» или «Реал» – кто победит в новом класико? Голосуйте",
+    "description": "В Пикере Спортса’’.",
+    "fullText": "В Пикере Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/07/e60fb90e24d2a957871474cbeecc3.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/picker/la-liga/?utm_source=native",
+    "time": "2026-05-08T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,15 +33,15 @@
     "time": "2026-05-08T14:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Класико без Ямаля и Вальверде: кого возьмете в команду?",
-    "description": "Можно выиграть джерси.",
-    "fullText": "Можно выиграть джерси.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/c7/4ca6672e7454f9a66daa114673657.png",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Цените эту чемпионскую гонку в РПЛ",
+    "description": "Колонка Ильи Васильева.",
+    "fullText": "Колонка Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/06/657d8e0814f47bb26002ce7f72149.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/la-liga/?utm_source=native",
-    "time": "2026-05-08T13:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403638.html",
+    "time": "2026-05-08T13:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/hard/5044813-apple-razrabatyvaet-airpods-s-kamerami-dlya-siri?from=rss",
     "time": "2026-05-08T13:17:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Испания сохранила 5 команд в ЛЧ. Бундеслига уже не догонит",
-    "description": "АПЛ все еще претендует на 6 мест.",
-    "fullText": "АПЛ все еще претендует на 6 мест.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/97/1bd295b1740b1a3085c9054f5e6ba.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3403600.html",
-    "time": "2026-05-08T12:35:00.000Z"
   }
 ]
