@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин поздравил Гаглоева и ветеранов Южной Осетии с Днем Победы",
+    "description": "Российский лидер передал всем проживающим в республике ветеранам войны и труженикам тыла слова искренней благодарности",
+    "fullText": "Российский лидер передал всем проживающим в республике ветеранам войны и труженикам тыла слова искренней благодарности",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27362271",
+    "time": "2026-05-09T11:43:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "«Барса» или «Реал» – кто победит в новом класико? Голосуйте",
+    "description": "В Пикере Спортса’’.",
+    "fullText": "В Пикере Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/07/e60fb90e24d2a957871474cbeecc3.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/picker/la-liga/?utm_source=native",
+    "time": "2026-05-09T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "🔥 Начался топ-турнир по CS – в Казахстане. Почему он особенный?",
     "description": "Там фанаты бегают за игроками.",
@@ -12,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Интрига на Востоке: «Баффало» проиграл матч за пять минут. 1-1 с «Монреалем»",
-    "description": "Серия едет в Канаду.",
-    "fullText": "Серия едет в Канаду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/1b/8137148a74eeb9ceec649805e08b8.jpeg",
+    "title": "Хайкина не пускают на ЧМ. ФИФА отказала из-за пары месяцев в «Бристоле» в 2023-м",
+    "description": "Обидно.",
+    "fullText": "Обидно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/a7/d9700a110468f9ab3d9e62acd2291.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3403904.html",
-    "time": "2026-05-09T06:36:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403696.html",
+    "time": "2026-05-09T07:16:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5044447-endi-serkis-o-kino-i-igrah?from=rss",
     "time": "2026-05-08T11:17:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
