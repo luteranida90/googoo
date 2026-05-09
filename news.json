@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин поздравил Гаглоева и ветеранов Южной Осетии с Днем Победы",
-    "description": "Российский лидер передал всем проживающим в республике ветеранам войны и труженикам тыла слова искренней благодарности",
-    "fullText": "Российский лидер передал всем проживающим в республике ветеранам войны и труженикам тыла слова искренней благодарности",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Новак: Лаос обратился к РФ с просьбой о поставках нефтепродуктов",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8298439.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27362271",
-    "time": "2026-05-09T11:43:09.000Z"
+    "url": "https://tass.ru/ekonomika/27363877",
+    "time": "2026-05-09T15:20:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jaC1nLnRp",
+    "title": "Презентация «Книги Уткина» в «Читай-городе» в ТРЦ «Европейский»: спикеры − Гридасов, Алхазов и Трушечкин",
+    "description": "14 мая в 19:00.",
+    "fullText": "14 мая в 19:00.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/d3/8d7627f114ab38fd99fcae46872d6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://ch-g.timepad.ru/event/3963830/?erid=2SDnjcodbXQ",
+    "time": "2026-05-09T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,36 +33,25 @@
     "time": "2026-05-09T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "🔥 Начался топ-турнир по CS – в Казахстане. Почему он особенный?",
-    "description": "Там фанаты бегают за игроками.",
-    "fullText": "Там фанаты бегают за игроками.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/6e/a567c05d94b2da7327bdaff79544c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3403392.html",
-    "time": "2026-05-09T07:47:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Хайкина не пускают на ЧМ. ФИФА отказала из-за пары месяцев в «Бристоле» в 2023-м",
-    "description": "Обидно.",
-    "fullText": "Обидно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/a7/d9700a110468f9ab3d9e62acd2291.jpeg",
+    "title": "«Я как Ламин Ямаль». Абсолютное счастье «Родины» после выхода в РПЛ",
+    "description": "Илья Ковалев с «Арены Химки».",
+    "fullText": "Илья Ковалев с «Арены Химки».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ab/0bd2d766b4715a517693846017807.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3403696.html",
-    "time": "2026-05-09T07:16:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403928.html",
+    "time": "2026-05-09T10:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Снобизм был всегда, но сейчас всё меняется»: Энди Серкис о связи кино с игровой индустрией",
-    "description": "Актёр и режиссёр видит иронию в том, что игровые движки вовсю используют для постановки экшен-сцен.",
-    "fullText": "Актёр и режиссёр видит иронию в том, что игровые движки вовсю используют для постановки экшен-сцен.",
-    "image": "https://leonardo.osnova.io/068769b8-442a-52f4-a798-7f18dacbc9c5/",
+    "title": "Аниме-адаптация Sekiro: Shadows Die Twice выйдет в японских кинотеатрах 4 сентября",
+    "description": "В остальном мире релиз состоится на Crunchyroll, но даты пока нет.",
+    "fullText": "В остальном мире релиз состоится на Crunchyroll, но даты пока нет.",
+    "image": "https://leonardo.osnova.io/78841133-9daf-54d6-b197-7a85fa690340/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5044447-endi-serkis-o-kino-i-igrah?from=rss",
-    "time": "2026-05-08T11:17:47.000Z"
+    "url": "https://dtf.ru/anime/5044869-anime-sekiro-shadows-die-twice-v-kino?from=rss",
+    "time": "2026-05-08T13:50:09.000Z"
   }
 ]
