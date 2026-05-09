@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Генконсул РФ назвал участие Токаева в параде показателем отношения Казахстана к 9 Мая",
-    "description": "В Алма-Ате прошло многотысячное шествие в рамках акции \"Поклонимся героям\" - казахстанского аналога \"Бессмертного полка\"",
-    "fullText": "В Алма-Ате прошло многотысячное шествие в рамках акции \"Поклонимся героям\" - казахстанского аналога \"Бессмертного полка\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241223/7980605.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/27360501",
-    "time": "2026-05-09T09:51:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "🔥 Начался топ-турнир по CS – в Казахстане. Почему он особенный?",
     "description": "Там фанаты бегают за игроками.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Обновляем рейтинг лучших клубов: встречайте нового лидера!",
-    "description": "И обсуждайте.",
-    "fullText": "И обсуждайте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/de/d748bcd2244cebfaeec54aa5a1b02.jpeg",
+    "title": "Интрига на Востоке: «Баффало» проиграл матч за пять минут. 1-1 с «Монреалем»",
+    "description": "Серия едет в Канаду.",
+    "fullText": "Серия едет в Канаду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/1b/8137148a74eeb9ceec649805e08b8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3403620.html",
-    "time": "2026-05-09T06:01:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3403904.html",
+    "time": "2026-05-09T06:36:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony рассказала, как использует ИИ при разработке игр — компания объявила о совместной инициативе с Bandai Namco",
-    "description": "В корпорации считают, что технологии помогут «раскрыть творческий потенциал студий».",
-    "fullText": "В корпорации считают, что технологии помогут «раскрыть творческий потенциал студий».",
-    "image": "https://leonardo.osnova.io/227bb97f-7a0a-5769-99f9-6f32ca3feb79/",
+    "title": "«Снобизм был всегда, но сейчас всё меняется»: Энди Серкис о связи кино с игровой индустрией",
+    "description": "Актёр и режиссёр видит иронию в том, что игровые движки вовсю используют для постановки экшен-сцен.",
+    "fullText": "Актёр и режиссёр видит иронию в том, что игровые движки вовсю используют для постановки экшен-сцен.",
+    "image": "https://leonardo.osnova.io/068769b8-442a-52f4-a798-7f18dacbc9c5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5044472-sony-i-bandai-namco-ispolzuyut-ii-dlya-razrabotki-igr?from=rss",
-    "time": "2026-05-08T12:20:41.000Z"
+    "url": "https://dtf.ru/gameindustry/5044447-endi-serkis-o-kino-i-igrah?from=rss",
+    "time": "2026-05-08T11:17:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
