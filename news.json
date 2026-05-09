@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Президент Республики Сербской заявил, что обсудит с Путиным расширение сотрудничества",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Генконсул РФ назвал участие Токаева в параде показателем отношения Казахстана к 9 Мая",
+    "description": "В Алма-Ате прошло многотысячное шествие в рамках акции \"Поклонимся героям\" - казахстанского аналога \"Бессмертного полка\"",
+    "fullText": "В Алма-Ате прошло многотысячное шествие в рамках акции \"Поклонимся героям\" - казахстанского аналога \"Бессмертного полка\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241223/7980605.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27360197",
-    "time": "2026-05-09T08:46:37.000Z"
+    "url": "https://tass.ru/politika/27360501",
+    "time": "2026-05-09T09:51:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Драка Вальверде и Тчуамени: заплатят по 500 тысяч евро штрафа, «Реал» объявил о примирении",
-    "description": "Феде пропустит до двух недель.",
-    "fullText": "Феде пропустит до двух недель.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/bd/719c8bcf84323911bcde65413a4a1.jpeg",
+    "title": "Обновляем рейтинг лучших клубов: встречайте нового лидера!",
+    "description": "И обсуждайте.",
+    "fullText": "И обсуждайте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/de/d748bcd2244cebfaeec54aa5a1b02.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3403142.html",
-    "time": "2026-05-09T04:53:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Бублик, Синнер или Мирра – кого сделаете капитаном нового круга «Мастерса» в Риме?",
-    "description": "Соберите команду.",
-    "fullText": "Соберите команду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/6d/ed2b078d84d5dafc91c30a8ad7c13.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/osnova/rome/?utm_source=native",
-    "time": "2026-05-09T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403620.html",
+    "time": "2026-05-09T06:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Кто-то должен проложить путь»: трейлер тактической игры «Разведка 1944» в духе Commandos",
-    "description": "В Steam уже доступна обновлённая демоверсия.",
-    "fullText": "В Steam уже доступна обновлённая демоверсия.",
-    "image": "https://leonardo.osnova.io/1a514ef2-bea9-51c7-8652-263ad960bb86/-/format/mp4/",
+    "title": "Sony рассказала, как использует ИИ при разработке игр — компания объявила о совместной инициативе с Bandai Namco",
+    "description": "В корпорации считают, что технологии помогут «раскрыть творческий потенциал студий».",
+    "fullText": "В корпорации считают, что технологии помогут «раскрыть творческий потенциал студий».",
+    "image": "https://leonardo.osnova.io/227bb97f-7a0a-5769-99f9-6f32ca3feb79/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5044638-takicheskaya-igra-razvedka-1944?from=rss",
-    "time": "2026-05-08T12:38:50.000Z"
+    "url": "https://dtf.ru/gameindustry/5044472-sony-i-bandai-namco-ispolzuyut-ii-dlya-razrabotki-igr?from=rss",
+    "time": "2026-05-08T12:20:41.000Z"
   }
 ]
