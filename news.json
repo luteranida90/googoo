@@ -1,46 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Где еще почитать материал Спортса’’?",
+    "description": "На футболках из нового дропа.",
+    "fullText": "На футболках из нового дропа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-10T21:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дипломаты РФ поздравили с Днем Победы советских ветеранов в Торонто",
-    "description": "На мероприятии прозвучали песни военных лет и стихи",
-    "fullText": "На мероприятии прозвучали песни военных лет и стихи",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Россияне могут посещать Саудовскую Аравию без визы с 11 мая",
+    "description": "Граждане РФ могут въезжать и пребывать на территории королевства без виз непрерывно или суммарно не более 90 дней в течение календарного года",
+    "fullText": "Граждане РФ могут въезжать и пребывать на территории королевства без виз непрерывно или суммарно не более 90 дней в течение календарного года",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260511/9043405.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27370679",
-    "time": "2026-05-10T17:52:43.000Z"
+    "url": "https://tass.ru/ekonomika/27371201",
+    "time": "2026-05-10T21:04:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Спасибо, Миша!» Прощание «Зенита» с Кержаковым – до слез",
+    "description": "Проводили дома.",
+    "fullText": "Проводили дома.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/1e/75686353e4aa9b515c4f5f1b88d02.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/Q3t3FBP8yzj3PzSHeFaMy4F5ayNIqyDWwCOS6ForTi0",
+    "time": "2026-05-10T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ерохин – легенда «Зенита»",
-    "description": "Илья Васильев – о мастере одного касания.",
-    "fullText": "Илья Васильев – о мастере одного касания.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3a/621ccf2244764b7484d4019c8d145.jpeg",
+    "title": "Два концлагеря и отказ «Реалу» под угрозой репрессий. Жизнь защитника, попавшего в сборную «Барсы» всех времен",
+    "description": "История Рамона Сабало.",
+    "fullText": "История Рамона Сабало.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/cf/9f10769014797a9c576dc1cb3d059.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404217.html",
-    "time": "2026-05-10T16:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Отправляемся в путешествие по самым ярким моментам в истории «Локомотива»",
-    "description": "Вспомним все.",
-    "fullText": "Вспомним все.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/21/7fcaee2d14a48868c423a20915cf0.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-10T15:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3403202.html",
+    "time": "2026-05-10T18:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Forza Horizon 6 — релизный трейлер",
-    "description": "Гонки по Японии начнутся уже 19 мая.",
-    "fullText": "Гонки по Японии начнутся уже 19 мая.",
-    "image": "https://leonardo.osnova.io/6b0054f3-972d-5ad8-9c69-b157cb76f250/-/format/mp4/",
+    "title": "WSJ: Apple предварительно договорилась с Intel о производстве чипов",
+    "description": "Какие именно устройства получат их, пока не ясно.",
+    "fullText": "Какие именно устройства получат их, пока не ясно.",
+    "image": "https://leonardo.osnova.io/4267872b-e075-5abe-a5cf-3411d90bfdf8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5045113-forza-horizon-6-treiler-novoy-arkadnoy-gonki-v-yaponii?from=rss",
-    "time": "2026-05-08T15:43:49.000Z"
+    "url": "https://dtf.ru/hard/4812820-apple-i-intel-soglashenie-o-proizvodstve-chipov?from=rss",
+    "time": "2026-05-08T19:35:15.000Z"
   }
 ]
