@@ -1,35 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Бублик, Синнер или Мирра – кого сделаете капитаном нового круга «Мастерса» в Риме?",
+    "description": "Соберите команду.",
+    "fullText": "Соберите команду.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/6d/ed2b078d84d5dafc91c30a8ad7c13.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/rome/?utm_source=native",
+    "time": "2026-05-10T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ушаков уверен в скором продолжении диалога с Уиткоффом и Кушнером в Москве",
-    "description": "Помощник президента РФ отметил, что это произойдет \"рано или поздно\"",
-    "fullText": "Помощник президента РФ отметил, что это произойдет \"рано или поздно\"",
+    "title": "Пострадавших в крупном пожаре на рынке под Пятигорском нет",
+    "description": "Повреждено около 100 контейнеров",
+    "fullText": "Повреждено около 100 контейнеров",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/27368833",
-    "time": "2026-05-10T10:24:03.000Z"
+    "url": "https://tass.ru/proisshestviya/27369301",
+    "time": "2026-05-10T11:12:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Реал» обеспокоен сливами и ищет крота. Прямо как Моуринью 15 лет назад",
-    "description": "Поиск уже начался.",
-    "fullText": "Поиск уже начался.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/74/9de80a81c496693c9ab69cb44fab5.jpeg",
+    "title": "«Каролина» – в финале Востока! Додавила «Филадельфию» в овертайме",
+    "description": "Второй свип подряд!",
+    "fullText": "Второй свип подряд!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/cb/327b1062046a1b7af9002898b193d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3403979.html",
-    "time": "2026-05-10T06:00:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3404090.html",
+    "time": "2026-05-10T07:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Расширенные системные требования 007 First Light — для 1440p и 60 fps понадобится RTX 4070",
-    "description": "А трассировка пути появится летом.",
-    "fullText": "А трассировка пути появится летом.",
-    "image": "https://leonardo.osnova.io/78a03fd3-e370-50aa-a1be-c421a8d8b024/",
+    "title": "Ивент «Ледокол», новая карта и первый сезон: детали поддержки Escape from Tarkov",
+    "description": "В Battlestate Games, помимо прочего, анонсировали F2P-игру.",
+    "fullText": "В Battlestate Games, помимо прочего, анонсировали F2P-игру.",
+    "image": "https://leonardo.osnova.io/f788e737-ee8d-5c6d-8fd6-6e2ab9c8870e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5045073-sistemnye-trebovaniya-007-first-light-1440p-60-fps?from=rss",
-    "time": "2026-05-08T15:58:31.000Z"
+    "url": "https://dtf.ru/games/5045367-podderzhka-escape-from-tarkov-ivent-ledokol-i-novaya-karta?from=rss",
+    "time": "2026-05-08T18:25:59.000Z"
   }
 ]
