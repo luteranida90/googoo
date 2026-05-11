@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Известия\": переработка нефти рискует значительно сократиться к 2035 году",
+    "description": "Европа может потерять практически половину нефтеперерабатывающих мощностей, говорится в исследовании консалтинговой компании \"Имплемента\"",
+    "fullText": "Европа может потерять практически половину нефтеперерабатывающих мощностей, говорится в исследовании консалтинговой компании \"Имплемента\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260511/9043441.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27371409",
+    "time": "2026-05-10T23:02:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Спасибо, Миша!» Прощание «Зенита» с Кержаковым – до слез",
+    "description": "Проводили дома.",
+    "fullText": "Проводили дома.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/1e/75686353e4aa9b515c4f5f1b88d02.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/Q3t3FBP8yzj3PzSHeFaMy4F5ayNIqyDWwCOS6ForTi0",
+    "time": "2026-05-10T22:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "Где еще почитать материал Спортса’’?",
     "description": "На футболках из нового дропа.",
@@ -11,47 +33,25 @@
     "time": "2026-05-10T21:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДНР от ударов ВСУ за сутки пострадали три человека",
-    "description": "Среди них двое детей",
-    "fullText": "Среди них двое детей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27371299",
-    "time": "2026-05-10T21:39:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Спасибо, Миша!» Прощание «Зенита» с Кержаковым – до слез",
-    "description": "Проводили дома.",
-    "fullText": "Проводили дома.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/1e/75686353e4aa9b515c4f5f1b88d02.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/Q3t3FBP8yzj3PzSHeFaMy4F5ayNIqyDWwCOS6ForTi0",
-    "time": "2026-05-10T20:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ВАР-отмена гола «Арсеналу»: был фол на Райя? Может решить гонки за титул и выживание",
-    "description": "Драма на 90+6.",
-    "fullText": "Драма на 90+6.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/67/f91cc237b4a1485fc2a74dcaa0888.jpeg",
+    "title": "Планы на майские: пройти все квизы в Игровой",
+    "description": "Успеете?",
+    "fullText": "Успеете?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/2b/b5bbf99984eaaa89175606acfde0e.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404244.html",
-    "time": "2026-05-10T19:03:00.000Z"
+    "url": "https://www.sports.ru/games/?utm_source=native",
+    "time": "2026-05-10T20:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "WSJ: Apple предварительно договорилась с Intel о производстве чипов",
-    "description": "Какие именно устройства получат их, пока не ясно.",
-    "fullText": "Какие именно устройства получат их, пока не ясно.",
-    "image": "https://leonardo.osnova.io/4267872b-e075-5abe-a5cf-3411d90bfdf8/",
+    "title": "Forza Horizon 6 — релизный трейлер",
+    "description": "Гонки по Японии начнутся уже 19 мая.",
+    "fullText": "Гонки по Японии начнутся уже 19 мая.",
+    "image": "https://leonardo.osnova.io/6b0054f3-972d-5ad8-9c69-b157cb76f250/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/4812820-apple-i-intel-soglashenie-o-proizvodstve-chipov?from=rss",
-    "time": "2026-05-08T19:35:15.000Z"
+    "url": "https://dtf.ru/games/5045113-forza-horizon-6-treiler-novoy-arkadnoy-gonki-v-yaponii?from=rss",
+    "time": "2026-05-08T15:43:49.000Z"
   }
 ]
