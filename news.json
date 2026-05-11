@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Тарпищев верит, что МОК снимет санкции с россиян в 2026 году",
-    "description": "Ранее Международный олимпийский комитет по итогам заседания исполкома не стал менять рекомендации в отношении российских спортсменов",
-    "fullText": "Ранее Международный олимпийский комитет по итогам заседания исполкома не стал менять рекомендации в отношении российских спортсменов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250721/8356103.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27375927",
-    "time": "2026-05-11T16:43:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Помните, как «Локомотив» с Семиным блистал в нулевые?",
     "description": "Мы напомним.",
@@ -23,24 +12,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Я был роботом и морил себя голодом». Откровенный Боттас – о безумной диете и возвращении в «Ф-1»",
-    "description": "Детство, депрессия и дебют в «Кадиллаке».",
-    "fullText": "Детство, депрессия и дебют в «Кадиллаке».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f3/54661f87c41dfac34c70e7d593f26.jpeg",
+    "title": "«Это бой против UFC». Что важно знать про лигу Джейка Пола, куда подписались Нганну и Диаз?",
+    "description": "Первый турнир – уже в выходные.",
+    "fullText": "Первый турнир – уже в выходные.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d1/26c8d40724f6db9ac9d91014a4ae0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3401489.html",
-    "time": "2026-05-11T13:15:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3391623.html",
+    "time": "2026-05-11T15:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Shift Up собирается сама выступить издателем сиквела Stellar Blade",
-    "description": "То же самое касается студии Синдзи Миками, которая работает над несколькими проектами.",
-    "fullText": "То же самое касается студии Синдзи Миками, которая работает над несколькими проектами.",
-    "image": "https://leonardo.osnova.io/1e0f7cba-7519-5d6e-b0ea-195f7f412754/",
+    "title": "Голосование — какую оценку на Metacritic получит LEGO Batman: Legacy of the Dark Knight",
+    "description": "Релиз масштабной игры от TT Games всё ближе.",
+    "fullText": "Релиз масштабной игры от TT Games всё ближе.",
+    "image": "https://leonardo.osnova.io/fe6cf447-60ce-5ed0-9f6a-929c33ad405b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5052020-shift-up-izdatel-sikvela-stellar-blade?from=rss",
-    "time": "2026-05-11T08:56:29.000Z"
+    "url": "https://dtf.ru/games/5052293-lego-batman-legacy-of-the-dark-knight-otsenki-na-metacritic?from=rss",
+    "time": "2026-05-11T10:50:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
