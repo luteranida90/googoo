@@ -1,25 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Помните, как «Локомотив» с Семиным блистал в нулевые?",
-    "description": "Мы напомним.",
-    "fullText": "Мы напомним.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4c/f1364f1084937b9e59ae08914d5bf.png",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "На Камчатке зафиксировали мощное свечение на вулкане Шивелуч",
+    "description": "Также заметили сход раскаленной лавины",
+    "fullText": "Также заметили сход раскаленной лавины",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-11T15:55:00.000Z"
+    "url": "https://tass.ru/proisshestviya/27377241",
+    "time": "2026-05-11T21:40:40.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Это бой против UFC». Что важно знать про лигу Джейка Пола, куда подписались Нганну и Диаз?",
-    "description": "Первый турнир – уже в выходные.",
-    "fullText": "Первый турнир – уже в выходные.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d1/26c8d40724f6db9ac9d91014a4ae0.jpeg",
+    "title": "«Отвлекаюсь на 3 секунды – Мессина заметил: «Все, в раздевалку». Никита Курбанов побеждает с ЦСКА уже 20 лет",
+    "description": "Большой разговор.",
+    "fullText": "Большой разговор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/e6/99af1945141fe9fe8139ea68fab79.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3391623.html",
-    "time": "2026-05-11T15:35:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3401573.html",
+    "time": "2026-05-11T18:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5052293-lego-batman-legacy-of-the-dark-knight-otsenki-na-metacritic?from=rss",
     "time": "2026-05-11T10:50:42.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
