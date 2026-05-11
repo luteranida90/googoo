@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На 59-м км МКАД временно закрывали движение",
-    "description": "Об этом сообщил столичный департамент транспорта",
-    "fullText": "Об этом сообщил столичный департамент транспорта",
+    "title": "В Башкирии участник Великой Отечественной войны Таис Колышев отметил 101-летие",
+    "description": "Ветеран служил в артиллерийской разведке",
+    "fullText": "Ветеран служил в артиллерийской разведке",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27374151",
-    "time": "2026-05-11T11:06:42.000Z"
+    "url": "https://tass.ru/obschestvo/27375159",
+    "time": "2026-05-11T14:19:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У «Анахайма» заработало большинство! «Вегас» не вытянул без Стоуна",
+    "description": "В Лас-Вегас – при равенстве в серии.",
+    "fullText": "В Лас-Вегас – при равенстве в серии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/89/0e87753c44358b2d490c15f7f9691.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3404316.html",
+    "time": "2026-05-11T09:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +33,14 @@
     "time": "2026-05-11T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Новый материал на Спортсе” – «Хлопковый»",
-    "description": "Первая коллекция – футболки, которые можно читать.",
-    "fullText": "Первая коллекция – футболки, которые можно читать.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=supertop",
-    "time": "2026-05-11T09:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вылет «Хьюстона» – позор или нет? Вопросы после поражения от «Лейкерс»",
-    "description": "Потерян год, но не возможность.",
-    "fullText": "Потерян год, но не возможность.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/32/8d1323fc64a069cfc35b43d608c35.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3403798.html",
-    "time": "2026-05-11T07:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Unknown Worlds представила геймплейный трейлер Subnautica 2",
-    "description": "Ранний доступ начнётся уже 14 мая.",
-    "fullText": "Ранний доступ начнётся уже 14 мая.",
-    "image": "https://leonardo.osnova.io/7f26c28f-450c-5318-af9d-1fbddda54f7e/-/format/mp4/",
+    "title": "«Мортал Комбат 2» стартовал в мировом прокате с 63 миллионов долларов — общие сборы прошлой части составили 84,4 миллиона",
+    "description": "Но лидерство в США осталось за комедией «Дьявол носит Prada 2».",
+    "fullText": "Но лидерство в США осталось за комедией «Дьявол носит Prada 2».",
+    "image": "https://leonardo.osnova.io/24e47429-ce6e-55fe-9abc-d10157b78d38/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5047788-geymplejnyj-trejler-subnautica-2-ot-unknown-worlds?from=rss",
-    "time": "2026-05-09T16:10:35.000Z"
+    "url": "https://dtf.ru/cinema/5050353-mortal-kombat-2-startoval-s-63-millionami-dollarov?from=rss",
+    "time": "2026-05-10T15:54:38.000Z"
   }
 ]
