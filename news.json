@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Филиппины принимают строгие меры контроля для недопущения проникновения хантавируса",
-    "description": "Служба санитарно-эпидемиологического контроля проверяет маршруты прибывающих путешественников, на пунктах пограничного контроля используются тепловизоры, а также работают пункты экспресс-диагностики",
-    "fullText": "Служба санитарно-эпидемиологического контроля проверяет маршруты прибывающих путешественников, на пунктах пограничного контроля используются тепловизоры, а также работают пункты экспресс-диагностики",
+    "title": "На 59-м км МКАД временно закрывали движение",
+    "description": "Об этом сообщил столичный департамент транспорта",
+    "fullText": "Об этом сообщил столичный департамент транспорта",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27373003",
-    "time": "2026-05-11T08:02:19.000Z"
+    "url": "https://tass.ru/obschestvo/27374151",
+    "time": "2026-05-11T11:06:42.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Медведев, Синнер или Мирра – кого сделаете капитаном нового круга «Мастерса» в Риме?",
-    "description": "Соберите команду.",
-    "fullText": "Соберите команду.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/6d/ed2b078d84d5dafc91c30a8ad7c13.png",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«Зенит навсегда» – сериал о ключевых вехах истории сине-бело-голубых!",
+    "description": "Смотрите на PREMIER и RUTUBE.",
+    "fullText": "Смотрите на PREMIER и RUTUBE.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/45/e2199e173404da9556bdaa300943b.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/rome/?utm_source=native",
-    "time": "2026-05-11T04:30:00.000Z"
+    "url": "https://sprts.cc/lme7q7",
+    "time": "2026-05-11T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Новый материал на Спортсе” – «Хлопковый»",
+    "description": "Первая коллекция – футболки, которые можно читать.",
+    "fullText": "Первая коллекция – футболки, которые можно читать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=supertop",
+    "time": "2026-05-11T09:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А ведь «Барса» не была фаворитом Ла Лиги. Еще в ноябре «Реал» видели чемпионом уверенно",
-    "description": "Главный редко побеждает.",
-    "fullText": "Главный редко побеждает.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/99/13a204fd349589fd344e3f39f0d4d.jpeg",
+    "title": "Вылет «Хьюстона» – позор или нет? Вопросы после поражения от «Лейкерс»",
+    "description": "Потерян год, но не возможность.",
+    "fullText": "Потерян год, но не возможность.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/32/8d1323fc64a069cfc35b43d608c35.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3404190.html",
-    "time": "2026-05-10T22:20:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3403798.html",
+    "time": "2026-05-11T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Десять миллионов разрушенных зданий и пять миллионов матчей: статистика старта Invincible VS",
-    "description": "Самым популярным героем стал сам Неуязвимый.",
-    "fullText": "Самым популярным героем стал сам Неуязвимый.",
-    "image": "https://leonardo.osnova.io/b7c934cc-b3d1-5e37-ba45-3663e033bad6/",
+    "title": "Unknown Worlds представила геймплейный трейлер Subnautica 2",
+    "description": "Ранний доступ начнётся уже 14 мая.",
+    "fullText": "Ранний доступ начнётся уже 14 мая.",
+    "image": "https://leonardo.osnova.io/7f26c28f-450c-5318-af9d-1fbddda54f7e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5047076-statistika-invincible-vs-populyarnye-geroi?from=rss",
-    "time": "2026-05-09T10:47:03.000Z"
+    "url": "https://dtf.ru/games/5047788-geymplejnyj-trejler-subnautica-2-ot-unknown-worlds?from=rss",
+    "time": "2026-05-09T16:10:35.000Z"
   }
 ]
