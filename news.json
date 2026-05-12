@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МИД РФ ответили на пустые слова Каллас о Грузии внушительными цифрами",
-    "description": "Страна развивается благодаря тому, что не следует \"подсказкам\" своих патронов\", отметил директор четвертого департамента стран СНГ Михаил Калугин",
-    "fullText": "Страна развивается благодаря тому, что не следует \"подсказкам\" своих патронов\", отметил директор четвертого департамента стран СНГ Михаил Калугин",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "«Локомотив» празднует «Год юбилеев» – проверьте, хорошо ли вы знаете клуб",
+    "description": "И выиграйте призы.",
+    "fullText": "И выиграйте призы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/66/2f9649f654433baaebbf6ebe11eb4.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/27379121",
-    "time": "2026-05-12T04:31:07.000Z"
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-12T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -23,24 +23,35 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Троллинг дня: «Зенит» поздравил Сергеева с днем рождения – сразу после победного гола «Краснодару»",
-    "description": "Привет бывшему.",
-    "fullText": "Привет бывшему.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2f/786cc7d604b5da65041714af6c8d0.jpeg",
+    "title": "«Может, юбилей не будут переносить!» К чемпионству «Зенит» ведут Лунев, Сергеев и Ерохин",
+    "description": "Экс-вратарь шутит про 100-летие.",
+    "fullText": "Экс-вратарь шутит про 100-летие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/9a/f84756f51422ca2f65654ec9a59a0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404514.html",
-    "time": "2026-05-11T20:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3404523.html",
+    "time": "2026-05-11T21:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Приквел «Пятницы, 13-е» — сериал «Хрустальное озеро» — стартует 15 октября",
-    "description": "А второй сезон «Газеты» выйдет в сентябре.",
-    "fullText": "А второй сезон «Газеты» выйдет в сентябре.",
-    "image": "https://leonardo.osnova.io/37dc927b-8cde-545a-aedd-5dd3558ba9e5/",
+    "title": "На ПК и консолях вышла адвенчура об исследовании мира на фургоне Outbound",
+    "description": "Цена игры в Steam составила 1170 рублей.",
+    "fullText": "Цена игры в Steam составила 1170 рублей.",
+    "image": "https://leonardo.osnova.io/a74e475e-688a-5090-bf21-278557dec0c0/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5052903-prikvel-pyatnitsy-13-e-syeral-hrustalnoe-ozero?from=rss",
-    "time": "2026-05-11T15:47:39.000Z"
+    "url": "https://dtf.ru/games/5052520-kooperativnaya-igra-outbound-na-pk-i-konsolyakh-o-puteshestviyakh-na-furgone?from=rss",
+    "time": "2026-05-11T14:17:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
