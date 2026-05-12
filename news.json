@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС выяснил, в каких регионах были самые высокие пенсии в апреле",
-    "description": "В топ-3 вошли Чукотка, Ненецкий АО и Камчатский край",
-    "fullText": "В топ-3 вошли Чукотка, Ненецкий АО и Камчатский край",
+    "title": "В МИД РФ ответили на пустые слова Каллас о Грузии внушительными цифрами",
+    "description": "Страна развивается благодаря тому, что не следует \"подсказкам\" своих патронов\", отметил директор четвертого департамента стран СНГ Михаил Калугин",
+    "fullText": "Страна развивается благодаря тому, что не следует \"подсказкам\" своих патронов\", отметил директор четвертого департамента стран СНГ Михаил Калугин",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27377401",
-    "time": "2026-05-11T22:39:32.000Z"
+    "url": "https://tass.ru/politika/27379121",
+    "time": "2026-05-12T04:31:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Мирра или Рыбакина – кого возьмете в команду на четвертьфинал в Риме?",
+    "description": "Выбирайте лучших.",
+    "fullText": "Выбирайте лучших.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/1b/87241c68c45e99e6872eda6e75417.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/rome/?utm_source=native",
+    "time": "2026-05-12T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Барса» отмечает титул: на великах и на автобусе. Новая и вечная традиции!",
-    "description": "Праздник.",
-    "fullText": "Праздник.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/51/27c7568f04194bd4a50b941bb503d.jpeg",
+    "title": "Троллинг дня: «Зенит» поздравил Сергеева с днем рождения – сразу после победного гола «Краснодару»",
+    "description": "Привет бывшему.",
+    "fullText": "Привет бывшему.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/2f/786cc7d604b5da65041714af6c8d0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404372.html",
-    "time": "2026-05-11T19:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3404514.html",
+    "time": "2026-05-11T20:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Голосование — какую оценку на Metacritic получит LEGO Batman: Legacy of the Dark Knight",
-    "description": "Релиз масштабной игры от TT Games всё ближе.",
-    "fullText": "Релиз масштабной игры от TT Games всё ближе.",
-    "image": "https://leonardo.osnova.io/fe6cf447-60ce-5ed0-9f6a-929c33ad405b/-/format/mp4/",
+    "title": "Приквел «Пятницы, 13-е» — сериал «Хрустальное озеро» — стартует 15 октября",
+    "description": "А второй сезон «Газеты» выйдет в сентябре.",
+    "fullText": "А второй сезон «Газеты» выйдет в сентябре.",
+    "image": "https://leonardo.osnova.io/37dc927b-8cde-545a-aedd-5dd3558ba9e5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5052293-lego-batman-legacy-of-the-dark-knight-otsenki-na-metacritic?from=rss",
-    "time": "2026-05-11T10:50:42.000Z"
+    "url": "https://dtf.ru/cinema/5052903-prikvel-pyatnitsy-13-e-syeral-hrustalnoe-ozero?from=rss",
+    "time": "2026-05-11T15:47:39.000Z"
   }
 ]
