@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Sky: более 100 британских депутатов подписали заявление в поддержку Стармера",
-    "description": "Имена авторов обращения не были обнародованы",
-    "fullText": "Имена авторов обращения не были обнародованы",
+    "title": "ТАСС: украинцы недовольны попыткой героизации польской оккупации в ХХ веке",
+    "description": "Источник в российских силовых структурах уточнил, что украинцы публикуют негативные комментарии касательно стремления института \"национальной памяти\" выдать польскую оккупацию за благосклонный период в истории страны",
+    "fullText": "Источник в российских силовых структурах уточнил, что украинцы публикуют негативные комментарии касательно стремления института \"национальной памяти\" выдать польскую оккупацию за благосклонный период в истории страны",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27387665",
-    "time": "2026-05-12T15:06:18.000Z"
+    "url": "https://tass.ru/obschestvo/27388717",
+    "time": "2026-05-12T17:12:21.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сенсация в Шотландии: чемпионом может стать не «Селтик» и не «Рейнджерс» – впервые за 41 год",
-    "description": "«Хартс» – шотландский «Брайтон».",
-    "fullText": "«Хартс» – шотландский «Брайтон».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d6/0f6ec3f094bc29251d669128ec79b.jpeg",
+    "title": "«Мерседес» – среди лидеров «Ф-1» по отвратительным стартам. Что не так?",
+    "description": "Минус 24 позиции за первые Гран-при.",
+    "fullText": "Минус 24 позиции за первые Гран-при.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/cd/2fc1591a6440a93825d2dc36d073e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404473.html",
-    "time": "2026-05-12T11:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9pbnNpZGUu",
-    "title": "Сделали специальный сайт, где рассказываем про Спортс’’ от лица Спортса’’",
-    "description": "Все о наших продуктах.",
-    "fullText": "Все о наших продуктах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/e1/a0991074540e9b65fb41ec04a320e.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://inside.sports.ru/",
-    "time": "2026-05-12T11:30:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3404219.html",
+    "time": "2026-05-12T13:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Флоренс Пью сыграет в экранизации книги «Полночная библиотека» о мультивселенной",
-    "description": "Съёмки начнутся в начале 2027 года.",
-    "fullText": "Съёмки начнутся в начале 2027 года.",
-    "image": "https://leonardo.osnova.io/fc4f1d02-eb73-5280-93f0-0c91010bf1c5/",
+    "title": "Amazon продлила «Ричера» на пятый сезон — до выхода четвёртого",
+    "description": "Дату релиза новых серий пока не называли.",
+    "fullText": "Дату релиза новых серий пока не называли.",
+    "image": "https://leonardo.osnova.io/bcd8a4c2-9a93-5f00-afad-50ae5b572400/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5055069-florens-pyu-ekranizatsiya-polnochnoy-biblioteki?from=rss",
-    "time": "2026-05-12T11:15:45.000Z"
+    "url": "https://dtf.ru/cinema/5055072-amazon-prodlil-richera-na-pjatyj-sezon?from=rss",
+    "time": "2026-05-12T11:32:50.000Z"
   }
 ]
