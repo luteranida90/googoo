@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Новосибирской области налоговые поступления от IT-компаний достигли 16 млрд рублей",
-    "description": "В IT-секторе региона работают более 3 тыс. компаний, 500 из которых аккредитованы Минцифры",
-    "fullText": "В IT-секторе региона работают более 3 тыс. компаний, 500 из которых аккредитованы Минцифры",
+    "title": "В Роскосмосе назвали полное импортозамещение приоритетом при создании спутников",
+    "description": "Переход на новую индустриальную модель производства спутников включает стандартизацию и глубокую унификацию приборных решений для создания потоковых производственных процессов",
+    "fullText": "Переход на новую индустриальную модель производства спутников включает стандартизацию и глубокую унификацию приборных решений для создания потоковых производственных процессов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27393063",
-    "time": "2026-05-13T06:23:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "«Зенит навсегда» – столетняя история петербуржцев в документальном сериале Спортса’’",
-    "description": "Уже доступен на PREMIER и RUTUBE.",
-    "fullText": "Уже доступен на PREMIER и RUTUBE.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/3c/794b510f1409e9c963cbd05deffee.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/1sf7qm",
-    "time": "2026-05-13T04:30:00.000Z"
+    "url": "https://tass.ru/kosmos/27395653",
+    "time": "2026-05-13T09:35:45.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Интриги в топ-5: «Борнмут» и «Комо» претендуют на ЛЧ, «Вольфсбург» и «Ницца» могут вылететь",
-    "description": "За кем следить, какие шансы.",
-    "fullText": "За кем следить, какие шансы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/86/d35830ab9408a9cb25b9088e349c3.jpeg",
+    "title": "Соперник Усика спарринговал с Фьюри и помог тому победить Кличко. У него реально есть шансы?",
+    "description": "Дебютировал в боксе больше 10 лет назад.",
+    "fullText": "Дебютировал в боксе больше 10 лет назад.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c8/db5ca5017450a9258f5c1573e6a5e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3404424.html",
-    "time": "2026-05-12T20:20:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3397509.html",
+    "time": "2026-05-13T04:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Sony представила лицензированный контроллер Scuf Omega по цене 220 долларов",
-    "description": "Без вибрации, но с магнитными стиками и двухрежимными триггерами.",
-    "fullText": "Без вибрации, но с магнитными стиками и двухрежимными триггерами.",
-    "image": "https://leonardo.osnova.io/32e1089e-23f8-5e35-befc-035e791d5652/",
+    "title": "Google представила Gemini Intelligence для Android",
+    "description": "Среди функций — кастомные виджеты по промпту, выполнение многоэтапных задач в фоновом режиме и другие.",
+    "fullText": "Среди функций — кастомные виджеты по промпту, выполнение многоэтапных задач в фоновом режиме и другие.",
+    "image": "https://leonardo.osnova.io/875934e8-f8b4-5a5a-a1d1-94b405a3d82d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5055591-sony-anonsirovala-kontroller-scuf-omega?from=rss",
-    "time": "2026-05-12T15:14:43.000Z"
+    "url": "https://dtf.ru/hard/5056320-google-predstavila-gemini-intelligence-dlya-android-ustroystv?from=rss",
+    "time": "2026-05-12T19:18:08.000Z"
   }
 ]
