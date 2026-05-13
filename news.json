@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВС Польши подняли истребители из-за российского Ил-20 над Балтикой",
-    "description": "Самолет РФ выполнял полет в международной зоне, заявил глава Минобороны республики Владислав Косиняк-Камыш",
-    "fullText": "Самолет РФ выполнял полет в международной зоне, заявил глава Минобороны республики Владислав Косиняк-Камыш",
+    "title": "В Черкассах произошли взрывы",
+    "description": "В Черкасской области объявили воздушную тревогу",
+    "fullText": "В Черкасской области объявили воздушную тревогу",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27402407",
-    "time": "2026-05-13T20:53:25.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Играй мяч, как он лежит»: тизер сериала «Ястреб» об экс-чемпионе по гольфу, возрождающем спортивную карьеру",
-    "description": "Шоу выйдет на Netflix 16 июля.",
-    "fullText": "Шоу выйдет на Netflix 16 июля.",
-    "image": "https://leonardo.osnova.io/61454929-4926-5c80-b6f3-30ccfe6389a7/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5059291-serial-yastreb-komediya-o-golfe?from=rss",
-    "time": "2026-05-13T19:36:03.000Z"
+    "url": "https://tass.ru/proisshestviya/27402625",
+    "time": "2026-05-13T21:55:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -34,13 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Пускай, #####, дома сидят! За других болеют». Медведев сорвался на фанатов в Нижнем – за плакаты «Наш тренер» со Шпилевским",
-    "description": "Пришлось извиняться.",
-    "fullText": "Пришлось извиняться.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/72/42f95bde343a9939abff02d47b065.jpeg",
+    "title": "Первая женщина-спортивный директор в Бундеслиге: легенда «Баварии», Пеп звал ее в «Сити»",
+    "description": "Катлин Крюгер – босс «Гамбурга».",
+    "fullText": "Катлин Крюгер – босс «Гамбурга».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/36/f94797dd04a71ac32432857dbfdc7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404452.html",
-    "time": "2026-05-13T16:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3404692.html",
+    "time": "2026-05-13T18:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Студия Laika представила тизер-трейлер «В сердце леса» — своего нового анимационного фильма",
+    "description": "Прокат начнётся в октябре — это будет первая картина компании с 2019 года.",
+    "fullText": "Прокат начнётся в октябре — это будет первая картина компании с 2019 года.",
+    "image": "https://leonardo.osnova.io/1f241a0c-081d-528c-8fdd-cfff39eb7c0c/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5058424-studiya-laika-anonsirovala-novyy-animatsionnyy-film-v-serdce-lesa?from=rss",
+    "time": "2026-05-13T13:33:33.000Z"
   }
 ]
