@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как устроен настольный теннис: миллиарды рублей и миллионы просмотров",
-    "description": "Он вам не пинг-понг.",
-    "fullText": "Он вам не пинг-понг.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/c5/4a42e60af4ea1a5f974c6ffd1443c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/ping-pong/blogs/3401664.html",
-    "time": "2026-05-12T19:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Indiana Jones and the Great Circle вышла на Switch 2",
-    "description": "Высокооценённая игра теперь доступна на всех консолях текущего поколения.",
-    "fullText": "Высокооценённая игра теперь доступна на всех консолях текущего поколения.",
-    "image": "https://leonardo.osnova.io/9ba0a711-db4a-59d5-b6d9-8d6de5838454/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5055230-indiana-jones-and-the-great-circle-na-switch-2-obzor-i-osobennosti?from=rss",
-    "time": "2026-05-12T12:23:44.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "В Новосибирской области налоговые поступления от IT-компаний достигли 16 млрд рублей",
+    "description": "В IT-секторе региона работают более 3 тыс. компаний, 500 из которых аккредитованы Минцифры",
+    "fullText": "В IT-секторе региона работают более 3 тыс. компаний, 500 из которых аккредитованы Минцифры",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/ekonomika/27393063",
+    "time": "2026-05-13T06:23:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«Зенит навсегда» – столетняя история петербуржцев в документальном сериале Спортса’’",
+    "description": "Уже доступен на PREMIER и RUTUBE.",
+    "fullText": "Уже доступен на PREMIER и RUTUBE.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/3c/794b510f1409e9c963cbd05deffee.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/1sf7qm",
+    "time": "2026-05-13T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Интриги в топ-5: «Борнмут» и «Комо» претендуют на ЛЧ, «Вольфсбург» и «Ницца» могут вылететь",
+    "description": "За кем следить, какие шансы.",
+    "fullText": "За кем следить, какие шансы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/86/d35830ab9408a9cb25b9088e349c3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3404424.html",
+    "time": "2026-05-12T20:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Sony представила лицензированный контроллер Scuf Omega по цене 220 долларов",
+    "description": "Без вибрации, но с магнитными стиками и двухрежимными триггерами.",
+    "fullText": "Без вибрации, но с магнитными стиками и двухрежимными триггерами.",
+    "image": "https://leonardo.osnova.io/32e1089e-23f8-5e35-befc-035e791d5652/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/hard/5055591-sony-anonsirovala-kontroller-scuf-omega?from=rss",
+    "time": "2026-05-12T15:14:43.000Z"
   }
 ]
