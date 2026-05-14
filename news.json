@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Даниил Медведев признался, что ему нечего терять в матче с Синнером",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27415845",
-    "time": "2026-05-14T20:37:12.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "30 разочарований сезона в новой лиге Невидимки. Узнаете всех?",
     "description": "Они не оправдали ожиданий.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Больше 110 млн рублей – за стадион Медиалиги. А как он выглядит?",
-    "description": "Строили три года.",
-    "fullText": "Строили три года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/e1/1520747cd4430808b32b4664a54b0.jpeg",
+    "title": "Этот игрок нанес три знаменитых удара головой в двух финалах ЧМ",
+    "description": "Как же он сиял.",
+    "fullText": "Как же он сиял.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/f5/63390c0e44339bc3c31a1485adb9f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3404883.html",
-    "time": "2026-05-14T16:40:00.000Z"
+    "url": "https://www.sports.ru/special/hot-or-haaland?utm_source=native",
+    "time": "2026-05-14T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5061342-garri-njuman-o-relize-sbox-i-otzyvakh-igrokov?from=rss",
     "time": "2026-05-14T15:07:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
