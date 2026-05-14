@@ -1,46 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Заходите на вечеринку к Соболенко и забирайте подарки",
-    "description": "Арина уже ждет.",
-    "fullText": "Арина уже ждет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/72/526e8da374c87a639331cc20d0783.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/sabalenka28/?utm_source=native",
-    "time": "2026-05-14T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Поражение «Локомотива» в эмоциях жены Шалунова. И как Максим не забил?",
-    "description": "Это финал Кубка Гагарина!",
-    "fullText": "Это финал Кубка Гагарина!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5e/610d556d9461b84512e52eb8d094c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3404963.html",
-    "time": "2026-05-13T22:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Star Wars Outlaws, Red Dead Redemption 2, The Thaumaturge и ещё несколько игр добавят в расширенный каталог PS Plus",
-    "description": "Уже 19 мая.",
-    "fullText": "Уже 19 мая.",
-    "image": "https://leonardo.osnova.io/cc70a06f-2c27-5796-8194-c7a70e46d3bc/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5058802-igry-star-wars-outlaws-i-red-dead-redemption-2-v-ps-plus?from=rss",
-    "time": "2026-05-13T15:37:48.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "Оператор БПЛА \"Востока\" уничтожил украинскую диверсионную засаду",
+    "description": "Замаскированная позиция была ликвидирована вместе с противником",
+    "fullText": "Замаскированная позиция была ликвидирована вместе с противником",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/armiya-i-opk/27412291",
+    "time": "2026-05-14T13:07:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Вспомнили, как «Локомотив» обыгрывал «Интер» и «Реал» в еврокубках",
+    "description": "Золотое время.",
+    "fullText": "Золотое время.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4c/f1364f1084937b9e59ae08914d5bf.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-14T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "🏆 7-й трофей Сафонова с «ПСЖ»! Лучший игрок чемпионского матча",
+    "description": "8 сэйвов с «Лансом», оценка – 9,7.",
+    "fullText": "8 сэйвов с «Лансом», оценка – 9,7.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/14/6570c4b774f4bb40532a0b013ec9f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3404996.html",
+    "time": "2026-05-14T08:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Croteam представила The Talos Principle 3 — последнюю часть в серии философских головоломок",
+    "description": "Игрокам предстоит раскрыть тайны Аномалии — единственного места во Вселенной, где законы физики работают не так, как положено.",
+    "fullText": "Игрокам предстоит раскрыть тайны Аномалии — единственного места во Вселенной, где законы физики работают не так, как положено.",
+    "image": "https://leonardo.osnova.io/e5424286-5bd1-51c0-8f56-5b4cfbf64a5f/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5058867-the-talos-principle-3-ot-croteam?from=rss",
+    "time": "2026-05-13T16:19:11.000Z"
   }
 ]
