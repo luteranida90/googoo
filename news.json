@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Черкассах произошли взрывы",
-    "description": "В Черкасской области объявили воздушную тревогу",
-    "fullText": "В Черкасской области объявили воздушную тревогу",
+    "title": "Больше половины опрошенных россиян назвали престижной работу в молочной отрасли",
+    "description": "По данным исследования компании \"Логика молока\" и Аналитического центра НАФИ, у россиян преобладают устаревшие представления о профессии \"молочник\"",
+    "fullText": "По данным исследования компании \"Логика молока\" и Аналитического центра НАФИ, у россиян преобладают устаревшие представления о профессии \"молочник\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27402625",
-    "time": "2026-05-13T21:55:16.000Z"
+    "url": "https://tass.ru/obschestvo/27404891",
+    "time": "2026-05-14T06:08:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Заходите на вечеринку к Соболенко и забирайте подарки",
+    "description": "Арина уже ждет.",
+    "fullText": "Арина уже ждет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/72/526e8da374c87a639331cc20d0783.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/sabalenka28/?utm_source=native",
+    "time": "2026-05-14T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первая женщина-спортивный директор в Бундеслиге: легенда «Баварии», Пеп звал ее в «Сити»",
-    "description": "Катлин Крюгер – босс «Гамбурга».",
-    "fullText": "Катлин Крюгер – босс «Гамбурга».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/36/f94797dd04a71ac32432857dbfdc7.jpeg",
+    "title": "Как «Ак Барс» перевернул ход финала Кубка Гагарина с «Локомотивом»",
+    "description": "Хет-трик Миллера и еще 4 причины победы Казани.",
+    "fullText": "Хет-трик Миллера и еще 4 причины победы Казани.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/94/65b5e3d304eda9bdb1940d6e59817.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404692.html",
-    "time": "2026-05-13T18:30:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3404966.html",
+    "time": "2026-05-13T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия Laika представила тизер-трейлер «В сердце леса» — своего нового анимационного фильма",
-    "description": "Прокат начнётся в октябре — это будет первая картина компании с 2019 года.",
-    "fullText": "Прокат начнётся в октябре — это будет первая картина компании с 2019 года.",
-    "image": "https://leonardo.osnova.io/1f241a0c-081d-528c-8fdd-cfff39eb7c0c/-/format/mp4/",
+    "title": "В Alinea Analytics оценили стартовые продажи Saros в 300 тысяч копий",
+    "description": "А значительная часть владельцев прежде играла в Returnal.",
+    "fullText": "А значительная часть владельцев прежде играла в Returnal.",
+    "image": "https://leonardo.osnova.io/d0539d74-8b6b-5473-ad37-43a452015afe/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5058424-studiya-laika-anonsirovala-novyy-animatsionnyy-film-v-serdce-lesa?from=rss",
-    "time": "2026-05-13T13:33:33.000Z"
+    "url": "https://dtf.ru/gameindustry/5058232-saros-ot-housemarque-startovye-prodazhi?from=rss",
+    "time": "2026-05-13T12:26:21.000Z"
   }
 ]
