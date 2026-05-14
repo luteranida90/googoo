@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Больше половины опрошенных россиян назвали престижной работу в молочной отрасли",
-    "description": "По данным исследования компании \"Логика молока\" и Аналитического центра НАФИ, у россиян преобладают устаревшие представления о профессии \"молочник\"",
-    "fullText": "По данным исследования компании \"Логика молока\" и Аналитического центра НАФИ, у россиян преобладают устаревшие представления о профессии \"молочник\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27404891",
-    "time": "2026-05-14T06:08:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Заходите на вечеринку к Соболенко и забирайте подарки",
     "description": "Арина уже ждет.",
@@ -22,36 +11,36 @@
     "time": "2026-05-14T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Помните, как «Локомотив» с Семиным блистал в 90-е?",
-    "description": "Мы напомним.",
-    "fullText": "Мы напомним.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/32/a4d047e4540938dfb07834dcd3523.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-13T19:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как «Ак Барс» перевернул ход финала Кубка Гагарина с «Локомотивом»",
-    "description": "Хет-трик Миллера и еще 4 причины победы Казани.",
-    "fullText": "Хет-трик Миллера и еще 4 причины победы Казани.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/94/65b5e3d304eda9bdb1940d6e59817.jpeg",
+    "title": "Поражение «Локомотива» в эмоциях жены Шалунова. И как Максим не забил?",
+    "description": "Это финал Кубка Гагарина!",
+    "fullText": "Это финал Кубка Гагарина!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5e/610d556d9461b84512e52eb8d094c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3404966.html",
-    "time": "2026-05-13T19:15:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3404963.html",
+    "time": "2026-05-13T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Alinea Analytics оценили стартовые продажи Saros в 300 тысяч копий",
-    "description": "А значительная часть владельцев прежде играла в Returnal.",
-    "fullText": "А значительная часть владельцев прежде играла в Returnal.",
-    "image": "https://leonardo.osnova.io/d0539d74-8b6b-5473-ad37-43a452015afe/",
+    "title": "Star Wars Outlaws, Red Dead Redemption 2, The Thaumaturge и ещё несколько игр добавят в расширенный каталог PS Plus",
+    "description": "Уже 19 мая.",
+    "fullText": "Уже 19 мая.",
+    "image": "https://leonardo.osnova.io/cc70a06f-2c27-5796-8194-c7a70e46d3bc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5058232-saros-ot-housemarque-startovye-prodazhi?from=rss",
-    "time": "2026-05-13T12:26:21.000Z"
+    "url": "https://dtf.ru/games/5058802-igry-star-wars-outlaws-i-red-dead-redemption-2-v-ps-plus?from=rss",
+    "time": "2026-05-13T15:37:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
