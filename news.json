@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Нечаев предложил запустить на \"Госуслугах\" рассылки аллергикам о начале цветения",
+    "description": "Лидер партии \"Новые люди\" подчеркнул, что нет необходимости в рассылке информации всем пользователям",
+    "fullText": "Лидер партии \"Новые люди\" подчеркнул, что нет необходимости в рассылке информации всем пользователям",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27418629",
+    "time": "2026-05-15T06:08:47.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "30 разочарований сезона в новой лиге Невидимки. Узнаете всех?",
     "description": "Они не оправдали ожиданий.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Канада на ЧМ-2026: Кросби в составе, но капитаном выбрали 19-летнего пацана",
-    "description": "Бедард опять мимо.",
-    "fullText": "Бедард опять мимо.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/aa/d61f670644597a4c3ed5a3e1dd628.jpeg",
+    "title": "Как выглядел ЗОЖ 10 лет назад: еда по часам, отказ от глютена и сахара, марафоны похудения",
+    "description": "Кое-что осталось неизменным.",
+    "fullText": "Кое-что осталось неизменным.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/f2/c5f407ec44e2894e38ec741d36372.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3405331.html",
-    "time": "2026-05-14T18:14:00.000Z"
+    "url": "https://www.sports.ru/health/blogs/3373676.html",
+    "time": "2026-05-14T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Очевидно, мы получили не лучшие оценки»: Гарри Ньюман прокомментировал релиз s&box",
-    "description": "В студии ведут работу над ошибками.",
-    "fullText": "В студии ведут работу над ошибками.",
-    "image": "https://leonardo.osnova.io/161ec55c-b7f3-59ae-abe0-d96995ec62d4/",
+    "title": "Оригинальные Metro 2033 и Metro: Last Light добавили в программу GOG по сохранению игр",
+    "description": "Шутеры получили привычную оптимизацию для современных ПК.",
+    "fullText": "Шутеры получили привычную оптимизацию для современных ПК.",
+    "image": "https://leonardo.osnova.io/adb09eef-1b6e-5973-98a9-f0ee8e41b819/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5061342-garri-njuman-o-relize-sbox-i-otzyvakh-igrokov?from=rss",
-    "time": "2026-05-14T15:07:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/games/5061360-metro-2033-i-metro-last-light-na-gog?from=rss",
+    "time": "2026-05-14T14:37:35.000Z"
   }
 ]
