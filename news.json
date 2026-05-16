@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Над регионами России сбили 76 украинских БПЛА",
-    "description": "Силы ПВО уничтожили дроны в период с 09:00 до 15:00 мск",
-    "fullText": "Силы ПВО уничтожили дроны в период с 09:00 до 15:00 мск",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260516/9058639.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27433121",
-    "time": "2026-05-16T12:25:20.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Челси» против «Ман Сити» в финале Кубка Англии! Ставьте на игру с БЕТСИТИ",
     "description": "И фрибетом до 1500.",
@@ -20,6 +9,17 @@
     "category": "all",
     "url": "https://sirena.world/i9jlem",
     "time": "2026-05-16T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Эстевао пропустит ЧМ из-за травмы. Похоже, его лагерь спорит с «Челси» из-за операции",
+    "description": "Окружение за консервативное лечение.",
+    "fullText": "Окружение за консервативное лечение.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/7b/6ff24f00e4a7d91c9c6c1ec6121d7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3405757.html",
+    "time": "2026-05-16T10:28:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,17 +33,6 @@
     "time": "2026-05-16T10:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сенсация в Шотландии: чемпионом может стать не «Селтик» и не «Рейнджерс» – впервые за 41 год",
-    "description": "«Хартс» – шотландский «Брайтон».",
-    "fullText": "«Хартс» – шотландский «Брайтон».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d6/0f6ec3f094bc29251d669128ec79b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3404473.html",
-    "time": "2026-05-16T09:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Forza Horizon 6 установила рекорд серии по числу одновременных игроков в Steam — ещё до основного релиза",
     "description": "Цифра превысила 140 тысяч человек.",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5063894-forza-horizon-6-rekord-igrokov-steam?from=rss",
     "time": "2026-05-15T12:05:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
