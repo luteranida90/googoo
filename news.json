@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Над регионами России сбили 76 украинских БПЛА",
+    "description": "Силы ПВО уничтожили дроны в период с 09:00 до 15:00 мск",
+    "fullText": "Силы ПВО уничтожили дроны в период с 09:00 до 15:00 мск",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260516/9058639.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/27433121",
+    "time": "2026-05-16T12:25:20.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Челси» против «Ман Сити» в финале Кубка Англии! Ставьте на игру с БЕТСИТИ",
     "description": "И фрибетом до 1500.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://sirena.world/i9jlem",
     "time": "2026-05-16T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бонгонда сообщил об уходе из \"Спартака\"",
-    "description": "Нападающий выступал за московский клуб с 2023 года",
-    "fullText": "Нападающий выступал за московский клуб с 2023 года",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260516/9058541.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27432761",
-    "time": "2026-05-16T11:27:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Челси» – «Сити» в финале, «Арсеналу» нужен разгром, матч года в Шотландии. Что посмотреть?",
-    "description": "Лучший футбол выходных.",
-    "fullText": "Лучший футбол выходных.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/1d/c9e7edc174fedb7d0074fd337174e.jpeg",
+    "title": "Сенсация в Шотландии: чемпионом может стать не «Селтик» и не «Рейнджерс» – впервые за 41 год",
+    "description": "«Хартс» – шотландский «Брайтон».",
+    "fullText": "«Хартс» – шотландский «Брайтон».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d6/0f6ec3f094bc29251d669128ec79b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3405528.html",
-    "time": "2026-05-16T07:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Завтра «Локомотив» поборется за 3-е место РПЛ – а помните, как они брали золото?",
-    "description": "Мы напомним.",
-    "fullText": "Мы напомним.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/4d/4c8d92d474902b026f82ef8c349e0.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-16T07:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3404473.html",
+    "time": "2026-05-16T09:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Unknown Worlds представила «дорожную карту» развития Subnautica 2 на ближайшие месяцы",
-    "description": "Сначала разработчики планируют выпустить два апдейта с улучшениями, после чего выйдет масштабное обновление.",
-    "fullText": "Сначала разработчики планируют выпустить два апдейта с улучшениями, после чего выйдет масштабное обновление.",
-    "image": "https://leonardo.osnova.io/b2905b0e-205b-5c78-baa2-315eba0ed72f/",
+    "title": "Forza Horizon 6 установила рекорд серии по числу одновременных игроков в Steam — ещё до основного релиза",
+    "description": "Цифра превысила 140 тысяч человек.",
+    "fullText": "Цифра превысила 140 тысяч человек.",
+    "image": "https://leonardo.osnova.io/19480cef-02cb-5ede-bba0-0e5e6f4a4975/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5064424-unknown-worlds-plany-po-razvitiyu-subnautica-2?from=rss",
-    "time": "2026-05-15T15:47:15.000Z"
+    "url": "https://dtf.ru/games/5063894-forza-horizon-6-rekord-igrokov-steam?from=rss",
+    "time": "2026-05-15T12:05:01.000Z"
   }
 ]
