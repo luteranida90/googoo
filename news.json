@@ -1,9 +1,31 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В нулевых «Локо» обыгрывал «Реал», а «Спартак» – «Арсенал»! Выиграйте джерси тех лет",
+    "description": "В футбольной Аркаде.",
+    "fullText": "В футбольной Аркаде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/c6/7f5db1f544c4084c379a849ea09fd.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-05-17T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Глава \"РТК-ЦОД\" описал рынок дата-центров в РФ как \"дефицитную концентрацию\"",
+    "description": "В числе ограничений, перечислил Давид Мартиросов, - дефицит электроэнергии в ключевых локациях, окупаемость инвестиций в 7-10 лет, высокая стоимость заемного капитала",
+    "fullText": "В числе ограничений, перечислил Давид Мартиросов, - дефицит электроэнергии в ключевых локациях, окупаемость инвестиций в 7-10 лет, высокая стоимость заемного капитала",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27437251",
+    "time": "2026-05-17T09:02:14.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jYXJlZXJz",
     "title": "Все о работе в Спортсе’’ – вакансии, команды и процесс найма",
-    "description": "На нашем карьером сайте.",
-    "fullText": "На нашем карьером сайте.",
+    "description": "На нашем карьерном сайте.",
+    "fullText": "На нашем карьерном сайте.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/5/aa/ea10753164a38bef2b828b4664426.png",
     "source": "Sports.ru",
     "category": "all",
@@ -11,36 +33,25 @@
     "time": "2026-05-17T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: ночная украинская атака БПЛА 17 мая стала самой массовой в 2026 году",
-    "description": "Над регионами было уничтожено и перехвачено 556 беспилотников",
-    "fullText": "Над регионами было уничтожено и перехвачено 556 беспилотников",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260517/9059365.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27436599",
-    "time": "2026-05-17T06:53:45.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Возвращение Конора спустя больше 1800 дней не рекорд для UFC",
-    "description": "Пять главных камбэков.",
-    "fullText": "Пять главных камбэков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ee/d02ce6eea462fb0db64f107328ee9.jpeg",
+    "title": "Роналду проиграл финал ЛЧ-2. Пока 0 трофеев из 14",
+    "description": "Что же такое?",
+    "fullText": "Что же такое?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/b3/45f5cd439490daf2ad60ab991b7e8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3404074.html",
-    "time": "2026-05-17T03:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3405926.html",
+    "time": "2026-05-17T05:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ASUS выпустила первые модули оперативной памяти под брендом ROG и объявила о сотрудничестве с 14 производителями",
-    "description": "В декабре 2025 года СМИ сообщали, что компания собирается производить чипы на фоне дефицита на рынке.",
-    "fullText": "В декабре 2025 года СМИ сообщали, что компания собирается производить чипы на фоне дефицита на рынке.",
-    "image": "https://leonardo.osnova.io/49b34579-d819-5872-9636-a4f52c4a80c8/",
+    "title": "Steam запретил выпуск японской визуальной новеллы This Game is not Real — за несоответствие правилам платформы",
+    "description": "Разработчик пошутил, что Valve не понравилась «слишком милая» визуальная часть.",
+    "fullText": "Разработчик пошутил, что Valve не понравилась «слишком милая» визуальная часть.",
+    "image": "https://leonardo.osnova.io/c8b797cd-49ec-58c5-a980-fef2fe60b128/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5064802-asus-zapustila-moduli-pamjati-rog?from=rss",
-    "time": "2026-05-15T17:35:10.000Z"
+    "url": "https://dtf.ru/gameindustry/5064770-steam-zapretil-yaponskuyu-vizualnuyu-novellu-this-game-is-not-real?from=rss",
+    "time": "2026-05-15T17:46:02.000Z"
   }
 ]
