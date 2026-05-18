@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Во Владимирской области создают \"БАРС-Владимир\" для защиты региона от БПЛА",
-    "description": "",
-    "fullText": "",
+    "title": "В Исламском центре в США неизвестный открыл стрельбу",
+    "description": "Информации о жертвах или пострадавших пока нет, сообщил телеканал NBC 7",
+    "fullText": "Информации о жертвах или пострадавших пока нет, сообщил телеканал NBC 7",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27448569",
-    "time": "2026-05-18T13:27:23.000Z"
+    "url": "https://tass.ru/proisshestviya/27450955",
+    "time": "2026-05-18T19:38:17.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Кливленд» вернулся в финал Востока впервые со времен Леброна",
-    "description": "У Хардена остаются шансы на титул.",
-    "fullText": "У Хардена остаются шансы на титул.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/7b/51cc0b17d446fb377ab9520566a11.jpeg",
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Обзор «Мортал Комбат 2»: красивые драки зачем-то разбили пресными разговорами",
+    "description": "Стоит смотреть?",
+    "fullText": "Стоит смотреть?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/3b/d4e51e9124790958b3f44b9c3f389.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3406173.html",
-    "time": "2026-05-18T09:50:00.000Z"
+    "url": "https://cyber.sports.ru/cinema/blogs/3406252.html",
+    "time": "2026-05-18T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "30 разочарований сезона в новой лиге Невидимки. Узнаете всех?",
-    "description": "Они не оправдали ожиданий.",
-    "fullText": "Они не оправдали ожиданий.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/96/b6a1b778842cc9afd25c9a27208fa.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Соболев в футболке Дурана, Алаев уронил медаль, Joker Ерохина – чемпионский ролик «Зенита»",
+    "description": "В раздевалке было жарко!",
+    "fullText": "В раздевалке было жарко!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/8f/3dfeff7fb4e70871e479df30df7f8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-05-18T09:30:00.000Z"
+    "url": "https://video.sports.ru/video/6GnxTHeiFjnl6A-x6o8EWFe2EnFARz7z4Bt4yppZrzE",
+    "time": "2026-05-18T17:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хоррор «Железное лёгкое» по мотивам игры Iron Lung от автора DUSK выйдет в «цифре» 31 мая",
-    "description": "Режиссёром и ведущим актёром выступил блогер Markiplier.",
-    "fullText": "Режиссёром и ведущим актёром выступил блогер Markiplier.",
-    "image": "https://leonardo.osnova.io/6bed0e4e-808a-538e-91ea-2ea5d10bd6a2/",
+    "title": "Для битемапа Marvel Cosmic Invasion вышло первое дополнение — в игре появились Циклоп и Существо",
+    "description": "Цена DLC составила 200 рублей.",
+    "fullText": "Цена DLC составила 200 рублей.",
+    "image": "https://leonardo.osnova.io/db04b4fd-12fb-5a0f-96ba-fc7d09a43d2a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5068837-horror-zheleznoe-lyogkoe-iron-lung-markiplier?from=rss",
-    "time": "2026-05-18T07:34:52.000Z"
+    "url": "https://dtf.ru/games/5069649-dopolnenie-dlya-marvel-cosmic-invasion-s-ciklopom-i-sushhestvom?from=rss",
+    "time": "2026-05-18T15:49:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вратарь забил победный пенальти на 89-й и оставил команду в Эредивизи. Сын Кумана!",
+    "description": "Когда все решалось.",
+    "fullText": "Когда все решалось.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/41/7496428fe4d81b51ff7bf621bb461.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3406214.html",
+    "time": "2026-05-18T15:30:00.000Z"
   }
 ]
