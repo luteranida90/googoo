@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Приходите к Соболенко на вечеринку и выигрывайте подарки",
-    "description": "Большой розыгрыш.",
-    "fullText": "Большой розыгрыш.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/72/526e8da374c87a639331cc20d0783.png",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Во Владимирской области создают \"БАРС-Владимир\" для защиты региона от БПЛА",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://sirena.sports.ru/sabalenka28/?utm_source=native",
-    "time": "2026-05-18T04:30:00.000Z"
+    "url": "https://tass.ru/armiya-i-opk/27448569",
+    "time": "2026-05-18T13:27:23.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Конор вернулся – мы не шутим! Летом проведет второй бой с Холлоуэем",
-    "description": "Главное о камбэке года.",
-    "fullText": "Главное о камбэке года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/a1/8bbc7d469436d8bf4bcae314c6f0c.jpeg",
+    "title": "«Кливленд» вернулся в финал Востока впервые со времен Леброна",
+    "description": "У Хардена остаются шансы на титул.",
+    "fullText": "У Хардена остаются шансы на титул.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/7b/51cc0b17d446fb377ab9520566a11.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3403939.html",
-    "time": "2026-05-17T21:45:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3406173.html",
+    "time": "2026-05-18T09:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "30 разочарований сезона в новой лиге Невидимки. Узнаете всех?",
+    "description": "Они не оправдали ожиданий.",
+    "fullText": "Они не оправдали ожиданий.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/96/b6a1b778842cc9afd25c9a27208fa.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-05-18T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчик The Witness и Braid представил обзорный трейлер Order of the Sinking Star — своей следующей игры",
-    "description": "Новая приключение от Джонатана Блоу обещает быть масштабным.",
-    "fullText": "Новая приключение от Джонатана Блоу обещает быть масштабным.",
-    "image": "https://leonardo.osnova.io/28fb3f54-9d22-5e59-9f9f-82d2d12ce612/-/format/mp4/",
+    "title": "Хоррор «Железное лёгкое» по мотивам игры Iron Lung от автора DUSK выйдет в «цифре» 31 мая",
+    "description": "Режиссёром и ведущим актёром выступил блогер Markiplier.",
+    "fullText": "Режиссёром и ведущим актёром выступил блогер Markiplier.",
+    "image": "https://leonardo.osnova.io/6bed0e4e-808a-538e-91ea-2ea5d10bd6a2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5064948-obzorniy-treyler-order-of-the-sinking-star?from=rss",
-    "time": "2026-05-15T19:33:49.000Z"
+    "url": "https://dtf.ru/cinema/5068837-horror-zheleznoe-lyogkoe-iron-lung-markiplier?from=rss",
+    "time": "2026-05-18T07:34:52.000Z"
   }
 ]
