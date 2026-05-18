@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Браун считает, что политику ФРГ определял \"образ врага в лице РФ\"",
-    "description": "Россия обладает потенциалом великой державы, добавил бывший сопредседатель Международного бюро мира",
-    "fullText": "Россия обладает потенциалом великой державы, добавил бывший сопредседатель Международного бюро мира",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27439871",
-    "time": "2026-05-17T21:39:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "«Пари НН» с «Сочи» вылетели, «Акрон» и «Динамо» Евсеева в стыках. В Тольятти уволили тренера",
     "description": "Итоги.",
@@ -31,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5064948-obzorniy-treyler-order-of-the-sinking-star?from=rss",
     "time": "2026-05-15T19:33:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
