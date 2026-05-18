@@ -1,14 +1,25 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Пари НН» с «Сочи» вылетели, «Акрон» и «Динамо» Евсеева в стыках. В Тольятти уволили тренера",
-    "description": "Итоги.",
-    "fullText": "Итоги.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/79/90cabb4394572aebf814f814734bf.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Приходите к Соболенко на вечеринку и выигрывайте подарки",
+    "description": "Большой розыгрыш.",
+    "fullText": "Большой розыгрыш.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/72/526e8da374c87a639331cc20d0783.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3400967.html",
-    "time": "2026-05-17T19:34:00.000Z"
+    "url": "https://sirena.sports.ru/sabalenka28/?utm_source=native",
+    "time": "2026-05-18T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Конор вернулся – мы не шутим! Летом проведет второй бой с Холлоуэем",
+    "description": "Главное о камбэке года.",
+    "fullText": "Главное о камбэке года.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/a1/8bbc7d469436d8bf4bcae314c6f0c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3403939.html",
+    "time": "2026-05-17T21:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5064948-obzorniy-treyler-order-of-the-sinking-star?from=rss",
     "time": "2026-05-15T19:33:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
