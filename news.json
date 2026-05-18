@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Заходите за футболками от Спортса” с легендарными футбольными героями",
+    "description": "Ночью – без очереди.",
+    "fullText": "Ночью – без очереди.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-18T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Исламском центре в США неизвестный открыл стрельбу",
-    "description": "Информации о жертвах или пострадавших пока нет, сообщил телеканал NBC 7",
-    "fullText": "Информации о жертвах или пострадавших пока нет, сообщил телеканал NBC 7",
+    "title": "В ГД предложили запретить УК использование ИИ-ассистентов при общении с жильцами",
+    "description": "Первый зампред комитета Госдумы по контролю Дмитрий Гусев отметил, что в любой момент граждане должны иметь возможность перейти к разговору с живым сотрудником",
+    "fullText": "Первый зампред комитета Госдумы по контролю Дмитрий Гусев отметил, что в любой момент граждане должны иметь возможность перейти к разговору с живым сотрудником",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27450955",
-    "time": "2026-05-18T19:38:17.000Z"
+    "url": "https://tass.ru/obschestvo/27451271",
+    "time": "2026-05-18T21:01:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,15 +33,15 @@
     "time": "2026-05-18T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Соболев в футболке Дурана, Алаев уронил медаль, Joker Ерохина – чемпионский ролик «Зенита»",
-    "description": "В раздевалке было жарко!",
-    "fullText": "В раздевалке было жарко!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/8f/3dfeff7fb4e70871e479df30df7f8.jpeg",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Фируджа сыграл в шахматном турнире... с кровати и в шортах «Чикаго Буллз»!",
+    "description": "Превзошел Карлсена.",
+    "fullText": "Превзошел Карлсена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/1d/245f595794681be02e578e08c2560.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/6GnxTHeiFjnl6A-x6o8EWFe2EnFARz7z4Bt4yppZrzE",
-    "time": "2026-05-18T17:20:00.000Z"
+    "url": "https://www.sports.ru/chess/blogs/3406274.html",
+    "time": "2026-05-18T17:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,16 +53,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5069649-dopolnenie-dlya-marvel-cosmic-invasion-s-ciklopom-i-sushhestvom?from=rss",
     "time": "2026-05-18T15:49:21.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вратарь забил победный пенальти на 89-й и оставил команду в Эредивизи. Сын Кумана!",
-    "description": "Когда все решалось.",
-    "fullText": "Когда все решалось.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/41/7496428fe4d81b51ff7bf621bb461.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3406214.html",
-    "time": "2026-05-18T15:30:00.000Z"
   }
 ]
