@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин: отношения России и Китая достигли беспрецедентного уровня",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27451711",
+    "time": "2026-05-19T00:01:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "Заходите за футболками от Спортса” с легендарными футбольными героями",
     "description": "Ночью – без очереди.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
     "time": "2026-05-18T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ГД предложили запретить УК использование ИИ-ассистентов при общении с жильцами",
-    "description": "Первый зампред комитета Госдумы по контролю Дмитрий Гусев отметил, что в любой момент граждане должны иметь возможность перейти к разговору с живым сотрудником",
-    "fullText": "Первый зампред комитета Госдумы по контролю Дмитрий Гусев отметил, что в любой момент граждане должны иметь возможность перейти к разговору с живым сотрудником",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27451271",
-    "time": "2026-05-18T21:01:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фируджа сыграл в шахматном турнире... с кровати и в шортах «Чикаго Буллз»!",
-    "description": "Превзошел Карлсена.",
-    "fullText": "Превзошел Карлсена.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/1d/245f595794681be02e578e08c2560.jpeg",
+    "title": "Провалы «Ливерпуля» и «Юве», сильное прощание Гризманна. Тактика топ-лиг",
+    "description": "И сложности Кунде.",
+    "fullText": "И сложности Кунде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/49/2414dbc5d4fff817a44ea05c82a97.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/chess/blogs/3406274.html",
-    "time": "2026-05-18T17:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3406227.html",
+    "time": "2026-05-18T19:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для битемапа Marvel Cosmic Invasion вышло первое дополнение — в игре появились Циклоп и Существо",
-    "description": "Цена DLC составила 200 рублей.",
-    "fullText": "Цена DLC составила 200 рублей.",
-    "image": "https://leonardo.osnova.io/db04b4fd-12fb-5a0f-96ba-fc7d09a43d2a/",
+    "title": "«Любовное послание всей истории героя» — LEGO Batman: Legacy of the Dark Knight получила 85 баллов на Metacritic",
+    "description": "Разработчики уместили в игре всё возможное, однако кого-то смутит очень низкая сложность.",
+    "fullText": "Разработчики уместили в игре всё возможное, однако кого-то смутит очень низкая сложность.",
+    "image": "https://leonardo.osnova.io/4e0b7aa2-c6a1-5fe0-a49f-4eeed19361f7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5069649-dopolnenie-dlya-marvel-cosmic-invasion-s-ciklopom-i-sushhestvom?from=rss",
-    "time": "2026-05-18T15:49:21.000Z"
+    "url": "https://dtf.ru/games/5069358-lego-batman-legacy-of-the-dark-knight-otsenki?from=rss",
+    "time": "2026-05-18T12:39:37.000Z"
   }
 ]
