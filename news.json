@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Итоги прогнозов авторов Спортса” на РПЛ: никто не верил в медаль «Локо», все попали в «Зенит»",
-    "description": "Кто точнее всех?",
-    "fullText": "Кто точнее всех?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/5f/59f9515464dc68559e2427c680894.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3406458.html",
-    "time": "2026-05-20T07:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Warner Bros. работает над фильмом по «Рику и Морти»",
-    "description": "Постановщиком выступит ветеран сериала Джейкоб Хэйр.",
-    "fullText": "Постановщиком выступит ветеран сериала Джейкоб Хэйр.",
-    "image": "https://leonardo.osnova.io/f310a280-b30e-53fc-8e4f-f2ba843bf967/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5072426-film-po-riku-i-morti?from=rss",
-    "time": "2026-05-20T06:42:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "Петербург подготовил 13 событий в рамках перекрестных Годов образования РФ и КНР",
+    "description": "В частности, планируется открытие совместного института в Харбине и создание образовательного центра СПбГУ в Пекине",
+    "fullText": "В частности, планируется открытие совместного института в Харбине и создание образовательного центра СПбГУ в Пекине",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/obschestvo/27474627",
+    "time": "2026-05-20T13:52:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«Астон Вилла» – фаворит финала Лиги Европы. Ставьте на БЕТСИТИ с фрибетом",
+    "description": "До 1500 рублей.",
+    "fullText": "До 1500 рублей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/df/f7d58c9fb4477810380afcb9d0227.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/1eq4em",
+    "time": "2026-05-20T13:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Пеп останется в «Сити»? Странные слова после чемпионства «Арсенала»",
+    "description": "«Готовимся к следующему сезону».",
+    "fullText": "«Готовимся к следующему сезону».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/85/d4e85f20d46cca55bb8e0c7e0c166.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3406650.html",
+    "time": "2026-05-20T10:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Продажи Reanimal превысили миллион копий",
+    "description": "Embracer довольна результатом.",
+    "fullText": "Embracer довольна результатом.",
+    "image": "https://leonardo.osnova.io/f1cc00a5-741f-55f3-9732-d5204e9ff65a/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5072459-prodazhi-igry-reanimal-dostigli-odnogo-milliona-kopiy?from=rss",
+    "time": "2026-05-20T07:32:19.000Z"
   }
 ]
