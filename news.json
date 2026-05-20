@@ -11,47 +11,36 @@
     "time": "2026-05-20T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Одессе после серии взрывов повреждена инфраструктура",
-    "description": "Какой именно объект получил повреждения, не уточняется",
-    "fullText": "Какой именно объект получил повреждения, не уточняется",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27466195",
-    "time": "2026-05-20T04:29:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Зайдите на вечеринку к Соболенко и выиграйте ракетку с автографом Арины",
-    "description": "Много подарков.",
-    "fullText": "Много подарков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/a9/af8e094334d9fbab6fa3778d54d82.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/sabalenka28/?utm_source=native",
-    "time": "2026-05-19T21:26:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гол, сделавший «Арсенал» чемпионом",
-    "description": "Забил два им, теперь помог.",
-    "fullText": "Забил два им, теперь помог.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/43/810a3f7a8403496ee6935951efc2d.jpeg",
+    "title": "Динамика гонки «Арсенала» с «Сити»: какой мы ее запомним",
+    "description": "Ломаная линия.",
+    "fullText": "Ломаная линия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/73/35f911eea4a3b997efdb80dc093fc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3406615.html",
-    "time": "2026-05-19T20:46:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3406620.html",
+    "time": "2026-05-19T23:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Техписатели CDPR рассказали, почему документация осложнила работу над ремейком «Ведьмака» и как проблему решили для будущих игр компании",
-    "description": "Часть процесса, о которой редко говорят.",
-    "fullText": "Часть процесса, о которой редко говорят.",
-    "image": "https://leonardo.osnova.io/1161d1cf-d4de-5d1b-9aef-84adbd77d04b/",
+    "title": "Голосование: какой рейтинг на Metacritic получит 007 First Light от создателей Hitman",
+    "description": "Первая игра IO Interactive за пять с лишним лет.",
+    "fullText": "Первая игра IO Interactive за пять с лишним лет.",
+    "image": "https://leonardo.osnova.io/62c28b34-0ef6-5c50-ab0f-c3135e7eb146/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5071060-dokumentatsiya-cd-projekt-problemy-razrabotki-remeika-vedmaka?from=rss",
-    "time": "2026-05-19T11:38:15.000Z"
+    "url": "https://dtf.ru/games/5071449-kakoy-reyting-na-metacritic-poluchit-007-first-light-ot-io-interactive?from=rss",
+    "time": "2026-05-19T14:55:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
