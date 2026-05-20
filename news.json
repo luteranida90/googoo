@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "США провели обыск на иранском танкере в Оманском заливе",
-    "description": "В отношении Celestial Sea возникли подозрения, что судно пытается прорвать американскую блокаду, сообщило Центральное командование ВС Соединенных Штатов",
-    "fullText": "В отношении Celestial Sea возникли подозрения, что судно пытается прорвать американскую блокаду, сообщило Центральное командование ВС Соединенных Штатов",
+    "title": "В Петербурге на Дворцовой площади откроется международный книжный салон",
+    "description": "Посетителей ждут около 300 литературных мероприятий",
+    "fullText": "Посетителей ждут около 300 литературных мероприятий",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27478057",
-    "time": "2026-05-20T19:09:36.000Z"
+    "url": "https://tass.ru/kultura/27478617",
+    "time": "2026-05-20T21:03:12.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +22,25 @@
     "time": "2026-05-20T19:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что вы пропустили в 37-м туре АПЛ: как отмечать голы с маской Человека-паука и перчаткой Майкла Джексона",
+    "description": "Кстати, «Арсенал» – чемпион.",
+    "fullText": "Кстати, «Арсенал» – чемпион.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/da/0f1ae1bed4db39bc5f2f7f72d74a3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3405477.html",
+    "time": "2026-05-20T18:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ubisoft увеличивает инвестиции в Teammates — экспериментальный проект по изучению возможностей ИИ-напарников",
-    "description": "В планы компании также входит развитие основных франшиз.",
-    "fullText": "В планы компании также входит развитие основных франшиз.",
-    "image": "https://leonardo.osnova.io/24d9c418-813e-5e75-b185-dac4faaca35f/",
+    "title": "Owlcat поделилась статистикой по бете The Expanse: Osiris Reborn — с ней ознакомилось более 20 тысяч игроков",
+    "description": "Разработчики также рассказали о том, как улучшат экшен-RPG к выходу — актёра мужской версии главного героя заменят.",
+    "fullText": "Разработчики также рассказали о том, как улучшат экшен-RPG к выходу — актёра мужской версии главного героя заменят.",
+    "image": "https://leonardo.osnova.io/2e8ee543-e7d4-5e61-b446-666d830df731/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5073562-ubisoft-uvelichivaet-investitsii-v-proekt-teammates?from=rss",
-    "time": "2026-05-20T18:11:40.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9oaC5ydS92",
-    "title": "Ищем диванного комментатора на ЧМ-2026 вместе с hh.ru",
-    "description": "Вакансия мечты.",
-    "fullText": "Вакансия мечты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/34/0ffd3d8aa46e6adcf6bfe5fd7b5f3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://hh.ru/vacancy/133097257?utm_source=native",
-    "time": "2026-05-20T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фермин мимо ЧМ-2026 из-за глупой травмы в ненужном матче. А ведь проводил лучший сезон в жизни",
-    "description": "Перелом.",
-    "fullText": "Перелом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/54/05f359c4044e1b60c7f808cd7117f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3406338.html",
-    "time": "2026-05-20T15:55:00.000Z"
+    "url": "https://dtf.ru/games/5073281-owlcat-statistika-bety-the-expanse-osiris-reborn?from=rss",
+    "time": "2026-05-20T15:04:20.000Z"
   }
 ]
