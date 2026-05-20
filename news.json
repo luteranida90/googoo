@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Вспомните лучшие моменты в истории «Локомотива» и выиграйте подарки от клуба",
+    "description": "От шарфа до мяча.",
+    "fullText": "От шарфа до мяча.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/66/2f9649f654433baaebbf6ebe11eb4.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-20T04:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Роспотребнадзор: хантавирус Андес может жить на поверхностях несколько дней",
-    "description": "В обзоре отмечается, что повышение уровня влажности может способствовать более длительному выживанию хантавирусов вне носителя",
-    "fullText": "В обзоре отмечается, что повышение уровня влажности может способствовать более длительному выживанию хантавирусов вне носителя",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260520/9066645.jpg",
+    "title": "В Одессе после серии взрывов повреждена инфраструктура",
+    "description": "Какой именно объект получил повреждения, не уточняется",
+    "fullText": "Какой именно объект получил повреждения, не уточняется",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27464107",
-    "time": "2026-05-19T23:11:33.000Z"
+    "url": "https://tass.ru/proisshestviya/27466195",
+    "time": "2026-05-20T04:29:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Говорите, мы скучные? Вы просто завидуете». Самое долгожданное чемпионство «Арсенала» до 2026-го",
-    "description": "Тогда ждали 18 лет.",
-    "fullText": "Тогда ждали 18 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/85/e43bf5d8f45b981071a006f59a529.jpeg",
+    "title": "Гол, сделавший «Арсенал» чемпионом",
+    "description": "Забил два им, теперь помог.",
+    "fullText": "Забил два им, теперь помог.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/43/810a3f7a8403496ee6935951efc2d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3406610.html",
-    "time": "2026-05-19T20:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3406615.html",
+    "time": "2026-05-19T20:46:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На PS5 и Xbox Series X|S вышли нативные версии Darksiders Warmastered Edition — с полноценным разрешением 4К, 60 fps и фоторежимом",
-    "description": "Владельцы игры на пастген-консоли Microsoft получат апгрейд бесплатно, но обладателям платформы Sony нужно доплатить.",
-    "fullText": "Владельцы игры на пастген-консоли Microsoft получат апгрейд бесплатно, но обладателям платформы Sony нужно доплатить.",
-    "image": "https://leonardo.osnova.io/8955ea0e-d999-5078-8d29-77d2d1e883eb/",
+    "title": "Техписатели CDPR рассказали, почему документация осложнила работу над ремейком «Ведьмака» и как проблему решили для будущих игр компании",
+    "description": "Часть процесса, о которой редко говорят.",
+    "fullText": "Часть процесса, о которой редко говорят.",
+    "image": "https://leonardo.osnova.io/1161d1cf-d4de-5d1b-9aef-84adbd77d04b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5071349-darksiders-warmastered-edition-na-ps5-i-xbox-series?from=rss",
-    "time": "2026-05-19T13:38:11.000Z"
+    "url": "https://dtf.ru/games/5071060-dokumentatsiya-cd-projekt-problemy-razrabotki-remeika-vedmaka?from=rss",
+    "time": "2026-05-19T11:38:15.000Z"
   }
 ]
