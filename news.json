@@ -1,35 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Песков: Путин и Си Цзиньпин не обсуждали китайский план урегулирования на Украине",
-    "description": "Пресс-секретарь президента РФ при этом указал, что украинская тема на прошедших переговорах в Пекине затрагивалась",
-    "fullText": "Пресс-секретарь президента РФ при этом указал, что украинская тема на прошедших переговорах в Пекине затрагивалась",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260521/9072327.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/27484409",
-    "time": "2026-05-21T10:32:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Из братьев Карамазовых он ближе к Алексею». Семак, каким вы его не знали",
-    "description": "Вспоминает Алексей Никитин.",
-    "fullText": "Вспоминает Алексей Никитин.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/3d/aed008e7a40048f98d73c9e30e398.jpeg",
+    "id": "aHR0cHM6Ly9oaC5ydS92",
+    "title": "Любите обсуждать футбол? Вместе с hh.ru открываем вакансию мечты на ЧМ-2026",
+    "description": "Успейте откликнуться!",
+    "fullText": "Успейте откликнуться!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/34/0ffd3d8aa46e6adcf6bfe5fd7b5f3.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3405832.html",
-    "time": "2026-05-21T06:30:00.000Z"
+    "url": "https://hh.ru/vacancy/133097257?utm_source=native",
+    "time": "2026-05-21T12:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Кто лучше всех пишет про футбол: Шнякин, Городницкий или Чернявский?",
+    "description": "Проголосуйте на Премии Трибуны.",
+    "fullText": "Проголосуйте на Премии Трибуны.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
+    "time": "2026-05-21T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Splitgate анонсировали онлайн-шутер Empulse в духе Titanfall — скриншоты и детали",
-    "description": "Игра выйдет в раннем доступе в 2026 году.",
-    "fullText": "Игра выйдет в раннем доступе в 2026 году.",
-    "image": "https://leonardo.osnova.io/ba792170-2411-575f-991e-0f247f456b69/",
+    "title": "Quantic Dream может сократить четверть штата — на фоне скорого закрытия Spellcasters Chronicles",
+    "description": "Под угрозой увольнения находятся 95 сотрудников — похоже, это вся команда, которая трудилась над MOBA-игрой.",
+    "fullText": "Под угрозой увольнения находятся 95 сотрудников — похоже, это вся команда, которая трудилась над MOBA-игрой.",
+    "image": "https://leonardo.osnova.io/1328e7a5-a156-56e8-8218-3d3c6b1fbdfb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5073736-onlajn-shuter-empulse-ot-1047-games-vdohnovlen-titanfall?from=rss",
-    "time": "2026-05-20T18:44:05.000Z"
+    "url": "https://dtf.ru/gameindustry/5074711-quantic-dream-uvolneniya-spellcasters-chronicles?from=rss",
+    "time": "2026-05-21T10:15:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Принц Уильям празднует 1-й трофей «Виллы» за 30 лет! Капитан рассчитывал вычистить его кредитку",
+    "description": "Наследник престола плакал.",
+    "fullText": "Наследник престола плакал.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/67/1967db0d5465faeb7593dd85261e5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3406886.html",
+    "time": "2026-05-21T09:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
