@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дёмин не попал в символическую сборную новичков НБА. Увы, ожидаемо",
-    "description": "Все из-за травмы.",
-    "fullText": "Все из-за травмы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a6/73d6a9fc941c28ad3ce69bc9f8f8a.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "США считают низким риск распространения Эболы в стране",
+    "description": "О возможных или выявленных случаях заболевания лихорадкой в Соединенных Штатах не сообщалось, говорится в заявлении Центров по контролю и профилактике заболеваний Минздрава",
+    "fullText": "О возможных или выявленных случаях заболевания лихорадкой в Соединенных Штатах не сообщалось, говорится в заявлении Центров по контролю и профилактике заболеваний Минздрава",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27491355",
+    "time": "2026-05-21T22:17:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Помните, как «Локомотив» с Семиным блистал в нулевые?",
+    "description": "Золотая эпоха.",
+    "fullText": "Золотая эпоха.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4c/f1364f1084937b9e59ae08914d5bf.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3406932.html",
-    "time": "2026-05-21T18:20:00.000Z"
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-21T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему «Локомотив» доминирует в КХЛ",
+    "description": "Второй кубок подряд.",
+    "fullText": "Второй кубок подряд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b8/91f8ffef04f90b58398867a9f57fa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3404346.html",
+    "time": "2026-05-21T19:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5075288-razdacha-igr-tomb-raider-i-iii-remastered-i-down-in-bermuda?from=rss",
     "time": "2026-05-21T15:18:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
