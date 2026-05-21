@@ -1,57 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9oaC5ydS92",
-    "title": "Любите обсуждать футбол? Вместе с hh.ru открываем вакансию мечты на ЧМ-2026",
-    "description": "Успейте откликнуться!",
-    "fullText": "Успейте откликнуться!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/34/0ffd3d8aa46e6adcf6bfe5fd7b5f3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://hh.ru/vacancy/133097257?utm_source=native",
-    "time": "2026-05-21T12:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Кто лучше всех пишет про футбол: Шнякин, Городницкий или Чернявский?",
-    "description": "Проголосуйте на Премии Трибуны.",
-    "fullText": "Проголосуйте на Премии Трибуны.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
-    "time": "2026-05-21T11:35:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Quantic Dream может сократить четверть штата — на фоне скорого закрытия Spellcasters Chronicles",
-    "description": "Под угрозой увольнения находятся 95 сотрудников — похоже, это вся команда, которая трудилась над MOBA-игрой.",
-    "fullText": "Под угрозой увольнения находятся 95 сотрудников — похоже, это вся команда, которая трудилась над MOBA-игрой.",
-    "image": "https://leonardo.osnova.io/1328e7a5-a156-56e8-8218-3d3c6b1fbdfb/",
+    "title": "Warhammer 40,000 Dawn of War IV выйдет 17 сентября — трейлер",
+    "description": "Разработчики также представили «дорожную карту» на первый год развития игры.",
+    "fullText": "Разработчики также представили «дорожную карту» на первый год развития игры.",
+    "image": "https://leonardo.osnova.io/58fe249c-9a99-516f-bdc5-c84c3cb67c53/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5074711-quantic-dream-uvolneniya-spellcasters-chronicles?from=rss",
-    "time": "2026-05-21T10:15:27.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Принц Уильям празднует 1-й трофей «Виллы» за 30 лет! Капитан рассчитывал вычистить его кредитку",
-    "description": "Наследник престола плакал.",
-    "fullText": "Наследник престола плакал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/67/1967db0d5465faeb7593dd85261e5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3406886.html",
-    "time": "2026-05-21T09:25:00.000Z"
+    "url": "https://dtf.ru/games/5075472-warhammer-40000-dawn-of-war-iv-treiler-i-dorozhnaya-karta-igry?from=rss",
+    "time": "2026-05-21T16:46:54.000Z"
   },
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
+    "title": "Нидерланды направят более €7 млрд на закупку F-35",
+    "description": "Вместе с этим власти выделят почти €3,5 млрд на модернизацию уже закупленных истребителей",
+    "fullText": "Вместе с этим власти выделят почти €3,5 млрд на модернизацию уже закупленных истребителей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27489311",
+    "time": "2026-05-21T16:44:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "«Ролан Гаррос» уже в эти выходные! Выберите пять фаворитов первого круга и вступайте в борьбу",
+    "description": "В фэнтези-игре по теннису.",
+    "fullText": "В фэнтези-игре по теннису.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/11/b181c323d48b39d65701e7e68cf2e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/roland-garros/?utm_source=native",
+    "time": "2026-05-21T16:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "2 трофея за сутки у соседей: и Артета, и Эмери из маленькой провинции Гипускоа. Что за чудо-место?",
+    "description": "Ираола и Алонсо тоже оттуда.",
+    "fullText": "Ираола и Алонсо тоже оттуда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/0a/637b9aad14d6db3e5540f7df6a129.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3406942.html",
+    "time": "2026-05-21T12:45:00.000Z"
   }
 ]
