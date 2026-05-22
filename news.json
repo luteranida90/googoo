@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "СК завершает расследование против экс-советника офиса президента Украины Арестовича",
-    "description": "",
-    "fullText": "",
+    "title": "ОАЭ отметили необходимость мирного урегулирования для ближневосточного региона",
+    "description": "Объединенные Арабские Эмираты выступают за мир, однако этот шаг может в будущем вылиться в новый конфликт, подчеркнул дипломатический советник эмиратского президента Анвар Гаргаш",
+    "fullText": "Объединенные Арабские Эмираты выступают за мир, однако этот шаг может в будущем вылиться в новый конфликт, подчеркнул дипломатический советник эмиратского президента Анвар Гаргаш",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27494525",
-    "time": "2026-05-22T07:46:35.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27497871",
+    "time": "2026-05-22T10:40:49.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Гид по всем сборным ЧМ-2026",
-    "description": "Готовимся вместе.",
-    "fullText": "Готовимся вместе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "«Лысый шарлатан» попрощался с «Сити» – берите футболку на память",
+    "description": "В магазине Спортса’‘.",
+    "fullText": "В магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/ee468fdd247119d0b9af74c2ff4f1.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/teams-2026/",
-    "time": "2026-05-22T06:30:00.000Z"
+    "url": "https://shop.sports.ru/cotton-materials/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-22T10:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Угадайте победителей в последнем туре АПЛ и получите подарки",
+    "description": "Альбом Panini, джерси и проектор.",
+    "fullText": "Альбом Panini, джерси и проектор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/1f/f0b36eb3649098cdd46734f0df8ba.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/picker/epl/?utm_source=native",
+    "time": "2026-05-22T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Такого Радулова невозможно победить. Он выше возраста и обстоятельств",
-    "description": "Герой плей-офф!",
-    "fullText": "Герой плей-офф!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/17/9489cfa6548eb9e2ae7e5c79009ff.gif",
+    "title": "Неймар сломался перед ЧМ – опять, снова. Всегда страдает на главном турнире",
+    "description": "Вы не забыли?",
+    "fullText": "Вы не забыли?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/c5/01f35d53c401ab9f50f6d46c9308a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3407153.html",
-    "time": "2026-05-21T22:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3407092.html",
+    "time": "2026-05-22T07:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Witchfire получит перевод на русский язык",
-    "description": "Авторы шутера также раскрыли внешность Ведьмы — она попала на обложку PC Gamer.",
-    "fullText": "Авторы шутера также раскрыли внешность Ведьмы — она попала на обложку PC Gamer.",
-    "image": "https://leonardo.osnova.io/3247d297-d366-56b4-a4a2-f8437c8d1919/",
+    "title": "DLC для Rogue Trader, Dawn of War IV, экшен-платформер и новая Chaos Gate: что показали на презентации Warhammer Skulls",
+    "description": "Множество новостей по играм франшизы.",
+    "fullText": "Множество новостей по играм франшизы.",
+    "image": "https://leonardo.osnova.io/cb78b449-c5ba-515b-bab6-dc89fe3604a3/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5075211-witchfire-poluchit-russkii-perevod-i-novye-obnovleniya?from=rss",
-    "time": "2026-05-21T15:00:54.000Z"
+    "url": "https://dtf.ru/games/5075381-prezentatsiya-warhammer-skulls-novosti-i-anonsy-igr?from=rss",
+    "time": "2026-05-21T16:01:11.000Z"
   }
 ]
