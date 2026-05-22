@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В шести муниципалитетах Липецкой области объявили опасность атаки БПЛА",
+    "description": "Об этом сообщил губернатор региона Игорь Артамонов",
+    "fullText": "Об этом сообщил губернатор региона Игорь Артамонов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27504547",
+    "time": "2026-05-22T19:47:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Они бегают, подают и забивают, а еще пишут тексты. Выберите лучших авторов-спортсменов на Премии Трибуны",
+    "description": "Голосуйте за любимчиков.",
+    "fullText": "Голосуйте за любимчиков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
+    "time": "2026-05-22T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "🥹 Прощальное видео Гвардиолы в «Ман Сити» – с русскими субтитрами",
     "description": "На ВидеоСпортсе’‘.",
@@ -12,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Итоги жеребьевки «Ролан Гаррос». Кто остановит Синнера? Медведеву повезло?",
-    "description": "Быстрые выводы.",
-    "fullText": "Быстрые выводы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/1e/00c3e257740639782377d9ed35011.jpeg",
+    "title": "«Обстановка говорит, что мы должны скоро вернуться». Сихарулидзе переизбран боссом в фигурке",
+    "description": "Рулит до 2030-го.",
+    "fullText": "Рулит до 2030-го.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/d0/72b83e90f4742ac613a2f285fe614.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3407002.html",
-    "time": "2026-05-22T13:40:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3407235.html",
+    "time": "2026-05-22T15:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Fable получила возрастной рейтинг в Южной Корее",
-    "description": "Релиз по-прежнему запланирован на осень 2026 года.",
-    "fullText": "Релиз по-прежнему запланирован на осень 2026 года.",
-    "image": "https://leonardo.osnova.io/a9f87cbc-e111-5eae-b918-3d1d23863e43/",
+    "title": "Появился дебютный кадр из продолжения «Страстей Христовых» Мэла Гибсона",
+    "description": "Фильмы тем временем перенесли: первый на месяц с небольшим, а второй — на год.",
+    "fullText": "Фильмы тем временем перенесли: первый на месяц с небольшим, а второй — на год.",
+    "image": "https://leonardo.osnova.io/6d1cb04d-bbb6-55b8-9e98-c141b652c571/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5077027-fable-poluchila-vozrastnoy-reyting-v-yuzhnoy-koree?from=rss",
-    "time": "2026-05-22T13:37:08.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/5077036-debyutnyy-kadr-sikvela-strastiy-hristovykh?from=rss",
+    "time": "2026-05-22T13:31:09.000Z"
   }
 ]
