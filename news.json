@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Раненый при атаке ВСУ на колледж в ЛНР рассказал, что оперативно получил помощь",
-    "description": "Пострадавший проходит лечение в Луганской республиканской клинической больнице",
-    "fullText": "Пострадавший проходит лечение в Луганской республиканской клинической больнице",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27510181",
-    "time": "2026-05-23T15:36:39.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Что не так с Гаем Ричи? «Грязные деньги» – простенький боевичок на автопилоте",
     "description": "Зато с Кавиллом и Джилленхолом.",
@@ -23,14 +12,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Возвращение Шварца в «Динамо» – сомнительный ход",
-    "description": "Размышление Андрея Савина.",
-    "fullText": "Размышление Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/a3/3c4a0a1204f539f0906481e303045.jpeg",
+    "title": "Убойный Карузо, экономный Вембаньяма. 5 наблюдений по битве «Оклахомы» и «Сперс»",
+    "description": "Чемпион вырывается вперед.",
+    "fullText": "Чемпион вырывается вперед.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/4a/1dbc2e0094268b57e0dbca2c532f1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3406969.html",
-    "time": "2026-05-23T11:54:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3407444.html",
+    "time": "2026-05-23T13:13:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -42,5 +31,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5077508-microsoft-vyplatit-uragulirovaniya-iska-activision?from=rss",
     "time": "2026-05-22T18:31:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
