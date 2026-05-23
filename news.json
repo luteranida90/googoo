@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Захарова: Би-би-си отказалась посещать место трагедии в Старобельске",
-    "description": "Официальный представитель МИД РФ отметила, что компания CNN находится \"в отпуске\"",
-    "fullText": "Официальный представитель МИД РФ отметила, что компания CNN находится \"в отпуске\"",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260523/9078509.jpg",
+    "title": "В аэропортах Нижнего Новгорода и Ярославля сняли ограничения",
+    "description": "Их вводили для обеспечения безопасности полетов",
+    "fullText": "Их вводили для обеспечения безопасности полетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/27508597",
-    "time": "2026-05-23T10:15:15.000Z"
+    "url": "https://tass.ru/ekonomika/27508955",
+    "time": "2026-05-23T11:24:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Топ проваливших сезон – кто сыграл хуже всего? Рейтинг МЯЧ Production",
+    "description": "Палмер, Салах или Левандовски?",
+    "fullText": "Палмер, Салах или Левандовски?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e4/3771c409a4cfea96268d5a5b835ac.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/o81NdYkap46m3ftnANTABuz0T7t4RjeFEE5Mh-mJtXQ",
+    "time": "2026-05-23T11:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Кто будет в вашей команде на первый круг «Ролан Гаррос»? Выберите пять фаворитов",
-    "description": "В фэнтези-игре по теннису.",
-    "fullText": "В фэнтези-игре по теннису.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/11/b181c323d48b39d65701e7e68cf2e.png",
+    "title": "Мэдиссон рвется к победе. Определите самого громкого спортивного эксперта на Премии Трибуны",
+    "description": "Кто говорил больше всех: Гурцкая или Ротенберг?",
+    "fullText": "Кто говорил больше всех: Гурцкая или Ротенберг?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/roland-garros/?utm_source=native",
-    "time": "2026-05-23T07:00:00.000Z"
+    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
+    "time": "2026-05-23T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Усик нашел себе развлечение – проверит кикбоксера Верховена. Шоу в Гизе",
-    "description": "Онлайн из Египта.",
-    "fullText": "Онлайн из Египта.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/7e/33ebd4ff64950b0e8a359c5e4673c.jpeg",
+    "title": "Зачем смотреть «Ролан Гаррос», если очевидно выиграет Синнер?",
+    "description": "Ищем причины.",
+    "fullText": "Ищем причины.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e0/50bfd0b8743f390e64fea69c30ec6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3398181.html",
-    "time": "2026-05-23T06:51:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3406939.html",
+    "time": "2026-05-23T07:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marathon подверглась ревью-бомбингу из-за окончания контентной поддержки Destiny 2",
-    "description": "Фанаты игры в ответ начали массово оставлять позитивные отзывы.",
-    "fullText": "Фанаты игры в ответ начали массово оставлять позитивные отзывы.",
-    "image": "https://leonardo.osnova.io/6cf3b7f9-6805-514d-b507-fe93b1a16b8d/",
+    "title": "Зарядная станция Steam Controller всегда активна при подключении — один из пользователей столкнулся с коротким замыканием",
+    "description": "Valve, судя по всему, уже разбирается в ситуации.",
+    "fullText": "Valve, судя по всему, уже разбирается в ситуации.",
+    "image": "https://leonardo.osnova.io/a9cf6896-3e58-5318-b844-6d7202185f5f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5076850-marathon-revju-bombing-zavershenie-podderzhki-destiny-2?from=rss",
-    "time": "2026-05-22T12:27:42.000Z"
+    "url": "https://dtf.ru/hard/5076825-problema-s-zaryadnoy-stanciey-steam-controller?from=rss",
+    "time": "2026-05-22T11:59:22.000Z"
   }
 ]
