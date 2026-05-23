@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Киеве объявили воздушную тревогу",
+    "description": "В красной зоне также находятся Днепропетровская, Киевская, Николаевская, Сумская и Черниговская области",
+    "fullText": "В красной зоне также находятся Днепропетровская, Киевская, Николаевская, Сумская и Черниговская области",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27510821",
+    "time": "2026-05-23T18:14:44.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Что не так с Гаем Ричи? «Грязные деньги» – простенький боевичок на автопилоте",
     "description": "Зато с Кавиллом и Джилленхолом.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Убойный Карузо, экономный Вембаньяма. 5 наблюдений по битве «Оклахомы» и «Сперс»",
-    "description": "Чемпион вырывается вперед.",
-    "fullText": "Чемпион вырывается вперед.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/4a/1dbc2e0094268b57e0dbca2c532f1.jpeg",
+    "title": "Допинговые игры не сорвались! 40 участников, 3 вида спорта, очень много денег",
+    "description": "Смотрим в ночь на понедельник.",
+    "fullText": "Смотрим в ночь на понедельник.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/c8/65625ec124b22a32eb3b7789e7bfe.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3407444.html",
-    "time": "2026-05-23T13:13:00.000Z"
+    "url": "https://www.sports.ru/athletics/blogs/3406904.html",
+    "time": "2026-05-23T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5077508-microsoft-vyplatit-uragulirovaniya-iska-activision?from=rss",
     "time": "2026-05-22T18:31:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
