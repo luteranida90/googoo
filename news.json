@@ -11,69 +11,36 @@
     "time": "2026-05-23T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Жуковский ввели ограничения",
-    "description": "Они необходимы для обеспечения безопасности полетов",
-    "fullText": "Они необходимы для обеспечения безопасности полетов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27507427",
-    "time": "2026-05-23T06:53:36.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9rb2xsZWdp",
-    "title": "Как работает SEO на Спортсе’’ – рассказываем в новом выпуске подкаста «Коллеги, добрый день!»",
-    "description": "На связи отдел трафика.",
-    "fullText": "На связи отдел трафика.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/62/3954d323c45019a27c5b20683f983.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://kollegisports.mave.digital/ep-25",
-    "time": "2026-05-23T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Мбаппе – это Роналдо. Городницкий сравнил две эпохи «галактикос»",
-    "description": "Очень много совпадений.",
-    "fullText": "Очень много совпадений.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b9/f325cac9b45549f5c62b64504a9f5.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/5R3rCsIWn8v3fscpO0DwgnHntkqK9Auaj5ymk8yzTys",
-    "time": "2026-05-22T21:51:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что я чувствую сразу после ухода Пепа – первая эмоция фаната «Сити»",
-    "description": "Артем Буторин прощается.",
-    "fullText": "Артем Буторин прощается.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/21/d1a0fc7a14459a5531668d6550ec4.jpeg",
+    "title": "«Оклахома» – адская машина! 76 очков со скамейки",
+    "description": "2-1.",
+    "fullText": "2-1.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/a3/b1ae30356436bb65ad31d6a0724f0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3407266.html",
-    "time": "2026-05-22T21:36:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Помните, как «Локомотив» разгромил «Интер» со счетом 3:0 в 2003-м?",
-    "description": "Великий матч.",
-    "fullText": "Великий матч.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4c/f1364f1084937b9e59ae08914d5bf.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-22T21:30:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3407430.html",
+    "time": "2026-05-23T05:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Появился дебютный кадр из продолжения «Страстей Христовых» Мэла Гибсона",
-    "description": "Фильмы тем временем перенесли: первый на месяц с небольшим, а второй — на год.",
-    "fullText": "Фильмы тем временем перенесли: первый на месяц с небольшим, а второй — на год.",
-    "image": "https://leonardo.osnova.io/6d1cb04d-bbb6-55b8-9e98-c141b652c571/",
+    "title": "Bloomberg: Nintendo нацелена произвести 20 миллионов единиц Switch 2 за финансовый год — это на 20% больше прогноза по продажам",
+    "description": "Компания уже не в первый раз занижает ожидания.",
+    "fullText": "Компания уже не в первый раз занижает ожидания.",
+    "image": "https://leonardo.osnova.io/44d10214-e469-56af-80a9-ea31b0de78a1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5077036-debyutnyy-kadr-sikvela-strastiy-hristovykh?from=rss",
-    "time": "2026-05-22T13:31:09.000Z"
+    "url": "https://dtf.ru/gameindustry/5077045-nintendo-uvelichivaet-proizvodstvo-switch-2?from=rss",
+    "time": "2026-05-22T13:51:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
