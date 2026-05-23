@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропортах Нижнего Новгорода и Ярославля сняли ограничения",
-    "description": "Их вводили для обеспечения безопасности полетов",
-    "fullText": "Их вводили для обеспечения безопасности полетов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "На Ставрополье в ДТП погибли три человека",
+    "description": "Еще пять пострадали",
+    "fullText": "Еще пять пострадали",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260523/9078865.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27508955",
-    "time": "2026-05-23T11:24:30.000Z"
+    "url": "https://tass.ru/proisshestviya/27509647",
+    "time": "2026-05-23T13:21:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +22,25 @@
     "time": "2026-05-23T11:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Мэдиссон рвется к победе. Определите самого громкого спортивного эксперта на Премии Трибуны",
-    "description": "Кто говорил больше всех: Гурцкая или Ротенберг?",
-    "fullText": "Кто говорил больше всех: Гурцкая или Ротенберг?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
-    "time": "2026-05-23T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Зачем смотреть «Ролан Гаррос», если очевидно выиграет Синнер?",
-    "description": "Ищем причины.",
-    "fullText": "Ищем причины.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e0/50bfd0b8743f390e64fea69c30ec6.jpeg",
+    "title": "50+ мыслей о сезоне лучшей лиги мира от Ильева. Про санитаров леса и не только",
+    "description": "Гид по каждому клубу.",
+    "fullText": "Гид по каждому клубу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/17/b905f4fb94d63a2e4cab745490422.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3406939.html",
-    "time": "2026-05-23T07:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3406882.html",
+    "time": "2026-05-23T09:42:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Зарядная станция Steam Controller всегда активна при подключении — один из пользователей столкнулся с коротким замыканием",
-    "description": "Valve, судя по всему, уже разбирается в ситуации.",
-    "fullText": "Valve, судя по всему, уже разбирается в ситуации.",
-    "image": "https://leonardo.osnova.io/a9cf6896-3e58-5318-b844-6d7202185f5f/",
+    "title": "Переработанный таймер, механика реролла и расширенный хаб — «дорожная карта» Deep Rock Galactic: Rogue Core",
+    "description": "Разработчики признали, что у игры есть критические проблемы.",
+    "fullText": "Разработчики признали, что у игры есть критические проблемы.",
+    "image": "https://leonardo.osnova.io/c7811d46-f7cd-58b1-a490-dd44a6a86fdb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5076825-problema-s-zaryadnoy-stanciey-steam-controller?from=rss",
-    "time": "2026-05-22T11:59:22.000Z"
+    "url": "https://dtf.ru/games/5077386-dorozhnaya-karta-deep-rock-galactic-rogue-core?from=rss",
+    "time": "2026-05-22T17:21:47.000Z"
   }
 ]
