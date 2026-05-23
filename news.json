@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Захарова: Би-би-си отказалась посещать место трагедии в Старобельске",
+    "description": "Официальный представитель МИД РФ отметила, что компания CNN находится \"в отпуске\"",
+    "fullText": "Официальный представитель МИД РФ отметила, что компания CNN находится \"в отпуске\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260523/9078509.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27508597",
+    "time": "2026-05-23T10:15:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Кто будет в вашей команде на первый круг «Ролан Гаррос»? Выберите пять фаворитов",
     "description": "В фэнтези-игре по теннису.",
@@ -12,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Оклахома» – адская машина! 76 очков со скамейки",
-    "description": "2-1.",
-    "fullText": "2-1.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/a3/b1ae30356436bb65ad31d6a0724f0.jpeg",
+    "title": "Усик нашел себе развлечение – проверит кикбоксера Верховена. Шоу в Гизе",
+    "description": "Онлайн из Египта.",
+    "fullText": "Онлайн из Египта.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/7e/33ebd4ff64950b0e8a359c5e4673c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3407430.html",
-    "time": "2026-05-23T05:35:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3398181.html",
+    "time": "2026-05-23T06:51:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloomberg: Nintendo нацелена произвести 20 миллионов единиц Switch 2 за финансовый год — это на 20% больше прогноза по продажам",
-    "description": "Компания уже не в первый раз занижает ожидания.",
-    "fullText": "Компания уже не в первый раз занижает ожидания.",
-    "image": "https://leonardo.osnova.io/44d10214-e469-56af-80a9-ea31b0de78a1/",
+    "title": "Marathon подверглась ревью-бомбингу из-за окончания контентной поддержки Destiny 2",
+    "description": "Фанаты игры в ответ начали массово оставлять позитивные отзывы.",
+    "fullText": "Фанаты игры в ответ начали массово оставлять позитивные отзывы.",
+    "image": "https://leonardo.osnova.io/6cf3b7f9-6805-514d-b507-fe93b1a16b8d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5077045-nintendo-uvelichivaet-proizvodstvo-switch-2?from=rss",
-    "time": "2026-05-22T13:51:37.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/gameindustry/5076850-marathon-revju-bombing-zavershenie-podderzhki-destiny-2?from=rss",
+    "time": "2026-05-22T12:27:42.000Z"
   }
 ]
