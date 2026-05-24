@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Площадь пожара на рынке в Новой Москве составляет 1,5 тыс. кв. м",
-    "description": "К тушению привлекли два вертолета Московского авиационного центра",
-    "fullText": "К тушению привлекли два вертолета Московского авиационного центра",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260524/9080717.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27515493",
-    "time": "2026-05-24T15:18:03.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Легендарные бои – любимая тема текстов и название канала про единоборства. На Премии Трибуны определите лучшего автора, который пишет о боях",
     "description": "Помогите фавориту выиграть.",
@@ -22,36 +11,36 @@
     "time": "2026-05-24T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Помните, как «Локомотив» разгромил «Интер» со счетом 3:0 в 2003-м?",
-    "description": "Великий матч.",
-    "fullText": "Великий матч.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4c/f1364f1084937b9e59ae08914d5bf.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-24T11:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Братан, ты проиграл это дерьмо». Вот это пожар из-за остановки в бою Усика и Верховена",
-    "description": "Ограбление?",
-    "fullText": "Ограбление?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/2e/8a78fc60b49ecb55b99b9e3bdab7e.jpeg",
+    "title": "Гвардиола уходит из «Сити». Вспомните главные моменты его эпохи",
+    "description": "10 лет больших побед.",
+    "fullText": "10 лет больших побед.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/3b/8f41f46b64eebbbbe9c6474b43b63.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3407594.html",
-    "time": "2026-05-24T11:00:00.000Z"
+    "url": "https://www.sports.ru/specials/one-day-test-13/",
+    "time": "2026-05-24T12:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы ремейка Gothic уточнили, что для игры не понадобится постоянное подключение к сети",
-    "description": "В ответ на распространившуюся информацию о том, что переосмысленную версию RPG нельзя пройти офлайн.",
-    "fullText": "В ответ на распространившуюся информацию о том, что переосмысленную версию RPG нельзя пройти офлайн.",
-    "image": "https://leonardo.osnova.io/18e225e4-043c-512d-804a-5b556aed90a8/",
+    "title": "Вырезанная версия Lightfall и отсутствие рейда на Зиву Арат — экс-разработчики Destiny 2 о проблемах в ходе производства игры",
+    "description": "По информации Пола Тасси, в команде заранее не знали о прекращении поддержки.",
+    "fullText": "По информации Пола Тасси, в команде заранее не знали о прекращении поддержки.",
+    "image": "https://leonardo.osnova.io/ab69e894-c6a4-5068-a6e7-a24f88d9374a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5077536-remeik-gothic-ne-trebuet-postoyannogo-podklyucheniya-k-internetu?from=rss",
-    "time": "2026-05-22T18:12:01.000Z"
+    "url": "https://dtf.ru/gameindustry/5078395-problemy-razrabotki-destiny-2-vyrezannaya-versiya-lightfall?from=rss",
+    "time": "2026-05-23T10:30:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
