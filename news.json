@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Белгородской области при ударе FPV-дрона пострадал человек",
+    "description": "Мужчине диагностировали слепые осколочные ранения бедра и спины",
+    "fullText": "Мужчине диагностировали слепые осколочные ранения бедра и спины",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27516049",
+    "time": "2026-05-24T18:08:27.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Легендарные бои – любимая тема текстов и название канала про единоборства. На Премии Трибуны определите лучшего автора, который пишет о боях",
     "description": "Помогите фавориту выиграть.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гвардиола уходит из «Сити». Вспомните главные моменты его эпохи",
-    "description": "10 лет больших побед.",
-    "fullText": "10 лет больших побед.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/3b/8f41f46b64eebbbbe9c6474b43b63.jpeg",
+    "title": "«Краснодар» против «Спартака» – почти гарантия качества",
+    "description": "Рассуждение Андрея Савина.",
+    "fullText": "Рассуждение Андрея Савина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/79/70638cdd64da9ac48ee2d247b7350.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/one-day-test-13/",
-    "time": "2026-05-24T12:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3407573.html",
+    "time": "2026-05-24T13:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,16 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5078395-problemy-razrabotki-destiny-2-vyrezannaya-versiya-lightfall?from=rss",
     "time": "2026-05-23T10:30:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
