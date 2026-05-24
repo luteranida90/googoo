@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Полиция просит не приближаться к улицам у Белого дома после стрельбы",
+    "description": "Граждан призвали избегать района, где произошел инцидент",
+    "fullText": "Граждан призвали избегать района, где произошел инцидент",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27511713",
+    "time": "2026-05-23T23:44:53.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Вспомните, как «Локомотив» обыгрывал «Интер» и «Реал» в еврокубках",
     "description": "Золотое время.",
@@ -11,26 +22,15 @@
     "time": "2026-05-23T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пасечник назвал чистым злом удар ВСУ по колледжу в Старобельске",
-    "description": "По словам главы ЛНР, наказание должны понести наказание и те, кто отдавал приказ об атаке, и его исполнители",
-    "fullText": "По словам главы ЛНР, наказание должны понести наказание и те, кто отдавал приказ об атаке, и его исполнители",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260219/8828801.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27511369",
-    "time": "2026-05-23T21:06:59.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В «Тоттенхэме» скандал из-за травмированного Ромеро. Укатил в Аргентину вместо решающего матча АПЛ",
-    "description": "На игру родного клуба.",
-    "fullText": "На игру родного клуба.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/94/68e0f0114457d8309c5e2c551b356.jpeg",
+    "title": "Хет-трик Кейна – у «Баварии» первый Кубок за 6 лет. Моуринью на финале шпионил за Олисе",
+    "description": "Вынесли «Штутгарт» 3:0.",
+    "fullText": "Вынесли «Штутгарт» 3:0.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/a3/a844e85eb4ee18137d25c61c146d2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3407146.html",
-    "time": "2026-05-23T18:33:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3407580.html",
+    "time": "2026-05-23T20:42:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
