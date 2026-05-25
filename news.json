@@ -1,35 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Это было ###### как весело». АПЛ попрощалась с Пепом, Салахом, Бернарду и не только 😢",
-    "description": "Уходят легенды «Ливерпуля» и «Сити».",
-    "fullText": "Уходят легенды «Ливерпуля» и «Сити».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/78/413c2a8124b9dbdcafc43cfe8dd3a.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин назвал \"Золотую шайбу\" школой мастерства и командной сплоченности",
+    "description": "Президент отметил, что турнир за прошедшие годы завоевал признание как один из наиболее массовых и успешных проектов в сфере детско-юношеского спорта",
+    "fullText": "Президент отметил, что турнир за прошедшие годы завоевал признание как один из наиболее массовых и успешных проектов в сфере детско-юношеского спорта",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/27519253",
+    "time": "2026-05-25T08:02:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Вспомните самые яркие моменты в истории «Локомотива»",
+    "description": "Приглашаем в путешествие.",
+    "fullText": "Приглашаем в путешествие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/21/7fcaee2d14a48868c423a20915cf0.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3407793.html",
-    "time": "2026-05-24T20:14:00.000Z"
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-25T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Лучшие игроки сезона – чемпионы топ-5 лиг. Узнаете всех в Невидимке?",
+    "description": "Собрали 30 футболистов.",
+    "fullText": "Собрали 30 футболистов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/51/538d27661482f9ce39eb9dc158f82.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-05-25T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Спартак» разбил кубок – вдребезги! Хотя Солари его просто поднял 🤨",
+    "description": "Снова проблемы с чашкой.",
+    "fullText": "Снова проблемы с чашкой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/72/0d303d3fd46e9874a3a214e10b770.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3407775.html",
+    "time": "2026-05-24T22:31:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вырезанная версия Lightfall и отсутствие рейда на Зиву Арат — экс-разработчики Destiny 2 о проблемах в ходе производства игры",
-    "description": "По информации Пола Тасси, в команде заранее не знали о прекращении поддержки.",
-    "fullText": "По информации Пола Тасси, в команде заранее не знали о прекращении поддержки.",
-    "image": "https://leonardo.osnova.io/ab69e894-c6a4-5068-a6e7-a24f88d9374a/",
+    "title": "«Фьорд» с Себастианом Стэном и «Минотавр» Андрея Звягинцева стали победителями Каннского кинофестиваля 2026",
+    "description": "А награду за лучшую режиссуру получили сразу три постановщика.",
+    "fullText": "А награду за лучшую режиссуру получили сразу три постановщика.",
+    "image": "https://leonardo.osnova.io/604ce677-e69d-5560-a2f0-9d70680c6d35/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5078395-problemy-razrabotki-destiny-2-vyrezannaya-versiya-lightfall?from=rss",
-    "time": "2026-05-23T10:30:49.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/cinema/5079608-fjord-i-minotavr-pobedili-na-kannskom-kinofestivale?from=rss",
+    "time": "2026-05-24T08:41:01.000Z"
   }
 ]
