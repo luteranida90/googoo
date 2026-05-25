@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Кубки могут биться, а такая классика остается навсегда",
+    "description": "Спартаковский борщ в магазине Спортса’‘.",
+    "fullText": "Спартаковский борщ в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/62/6718182c0423794cf80199c7664e6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection/tproduct/725865433942-futbolka-borsch-russkogo-futbola/?ref=sports&ref1=matherial_direct",
+    "time": "2026-05-25T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ДНР из-за ударов ВСУ за день погибли семь человек",
-    "description": "Еще 15 пострадали",
-    "fullText": "Еще 15 пострадали",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260525/9084407.jpg",
+    "title": "Более 2,5 млн россиян привились от клещевого вирусного энцефалита",
+    "description": "В Роспотребнадзоре заявили, что наибольшее число укусов клещей зарегистрировано в Свердловской, Томской, Вологодской, Костромской, Кировской, Кемеровской и Иркутской областях",
+    "fullText": "В Роспотребнадзоре заявили, что наибольшее число укусов клещей зарегистрировано в Свердловской, Томской, Вологодской, Костромской, Кировской, Кемеровской и Иркутской областях",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27526697",
-    "time": "2026-05-25T19:44:11.000Z"
+    "url": "https://tass.ru/obschestvo/27526983",
+    "time": "2026-05-25T21:07:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "0 игроков «Реала» в заявке Испании на ЧМ. Впервые в истории!",
+    "description": "Зато есть игроки «Сельты» и «Осасуны».",
+    "fullText": "Зато есть игроки «Сельты» и «Осасуны».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/3a/c43190c0c45fd9681cc56348dd450.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3407917.html",
+    "time": "2026-05-25T18:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -20,17 +42,6 @@
     "category": "all",
     "url": "https://m.sports.ru/osnova/roland-garros/?utm_source=native",
     "time": "2026-05-25T18:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "25 главных игроков КХЛ без контрактов",
-    "description": "Гусев, Кузнецов, Билялов и многие другие.",
-    "fullText": "Гусев, Кузнецов, Билялов и многие другие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c9/22fe3fc9e4bd195c86b564a800699.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3407295.html",
-    "time": "2026-05-25T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
