@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Во время велофестиваля более 2 тыс. человек воспользовались тарифом \"Велобайка\"",
-    "description": "Мероприятие проходило в Москве",
-    "fullText": "Мероприятие проходило в Москве",
+    "title": "В Сумах произошел взрыв",
+    "description": "В Сумской области объявлена воздушная тревога",
+    "fullText": "В Сумской области объявлена воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27522917",
-    "time": "2026-05-25T11:45:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Инсайдов нет, а Карп – на месте. Голосуйте за лучших спортивных авторов на Премии Трибуны",
-    "description": "Успейте до 4 июня.",
-    "fullText": "Успейте до 4 июня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
-    "time": "2026-05-25T09:30:00.000Z"
+    "url": "https://tass.ru/proisshestviya/27525175",
+    "time": "2026-05-25T15:22:55.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "👽Вембаньяма расколошматил «Оклахому» под присмотром монахинь",
-    "description": "2-2.",
-    "fullText": "2-2.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/33/d5bc7c5f94f5f991e2b0e38b50989.jpeg",
+    "title": "«Зениту» точно 100 лет? Дискуссия историков",
+    "description": "Любовь Курчавова – из архива.",
+    "fullText": "Любовь Курчавова – из архива.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/70/84605f3fa4e5185ca28ad3c6fadc8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3407836.html",
-    "time": "2026-05-25T08:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3407894.html",
+    "time": "2026-05-25T10:32:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Rocket League перенесут на Unreal Engine 6",
-    "description": "Анонс состоялся на киберспортивном турнире.",
-    "fullText": "Анонс состоялся на киберспортивном турнире.",
-    "image": "https://leonardo.osnova.io/e218fe66-700b-5fd9-9659-b2f40a4342e6/-/format/mp4/",
+    "title": "Кампания по сбору средств на Star Citizen достигла миллиарда долларов",
+    "description": "Над игрой работают уже 14 лет.",
+    "fullText": "Над игрой работают уже 14 лет.",
+    "image": "https://leonardo.osnova.io/759c61fc-3dca-5fde-9942-d0ec284f0441/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5080625-rocket-league-perehod-na-unreal-engine-6?from=rss",
-    "time": "2026-05-24T16:48:14.000Z"
+    "url": "https://dtf.ru/gameindustry/5081376-kampaniya-po-sboru-sredstv-na-star-citizen?from=rss",
+    "time": "2026-05-25T05:44:07.000Z"
   }
 ]
