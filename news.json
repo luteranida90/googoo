@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Страна\": на Украине сотрудника ТЦК прокатили на капоте",
-    "description": "Житель Черкасс вел прямую трансляцию во время поездки, сообщило издание",
-    "fullText": "Житель Черкасс вел прямую трансляцию во время поездки, сообщило издание",
+    "title": "Мадьяр: Венгрия надеется 28 мая договориться с ЕС о предоставлении €10 млрд",
+    "description": "Премьер-министр республики отметил, что для получения средств Будапешт должен выполнить требования Еврокомиссии, которые предусматривают шаги по укреплению демократии",
+    "fullText": "Премьер-министр республики отметил, что для получения средств Будапешт должен выполнить требования Еврокомиссии, которые предусматривают шаги по укреплению демократии",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27525913",
-    "time": "2026-05-25T17:10:57.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27526473",
+    "time": "2026-05-25T18:58:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Выберите своих фаворитов второго круга «Ролан Гаррос» и вступайте в борьбу",
+    "description": "В теннисном фэнтези.",
+    "fullText": "В теннисном фэнтези.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/11/b181c323d48b39d65701e7e68cf2e.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/roland-garros/?utm_source=native",
+    "time": "2026-05-25T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Грегг Попович помог «Сперс» догнать «Оклахому»",
-    "description": "Под бодрый матерок.",
-    "fullText": "Под бодрый матерок.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/ae/3076738d84ec2a372d41561b1becb.jpeg",
+    "title": "Как Боб Холл изменил бег, финишировав на Бостонском марафоне в инвалидной коляске",
+    "description": "Бегом читать.",
+    "fullText": "Бегом читать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/95/ca6ce958041cc90919526a3ee1823.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3407891.html",
-    "time": "2026-05-25T11:00:00.000Z"
+    "url": "https://www.sports.ru/others/blogs/3405075.html?utm_source=native&erid=2SDnje9tVLv",
+    "time": "2026-05-25T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовал девятый сезон «Рика и Морти»",
-    "description": "В продолжение войдёт десять эпизодов.",
-    "fullText": "В продолжение войдёт десять эпизодов.",
-    "image": "https://leonardo.osnova.io/db986cdf-bdf8-5c98-a3a8-d7baf803a485/",
+    "title": "Идрис Эльба: «Меня никогда не было в гонке на роль Джеймса Бонда»",
+    "description": "Кандидатуру актёра даже не обсуждают — из-за возраста.",
+    "fullText": "Кандидатуру актёра даже не обсуждают — из-за возраста.",
+    "image": "https://leonardo.osnova.io/8312d9b1-c2af-5cbd-a446-bbf4484631cf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5081489-devyatyj-sezon-rika-i-morti-startoval?from=rss",
-    "time": "2026-05-25T07:14:52.000Z"
+    "url": "https://dtf.ru/cinema/5081693-idris-elba-o-roli-dzhejmsa-bonda?from=rss",
+    "time": "2026-05-25T09:37:07.000Z"
   }
 ]
