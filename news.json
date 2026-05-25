@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин назвал \"Золотую шайбу\" школой мастерства и командной сплоченности",
-    "description": "Президент отметил, что турнир за прошедшие годы завоевал признание как один из наиболее массовых и успешных проектов в сфере детско-юношеского спорта",
-    "fullText": "Президент отметил, что турнир за прошедшие годы завоевал признание как один из наиболее массовых и успешных проектов в сфере детско-юношеского спорта",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250115/8009207.jpg",
+    "title": "Во время велофестиваля более 2 тыс. человек воспользовались тарифом \"Велобайка\"",
+    "description": "Мероприятие проходило в Москве",
+    "fullText": "Мероприятие проходило в Москве",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27519253",
-    "time": "2026-05-25T08:02:13.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Вспомните самые яркие моменты в истории «Локомотива»",
-    "description": "Приглашаем в путешествие.",
-    "fullText": "Приглашаем в путешествие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/21/7fcaee2d14a48868c423a20915cf0.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-25T07:00:00.000Z"
+    "url": "https://tass.ru/obschestvo/27522917",
+    "time": "2026-05-25T11:45:38.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Лучшие игроки сезона – чемпионы топ-5 лиг. Узнаете всех в Невидимке?",
-    "description": "Собрали 30 футболистов.",
-    "fullText": "Собрали 30 футболистов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/51/538d27661482f9ce39eb9dc158f82.png",
+    "title": "Инсайдов нет, а Карп – на месте. Голосуйте за лучших спортивных авторов на Премии Трибуны",
+    "description": "Успейте до 4 июня.",
+    "fullText": "Успейте до 4 июня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-05-25T04:30:00.000Z"
+    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
+    "time": "2026-05-25T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартак» разбил кубок – вдребезги! Хотя Солари его просто поднял 🤨",
-    "description": "Снова проблемы с чашкой.",
-    "fullText": "Снова проблемы с чашкой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/72/0d303d3fd46e9874a3a214e10b770.jpeg",
+    "title": "👽Вембаньяма расколошматил «Оклахому» под присмотром монахинь",
+    "description": "2-2.",
+    "fullText": "2-2.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/33/d5bc7c5f94f5f991e2b0e38b50989.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3407775.html",
-    "time": "2026-05-24T22:31:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3407836.html",
+    "time": "2026-05-25T08:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Фьорд» с Себастианом Стэном и «Минотавр» Андрея Звягинцева стали победителями Каннского кинофестиваля 2026",
-    "description": "А награду за лучшую режиссуру получили сразу три постановщика.",
-    "fullText": "А награду за лучшую режиссуру получили сразу три постановщика.",
-    "image": "https://leonardo.osnova.io/604ce677-e69d-5560-a2f0-9d70680c6d35/",
+    "title": "Rocket League перенесут на Unreal Engine 6",
+    "description": "Анонс состоялся на киберспортивном турнире.",
+    "fullText": "Анонс состоялся на киберспортивном турнире.",
+    "image": "https://leonardo.osnova.io/e218fe66-700b-5fd9-9659-b2f40a4342e6/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5079608-fjord-i-minotavr-pobedili-na-kannskom-kinofestivale?from=rss",
-    "time": "2026-05-24T08:41:01.000Z"
+    "url": "https://dtf.ru/hard/5080625-rocket-league-perehod-na-unreal-engine-6?from=rss",
+    "time": "2026-05-24T16:48:14.000Z"
   }
 ]
