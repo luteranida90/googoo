@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Число предположительных случаев заражения вирусом Эбола в ДРК превысило 900",
-    "description": "Среди них отмечается 101 подтвержденный случай, сообщил глава ВОЗ Тедрос Аданом Гебрейесус",
-    "fullText": "Среди них отмечается 101 подтвержденный случай, сообщил глава ВОЗ Тедрос Аданом Гебрейесус",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27516597",
-    "time": "2026-05-24T22:13:09.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартак» берет Кубок! Боселли и Ленини смазали пенальти, «Краснодар» упустил все трофеи",
-    "description": "А Помазун потащил!",
-    "fullText": "А Помазун потащил!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/0d/e7a5a5813466aaeba0d8f15ed4796.jpeg",
+    "title": "«Это было ###### как весело». АПЛ попрощалась с Пепом, Салахом, Бернарду и не только 😢",
+    "description": "Уходят легенды «Ливерпуля» и «Сити».",
+    "fullText": "Уходят легенды «Ливерпуля» и «Сити».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/78/413c2a8124b9dbdcafc43cfe8dd3a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3407734.html",
-    "time": "2026-05-24T18:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3407793.html",
+    "time": "2026-05-24T20:14:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -31,5 +20,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/gameindustry/5078395-problemy-razrabotki-destiny-2-vyrezannaya-versiya-lightfall?from=rss",
     "time": "2026-05-23T10:30:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
