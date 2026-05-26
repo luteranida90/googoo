@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дорофеев – лучший снайпер Кубка Стэнли. Как он вышел на такой уровень?",
-    "description": "«Вегасу» пора разбивать копилку?",
-    "fullText": "«Вегасу» пора разбивать копилку?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/e4/733c909434e22958eaeffa148e2e1.jpeg",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Силуанов назвал амбициозной задачей удвоение капитализации фондового рынка",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250306/8103855.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27541959",
+    "time": "2026-05-26T21:10:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Сычев в гостях у Смолова: «Марсель» вместо «Милана», стыдно за рэп, боль за 2002-й",
+    "description": "Карьера от Онопко до Миранчуков.",
+    "fullText": "Карьера от Онопко до Миранчуков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/39/2dcd2c3734d2fb43be3d1e286ec10.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3407724.html",
-    "time": "2026-05-26T14:40:00.000Z"
+    "url": "https://video.sports.ru/video/CMv-e1z9vEkCvhS557UP3tRBVCCoroX5EN3s78yZBqw",
+    "time": "2026-05-26T20:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кто выигрывал Лигу чемпионов с «ПСЖ»?",
+    "description": "Кроме Сафонова.",
+    "fullText": "Кроме Сафонова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/33/85201b67d4d158c19ae4c11acf5dc.webp",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/specials/cl-history/?utm_source=native",
+    "time": "2026-05-26T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Destiny 2: Legacy Collection пополнит расширенную библиотеку PS Plus 9 июня",
-    "description": "Sony огласила первые детали своей ежегодной акции Days of Play.",
-    "fullText": "Sony огласила первые детали своей ежегодной акции Days of Play.",
-    "image": "https://leonardo.osnova.io/2a440aec-beee-5eb4-9f0e-0b35ad4e273c/",
+    "title": "Экранизация классической манги «Принцесса-рыцарь» выйдет 8 августа на Netflix — тизер",
+    "description": "Анимационный фильм получил название «Герой ленты».",
+    "fullText": "Анимационный фильм получил название «Герой ленты».",
+    "image": "https://leonardo.osnova.io/d5862280-3c20-5b10-b245-4eed28bad9b9/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5083962-destiny-2-legacy-collection-v-ps-plus?from=rss",
-    "time": "2026-05-26T12:30:51.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
+    "url": "https://dtf.ru/anime/5084064-ekranizatsiya-mangi-princessa-rytsar-na-netflix?from=rss",
+    "time": "2026-05-26T13:48:58.000Z"
   }
 ]
