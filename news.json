@@ -1,14 +1,36 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Этот футболист успел поиграть в «Локомотиве», «ПСЖ» и «Реале»",
+    "description": "Насыщенная карьера.",
+    "fullText": "Насыщенная карьера.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/85/ac748d9304df8a2ff4434ab0d2315.webp",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-27T17:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Андрей Рублев вышел в третий круг Roland Garros",
-    "description": "Россиянин победил аргентинца Камило Уго Карабельи со счетом 6:1, 1:6, 6:3, 7:6 (7:5)",
-    "fullText": "Россиянин победил аргентинца Камило Уго Карабельи со счетом 6:1, 1:6, 6:3, 7:6 (7:5)",
+    "title": "Трамп: Иран в ходе переговоров начал соглашаться на то, что хотят США",
+    "description": "За столом переговоров все идет очень хорошо, заявил американский президент",
+    "fullText": "За столом переговоров все идет очень хорошо, заявил американский президент",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27551437",
-    "time": "2026-05-27T14:13:47.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27554377",
+    "time": "2026-05-27T17:27:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Райо Вальекано»: клуб работяг, левых и бунтарей. В финале еврокубка!",
+    "description": "Рассказывают Минин и «Портье Дрогба».",
+    "fullText": "Рассказывают Минин и «Портье Дрогба».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/b7/f0a9471fe42768cdda446416d0e2c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/UpvpjmFfKhSbKbfd4N9HxiHpl8SJdCllzOt3zg_cN18",
+    "time": "2026-05-27T14:36:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -34,24 +56,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Канада против США, Латвия – Норвегия! Пары в плей-офф ЧМ – шок",
-    "description": "А швейцарцам досталась Швеция.",
-    "fullText": "А швейцарцам досталась Швеция.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/50/ebc5fb2d74ce697a9d951579b5f5d.jpeg",
+    "title": "5 слабых мест Бивола",
+    "description": "Гений атаки, но не защиты.",
+    "fullText": "Гений атаки, но не защиты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/0b/cc8e0e31147d8afbcac40f1f27798.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3408166.html",
-    "time": "2026-05-27T10:21:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3408355.html",
+    "time": "2026-05-27T13:17:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Take-Two потребовала закрыть популярный многопользовательский мод RageMP для GTA V",
-    "description": "Это не первая платформа, которая прекратит работу по запросу издателя.",
-    "fullText": "Это не первая платформа, которая прекратит работу по запросу издателя.",
-    "image": "https://leonardo.osnova.io/a582e048-82c2-583a-b1ba-d72873ca1c78/",
+    "title": "Сервис «Игромир» займётся изданием игр и запустит своё медиа",
+    "description": "Среди будущих релизов компании — «Война Миров: Сибирь» и «Киберслав: Затмение»",
+    "fullText": "Среди будущих релизов компании — «Война Миров: Сибирь» и «Киберслав: Затмение»",
+    "image": "https://leonardo.osnova.io/c4324f9e-2c36-5411-95c4-eb55c6af0d25/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5085567-taketwo-zakryvaet-mod-ragemp-dlya-gta-v-perehod-na-fivem?from=rss",
-    "time": "2026-05-27T08:56:21.000Z"
+    "url": "https://dtf.ru/gameindustry/5086161-servis-igromir-zapuskayut-izdatelstvo-igr-i-media?from=rss",
+    "time": "2026-05-27T12:50:30.000Z"
   }
 ]
