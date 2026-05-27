@@ -1,14 +1,36 @@
 [
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Этот футболист успел поиграть в «Локомотиве», «ПСЖ» и «Реале»",
-    "description": "Насыщенная карьера.",
-    "fullText": "Насыщенная карьера.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/85/ac748d9304df8a2ff4434ab0d2315.webp",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Гуляем по стадиону победителя Лиги конференций – теперь в музее на один кубок больше!",
+    "description": "«Кристал Пэлас» ликует.",
+    "fullText": "«Кристал Пэлас» ликует.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/d2/0a8db9aec48a8b8d37dd5c3dd413d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
-    "time": "2026-05-27T17:30:00.000Z"
+    "url": "https://video.sports.ru/video/Wdo4SMyn5H4H1bEGDWBonxAGbGaW5TZ2vnfoaF9CQts",
+    "time": "2026-05-27T21:37:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Путин: Россия будет и дальше укреплять пограничную инфраструктуру",
+    "description": "Президент подчеркнул, что Пограничная служба ФСБ является надежным звеном в обеспечении безопасности РФ и наших ее граждан",
+    "fullText": "Президент подчеркнул, что Пограничная служба ФСБ является надежным звеном в обеспечении безопасности РФ и наших ее граждан",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/27555677",
+    "time": "2026-05-27T21:14:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Рейтинг бюджетов РПЛ: 25 млрд «Зенита», процветание «Краснодара», глубокие убытки «Спартака»",
+    "description": "Игорь Сергеев все изучил.",
+    "fullText": "Игорь Сергеев все изучил.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/58/79a34df234965956a40b4b932187c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3408411.html",
+    "time": "2026-05-27T18:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,38 +42,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/cinema/5086542-finalnyj-trejler-dnya-razoblacheniya?from=rss",
     "time": "2026-05-27T15:58:09.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Успели поиграть и в Лондоне, и в Париже – узнаете всех футболистов?",
-    "description": "Собрали 30 лиц.",
-    "fullText": "Собрали 30 лиц.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/08/68bbe52f24992b67ad6e9750b817e.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-05-27T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Альварес хочет уйти из «Атлетико». Eму некомфортно с Симеоне",
-    "description": "«Атлетико» просит 150+ млн евро.",
-    "fullText": "«Атлетико» просит 150+ млн евро.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/11/9180086504d2da5fd1edb61dcac0d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3407909.html",
-    "time": "2026-05-27T14:56:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
-    "description": "Предварительно, пострадавших нет",
-    "fullText": "Предварительно, пострадавших нет",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/24133329",
-    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
