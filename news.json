@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дипломаты выясняют обстоятельства ареста россиянина за кражу багажа в Хошимине",
-    "description": "Официально о факте задержания гражданина РФ генконсульство пока информировано не было",
-    "fullText": "Официально о факте задержания гражданина РФ генконсульство пока информировано не было",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Гатиятулина признали лучшим тренером прошлого сезона КХЛ",
+    "description": "\"Ак Барс\" под руководством специалиста дошел до финала Кубка Гагарина, где уступил \"Локомотиву\"",
+    "fullText": "\"Ак Барс\" под руководством специалиста дошел до финала Кубка Гагарина, где уступил \"Локомотиву\"",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260528/9095747.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27567865",
-    "time": "2026-05-28T14:16:35.000Z"
+    "url": "https://tass.ru/sport/27569687",
+    "time": "2026-05-28T17:34:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«В этом мире у всех есть секреты»: трейлер второго сезона сериала «Шугар» с Колином Фарреллом",
+    "description": "Продолжение стартует 19 июня.",
+    "fullText": "Продолжение стартует 19 июня.",
+    "image": "https://leonardo.osnova.io/7b03165a-7c52-5dbf-a62d-0031a2bd9b1d/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5088367-treyler-vtoroho-sezona-shugar-s-kolinem-farrellom?from=rss",
+    "time": "2026-05-28T14:45:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Жарища скрутила Синнера на «Ролан Гаррос». Как еще она изменила турнир?",
+    "description": "Изучаем.",
+    "fullText": "Изучаем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ba/d7ffaee4546c1b00d4af074ba6573.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3408615.html",
+    "time": "2026-05-28T14:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
     "time": "2026-05-28T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как обыграть Янника Синнера",
-    "description": "Рецепт.",
-    "fullText": "Рецепт.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/4e/1099935354df294867e37edbc979d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3407303.html",
-    "time": "2026-05-28T11:27:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: режиссёру «Обсессии» предложили десять миллионов долларов за следующий фильм, хотя студия ничего не знает о картине",
-    "description": "Вера в новичка.",
-    "fullText": "Вера в новичка.",
-    "image": "https://leonardo.osnova.io/8ee190e4-3dc3-58c3-bce1-69da718cb5ed/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5087665-rezhissyor-obsessii-poluchil-predlozhenie-na-desyat-millionov-dollarov?from=rss",
-    "time": "2026-05-28T09:24:50.000Z"
   }
 ]
