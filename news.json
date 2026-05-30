@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Ливане сообщили об атаке израильского дрона на джип в Набатии",
+    "description": "По информации ВС республики, ранены двое военных",
+    "fullText": "По информации ВС республики, ранены двое военных",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27588705",
+    "time": "2026-05-30T22:07:50.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "30 лучших игроков Лондона и Парижа – узнаете всех?",
     "description": "В Невидимке.",
@@ -11,26 +22,15 @@
     "time": "2026-05-30T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Тамбова ввели ограничения",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27588583",
-    "time": "2026-05-30T20:57:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Батраков запостил себя с футболкой «ПСЖ» – намек на переход?",
-    "description": "Или просто поздравил.",
-    "fullText": "Или просто поздравил.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/e1/d006d1eef481f9a284b28c43782df.jpeg",
+    "title": "Как «ПСЖ» прогнал эгоистов и построил династию",
+    "description": "Рассказывает Любовь Курчавова.",
+    "fullText": "Рассказывает Любовь Курчавова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/18/de77d69bf4c1aba85179f5d2c826a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3409205.html",
-    "time": "2026-05-30T19:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3409209.html",
+    "time": "2026-05-30T19:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
