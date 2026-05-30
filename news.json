@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Липецкой области объявили воздушную опасность",
-    "description": "Об этом сообщил губернатор региона Игорь Артамонов",
-    "fullText": "Об этом сообщил губернатор региона Игорь Артамонов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27583769",
-    "time": "2026-05-29T21:50:29.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Они бегают, подают и забивают, а еще пишут тексты. Выберите лучших авторов-спортсменов на Премии Трибуны",
     "description": "Голосуйте за любимчиков.",
@@ -34,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Хочу выглядеть как дерево». Стиль Алисы Лью – винтажная панкушка",
-    "description": "Пирсинг, кепки, оверсайз.",
-    "fullText": "Пирсинг, кепки, оверсайз.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/b6/91863896b47a89648dd5829941c0e.jpeg",
+    "title": "В «ПСЖ» платят даже за предпоследний пас – как за голы и ассисты. Ради командного духа",
+    "description": "Приятный бонус.",
+    "fullText": "Приятный бонус.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c7/4d79feafb45e3ab088b014151b276.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3408871.html",
-    "time": "2026-05-29T19:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3408492.html",
+    "time": "2026-05-29T19:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -53,5 +42,16 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5090226-zero-parades-patch-issledovaniya-bagov?from=rss",
     "time": "2026-05-29T13:52:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МВД заявили, что информация о стрельбе возле ТРЦ \"Щелковский\" не поступала",
+    "description": "Предварительно, пострадавших нет",
+    "fullText": "Предварительно, пострадавших нет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/24133329",
+    "time": "2025-06-04T11:02:07.000Z"
   }
 ]
