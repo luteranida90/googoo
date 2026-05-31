@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Якутске после возгорания на полигоне ТКО выявили загрязнение воздуха",
-    "description": "Зафиксировали превышения предельно допустимых концентраций оксида углерода и диоксида серы",
-    "fullText": "Зафиксировали превышения предельно допустимых концентраций оксида углерода и диоксида серы",
+    "title": "В ЦАХАЛ заявили об уничтожении трех крупных оружейных складов ХАМАС в Газе",
+    "description": "В ЦАХАЛ указали, что там хранились взрывные устройства, автоматы, снайперские винтовки и другое военное оборудование, а также 10 грузовых автомобилей",
+    "fullText": "В ЦАХАЛ указали, что там хранились взрывные устройства, автоматы, снайперские винтовки и другое военное оборудование, а также 10 грузовых автомобилей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27590709",
-    "time": "2026-05-31T09:05:10.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27591705",
+    "time": "2026-05-31T12:09:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Мэдиссон рвется к победе. Определите самого громкого спортивного эксперта на Премии Трибуны",
+    "description": "Кто говорил больше всех?",
+    "fullText": "Кто говорил больше всех?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
+    "time": "2026-05-31T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Победный мерч «ПСЖ» – уже в магазине Спортса’‘",
+    "description": "Для тех, кто верил до конца!",
+    "fullText": "Для тех, кто верил до конца!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/1e/3da412fea4cde84f9d7c018fc1fe6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/es87jo",
+    "time": "2026-05-31T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«ПСЖ» повторил рекорд по голам в ЛЧ – 45! Догнали «Барсу»-2000",
-    "description": "Могли побить.",
-    "fullText": "Могли побить.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fe/64e77ce3a41d08891becc6c55bfa3.jpeg",
+    "title": "Это 3-я ЛЧ для Франции. Обновленный рейтинг по странам",
+    "description": "Испания все еще далеко.",
+    "fullText": "Испания все еще далеко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/d4/173edbe5f435e86cae228d2d556ea.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3403319.html",
-    "time": "2026-05-31T05:50:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3409163.html",
+    "time": "2026-05-31T08:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Кинопоиск» объяснил изменение правил рецензий на фильмы в прокате увеличением числа некачественных текстов",
-    "description": "Привычный формат планируют вернуть после появления новых правил.",
-    "fullText": "Привычный формат планируют вернуть после появления новых правил.",
-    "image": "https://leonardo.osnova.io/ae9f03d6-e6a2-5bfe-8186-634715a06ec4/",
+    "title": "«Возвращаемся к истокам серии»: подробности сюжетной кампании Modern Warfare 4",
+    "description": "Одного из главных героев сыграет Янг Мазино, известный по «Грызне» и второму сезону «Одних из нас».",
+    "fullText": "Одного из главных героев сыграет Янг Мазино, известный по «Грызне» и второму сезону «Одних из нас».",
+    "image": "https://leonardo.osnova.io/2af254f0-16e6-520f-aa72-65b64a05ad05/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5090790-kinopoisk-obyasnil-novye-pravila-retsenzii?from=rss",
-    "time": "2026-05-29T19:06:03.000Z"
+    "url": "https://dtf.ru/games/5090475-syuzhetnaya-kampaniya-modern-warfare-4-vozvrashchenie-k-istokam-serii?from=rss",
+    "time": "2026-05-29T17:10:41.000Z"
   }
 ]
