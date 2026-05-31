@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ливане сообщили об атаке израильского дрона на джип в Набатии",
-    "description": "По информации ВС республики, ранены двое военных",
-    "fullText": "По информации ВС республики, ранены двое военных",
+    "title": "Skysmart: более 20% выпускников школ еще не выбрали вуз для поступления",
+    "description": "Лишь 7% респондентов заявили, что уже точно знают, куда будут поступать",
+    "fullText": "Лишь 7% респондентов заявили, что уже точно знают, куда будут поступать",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27588705",
-    "time": "2026-05-30T22:07:50.000Z"
+    "url": "https://tass.ru/obschestvo/27588971",
+    "time": "2026-05-31T00:34:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Победный мерч «ПСЖ» – уже в магазине Спортса’‘",
+    "description": "Для тех, кто верил до конца!",
+    "fullText": "Для тех, кто верил до конца!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/1e/3da412fea4cde84f9d7c018fc1fe6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/es87jo",
+    "time": "2026-05-30T22:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как «ПСЖ» прогнал эгоистов и построил династию",
-    "description": "Рассказывает Любовь Курчавова.",
-    "fullText": "Рассказывает Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/18/de77d69bf4c1aba85179f5d2c826a.jpeg",
+    "title": "Унижение от Бивола. Зачем ему дали не бой, а спарринг за пояс?",
+    "description": "Но опять без нокаута.",
+    "fullText": "Но опять без нокаута.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/97/62a99320047e2b820752b368b786c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3409209.html",
-    "time": "2026-05-30T19:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3409144.html",
+    "time": "2026-05-30T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хоррор «Закулисье реальности» установил рекорд фильмов студии A24 по сборам на предварительных показах в США",
-    "description": "Судя по всему, картина обойдёт «Падение империи» по результату за первый уикенд.",
-    "fullText": "Судя по всему, картина обойдёт «Падение империи» по результату за первый уикенд.",
-    "image": "https://leonardo.osnova.io/2442e76b-cd35-50fc-bbc3-4862c4e0b009/",
+    "title": "Fable перенесли на февраль 2027 года",
+    "description": "Из-за насыщенного расписания релизов.",
+    "fullText": "Из-за насыщенного расписания релизов.",
+    "image": "https://leonardo.osnova.io/c7715293-5c5b-5481-8a7a-a7102bdff719/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5090543-horor-zakulise-realnosti-rekord-a24?from=rss",
-    "time": "2026-05-29T17:31:10.000Z"
+    "url": "https://dtf.ru/games/5090558-fable-perenesli-na-fevral?from=rss",
+    "time": "2026-05-29T16:41:32.000Z"
   }
 ]
