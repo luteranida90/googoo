@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Пензенской области отменили беспилотную опасность",
-    "description": "Эту информацию сообщили в официальном канале губернатора региона Олега Мельниченко",
-    "fullText": "Эту информацию сообщили в официальном канале губернатора региона Олега Мельниченко",
+    "title": "В Якутске после возгорания на полигоне ТКО выявили загрязнение воздуха",
+    "description": "Зафиксировали превышения предельно допустимых концентраций оксида углерода и диоксида серы",
+    "fullText": "Зафиксировали превышения предельно допустимых концентраций оксида углерода и диоксида серы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27589921",
-    "time": "2026-05-31T05:22:03.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Победный мерч «ПСЖ» – уже в магазине Спортса’‘",
-    "description": "Для тех, кто верил до конца!",
-    "fullText": "Для тех, кто верил до конца!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/1e/3da412fea4cde84f9d7c018fc1fe6.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/es87jo",
-    "time": "2026-05-30T22:40:00.000Z"
+    "url": "https://tass.ru/obschestvo/27590709",
+    "time": "2026-05-31T09:05:10.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Холмгрен vs Вемби – знаковая дуэль нового поколения. Хронология ненависти перед 7-м матчем",
-    "description": "Историческая схватка.",
-    "fullText": "Историческая схватка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/33/e181f7c1142f4aeacef5ae26f83ef.jpeg",
+    "title": "«ПСЖ» повторил рекорд по голам в ЛЧ – 45! Догнали «Барсу»-2000",
+    "description": "Могли побить.",
+    "fullText": "Могли побить.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/fe/64e77ce3a41d08891becc6c55bfa3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3409051.html",
-    "time": "2026-05-30T21:40:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3403319.html",
+    "time": "2026-05-31T05:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Fable перенесли на февраль 2027 года",
-    "description": "Из-за насыщенного расписания релизов.",
-    "fullText": "Из-за насыщенного расписания релизов.",
-    "image": "https://leonardo.osnova.io/c7715293-5c5b-5481-8a7a-a7102bdff719/",
+    "title": "«Кинопоиск» объяснил изменение правил рецензий на фильмы в прокате увеличением числа некачественных текстов",
+    "description": "Привычный формат планируют вернуть после появления новых правил.",
+    "fullText": "Привычный формат планируют вернуть после появления новых правил.",
+    "image": "https://leonardo.osnova.io/ae9f03d6-e6a2-5bfe-8186-634715a06ec4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5090558-fable-perenesli-na-fevral?from=rss",
-    "time": "2026-05-29T16:41:32.000Z"
+    "url": "https://dtf.ru/cinema/5090790-kinopoisk-obyasnil-novye-pravila-retsenzii?from=rss",
+    "time": "2026-05-29T19:06:03.000Z"
   }
 ]
