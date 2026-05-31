@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Пермском крае в ДТП с грузовиком погибли женщина и трое детей",
+    "description": "На месте происшествия работают 28 человек, привлечено 10 единиц техники",
+    "fullText": "На месте происшествия работают 28 человек, привлечено 10 единиц техники",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27592831",
+    "time": "2026-05-31T18:33:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Помните, как «Локомотив» с Семиным блистал в нулевые?",
+    "description": "Мы напомним.",
+    "fullText": "Мы напомним.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4c/f1364f1084937b9e59ae08914d5bf.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-05-31T18:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Первая реакция Лукомского на поражение «Арсенала» в финале ЛЧ 😢",
     "description": "Эмоции в Cappuccino & Catenaccio.",
@@ -11,26 +33,15 @@
     "time": "2026-05-31T17:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российские гимнастки выразили признательность своим болельщикам за поддержку",
-    "description": "На чемпионате Европы в Болгарии россиянки завоевали девять наград",
-    "fullText": "На чемпионате Европы в Болгарии россиянки завоевали девять наград",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27592397",
-    "time": "2026-05-31T16:34:50.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все-все формы сборных ЧМ-2026",
-    "description": "От топов до карликов.",
-    "fullText": "От топов до карликов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/f5/1d3da8dd545998ac7e32f7b74e0d1.jpeg",
+    "title": "800 задержаний, 219 пострадавших. Париж гудит после победы «ПСЖ»",
+    "description": "Эйфелева башня в дыму.",
+    "fullText": "Эйфелева башня в дыму.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/5b/f61e20949456cab9236cc33cfafc9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3392530.html",
-    "time": "2026-05-31T13:44:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3409260.html",
+    "time": "2026-05-31T14:57:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
