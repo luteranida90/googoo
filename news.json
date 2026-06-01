@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Axios: Трамп нецензурно отчитал Нетаньяху из-за срыва перемирия",
+    "description": "Президент США также заявил, что помог премьеру еврейского государства избежать тюремного заключения по делу о коррупции",
+    "fullText": "Президент США также заявил, что помог премьеру еврейского государства избежать тюремного заключения по делу о коррупции",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250110/8001535.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27606991",
+    "time": "2026-06-01T22:49:04.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Выберите своих фаворитов 1/4 «Ролан Гаррос» и вступайте в борьбу",
     "description": "В теннисном фэнтези.",
@@ -11,36 +22,25 @@
     "time": "2026-06-01T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Небензя продемонстрировал в ООН фотографии погибших в Старобельске",
-    "description": "Письмо с материалами, в том числе и по жертвам трагедии, будет направлено всем членам Совета Безопасности, сообщил постпред России при организации",
-    "fullText": "Письмо с материалами, в том числе и по жертвам трагедии, будет направлено всем членам Совета Безопасности, сообщил постпред России при организации",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "15 лучших форм ЧМ-2026: от звездного неба до белокаменного храма",
+    "description": "Оценивают дизайнеры Спортса’’.",
+    "fullText": "Оценивают дизайнеры Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/4d/9a4f9e01649a29b3903541f58d9cb.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/27606765",
-    "time": "2026-06-01T21:29:25.000Z"
+    "url": "https://www.sports.ru/football/blogs/3405469.html",
+    "time": "2026-06-01T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кооперативный хоррор Beyond the Dark: Nightwatch от сооснователя Ready at Dawn выйдет эксклюзивно на Nintendo Switch 2",
-    "description": "Игрокам предстоит исследовать мрачный особняк.",
-    "fullText": "Игрокам предстоит исследовать мрачный особняк.",
-    "image": "https://leonardo.osnova.io/99e27666-66d7-5ce7-853f-f5ff6058bcdf/",
+    "title": "Авторы Resident Evil допустили, что в будущем могут сделать игру в японском сеттинге",
+    "description": "Место и время действия зависят от особенностей каждой игры.",
+    "fullText": "Место и время действия зависят от особенностей каждой игры.",
+    "image": "https://leonardo.osnova.io/cab0a2f1-8e90-571d-ac77-f4f313f5e0f3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5096412-kooperativnyy-horror-beyond-the-dark-nightwatch-na-nintendo-switch-2?from=rss",
-    "time": "2026-06-01T19:52:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фэнтези ЧМ-2026 открыт! Пора собирать составы на мегатурнир",
-    "description": "Такого масштаба вы еще не видели.",
-    "fullText": "Такого масштаба вы еще не видели.",
-    "image": "https://photobooth.cdn.sports.ru/preset/news/d/be/45dcfb9b945f281aeb884228b89da.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/fantasy/football/world-cup/?utm_source=sports&utm_medium=matherial_direct&utm_campaign=fantasy_wc_2026",
-    "time": "2026-06-01T16:40:00.000Z"
+    "url": "https://dtf.ru/games/5095905-razrabotchiki-resident-evil-rassmatrivayut-yaponskiy-setting?from=rss",
+    "time": "2026-06-01T14:33:13.000Z"
   }
 ]
