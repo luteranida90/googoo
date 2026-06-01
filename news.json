@@ -1,46 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Выберите своих фаворитов 1/4 «Ролан Гаррос» и вступайте в борьбу",
+    "description": "В теннисном фэнтези.",
+    "fullText": "В теннисном фэнтези.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/1b/87241c68c45e99e6872eda6e75417.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/roland-garros/?utm_source=native",
+    "time": "2026-06-01T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бастрыкин заявил о свидетельствах преднамеренности удара ВСУ по Старобельскому колледжу",
-    "description": "",
-    "fullText": "",
+    "title": "Небензя продемонстрировал в ООН фотографии погибших в Старобельске",
+    "description": "Письмо с материалами, в том числе и по жертвам трагедии, будет направлено всем членам Совета Безопасности, сообщил постпред России при организации",
+    "fullText": "Письмо с материалами, в том числе и по жертвам трагедии, будет направлено всем членам Совета Безопасности, сообщил постпред России при организации",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/27605035",
-    "time": "2026-06-01T18:12:11.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Главный турнир года в CS: фаворит – французский гений, наш Donk поборется за второй титул",
-    "description": "Расписание, расклады и главные сюжеты.",
-    "fullText": "Расписание, расклады и главные сюжеты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/28/a14b08a024e9d9536b523fb586d3d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3408470.html",
-    "time": "2026-06-01T15:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Вспомните победителей ЛЧ и забирайте уникальный промокод до 3000 рублей от Балтбет",
-    "description": "Месси, Хвича, а еще?",
-    "fullText": "Месси, Хвича, а еще?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/99/72501631a4edd96033b7c7a0bbfbb.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/specials/cl-history/?utm_source=native&erid=2SDnjdTqpX4",
-    "time": "2026-06-01T14:10:00.000Z"
+    "url": "https://tass.ru/politika/27606765",
+    "time": "2026-06-01T21:29:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ASUS представила модель ROG Xbox Ally X с OLED-дисплеем",
-    "description": "Устройство во многом идентично прошлой версии.",
-    "fullText": "Устройство во многом идентично прошлой версии.",
-    "image": "https://leonardo.osnova.io/ea9d0048-8003-5df9-aca9-fb4b9efd448c/",
+    "title": "Кооперативный хоррор Beyond the Dark: Nightwatch от сооснователя Ready at Dawn выйдет эксклюзивно на Nintendo Switch 2",
+    "description": "Игрокам предстоит исследовать мрачный особняк.",
+    "fullText": "Игрокам предстоит исследовать мрачный особняк.",
+    "image": "https://leonardo.osnova.io/99e27666-66d7-5ce7-853f-f5ff6058bcdf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5095605-asus-rog-xbox-ally-x-oled-displey?from=rss",
-    "time": "2026-06-01T11:41:47.000Z"
+    "url": "https://dtf.ru/games/5096412-kooperativnyy-horror-beyond-the-dark-nightwatch-na-nintendo-switch-2?from=rss",
+    "time": "2026-06-01T19:52:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Фэнтези ЧМ-2026 открыт! Пора собирать составы на мегатурнир",
+    "description": "Такого масштаба вы еще не видели.",
+    "fullText": "Такого масштаба вы еще не видели.",
+    "image": "https://photobooth.cdn.sports.ru/preset/news/d/be/45dcfb9b945f281aeb884228b89da.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/fantasy/football/world-cup/?utm_source=sports&utm_medium=matherial_direct&utm_campaign=fantasy_wc_2026",
+    "time": "2026-06-01T16:40:00.000Z"
   }
 ]
