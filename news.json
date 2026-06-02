@@ -1,57 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лукашенко и Путин обсудили введение в России системы СПОТ",
-    "description": "В ходе телефонного разговора затрагивался также вопрос организации и проведения XIII Форума регионов Белоруссии и России",
-    "fullText": "В ходе телефонного разговора затрагивался также вопрос организации и проведения XIII Форума регионов Белоруссии и России",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250116/8011617.jpg",
+    "title": "Глава ВОЗ не фиксирует ухудшения ситуации вокруг вспышки хантавируса на лайнере",
+    "description": "Число подтвержденных случаев заболевания остается неизменным, заявил Тедрос Аданом Гебрейесус",
+    "fullText": "Число подтвержденных случаев заболевания остается неизменным, заявил Тедрос Аданом Гебрейесус",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27616895",
-    "time": "2026-06-02T16:39:23.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Когда страшнее бить пенальти – первым или последним? Разбор финала ЛЧ в шоу Смолова",
-    "description": "«Мой опыт вы знаете».",
-    "fullText": "«Мой опыт вы знаете».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/e5/83fcd14a34e22adc09e4732638a2d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/U_D9T4nAJ8w-Wmh9XMk3vlJCKtxC2S68DOj3WlhueUo",
-    "time": "2026-06-02T14:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Босс МОК против призовых на Олимпиадах – этим взбесила пловцов",
-    "description": "«Для политиков мы лишь цифры».",
-    "fullText": "«Для политиков мы лишь цифры».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ba/3c066d1a242f2a2fa79b4a4c7ea80.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3408344.html",
-    "time": "2026-06-02T12:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Гид по всем сборным ЧМ-2026",
-    "description": "Готовимся вместе.",
-    "fullText": "Готовимся вместе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/teams-2026/",
-    "time": "2026-06-02T12:35:00.000Z"
+    "url": "https://tass.ru/obschestvo/27617897",
+    "time": "2026-06-02T19:37:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Геймдиректор Control: «Эта франшиза никогда не была посвящена одному персонажу»",
-    "description": "Концепцию сиквела руководитель продумывал долго — чтобы в студии все понимали свои задачи.",
-    "fullText": "Концепцию сиквела руководитель продумывал долго — чтобы в студии все понимали свои задачи.",
-    "image": "https://leonardo.osnova.io/05d0eeff-494d-5fd4-b4da-e15c3642f9d1/",
+    "title": "Шутер Hell Let Loose: Vietnam перенесли на 13 августа",
+    "description": "Релиз планировался в июне.",
+    "fullText": "Релиз планировался в июне.",
+    "image": "https://leonardo.osnova.io/3a050426-f556-5f32-a9af-8782885741ba/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5097267-geimdirektor-control-o-franshize-istoriya-mira-a-ne-personazha?from=rss",
-    "time": "2026-06-02T08:37:55.000Z"
+    "url": "https://dtf.ru/games/5098293-shuter-hell-let-loose-vietnam-perenesli-na-avgust?from=rss",
+    "time": "2026-06-02T18:15:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Узнаете команду по расстановке в матче этого сезона?",
+    "description": "Кого-то даже удалили с поля.",
+    "fullText": "Кого-то даже удалили с поля.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/7d/70a8f214f41a3b83f6e460155c6ca.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/specials/match-tactics/?utm_source=native",
+    "time": "2026-06-02T15:30:00.000Z"
   }
 ]
