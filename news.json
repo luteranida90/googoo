@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пассажиропоток авиакомпаний России за четыре месяца снизился на 1,2%",
-    "description": "Показатель составил 30,8 млн человек",
-    "fullText": "Показатель составил 30,8 млн человек",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260602/9106339.jpg",
+    "title": "Мерц: вопрос венгерского меньшинства не должен вредить поддержке Киева",
+    "description": "Новое правительство Венгрии, как и его предшественники, выступает против ускоренного приема Украины в Евросоюз",
+    "fullText": "Новое правительство Венгрии, как и его предшественники, выступает против ускоренного приема Украины в Евросоюз",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27610349",
-    "time": "2026-06-02T08:07:54.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27613189",
+    "time": "2026-06-02T12:13:07.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90Lm1lL3Nw",
-    "title": "Забирайте наборы LEGO с Месси и Роналду, а еще наклейки Panini к ЧМ-2026!",
-    "description": "Конкурс в нашем телеграме.",
-    "fullText": "Конкурс в нашем телеграме.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e0/6fa40f3104cfd9aedd7405a41cdc2.jpeg",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Инсайдов нет, а Карп – на месте. Голосуйте за лучших спортивных авторов на Премии Трибуны",
+    "description": "Успейте до 4 июня.",
+    "fullText": "Успейте до 4 июня.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/cc/14abb56a74f0893f6cde8973e38d8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://t.me/sportsru/124706",
-    "time": "2026-06-02T05:30:00.000Z"
+    "url": "https://m.sports.ru/tribuna-awards/?ref=sports&ref2=material",
+    "time": "2026-06-02T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Карточка Сафонова в FC26: был среди худших в «ПСЖ», теперь – сияет (но без лица)",
+    "description": "Космическая прокачка.",
+    "fullText": "Космическая прокачка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/02/5f2aefef441fa97320ba30bc260bf.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3409586.html",
+    "time": "2026-06-02T10:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Величайшая Серена возвращается в теннис в 44. Серьезно? Зачем?",
-    "description": "Вайбчек.",
-    "fullText": "Вайбчек.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/85/2d907de734555bfbb9947ee713553.jpeg",
+    "title": "Рейтинг силы четвертьфиналистов «Ролан Гаррос»",
+    "description": "Разбираемся.",
+    "fullText": "Разбираемся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/24/78bbd9d344ce99615e18ca4e2f28e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3409678.html",
-    "time": "2026-06-02T04:37:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3409673.html",
+    "time": "2026-06-02T08:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "ASUS анонсировала видеокарту Astral GeForce RTX 5090 Edition 20 с изогнутым AMOLED-дисплеем",
-    "description": "И показала флагманский настольный ПК ROG G1000 Edition 20.",
-    "fullText": "И показала флагманский настольный ПК ROG G1000 Edition 20.",
-    "image": "https://leonardo.osnova.io/8e614c15-b7f7-5b51-8106-59f6fa3f2c74/",
+    "title": "Поддержку первой Path of Exile не прекратят после выхода сиквела из раннего доступа",
+    "description": "Экшену ничего не грозит, пока в него играют.",
+    "fullText": "Экшену ничего не грозит, пока в него играют.",
+    "image": "https://leonardo.osnova.io/16bcda3d-0580-56b1-8ad1-ca252089c180/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5096125-asus-videokarta-astral-geforce-rtx-5090?from=rss",
-    "time": "2026-06-01T16:40:31.000Z"
+    "url": "https://dtf.ru/games/5096344-podderzhka-path-of-exile-1-prodolzhitsya?from=rss",
+    "time": "2026-06-01T18:58:49.000Z"
   }
 ]
