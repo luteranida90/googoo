@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Выберите своих фаворитов 1/4 «Ролан Гаррос» и вступайте в борьбу",
-    "description": "В теннисном фэнтези.",
-    "fullText": "В теннисном фэнтези.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/1b/87241c68c45e99e6872eda6e75417.png",
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пассажиропоток авиакомпаний России за четыре месяца снизился на 1,2%",
+    "description": "Показатель составил 30,8 млн человек",
+    "fullText": "Показатель составил 30,8 млн человек",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260602/9106339.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/27610349",
+    "time": "2026-06-02T08:07:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90Lm1lL3Nw",
+    "title": "Забирайте наборы LEGO с Месси и Роналду, а еще наклейки Panini к ЧМ-2026!",
+    "description": "Конкурс в нашем телеграме.",
+    "fullText": "Конкурс в нашем телеграме.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/e0/6fa40f3104cfd9aedd7405a41cdc2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/roland-garros/?utm_source=native",
-    "time": "2026-06-01T21:30:00.000Z"
+    "url": "https://t.me/sportsru/124706",
+    "time": "2026-06-02T05:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "15 лучших форм ЧМ-2026: от звездного неба до белокаменного храма",
-    "description": "Оценивают дизайнеры Спортса’’.",
-    "fullText": "Оценивают дизайнеры Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/4d/9a4f9e01649a29b3903541f58d9cb.jpeg",
+    "title": "Величайшая Серена возвращается в теннис в 44. Серьезно? Зачем?",
+    "description": "Вайбчек.",
+    "fullText": "Вайбчек.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/85/2d907de734555bfbb9947ee713553.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3405469.html",
-    "time": "2026-06-01T18:00:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3409678.html",
+    "time": "2026-06-02T04:37:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Resident Evil допустили, что в будущем могут сделать игру в японском сеттинге",
-    "description": "Место и время действия зависят от особенностей каждой игры.",
-    "fullText": "Место и время действия зависят от особенностей каждой игры.",
-    "image": "https://leonardo.osnova.io/cab0a2f1-8e90-571d-ac77-f4f313f5e0f3/",
+    "title": "ASUS анонсировала видеокарту Astral GeForce RTX 5090 Edition 20 с изогнутым AMOLED-дисплеем",
+    "description": "И показала флагманский настольный ПК ROG G1000 Edition 20.",
+    "fullText": "И показала флагманский настольный ПК ROG G1000 Edition 20.",
+    "image": "https://leonardo.osnova.io/8e614c15-b7f7-5b51-8106-59f6fa3f2c74/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5095905-razrabotchiki-resident-evil-rassmatrivayut-yaponskiy-setting?from=rss",
-    "time": "2026-06-01T14:33:13.000Z"
+    "url": "https://dtf.ru/hard/5096125-asus-videokarta-astral-geforce-rtx-5090?from=rss",
+    "time": "2026-06-01T16:40:31.000Z"
   }
 ]
