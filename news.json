@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава ВОЗ не фиксирует ухудшения ситуации вокруг вспышки хантавируса на лайнере",
-    "description": "Число подтвержденных случаев заболевания остается неизменным, заявил Тедрос Аданом Гебрейесус",
-    "fullText": "Число подтвержденных случаев заболевания остается неизменным, заявил Тедрос Аданом Гебрейесус",
+    "title": "Исследование выявило главную причину отказа бизнеса от внедрения ИИ",
+    "description": "Речь о высоких рисках в области безопасности и конфиденциальности данных, сказано в совместном исследовании системного интегратора УЦСБ и группы компаний \"Солар\"",
+    "fullText": "Речь о высоких рисках в области безопасности и конфиденциальности данных, сказано в совместном исследовании системного интегратора УЦСБ и группы компаний \"Солар\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27617897",
-    "time": "2026-06-02T19:37:00.000Z"
+    "url": "https://tass.ru/obschestvo/27618829",
+    "time": "2026-06-03T00:02:17.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шутер Hell Let Loose: Vietnam перенесли на 13 августа",
-    "description": "Релиз планировался в июне.",
-    "fullText": "Релиз планировался в июне.",
-    "image": "https://leonardo.osnova.io/3a050426-f556-5f32-a9af-8782885741ba/",
+    "title": "Silent Hill: Townfall выйдет 24 сентября",
+    "description": "Релиз состоится на ПК и PS5.",
+    "fullText": "Релиз состоится на ПК и PS5.",
+    "image": "https://leonardo.osnova.io/faa4aa4b-e61e-51bc-ab63-5286ee7e5b78/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5098293-shuter-hell-let-loose-vietnam-perenesli-na-avgust?from=rss",
-    "time": "2026-06-02T18:15:05.000Z"
+    "url": "https://dtf.ru/games/5097848-silent-hill-townfall-na-pk-i-ps5?from=rss",
+    "time": "2026-06-02T21:36:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Гид по всем сборным ЧМ-2026",
+    "description": "Готовимся вместе.",
+    "fullText": "Готовимся вместе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/teams-2026/",
+    "time": "2026-06-02T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Узнаете команду по расстановке в матче этого сезона?",
-    "description": "Кого-то даже удалили с поля.",
-    "fullText": "Кого-то даже удалили с поля.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/7d/70a8f214f41a3b83f6e460155c6ca.png",
+    "title": "Задумывались, как выглядят дети бойцов? Сын КроКопа – качок, а Майя Леснар – звезда в толкании ядра",
+    "description": "Сын Рэмпейджа вообще сядет в тюрьму.",
+    "fullText": "Сын Рэмпейджа вообще сядет в тюрьму.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ed/d7d23f217422b99aba41a28691f16.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/match-tactics/?utm_source=native",
-    "time": "2026-06-02T15:30:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3409501.html",
+    "time": "2026-06-02T19:10:00.000Z"
   }
 ]
