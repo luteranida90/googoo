@@ -1,46 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава ОАК: Россия создала импортозамещенные пассажирские самолеты",
-    "description": "Их сертификацию глава Объединенной авиастроительной корпорации Вадим Бадеха назвал вопросом непродолжительного времени",
-    "fullText": "Их сертификацию глава Объединенной авиастроительной корпорации Вадим Бадеха назвал вопросом непродолжительного времени",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27620209",
-    "time": "2026-06-03T05:04:43.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Onimusha: Way of the Sword выйдет 25 сентября",
-    "description": "Capcom также выпустила демо.",
-    "fullText": "Capcom также выпустила демо.",
-    "image": "https://leonardo.osnova.io/ee40e66a-5069-5823-97b8-46efa88a62e3/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5098702-onimusha-way-of-the-sword-treyler-i-demo-ot-capcom?from=rss",
-    "time": "2026-06-02T21:38:19.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Гид по всем сборным ЧМ-2026",
-    "description": "Готовимся вместе.",
-    "fullText": "Готовимся вместе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
+    "title": "Факты обо всех игроках ЧМ-2026 (да, вообще обо всех)! Уникальный проект Спортса’’",
+    "description": "1250 футболистов.",
+    "fullText": "1250 футболистов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/76/b42c748d9434886ba8fb88b31b447.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/teams-2026/",
-    "time": "2026-06-02T20:00:00.000Z"
+    "url": "https://specials.sports.ru/players-2026/",
+    "time": "2026-06-03T06:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "РПЛ отправит на ЧМ 11 игроков: от Бразилии до Кабо-Верде",
-    "description": "На 9 больше, чем в 2022-м.",
-    "fullText": "На 9 больше, чем в 2022-м.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/97/0793cc00c4274904024eee18b9134.jpeg",
+    "title": "С чем «Хьюстон» подходит к межсезонью НБА?",
+    "description": "Дюрэнт пока тут.",
+    "fullText": "Дюрэнт пока тут.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/9c/8439f8d9b4bfc8f09c7b4aa120db0.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3409864.html",
-    "time": "2026-06-02T19:45:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3408890.html",
+    "time": "2026-06-03T05:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Insomniac представила расширенный геймплей Marvel&#039;s Wolverine",
+    "description": "В демонстрации появились знакомые герои и злодеи.",
+    "fullText": "В демонстрации появились знакомые герои и злодеи.",
+    "image": "https://leonardo.osnova.io/24c3350b-b76a-54c5-afc8-be7291403a00/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5098392-rasshirennyj-gejmplej-marvels-wolverine-ot-insomniac?from=rss",
+    "time": "2026-06-02T21:18:05.000Z"
   }
 ]
