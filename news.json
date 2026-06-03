@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Рубио отрицает, что Иран предупредил о готовности провести предупредительный ядерный взрыв",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27631983",
+    "time": "2026-06-03T15:02:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Догонялки в первом матче финала НХЛ! В итоге «Вегас» – с победой, а Барбашев – с голом",
+    "description": "«Каролина» уступает 0-1 в серии.",
+    "fullText": "«Каролина» уступает 0-1 в серии.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/50/4724c88c648979395a2ca9ced7cf8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3409935.html",
+    "time": "2026-06-03T12:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Факты обо всех игроках ЧМ-2026 (да, вообще обо всех)! Уникальный проект Спортса’’",
     "description": "1250 футболистов.",
@@ -8,28 +30,17 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://specials.sports.ru/players-2026/",
-    "time": "2026-06-03T06:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "С чем «Хьюстон» подходит к межсезонью НБА?",
-    "description": "Дюрэнт пока тут.",
-    "fullText": "Дюрэнт пока тут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/9c/8439f8d9b4bfc8f09c7b4aa120db0.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3408890.html",
-    "time": "2026-06-03T05:30:00.000Z"
+    "time": "2026-06-03T12:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Insomniac представила расширенный геймплей Marvel&#039;s Wolverine",
-    "description": "В демонстрации появились знакомые герои и злодеи.",
-    "fullText": "В демонстрации появились знакомые герои и злодеи.",
-    "image": "https://leonardo.osnova.io/24c3350b-b76a-54c5-afc8-be7291403a00/-/format/mp4/",
+    "title": "Второй сезон Marathon стартовал с многочасовых проблем серверов и пика онлайна на ПК в 40 тысяч",
+    "description": "Всем «пострадавшим» выдадут спонсорские наборы с лутом.",
+    "fullText": "Всем «пострадавшим» выдадут спонсорские наборы с лутом.",
+    "image": "https://leonardo.osnova.io/c7af04ab-5e53-5313-b8cf-fb67e2144f49/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5098392-rasshirennyj-gejmplej-marvels-wolverine-ot-insomniac?from=rss",
-    "time": "2026-06-02T21:18:05.000Z"
+    "url": "https://dtf.ru/games/5099542-vtoroy-sezon-marathon-problemy-serverov?from=rss",
+    "time": "2026-06-03T08:17:25.000Z"
   }
 ]
