@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошел взрыв",
-    "description": "В регионе объявили воздушную тревогу",
-    "fullText": "В регионе объявили воздушную тревогу",
+    "title": "В Севастополе сбили 20 БПЛА",
+    "description": "Поврежден частный дом",
+    "fullText": "Поврежден частный дом",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27635535",
-    "time": "2026-06-03T21:17:36.000Z"
+    "url": "https://tass.ru/proisshestviya/27635823",
+    "time": "2026-06-03T22:51:42.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Гид по всем сборным ЧМ-2026",
+    "description": "Готовимся вместе.",
+    "fullText": "Готовимся вместе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/teams-2026/",
+    "time": "2026-06-03T20:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все чемпионы сезона в Европе. Золотая галерея",
-    "description": "Запоминаем.",
-    "fullText": "Запоминаем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/10/056e2ba324e4bbf6513c61dc04d7a.jpeg",
+    "title": "Шнайдер выбила Соболенко!!!",
+    "description": "Сенсация.",
+    "fullText": "Сенсация.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ba/ec853f43647c5b06aacbeefa7f361.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3402695.html",
-    "time": "2026-06-03T18:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3410057.html",
+    "time": "2026-06-03T19:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
