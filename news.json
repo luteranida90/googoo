@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Министр из Сьерра-Леоне рассказал, что чувствует себя на ПМЭФ, \"как дома\"",
-    "description": "Джулиус Маттай сообщил, что раз за разом возвращается в РФ в том числе из любви к русской душе.",
-    "fullText": "Джулиус Маттай сообщил, что раз за разом возвращается в РФ в том числе из любви к русской душе.",
+    "title": "Никитин: беспилотные грузовики уже активно тестируются на трассе М-4 \"Дон\"",
+    "description": "Сейчас там курсируют 11 таких машин, заявил глава Минтранса",
+    "fullText": "Сейчас там курсируют 11 таких машин, заявил глава Минтранса",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27657137",
-    "time": "2026-06-04T23:06:58.000Z"
+    "url": "https://tass.ru/ekonomika/27658231",
+    "time": "2026-06-05T03:01:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2026-06-04T21:05:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мирра пришла в финал «Шлема» за 3 года – через огромные разочарования",
+    "description": "Таймлайн.",
+    "fullText": "Таймлайн.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ca/9e45f9c4341e1a1e680378d851bce.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3410292.html",
+    "time": "2026-06-04T19:32:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Следите за CS? Вот по 1 факту про всех 160 участников мейджора",
     "description": "Знакомимся.",
@@ -33,25 +44,14 @@
     "time": "2026-06-04T19:09:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ливерпуль» возглавил Ираола. Он вывел «Борнмут» в еврокубки и отказал «Милану»",
-    "description": "Директор его отлично знает.",
-    "fullText": "Директор его отлично знает.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/d9/31797f2bc407aac1e85e8b9b8c5b9.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3409757.html",
-    "time": "2026-06-04T18:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Режиссёр «Закулисья реальности» о генеративном ИИ: «Если бы я мог заставить его исчезнуть щелчком пальцев, я бы это сделал»",
-    "description": "Постановщику хочется исследовать влияние технологии на общество в будущих проектах.",
-    "fullText": "Постановщику хочется исследовать влияние технологии на общество в будущих проектах.",
-    "image": "https://leonardo.osnova.io/f7e0300e-a1d5-595e-9bfd-f436473119b4/",
+    "title": "Devil May Cry от Netflix продлили на третий сезон — он станет финальным",
+    "description": "Второй вышел в мае.",
+    "fullText": "Второй вышел в мае.",
+    "image": "https://leonardo.osnova.io/f0bbead0-4bd8-5b99-8290-b9ed4c0095b4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5102205-rezhissyor-zakulisiya-realnosti-o-generativnom-ii?from=rss",
-    "time": "2026-06-04T12:30:24.000Z"
+    "url": "https://dtf.ru/cinema/5102567-tretiy-sezon-devil-may-cry-na-netflix?from=rss",
+    "time": "2026-06-04T15:09:24.000Z"
   }
 ]
