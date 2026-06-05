@@ -1,35 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Аносирована Guild Wars 3 — трейлер",
+    "description": "Бета стартует осенью 2027 года.",
+    "fullText": "Бета стартует осенью 2027 года.",
+    "image": "https://leonardo.osnova.io/fb16c0e0-e8fe-575d-9f93-b45a5ff63b61/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5105968-anonsirovana-igra-guild-wars-3?from=rss",
+    "time": "2026-06-05T21:59:38.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Карпин оценил дебют футболиста \"Манчестер Юнайтед\" Ибрагимова за сборную России",
-    "description": "18-летний полузащитник вышел на поле во втором тайме матча с командой Буркина-Фасо",
-    "fullText": "18-летний полузащитник вышел на поле во втором тайме матча с командой Буркина-Фасо",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Алексей Миранчук: у Ибрагимова есть все качества, чтобы помогать сборной России",
+    "description": "Футболист Амир Ибрагимов дебютировал за команду России в матче против сборной Буркина-Фасо",
+    "fullText": "Футболист Амир Ибрагимов дебютировал за команду России в матче против сборной Буркина-Фасо",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260606/9122797.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27676771",
-    "time": "2026-06-05T20:18:32.000Z"
+    "url": "https://tass.ru/sport/27677201",
+    "time": "2026-06-05T21:27:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Гид по всем сборным ЧМ-2026",
+    "description": "Готовимся вместе.",
+    "fullText": "Готовимся вместе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/teams-2026/",
+    "time": "2026-06-05T18:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это главный повар нашего футбола",
-    "description": "Запоминает рецепты по фото.",
-    "fullText": "Запоминает рецепты по фото.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/72/5bdec4a194fbbba82004d5f1da993.png",
+    "title": "Луноходы Кунде, капюшон-мешок Конате и брюки-палаццо Камавинга. Яркие образы игроков с приездов в сборные",
+    "description": "Разбираемся в истоках культурного феномена.",
+    "fullText": "Разбираемся в истоках культурного феномена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/4e/a2b361e51448980105466d94c96f1.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3408187.html",
-    "time": "2026-06-05T15:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Capcom рассмотрит возможность продолжения Pragmata на фоне успешного релиза",
-    "description": "Пока решение не приняли.",
-    "fullText": "Пока решение не приняли.",
-    "image": "https://leonardo.osnova.io/1b84c7b5-44f7-5a73-b6ec-6ea98f926c5b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5104085-capcom-rassmatrivaet-prodolzhenie-pragmata?from=rss",
-    "time": "2026-06-05T09:20:54.000Z"
+    "url": "https://www.sports.ru/football/blogs/3409052.html",
+    "time": "2026-06-05T17:50:00.000Z"
   }
 ]
