@@ -1,7 +1,18 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Энергодар ночью подвергся массированной атаке ВСУ",
+    "description": "Пострадали три человека",
+    "fullText": "Пострадали три человека",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27686629",
+    "time": "2026-06-07T11:11:13.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Этот футболист успел поиграть в «Локомотиве», «ПСЖ» и «Реале»",
+    "title": "Этот футболист успел поиграть в «Реале», «ПСЖ» и «Локомотиве»",
     "description": "Насыщенная карьера.",
     "fullText": "Насыщенная карьера.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/7/85/ac748d9304df8a2ff4434ab0d2315.webp",
@@ -11,19 +22,8 @@
     "time": "2026-06-07T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Белгородской области из-за ударов ВСУ за сутки пострадали девять человек",
-    "description": "Вооруженные силы Украины атаковали регион 91 раз",
-    "fullText": "Вооруженные силы Украины атаковали регион 91 раз",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27686073",
-    "time": "2026-06-07T09:14:06.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Хорош, Дивей! Ой, Бивей!» О чем говорят в сборной во время матча?",
+    "title": "«Хорош, Дивей! Ой, Бевей!» О чем говорят в сборной во время матча?",
     "description": "Подколы, эмоции и реакции игроков.",
     "fullText": "Подколы, эмоции и реакции игроков.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/8/82/8894c3db94818acb633f128b4cfb4.jpeg",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я предсказал победу Мирры еще в декабре. Теперь радуюсь",
-    "description": "Самоублажение.",
-    "fullText": "Самоублажение.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/66/46a6d9b7e48b9ad3ec13ff02d8a36.jpeg",
+    "title": "Клопп и Холанд в «Реале» – обещание соперника Переса. Но его все опровергают",
+    "description": "Не справился?",
+    "fullText": "Не справился?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/3b/fc87d936745c580eeb9fdaeba2bde.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3410798.html",
-    "time": "2026-06-07T03:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3410681.html",
+    "time": "2026-06-07T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел анимационный сериал по Among Us",
-    "description": "Десять эпизодов доступны в онлайн-кинотеатре Paramount+.",
-    "fullText": "Десять эпизодов доступны в онлайн-кинотеатре Paramount+.",
-    "image": "https://leonardo.osnova.io/ed23186e-3d40-5bb1-a127-089e3ea989ca/-/format/mp4/",
+    "title": "Marvel 1943: Rise of Hydra выйдет не раньше 2027 года — команде нужно больше времени для желаемого уровня качества",
+    "description": "Paramount не хочет выпускать экшен «как можно быстрее».",
+    "fullText": "Paramount не хочет выпускать экшен «как можно быстрее».",
+    "image": "https://leonardo.osnova.io/b7ebe92e-20fc-586b-8299-578960265c23/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5107515-animatsionnyy-serial-among-us-vyshel-na-paramount?from=rss",
-    "time": "2026-06-06T10:06:17.000Z"
+    "url": "https://dtf.ru/games/5108333-marvel-1943-rise-of-hydra-trebuet-bolshe-vremeni?from=rss",
+    "time": "2026-06-06T14:41:53.000Z"
   }
 ]
