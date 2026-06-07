@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Atlus анонсировала Persona 6 — тизер",
+    "description": "С пятой части прошло почти десять лет.",
+    "fullText": "С пятой части прошло почти десять лет.",
+    "image": "https://leonardo.osnova.io/c5da5c7d-3307-55c3-b0bf-01a1f5f77a14/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5093809-atlus-anonsirovala-persona-6-tizer?from=rss",
+    "time": "2026-06-07T17:58:14.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В блоке \"Армения\" заявили, что правящая партия привлекла бюджетные учреждения",
-    "description": "Весь государственный аппарат на позавчерашнем митинге \"Гражданского договора\" был внесен в списки, их принудили явиться, заявил второй номер в списке блока \"Армения\" Ишхан Сагателян",
-    "fullText": "Весь государственный аппарат на позавчерашнем митинге \"Гражданского договора\" был внесен в списки, их принудили явиться, заявил второй номер в списке блока \"Армения\" Ишхан Сагателян",
+    "title": "В Тунисе отметили 70-летие освящения главного храма РПЦ",
+    "description": "В церемонии приняли участие представители посольства РФ в Тунисе, Русского дома и православной общины",
+    "fullText": "В церемонии приняли участие представители посольства РФ в Тунисе, Русского дома и православной общины",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27687649",
-    "time": "2026-06-07T16:03:36.000Z"
+    "url": "https://tass.ru/obschestvo/27687773",
+    "time": "2026-06-07T17:24:36.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гид по Монако для тех, кому скучно: что интересного вокруг трассы?",
-    "description": "Примечательные объекты.",
-    "fullText": "Примечательные объекты.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/85/b2fb91b2a488aa9a0982e3bb25378.jpeg",
+    "title": "Мирра сияет с кубком «Ролан Гаррос» на чемпионской фотосессии",
+    "description": "Смотрим.",
+    "fullText": "Смотрим.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7a/e0c68304641379627aec863201259.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3410705.html",
-    "time": "2026-06-07T12:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия Saber Interactive анонсировала ремастеры Hitman: Codename 47, Silent Assassin и Contracts",
-    "description": "С обновлённой графикой, фоторежимом и прочими улучшениями.",
-    "fullText": "С обновлённой графикой, фоторежимом и прочими улучшениями.",
-    "image": "https://leonardo.osnova.io/895027de-89da-566b-84cf-3e6bd513c176/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5107067-remastery-hitman-codename-47-silent-assassin-contracts?from=rss",
-    "time": "2026-06-06T07:15:19.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3410921.html",
+    "time": "2026-06-07T13:40:00.000Z"
   }
 ]
