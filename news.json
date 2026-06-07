@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Энергодар ночью подвергся массированной атаке ВСУ",
-    "description": "Пострадали три человека",
-    "fullText": "Пострадали три человека",
+    "title": "Запланированную встречу Мадьяра с Зеленским не смогли согласовать",
+    "description": "В МИД Венгрии утверждают, что \"переговоры о встрече проходят гладко по дипломатическим каналам\"",
+    "fullText": "В МИД Венгрии утверждают, что \"переговоры о встрече проходят гладко по дипломатическим каналам\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27686629",
-    "time": "2026-06-07T11:11:13.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27687011",
+    "time": "2026-06-07T13:07:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Марнер – в огне, у «Каролины» пятерка по психологии. 5 итогов лучшего матча сезона",
+    "description": "Фейерверк в финале Кубка Стэнли.",
+    "fullText": "Фейерверк в финале Кубка Стэнли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7f/9dffaf44743f988064f156bdacd93.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3410853.html",
+    "time": "2026-06-07T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,36 +33,14 @@
     "time": "2026-06-07T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Хорош, Дивей! Ой, Бевей!» О чем говорят в сборной во время матча?",
-    "description": "Подколы, эмоции и реакции игроков.",
-    "fullText": "Подколы, эмоции и реакции игроков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/82/8894c3db94818acb633f128b4cfb4.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/qiAop5Y1i3sxpSu4PNEgcJ074cZpuUZtXQyX9cpPzME",
-    "time": "2026-06-07T08:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Клопп и Холанд в «Реале» – обещание соперника Переса. Но его все опровергают",
-    "description": "Не справился?",
-    "fullText": "Не справился?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/3b/fc87d936745c580eeb9fdaeba2bde.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3410681.html",
-    "time": "2026-06-07T07:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel 1943: Rise of Hydra выйдет не раньше 2027 года — команде нужно больше времени для желаемого уровня качества",
-    "description": "Paramount не хочет выпускать экшен «как можно быстрее».",
-    "fullText": "Paramount не хочет выпускать экшен «как можно быстрее».",
-    "image": "https://leonardo.osnova.io/b7ebe92e-20fc-586b-8299-578960265c23/",
+    "title": "Студия Saber Interactive анонсировала ремастеры Hitman: Codename 47, Silent Assassin и Contracts",
+    "description": "С обновлённой графикой, фоторежимом и прочими улучшениями.",
+    "fullText": "С обновлённой графикой, фоторежимом и прочими улучшениями.",
+    "image": "https://leonardo.osnova.io/895027de-89da-566b-84cf-3e6bd513c176/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5108333-marvel-1943-rise-of-hydra-trebuet-bolshe-vremeni?from=rss",
-    "time": "2026-06-06T14:41:53.000Z"
+    "url": "https://dtf.ru/games/5107067-remastery-hitman-codename-47-silent-assassin-contracts?from=rss",
+    "time": "2026-06-06T07:15:19.000Z"
   }
 ]
