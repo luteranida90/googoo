@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Роснефть\" в I квартале получила 25,1 млрд рублей прибыли по РСБУ",
-    "description": "Выручка снизилась на 18%",
-    "fullText": "Выручка снизилась на 18%",
+    "title": "В ГД предложили оборудовать детские площадки кнопками вызова службы 112",
+    "description": "Вице-спикер Госдумы Борис Чернышов считает, что это решение позволит сократить время реагирования в случаях, когда существует угроза жизни и здоровью детей",
+    "fullText": "Вице-спикер Госдумы Борис Чернышов считает, что это решение позволит сократить время реагирования в случаях, когда существует угроза жизни и здоровью детей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27697439",
-    "time": "2026-06-08T14:13:17.000Z"
+    "url": "https://tass.ru/obschestvo/27700561",
+    "time": "2026-06-09T02:22:26.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "От шерстяных свитеров до цветастых джерси – как футбол и мода влияют друг на друга",
-    "description": "Эволюция стиля.",
-    "fullText": "Эволюция стиля.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/f6/af59d38f444e6bdc3139c461a0ba1.png",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Отправляемся в путешествие по самым ярким моментам в истории «Локомотива»",
+    "description": "Это был долгий путь.",
+    "fullText": "Это был долгий путь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/21/7fcaee2d14a48868c423a20915cf0.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/play-style/?utm_source=native",
-    "time": "2026-06-08T11:31:00.000Z"
+    "url": "https://specials.sports.ru/loko-anniversary/start?utm_source=native",
+    "time": "2026-06-08T21:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Изучаем все группы ЧМ-2026: разбираем участников и ищем интриги",
+    "description": "Вместе с «Мяч Production».",
+    "fullText": "Вместе с «Мяч Production».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/b5/d35c39a06420ab9133a63239f9e19.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/embed/mx0AVkSWlstOAlzXf1HSJvME8-zhv7_Hr68ccXw_kJ8",
+    "time": "2026-06-08T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сперс» – это не только Вембаньяма. Вот все факторы их резкого взлета в НБА",
-    "description": "А будет еще лучше.",
-    "fullText": "А будет еще лучше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f2/bf3498bca42799fb522aaf34a8b4a.jpeg",
+    "title": "Зверев и Россия – есть ли связь?",
+    "description": "Корни.",
+    "fullText": "Корни.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/f9/2c77edd184ed599e80b1edf36ef7f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3410984.html",
-    "time": "2026-06-08T10:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3411157.html",
+    "time": "2026-06-08T18:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Супер Марио: Галактическое кино» стал первым фильмом в 2026 году, который собрал в прокате миллиард долларов",
-    "description": "Сила Nintendo.",
-    "fullText": "Сила Nintendo.",
-    "image": "https://leonardo.osnova.io/c260200a-04e7-5ee9-8ad2-ccd91c0ec7d3/",
+    "title": "Следующая презентация Nintendo Direct пройдёт 9 июня",
+    "description": "Nintendo тоже решила не отставать от других компаний.",
+    "fullText": "Nintendo тоже решила не отставать от других компаний.",
+    "image": "https://leonardo.osnova.io/df4f5edc-aa73-589d-b5f8-e01426f6e21b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5114146-super-mario-galakticheskoe-kino-sobral-milliard-dollarov?from=rss",
-    "time": "2026-06-08T08:06:13.000Z"
+    "url": "https://dtf.ru/games/5115136-prezentatsiya-nintendo-direct-novosti-ob-igrah-nintendo?from=rss",
+    "time": "2026-06-08T13:51:17.000Z"
   }
 ]
