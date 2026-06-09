@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Дагестане при пожаре на газопроводе отравился человек",
+    "description": "Он пытался снять кадры ЧП",
+    "fullText": "Он пытался снять кадры ЧП",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260609/9131969.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27710761",
+    "time": "2026-06-09T20:08:52.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этот игрок сборной США уже успел поиграть в европейских грандах – узнали его?",
     "description": "Звезда своей сборной.",
@@ -11,26 +22,15 @@
     "time": "2026-06-09T18:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минфин Британии допустил увеличение налогов для финансирования расходов на оборону",
-    "description": "Министр финансов Великобритании Рейчел Ривс отметила, что основная обязанность правительства - \"обеспечивать безопасность своих граждан\", признав очевидность того, что странам Запада придется тратить больше средств на оборону",
-    "fullText": "Министр финансов Великобритании Рейчел Ривс отметила, что основная обязанность правительства - \"обеспечивать безопасность своих граждан\", признав очевидность того, что странам Запада придется тратить больше средств на оборону",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27710135",
-    "time": "2026-06-09T17:59:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Марнер в «Вегасе» кажется другим игроком? Объясняем",
-    "description": "Он и в «Торонто» был в порядке.",
-    "fullText": "Он и в «Торонто» был в порядке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/4e/c8431579446ed9f773032ff7374f9.jpeg",
+    "title": "Щенок, Стена, Вошь, Базука, Козленок. Откуда у игроков Мексики странные прозвища?",
+    "description": "Спортс’’ культурологический.",
+    "fullText": "Спортс’’ культурологический.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/35/43d8d6e954c3783b8956a52165a1a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3411360.html",
-    "time": "2026-06-09T14:53:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3411189.html",
+    "time": "2026-06-09T17:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -41,17 +41,17 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://specials.sports.ru/teams-2026/",
-    "time": "2026-06-09T14:50:00.000Z"
+    "time": "2026-06-09T17:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Демо Onimusha: Way of the Sword загрузили более миллиона раз",
-    "description": "А продюсер игры заверил, что основная игра будет сложнее.",
-    "fullText": "А продюсер игры заверил, что основная игра будет сложнее.",
-    "image": "https://leonardo.osnova.io/9f93daad-051a-54fa-8d44-ea469ab43d07/",
+    "title": "Square Enix показала геймплейный ролик Kingdom Hearts IV",
+    "description": "Игра выйдет в том числе на Switch 2.",
+    "fullText": "Игра выйдет в том числе на Switch 2.",
+    "image": "https://leonardo.osnova.io/dd5b18e9-a087-5ed2-aefa-cad84090ebd0/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5118080-demo-onimusha-way-of-the-sword-zagruzheno-bolee-milliona?from=rss",
-    "time": "2026-06-09T11:40:14.000Z"
+    "url": "https://dtf.ru/games/5118534-square-enix-geympley-kingdom-hearts-iv?from=rss",
+    "time": "2026-06-09T15:04:28.000Z"
   }
 ]
