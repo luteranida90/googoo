@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На западе Украины мобилизовали священника УПЦ",
-    "description": "Статус Владимира Середы несовместим с военной службой, заявили в Хмельницкой епархии",
-    "fullText": "Статус Владимира Середы несовместим с военной службой, заявили в Хмельницкой епархии",
+    "title": "В Сумах снова произошел взрыв",
+    "description": "В нескольких областях Украины, в том числе в Сумской, объявлена воздушная тревога",
+    "fullText": "В нескольких областях Украины, в том числе в Сумской, объявлена воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27722707",
-    "time": "2026-06-10T15:15:04.000Z"
+    "url": "https://tass.ru/proisshestviya/27724219",
+    "time": "2026-06-10T17:54:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Красные за прикрытый рот и 5 секунд на аут. Все новые правила ЧМ-2026",
+    "description": "Жестко.",
+    "fullText": "Жестко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ba/fc0280c714ce19d10e3f082598c3d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3409801.html",
+    "time": "2026-06-10T14:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Узбекистан на ЧМ-2026: кто поехал? Факт о каждом игроке сборной",
+    "description": "В нашем уникальном проекте.",
+    "fullText": "В нашем уникальном проекте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/48/ffc2271034af8b656c431cd49876a.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/players-2026/?country=uzbekistan",
+    "time": "2026-06-10T14:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,25 +44,14 @@
     "time": "2026-06-10T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ищем того, кто будет влиять на рост SEO-направления и запускать крупные проекты",
-    "description": "Приходите в Спортс’’!",
-    "fullText": "Приходите в Спортс’’!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/30/29d68b94a40a79959d031358bc6a4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3408127.html?ref=sports&ref1=native&ref2=seo",
-    "time": "2026-06-10T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«День разоблачения» Стивена Спилберга получил 85% одобрения на Rotten Tomatoes",
-    "description": "Критики сочли возвращение режиссёра к жанру скорее удачным.",
-    "fullText": "Критики сочли возвращение режиссёра к жанру скорее удачным.",
-    "image": "https://leonardo.osnova.io/00a570c6-b221-511a-b6e8-62cf78af1444/",
+    "title": "Бен Старр прослушивался на роль Бонда в 007 First Light, но рад, что не прошёл отбор",
+    "description": "Актёр считает свои пробы «ужасными».",
+    "fullText": "Актёр считает свои пробы «ужасными».",
+    "image": "https://leonardo.osnova.io/f9b2d94e-4202-5d74-8fee-a031c15c714c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5119775-den-razoblacheniya-spilberga?from=rss",
-    "time": "2026-06-10T08:26:58.000Z"
+    "url": "https://dtf.ru/games/5120067-ben-starr-prosushivanie-bonda-007-first-light?from=rss",
+    "time": "2026-06-10T11:25:30.000Z"
   }
 ]
