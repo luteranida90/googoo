@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Москвичей предупредили о 7-балльных пробках вечером 11 июня",
-    "description": "Ожидаются затруднения движения на ТТК в каждом направлении; на внешней стороне Садового кольца; на Ленинградском шоссе по направлению в область; на шоссе Энтузиастов по направлению в область",
-    "fullText": "Ожидаются затруднения движения на ТТК в каждом направлении; на внешней стороне Садового кольца; на Ленинградском шоссе по направлению в область; на шоссе Энтузиастов по направлению в область",
+    "title": "Минпромторг предложил продлить эксперименты по маркировке некоторых товаров",
+    "description": "Речь идет об оптоволоконной продукции, отопительных приборах, средствах обеспечения пожарной безопасности, продукции для гражданской обороны, устройствах с двигателем внутреннего сгорания, товарах для дома и интерьера и других видах",
+    "fullText": "Речь идет об оптоволоконной продукции, отопительных приборах, средствах обеспечения пожарной безопасности, продукции для гражданской обороны, устройствах с двигателем внутреннего сгорания, товарах для дома и интерьера и других видах",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27732757",
-    "time": "2026-06-11T11:12:27.000Z"
+    "url": "https://tass.ru/ekonomika/27735475",
+    "time": "2026-06-11T14:36:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -19,28 +19,39 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native&erid=2SDnjcn6yMk",
-    "time": "2026-06-11T11:00:00.000Z"
+    "time": "2026-06-11T13:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "ЧМ-2026 стартует уже сегодня! Мексика vs ЮАР – на кого поставите?",
+    "description": "С фрибетом от БЕТСИТИ.",
+    "fullText": "С фрибетом от БЕТСИТИ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/67/898b27c66415f999b82ba8c49365c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/DTZXf",
+    "time": "2026-06-11T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как понимать футбол на ЧМ и за кем следить? Инструкция от Игнашевича",
-    "description": "Гид для новичков и не только.",
-    "fullText": "Гид для новичков и не только.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/9c/0bdd8d04e4bf8b16d3014b6d29449.jpeg",
+    "title": "0 россиян и поражение американца в главном бою. Обсудили UFC в Белом доме с политологом",
+    "description": "UFC Dana White House.",
+    "fullText": "UFC Dana White House.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/17/51ed3f2824df8a826c41e9ca4ae20.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3411662.html",
-    "time": "2026-06-11T08:05:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3411703.html",
+    "time": "2026-06-11T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В IGN опубликовали семь минут геймплея Resonance: A Plague Tale Legacy",
-    "description": "В ролике, помимо прочего, показали гладиаторский бой.",
-    "fullText": "В ролике, помимо прочего, показали гладиаторский бой.",
-    "image": "https://leonardo.osnova.io/cbdce0fe-92fd-5802-bcb4-abc12545414a/-/format/mp4/",
+    "title": "Прохождение кампании Gears of War: E-Day займёт около 14 часов",
+    "description": "Разработчики также поговорили о механиках, интерфейсе и отказе от генеративного ИИ.",
+    "fullText": "Разработчики также поговорили о механиках, интерфейсе и отказе от генеративного ИИ.",
+    "image": "https://leonardo.osnova.io/9b2bba5a-e215-5eee-b30b-56c65b1efcc1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5121224-gejmplej-resonance-a-plague-tale-legacy-ot-ign?from=rss",
-    "time": "2026-06-10T20:02:39.000Z"
+    "url": "https://dtf.ru/games/5122060-gears-of-war-e-day-mehaniki-i-interfeys-novoy-igry?from=rss",
+    "time": "2026-06-11T08:30:13.000Z"
   }
 ]
