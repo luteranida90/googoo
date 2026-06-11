@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Онищенко: вероятность заражения кишечной инфекцией в России возрастает в августе",
-    "description": "В этот период на рынок выходит большое количество фруктов и овощей, отметил заместитель президента РАО",
-    "fullText": "В этот период на рынок выходит большое количество фруктов и овощей, отметил заместитель президента РАО",
+    "title": "Иран заявил о закрытии Ормузского пролива. Что известно",
+    "description": "ВМС КСИР утверждают, что уже поразили два судна при попытке прохода через пролив",
+    "fullText": "ВМС КСИР утверждают, что уже поразили два судна при попытке прохода через пролив",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27726155",
-    "time": "2026-06-11T01:12:28.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27728337",
+    "time": "2026-06-11T06:36:22.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,6 +22,17 @@
     "time": "2026-06-10T22:43:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Попасть на финал НБА в Нью-Йорке стоит безумных денег. Есть билеты по 228 тысяч долларов!",
+    "description": "Дешевле вдвоем сходить на финал ЧМ-2026.",
+    "fullText": "Дешевле вдвоем сходить на финал ЧМ-2026.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/48/ff11f99af44888c3dc684e2ecce30.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3411698.html",
+    "time": "2026-06-10T21:55:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "Кержаков и «ГОЛ» выпустили мерч, посвященный голам Александра",
     "description": "Уже в магазине Спортса’’.",
@@ -33,47 +44,14 @@
     "time": "2026-06-10T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Португалию переоценивают? Германия не супер? Лукомский разобрал фаворитов ЧМ",
-    "description": "Аналитика на ВидеоСпортсе’’.",
-    "fullText": "Аналитика на ВидеоСпортсе’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/e8/5bd9dc7074c84b95bda8aebf1c6f7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/-HPHNEUlTEde2L7ecFLTx8xIW31MMqYietvbtiw7zxs",
-    "time": "2026-06-10T20:45:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Твой симулятор сетки ЧМ-2026. Игра-прогноз от Спортса”",
-    "description": "Кто пройдет дальше всех?",
-    "fullText": "Кто пройдет дальше всех?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/936981eee4de5970d40cbbc4fceaa.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/wc26-bracket/",
-    "time": "2026-06-10T20:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как медиафутболу вернуть успех? Показал матч со стримерами и Смоловым",
-    "description": "Пора что-то менять.",
-    "fullText": "Пора что-то менять.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/51/08a5166334533ae106da9bd124842.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3411175.html",
-    "time": "2026-06-10T19:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Fable получила возрастной рейтинг «M» от ESRB — с NPC удастся вступить в интимную связь, но сцены секса показывать не будут",
-    "description": "Вместо них — откровенные фразы.",
-    "fullText": "Вместо них — откровенные фразы.",
-    "image": "https://leonardo.osnova.io/40212a67-d389-54c8-a184-1f6de34ba53b/",
+    "title": "«Пока что очень похоже на первую часть»: впечатления журналистов от Alien Isolation 2",
+    "description": "Игра станет прямым продолжением оригинала.",
+    "fullText": "Игра станет прямым продолжением оригинала.",
+    "image": "https://leonardo.osnova.io/379c4c44-6bb1-5b45-a166-f0d4866da4d9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5120624-fable-reyting-m-esrb-intimnye-otnosheniya-npc?from=rss",
-    "time": "2026-06-10T14:42:49.000Z"
+    "url": "https://dtf.ru/games/5120628-vpechatleniya-ot-alien-isolation-2-prodolzhenie-origina?from=rss",
+    "time": "2026-06-10T15:06:06.000Z"
   }
 ]
