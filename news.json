@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Моуринью подписал контракт с \"Реалом\" до 2029 года",
-    "description": "Ранее стало известно, что \"Реал\" выплатит \"Бенфике\" €15 млн за переход специалиста",
-    "fullText": "Ранее стало известно, что \"Реал\" выплатит \"Бенфике\" €15 млн за переход специалиста",
+    "title": "Двух футболистов сборной ЮАР удалили в матче открытия чемпионата мира",
+    "description": "Красные карточки в игре с командой Мексики получили Сфифело Ситхоул и Темба Зване",
+    "fullText": "Красные карточки в игре с командой Мексики получили Сфифело Ситхоул и Темба Зване",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27737023",
-    "time": "2026-06-11T18:16:45.000Z"
+    "url": "https://tass.ru/sport/27737909",
+    "time": "2026-06-11T20:56:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Фанат рестлинга в уникальном ободке забил за Мексику. Самое яркое обо всех игроках",
+    "description": "У хозяев и остальных.",
+    "fullText": "У хозяев и остальных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/f0/d4a1037544bf3946f3de541ba7039.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/players-2026/?country=mexico",
+    "time": "2026-06-11T20:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Цельтесь между ног – как автор первого гола ЧМ-2026! В нашей игре «Пробей на технику»",
+    "description": "Повторите лучшие голы ЧМ.",
+    "fullText": "Повторите лучшие голы ЧМ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/9c/2872b14aa4748946bd9c32e7c7d41.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/mundialmomento/?utm_source=native",
+    "time": "2026-06-11T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -22,36 +44,25 @@
     "time": "2026-06-11T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Следите за матчем Мексика – ЮАР и ставьте на исход с фрибетом до 15 000 от FONBET!",
-    "description": "Начинаем праздник футбола.",
-    "fullText": "Начинаем праздник футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/1d/75e1d6a454a879eb98c234ce07035.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/materialf",
-    "time": "2026-06-11T15:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У Тутберидзе взяли такое интервью, что она вскипела",
-    "description": "«Вы – один из хейтеров».",
-    "fullText": "«Вы – один из хейтеров».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/31/1012e5c25488584b0c8d494d7d1b1.jpeg",
+    "title": "Трагедия в российском хоккее. Погиб участник Матча звезд МХЛ",
+    "description": "В 21 год.",
+    "fullText": "В 21 год.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/89/aab7cd23642ff8e2720308f36bee7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3411832.html",
-    "time": "2026-06-11T15:24:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3411969.html",
+    "time": "2026-06-11T17:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шестой сезон «Медленных лошадей» от Apple стартует 16 сентября",
-    "description": "В него тоже войдёт шесть эпизодов.",
-    "fullText": "В него тоже войдёт шесть эпизодов.",
-    "image": "https://leonardo.osnova.io/62cc1f21-fc46-5b80-98dc-bf7669ebf0da/",
+    "title": "Соавтор Exodus немного жалеет, что игра сильно похожа на Mass Effect, но уверен в её уникальности",
+    "description": "По крайней мере, команда успешно «увернулась» от «Звёздных войн».",
+    "fullText": "По крайней мере, команда успешно «увернулась» от «Звёздных войн».",
+    "image": "https://leonardo.osnova.io/e45836c1-a086-5d7d-9cca-f8b8fc8cbf46/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5122514-shestoy-sezon-medlennykh-loshadey?from=rss",
-    "time": "2026-06-11T12:41:01.000Z"
+    "url": "https://dtf.ru/games/5122502-razrabotchik-exodus-o-skhozhnosti-s-mass-effect?from=rss",
+    "time": "2026-06-11T12:32:36.000Z"
   }
 ]
