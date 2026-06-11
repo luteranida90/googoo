@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Двух футболистов сборной ЮАР удалили в матче открытия чемпионата мира",
-    "description": "Красные карточки в игре с командой Мексики получили Сфифело Ситхоул и Темба Зване",
-    "fullText": "Красные карточки в игре с командой Мексики получили Сфифело Ситхоул и Темба Зване",
+    "title": "В Пензенской области ввели план \"Ковер\"",
+    "description": "В регионе действуют ограничения на прием и выпуск самолетов",
+    "fullText": "В регионе действуют ограничения на прием и выпуск самолетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27737909",
-    "time": "2026-06-11T20:56:28.000Z"
+    "url": "https://tass.ru/ekonomika/27738183",
+    "time": "2026-06-11T22:07:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,6 +22,17 @@
     "time": "2026-06-11T20:20:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Первый мяч на ЧМ-2026 забил колумбиец из Мексики! Он в компании Газинского, Лама, Буба Диопа, Тшабалала и Валенсии",
+    "description": "Последние первооткрыватели.",
+    "fullText": "Последние первооткрыватели.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/0a/d6f1e12894ce89009411c1d970bfa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3095386.html",
+    "time": "2026-06-11T19:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Цельтесь между ног – как автор первого гола ЧМ-2026! В нашей игре «Пробей на технику»",
     "description": "Повторите лучшие голы ЧМ.",
@@ -31,28 +42,6 @@
     "category": "all",
     "url": "https://sirena.sports.ru/mundialmomento/?utm_source=native",
     "time": "2026-06-11T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Кержаков и «ГОЛ» выпустили мерч, посвященный голам Александра",
-    "description": "Уже в магазине Спортса’’.",
-    "fullText": "Уже в магазине Спортса’’.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/a7/cae3a47bf4180bc89dcf25dac1cc3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/kerzhakov/?utm_source=sports&utm_medium=matherial_direct",
-    "time": "2026-06-11T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Трагедия в российском хоккее. Погиб участник Матча звезд МХЛ",
-    "description": "В 21 год.",
-    "fullText": "В 21 год.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/89/aab7cd23642ff8e2720308f36bee7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3411969.html",
-    "time": "2026-06-11T17:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
