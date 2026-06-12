@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Токаев поздравил Путина с Днем России",
-    "description": "В Казахстане дорожат отношениями дружбы и добрососедства с Россией, отметил президент республики",
-    "fullText": "В Казахстане дорожат отношениями дружбы и добрососедства с Россией, отметил президент республики",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Путин поприветствовал участников фестиваля \"Кантанта\"",
+    "description": "Российский лидер отметил, что мероприятие стало настоящим центром притяжения для ценителей музыкального искусства",
+    "fullText": "Российский лидер отметил, что мероприятие стало настоящим центром притяжения для ценителей музыкального искусства",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033165.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27743243",
-    "time": "2026-06-12T13:55:50.000Z"
+    "url": "https://tass.ru/obschestvo/27744429",
+    "time": "2026-06-12T16:51:41.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Твой симулятор сетки ЧМ-2026. Игра-прогноз от Спортса”",
-    "description": "Кто пройдет дальше всех?",
-    "fullText": "Кто пройдет дальше всех?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/936981eee4de5970d40cbbc4fceaa.jpeg",
+    "title": "Гид по всем сборным ЧМ-2026",
+    "description": "Готовимся вместе.",
+    "fullText": "Готовимся вместе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/56/347aba8a14f76aa57fdfaf5dea2a1.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/wc26-bracket/",
-    "time": "2026-06-12T12:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Аргентина в финале ЧМ-2022 обыграла Францию. Помните победный состав?",
-    "description": "Проверьте себя.",
-    "fullText": "Проверьте себя.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/36/c58606f0f465a83161238f90580c9.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
-    "time": "2026-06-12T11:30:00.000Z"
+    "url": "https://specials.sports.ru/teams-2026/",
+    "time": "2026-06-12T14:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все города ЧМ – через фильмы",
-    "description": "16 рекомендаций, что смотреть между футболом сборных.",
-    "fullText": "16 рекомендаций, что смотреть между футболом сборных.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/83/64a3cf4054d55a9b37d6ddc1b7f18.jpeg",
+    "title": "Никишин – уже сейчас важный защитник для «Каролины». А его потолок еще выше",
+    "description": "Как он прижился в системе Бринд’Амора.",
+    "fullText": "Как он прижился в системе Бринд’Амора.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/b3/6eb0ced0e49338244646b7d55dcf8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3411681.html",
-    "time": "2026-06-12T10:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3410156.html",
+    "time": "2026-06-12T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Аналитики: God of War Laufey стала самой обсуждаемой игрой с летних презентаций",
-    "description": "В топ-3 также вошли ремейк Ocarina of Time и Resident Evil Veronica.",
-    "fullText": "В топ-3 также вошли ремейк Ocarina of Time и Resident Evil Veronica.",
-    "image": "https://leonardo.osnova.io/46da9185-d09a-5d3c-b8a2-dafb827f9e39/",
+    "title": "Spyro: A Realm Beyond удалось запустить в разработку благодаря «громким и настойчивым» фанатам",
+    "description": "Миллионы проданных копий Reignited Trilogy тоже помогли.",
+    "fullText": "Миллионы проданных копий Reignited Trilogy тоже помогли.",
+    "image": "https://leonardo.osnova.io/83c6a9f3-494a-5864-971d-0693964b12b4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5123245-god-of-war-laufey-samoy-obsuzhdaemoy-igroy?from=rss",
-    "time": "2026-06-11T20:21:47.000Z"
+    "url": "https://dtf.ru/games/5123917-spyro-a-realm-beyond-zapushchen-blagodarya-fanatom-i-reignited-trilogy?from=rss",
+    "time": "2026-06-12T09:02:38.000Z"
   }
 ]
