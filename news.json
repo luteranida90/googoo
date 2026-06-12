@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин: только незаурядные и сильные люди могут достигнуть вершин",
-    "description": "Президент отметил, что для них труд и профессия становится смыслом всей жизни",
-    "fullText": "Президент отметил, что для них труд и профессия становится смыслом всей жизни",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033157.jpg",
+    "title": "Токаев поздравил Путина с Днем России",
+    "description": "В Казахстане дорожат отношениями дружбы и добрососедства с Россией, отметил президент республики",
+    "fullText": "В Казахстане дорожат отношениями дружбы и добрососедства с Россией, отметил президент республики",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27741915",
-    "time": "2026-06-12T10:43:09.000Z"
+    "url": "https://tass.ru/obschestvo/27743243",
+    "time": "2026-06-12T13:55:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Твой симулятор сетки ЧМ-2026. Игра-прогноз от Спортса”",
+    "description": "Кто пройдет дальше всех?",
+    "fullText": "Кто пройдет дальше всех?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/936981eee4de5970d40cbbc4fceaa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/wc26-bracket/",
+    "time": "2026-06-12T12:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Аргентина в финале ЧМ-2022 обыграла Францию. Помните победный состав?",
+    "description": "Проверьте себя.",
+    "fullText": "Проверьте себя.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/36/c58606f0f465a83161238f90580c9.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
+    "time": "2026-06-12T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Перестрелка Дорофеева и Свечникова в финале! «Каролина» в шаге от Кубка Стэнли",
-    "description": "3-2 в серии.",
-    "fullText": "3-2 в серии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/0e/92e33fea4468da37f775709cf6bf3.jpeg",
+    "title": "Все города ЧМ – через фильмы",
+    "description": "16 рекомендаций, что смотреть между футболом сборных.",
+    "fullText": "16 рекомендаций, что смотреть между футболом сборных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/83/64a3cf4054d55a9b37d6ddc1b7f18.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3412179.html",
-    "time": "2026-06-12T07:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3411681.html",
+    "time": "2026-06-12T10:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Где тунец?»: тизер Gatto — анимационного фильма Pixar о коте, оказавшемся в долгу перед мафией",
-    "description": "Зарубежный прокат ленты стартует 5 марта 2027 года.",
-    "fullText": "Зарубежный прокат ленты стартует 5 марта 2027 года.",
-    "image": "https://leonardo.osnova.io/6ca5355f-f37e-5361-8f42-ca094913265e/-/format/mp4/",
+    "title": "Аналитики: God of War Laufey стала самой обсуждаемой игрой с летних презентаций",
+    "description": "В топ-3 также вошли ремейк Ocarina of Time и Resident Evil Veronica.",
+    "fullText": "В топ-3 также вошли ремейк Ocarina of Time и Resident Evil Veronica.",
+    "image": "https://leonardo.osnova.io/46da9185-d09a-5d3c-b8a2-dafb827f9e39/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5122899-tizer-multfilma-gatto-ot-pixar-o-kote-i-mafii-v-venetsii?from=rss",
-    "time": "2026-06-11T16:17:16.000Z"
+    "url": "https://dtf.ru/gameindustry/5123245-god-of-war-laufey-samoy-obsuzhdaemoy-igroy?from=rss",
+    "time": "2026-06-11T20:21:47.000Z"
   }
 ]
