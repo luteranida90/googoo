@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дмитриев: Стармер заявил о задержании танкера для отвлечения от проблем с мигрантами",
-    "description": "Глава РФПИ прокомментировал публикацию газеты The Daily Telegraph о захвате британскими военными в проливе Ла-Манш танкера Smyrtos",
-    "fullText": "Глава РФПИ прокомментировал публикацию газеты The Daily Telegraph о захвате британскими военными в проливе Ла-Манш танкера Smyrtos",
+    "title": "В Петербурге в массовом ДТП на кольцевой дороге пострадали три человека",
+    "description": "Все пострадавшие получили травмы средней степени тяжести и были госпитализированы",
+    "fullText": "Все пострадавшие получили травмы средней степени тяжести и были госпитализированы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/27752109",
-    "time": "2026-06-14T10:35:27.000Z"
+    "url": "https://tass.ru/proisshestviya/27752561",
+    "time": "2026-06-14T12:40:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Япония еще не выигрывала у Нидерландов, но на ЧМ возможно все! Следите за матчем с FONBET",
+    "description": "До 15 000 рублей новым пользователям.",
+    "fullText": "До 15 000 рублей новым пользователям.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/70/4c350066547c5aee2c068ef4d803c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/materialf",
+    "time": "2026-06-14T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Я увидел, как Нью-Йорк отмечает триумф «Никс». Это необыкновенно",
+    "description": "Романцов передает с Манхэттена.",
+    "fullText": "Романцов передает с Манхэттена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/90/eb1b5bfae47eba554e609256b8875.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3412708.html",
+    "time": "2026-06-14T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,25 +44,14 @@
     "time": "2026-06-14T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Болел за «Никс», потому что это было не про победы. Теперь они чемпионы – и я не знаю, что с этим делать",
-    "description": "Максим Абрамов рад.",
-    "fullText": "Максим Абрамов рад.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/ec/d94ef31884a38ba3676f45601f683.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3412451.html",
-    "time": "2026-06-14T07:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для ПК-версии ремейка Gothic вышел патч 1.0.1 — в нём добавили индикатор сложности взлома",
-    "description": "Некоторые считали механику недостаточно интуитивной.",
-    "fullText": "Некоторые считали механику недостаточно интуитивной.",
-    "image": "https://leonardo.osnova.io/50699ac4-1808-5b5a-b116-199905a8d04a/",
+    "title": "Продажи ремейка Gothic достигли 500 тысяч копий — за одну неделю",
+    "description": "Разработчики поблагодарили преданное сообщество.",
+    "fullText": "Разработчики поблагодарили преданное сообщество.",
+    "image": "https://leonardo.osnova.io/5157aba7-8bd3-5a03-aad5-e499888fc893/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5124316-patch-dlya-remeika-gothic-uluchshaet-mehaniku-vzloma?from=rss",
-    "time": "2026-06-12T12:48:58.000Z"
+    "url": "https://dtf.ru/gameindustry/5124440-prodazhi-remeika-gothic?from=rss",
+    "time": "2026-06-12T13:26:58.000Z"
   }
 ]
