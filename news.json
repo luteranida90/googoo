@@ -1,46 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Они сдержали Испанию! Самое яркое о каждом герое Кабо-Верде",
+    "description": "Защитились.",
+    "fullText": "Защитились.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/a8/7bb1b446b43e6906d11b3c3f763d3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/players-2026/?country=cabo-verde",
+    "time": "2026-06-15T17:56:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Жителя Крыма осудили за госизмену в интересах Украины",
-    "description": "Мужчину приговорили к 17 годам колонии",
-    "fullText": "Мужчину приговорили к 17 годам колонии",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Над регионами России и акваториями за день сбили 74 украинских БПЛА",
+    "description": "Работали дежурные средства ПВО",
+    "fullText": "Работали дежурные средства ПВО",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260615/9146801.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27763125",
-    "time": "2026-06-15T13:11:52.000Z"
+    "url": "https://tass.ru/armiya-i-opk/27765439",
+    "time": "2026-06-15T17:31:06.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Кто из этих игроков уже выигрывал ЧМ: Роналду, Молина или Тюрам?",
+    "description": "Топовый футболист.",
+    "fullText": "Топовый футболист.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/4d/647102b9440d28eb9951ff3d86e86.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/continent-of-champions/?utm_source=native",
+    "time": "2026-06-15T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Кержаков и «ГОЛ» выпустили мерч, посвященный 233 голам Александра",
+    "description": "Уже в магазине Спортса’’.",
+    "fullText": "Уже в магазине Спортса’’.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/64/9553a2f724d5f9ef53ded52ab448d.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/kerzhakov/?utm_source=sports&utm_medium=matherial_direct",
+    "time": "2026-06-15T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему у Ямаля в Испании не 10-й номер",
-    "description": "Дело во внутренней иерархии.",
-    "fullText": "Дело во внутренней иерархии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/c1/7310c4fc84d79b2a4ba0f19ce2305.jpeg",
+    "title": "Как Гейджи взломал Топурию?",
+    "description": "Идеальный геймплан.",
+    "fullText": "Идеальный геймплан.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b5/855963ac24656941c0410fc0d29c2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3412901.html",
-    "time": "2026-06-15T10:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Ямаль, Де Брюйне, Салах – кто из них забьет уже в первом матче?",
-    "description": "Угадайте главные моменты игрового дня.",
-    "fullText": "Угадайте главные моменты игрового дня.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/04/ea72fc3b04951b08c42dbeaeb59c4.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/papa-bingo/start/?utm_source=supertop",
-    "time": "2026-06-15T10:00:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3412970.html",
+    "time": "2026-06-15T14:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Питер Сарсгаард присоединился к актёрскому составу третьего сезона «Одних из нас»",
-    "description": "Ему досталась роль нового персонажа — одного из лидеров «Серафитов».",
-    "fullText": "Ему досталась роль нового персонажа — одного из лидеров «Серафитов».",
-    "image": "https://leonardo.osnova.io/8e18d457-70a3-5a47-9ffd-20f249288112/",
+    "title": "СМИ: Один из партнёров CD Projekt работает над условно-бесплатной кооперативной игрой по «Ведьмаку» для ПК и мобильных устройств",
+    "description": "Вероятно, проектом занимается Scopely.",
+    "fullText": "Вероятно, проектом занимается Scopely.",
+    "image": "https://leonardo.osnova.io/65025155-4d97-5f56-946f-93e2fa562cb1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5126061-piter-sarsgaard-v-tretjem-sezone-odnih-iz-nas?from=rss",
-    "time": "2026-06-13T14:48:50.000Z"
+    "url": "https://dtf.ru/games/5128575-razrabotka-kooperativnoj-igry-po-vedmaku?from=rss",
+    "time": "2026-06-15T06:42:05.000Z"
   }
 ]
