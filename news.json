@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве капитально отремонтировали три дома из фильма \"Еще люблю, еще надеюсь\"",
-    "description": "Специалисты обновили фасады, произвели работы по ремонту цоколей и привели в порядок балконы",
-    "fullText": "Специалисты обновили фасады, произвели работы по ремонту цоколей и привели в порядок балконы",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Статья Лаврова \"Украина, Европа и глобальная безопасность\". Полный текст",
+    "description": "Издание Politico Europe, для которого изначально был написан текст, сняло материал с публикации",
+    "fullText": "Издание Politico Europe, для которого изначально был написан текст, сняло материал с публикации",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260619/9156025.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27808325",
-    "time": "2026-06-18T21:05:43.000Z"
+    "url": "https://tass.ru/politika/27808777",
+    "time": "2026-06-18T22:06:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Узнали игрока? Угадайте еще 30 звезд футбола по размытому фото и без подсказок",
+    "description": "В Невидимке.",
+    "fullText": "В Невидимке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a4/566690788497ab35e30ded3099a3c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-06-18T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Велоспорт затерзал чемпиона-новатора: теперь его гонку остановила полиция!",
-    "description": "Ван Схип ищет серые зоны.",
-    "fullText": "Ван Схип ищет серые зоны.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/34/713c16ad44f6aba4831580d842645.jpeg",
+    "title": "Не успели собрать фэнтези-команду к старту ЧМ? Сейчас – самое время",
+    "description": "Вступайте в Лигу новичков.",
+    "fullText": "Вступайте в Лигу новичков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/be/4a177a2674023a1abbf72efc84e4f.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/cycle-racing/blogs/3411949.html",
-    "time": "2026-06-18T18:00:00.000Z"
+    "url": "https://www.sports.ru/fantasy/football/world-cup/?utm_source=sports&utm_medium=matherial_direct&utm_campaign=fantasy_wc_2026",
+    "time": "2026-06-18T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
