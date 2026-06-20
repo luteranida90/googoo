@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Оператор телеканала Al Jazeera погиб при ударе Израиля по сектору Газа",
-    "description": "Еще несколько человек получили ранения",
-    "fullText": "Еще несколько человек получили ранения",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27825751",
-    "time": "2026-06-20T18:20:17.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Смотрите Нидерланды – Швеция в эфире «Матч ТВ» на ВидеоСпортсе‘’",
-    "description": "Битва за лидерство в группе.",
-    "fullText": "Битва за лидерство в группе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/9c/173f5f8374d5381aa53ab46cf3d44.png",
+    "title": "Германия – Кот-д’Ивуар в эфире «Матч ТВ» на ВидеоСпортсе’’. Смотрим ЧМ-2026 прямо у нас!",
+    "description": "Матч лидеров группы.",
+    "fullText": "Матч лидеров группы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/b3/77fe85a6842059e8a49bab11b06db.png",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/97tLL",
-    "time": "2026-06-20T17:00:00.000Z"
+    "time": "2026-06-20T20:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Нидерландах во время шторма при падении дерева на автомобиль погибла женщина",
+    "description": "Из-за сильной грозы и ливней по всей стране повалило деревья, удары молний вызвали пожары в десятках домов",
+    "fullText": "Из-за сильной грозы и ливней по всей стране повалило деревья, удары молний вызвали пожары в десятках домов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27825899",
+    "time": "2026-06-20T19:50:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "А если всех пятерых из сборной Японии? Соберите свою команду второго тура ЧМ",
+    "description": "Или всех испанцев?",
+    "fullText": "Или всех испанцев?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/54/fe6b384544b558e6c2416e82bc324.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/UFixi",
+    "time": "2026-06-20T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Глава UFC Eurasia завел блог на Спортсе’’! Первый пост – почему бойцы не могут найти себя после карьеры",
-    "description": "Разбор психологии.",
-    "fullText": "Разбор психологии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/27/5cc6ae85149adab027ce884c2b40e.jpeg",
+    "title": "Кюрасао – рай для букмекеров. Почему туда всех так тянуло и что вдруг изменилось?",
+    "description": "Маленький остров – гигант мирового гэмблинга.",
+    "fullText": "Маленький остров – гигант мирового гэмблинга.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/c8/888357100492dac6d127763ef568d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3411636.html",
-    "time": "2026-06-20T15:50:00.000Z"
+    "url": "https://www.sports.ru/betting/industry/blogs/3414489.html",
+    "time": "2026-06-20T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Закончи Смертельную миграцию»: первый трейлер четвёртого сезона «Магической битвы»",
-    "description": "Игра на выживание продолжается.",
-    "fullText": "Игра на выживание продолжается.",
-    "image": "https://leonardo.osnova.io/356044a7-87b5-5277-8565-b03e39805e35/-/format/mp4/",
+    "title": "Постановщик «Обсессии» Карри Баркер подписал с Universal контракт на восьмизначную сумму для работы над оригинальным хоррором",
+    "description": "Он будет режиссёром, сценаристом и продюсером.",
+    "fullText": "Он будет режиссёром, сценаристом и продюсером.",
+    "image": "https://leonardo.osnova.io/56596603-0b80-5c32-a21d-01ee704139b8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/5136668-trejler-chetvertogo-sezona-magicheskoj-bitvy?from=rss",
-    "time": "2026-06-19T12:08:44.000Z"
+    "url": "https://dtf.ru/cinema/5136995-karri-barker-kontrakt-universal-horror?from=rss",
+    "time": "2026-06-19T15:07:22.000Z"
   }
 ]
