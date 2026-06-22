@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Силуанов высоко оценил темпы строительства и промышленного развития в Чечне",
-    "description": "По словам министра финансов, таких показателей удалось добиться благодаря мерам, принятым руководством республики",
-    "fullText": "По словам министра финансов, таких показателей удалось добиться благодаря мерам, принятым руководством республики",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8298849.jpg",
+    "title": "В аэропорту Геленджика сняли дополнительные ограничения",
+    "description": "Их вводили для обеспечения безопасности полетов",
+    "fullText": "Их вводили для обеспечения безопасности полетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27839487",
-    "time": "2026-06-22T14:19:11.000Z"
+    "url": "https://tass.ru/ekonomika/27842017",
+    "time": "2026-06-22T21:02:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Какой же шедевральный гол забил Мбаппе Аргентине в финале ЧМ – помните тот удар?",
-    "description": "Это неповторимо.",
-    "fullText": "Это неповторимо.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/ab/35657dd4746e8b24544277d025417.png",
+    "title": "Бекхэм, Пеле и Роналду – как футболисты меняли моду",
+    "description": "Эволюция стиля.",
+    "fullText": "Эволюция стиля.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/f5/a3b71e45a424ab26995ea0af24b7d.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/mundialmomento/?utm_source=native",
-    "time": "2026-06-22T11:30:00.000Z"
+    "url": "https://sirena.sports.ru/play-style/?utm_source=native",
+    "time": "2026-06-22T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мама готовила мои похороны». Тренер Норвегии Сольбаккен умер на 7 минут, но победил смерть со шрамом на груди",
-    "description": "Вернулся на ЧМ спустя 28 лет.",
-    "fullText": "Вернулся на ЧМ спустя 28 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/65/ee7fdff7645f0a55c97bee35b9a7a.jpeg",
+    "title": "Месси смазал пенальти Австрии! Чуть отложил рекордный 17-й гол на ЧМ",
+    "description": "Пробил мимо.",
+    "fullText": "Пробил мимо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/9a/6dd45698843aaafbb9fff805f48e4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3414139.html",
-    "time": "2026-06-22T10:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3415123.html",
+    "time": "2026-06-22T17:37:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "Аргентина – Австрия уже в игре, а вся онлайн-статистика ждет в приложении «ГОЛ»",
+    "description": "Включайтесь в матч!",
+    "fullText": "Включайтесь в матч!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/89/8ba41b49f41c496d801eb9740dff1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/1182661159841527042?banner_type=matherial_direct",
+    "time": "2026-06-22T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: A24, Netflix и Focus Features отказались от покупки фильма Луки Гуаданьино про OpenAI",
-    "description": "Однако ещё есть надежда на Mubi или Neon.",
-    "fullText": "Однако ещё есть надежда на Mubi или Neon.",
-    "image": "https://leonardo.osnova.io/f4170fcc-7648-54d3-9ef5-b4be6a8330af/",
+    "title": "Google инвестировала 75 миллионов долларов в студию A24 — для совместного исследования ИИ",
+    "description": "Компания собирается объединить технологии с развлечениями.",
+    "fullText": "Компания собирается объединить технологии с развлечениями.",
+    "image": "https://leonardo.osnova.io/358f3d73-b023-5848-a430-507a6603c020/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5141178-film-luki-guadagnino-pro-openai?from=rss",
-    "time": "2026-06-22T08:46:48.000Z"
+    "url": "https://dtf.ru/cinema/5141829-google-investirovala-v-a24-issledovaniya-ii?from=rss",
+    "time": "2026-06-22T15:34:54.000Z"
   }
 ]
