@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Двое граждан ФРГ пытались проехать из Польши в Россию с фальшивыми документами",
-    "description": "Оба признали себя виновными и были оштрафованы, сообщила польская пограничная стража",
-    "fullText": "Оба признали себя виновными и были оштрафованы, сообщила польская пограничная стража",
+    "title": "Жительница Родинского ДНР рассказала, как ВСУ держали в заложниках 12 горожан",
+    "description": "Спасенная из города поделилась, что вооруженные силы Украины прикрывались мирными людьми",
+    "fullText": "Спасенная из города поделилась, что вооруженные силы Украины прикрывались мирными людьми",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27842225",
-    "time": "2026-06-22T22:09:13.000Z"
+    "url": "https://tass.ru/armiya-i-opk/27842409",
+    "time": "2026-06-23T00:06:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Смотрите Норвегию с Холандом против Сенегала в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Эрлинг снова на сцене.",
+    "fullText": "Эрлинг снова на сцене.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/de/eeb8aa867446880c4b6786ce66ceb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/97tLL",
+    "time": "2026-06-22T23:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Бекхэм, Пеле и Роналду – как футболисты меняли моду",
-    "description": "Эволюция стиля.",
-    "fullText": "Эволюция стиля.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/f5/a3b71e45a424ab26995ea0af24b7d.png",
+    "title": "Холанд, Алаба или Мастантуоно – кто из них родился в одной стране, но представляет другую?",
+    "description": "Двойной агент.",
+    "fullText": "Двойной агент.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/1a/02e709c3747bda4845e828b3eaa38.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/play-style/?utm_source=native",
-    "time": "2026-06-22T19:30:00.000Z"
+    "url": "https://sirena.sports.ru/continent-of-champions/?utm_source=native",
+    "time": "2026-06-22T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все рекорды Месси на ЧМ. Теперь и по голам 👑",
-    "description": "Величайший.",
-    "fullText": "Величайший.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/6c/0372b78524fdfa9b9fc2357621c5f.jpeg",
+    "title": "Чемпионку «Уимблдона» забанили на 4 года – за отказ сдать допинг-пробу",
+    "description": "Беда Маркеты Вондроушовой.",
+    "fullText": "Беда Маркеты Вондроушовой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/6e/bac4b101448fa9a5f0ed6412f8d78.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3415128.html",
-    "time": "2026-06-22T18:26:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3415081.html",
+    "time": "2026-06-22T20:34:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Google инвестировала 75 миллионов долларов в студию A24 — для совместного исследования ИИ",
-    "description": "Компания собирается объединить технологии с развлечениями.",
-    "fullText": "Компания собирается объединить технологии с развлечениями.",
-    "image": "https://leonardo.osnova.io/358f3d73-b023-5848-a430-507a6603c020/",
+    "title": "Фанат отказался от создания ремейка The Legend of Zelda: Ocarina of Time после десяти лет разработки",
+    "description": "На фоне анонса обновлённой версии от Nintendo.",
+    "fullText": "На фоне анонса обновлённой версии от Nintendo.",
+    "image": "https://leonardo.osnova.io/c72083a5-a18c-5d66-a408-5f5aff5fd292/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5141829-google-investirovala-v-a24-issledovaniya-ii?from=rss",
-    "time": "2026-06-22T15:34:54.000Z"
+    "url": "https://dtf.ru/games/5141675-fanat-prekratil-razrabotku-remeika-the-legend-of-zelda-ocarina-of-time?from=rss",
+    "time": "2026-06-22T14:02:07.000Z"
   }
 ]
