@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Врачи Екатеринбурга удалили подростку пропросший в носовой полости зуб мудрости",
-    "description": "Пациент жаловался на боль в левой половине лица, заложенность носа, головные боли и дискомфорт у глаза",
-    "fullText": "Пациент жаловался на боль в левой половине лица, заложенность носа, головные боли и дискомфорт у глаза",
+    "title": "Мерц заявил, что \"настанет время вступить в мирные переговоры\" по Украине",
+    "description": "По словам канцлера ФРГ, поддержка Киева со стороны ЕС не ослабнет",
+    "fullText": "По словам канцлера ФРГ, поддержка Киева со стороны ЕС не ослабнет",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27852353",
-    "time": "2026-06-24T11:50:19.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27853737",
+    "time": "2026-06-24T17:02:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "GTA 6: как купить игру в России? Сколько стоит и что дают за предзаказ?",
+    "description": "Готовимся к главной игре десятилетия.",
+    "fullText": "Готовимся к главной игре десятилетия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a5/3c196f43144f8b7bcd8cc2aebd4d9.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3415595.html",
+    "time": "2026-06-24T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Угадайте яркие события ЧМ-2026 и выиграйте годовой запас пиццы от Папа Джонс",
-    "description": "В нашем проекте.",
-    "fullText": "В нашем проекте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/b4/84485f4a34c42adca580e032ba6e2.png",
+    "title": "Игроки этого клуба чаще всех побеждали на ЧМ – целых 27 раз",
+    "description": "Кузница чемпионов.",
+    "fullText": "Кузница чемпионов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/ae/be6b221654322be3b9ec5ff3cc4ec.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/papa-bingo/start/?utm_source=native&erid=2SDnjbrrpsc",
-    "time": "2026-06-24T11:30:00.000Z"
+    "url": "https://specials.sports.ru/world-cube/start?utm_source=supertop",
+    "time": "2026-06-24T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это самый опасный защитник чемпионата мира",
-    "description": "Даниэль Муньос из Колумбии.",
-    "fullText": "Даниэль Муньос из Колумбии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/22/4a5f210be4f5da1330b996da4aa45.jpeg",
+    "title": "Гаити – единственная страна, созданная рабами",
+    "description": "Любовь Курчавова – о жуткой истории.",
+    "fullText": "Любовь Курчавова – о жуткой истории.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/8b/64ac1d60a462ca6abe00748240167.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3415481.html",
-    "time": "2026-06-24T09:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3415453.html",
+    "time": "2026-06-24T13:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«По авариям это точно Burnout» — впечатления журналистов и геймплей Star Wars: Galactic Racer",
-    "description": "Игра их приятно удивила.",
-    "fullText": "Игра их приятно удивила.",
-    "image": "https://leonardo.osnova.io/4cf6daea-6212-5b8d-9984-5d2313c0abcb/-/format/mp4/",
+    "title": "PvE-режим без возможности вынести лут добавят в Marathon 21 июля",
+    "description": "Третий сезон стартует 22 сентября.",
+    "fullText": "Третий сезон стартует 22 сентября.",
+    "image": "https://leonardo.osnova.io/2bd3ecdd-0f62-54ee-8c42-22a70a5de98b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5144104-gonochnaia-igra-star-wars-galactic-racer-vpechatleniia-i-geimplei?from=rss",
-    "time": "2026-06-23T16:18:01.000Z"
+    "url": "https://dtf.ru/games/5145240-pve-rezhim-vault-breaker-v-marathon?from=rss",
+    "time": "2026-06-24T09:17:23.000Z"
   }
 ]
