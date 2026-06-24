@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Командир Журба: попытки ВСУ разрезать подразделения ВС РФ безуспешны",
-    "description": "Старания украинской армии просочиться через ряды российских военнослужащих не увенчиваются успехом, отметил командир разведывательно-штурмового отряда \"Волки\"",
-    "fullText": "Старания украинской армии просочиться через ряды российских военнослужащих не увенчиваются успехом, отметил командир разведывательно-штурмового отряда \"Волки\"",
+    "title": "Врач Егоров рассказал о возможных рисках при блефаропластике",
+    "description": "Она остается одной из самых безопасных операций, отметил заведующий офтальмологическим отделением Консультативно-диагностического центра ГБУЗ МО \"Подольская областная клиническая больница\"",
+    "fullText": "Она остается одной из самых безопасных операций, отметил заведующий офтальмологическим отделением Консультативно-диагностического центра ГБУЗ МО \"Подольская областная клиническая больница\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27850123",
-    "time": "2026-06-24T00:45:58.000Z"
+    "url": "https://tass.ru/obschestvo/27850589",
+    "time": "2026-06-24T05:09:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Составьте свою сетку ЧМ-2026: теперь уже легче! Игра-прогноз от Спортса”",
+    "description": "Есть четыре точных первых места.",
+    "fullText": "Есть четыре точных первых места.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/c2/936981eee4de5970d40cbbc4fceaa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/wc26-bracket/",
+    "time": "2026-06-24T04:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Лишь одна из этих стран входит в топ-10 ФИФА: Хорватия, Марокко или Польша?",
-    "description": "Все может измениться.",
-    "fullText": "Все может измениться.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/c5/a020f490f44d6abae3c56e4da72a0.png",
+    "title": "Какой игрок сборной Колумбии играл в «Порту», кроме Хамеса Родригеса?",
+    "description": "Надежда своей страны.",
+    "fullText": "Надежда своей страны.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/d1/f22951aaf49e5ad09c1eb4034a2bb.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/continent-of-champions/?utm_source=native",
-    "time": "2026-06-23T20:40:00.000Z"
+    "url": "https://sirena.sports.ru/career-guess/?utm_source=native",
+    "time": "2026-06-24T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Узбекистан попал под злую Португалию! С 0:5 еще повезло",
-    "description": "Роналду был близок к хет-трику.",
-    "fullText": "Роналду был близок к хет-трику.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/fa/957dabf0e46b6aec4d7f44b07561d.jpeg",
+    "title": "Роналду первым забил на шести ЧМ. В 41 год переписывает историю",
+    "description": "Обогнал Эйсебио.",
+    "fullText": "Обогнал Эйсебио.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/14/469e90ab5408c95a7562f5cd000af.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3415404.html",
-    "time": "2026-06-23T20:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3415399.html",
+    "time": "2026-06-24T01:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Группа компаний CD Projekt сменит название на CD Projekt RED",
-    "description": "Одна из причин — облегчение коммуникации на рынке.",
-    "fullText": "Одна из причин — облегчение коммуникации на рынке.",
-    "image": "https://leonardo.osnova.io/fbcfa59a-c3b0-5100-a308-2f05623938f5/",
+    "title": "Для Frostpunk 2 вышло сюжетное дополнение Breach of Trust",
+    "description": "Стоимость DLC составила 590 рублей.",
+    "fullText": "Стоимость DLC составила 590 рублей.",
+    "image": "https://leonardo.osnova.io/18efe89c-af54-52ce-91e8-f40075fadd35/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5143792-cd-projekt-smenit-nazvanie-na-cd-projekt-red?from=rss",
-    "time": "2026-06-23T13:27:54.000Z"
+    "url": "https://dtf.ru/games/5143702-syuzhetnoe-dopolnenie-breach-of-trust-dlya-frostpunk-2?from=rss",
+    "time": "2026-06-23T13:02:02.000Z"
   }
 ]
