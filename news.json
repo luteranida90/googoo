@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "VK Fest проведет мастер-классы, косплей-шоу и пенную дискотеку в Петербурге",
-    "description": "Фестиваль пройдет 4 и 5 июля",
-    "fullText": "Фестиваль пройдет 4 и 5 июля",
+    "title": "В Запорожской области сформирован запас жизненно важных лекарств на шесть месяцев",
+    "description": "Принимаются все необходимые меры безопасности, администрация области решает вопросы по обеспечению жизнедеятельности и устранению последствий, отметил губернатор Евгений Балицкий",
+    "fullText": "Принимаются все необходимые меры безопасности, администрация области решает вопросы по обеспечению жизнедеятельности и устранению последствий, отметил губернатор Евгений Балицкий",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27861673",
-    "time": "2026-06-26T15:21:20.000Z"
+    "url": "https://tass.ru/obschestvo/27862075",
+    "time": "2026-06-26T17:16:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,6 +22,17 @@
     "time": "2026-06-26T14:35:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Лидер «Ф-1» Антонелли – топ-пилот в 19 лет? Разбираемся",
+    "description": "В чем секрет вундеркинда?",
+    "fullText": "В чем секрет вундеркинда?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/92/2cbc37f9a491b8a9858cc2d3f1048.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3414391.html",
+    "time": "2026-06-26T13:46:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Франция или Норвегия? Ставьте на матч с фрибетом до 15 000 рублей от FONBET!",
     "description": "Финальные матчи группы I.",
@@ -33,25 +44,14 @@
     "time": "2026-06-26T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главное на ЧМ-2026 за 5 минут: гол из Махачкалы, два намека на договорняки, пас-рекорд всех времен, самый чувственный кадр",
-    "description": "Рекорд посещаемости тоже обновили.",
-    "fullText": "Рекорд посещаемости тоже обновили.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/30/4780ee36944bea853b6ca1006d814.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3416084.html",
-    "time": "2026-06-26T11:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сериал «Медведь» завершился — последний сезон получил 97% одобрения на Rotten Tomatoes",
-    "description": "По словам критиков, финал не оставляет после себя вопросов.",
-    "fullText": "По словам критиков, финал не оставляет после себя вопросов.",
-    "image": "https://leonardo.osnova.io/966d7215-1d62-5520-a5a2-d6a38fc06203/",
+    "title": "Universal не будет проводить предпоказы «Одиссеи» Кристофера Нолана для блогеров",
+    "description": "Картину заранее покажут только профессиональным критикам.",
+    "fullText": "Картину заранее покажут только профессиональным критикам.",
+    "image": "https://leonardo.osnova.io/b6b4d567-822f-51f4-b4ec-54c64cdd8c1a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5149545-serial-medved-zavershil-posledniy-sezon?from=rss",
-    "time": "2026-06-26T07:29:24.000Z"
+    "url": "https://dtf.ru/cinema/5149776-universal-ne-pokazhet-odisseyu-nolana-blogeram?from=rss",
+    "time": "2026-06-26T09:29:57.000Z"
   }
 ]
