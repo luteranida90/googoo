@@ -1,5 +1,38 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Смотрите матч Панама – Англия в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "В какую сетку попадут англичане?",
+    "fullText": "В какую сетку попадут англичане?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/ee/eb2f9c3064fb1b7760e7b9d476f71.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/97tLL",
+    "time": "2026-06-27T20:56:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Силы ПВО сбили три летевших к Москве беспилотника",
+    "description": "Специалисты экстренных служб работают на месте падения обломков",
+    "fullText": "Специалисты экстренных служб работают на месте падения обломков",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27864141",
+    "time": "2026-06-27T20:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Россиянин Магомедов победил бразильца Перейру на турнире UFC",
+    "description": "Российский боец смешанного стиля Шарабутдин Магомедов по прозвищу Шара Буллет одержал победу над бразильцем Мишелем Перейрой на турнире UFC Fight Night 280 в Баку.",
+    "fullText": "Российский боец смешанного стиля Шарабутдин Магомедов по прозвищу Шара Буллет одержал победу над бразильцем Мишелем Перейрой на турнире UFC Fight Night 280 в Баку.",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "Interfax Спорт",
+    "category": "all",
+    "url": "https://www.sport-interfax.ru/1098770",
+    "time": "2026-06-27T19:47:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Попадут ли Аргентина и Португалия в одну сторону сетки плей-офф?",
     "description": "Угадайте события игрового дня.",
@@ -9,17 +42,6 @@
     "category": "all",
     "url": "https://specials.sports.ru/papa-bingo/start/?utm_source=native",
     "time": "2026-06-27T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве объявили воздушную тревогу",
-    "description": "В красной зоне также находятся шесть областей",
-    "fullText": "В красной зоне также находятся шесть областей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27864085",
-    "time": "2026-06-27T19:02:46.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -33,15 +55,15 @@
     "time": "2026-06-27T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гран-при Спортса’’: как это было",
-    "description": "Все показывали.",
-    "fullText": "Все показывали.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/ef/c870ee05a4e568f4fc27f383ff91f.jpeg",
-    "source": "Sports.ru",
+    "id": "aHR0cHM6Ly93d3cuaW50",
+    "title": "Аэропорт Сочи возобновил обслуживание рейсов в четвертый раз за день",
+    "description": "Временные ограничения на прием и отправку рейсов сняты в международном аэропорту Сочи, сообщила Росавиация в своем канале в Мах в субботу.",
+    "fullText": "Временные ограничения на прием и отправку рейсов сняты в международном аэропорту Сочи, сообщила Росавиация в своем канале в Мах в субботу.",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "Interfax Спорт",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3415988.html",
-    "time": "2026-06-27T15:00:00.000Z"
+    "url": "https://www.interfax.ru/russia/1098761",
+    "time": "2026-06-27T17:14:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
