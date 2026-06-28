@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В пригороде Харькова произошли взрывы",
+    "description": "В Днепропетровской, Харьковской, Сумской и Черниговской областях Украины действует воздушная тревога",
+    "fullText": "В Днепропетровской, Харьковской, Сумской и Черниговской областях Украины действует воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27866259",
+    "time": "2026-06-28T21:55:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Симулятор всей сетки плей-офф ЧМ-2026 от Спортса’‘. Можно прикинуть пары и путь до финала",
+    "description": "Проведите 32 команды.",
+    "fullText": "Проведите 32 команды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/35/82fb9abfe410bbb07fecf3ed1d985.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/wc26-bracket/",
+    "time": "2026-06-28T21:49:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Этого игрока вызвали в сборную Бразилии на ЧМ-2014 прямо из РПЛ – поняли, о ком речь?",
     "description": "Наш супергерой.",
@@ -9,17 +31,6 @@
     "category": "all",
     "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
     "time": "2026-06-28T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "NYT: планы по техническим переговорам Ирана и США остаются в силе, несмотря на удары",
-    "description": "Как указывает издание, Вашингтон и Тегеран продолжают обмен сообщениями через каналы деконфликтинга",
-    "fullText": "Как указывает издание, Вашингтон и Тегеран продолжают обмен сообщениями через каналы деконфликтинга",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27866191",
-    "time": "2026-06-28T20:31:59.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,26 +44,15 @@
     "time": "2026-06-28T19:05:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9yZWRpcmVj",
-    "title": "ЮАР и Канада открывают плей-офф ЧМ. Статистика уже в приложении ГОЛ",
-    "description": "Права на ошибку нет!",
-    "fullText": "Права на ошибку нет!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/3d/d96ddf1fd44c7bf0e2bdd5affd8dc.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://redirect.appmetrica.yandex.com/serve/318131051673239074?campaign_id=world_cup",
-    "time": "2026-06-28T17:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Флаг ЮАР – самый многоцветный в мире. Он в Книге рекордов Гиннесса",
-    "description": "Но что он значит?",
-    "fullText": "Но что он значит?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/02/6fd3b18a1418190466b58a65df887.jpeg",
+    "title": "Реакции на 3:3 Австрии и Алжира: фанаты праздновали гол в свои ворота, тренеры отвергают теории заговора",
+    "description": "«Победил футбол».",
+    "fullText": "«Победил футбол».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/1d/5e666ece041dbb02ef00400c86a18.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3413393.html",
-    "time": "2026-06-28T17:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3416723.html",
+    "time": "2026-06-28T18:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
