@@ -1,5 +1,49 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Матч Мексики и Эквадора отложен из-за погоды. Ждем в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Шторм рядом с «Ацтекой».",
+    "fullText": "Шторм рядом с «Ацтекой».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/4f/3e546b4fa4da2a612f2f73d090851.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/fifa-world-cup-2026/match/mexico-vs-ecuador/",
+    "time": "2026-07-01T01:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В МАИ разрабатывают дроны самолетного типа для доставки посылок",
+    "description": "Разработка позволит оптимизировать логистические маршруты, увеличить скорость доставки и решить проблему нехватки курьеров",
+    "fullText": "Разработка позволит оптимизировать логистические маршруты, увеличить скорость доставки и решить проблему нехватки курьеров",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/nauka/27873481",
+    "time": "2026-07-01T01:00:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Этот стадион в Мексике не переименовали к ЧМ-2026 – он уже дважды принимал финалы",
+    "description": "Легендарное место.",
+    "fullText": "Легендарное место.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/33/0f16c73944ce29bad484c5868a5ce.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/world-cube/start?utm_source=native",
+    "time": "2026-07-01T00:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Серена Уильямс удивила – реально ведь могла выиграть первый матч за 4 года. Хотя ей 44",
+    "description": "Офигенная.",
+    "fullText": "Офигенная.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/4f/f13c8418d432ba27ec8bef1d81c33.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3417573.html",
+    "time": "2026-06-30T21:35:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Помните сборную Франции с ЧМ-2022? Они обновились – и теперь на их пути шведы",
     "description": "Цель – золото.",
@@ -8,40 +52,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
-    "time": "2026-07-01T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Обожает Неймара, тату – обещание бабушке. Что за Нуса так красиво забил Кот-д’Ивуару",
-    "description": "Талант из «Лейпцига».",
-    "fullText": "Талант из «Лейпцига».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f1/15b0beff64d24975a6c48894c2289.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3417527.html",
-    "time": "2026-07-01T19:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Хотите джерси Холанда? Тогда угадайте победителей следующих матчей 1/16",
-    "description": "И забирайте ее в Пикере.",
-    "fullText": "И забирайте ее в Пикере.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/61/7fe08714a406d865927d3aa5fec5e.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/picker/world-cup/?utm_source=native",
-    "time": "2026-07-01T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эквадорская федерация подала жалобу в ФИФА на действия мексиканских болельщиков",
-    "description": "Перед матчем 1/16 финала около тысячи мексиканских болельщиков собрались перед отелем, в котором расположилась сборная Эквадора",
-    "fullText": "Перед матчем 1/16 финала около тысячи мексиканских болельщиков собрались перед отелем, в котором расположилась сборная Эквадора",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27873369",
-    "time": "2026-06-30T22:22:05.000Z"
+    "time": "2026-06-30T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
