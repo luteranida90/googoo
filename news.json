@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Медведев рассказал о благоприятном впечатлении от обстановки в Тегеране",
-    "description": "Город живет, развивается, даже несмотря на то, что на его территории появились целые кварталы, уничтоженные в ходе бомбардировок США, отметил зампред Совбеза РФ",
-    "fullText": "Город живет, развивается, даже несмотря на то, что на его территории появились целые кварталы, уничтоженные в ходе бомбардировок США, отметил зампред Совбеза РФ",
+    "title": "В Москве в обновленных школах откроют 170 модернизированных кабинетов технологии",
+    "description": "Ученики 5-9 классов смогут работать с деревом и металлом, текстилем и пищевыми продуктами",
+    "fullText": "Ученики 5-9 классов смогут работать с деревом и металлом, текстилем и пищевыми продуктами",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27885167",
-    "time": "2026-07-04T07:02:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Олисе, Мбаппе или Дембеле – кто сегодня разгромит Парагвай?",
-    "description": "Всех выбрать не получится.",
-    "fullText": "Всех выбрать не получится.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/a1/5569f0e3343b09b509a6e16569e98.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
-    "time": "2026-07-04T07:00:00.000Z"
+    "url": "https://tass.ru/obschestvo/27885661",
+    "time": "2026-07-04T10:30:26.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -30,28 +19,39 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://specials.sports.ru/wc26-bracket/",
-    "time": "2026-07-04T06:10:00.000Z"
+    "time": "2026-07-04T10:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Разборы матчей ЧМ или голов Букина?",
+    "description": "Попробуйте обновленную «Мою ленту».",
+    "fullText": "Попробуйте обновленную «Мою ленту».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/kxSXwi",
+    "time": "2026-07-04T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сказка Кабрала: из 5-го дивизиона – к ВОТ ЭТОМУ голу Аргентине. За 4 года",
-    "description": "Рассказывает Любовь Курчавова.",
-    "fullText": "Рассказывает Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/14/3232b09144713b5f205c09c829ab5.jpeg",
+    "title": "Олисе и Мбаппе делают друг друга еще сильнее",
+    "description": "И ярче.",
+    "fullText": "И ярче.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/c9/5369aa55f4f6cac2e94d34330b3da.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3418465.html",
-    "time": "2026-07-04T04:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3418464.html",
+    "time": "2026-07-04T08:42:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джоди Фостер сравнила сценарий «Формулы-1» с работой ИИ — он показался ей слишком шаблонным",
-    "description": "Актриса, однако, признала успех ленты.",
-    "fullText": "Актриса, однако, признала успех ленты.",
-    "image": "https://leonardo.osnova.io/04d2b077-06c2-5ab1-807b-1c57a5ee82b2/",
+    "title": "Шон Лейден рассказал, что ещё при нём PlayStation регулярно спрашивали, когда она откажется от дисководов",
+    "description": "Бывший руководитель подразделения также уверен, что вторичный рынок никак не сказался на решении Sony.",
+    "fullText": "Бывший руководитель подразделения также уверен, что вторичный рынок никак не сказался на решении Sony.",
+    "image": "https://leonardo.osnova.io/2a64f08b-20a3-56b9-98fc-d9418d5bf16c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5163853-jodi-foster-o-vliyanii-ii-na-kino-i-filme-formula-1?from=rss",
-    "time": "2026-07-03T15:00:46.000Z"
+    "url": "https://dtf.ru/gameindustry/5163612-shon-lejden-o-budushchem-playstation-i-otkaze-ot-diskovodov?from=rss",
+    "time": "2026-07-03T11:53:48.000Z"
   }
 ]
