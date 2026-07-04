@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Более 90 военнослужащих Преображенского полка привели к присяге в Музее Победы",
-    "description": "Выбор места связан с увековечением в Зале славы имен около 12 тыс. героев Советского Союза и РФ",
-    "fullText": "Выбор места связан с увековечением в Зале славы имен около 12 тыс. героев Советского Союза и РФ",
+    "title": "В ДНР высадят более 5 тыс. красных кленов в память о погибших жителях",
+    "description": "География высадки охватит 12 городов республики",
+    "fullText": "География высадки охватит 12 городов республики",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27885753",
-    "time": "2026-07-04T12:03:24.000Z"
+    "url": "https://tass.ru/obschestvo/27885975",
+    "time": "2026-07-04T14:10:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Узнали игрока? Угадайте еще 30 по размытому фото и без подсказок",
+    "description": "Загадали только топов.",
+    "fullText": "Загадали только топов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/ce/b4ad932ae40bfac2b3a4cd6555f76.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-07-04T13:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Симулятор всей сетки плей-офф ЧМ-2026 от Спортса’‘. Можно прикинуть пары и путь до финала",
+    "description": "Осталось 16 команд.",
+    "fullText": "Осталось 16 команд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/35/82fb9abfe410bbb07fecf3ed1d985.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/wc26-bracket/",
+    "time": "2026-07-04T13:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +44,25 @@
     "time": "2026-07-04T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Симулятор всей сетки плей-офф ЧМ-2026 от Спортса’‘. Можно прикинуть пары и путь до финала",
-    "description": "Осталось 16 команд.",
-    "fullText": "Осталось 16 команд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/35/82fb9abfe410bbb07fecf3ed1d985.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/wc26-bracket/",
-    "time": "2026-07-04T10:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Файб, Лукомский, Ерыкалов, Минин: где сейчас авторы Трибуны?",
-    "description": "Работают на Спортсе’’, в «Зените» и «Фиорентине».",
-    "fullText": "Работают на Спортсе’’, в «Зените» и «Фиорентине».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/83/21fba58a3412d94d93f9d78103596.jpeg",
+    "title": "Сказка Кабрала: из 5-го дивизиона – к ВОТ ЭТОМУ голу Аргентине. За 4 года",
+    "description": "Рассказывает Любовь Курчавова.",
+    "fullText": "Рассказывает Любовь Курчавова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/14/3232b09144713b5f205c09c829ab5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3411130.html",
-    "time": "2026-07-04T10:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3418465.html",
+    "time": "2026-07-04T11:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шон Лейден рассказал, что ещё при нём PlayStation регулярно спрашивали, когда она откажется от дисководов",
-    "description": "Бывший руководитель подразделения также уверен, что вторичный рынок никак не сказался на решении Sony.",
-    "fullText": "Бывший руководитель подразделения также уверен, что вторичный рынок никак не сказался на решении Sony.",
-    "image": "https://leonardo.osnova.io/2a64f08b-20a3-56b9-98fc-d9418d5bf16c/",
+    "title": "Owlcat представила музыкальную тему из главного меню The Expanse: Osiris Reborn",
+    "description": "Возможность на три минуты проникнуться атмосферой игры.",
+    "fullText": "Возможность на три минуты проникнуться атмосферой игры.",
+    "image": "https://leonardo.osnova.io/194826e2-068a-5740-989e-be883f31f17f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5163612-shon-lejden-o-budushchem-playstation-i-otkaze-ot-diskovodov?from=rss",
-    "time": "2026-07-03T11:53:48.000Z"
+    "url": "https://dtf.ru/music/5164068-owlcat-muzykalnaya-tema-the-expanse-osiris-reborn?from=rss",
+    "time": "2026-07-03T15:28:38.000Z"
   }
 ]
