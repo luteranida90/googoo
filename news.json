@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Нижнем Новгороде несколько кабин канатной дороги застряли вместе с людьми",
+    "description": "На место происшествия направили экстренные службы",
+    "fullText": "На место происшествия направили экстренные службы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27887609",
+    "time": "2026-07-05T15:23:06.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Каземиро играет в CS прямо во время ЧМ. Даже организовал компьютерный клуб на базе сборной",
     "description": "Нервничает сильнее, чем на поле.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3418081.html",
     "time": "2026-07-05T14:23:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сальдо: все округа Херсонской области полностью или частично обесточены",
-    "description": "Службы работают над возвращением света",
-    "fullText": "Службы работают над возвращением света",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260218/8824353.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27887525",
-    "time": "2026-07-05T13:55:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тяжелая ночка Англии в Мехико: спецназ у отеля, сон под фейерверк, барабаны и трубы",
-    "description": "Мексиканцы давят перед игрой.",
-    "fullText": "Мексиканцы давят перед игрой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/de/a188ad14b47cd81607ae29bc79f05.jpeg",
+    "title": "«Мама готовила мои похороны». Тренер Норвегии Сольбаккен умер на 7 минут, но победил смерть со шрамом на груди",
+    "description": "Вернулся на ЧМ спустя 28 лет.",
+    "fullText": "Вернулся на ЧМ спустя 28 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/65/ee7fdff7645f0a55c97bee35b9a7a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3418767.html",
-    "time": "2026-07-05T11:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3414139.html",
+    "time": "2026-07-05T12:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
