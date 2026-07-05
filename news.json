@@ -1,35 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Каземиро играет в CS прямо во время ЧМ. Даже организовал компьютерный клуб на базе сборной",
+    "description": "Нервничает сильнее, чем на поле.",
+    "fullText": "Нервничает сильнее, чем на поле.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/a9/5962cb5cb4b199b7dfcda454b5c65.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3418081.html",
+    "time": "2026-07-05T14:23:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Силы ПВО сбили еще 13 БПЛА, летевших на Москву",
-    "description": "На месте падения обломков работают специалисты экстренных служб",
-    "fullText": "На месте падения обломков работают специалисты экстренных служб",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Сальдо: все округа Херсонской области полностью или частично обесточены",
+    "description": "Службы работают над возвращением света",
+    "fullText": "Службы работают над возвращением света",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260218/8824353.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27887389",
-    "time": "2026-07-05T12:14:03.000Z"
+    "url": "https://tass.ru/proisshestviya/27887525",
+    "time": "2026-07-05T13:55:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В заявке Бразилии против Норвегии аж два игрока из «Зенита». Кто еще из бразильцев поиграл в Петербурге?",
+    "description": "Наш супергерой.",
+    "fullText": "Наш супергерой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/f3/beaa8c35549349f888e23844a50a5.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
+    "time": "2026-07-05T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Он бросил мяч мне в голову». Схватка Холанда и Габриэла – теперь в плей-офф ЧМ",
-    "description": "Новая серия любимого сериала.",
-    "fullText": "Новая серия любимого сериала.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/ef/b9dc9330b4f959d65ad20fc0c9b12.jpeg",
+    "title": "Тяжелая ночка Англии в Мехико: спецназ у отеля, сон под фейерверк, барабаны и трубы",
+    "description": "Мексиканцы давят перед игрой.",
+    "fullText": "Мексиканцы давят перед игрой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/de/a188ad14b47cd81607ae29bc79f05.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3418708.html",
-    "time": "2026-07-05T10:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3418767.html",
+    "time": "2026-07-05T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Ъ» — «Война Миров: Сибирь» получила от ИРИ грант в размере от 800 миллионов до миллиарда рублей",
-    "description": "Следующей игре по «Смуте», между тем, выделили 250 миллионов.",
-    "fullText": "Следующей игре по «Смуте», между тем, выделили 250 миллионов.",
-    "image": "https://leonardo.osnova.io/ca878d64-23af-5ab6-aafb-a7aadf783af3/",
+    "title": "The Wrap: Леонардо ДиКаприо и Кристиан Бэйл исполнят главные роли в «Схватке 2»",
+    "description": "Адама Драйвера хотят привлечь в качестве антагониста.",
+    "fullText": "Адама Драйвера хотят привлечь в качестве антагониста.",
+    "image": "https://leonardo.osnova.io/fdc85536-836e-5562-aebf-06bf2e57d825/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5163935-voynamirovsibir-grant-iri?from=rss",
-    "time": "2026-07-03T14:42:49.000Z"
+    "url": "https://dtf.ru/cinema/5164297-skhvatka-2-leonardo-dikaprio-i-kristian-bejl?from=rss",
+    "time": "2026-07-03T17:11:29.000Z"
   }
 ]
