@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Турции назвали темы саммита НАТО в Анкаре",
+    "description": "Глава Управления по коммуникациям администрации турецкого президента Бурханеттин Дуран сообщил, что там будут обсуждать угрозы и вызовы для Евроатлантики, Украину и южный фланг альянса",
+    "fullText": "Глава Управления по коммуникациям администрации турецкого президента Бурханеттин Дуран сообщил, что там будут обсуждать угрозы и вызовы для Евроатлантики, Украину и южный фланг альянса",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27887147",
+    "time": "2026-07-05T10:45:05.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Холанд или Винисиус – кто забьет больше в 1/8?",
     "description": "Берите того, в кого верите сильнее.",
@@ -11,47 +22,25 @@
     "time": "2026-07-05T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гольфист Ерошенко отметил рост популярности и доступности гольфа в России",
-    "description": "Спортсмен отметил, что хорошая атмосфера и окружение - главное, что привлекает детей в гольфе",
-    "fullText": "Спортсмен отметил, что хорошая атмосфера и окружение - главное, что привлекает детей в гольфе",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260705/9198649.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27887073",
-    "time": "2026-07-05T09:10:37.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Заберите лучшие офферы от букмекеров!",
-    "description": "«Уимблдон» ждет.",
-    "fullText": "«Уимблдон» ждет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/a2/e6c4d5a84405f9a8ff89b3d36d897.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/Sz0a3Br",
-    "time": "2026-07-05T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Помните прием в стиле Парагвая на ЧМ-2010?",
-    "description": "Тоже без удаления.",
-    "fullText": "Тоже без удаления.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/34/9b8cd1c414e9cbbf4bc9867dab22b.gif",
+    "title": "«Катастрофическое судейство». Что за арбитр так прощал грязь от Парагвая?",
+    "description": "Плохой день Илгиза Танташева.",
+    "fullText": "Плохой день Илгиза Танташева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/3e/b5cd2cda04ab0a0d309893b511603.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/wcup-moments/?utm_source=native-paraguay",
-    "time": "2026-07-05T06:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3418763.html",
+    "time": "2026-07-05T08:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продажи Cyberpunk 2077 составили 40 миллионов копий — за пять c лишним лет после релиза",
-    "description": "CDPR уверена в будущем франшизы.",
-    "fullText": "CDPR уверена в будущем франшизы.",
-    "image": "https://leonardo.osnova.io/f3d337f6-e42e-50f5-9e90-a8ccbbae6e43/",
+    "title": "«Ъ» — «Война Миров: Сибирь» получила от ИРИ грант в размере от 800 миллионов до миллиарда рублей",
+    "description": "Следующей игре по «Смуте», между тем, выделили 250 миллионов.",
+    "fullText": "Следующей игре по «Смуте», между тем, выделили 250 миллионов.",
+    "image": "https://leonardo.osnova.io/ca878d64-23af-5ab6-aafb-a7aadf783af3/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5163597-prodazhi-cyberpunk-2077-dostigli-40-millionov-kopiy?from=rss",
-    "time": "2026-07-03T11:28:05.000Z"
+    "url": "https://dtf.ru/gameindustry/5163935-voynamirovsibir-grant-iri?from=rss",
+    "time": "2026-07-03T14:42:49.000Z"
   }
 ]
