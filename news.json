@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Белгородской области два человека пострадали при атаках ВСУ за сутки",
-    "description": "Украинские войска 47 раз атаковали регион",
-    "fullText": "Украинские войска 47 раз атаковали регион",
+    "title": "В подконтрольной Украине части Запорожской области снова произошли взрывы",
+    "description": "На территории действует воздушная тревога",
+    "fullText": "На территории действует воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27888761",
-    "time": "2026-07-06T05:34:07.000Z"
+    "url": "https://tass.ru/proisshestviya/27890991",
+    "time": "2026-07-06T13:51:42.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Этот стадион уже дважды принимал финалы ЧМ, а сегодня там бились Мексика с Англией",
-    "description": "Легендарное место.",
-    "fullText": "Легендарное место.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/33/0f16c73944ce29bad484c5868a5ce.png",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Забить 5 мячей за матч на ЧМ – почти чудо. У каких сборных это получилось?",
+    "description": "Португалия уже в списке.",
+    "fullText": "Португалия уже в списке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/8b/3a490df944294a49e70d900a6fbaf.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/world-cube/start?utm_source=native",
-    "time": "2026-07-06T04:30:00.000Z"
+    "url": "https://sirena.sports.ru/continent-of-champions/?utm_source=supertop",
+    "time": "2026-07-06T13:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9nb28uc3Uv",
+    "title": "Португалия vs Испания – кто сегодня будет сильнее? Ставьте на БЕТСИТИ",
+    "description": "С фрибетом до 1500.",
+    "fullText": "С фрибетом до 1500.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/1e/0ce9b758647bf86d3e12190a652cd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://goo.su/UzzsKEw",
+    "time": "2026-07-06T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сетка плей-офф ЧМ-2026: Англия выжила и вышла в 1/4 финала – на кого?",
-    "description": "Бразилию вычеркнули.",
-    "fullText": "Бразилию вычеркнули.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f7/6beea0e244c81b6a4a72a012eb620.jpeg",
+    "title": "Усик освободил все пояса – теперь-то тяжелый вес заживет?",
+    "description": "Разбираемся.",
+    "fullText": "Разбираемся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/90/00371fe7c4350bceed1e8c2876778.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3415767.html",
-    "time": "2026-07-06T03:10:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3418880.html",
+    "time": "2026-07-06T10:38:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Группа Deep Purple выпустила 24-й студийный альбом — SPLAT!",
-    "description": "Также состоялся релиз 15-й пластинки Мадонны.",
-    "fullText": "Также состоялся релиз 15-й пластинки Мадонны.",
-    "image": "https://leonardo.osnova.io/d74b5940-d06d-5137-be99-7a736a9b4879/",
+    "title": "«Что обитает внизу?»: тизер апдейта «Проклятье Всепламени» для первой части Path of Exile",
+    "description": "Патч выйдет 24 июля.",
+    "fullText": "Патч выйдет 24 июля.",
+    "image": "https://leonardo.osnova.io/9ff4a331-99d4-5b68-ad02-93c4582af1a2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/5164549-deep-purple-albom-splat?from=rss",
-    "time": "2026-07-03T19:29:38.000Z"
+    "url": "https://dtf.ru/games/5168586-obnovlenie-proklyatie-vseplameni-path-of-exile?from=rss",
+    "time": "2026-07-06T07:08:05.000Z"
   }
 ]
