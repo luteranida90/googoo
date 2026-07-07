@@ -1,46 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: в Запорожской области уничтожена крупная группа бригады БПЛА ВСУ \"Ахилес\"",
-    "description": "В российских силовых структурах сообщили, что цель поразили несколькими ударами ФАБ",
-    "fullText": "В российских силовых структурах сообщили, что цель поразили несколькими ударами ФАБ",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27892387",
-    "time": "2026-07-07T04:11:08.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Месси vs Роналду: наша эпоха – все о главной дуэли века. Мультимедийный лонгрид Спортса’’",
-    "description": "Криш уже вылетел с ЧМ.",
-    "fullText": "Криш уже вылетел с ЧМ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/96/9a72a1a6748d192190461bf54e0da.jpeg",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Джокович, Синнер и Фриц – в 1/4 «Уимблдона». Чего ждать дальше?",
+    "description": "Выберите своих фаворитов.",
+    "fullText": "Выберите своих фаворитов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/b4/060aed7bb43f2a63702c3ccb5a8f8.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/goats/",
-    "time": "2026-07-07T00:15:00.000Z"
+    "url": "https://m.sports.ru/osnova/wimbledon/?utm_source=native",
+    "time": "2026-07-07T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Одиночество Криштиану Роналду",
-    "description": "Колонка Терентьева.",
-    "fullText": "Колонка Терентьева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/f0/5ecf1950c4c799af4d0f7a6239857.jpeg",
+    "title": "Мартинес уходит из Португалии. Уже 13-я отставка ЧМ-2026",
+    "description": "И это явно не конец.",
+    "fullText": "И это явно не конец.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/93/404f3762d4d21ae3cbcd3084a005d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3419303.html",
-    "time": "2026-07-06T23:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3417666.html",
+    "time": "2026-07-07T03:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия Mechanics VoiceOver показала трейлер с примером русской озвучки 007 First Light",
-    "description": "Пока собрано 10% требуемой суммы.",
-    "fullText": "Пока собрано 10% требуемой суммы.",
-    "image": "https://leonardo.osnova.io/f47dc31a-4bca-5fb6-aed8-afc7ce127f87/",
+    "title": "«ИИ-актриса» Тилли Норвуд получила дебютную ведущую роль в полнометражном фильме",
+    "description": "Лента расскажет об искусственной девушке, которая обретает человечность.",
+    "fullText": "Лента расскажет об искусственной девушке, которая обретает человечность.",
+    "image": "https://leonardo.osnova.io/a0498a34-c491-54b8-bf59-6b2e1d1e48ce/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5169166-russkaya-ozvuchka-007-first-light?from=rss",
-    "time": "2026-07-06T12:30:31.000Z"
+    "url": "https://dtf.ru/cinema/5169556-tilly-norwood-glavnaya-rol-v-filme-o-ii?from=rss",
+    "time": "2026-07-06T16:05:07.000Z"
   }
 ]
