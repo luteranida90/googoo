@@ -1,46 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Игроки из этого клуба чаще всех побеждали на ЧМ – знаете ответ?",
+    "description": "Кузница чемпионов.",
+    "fullText": "Кузница чемпионов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/ae/be6b221654322be3b9ec5ff3cc4ec.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/world-cube/start?utm_source=native",
+    "time": "2026-07-08T21:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп считает, что США в конечном счете вывезут ядерные материалы из Ирана",
-    "description": "Президент США заявил, что никто другой их \"не тронет\"",
-    "fullText": "Президент США заявил, что никто другой их \"не тронет\"",
+    "title": "IRIB: на острове Абу-Муса в Персидском заливе произошло несколько взрывов",
+    "description": "Удары зафиксировали в провинции Хормозган",
+    "fullText": "Удары зафиксировали в провинции Хормозган",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27899839",
-    "time": "2026-07-08T16:39:56.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27900375",
+    "time": "2026-07-08T21:06:14.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Больше любимого спорта, меньше лишнего шума",
-    "description": "Читайте что хотите в «Моей Ленте».",
-    "fullText": "Читайте что хотите в «Моей Ленте».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/0f/17e49270a4ef4ab0fabb6d656a8c4.png",
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "В Париже проходит ЧМ по киберспорту: тут россиянам даже помогают с визами",
+    "description": "Почти каждый 4-й дотер – из России.",
+    "fullText": "Почти каждый 4-й дотер – из России.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/f9/6790b71754749a0ed74476f6174a9.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sprts.cc/kxSXwi",
-    "time": "2026-07-08T13:30:00.000Z"
+    "url": "https://cyber.sports.ru/dota2/blogs/3419690.html",
+    "time": "2026-07-08T20:13:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "ГОЛевой конкурс!",
+    "description": "Участвуйте в розыгрыше и выигрывайте призы.",
+    "fullText": "Участвуйте в розыгрыше и выигрывайте призы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-07-08T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Трансферы в сборных – новая реальность. На ЧМ рекорд по натурализованным",
-    "description": "Глобальный разбор Игоря Сергеева.",
-    "fullText": "Глобальный разбор Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/02/5bdacf4294147bb6291d03e8af3a9.jpeg",
+    "title": "«Вспоминаю с болью». Как сильнейшая сборная России потеряла себя перед ЧМ-1994",
+    "description": "Переживания той команды.",
+    "fullText": "Переживания той команды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/6f/0dce74a7e4748b0ddb4f6bbe806fc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3415005.html",
-    "time": "2026-07-08T13:01:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3411411.html",
+    "time": "2026-07-08T17:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шрайер: до релиза TES VI ещё «как минимум 2-3 года»",
-    "description": "Тодд Говард предупреждал.",
-    "fullText": "Тодд Говард предупреждал.",
-    "image": "https://leonardo.osnova.io/555a26e8-aadc-51db-a84d-d32524f8a285/",
+    "title": "Frostpunk 2 продалась тиражом в миллион копий",
+    "description": "До конца года разработчики намерены выпустить третье дополнение.",
+    "fullText": "До конца года разработчики намерены выпустить третье дополнение.",
+    "image": "https://leonardo.osnova.io/519650cd-e628-5992-91f1-c40cca289068/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5172353-shraier-o-tes-vi-reliz-ozhidaetsya-cherez-2-3-goda?from=rss",
-    "time": "2026-07-08T05:39:25.000Z"
+    "url": "https://dtf.ru/gameindustry/5173237-frostpunk-2-prodalis-millionnym-tirazhom?from=rss",
+    "time": "2026-07-08T14:44:10.000Z"
   }
 ]
