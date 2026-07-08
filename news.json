@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Псковской области объявили беспилотную опасность",
+    "description": "Жителей призвали сохранять спокойствие",
+    "fullText": "Жителей призвали сохранять спокойствие",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27900443",
+    "time": "2026-07-08T22:14:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Игроки из этого клуба чаще всех побеждали на ЧМ – знаете ответ?",
     "description": "Кузница чемпионов.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://specials.sports.ru/world-cube/start?utm_source=native",
     "time": "2026-07-08T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "IRIB: на острове Абу-Муса в Персидском заливе произошло несколько взрывов",
-    "description": "Удары зафиксировали в провинции Хормозган",
-    "fullText": "Удары зафиксировали в провинции Хормозган",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27900375",
-    "time": "2026-07-08T21:06:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -45,14 +45,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Вспоминаю с болью». Как сильнейшая сборная России потеряла себя перед ЧМ-1994",
-    "description": "Переживания той команды.",
-    "fullText": "Переживания той команды.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/6f/0dce74a7e4748b0ddb4f6bbe806fc.jpeg",
+    "title": "Пик разлада в «Ред Булл»: почему Ферстаппена опять не слушают?",
+    "description": "Четырехкратный чемпион «Ф-1» получил право на уход.",
+    "fullText": "Четырехкратный чемпион «Ф-1» получил право на уход.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/02/ae7ecd56241958e7bb822df93214f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3411411.html",
-    "time": "2026-07-08T17:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3419226.html",
+    "time": "2026-07-08T17:46:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
