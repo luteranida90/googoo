@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Теннисистки из одной страны сыграют в финале Уимблдона впервые за 17 лет",
-    "description": "В решающем матче встретятся чешки Каролина Мухова и Линда Носкова",
-    "fullText": "В решающем матче встретятся чешки Каролина Мухова и Линда Носкова",
+    "title": "Театр им. Комиссаржевской отменил показы спектаклей до 13 июля",
+    "description": "Билеты подлежат возврату по месту приобретения",
+    "fullText": "Билеты подлежат возврату по месту приобретения",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27903669",
-    "time": "2026-07-09T17:21:59.000Z"
+    "url": "https://tass.ru/obschestvo/27903817",
+    "time": "2026-07-09T18:59:39.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Назвать 30 легенд ЧМ просто? Только до того, как мы размоем фото 📸",
+    "description": "Великие.",
+    "fullText": "Великие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/6c/b1773cf81478198e34551fe75afbd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-07-09T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "EA Sports College Football 27 стартовала с рейтингом 30% в Steam — игроки жалуются на микротранзакции в одиночных режимах",
-    "description": "Сообщество уже организовало кампанию против такой практики.",
-    "fullText": "Сообщество уже организовало кампанию против такой практики.",
-    "image": "https://leonardo.osnova.io/8ace79c6-2633-53e2-a0df-1e5a3e64eb4c/",
+    "title": "Апдейт The Kortz Center Heist для GTA Online с ограблением галереи выйдет 14 июля",
+    "description": "Игрокам предстоит украсть картины с отсылками к серии Rockstar.",
+    "fullText": "Игрокам предстоит украсть картины с отсылками к серии Rockstar.",
+    "image": "https://leonardo.osnova.io/ae38c9f3-4b7e-5090-8149-772b0973e016/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5175163-ea-sports-college-football-27-nizkiy-reyting-v-steam?from=rss",
-    "time": "2026-07-09T15:10:29.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9yZWRpcmVj",
-    "title": "Масштабный конкурс от ГОЛа",
-    "description": "Победителей объявим 10 августа.",
-    "fullText": "Победителей объявим 10 августа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
-    "time": "2026-07-09T13:30:00.000Z"
+    "url": "https://dtf.ru/games/5175079-obnovlenie-the-kortz-center-heist-dlya-gta-online?from=rss",
+    "time": "2026-07-09T14:58:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дидье Дешам – очень умный мужчина",
-    "description": "Управляет звездной Францией.",
-    "fullText": "Управляет звездной Францией.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/3d/3e74f13f0429385f5a45e7c1221b2.jpeg",
+    "title": "Овечкин пришел на фан-встречу любителей пива. Они ждали легенду семь недель",
+    "description": "Волшебная сила соцсетей.",
+    "fullText": "Волшебная сила соцсетей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/e8/75dfa8fde4f72b4eb546c6a86635b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3419763.html",
-    "time": "2026-07-09T12:55:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3419918.html",
+    "time": "2026-07-09T14:55:00.000Z"
   }
 ]
