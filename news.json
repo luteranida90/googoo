@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве и Подмосковье после 15:00 мск 10 июля начнется гроза",
-    "description": "За три часа может выпасть до 9 мм осадков",
-    "fullText": "За три часа может выпасть до 9 мм осадков",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Голикова: факторы риска болезней находят при профосмотрах у 23% россиян",
+    "description": "Вице-премьер РФ отметила, что важно работать как с молодым населением, так и с лицами предпенсионного и пенсионного возрастов",
+    "fullText": "Вице-премьер РФ отметила, что важно работать как с молодым населением, так и с лицами предпенсионного и пенсионного возрастов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250522/8246607.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27905111",
-    "time": "2026-07-10T08:03:16.000Z"
+    "url": "https://tass.ru/obschestvo/27906387",
+    "time": "2026-07-10T13:08:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Вытащит ли Ямаль своих в полуфинал? А Холанд?",
+    "description": "Кто блеснет в 1/4?",
+    "fullText": "Кто блеснет в 1/4?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/09/bf68f747a462c992aabb023d92742.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
+    "time": "2026-07-10T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сукин сын». Сенаторка из Парагвая и дальше оскорбляет Мбаппе – теперь прямо на заседании о ее же расизме",
-    "description": "А в стране сожгли его чучело.",
-    "fullText": "А в стране сожгли его чучело.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/ad/e741a6f2a4f0e9017df86ca3e1d6d.jpeg",
+    "title": "Пока это не ЧМ Ямаля. Но и не провал",
+    "description": "Даже с 1+0.",
+    "fullText": "Даже с 1+0.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/93/3887f6d2f435682f1eddb85052b5f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3420054.html",
-    "time": "2026-07-09T23:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3419942.html",
+    "time": "2026-07-10T10:23:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел саундтрек ремейка Gothic — он в том числе доступен в «Яндекс Музыке»",
-    "description": "Музыкой занимался Кай Розенкранц — композитор оригинальных игр.",
-    "fullText": "Музыкой занимался Кай Розенкранц — композитор оригинальных игр.",
-    "image": "https://leonardo.osnova.io/300eeac9-93be-5c86-9fd5-d05a48e5ff04/",
+    "title": "Amazon поделится подробностями о «Бегущем по лезвию 2099» на San Diego Comic-Con",
+    "description": "На выставке также появится Sony с панелью God of War Laufey.",
+    "fullText": "На выставке также появится Sony с панелью God of War Laufey.",
+    "image": "https://leonardo.osnova.io/95340ceb-e8fa-5e69-966e-c5beecc64b1d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/5166881-sauntrtek-remeyka-gothic-yandeks-muzika?from=rss",
-    "time": "2026-07-09T17:18:26.000Z"
+    "url": "https://dtf.ru/cinema/5175646-amazon-predstavit-begushhego-po-lezviyu-2099-na-san-diego-comic-con?from=rss",
+    "time": "2026-07-09T19:48:21.000Z"
   }
 ]
