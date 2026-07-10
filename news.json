@@ -1,46 +1,68 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Голикова: факторы риска болезней находят при профосмотрах у 23% россиян",
-    "description": "Вице-премьер РФ отметила, что важно работать как с молодым населением, так и с лицами предпенсионного и пенсионного возрастов",
-    "fullText": "Вице-премьер РФ отметила, что важно работать как с молодым населением, так и с лицами предпенсионного и пенсионного возрастов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250522/8246607.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/27906387",
-    "time": "2026-07-10T13:08:44.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Вытащит ли Ямаль своих в полуфинал? А Холанд?",
-    "description": "Кто блеснет в 1/4?",
-    "fullText": "Кто блеснет в 1/4?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/09/bf68f747a462c992aabb023d92742.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Испания с Ямалем vs Бельгия КДБ – за 1/2 финала ЧМ! Смотрим с Геничем в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Время блеснуть Ламину.",
+    "fullText": "Время блеснуть Ламину.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/8b/914460ba14b4482d5f65bbb3bedec.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
-    "time": "2026-07-10T11:30:00.000Z"
+    "url": "https://video.sports.ru/football/fifa-world-cup-2026/match/spain-vs-belgium/",
+    "time": "2026-07-10T19:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Умер болгарский космонавт-исследователь Александр Александров",
+    "description": "Ему было 74 года",
+    "fullText": "Ему было 74 года",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260710/9215087.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kosmos/27907125",
+    "time": "2026-07-10T18:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "Масштабный конкурс от ГОЛа",
+    "description": "Победителей объявим 10 августа.",
+    "fullText": "Победителей объявим 10 августа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-07-10T17:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пока это не ЧМ Ямаля. Но и не провал",
-    "description": "Даже с 1+0.",
-    "fullText": "Даже с 1+0.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/93/3887f6d2f435682f1eddb85052b5f.jpeg",
+    "title": "Официальную песню Испании на ЧМ-2026 написал обычный каталонский водопроводчик",
+    "description": "И она стала вирусной.",
+    "fullText": "И она стала вирусной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/58/f88d0fa354a318e2a93cdc3b42a92.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3419942.html",
-    "time": "2026-07-10T10:23:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3419945.html",
+    "time": "2026-07-10T15:38:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Назвать 30 легенд ЧМ просто? Только до того, как мы размоем фото 📸",
+    "description": "Великие.",
+    "fullText": "Великие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/da/c8623bc47411dbc2eed2cdc8c83e0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-07-10T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Amazon поделится подробностями о «Бегущем по лезвию 2099» на San Diego Comic-Con",
-    "description": "На выставке также появится Sony с панелью God of War Laufey.",
-    "fullText": "На выставке также появится Sony с панелью God of War Laufey.",
-    "image": "https://leonardo.osnova.io/95340ceb-e8fa-5e69-966e-c5beecc64b1d/",
+    "title": "Valve начала отображать пометку о совместимости игр со Steam Machine",
+    "description": "Она доступна в разделе со статусом верификации для Steam Deck.",
+    "fullText": "Она доступна в разделе со статусом верификации для Steam Deck.",
+    "image": "https://leonardo.osnova.io/73117f34-5a4b-5572-bbb6-7879cbba995f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5175646-amazon-predstavit-begushhego-po-lezviyu-2099-na-san-diego-comic-con?from=rss",
-    "time": "2026-07-09T19:48:21.000Z"
+    "url": "https://dtf.ru/hard/5176839-valve-dobavila-pometku-sovmestimosti-igr-dlya-steam-machine?from=rss",
+    "time": "2026-07-10T12:23:53.000Z"
   }
 ]
