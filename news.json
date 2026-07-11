@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Казани мужчина избил женщину в цветочном магазине",
-    "description": "Заведено уголовное дело",
-    "fullText": "Заведено уголовное дело",
+    "title": "Бастрыкин потребовал доклад по делу о нападении собаки на ребенка под Новгородом",
+    "description": "Мальчик получил укушенные раны руки и плеча",
+    "fullText": "Мальчик получил укушенные раны руки и плеча",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27908559",
-    "time": "2026-07-11T14:52:47.000Z"
+    "url": "https://tass.ru/proisshestviya/27908619",
+    "time": "2026-07-11T15:45:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "ГОЛевой конкурс!",
+    "description": "Участвуйте в розыгрыше.",
+    "fullText": "Участвуйте в розыгрыше.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-07-11T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ди Мария выбил Швейцарию с ЧМ 12 лет назад. А где он сейчас?",
-    "description": "Забивает в родном Росарио.",
-    "fullText": "Забивает в родном Росарио.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/86/83df30845401b94e6106c08d343b6.jpeg",
+    "title": "Что нужно знать о Линде Носковой – финалистке «Уимблдона»?",
+    "description": "Фанатка рестлинга.",
+    "fullText": "Фанатка рестлинга.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/98/e39951a4b4984a4924177c07ad6bd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3420416.html",
-    "time": "2026-07-11T12:00:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3420077.html",
+    "time": "2026-07-11T13:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кроссовер между китайской стратегической RPG Reverse: 1999 и Atomic Heart начнётся 23 июля",
-    "description": "Обновление будет одним из самых крупных для F2P-игры.",
-    "fullText": "Обновление будет одним из самых крупных для F2P-игры.",
-    "image": "https://leonardo.osnova.io/330f377e-cac2-503e-bcb1-c82d32726f48/",
+    "title": "The Blood of Dawnwalker набрала два миллиона добавлений в списки желаемого",
+    "description": "Около 500 тысяч пришлось на последний месяц.",
+    "fullText": "Около 500 тысяч пришлось на последний месяц.",
+    "image": "https://leonardo.osnova.io/ce8b1052-65e7-55ea-8054-9451c6daf4fe/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5177255-krossover-reverse-1999-i-atomic-heart?from=rss",
-    "time": "2026-07-10T16:20:07.000Z"
+    "url": "https://dtf.ru/games/5177102-the-blood-of-dawnwalker-dostiglo-dvukh-millionov-vishlistov?from=rss",
+    "time": "2026-07-10T15:01:10.000Z"
   }
 ]
