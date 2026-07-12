@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Гимнастка Ковшова стала второй на этапе Кубка мира в упражнении с лентой",
-    "description": "Мария Борисова показала восьмой результат",
-    "fullText": "Мария Борисова показала восьмой результат",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260712/9217111.jpg",
+    "title": "DHA: 28 туристов госпитализировали с симптомами пищевого отравления в Кушадасы",
+    "description": "По данным агентства, отравление могло произойти от употребления еды на шведском столе или воды, медицинские службы проводят расследование",
+    "fullText": "По данным агентства, отравление могло произойти от употребления еды на шведском столе или воды, медицинские службы проводят расследование",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27910179",
-    "time": "2026-07-12T16:13:21.000Z"
+    "url": "https://tass.ru/proisshestviya/27910313",
+    "time": "2026-07-12T18:44:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Помните феерический перформанс генерала Мбаппе в финале ЧМ-2022?",
+    "description": "Это неповторимо.",
+    "fullText": "Это неповторимо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/ab/35657dd4746e8b24544277d025417.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/mundialmomento/?utm_source=native",
+    "time": "2026-07-12T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +33,25 @@
     "time": "2026-07-12T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "После вылета с ЧМ про эту сборную шутят, что «ликер тренирует другой ликер»",
-    "description": "Слабо выступили.",
-    "fullText": "Слабо выступили.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/a0/d86d257704ad2a20ddf069f923853.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/world-cube/start?utm_source=native",
-    "time": "2026-07-12T13:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "100-летняя фанатка Месси – теперь на ЧМ. В прошлом году она хотела замуж за Лео",
-    "description": "Застала все чемпионаты мира!",
-    "fullText": "Застала все чемпионаты мира!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/2d/4f09152d0467f872b9b834cceca14.jpeg",
+    "title": "Рейтинг образов всех тренеров ЧМ-2026. От худшего к лучшему",
+    "description": "Серьезная аналитика.",
+    "fullText": "Серьезная аналитика.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f9/23703167345d5bf83cd7d586c1154.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3420659.html",
-    "time": "2026-07-12T12:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3417593.html",
+    "time": "2026-07-12T14:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "id Software о сокращениях: «У нас по-прежнему есть команда для создания игр»",
-    "description": "Сейчас её размер приблизился к тому, что был десять лет назад.",
-    "fullText": "Сейчас её размер приблизился к тому, что был десять лет назад.",
-    "image": "https://leonardo.osnova.io/42f47850-d262-5166-aeca-56d029d269be/",
+    "title": "Ubisoft о DLC первого дня в ремейке Black Flag: «Это полностью опциональные наборы, весь основной контент включён в базовое издание»",
+    "description": "Издатель прокомментировал одну из главных претензий фанатов.",
+    "fullText": "Издатель прокомментировал одну из главных претензий фанатов.",
+    "image": "https://leonardo.osnova.io/314628fa-3065-5c70-b36f-2ccc9be52039/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5177555-id-software-o-sokrashcheniyakh-i-budushchem-razrabotki-igr?from=rss",
-    "time": "2026-07-10T18:18:32.000Z"
+    "url": "https://dtf.ru/games/5177535-ubisoft-o-dlc-v-remeike-black-flag?from=rss",
+    "time": "2026-07-10T19:11:41.000Z"
   }
 ]
