@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "После атаки дрона ВСУ в Горловке в ДНР погиб мирный житель",
+    "description": "Глава администрации города Иван Приходько выразил соболезнования родным и близким убитого",
+    "fullText": "Глава администрации города Иван Приходько выразил соболезнования родным и близким убитого",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260713/9220209.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27913615",
+    "time": "2026-07-13T18:31:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Аргентину который год спасают судьи в плей-офф. Помните матч с Англией в 1986-м?",
+    "description": "Испытываем дежавю.",
+    "fullText": "Испытываем дежавю.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/af/16742c37d490891ac82ccfa69b90b.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/world-cube/start?utm_source=native",
+    "time": "2026-07-13T17:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Состоялся релиз дополнения Last Variable для The Alters",
     "description": "Также стало известно, что в 11 bit studios пройдут сокращения.",
@@ -9,17 +31,6 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5182560-reliz-dopolneniya-last-variable-dlya-the-alters?from=rss",
     "time": "2026-07-13T17:11:22.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РКН: объем рекламных бюджетов в интернете в 2025 году превысил 691 млрд рублей",
-    "description": "Согласно информации ведомства, за прошедший год в реестре было зафиксировано более 1,24 млн рекламодателей",
-    "fullText": "Согласно информации ведомства, за прошедший год в реестре было зафиксировано более 1,24 млн рекламодателей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/27913483",
-    "time": "2026-07-13T16:53:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,36 +44,14 @@
     "time": "2026-07-13T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Зенит» играет с «Махачкалой» Евсеева. Прямая трансляция на ВидеоСпортсе’’",
-    "description": "Сезон близко.",
-    "fullText": "Сезон близко.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/e5/024a3225a4f1ba3a4c6b0df953ea8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/stream/iuMCxR1ojgRMK-xpH5nqxG0tT5Iae2FZrVl9oQFrVKM",
-    "time": "2026-07-13T14:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто станет лучшим молодым игроком ЧМ? Два очевидных фаворита все решат в полуфинале",
-    "description": "Хотелось еще больше интриги.",
-    "fullText": "Хотелось еще больше интриги.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/34/de340e094417ba1b2ffcc8ba7e4b3.jpeg",
+    "title": "И что, зря я поверил в англичан? Итоги 1/4 финала ЧМ: блог фэнтези-чемпиона",
+    "description": "Как рискнуть в 1/2 финала?",
+    "fullText": "Как рискнуть в 1/2 финала?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/70/e115df4ea4fa2badf76b5e5e35d3c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3420594.html",
-    "time": "2026-07-13T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Игроки этого клуба чаще всех побеждали на ЧМ – аж 27 раз",
-    "description": "Кузница чемпионов.",
-    "fullText": "Кузница чемпионов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/ae/be6b221654322be3b9ec5ff3cc4ec.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/world-cube/start?utm_source=supertop",
-    "time": "2026-07-13T14:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3420897.html",
+    "time": "2026-07-13T15:10:00.000Z"
   }
 ]
