@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "The Times: решение об отмене дисквалификации Балогуна принимал один человек",
-    "description": "Это был глава дисциплинарного комитета Международной федерации футбола Мохаммад аль-Камали",
-    "fullText": "Это был глава дисциплинарного комитета Международной федерации футбола Мохаммад аль-Камали",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Дюков не считает лимит на легионеров проблемой российского футбола",
+    "description": "С сезона-2026/27 клубы РПЛ могут заявлять не более 12 иностранных игроков и выпускать на поле не более 7",
+    "fullText": "С сезона-2026/27 клубы РПЛ могут заявлять не более 12 иностранных игроков и выпускать на поле не более 7",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260713/9218323.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27910947",
-    "time": "2026-07-13T05:27:25.000Z"
+    "url": "https://tass.ru/sport/27911749",
+    "time": "2026-07-13T09:06:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Дженнифер Лопес, Локи, Человек-паук, Человек дождя – «Уимблдон» собрал селебрити на финал",
+    "description": "Сливки.",
+    "fullText": "Сливки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/13/4f1a16f714d40b2461ac2e135fe3b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3420823.html",
+    "time": "2026-07-12T23:13:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,25 +33,14 @@
     "time": "2026-07-12T21:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» забирает запасного «Челси». Аж 50 млн за Андрея Сантоса",
-    "description": "Другие варианты сорвались.",
-    "fullText": "Другие варианты сорвались.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/27/e7ca0f38744b5a2afc8ba3ab18d93.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3420365.html",
-    "time": "2026-07-12T18:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ubisoft о DLC первого дня в ремейке Black Flag: «Это полностью опциональные наборы, весь основной контент включён в базовое издание»",
-    "description": "Издатель прокомментировал одну из главных претензий фанатов.",
-    "fullText": "Издатель прокомментировал одну из главных претензий фанатов.",
-    "image": "https://leonardo.osnova.io/314628fa-3065-5c70-b36f-2ccc9be52039/",
+    "title": "The Verge: id Software приступила к работе над следующей DOOM",
+    "description": "Никаких новых IP.",
+    "fullText": "Никаких новых IP.",
+    "image": "https://leonardo.osnova.io/d67c577a-c0cd-5629-a334-30a62d4dfb7c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5177535-ubisoft-o-dlc-v-remeike-black-flag?from=rss",
-    "time": "2026-07-10T19:11:41.000Z"
+    "url": "https://dtf.ru/games/5178297-id-software-novaya-doom?from=rss",
+    "time": "2026-07-11T08:25:00.000Z"
   }
 ]
