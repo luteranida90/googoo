@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В порту Южный поразили объекты инфраструктуры логистического центра \"Мигтранса\"",
-    "description": "",
-    "fullText": "",
+    "title": "В Оренбуржье подросток погиб после падения с крыши грузового вагона",
+    "description": "Следователи устанавливают обстоятельства его гибели",
+    "fullText": "Следователи устанавливают обстоятельства его гибели",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27916213",
-    "time": "2026-07-14T11:57:49.000Z"
+    "url": "https://tass.ru/proisshestviya/27916625",
+    "time": "2026-07-14T14:00:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Стратегия The King is Watching от российских разработчиков выйдет на консолях 29 июля",
+    "description": "На ПК релиз состоялся в 2025-м, и игроки остались очень довольны.",
+    "fullText": "На ПК релиз состоялся в 2025-м, и игроки остались очень довольны.",
+    "image": "https://leonardo.osnova.io/eab44acf-8c44-54a2-b60b-68ed9e1be2f9/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5184168-strategiya-the-king-is-watching-ot-rossiiskih-razrabotchikov-vyidet-na-konsolyah-29-iyulya?from=rss",
+    "time": "2026-07-14T13:45:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9nb28uc3Uv",
+    "title": "Олисе в 1 ассисте от рекорда Пеле – догонит уже с Испанией? Можно взять за 3.2",
+    "description": "С фрибетом до 1500 рублей.",
+    "fullText": "С фрибетом до 1500 рублей.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/84/7587ed40448e2b4b46cd39f2b95a3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://goo.su/LEZzd",
+    "time": "2026-07-14T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +44,14 @@
     "time": "2026-07-14T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Диктатор Мбаппе на пути к третьему финалу ЧМ подряд – остановит ли его Испания?",
-    "description": "Угадайте события матча.",
-    "fullText": "Угадайте события матча.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/61/9392f9fa3497c9ce60c6d5d9cba8c.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/papa-bingo/start/?utm_source=native",
-    "time": "2026-07-14T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Леброн отыграл за «Лейкерс» восемь лет. Но стал ли он легендой клуба?",
-    "description": "Точно не в топ-5.",
-    "fullText": "Точно не в топ-5.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/19/f10dfa16b467eb4ce92cad9722d97.jpeg",
+    "title": "Гол в первую минуту и пенальти за руку: самые невероятные события полуфинала Франция – Испания",
+    "description": "Что же будет?",
+    "fullText": "Что же будет?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/5a/4beaed3374ade91d276ac886471a4.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3419389.html",
-    "time": "2026-07-14T09:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Новой Зеландии стартовали съёмки фильма «Властелин колец: Охота на Голлума»",
-    "description": "Некоторых героев омолодят с помощью ИИ.",
-    "fullText": "Некоторых героев омолодят с помощью ИИ.",
-    "image": "https://leonardo.osnova.io/97a3d326-3220-58c7-a860-d75391efc4fd/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5182693-syemki-vlastelin-kolets-ohota-na-golluma?from=rss",
-    "time": "2026-07-13T18:11:13.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3421033.html",
+    "time": "2026-07-14T10:25:00.000Z"
   }
 ]
