@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: умер участвовавший в расследованиях военных преступлений майор СБУ",
-    "description": "По информации российских силовиков, причиной смерти Дмитрия Дубового стали ранения",
-    "fullText": "По информации российских силовиков, причиной смерти Дмитрия Дубового стали ранения",
+    "title": "WP: на Ближнем Востоке находятся не менее 19 кораблей ВМС США",
+    "description": "По данным газеты, большая часть кораблей находится в северной части Аравийского моря",
+    "fullText": "По данным газеты, большая часть кораблей находится в северной части Аравийского моря",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27914287",
-    "time": "2026-07-14T03:36:55.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27915213",
+    "time": "2026-07-14T08:16:27.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9yZWRpcmVj",
-    "title": "ГОЛевой конкурс!",
-    "description": "Участвуйте в розыгрыше.",
-    "fullText": "Участвуйте в розыгрыше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Второй гол Ямаля или хет-трик Мбаппе? Кто вытащит свою сборную в финал?",
+    "description": "Выберите героя.",
+    "fullText": "Выберите героя.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/3e/600f1aa9646b6a8342e4871166f5d.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
-    "time": "2026-07-13T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Помните состав Франции из финала ЧМ-2022? Сейчас они в шаге",
-    "description": "Цель – золото.",
-    "fullText": "Цель – золото.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/bb/5d4adf2954bfea85405ec453d732f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
-    "time": "2026-07-13T19:30:00.000Z"
+    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
+    "time": "2026-07-14T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Паредес попросил Скалони выпустить защитника – тот прислушался. Так советуются в Аргентине",
-    "description": "Незамеченный эпизод из 1/4 финала.",
-    "fullText": "Незамеченный эпизод из 1/4 финала.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/d0/4ac01171e436e87a8db66cd429efa.jpeg",
+    "title": "Как Тухель вытащил из Англии такой характер",
+    "description": "Рассказывает Любовь Курчавова.",
+    "fullText": "Рассказывает Любовь Курчавова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/29/d9590e5ca4d40ac0833b23bc2877b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3420983.html",
-    "time": "2026-07-13T18:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3421041.html",
+    "time": "2026-07-13T22:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Появился трейлер False Echo — игры в духе Papers, Please про подлодку",
-    "description": "Её действие происходит в 1942 году, а в центре сюжета — Империя Опрессиан.",
-    "fullText": "Её действие происходит в 1942 году, а в центре сюжета — Империя Опрессиан.",
-    "image": "https://leonardo.osnova.io/5b100930-8058-5e83-9af4-6707645388bc/-/format/mp4/",
+    "title": "Halo: Campaign Evolved ушла «на золото»",
+    "description": "До релиза игры осталось две недели.",
+    "fullText": "До релиза игры осталось две недели.",
+    "image": "https://leonardo.osnova.io/001e656f-728e-5260-bd80-8fe9d33c0e10/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5182482-trejler-igry-false-echo-ot-retromagine-pro-podvodnuyu-lodku?from=rss",
-    "time": "2026-07-13T16:01:40.000Z"
+    "url": "https://dtf.ru/games/5182678-halo-campaign-evolved-gotova-k-relizu?from=rss",
+    "time": "2026-07-13T17:34:01.000Z"
   }
 ]
