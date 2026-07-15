@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Максимов: РФ создала систему мер ускорения по вводу отечественных технологий",
-    "description": "Доцент кафедры управления инновационной и промышленной политикой РЭУ им. Г.В. Плеханова указал, что для упрощения процедур внедрения разработок в производство были созданы и организационные механизмы",
-    "fullText": "Доцент кафедры управления инновационной и промышленной политикой РЭУ им. Г.В. Плеханова указал, что для упрощения процедур внедрения разработок в производство были созданы и организационные механизмы",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260715/9223615.jpg",
+    "title": "ЛДПР передала в Соцфонд программу из 80 предложений по поддержке пенсионеров",
+    "description": "Лидер партии Леонид Слуцкий отметил, что программа рассчитана на 2027-2032 годы",
+    "fullText": "Лидер партии Леонид Слуцкий отметил, что программа рассчитана на 2027-2032 годы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27918753",
-    "time": "2026-07-15T09:09:17.000Z"
+    "url": "https://tass.ru/obschestvo/27919175",
+    "time": "2026-07-15T11:02:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Месси снова приведет свою сборную к победе на ЧМ?",
+    "description": "Это реально?",
+    "fullText": "Это реально?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/66/b9f959140404ebee4309e04ddd019.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
+    "time": "2026-07-15T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Стычка Бекхэма с Симеоне в 98-м и еще 8 культовых моментов чемпионатов мира",
-    "description": "Собрали лучшее.",
-    "fullText": "Собрали лучшее.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/e4/6e48d08494cb5abb155e7a5b16bc2.png",
+    "title": "«А сможет ли Месси это дождливым вечером в Стоке?» Как появился легендарный мем",
+    "description": "«Они еще не видели полей в Росарио».",
+    "fullText": "«Они еще не видели полей в Росарио».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/ef/cdd3bd826460294ca93be3c8e6ef3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/wc-moments/?utm_source=native",
-    "time": "2026-07-15T07:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3421057.html",
+    "time": "2026-07-15T08:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Играем в Expedition 33: Clair Obscur в коопе с невестой",
-    "description": "Почти в режиме «Горячего стула». Получаем дичайшее удовольствие.",
-    "fullText": "Почти в режиме «Горячего стула». Получаем дичайшее удовольствие.",
-    "image": "https://leonardo.osnova.io/057b8af3-c37f-5b5e-8b5f-99553795f9d3/",
+    "title": "«Он жив — это самое главное»: трейлер детективного фильма «Шёпот за окном» с Адамом Скоттом и Робертом Де Ниро в главных ролях",
+    "description": "Триллер по одноимённому роману выйдет 28 августа.",
+    "fullText": "Триллер по одноимённому роману выйдет 28 августа.",
+    "image": "https://leonardo.osnova.io/2216a448-eebc-528b-82e7-a5622bcf1c71/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5184331-igraem-v-expedition-33-clair-obscur-v-koope-s-nevestoi?from=rss",
-    "time": "2026-07-14T16:08:55.000Z"
+    "url": "https://dtf.ru/cinema/5184585-on-zhiv-eto-samoe-glavnoe-treiler-detektivnogo-filma-shepot-za-oknom-s-adamom-skottom-i-robertom-de-niro-v-glavnyh-rolyah?from=rss",
+    "time": "2026-07-14T17:41:43.000Z"
   }
 ]
