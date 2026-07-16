@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ярославской области при атаке украинских БПЛА погиб человек",
-    "description": "Еще четверо пострадали",
-    "fullText": "Еще четверо пострадали",
+    "title": "В Днепропетровской области дезертир ВСУ открыл огонь по сотрудникам полиции",
+    "description": "Два сотрудника правоохранительных органов получили ранения",
+    "fullText": "Два сотрудника правоохранительных органов получили ранения",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27921745",
-    "time": "2026-07-16T06:00:23.000Z"
+    "url": "https://tass.ru/obschestvo/27922233",
+    "time": "2026-07-16T08:23:15.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "Скачивайте приложение и участвуйте в розыгрыше ГОЛа!",
+    "description": "Результаты 10 августа.",
+    "fullText": "Результаты 10 августа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-07-16T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Мальвинские острова – это Аргентина». Баннер-провокация от игроков Аргентины про Фолклендскую войну",
-    "description": "Лекция Юрия Истомина.",
-    "fullText": "Лекция Юрия Истомина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/74/b7247a7444edd9c4bd7730076ed07.jpeg",
+    "title": "«Сейчас никаких сожалений». Объяснительная Тухеля",
+    "description": "У вас на столе.",
+    "fullText": "У вас на столе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/b5/a0168dabf48d9917a0a7b3efbb044.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3421436.html",
-    "time": "2026-07-15T22:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3421717.html",
+    "time": "2026-07-15T23:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Почему меч висит на заднице?»: игроки пытаются разобраться в необычном расположении ножен в The Blood of Dawnwalker",
-    "description": "Разработчики отмалчиваются.",
-    "fullText": "Разработчики отмалчиваются.",
-    "image": "https://leonardo.osnova.io/3fe73e95-3753-5ef1-a7bf-ffbecbf78b56/",
+    "title": "Avatar: Frontiers of Pandora, Rise of the Ronin, Dying Light и Citizen Sleeper 2 добавят в расширенную PS Plus",
+    "description": "Другие игры тоже будут.",
+    "fullText": "Другие игры тоже будут.",
+    "image": "https://leonardo.osnova.io/e6aae079-317a-53ee-b426-5b4078741ed4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5185751-pochemu-mech-visit-na-zadnice-igroki-pytayutsya-razobratsya-v-neobychnom-raspolozhenii-nozhen-v-the-blood-of-dawnwalker?from=rss",
-    "time": "2026-07-15T12:08:31.000Z"
+    "url": "https://dtf.ru/games/5186226-avatar-frontiers-of-pandora-igry-v-ps-plus?from=rss",
+    "time": "2026-07-15T15:38:16.000Z"
   }
 ]
