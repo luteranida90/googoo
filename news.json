@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Умер семикратный чемпион Европы по боксу испанец Легра",
-    "description": "Ему было 83 года",
-    "fullText": "Ему было 83 года",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260716/9227425.jpg",
+    "title": "Хуснуллин: трассу \"М-12\" до Тюмени планируют открыть в декабре",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250731/8374585.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27922943",
-    "time": "2026-07-16T10:42:32.000Z"
+    "url": "https://tass.ru/ekonomika/27923249",
+    "time": "2026-07-16T12:08:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Аура Ямаля или величие Месси – что перевесит?",
+    "description": "Первый и последний танец.",
+    "fullText": "Первый и последний танец.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e1/7688b4f304000b3f092f72cc6a1eb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
+    "time": "2026-07-16T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +33,25 @@
     "time": "2026-07-16T10:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9yZWRpcmVj",
-    "title": "Скачивайте приложение и участвуйте в розыгрыше ГОЛа!",
-    "description": "Результаты 10 августа.",
-    "fullText": "Результаты 10 августа.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
-    "time": "2026-07-16T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Велогонщики – сверхлюди. Как они выдерживают безумные нагрузки во время «Тур де Франс»?",
-    "description": "В день проезжают до 200 км.",
-    "fullText": "В день проезжают до 200 км.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ee/6905d583e424a9090d9c7141dc267.png",
+    "title": "Формула камбэка Аргентины: гений Месси и точность Скалони",
+    "description": "С большим спасибо автобусу Тухеля.",
+    "fullText": "С большим спасибо автобусу Тухеля.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/8a/270db60a14125ab7a6901a4d3c01b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/special/tour-de-france/?utm_source=native",
-    "time": "2026-07-16T04:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3421708.html",
+    "time": "2026-07-16T08:39:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кооперативный экшен The Mound: Omen of Cthulhu вышел на ПК и консолях",
-    "description": "В Steam стоимость игры составила 1999 рублей.",
-    "fullText": "В Steam стоимость игры составила 1999 рублей.",
-    "image": "https://leonardo.osnova.io/65aae045-9253-5a5e-9723-f8c22ed8e51b/-/format/mp4/",
+    "title": "Британец в Шанхае: подробности о Whore of the Orient, отменённой «духовной наследнице» L.A. Noire",
+    "description": "Идеи разработчиков были амбициозными — главный герой мог бы учить язык, чтобы взаимодействовать с большим количеством персонажей, и выбивать показания из подозреваемых.",
+    "fullText": "Идеи разработчиков были амбициозными — главный герой мог бы учить язык, чтобы взаимодействовать с большим количеством персонажей, и выбивать показания из подозреваемых.",
+    "image": "https://leonardo.osnova.io/c2d3e8b9-0c76-5b20-97e0-8422fe87cea2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5186140-kooperativnyy-ekshen-the-mound-omen-of-cthulhu?from=rss",
-    "time": "2026-07-15T15:48:19.000Z"
+    "url": "https://dtf.ru/games/5186336-whore-of-the-orient-otmenennaya-igra?from=rss",
+    "time": "2026-07-15T18:00:23.000Z"
   }
 ]
