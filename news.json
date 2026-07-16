@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Днепропетровской области дезертир ВСУ открыл огонь по сотрудникам полиции",
-    "description": "Два сотрудника правоохранительных органов получили ранения",
-    "fullText": "Два сотрудника правоохранительных органов получили ранения",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Умер семикратный чемпион Европы по боксу испанец Легра",
+    "description": "Ему было 83 года",
+    "fullText": "Ему было 83 года",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260716/9227425.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27922233",
-    "time": "2026-07-16T08:23:15.000Z"
+    "url": "https://tass.ru/sport/27922943",
+    "time": "2026-07-16T10:42:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Месси против Ямаля – мы увидим идеальный финал ЧМ",
+    "description": "«Сценарий согласован сверху».",
+    "fullText": "«Сценарий согласован сверху».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/e4/dc2577652495db2edc6cc3b0af2c7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/Bnmu6k2W3AdFh2APGGmFuTacuzfTIEqLUhiQzm66peM",
+    "time": "2026-07-16T10:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Сейчас никаких сожалений». Объяснительная Тухеля",
-    "description": "У вас на столе.",
-    "fullText": "У вас на столе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/b5/a0168dabf48d9917a0a7b3efbb044.jpeg",
+    "title": "Велогонщики – сверхлюди. Как они выдерживают безумные нагрузки во время «Тур де Франс»?",
+    "description": "В день проезжают до 200 км.",
+    "fullText": "В день проезжают до 200 км.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ee/6905d583e424a9090d9c7141dc267.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3421717.html",
-    "time": "2026-07-15T23:06:00.000Z"
+    "url": "https://www.sports.ru/special/tour-de-france/?utm_source=native",
+    "time": "2026-07-16T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Avatar: Frontiers of Pandora, Rise of the Ronin, Dying Light и Citizen Sleeper 2 добавят в расширенную PS Plus",
-    "description": "Другие игры тоже будут.",
-    "fullText": "Другие игры тоже будут.",
-    "image": "https://leonardo.osnova.io/e6aae079-317a-53ee-b426-5b4078741ed4/",
+    "title": "Кооперативный экшен The Mound: Omen of Cthulhu вышел на ПК и консолях",
+    "description": "В Steam стоимость игры составила 1999 рублей.",
+    "fullText": "В Steam стоимость игры составила 1999 рублей.",
+    "image": "https://leonardo.osnova.io/65aae045-9253-5a5e-9723-f8c22ed8e51b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5186226-avatar-frontiers-of-pandora-igry-v-ps-plus?from=rss",
-    "time": "2026-07-15T15:38:16.000Z"
+    "url": "https://dtf.ru/games/5186140-kooperativnyy-ekshen-the-mound-omen-of-cthulhu?from=rss",
+    "time": "2026-07-15T15:48:19.000Z"
   }
 ]
