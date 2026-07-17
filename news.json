@@ -1,18 +1,40 @@
 [
   {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Финалиссима на чемпионате мира: шансы равны?",
+    "description": "Выбираем победителя.",
+    "fullText": "Выбираем победителя.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/9c/8f50b911e49b6baa2b64fa12f85dd.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/picker/world-cup/?utm_source=native",
+    "time": "2026-07-17T17:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Яндекс\" опроверг заявления об использовании китайской ИИ-модели",
-    "description": "В компании отметили, что сохраняют полный цикл разработки и не зависят от внешних решений",
-    "fullText": "В компании отметили, что сохраняют полный цикл разработки и не зависят от внешних решений",
+    "title": "Kathimerini: Киев требует от Афин передать ему ЗРК Patriot и до 200 ракет PAC-2",
+    "description": "По данным газеты, Греция находятся под новым давлением со стороны партнеров по НАТО и ЕС с требованием предоставить Украине часть батарей из шести зенитно-ракетных комплексов",
+    "fullText": "По данным газеты, Греция находятся под новым давлением со стороны партнеров по НАТО и ЕС с требованием предоставить Украине часть батарей из шести зенитно-ракетных комплексов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27927519",
-    "time": "2026-07-17T14:40:01.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27928025",
+    "time": "2026-07-17T17:17:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Симуляция финала ЧМ-2026 в FC 26. Месси победит Ямаля?",
+    "description": "Игра будет ровной.",
+    "fullText": "Игра будет ровной.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/bc/467d715954cf082109a8282764ad4.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3422226.html",
+    "time": "2026-07-17T16:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Незабитый пенальти – вы же помните главный в финалах ЧМ?",
+    "title": "Вы же помните главный незабитый пенальти в финалах ЧМ?",
     "description": "Фатальная ошибка.",
     "fullText": "Фатальная ошибка.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/f/3b/fa4e6501040c99a56085c1c440ef8.png",
@@ -23,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самые грандиозные личные драмы в истории ЧМ",
-    "description": "Зидан, Баджо, Гаскойн.",
-    "fullText": "Зидан, Баджо, Гаскойн.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/a6/d6e2cd2f145e2ba281e5dc8c5befa.png",
+    "title": "А теперь действительно важное: «Акрон» подписал Железнова",
+    "description": "Заметные трансферы в РПЛ.",
+    "fullText": "Заметные трансферы в РПЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7c/ce7f3a0834f268dff2441478dc7ad.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3411716.html",
-    "time": "2026-07-17T11:12:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3422179.html",
+    "time": "2026-07-17T13:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Когда прошлое уйдёт, то останется только ярость»: кинематографический трейлер Marvel&#039;s Wolverine",
-    "description": "Релиз — 15 сентября.",
-    "fullText": "Релиз — 15 сентября.",
-    "image": "https://leonardo.osnova.io/b1eb50cc-2b15-57e3-b487-1e134361e4f9/-/format/mp4/",
+    "title": "EA о внутриигровой рекламе настоящих брендов и товаров: «Она должна иметь смысл»",
+    "description": "В компании считают, что думать о способе её интеграции нужно уже в начале разработки.",
+    "fullText": "В компании считают, что думать о способе её интеграции нужно уже в начале разработки.",
+    "image": "https://leonardo.osnova.io/b7aadb20-b799-515f-9072-5fc5ea61992d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5188512-treyler-marvels-wolverine-rosomakha-i-borba-s-proshlym?from=rss",
-    "time": "2026-07-16T19:18:57.000Z"
+    "url": "https://dtf.ru/gameindustry/5189358-ea-o-reklame-brendov-v-igrah?from=rss",
+    "time": "2026-07-17T09:32:55.000Z"
   }
 ]
