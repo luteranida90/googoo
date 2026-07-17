@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Серпухове потушили открытое горение в швейном цехе",
+    "description": "Об этом сообщили в МЧС РФ",
+    "fullText": "Об этом сообщили в МЧС РФ",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27928275",
+    "time": "2026-07-17T19:34:56.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "Конкурс от ГОЛа продолжается – скачивайте приложение и подключайтесь к розыгрышу",
+    "description": "Итоги 10 августа.",
+    "fullText": "Итоги 10 августа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-07-17T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Финалиссима на чемпионате мира: шансы равны?",
     "description": "Выбираем победителя.",
@@ -11,15 +33,15 @@
     "time": "2026-07-17T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Kathimerini: Киев требует от Афин передать ему ЗРК Patriot и до 200 ракет PAC-2",
-    "description": "По данным газеты, Греция находятся под новым давлением со стороны партнеров по НАТО и ЕС с требованием предоставить Украине часть батарей из шести зенитно-ракетных комплексов",
-    "fullText": "По данным газеты, Греция находятся под новым давлением со стороны партнеров по НАТО и ЕС с требованием предоставить Украине часть батарей из шести зенитно-ракетных комплексов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Привыкнуть к проявлениям расизма невозможно». Наш яркий бегун – синтез Якутии и Африки",
+    "description": "Поговорили с Артуром Бурцевым.",
+    "fullText": "Поговорили с Артуром Бурцевым.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/1c/357ad426c452da0602269f787be35.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27928025",
-    "time": "2026-07-17T17:17:41.000Z"
+    "url": "https://www.sports.ru/athletics/blogs/3421671.html",
+    "time": "2026-07-17T16:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,36 +55,14 @@
     "time": "2026-07-17T16:20:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Вы же помните главный незабитый пенальти в финалах ЧМ?",
-    "description": "Фатальная ошибка.",
-    "fullText": "Фатальная ошибка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/3b/fa4e6501040c99a56085c1c440ef8.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/world-cube/start?utm_source=supertop",
-    "time": "2026-07-17T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А теперь действительно важное: «Акрон» подписал Железнова",
-    "description": "Заметные трансферы в РПЛ.",
-    "fullText": "Заметные трансферы в РПЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7c/ce7f3a0834f268dff2441478dc7ad.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3422179.html",
-    "time": "2026-07-17T13:05:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "EA о внутриигровой рекламе настоящих брендов и товаров: «Она должна иметь смысл»",
-    "description": "В компании считают, что думать о способе её интеграции нужно уже в начале разработки.",
-    "fullText": "В компании считают, что думать о способе её интеграции нужно уже в начале разработки.",
-    "image": "https://leonardo.osnova.io/b7aadb20-b799-515f-9072-5fc5ea61992d/",
+    "title": "Геймдиректор перезапуска DOOM заявил, что The Dark Ages стала «коммерчески успешной» игрой, и это «поможет уволенным сотрудникам»",
+    "description": "Пока не помогло.",
+    "fullText": "Пока не помогло.",
+    "image": "https://leonardo.osnova.io/33e5edfb-f6ec-5c6b-b142-cf111f4853ae/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5189358-ea-o-reklame-brendov-v-igrah?from=rss",
-    "time": "2026-07-17T09:32:55.000Z"
+    "url": "https://dtf.ru/gameindustry/5189835-geymdirektor-doom-o-the-dark-ages-uspekh-i-sokrashcheniya-v-studii?from=rss",
+    "time": "2026-07-17T12:54:53.000Z"
   }
 ]
