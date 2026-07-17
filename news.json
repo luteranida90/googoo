@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На экс-директора модельного агентства Elite подали в суд за изнасилование",
-    "description": "Жеральда Мари также обвиняют в торговле людьми",
-    "fullText": "Жеральда Мари также обвиняют в торговле людьми",
+    "title": "В Абхазии планируют создать представительство креативных агентств РФ",
+    "description": "Абхазский министр культуры Даур Кове уточнил, что первоочередным совместным проектом может стать законодательная основа для реализации парка креативных индустрий в республике",
+    "fullText": "Абхазский министр культуры Даур Кове уточнил, что первоочередным совместным проектом может стать законодательная основа для реализации парка креативных индустрий в республике",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27926635",
-    "time": "2026-07-17T11:39:33.000Z"
+    "url": "https://tass.ru/ekonomika/27927025",
+    "time": "2026-07-17T13:08:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что общего у «Формулы-1» и спа-процедур? Откуда взялось название великого автодрома",
+    "description": "Терапевтическое место.",
+    "fullText": "Терапевтическое место.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/6a/19911eb08410686b6b22ca9389788.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3421806.html",
+    "time": "2026-07-17T09:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,25 +33,14 @@
     "time": "2026-07-17T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто лучший на этом ЧМ: Черданцев, Генич или, может, Жичкин?",
-    "description": "Волнующий ответ внутри.",
-    "fullText": "Волнующий ответ внутри.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a9/10940db8b4f138d648745c5cc3a37.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3421916.html",
-    "time": "2026-07-17T08:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel Comics впервые в своей истории переедет из Нью-Йорка",
-    "description": "У издательства также сменился главный редактор.",
-    "fullText": "У издательства также сменился главный редактор.",
-    "image": "https://leonardo.osnova.io/58fcc197-7bef-5c81-b173-f08f64968980/",
+    "title": "В Marathon появится полноценный PvE-режим",
+    "description": "Его добавят в третьем сезоне.",
+    "fullText": "Его добавят в третьем сезоне.",
+    "image": "https://leonardo.osnova.io/f86f49ab-b29e-5ca9-a7dc-0e082fa1a8a9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/read/5188444-marvel-comics-pereezzhaet-iz-nyu-yorka-v-berbank?from=rss",
-    "time": "2026-07-16T18:59:39.000Z"
+    "url": "https://dtf.ru/games/5188310-poulnoczenniy-pve-rezhim-v-marathon?from=rss",
+    "time": "2026-07-16T17:52:36.000Z"
   }
 ]
