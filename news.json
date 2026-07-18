@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Угадайте яркие события финала и выиграйте годовой запас пиццы от Папа Джонс",
+    "description": "В нашем бинго.",
+    "fullText": "В нашем бинго.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/4e/23dc6bf7d45d78591a4a5d5371bc4.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/papa-bingo/start/?utm_source=native",
+    "time": "2026-07-18T13:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Роджер Уотерс призвал Запад сотрудничать с Россией",
+    "description": "Сооснователь Pink Floyd отметил, что РФ не собирается нападать на Европу",
+    "fullText": "Сооснователь Pink Floyd отметил, что РФ не собирается нападать на Европу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27929783",
+    "time": "2026-07-18T13:09:16.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Фильтры по тегам, короткие посты и реакции",
     "description": "Попробуйте обновленную «Мою ленту».",
@@ -11,15 +33,15 @@
     "time": "2026-07-18T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Минске считают неоправданным раздувание темы трудовой миграции в Белоруссию",
-    "description": "Глава администрации белорусского президента Дмитрий Крутой назвал это \"горячим хайпом\" для беглой оппозиции",
-    "fullText": "Глава администрации белорусского президента Дмитрий Крутой назвал это \"горячим хайпом\" для беглой оппозиции",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Рейтинг французов в РПЛ: кто посмел обойти Рами?",
+    "description": "Легендарный список.",
+    "fullText": "Легендарный список.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/f4/e3517f7984ea7a58dbd91d3c31a41.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27929615",
-    "time": "2026-07-18T11:22:19.000Z"
+    "url": "https://www.sports.ru/football/blogs/3422434.html",
+    "time": "2026-07-18T09:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -33,25 +55,14 @@
     "time": "2026-07-18T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как «Зенит» и «Спартак» подходят к Суперкубку? Тактическое превью",
-    "description": "От Васильева и Савина.",
-    "fullText": "От Васильева и Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/1f/b6cbe69f845929756f237d011c921.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3422245.html",
-    "time": "2026-07-18T08:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Геймдиректор Marathon Джо Зиглер сообщил об уходе из Bungie",
-    "description": "Он пока не раскрывает, чем займётся дальше.",
-    "fullText": "Он пока не раскрывает, чем займётся дальше.",
-    "image": "https://leonardo.osnova.io/2610aebf-0c68-5d6e-9363-3eba1a2984a6/",
+    "title": "«Одиссея» Кристофера Нолана собрала 17,6 миллиона долларов на предпоказах в США — это лучший показатель 2026 года",
+    "description": "Первые зрители с Rotten Tomatoes оказались в восторге от картины.",
+    "fullText": "Первые зрители с Rotten Tomatoes оказались в восторге от картины.",
+    "image": "https://leonardo.osnova.io/ddd0b6eb-2f8c-5850-849a-f826e3534adb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5190458-dzho-zigler-pokinul-bungie?from=rss",
-    "time": "2026-07-17T17:36:31.000Z"
+    "url": "https://dtf.ru/cinema/5190202-odisseya-kristofe-ra-nolana-sobrala-rekordnye-dengi?from=rss",
+    "time": "2026-07-17T15:31:53.000Z"
   }
 ]
