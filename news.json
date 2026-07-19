@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В урочище Джилы-Су в Кабардино-Балкарии погибла туристка",
-    "description": "Она упала с обрыва",
-    "fullText": "Она упала с обрыва",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260719/9233349.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27931233",
-    "time": "2026-07-19T12:24:10.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Аура Ямаля или величие Месси – что перевесит?",
-    "description": "Первый и последний танец.",
-    "fullText": "Первый и последний танец.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e1/7688b4f304000b3f092f72cc6a1eb.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Пять причин, почему в финале ЧМ победит Испания. И пять причин за Аргентину",
+    "description": "Чьи аргументы сильнее?",
+    "fullText": "Чьи аргументы сильнее?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/58/9cc1d59444ef882daa9218afc2173.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/world-cup/?utm_source=native",
-    "time": "2026-07-19T11:30:00.000Z"
+    "url": "https://video.sports.ru/video/_ZW44GQ6LA2dhzXDr5TCWLSdIE5xA-QwcawhELVHKz0",
+    "time": "2026-07-19T14:15:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "ВС РФ уничтожили в Холмах Черниговской области электрическую подстанцию",
+    "description": "Атака велась БПЛА \"Герань-4 сикер\"",
+    "fullText": "Атака велась БПЛА \"Герань-4 сикер\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/27931315",
+    "time": "2026-07-19T13:43:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9nb28uc3Uv",
+    "title": "Испания против Аргентины, Ямаль против Месси. Решайте, кто заберет трофей",
+    "description": "С фрибетом до 1500 рублей от БЕТСИТИ.",
+    "fullText": "С фрибетом до 1500 рублей от БЕТСИТИ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/59/cf428c0c247d9bcf3d29cc0e0a698.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://goo.su/LEZzd",
+    "time": "2026-07-19T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В ФИФА решают люди из Вануату, Теркса и Кайкоса. Откуда они там?",
-    "description": "Разбор Игоря Сергеева.",
-    "fullText": "Разбор Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/14/530db04944ebea149117710be9d5a.jpeg",
+    "title": "Как Испании справиться с Месси, а Аргентине – с Испанией? Превью финала ЧМ-2026",
+    "description": "От Лукомского, Палагина и Бокова.",
+    "fullText": "От Лукомского, Палагина и Бокова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e4/beec153a9472190e2c93cc0de0fcc.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3422634.html",
-    "time": "2026-07-19T09:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3421901.html",
+    "time": "2026-07-19T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bethesda объявила о работе над Fallout 5, а также ремастерами Fallout 3 и New Vegas",
-    "description": "А Obsidian действительно занимается новым спин-оффом франшизы.",
-    "fullText": "А Obsidian действительно занимается новым спин-оффом франшизы.",
-    "image": "https://leonardo.osnova.io/c4bc42ae-1a66-5858-9cc0-c234477f05be/",
+    "title": "Сотрудничество с Obsidian, увольнения в Bethesda и мысли о завершении карьеры — главное из интервью Тодда Говарда",
+    "description": "Поговорить с геймдизайнером в том числе удалось Джейсону Шрайеру — впервые за 15 лет.",
+    "fullText": "Поговорить с геймдизайнером в том числе удалось Джейсону Шрайеру — впервые за 15 лет.",
+    "image": "https://leonardo.osnova.io/1feda220-e534-52b5-a3e1-474aab3b57b9/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5190036-bethesda-anonsirovala-razrabotku-fallout-5?from=rss",
-    "time": "2026-07-17T14:04:56.000Z"
+    "url": "https://dtf.ru/gameindustry/5190198-sotrudnichestvo-bethesda-i-obsidian?from=rss",
+    "time": "2026-07-17T16:42:44.000Z"
   }
 ]
