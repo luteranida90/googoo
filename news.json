@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Курской области при ударе ВСУ пострадал мужчина",
+    "description": "У него множественные слепые осколочные ранения",
+    "fullText": "У него множественные слепые осколочные ранения",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27931515",
+    "time": "2026-07-19T16:20:11.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Испания рвется к золоту, Аргентина защищает титул – ставьте на матч с фрибетом",
     "description": "4х2000 от Лиги Ставок.",
@@ -11,15 +22,15 @@
     "time": "2026-07-19T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин вновь отметил помощь военных КНДР в СВО",
-    "description": "Президент РФ подчеркнул, что подвиги военных этого государства никогда не будут забыты",
-    "fullText": "Президент РФ подчеркнул, что подвиги военных этого государства никогда не будут забыты",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260719/9233553.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Аргентина идет защищать титул ЧМ. Такое удавалось только двум сборным",
+    "description": "Сделают то, что не получилось у Франции?",
+    "fullText": "Сделают то, что не получилось у Франции?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a4/3fbfc70034761907f31de06b63a39.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/politika/27931411",
-    "time": "2026-07-19T15:13:50.000Z"
+    "url": "https://www.sports.ru/football/blogs/3422950.html",
+    "time": "2026-07-19T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,36 +44,14 @@
     "time": "2026-07-19T14:15:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9nb28uc3Uv",
-    "title": "Испания против Аргентины, Ямаль против Месси. Решайте, кто заберет трофей",
-    "description": "С фрибетом до 1500 рублей от БЕТСИТИ.",
-    "fullText": "С фрибетом до 1500 рублей от БЕТСИТИ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/59/cf428c0c247d9bcf3d29cc0e0a698.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://goo.su/LEZzd",
-    "time": "2026-07-19T13:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "10 фактов о стадионе финала ЧМ: там со сборной прощались Месси и Пеле, а еще зажигал Трамп",
-    "description": "Важный для легенд.",
-    "fullText": "Важный для легенд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/6a/7a819d28b456e843e41cd743bec84.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3422882.html",
-    "time": "2026-07-19T13:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сотрудничество с Obsidian, увольнения в Bethesda и мысли о завершении карьеры — главное из интервью Тодда Говарда",
-    "description": "Поговорить с геймдизайнером в том числе удалось Джейсону Шрайеру — впервые за 15 лет.",
-    "fullText": "Поговорить с геймдизайнером в том числе удалось Джейсону Шрайеру — впервые за 15 лет.",
-    "image": "https://leonardo.osnova.io/1feda220-e534-52b5-a3e1-474aab3b57b9/",
+    "title": "В Battlefield 6 пройдёт кроссовер с «Топ Ганом»",
+    "description": "Ивент, вдохновлённый режимом «Захват авианосца» из BF4, стартует 18 августа.",
+    "fullText": "Ивент, вдохновлённый режимом «Захват авианосца» из BF4, стартует 18 августа.",
+    "image": "https://leonardo.osnova.io/2a9d28ce-ef82-5f50-a36c-6e6916b0fb18/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5190198-sotrudnichestvo-bethesda-i-obsidian?from=rss",
-    "time": "2026-07-17T16:42:44.000Z"
+    "url": "https://dtf.ru/games/5190439-krossover-battlefield-6-i-top-gan?from=rss",
+    "time": "2026-07-17T19:11:03.000Z"
   }
 ]
