@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Новак: во многих регионах уже снимаются топливные ограничения",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250130/8036487.jpg",
+    "title": "Сальдо анонсировал создание штаба по вопросам топлива в Херсонской области",
+    "description": "Ведомство также займется решением проблем с энергетикой, транспортом и водоснабжением",
+    "fullText": "Ведомство также займется решением проблем с энергетикой, транспортом и водоснабжением",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27937103",
-    "time": "2026-07-21T10:20:40.000Z"
+    "url": "https://tass.ru/obschestvo/27937839",
+    "time": "2026-07-21T14:11:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Зенит навсегда» – фильм о столетней истории клуба. Смотрите в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Масштабный проект.",
+    "fullText": "Масштабный проект.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/9d/101fa841f4ba3b6374552bc6e7c11.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/film/zenit-navsegda",
+    "time": "2026-07-21T13:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Петросян ушла от Тутберидзе. Разрыв после неудачи на Олимпиаде",
-    "description": "Пропустит сезон или...?",
-    "fullText": "Пропустит сезон или...?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/d3/a737c1d16438eae31ba64ea5a31dd.jpeg",
+    "title": "Передаю титул фэнтези-чемпиона. Итоги ЧМ с 8634-го места",
+    "description": "От победителя Катара-2022.",
+    "fullText": "От победителя Катара-2022.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f4/f1f3dc3074fda942159d4f626d3de.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3423413.html",
-    "time": "2026-07-21T05:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3423443.html",
+    "time": "2026-07-21T10:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ранний доступ к бете Call of Duty: Modern Warfare 4 стартует 21 августа",
-    "description": "А открытое тестирование для всех игроков — 28 августа.",
-    "fullText": "А открытое тестирование для всех игроков — 28 августа.",
-    "image": "https://leonardo.osnova.io/54d4e38b-d7e9-52ae-8764-6b69add17759/",
+    "title": "Circana: в США только семь игр 2026 года продались на PlayStation физическим тиражом выше 100 тысяч копий",
+    "description": "Несмотря на кампанию против Sony, данные явно не в пользу дисков.",
+    "fullText": "Несмотря на кампанию против Sony, данные явно не в пользу дисков.",
+    "image": "https://leonardo.osnova.io/f136effe-6af3-52eb-aced-dfa2ce03b5e4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5195836-rannij-dostup-k-bete-call-of-duty-modern-warfare-4?from=rss",
-    "time": "2026-07-20T18:17:36.000Z"
+    "url": "https://dtf.ru/gameindustry/5196528-circana-prodazhi-igr-na-playstation-ssha-otkaz-soni-ot-diskov?from=rss",
+    "time": "2026-07-21T07:12:54.000Z"
   }
 ]
