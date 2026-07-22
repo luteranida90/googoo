@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ефрейтор Дашиев вывел мотогруппу из-под огня ВСУ",
-    "description": "Военный также поразил беспилотник противника во время разгрузки боеприпасов",
-    "fullText": "Военный также поразил беспилотник противника во время разгрузки боеприпасов",
+    "title": "США начали очередную серию ударов по Ирану",
+    "description": "Центральное командование ВС Соединенных Штатов утверждает, что атакует военные цели республики",
+    "fullText": "Центральное командование ВС Соединенных Штатов утверждает, что атакует военные цели республики",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/27942569",
-    "time": "2026-07-22T21:01:38.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27942653",
+    "time": "2026-07-22T22:06:57.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,17 +22,6 @@
     "time": "2026-07-22T20:01:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вышел Shift at Midnight — детективный хоррор с кооперативом, в котором игрокам нужно найти чудовище среди клиентов АЗС",
-    "description": "Кроме поимки монстра, нужно заниматься и рутинными делами.",
-    "fullText": "Кроме поимки монстра, нужно заниматься и рутинными делами.",
-    "image": "https://leonardo.osnova.io/12b82111-e541-5b75-88d7-e2874f372c3a/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5197278-shift-at-midnight-kooperativnyy-horror-o-poiske-chudovishcha-na-azs?from=rss",
-    "time": "2026-07-22T16:02:29.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
     "title": "Сезон НХЛ глазами Михаила Сергачева: первый плей-офф с «Ютой» и почему кубок взяла «Каролина»",
     "description": "Новый пост в блоге!",
@@ -44,14 +33,14 @@
     "time": "2026-07-22T15:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Фильтры по тегам, короткие посты и реакции",
-    "description": "Попробуйте обновленную «Мою ленту».",
-    "fullText": "Попробуйте обновленную «Мою ленту».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/kxSXwi",
-    "time": "2026-07-22T15:30:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Состоялся цифровой релиз фильма «Властелины Вселенной»",
+    "description": "Картина неудачно выступила в прокате.",
+    "fullText": "Картина неудачно выступила в прокате.",
+    "image": "https://leonardo.osnova.io/a9fd13d2-7d5d-5b84-bfa0-c5eaa6472972/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5198924-tsifrovoy-reliz-filma-vlasteliny-vselennoy?from=rss",
+    "time": "2026-07-22T12:47:14.000Z"
   }
 ]
