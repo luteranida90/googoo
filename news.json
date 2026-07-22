@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пожар на складе в Краснодаре планируют ликвидировать до конца суток",
-    "description": "",
-    "fullText": "",
+    "title": "Уровень доверия украинцев к Сырскому обвалился за неделю",
+    "description": "Меньше, чем ему, доверяют только бывшему президенту Украины Петру Порошенко - его поддержали 21% опрошенных",
+    "fullText": "Меньше, чем ему, доверяют только бывшему президенту Украины Петру Порошенко - его поддержали 21% опрошенных",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27941293",
-    "time": "2026-07-22T11:37:18.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27941579",
+    "time": "2026-07-22T13:23:28.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Подкаст легенд: Бекхэм, Зидан и Златан говорят о лучших моментах карьеры и великих соперниках – в русской озвучке",
+    "description": "Уникальная встреча.",
+    "fullText": "Уникальная встреча.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ff/517b9ab70418eb9c33fd681cecdc3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/_FC25u2i0JtkY9wzj3Z8kyqb5r5WPHhFcX8g5Gkwyq8",
+    "time": "2026-07-22T12:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "До перехода в «Динамо» этот футболист успел поиграть с Ройсом и Исаком",
-    "description": "Топовые одноклубники.",
-    "fullText": "Топовые одноклубники.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/19/acdb5393d4f529aa37f29233988e4.png",
+    "title": "Велогонщики – сверхлюди. Как они выдерживают безумные нагрузки во время «Тур де Франс»?",
+    "description": "В день проезжают до 200 км.",
+    "fullText": "В день проезжают до 200 км.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ee/6905d583e424a9090d9c7141dc267.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/specials/dinamo-stars/?utm_source=native",
-    "time": "2026-07-22T07:30:00.000Z"
+    "url": "https://www.sports.ru/special/tour-de-france/?utm_source=native",
+    "time": "2026-07-22T09:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: в Disney объявили об очередной волне сокращений — она затронет Pixar",
-    "description": "Работу якобы потеряют сотни специалистов.",
-    "fullText": "Работу якобы потеряют сотни специалистов.",
-    "image": "https://leonardo.osnova.io/2af7542c-a255-5b9f-a19a-ac45d1d707bf/",
+    "title": "Palworld на фоне выхода из раннего доступа возглавила чарт Steam среди платных игр",
+    "description": "Тем временем ремейк Halo поднялся на десятую строчку.",
+    "fullText": "Тем временем ремейк Halo поднялся на десятую строчку.",
+    "image": "https://leonardo.osnova.io/2040eb4e-afbc-5b7c-8519-c40e41266711/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5197646-sokrashcheniya-v-disney-pixar?from=rss",
-    "time": "2026-07-21T18:04:12.000Z"
+    "url": "https://dtf.ru/gameindustry/5197775-palworld-vozglavila-chart-steam-sredi-platnyh-igr?from=rss",
+    "time": "2026-07-21T19:39:17.000Z"
   }
 ]
