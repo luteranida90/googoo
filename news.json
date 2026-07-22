@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ленобласти сбили девять БПЛА",
+    "title": "Цена нефти Brent на ICE превысила $93 за баррель впервые с 11 июня",
     "description": "",
     "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27939373",
-    "time": "2026-07-22T03:57:42.000Z"
+    "url": "https://tass.ru/ekonomika/27939885",
+    "time": "2026-07-22T06:52:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Все фильмы Нолана: от хорошего к лучшему",
+    "description": "Рейтинг Романа Дементьева, с которым вы поспорите.",
+    "fullText": "Рейтинг Романа Дементьева, с которым вы поспорите.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/4f/6a85f8db742fdba6f3a8dbc27b94e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3422446.html",
+    "time": "2026-07-22T06:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Наши ватерполистки (с флагом!) – в 1/4 финала Кубка мира: смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Игра с Нидерландами.",
+    "fullText": "Игра с Нидерландами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/87/e23e7e631405db24c72cc81da68b2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/water-polo/match/netherlands-vs-russia/",
+    "time": "2026-07-22T06:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Роналду, Месси и Модрич не уходят из сборной? Все инсайды",
-    "description": "Они остаются?",
-    "fullText": "Они остаются?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/66/f85cd653a4a2cbe22af5a22868c30.jpeg",
+    "title": "«Челси» обновил трансферный рекорд Британии! 117 млн за Роджерса из «Виллы»",
+    "description": "Выиграли гонку у «Арсенала».",
+    "fullText": "Выиграли гонку у «Арсенала».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b8/fd6ec5a4e4301aa3e7df594db3830.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3423624.html",
-    "time": "2026-07-21T18:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3423255.html",
+    "time": "2026-07-21T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CDPR покажет «Баллады прошлого» для «Ведьмака 3» на церемонии открытия Gamescom 2026",
-    "description": "Посетители выставки также увидят презентацию на стенде.",
-    "fullText": "Посетители выставки также увидят презентацию на стенде.",
-    "image": "https://leonardo.osnova.io/90728a90-5f88-59c8-a5b5-9700c77c8ff2/",
+    "title": "Комедия «Очень страшное кино 6» вышла «в цифре»",
+    "description": "Фильм получил негативные отзывы, но окупился в прокате.",
+    "fullText": "Фильм получил негативные отзывы, но окупился в прокате.",
+    "image": "https://leonardo.osnova.io/331d70bb-01f9-54d4-ada2-33dc7b33ecdc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5196954-cdpr-predstavit-dopolnenie-ballyady-proshlogo?from=rss",
-    "time": "2026-07-21T11:15:03.000Z"
+    "url": "https://dtf.ru/cinema/5197006-komediya-ochen-strashnoe-kino-6-dostupna-dlya-pokupki-i-arendy?from=rss",
+    "time": "2026-07-21T12:14:05.000Z"
   }
 ]
