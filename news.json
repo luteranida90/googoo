@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Фильтры по тегам, короткие посты и реакции",
+    "description": "Попробуйте обновленную «Мою ленту».",
+    "fullText": "Попробуйте обновленную «Мою ленту».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/kxSXwi",
+    "time": "2026-07-22T15:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Уровень доверия украинцев к Сырскому обвалился за неделю",
-    "description": "Меньше, чем ему, доверяют только бывшему президенту Украины Петру Порошенко - его поддержали 21% опрошенных",
-    "fullText": "Меньше, чем ему, доверяют только бывшему президенту Украины Петру Порошенко - его поддержали 21% опрошенных",
+    "title": "Страны Сахеля намерены совместно провести Кубок Африки по футболу в 2032 году",
+    "description": "Африканская конфедерация футбола приняла представленную Буркина-Фасо, Мали и Нигером совместную декларацию о заинтересованности в проведении турнира",
+    "fullText": "Африканская конфедерация футбола приняла представленную Буркина-Фасо, Мали и Нигером совместную декларацию о заинтересованности в проведении турнира",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27941579",
-    "time": "2026-07-22T13:23:28.000Z"
+    "url": "https://tass.ru/sport/27942017",
+    "time": "2026-07-22T15:19:53.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Велогонщики – сверхлюди. Как они выдерживают безумные нагрузки во время «Тур де Франс»?",
-    "description": "В день проезжают до 200 км.",
-    "fullText": "В день проезжают до 200 км.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/1/ee/6905d583e424a9090d9c7141dc267.png",
+    "title": "«Бостон» сбагрил MVP финала. Есть ли тут рациональное объяснение?",
+    "description": "Разбор теорий.",
+    "fullText": "Разбор теорий.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/06/87bf1d719479092fedc3c69db8056.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/special/tour-de-france/?utm_source=native",
-    "time": "2026-07-22T09:35:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3423586.html",
+    "time": "2026-07-22T11:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Palworld на фоне выхода из раннего доступа возглавила чарт Steam среди платных игр",
-    "description": "Тем временем ремейк Halo поднялся на десятую строчку.",
-    "fullText": "Тем временем ремейк Halo поднялся на десятую строчку.",
-    "image": "https://leonardo.osnova.io/2040eb4e-afbc-5b7c-8519-c40e41266711/",
+    "title": "Стартовали съёмки второго сезона перезапуска «Клиники»",
+    "description": "Создатели опубликовали небольшой ролик с площадки.",
+    "fullText": "Создатели опубликовали небольшой ролик с площадки.",
+    "image": "https://leonardo.osnova.io/f9e12fe9-3042-56bc-9f52-f17b24ab1444/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5197775-palworld-vozglavila-chart-steam-sredi-platnyh-igr?from=rss",
-    "time": "2026-07-21T19:39:17.000Z"
+    "url": "https://dtf.ru/cinema/5198387-syomki-vtoroogo-sezona-perezapuska-kliniki?from=rss",
+    "time": "2026-07-22T07:45:04.000Z"
   }
 ]
