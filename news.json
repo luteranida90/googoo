@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Умер исполнитель главной музыкальной темы \"Розовой пантеры\" Плас Джонсон",
+    "description": "Ему было 94 года",
+    "fullText": "Ему было 94 года",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/kultura/27942179",
+    "time": "2026-07-22T16:53:23.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Фильтры по тегам, короткие посты и реакции",
     "description": "Попробуйте обновленную «Мою ленту».",
@@ -11,47 +22,25 @@
     "time": "2026-07-22T15:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Страны Сахеля намерены совместно провести Кубок Африки по футболу в 2032 году",
-    "description": "Африканская конфедерация футбола приняла представленную Буркина-Фасо, Мали и Нигером совместную декларацию о заинтересованности в проведении турнира",
-    "fullText": "Африканская конфедерация футбола приняла представленную Буркина-Фасо, Мали и Нигером совместную декларацию о заинтересованности в проведении турнира",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27942017",
-    "time": "2026-07-22T15:19:53.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Подкаст легенд: Бекхэм, Зидан и Златан говорят о лучших моментах карьеры и великих соперниках – в русской озвучке",
-    "description": "Уникальная встреча.",
-    "fullText": "Уникальная встреча.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ff/517b9ab70418eb9c33fd681cecdc3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/_FC25u2i0JtkY9wzj3Z8kyqb5r5WPHhFcX8g5Gkwyq8",
-    "time": "2026-07-22T12:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Бостон» сбагрил MVP финала. Есть ли тут рациональное объяснение?",
-    "description": "Разбор теорий.",
-    "fullText": "Разбор теорий.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/06/87bf1d719479092fedc3c69db8056.jpeg",
+    "title": "Сезон НХЛ глазами Михаила Сергачева: первый плей-офф с «Ютой» и почему кубок взяла «Каролина»",
+    "description": "Новый пост в блоге!",
+    "fullText": "Новый пост в блоге!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/87/e3e521e7847a1860181410e18e4a5.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3423586.html",
-    "time": "2026-07-22T11:55:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3423186.html",
+    "time": "2026-07-22T12:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовали съёмки второго сезона перезапуска «Клиники»",
-    "description": "Создатели опубликовали небольшой ролик с площадки.",
-    "fullText": "Создатели опубликовали небольшой ролик с площадки.",
-    "image": "https://leonardo.osnova.io/f9e12fe9-3042-56bc-9f52-f17b24ab1444/",
+    "title": "Оригинальная «Техасская резня бензопилой» получит анимационную ротоскопированную версию",
+    "description": "Лента выйдет в 2027 году.",
+    "fullText": "Лента выйдет в 2027 году.",
+    "image": "https://leonardo.osnova.io/ed0a5f16-9f1d-5c36-9245-d8572a4978ae/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5198387-syomki-vtoroogo-sezona-perezapuska-kliniki?from=rss",
-    "time": "2026-07-22T07:45:04.000Z"
+    "url": "https://dtf.ru/cinema/5198675-animatsionnaya-versiya-tekhasskoy-rezni-benzopiloy?from=rss",
+    "time": "2026-07-22T10:23:28.000Z"
   }
 ]
