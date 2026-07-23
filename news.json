@@ -1,35 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Ink, следующий фильм Дэнни Бойла, будут официально показывать в российских кинотеатрах",
+    "description": "Фильм с Джеком О’Коннеллом основан на реальных событиях.",
+    "fullText": "Фильм с Джеком О’Коннеллом основан на реальных событиях.",
+    "image": "https://leonardo.osnova.io/45888c11-acc9-55d1-8c3e-2e91284ba478/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5200901-ink-sleduyushii-film-denni-boila-budut-oficialno-pokazyvat-v-rossiiskih-kinoteatrah?from=rss",
+    "time": "2026-07-23T14:58:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Российские ученые разгадали загадку \"офиуры из бездны\"",
-    "description": "Специалисты МГУ имени М.В. Ломоносова обнаружили ближайших родственников глубоководного животного",
-    "fullText": "Специалисты МГУ имени М.В. Ломоносова обнаружили ближайших родственников глубоководного животного",
+    "title": "Дело директора нацпарка \"Куршская коса\" находится в завершающей стадии",
+    "description": "Расследование ведется по статье о незаконной рубке лесных насаждений",
+    "fullText": "Расследование ведется по статье о незаконной рубке лесных насаждений",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nauka/27944533",
-    "time": "2026-07-23T11:09:13.000Z"
+    "url": "https://tass.ru/proisshestviya/27945617",
+    "time": "2026-07-23T14:56:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Сергачев: большой разговор об НХЛ, жизни в Юте и Тампе, трэш-токе, драках и моде",
+    "description": "Самые яркие истории карьеры.",
+    "fullText": "Самые яркие истории карьеры.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/b0/87cd2b22b4a8e9ac6adfe1a33fc08.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/AX9rfiSx6PrVwWyHa2G47vFP0QF96Fp9BmRj17gSdG8",
+    "time": "2026-07-23T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему Испания выбрала Симона, а не вратарей-звезд? Объясняет Ребров",
-    "description": "Все дело в химии.",
-    "fullText": "Все дело в химии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/7b/c7a11b8264ce29503e4f45ed70e31.png",
+    "title": "«Уйдет, когда до полтинника поднимут». Неоднозначный Тюкавин на презентации формы «Динамо»",
+    "description": "Все-таки трансфер?",
+    "fullText": "Все-таки трансфер?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/42/d5e61fec948d789e7947afc8f8f66.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3423786.html",
-    "time": "2026-07-23T07:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Samsung представила смартфоны-раскладушки Galaxy Z Fold 8, Z Fold 8 Ultra и Z Flip 8",
-    "description": "Российские ритейлеры открыли предзаказы по цене от 149 990 рублей, 169 990 рублей и 104 990 рублей соответственно.",
-    "fullText": "Российские ритейлеры открыли предзаказы по цене от 149 990 рублей, 169 990 рублей и 104 990 рублей соответственно.",
-    "image": "https://leonardo.osnova.io/e04507c1-ecaf-52b8-bc3a-501f5945c3bf/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/mobile/5199257-samsung-galaxy-z-fold-8-i-z-flip-8?from=rss",
-    "time": "2026-07-22T17:22:40.000Z"
+    "url": "https://www.sports.ru/football/blogs/3424288.html",
+    "time": "2026-07-23T11:30:00.000Z"
   }
 ]
