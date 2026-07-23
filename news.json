@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Нижнем Новгороде завели дело после нападения подростков на прохожих",
-    "description": "Потерпевшим был причинен физический и имущественный вред, сообщили в СК РФ",
-    "fullText": "Потерпевшим был причинен физический и имущественный вред, сообщили в СК РФ",
+    "title": "ЦАХАЛ намерен нанести \"сокрушительный удар\" по Ирану при атаке на Израиль",
+    "description": "Еврейское государство готово к любому развитию событий, заявил министр обороны Исраэль Кац",
+    "fullText": "Еврейское государство готово к любому развитию событий, заявил министр обороны Исраэль Кац",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27945927",
-    "time": "2026-07-23T16:26:24.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27946189",
+    "time": "2026-07-23T19:17:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Aliens: Fireteam Elite 2 выйдет 25 августа",
+    "description": "Спустя пять лет после первой части.",
+    "fullText": "Спустя пять лет после первой части.",
+    "image": "https://leonardo.osnova.io/1f2d00d3-516d-5215-99cb-2b63c158e35e/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5201010-aliens-fireteam-elite-2-anons?from=rss",
+    "time": "2026-07-23T15:45:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как я стал вратарем в пять лет. Новый пост Акинфеева",
+    "description": "«На тренировки возила бабушка».",
+    "fullText": "«На тренировки возила бабушка».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/a6/816b009054d759225f2b56fc4b345.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3423397.html",
+    "time": "2026-07-23T15:43:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -20,27 +42,5 @@
     "category": "all",
     "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
     "time": "2026-07-23T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Ink, следующий фильм Дэнни Бойла, будут официально показывать в российских кинотеатрах",
-    "description": "Фильм с Джеком О’Коннеллом основан на реальных событиях.",
-    "fullText": "Фильм с Джеком О’Коннеллом основан на реальных событиях.",
-    "image": "https://leonardo.osnova.io/45888c11-acc9-55d1-8c3e-2e91284ba478/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5200901-film-ink-denni-bojla-v-rossijskikh-kinoteatrakh?from=rss",
-    "time": "2026-07-23T14:58:31.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главные открытия ЧМ. Тут Возинья, Буадди и новичок «Баварии» за 55 млн",
-    "description": "Новые имена.",
-    "fullText": "Новые имена.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a2/bf647e20049d8b81a318dadc38a0f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3424072.html",
-    "time": "2026-07-23T12:50:00.000Z"
   }
 ]
