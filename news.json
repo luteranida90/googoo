@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Нижнем Новгороде завели дело после нападения подростков на прохожих",
+    "description": "Потерпевшим был причинен физический и имущественный вред, сообщили в СК РФ",
+    "fullText": "Потерпевшим был причинен физический и имущественный вред, сообщили в СК РФ",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27945927",
+    "time": "2026-07-23T16:26:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "Масштабный конкурс от ГОЛа",
+    "description": "Установите приложение и участвуйте.",
+    "fullText": "Установите приложение и участвуйте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-07-23T15:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
     "title": "Ink, следующий фильм Дэнни Бойла, будут официально показывать в российских кинотеатрах",
     "description": "Фильм с Джеком О’Коннеллом основан на реальных событиях.",
@@ -7,40 +29,18 @@
     "image": "https://leonardo.osnova.io/45888c11-acc9-55d1-8c3e-2e91284ba478/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5200901-ink-sleduyushii-film-denni-boila-budut-oficialno-pokazyvat-v-rossiiskih-kinoteatrah?from=rss",
+    "url": "https://dtf.ru/cinema/5200901-film-ink-denni-bojla-v-rossijskikh-kinoteatrakh?from=rss",
     "time": "2026-07-23T14:58:31.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дело директора нацпарка \"Куршская коса\" находится в завершающей стадии",
-    "description": "Расследование ведется по статье о незаконной рубке лесных насаждений",
-    "fullText": "Расследование ведется по статье о незаконной рубке лесных насаждений",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27945617",
-    "time": "2026-07-23T14:56:05.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Сергачев: большой разговор об НХЛ, жизни в Юте и Тампе, трэш-токе, драках и моде",
-    "description": "Самые яркие истории карьеры.",
-    "fullText": "Самые яркие истории карьеры.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/b0/87cd2b22b4a8e9ac6adfe1a33fc08.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/AX9rfiSx6PrVwWyHa2G47vFP0QF96Fp9BmRj17gSdG8",
-    "time": "2026-07-23T11:50:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Уйдет, когда до полтинника поднимут». Неоднозначный Тюкавин на презентации формы «Динамо»",
-    "description": "Все-таки трансфер?",
-    "fullText": "Все-таки трансфер?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/42/d5e61fec948d789e7947afc8f8f66.jpeg",
+    "title": "Главные открытия ЧМ. Тут Возинья, Буадди и новичок «Баварии» за 55 млн",
+    "description": "Новые имена.",
+    "fullText": "Новые имена.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a2/bf647e20049d8b81a318dadc38a0f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3424288.html",
-    "time": "2026-07-23T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3424072.html",
+    "time": "2026-07-23T12:50:00.000Z"
   }
 ]
