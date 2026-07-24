@@ -1,46 +1,68 @@
 [
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "ЦСКА начинает новый сезон матчем с «Балтикой». Ставьте на российский футбол с фрибетом до 15 000!",
-    "description": "Акция от FONBET.",
-    "fullText": "Акция от FONBET.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b4/133dd46b045bba23a7b3e95f34fcf.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/fmaterpl",
-    "time": "2026-07-24T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Коломне открылся региональный урологический центр",
-    "description": "Учреждение позволит повысить доступность высокотехнологичной помощи для жителей девяти городских округов Подмосковья",
-    "fullText": "Учреждение позволит повысить доступность высокотехнологичной помощи для жителей девяти городских округов Подмосковья",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ВС РФ нанесли удар по объекту под Киевом, где демонстрировались БПЛА",
+    "description": "В Минобороны уточнили, что в числе техники были дроны, используемые для нанесения ударов по гражданским объектам на территории России",
+    "fullText": "В Минобороны уточнили, что в числе техники были дроны, используемые для нанесения ударов по гражданским объектам на территории России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260724/9248155.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27949123",
-    "time": "2026-07-24T11:28:42.000Z"
+    "url": "https://tass.ru/armiya-i-opk/27950101",
+    "time": "2026-07-24T15:03:12.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Можно ничего не знать о велоспорте – и все равно полюбить «Тур де Франс»",
-    "description": "Гид по легендарной гонке.",
-    "fullText": "Гид по легендарной гонке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/7c/eb09706e2470485658faa0c3e5430.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Капризов в гостях у Смолова: новый контракт, любовь к «Миннесоте», тренды НХЛ и Dota 2",
+    "description": "Большой разговор.",
+    "fullText": "Большой разговор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/f3/8a3b5ba7848309604ac9bc16e2aa6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/special/tour-de-france/?utm_source=supertop_main&erid=2SDnjdYGViA",
-    "time": "2026-07-24T08:00:00.000Z"
+    "url": "https://video.sports.ru/video/lqdvoBrsYWGmyaZjzlRQBUkL0hYBdPhZ-zG-ILqcLXQ",
+    "time": "2026-07-24T14:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Симулятор таблицы РПЛ. Соберите все места на сезон-2026/27",
+    "description": "Старт уже близко.",
+    "fullText": "Старт уже близко.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/b9/2d4d1743f46e6a000b774ec66fd8c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/rpl-predictions/",
+    "time": "2026-07-24T13:42:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Ищем начинающих авторов и корреспондентов – отправляйте заявки на новый Спортс’’ Кэмп!",
+    "description": "До 2 августа.",
+    "fullText": "До 2 августа.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/23/ae484c5aa47ab86cd5bf0772ae6e8.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/native",
+    "time": "2026-07-24T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Marvel’s Wolverine не позволят сыграть за Джин Грей, несмотря на одну из сцен трейлера",
-    "description": "Вероятно, с момента утечки Insomniac планы изменились.",
-    "fullText": "Вероятно, с момента утечки Insomniac планы изменились.",
-    "image": "https://leonardo.osnova.io/b0dde778-b58c-501b-b3ce-dea74b11dcc1/",
+    "title": "Для Age of Empires III: Definitive Edition повторно анонсировали отменённое ранее дополнение",
+    "description": "Бета-тестирование The Baltic Powers уже стартовало.",
+    "fullText": "Бета-тестирование The Baltic Powers уже стартовало.",
+    "image": "https://leonardo.osnova.io/a844b7d1-bd68-55ed-a6f6-6c7de4f15204/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5201920-v-marvels-wolverine-nelzya-budut-igrat-za-dzhin-grey?from=rss",
-    "time": "2026-07-24T06:24:50.000Z"
+    "url": "https://dtf.ru/games/5202509-anons-dopolneniya-the-baltic-powers-age-of-empires-iii?from=rss",
+    "time": "2026-07-24T12:39:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новый сезон РПЛ – новый «Джерси-бег». Регистрация началась!",
+    "description": "Надевайте джерси любимой команды и участвуйте в забеге на «РЖД Арене».",
+    "fullText": "Надевайте джерси любимой команды и участвуйте в забеге на «РЖД Арене».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3424774.html",
+    "time": "2026-07-24T12:30:00.000Z"
   }
 ]
