@@ -1,35 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "ЦСКА начинает новый сезон матчем с «Балтикой». Ставьте на российский футбол с фрибетом до 15 000!",
+    "description": "Акция от FONBET.",
+    "fullText": "Акция от FONBET.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/b4/133dd46b045bba23a7b3e95f34fcf.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/fmaterpl",
+    "time": "2026-07-24T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Ставрополье отменили беспилотную опасность",
-    "description": "Об этом сообщил губернатор региона Владимир Владимиров",
-    "fullText": "Об этом сообщил губернатор региона Владимир Владимиров",
+    "title": "В Коломне открылся региональный урологический центр",
+    "description": "Учреждение позволит повысить доступность высокотехнологичной помощи для жителей девяти городских округов Подмосковья",
+    "fullText": "Учреждение позволит повысить доступность высокотехнологичной помощи для жителей девяти городских округов Подмосковья",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27947035",
-    "time": "2026-07-24T03:59:22.000Z"
+    "url": "https://tass.ru/obschestvo/27949123",
+    "time": "2026-07-24T11:28:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Эдерсона не взяли в «МЮ» из-за результатов медосмотра – поговорили с экспертами о чекапах",
-    "description": "Следим за здоровьем.",
-    "fullText": "Следим за здоровьем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e6/4312c805a485881290cf2471f057e.png",
+    "title": "Можно ничего не знать о велоспорте – и все равно полюбить «Тур де Франс»",
+    "description": "Гид по легендарной гонке.",
+    "fullText": "Гид по легендарной гонке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/7c/eb09706e2470485658faa0c3e5430.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3421258.html",
-    "time": "2026-07-23T17:30:00.000Z"
+    "url": "https://www.sports.ru/special/tour-de-france/?utm_source=supertop_main&erid=2SDnjdYGViA",
+    "time": "2026-07-24T08:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Актёр Пётр Гланц о влиянии ИИ на сферу дубляжа: «Работу сожрёт, но не всю — ту, которую мне бы не хотелось делать»",
-    "description": "Артист также рассказал, что ему пока не удалось как следует погрузиться в ремейк Gothic из-за недостатка времени.",
-    "fullText": "Артист также рассказал, что ему пока не удалось как следует погрузиться в ремейк Gothic из-за недостатка времени.",
-    "image": "https://leonardo.osnova.io/a5764c78-ab8d-5286-9ada-d152e162f4f7/",
+    "title": "В Marvel’s Wolverine не позволят сыграть за Джин Грей, несмотря на одну из сцен трейлера",
+    "description": "Вероятно, с момента утечки Insomniac планы изменились.",
+    "fullText": "Вероятно, с момента утечки Insomniac планы изменились.",
+    "image": "https://leonardo.osnova.io/b0dde778-b58c-501b-b3ce-dea74b11dcc1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5200322-petr-glanc-o-vliyanii-ii-na-dublazh?from=rss",
-    "time": "2026-07-23T09:51:49.000Z"
+    "url": "https://dtf.ru/games/5201920-v-marvels-wolverine-nelzya-budut-igrat-za-dzhin-grey?from=rss",
+    "time": "2026-07-24T06:24:50.000Z"
   }
 ]
