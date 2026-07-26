@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Тела двоих погибших альпинистов пока не эвакуировали с Эльбруса",
-    "description": "Они находятся на седловине",
-    "fullText": "Они находятся на седловине",
+    "title": "ВМФ получит новейший крупный корабль океанской зоны",
+    "description": "Стандартное водоизмещение российского фрегата проект 22350 \"Адмирал флота Советского Союза Горшков\" составляет 4,5 тыс. тонн",
+    "fullText": "Стандартное водоизмещение российского фрегата проект 22350 \"Адмирал флота Советского Союза Горшков\" составляет 4,5 тыс. тонн",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27953293",
-    "time": "2026-07-26T05:52:47.000Z"
+    "url": "https://tass.ru/armiya-i-opk/27953563",
+    "time": "2026-07-26T08:32:49.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Я посетил «Матч года», где команда Овечкина уступала 4:8, но выиграла. Детали изнутри",
+    "description": "Репортаж Александра Плеханова.",
+    "fullText": "Репортаж Александра Плеханова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/dc/15eb5fa2442ab9eede3eb3d1344d0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3425574.html",
+    "time": "2026-07-26T05:06:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +33,14 @@
     "time": "2026-07-26T04:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9yZWcucnVz",
-    "title": "Присоединяйтесь к забегу от Спортса’‘",
-    "description": "«Джерси-бег» – 15 августа!",
-    "fullText": "«Джерси-бег» – 15 августа!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://reg.russiarunning.com/event/Jerseybeg",
-    "time": "2026-07-25T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ротенберг приехал на «Матч года» на «Волге» – вместе с Овечкиным!",
-    "description": "Два года назад была «копейка».",
-    "fullText": "Два года назад была «копейка».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/47/f8220b8c44cc98c89d66586188319.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3425476.html",
-    "time": "2026-07-25T19:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel анонсировала линейку комиксов «Индиана Джонс и Меч Пандемониума» — арты и детали",
-    "description": "Легендарному археологу предстоит найти библейское оружие.",
-    "fullText": "Легендарному археологу предстоит найти библейское оружие.",
-    "image": "https://leonardo.osnova.io/d2c293d4-2a44-599b-a8cf-31e570e4ae85/",
+    "title": "СМИ: Nothing готовится свернуть деятельность на двенадцати рынках и сократить персонал на 40%",
+    "description": "На фоне слабых продаж новых моделей смартфонов.",
+    "fullText": "На фоне слабых продаж новых моделей смартфонов.",
+    "image": "https://leonardo.osnova.io/9fdd5f0c-ac9e-59af-af57-e719410c53a5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/read/5203242-indiana-dzhons-i-mech-pandemonium?from=rss",
-    "time": "2026-07-24T19:21:23.000Z"
+    "url": "https://dtf.ru/mobile/5202942-nothing-svorachivaet-deyatelnost-na-rynkah?from=rss",
+    "time": "2026-07-24T16:15:27.000Z"
   }
 ]
