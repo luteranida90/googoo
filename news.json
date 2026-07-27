@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Военная операция на Украине. Онлайн",
+    "description": "Россия пока не видит реалистичных предложений по урегулированию конфликта на Украине, в связи с чем продолжит добиваться достижения целей СВО, заявила и.о. постоянного представителя РФ при ООН Анна Евстигнеева",
+    "fullText": "Россия пока не видит реалистичных предложений по урегулированию конфликта на Украине, в связи с чем продолжит добиваться достижения целей СВО, заявила и.о. постоянного представителя РФ при ООН Анна Евстигнеева",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260727/9252723.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/27955625",
+    "time": "2026-07-27T21:00:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Неизвестный Фелипе Аугусто: кумир Холанд, тренер Текке, «деревянный» Педро",
     "description": "Знакомимся с новичком «Зенита».",
@@ -11,36 +22,25 @@
     "time": "2026-07-27T19:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ростовской области объявляли ракетную опасность",
-    "description": "Жителям рекомендовали проследовать в укрытие, подвал или подземный паркинг",
-    "fullText": "Жителям рекомендовали проследовать в укрытие, подвал или подземный паркинг",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27958637",
-    "time": "2026-07-27T19:19:21.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Уход фигуристок – не проблема группы Тутберидзе, а примета времени",
-    "description": "Колонка Павла Копачева.",
-    "fullText": "Колонка Павла Копачева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e7/f7f496de74e858cca7e3d31956803.jpeg",
+    "title": "Смолов рядом с Аршавиным по голам: может обойти уже во вторник. Мостовой далеко?",
+    "description": "Федор играет за «Броуков» в Кубке.",
+    "fullText": "Федор играет за «Броуков» в Кубке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/85/c0ba0564e4f34bc4f604de921bcfa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3424842.html",
-    "time": "2026-07-27T15:30:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3425322.html",
+    "time": "2026-07-27T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Хидео Кодзима получил камео в японском криминальном сериале «Живой» — он изобразил начальника полиции",
-    "description": "Геймдизайнера не узнать.",
-    "fullText": "Геймдизайнера не узнать.",
-    "image": "https://leonardo.osnova.io/c9c55065-38ab-509c-96b5-00e9154e3797/",
+    "title": "Вышел второй эпизод нуарного шутера Fallen Aces",
+    "description": "Игру временно продают со скидкой 25%.",
+    "fullText": "Игру временно продают со скидкой 25%.",
+    "image": "https://leonardo.osnova.io/a4b65b06-8f31-53b7-ae09-02c281df906d/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5207189-hideo-kozima-v-yaponskom-seriale-zhivoy?from=rss",
-    "time": "2026-07-27T10:23:25.000Z"
+    "url": "https://dtf.ru/games/5207501-vyshel-vtoryi-epizod-shutera-fallen-aces?from=rss",
+    "time": "2026-07-27T12:37:53.000Z"
   }
 ]
