@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Пермском крае отменили режим \"Ковер\"",
-    "description": "Об этом сообщили в региональном управлении МЧС России",
-    "fullText": "Об этом сообщили в региональном управлении МЧС России",
+    "title": "Хуситы заявили об ударе беспилотниками по нефтяным объектам в Саудовской Аравии",
+    "description": "Атака стала ответом на якобы имевшее место \"нарушение воздушных границ Йемена саудовскими беспилотниками\", отметил военный представитель повстанцев Яхья Сариа",
+    "fullText": "Атака стала ответом на якобы имевшее место \"нарушение воздушных границ Йемена саудовскими беспилотниками\", отметил военный представитель повстанцев Яхья Сариа",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27956687",
-    "time": "2026-07-27T10:28:05.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27957563",
+    "time": "2026-07-27T13:24:50.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Персональные рекомендации, короткие посты и реакции – все это для вас",
+    "description": "Обновления в «Моей Ленте».",
+    "fullText": "Обновления в «Моей Ленте».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/kxSXwi",
+    "time": "2026-07-27T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWcucnVz",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Самая крупная победа Тима Цзю – разгромил экс-чемпиона, не выступавшего три года",
-    "description": "Проехался по ветерану.",
-    "fullText": "Проехался по ветерану.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/aa/61987d32541eeb69e4d69edff13a5.jpeg",
+    "title": "Смолов рядом с Аршавиным по голам: может обойти уже во вторник. Мостовой далеко?",
+    "description": "Федор играет за «Броуков» в Кубке.",
+    "fullText": "Федор играет за «Броуков» в Кубке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/85/c0ba0564e4f34bc4f604de921bcfa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3425416.html",
-    "time": "2026-07-26T22:10:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3425322.html",
+    "time": "2026-07-27T07:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Мультфильм «Легенда об Аанге: Последний маг воздуха» официально вышел",
-    "description": "У многострадальной картины 89% одобрения на Rotten Tomatoes.",
-    "fullText": "У многострадальной картины 89% одобрения на Rotten Tomatoes.",
-    "image": "https://leonardo.osnova.io/6d949ba6-7b96-50a5-babf-ba5ed0e4010b/",
+    "title": "Анимационный сериал Astartes II по Warhammer 40,000 выйдет в декабре 2026 года",
+    "description": "Никаких подробностей до сих пор нет.",
+    "fullText": "Никаких подробностей до сих пор нет.",
+    "image": "https://leonardo.osnova.io/dc6456d1-ccc0-5929-b4ee-235ff16a8a07/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5204042-multfilm-legenda-ob-aange-posledniy-mag-vozdukha?from=rss",
-    "time": "2026-07-25T11:30:04.000Z"
+    "url": "https://dtf.ru/cinema/5205381-animatsionnyy-serial-astartes-ii-po-warhammer?from=rss",
+    "time": "2026-07-26T08:03:47.000Z"
   }
 ]
