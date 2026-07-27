@@ -1,46 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Сочи сняли временные ограничения",
-    "description": "Об этом сообщила Росавиация",
-    "fullText": "Об этом сообщила Росавиация",
+    "title": "В Пермском крае отменили режим \"Ковер\"",
+    "description": "Об этом сообщили в региональном управлении МЧС России",
+    "fullText": "Об этом сообщили в региональном управлении МЧС России",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27955677",
-    "time": "2026-07-27T06:26:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Выбор Леброна не случаен. У него много связей и интересов в «Филадельфии»",
-    "description": "От коллекционных карточек до кинопроектов.",
-    "fullText": "От коллекционных карточек до кинопроектов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f3/1a6e5de364d8e821417339acd7b17.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3425391.html",
-    "time": "2026-07-26T17:46:00.000Z"
+    "url": "https://tass.ru/ekonomika/27956687",
+    "time": "2026-07-27T10:28:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWcucnVz",
-    "title": "Наденьте джерси и выбегайте на стадион",
-    "description": "«Джерси-бег» возвращается!",
-    "fullText": "«Джерси-бег» возвращается!",
+    "title": "Покажите свою джерси на «Джерси-беге»",
+    "description": "Присоединяйтесь к благотворительному забегу.",
+    "fullText": "Присоединяйтесь к благотворительному забегу.",
     "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://reg.russiarunning.com/event/Jerseybeg",
-    "time": "2026-07-26T17:30:00.000Z"
+    "time": "2026-07-27T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Самая крупная победа Тима Цзю – разгромил экс-чемпиона, не выступавшего три года",
+    "description": "Проехался по ветерану.",
+    "fullText": "Проехался по ветерану.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/aa/61987d32541eeb69e4d69edff13a5.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3425416.html",
+    "time": "2026-07-26T22:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Зло не ускользнёт от моего взора»: трейлер «Фонарей»",
-    "description": "Зрителям показали Синестро в исполнении Ульриха Томсена.",
-    "fullText": "Зрителям показали Синестро в исполнении Ульриха Томсена.",
-    "image": "https://leonardo.osnova.io/fb288920-6fde-559e-add6-e4ebc39a21e8/-/format/mp4/",
+    "title": "Мультфильм «Легенда об Аанге: Последний маг воздуха» официально вышел",
+    "description": "У многострадальной картины 89% одобрения на Rotten Tomatoes.",
+    "fullText": "У многострадальной картины 89% одобрения на Rotten Tomatoes.",
+    "image": "https://leonardo.osnova.io/6d949ba6-7b96-50a5-babf-ba5ed0e4010b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5203441-treyler-seriala-fonari-sinestro-i-hel-dzhordan?from=rss",
-    "time": "2026-07-24T21:38:44.000Z"
+    "url": "https://dtf.ru/cinema/5204042-multfilm-legenda-ob-aange-posledniy-mag-vozdukha?from=rss",
+    "time": "2026-07-25T11:30:04.000Z"
   }
 ]
