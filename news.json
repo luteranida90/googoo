@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошел взрыв",
-    "description": "Других подробностей нет",
-    "fullText": "Других подробностей нет",
+    "title": "В аэропорту Сочи сняли временные ограничения",
+    "description": "Об этом сообщила Росавиация",
+    "fullText": "Об этом сообщила Росавиация",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27955197",
-    "time": "2026-07-27T02:50:39.000Z"
+    "url": "https://tass.ru/ekonomika/27955677",
+    "time": "2026-07-27T06:26:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Выбор Леброна не случаен. У него много связей и интересов в «Филадельфии»",
+    "description": "От коллекционных карточек до кинопроектов.",
+    "fullText": "От коллекционных карточек до кинопроектов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f3/1a6e5de364d8e821417339acd7b17.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3425391.html",
+    "time": "2026-07-26T17:46:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWcucnVz",
@@ -22,25 +33,14 @@
     "time": "2026-07-26T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Пирло может не стать тренером сборной Италии – из-за контракта с российским букмекером",
-    "description": "Не простили песню.",
-    "fullText": "Не простили песню.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c6/f41efe31e42e68f6491a119df8f44.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3425818.html",
-    "time": "2026-07-26T17:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Сериал «Бегущий по лезвию 2099» выйдет 25 ноября",
-    "description": "Появился первый тизер.",
-    "fullText": "Появился первый тизер.",
-    "image": "https://leonardo.osnova.io/6962b79d-e6f9-536d-a7ea-47fa73db3b4e/-/format/mp4/",
+    "title": "«Зло не ускользнёт от моего взора»: трейлер «Фонарей»",
+    "description": "Зрителям показали Синестро в исполнении Ульриха Томсена.",
+    "fullText": "Зрителям показали Синестро в исполнении Ульриха Томсена.",
+    "image": "https://leonardo.osnova.io/fb288920-6fde-559e-add6-e4ebc39a21e8/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5202500-serial-begushchiy-po-lezviyu-2099-na-prime-video?from=rss",
-    "time": "2026-07-24T17:29:44.000Z"
+    "url": "https://dtf.ru/cinema/5203441-treyler-seriala-fonari-sinestro-i-hel-dzhordan?from=rss",
+    "time": "2026-07-24T21:38:44.000Z"
   }
 ]
