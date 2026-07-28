@@ -1,35 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Трейлер документалки Netflix о Моуринью: архивные кадры и откровения Фергюсона, Златана, Касильяса",
+    "description": "С русским переводом.",
+    "fullText": "С русским переводом.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/eb/660cfa5a14ff28934431f38e1295d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/yngbmgUc5N4aUpDt28JOvam6UOHKkRyJfzJK2yXSSyo",
+    "time": "2026-07-28T11:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "СК завел дело о теракте после удара ВСУ по автобусу в Белгородской области",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260728/9255453.jpg",
+    "title": "Космонавт Микаев рассказал, чем пахнет на МКС",
+    "description": "По его словам, на станции пахнет домом",
+    "fullText": "По его словам, на станции пахнет домом",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27960351",
-    "time": "2026-07-28T09:04:44.000Z"
+    "url": "https://tass.ru/kosmos/27960801",
+    "time": "2026-07-28T11:14:56.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В 59 лет Миура забил – впервые за 4 года. Как поживает этот киборг?",
-    "description": "Вечный.",
-    "fullText": "Вечный.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/fc/64941ade14f2aad5a6a4ed2840167.jpeg",
+    "title": "Холанд посмотрел все мемы про себя! Оценил даже русскую девушку-двойника",
+    "description": "Ни на один не обиделся.",
+    "fullText": "Ни на один не обиделся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/de/8008be76843cfbdd3f4c852c4b521.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3425966.html",
-    "time": "2026-07-27T22:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3426048.html",
+    "time": "2026-07-28T07:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Дэн Хаузер заявил, что компании должны предоставлять физические издания игр, если геймеры этого хотят",
-    "description": "Однако для него самого этот вопрос не принципиален.",
-    "fullText": "Однако для него самого этот вопрос не принципиален.",
-    "image": "https://leonardo.osnova.io/b0105258-b1ed-5f1a-81a7-edd37fbcd147/",
+    "title": "A24 показала трейлер «Натиска» — триллера про безумных суперсолдат от постановщика «Годзиллы против Конга»",
+    "description": "Фильм Адама Вингарда будут показывать в РФ.",
+    "fullText": "Фильм Адама Вингарда будут показывать в РФ.",
+    "image": "https://leonardo.osnova.io/c066d947-3c94-5b98-9c05-2bbc583f4331/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5207722-dan-khauzer-o-fizicheskikh-izdaniyakh-igr?from=rss",
-    "time": "2026-07-27T14:40:05.000Z"
+    "url": "https://dtf.ru/cinema/5208049-natisk-triller-a24-o-bezumnykh-supersoldatakh?from=rss",
+    "time": "2026-07-27T16:39:39.000Z"
   }
 ]
