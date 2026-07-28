@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Российские волейболистки начали подготовку к возвращению на мировую арену",
+    "description": "Национальная команда начала сборы на базе в Новогорске",
+    "fullText": "Национальная команда начала сборы на базе в Новогорске",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/27962027",
+    "time": "2026-07-28T17:17:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "2Drots ведет у «Орла» в Кубке. Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Медийно!",
+    "fullText": "Медийно!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/d9/f6db1033e422eb4474d4181a9e610.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/russian-cup/2drots-vs-fc-orel/",
+    "time": "2026-07-28T17:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9yZWcucnVz",
     "title": "Джерси-бег на «РЖД Арене» – 15 августа!",
     "description": "Присоединяйтесь к забегу от Спортса’‘.",
@@ -8,39 +30,28 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://reg.russiarunning.com/event/Jerseybeg",
-    "time": "2026-07-28T16:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кукурелья сделал татуировку с изображением тренера сборной Испании после ЧМ",
-    "description": "Испанская национальная команда стала победителем турнира, обыграв в финале команду Аргентины",
-    "fullText": "Испанская национальная команда стала победителем турнира, обыграв в финале команду Аргентины",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27961853",
-    "time": "2026-07-28T15:44:24.000Z"
+    "time": "2026-07-28T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«БоМиК» – странное название соперника Смолова по Кубку. Откуда оно?",
-    "description": "Придумал преподаватель электротехники.",
-    "fullText": "Придумал преподаватель электротехники.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/36/f3c3b88d64a6da5c4eb210b413299.jpeg",
+    "title": "Тренер подрался с росгвардцейцами (есть погибший) – его дважды оправдали, но суды идут уже 5 лет. Большой репортаж",
+    "description": "Николай Живоглядов разобрался.",
+    "fullText": "Николай Живоглядов разобрался.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/e8/f28d189bb4420ade7504eebb79354.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3426047.html",
-    "time": "2026-07-28T11:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3424361.html",
+    "time": "2026-07-28T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Variety: звезда «Обсессии» Майкл Джонстон ведёт переговоры о роли в четвёртой «Мумии»",
-    "description": "Он может присоединиться к Брендану Фрейзеру и Рэйчел Вайс.",
-    "fullText": "Он может присоединиться к Брендану Фрейзеру и Рэйчел Вайс.",
-    "image": "https://leonardo.osnova.io/944f6228-a90c-5073-a1d9-0de8248cfdac/",
+    "title": "«Мне пришлось продать свой дом»: Шон Эстин о низких гонорарах за «Властелина колец»",
+    "description": "Актёр отметил, что попросит высокую оплату, если вернётся к роли.",
+    "fullText": "Актёр отметил, что попросит высокую оплату, если вернётся к роли.",
+    "image": "https://leonardo.osnova.io/9a962b2c-320f-5c2f-a148-c593d5586d62/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5208799-michael-johnston-novaya-mumiya?from=rss",
-    "time": "2026-07-28T06:27:38.000Z"
+    "url": "https://dtf.ru/cinema/5208862-shon-estin-o-gonorarah-za-vlastelina-kolec?from=rss",
+    "time": "2026-07-28T07:37:12.000Z"
   }
 ]
