@@ -1,46 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly9yZWcucnVz",
+    "title": "Джерси-бег на «РЖД Арене» – 15 августа!",
+    "description": "Присоединяйтесь к забегу от Спортса’‘.",
+    "fullText": "Присоединяйтесь к забегу от Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://reg.russiarunning.com/event/Jerseybeg",
+    "time": "2026-07-28T16:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ярославле в ДТП с автобусом пострадали шесть человек",
-    "description": "Пострадавших доставили в больницу",
-    "fullText": "Пострадавших доставили в больницу",
+    "title": "Кукурелья сделал татуировку с изображением тренера сборной Испании после ЧМ",
+    "description": "Испанская национальная команда стала победителем турнира, обыграв в финале команду Аргентины",
+    "fullText": "Испанская национальная команда стала победителем турнира, обыграв в финале команду Аргентины",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27961525",
-    "time": "2026-07-28T13:38:38.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Подборка симуляторов из Steam: какие выбрать и как купить в России",
-    "description": "Собрали 15 симуляторов про дороги, ремонт, фермерство, менеджмент и странные эксперименты.",
-    "fullText": "Собрали 15 симуляторов про дороги, ремонт, фермерство, менеджмент и странные эксперименты.",
-    "image": "https://leonardo.osnova.io/3642a0d6-91de-5468-92ee-bec39a1abb99/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5209213-luchshie-simulyatory-v-steam-dlya-pokupki-v-rossii?from=rss",
-    "time": "2026-07-28T13:09:58.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Трейлер документалки Netflix о Моуринью: архивные кадры и откровения Фергюсона, Златана, Касильяса",
-    "description": "С русским переводом.",
-    "fullText": "С русским переводом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/eb/660cfa5a14ff28934431f38e1295d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/yngbmgUc5N4aUpDt28JOvam6UOHKkRyJfzJK2yXSSyo",
-    "time": "2026-07-28T11:30:00.000Z"
+    "url": "https://tass.ru/sport/27961853",
+    "time": "2026-07-28T15:44:24.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Смолов рядом с Аршавиным по голам: может обойти уже во вторник. Мостовой далеко?",
-    "description": "Федор играет за «Броуков» в Кубке.",
-    "fullText": "Федор играет за «Броуков» в Кубке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/85/c0ba0564e4f34bc4f604de921bcfa.jpeg",
+    "title": "«БоМиК» – странное название соперника Смолова по Кубку. Откуда оно?",
+    "description": "Придумал преподаватель электротехники.",
+    "fullText": "Придумал преподаватель электротехники.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/36/f3c3b88d64a6da5c4eb210b413299.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3425322.html",
-    "time": "2026-07-28T09:15:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3426047.html",
+    "time": "2026-07-28T11:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Variety: звезда «Обсессии» Майкл Джонстон ведёт переговоры о роли в четвёртой «Мумии»",
+    "description": "Он может присоединиться к Брендану Фрейзеру и Рэйчел Вайс.",
+    "fullText": "Он может присоединиться к Брендану Фрейзеру и Рэйчел Вайс.",
+    "image": "https://leonardo.osnova.io/944f6228-a90c-5073-a1d9-0de8248cfdac/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5208799-michael-johnston-novaya-mumiya?from=rss",
+    "time": "2026-07-28T06:27:38.000Z"
   }
 ]
