@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Ярославле в ДТП с автобусом пострадали шесть человек",
+    "description": "Пострадавших доставили в больницу",
+    "fullText": "Пострадавших доставили в больницу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27961525",
+    "time": "2026-07-28T13:38:38.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Подборка симуляторов из Steam: какие выбрать и как купить в России",
+    "description": "Собрали 15 симуляторов про дороги, ремонт, фермерство, менеджмент и странные эксперименты.",
+    "fullText": "Собрали 15 симуляторов про дороги, ремонт, фермерство, менеджмент и странные эксперименты.",
+    "image": "https://leonardo.osnova.io/3642a0d6-91de-5468-92ee-bec39a1abb99/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5209213-luchshie-simulyatory-v-steam-dlya-pokupki-v-rossii?from=rss",
+    "time": "2026-07-28T13:09:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Трейлер документалки Netflix о Моуринью: архивные кадры и откровения Фергюсона, Златана, Касильяса",
     "description": "С русским переводом.",
@@ -11,36 +33,14 @@
     "time": "2026-07-28T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Космонавт Микаев рассказал, чем пахнет на МКС",
-    "description": "По его словам, на станции пахнет домом",
-    "fullText": "По его словам, на станции пахнет домом",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kosmos/27960801",
-    "time": "2026-07-28T11:14:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Холанд посмотрел все мемы про себя! Оценил даже русскую девушку-двойника",
-    "description": "Ни на один не обиделся.",
-    "fullText": "Ни на один не обиделся.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/de/8008be76843cfbdd3f4c852c4b521.jpeg",
+    "title": "Смолов рядом с Аршавиным по голам: может обойти уже во вторник. Мостовой далеко?",
+    "description": "Федор играет за «Броуков» в Кубке.",
+    "fullText": "Федор играет за «Броуков» в Кубке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/85/c0ba0564e4f34bc4f604de921bcfa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3426048.html",
-    "time": "2026-07-28T07:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "A24 показала трейлер «Натиска» — триллера про безумных суперсолдат от постановщика «Годзиллы против Конга»",
-    "description": "Фильм Адама Вингарда будут показывать в РФ.",
-    "fullText": "Фильм Адама Вингарда будут показывать в РФ.",
-    "image": "https://leonardo.osnova.io/c066d947-3c94-5b98-9c05-2bbc583f4331/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5208049-natisk-triller-a24-o-bezumnykh-supersoldatakh?from=rss",
-    "time": "2026-07-27T16:39:39.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3425322.html",
+    "time": "2026-07-28T09:15:00.000Z"
   }
 ]
