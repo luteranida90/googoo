@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Премьер-министр Великобритании предложил отложить легализацию эвтаназии",
-    "description": "Сначала необходимо изменить финансирование паллиативной и социальной помощи, заявил Энди Бернэм",
-    "fullText": "Сначала необходимо изменить финансирование паллиативной и социальной помощи, заявил Энди Бернэм",
+    "title": "В ТРЦ \"Павелецкая плаза\" эвакуируют сотрудников и посетителей",
+    "description": "Причина эвакуации не называется",
+    "fullText": "Причина эвакуации не называется",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27964733",
-    "time": "2026-07-29T12:14:22.000Z"
+    "url": "https://tass.ru/proisshestviya/27965315",
+    "time": "2026-07-29T16:00:32.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "«Раньше били лучше» – теперь официальный принт",
-    "description": "Мерч Кержакова в магазине Спортса’‘.",
-    "fullText": "Мерч Кержакова в магазине Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/37/b9e599fcd4d068038f16130c42645.png",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Новый формат на Спортсе’’ – короткие посты",
+    "description": "Короче, пишите.",
+    "fullText": "Короче, пишите.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
-    "time": "2026-07-29T11:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9yZWcucnVz",
-    "title": "Джерси. Август. И мы сегодня – бегуны",
-    "description": "Регистрируйтесь на забег в джерси от Спортса’‘.",
-    "fullText": "Регистрируйтесь на забег в джерси от Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://reg.russiarunning.com/event/Jerseybeg",
-    "time": "2026-07-29T09:30:00.000Z"
+    "url": "https://sprts.cc/kxSXwi",
+    "time": "2026-07-29T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Финалиста ЛК выгнали с их стадиона. Негде играть за 2 недели до сезона",
-    "description": "Кошмар «Райо».",
-    "fullText": "Кошмар «Райо».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/28/7be7933ed44fcaa5ba22ae407d366.jpeg",
+    "title": "Михаил Сергачев показал родную деревню Щучье, в которую приезжает каждое лето",
+    "description": "Лето в деревне.",
+    "fullText": "Лето в деревне.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/55/82a5e53c24b08b4a060d922f29e9c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3427039.html",
-    "time": "2026-07-29T08:25:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3426751.html",
+    "time": "2026-07-29T12:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В «цифре» вышел «Смерть Робина Гуда» — фильм A24 с Хью Джекманом в главной роли",
-    "description": "Оценки от прессы и зрителей — смешанные.",
-    "fullText": "Оценки от прессы и зрителей — смешанные.",
-    "image": "https://leonardo.osnova.io/56b6db1b-6023-5b72-a33b-19784f23c955/",
+    "title": "Valve ожидает, что все пользователи с бронью Steam Machine смогут оформить заказ до конца 2026 года",
+    "description": "Компания отправляет письма «ежедневно».",
+    "fullText": "Компания отправляет письма «ежедневно».",
+    "image": "https://leonardo.osnova.io/29b944a4-0e0d-5268-b953-e6b991b3202d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5210106-smert-robina-guda-film-a24-s-hyu-dzhekmanom?from=rss",
-    "time": "2026-07-28T20:05:52.000Z"
+    "url": "https://dtf.ru/hard/5210979-valve-soobshchaet-o-zakazakh-na-steam-machine?from=rss",
+    "time": "2026-07-29T10:44:01.000Z"
   }
 ]
