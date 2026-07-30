@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Херсоне произошли взрывы",
-    "description": "Сирены также работают в Сумской и Харьковской областях",
-    "fullText": "Сирены также работают в Сумской и Харьковской областях",
+    "title": "В Таганроге объявили угрозу применения БПЛА",
+    "description": "Об этом предупредила мэр города Светлана Камбулова",
+    "fullText": "Об этом предупредила мэр города Светлана Камбулова",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27966953",
-    "time": "2026-07-30T07:36:53.000Z"
+    "url": "https://tass.ru/proisshestviya/27968031",
+    "time": "2026-07-30T11:59:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Симулятор таблицы РПЛ: расставьте всех по местам!",
+    "description": "Уже со впечатлениями от 1-го тура.",
+    "fullText": "Уже со впечатлениями от 1-го тура.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/b9/2d4d1743f46e6a000b774ec66fd8c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/rpl-predictions/",
+    "time": "2026-07-30T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Сергей Гимаев: как жил, работал и почему его уважали абсолютно все",
+    "description": "Байки и редкие истории.",
+    "fullText": "Байки и редкие истории.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/52/d4260d7194f259586785170195649.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/_v5r9-8f4r0PGK4ZQ01rHoD-7mwx0ZeGmprtfZ8Bw50",
+    "time": "2026-07-30T08:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Нового Вемби нашли в Австралии? 18-летний парень уже вымахал на 229 см – и продолжает расти",
-    "description": "НБА уже взяла на заметку.",
-    "fullText": "НБА уже взяла на заметку.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/b1/091b60f59416eb202eae1947e3ab7.jpeg",
+    "title": "«Я не хочу быть медийной звездой». Интервью Станислава Минина",
+    "description": "Спрашивал Чернявский.",
+    "fullText": "Спрашивал Чернявский.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/75/bfa73f80f4ced86730a8bcd15018b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3427339.html",
-    "time": "2026-07-29T20:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3427305.html",
+    "time": "2026-07-30T07:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Krafton и студия Neon Giant рассказали о желании сделать из киберпанк-экшена The Ascent франшизу",
-    "description": "Игру, меж тем, опробовали двенадцать миллионов человек — в ноябре для неё выпустят патч с техническими улучшениями.",
-    "fullText": "Игру, меж тем, опробовали двенадцать миллионов человек — в ноябре для неё выпустят патч с техническими улучшениями.",
-    "image": "https://leonardo.osnova.io/9fadaa73-00be-5e69-a653-f6cb6770300e/",
+    "title": "На консолях вышла «роглайт»-стратегия The King is Watching от российских разработчиков",
+    "description": "Спустя год после релиза на ПК.",
+    "fullText": "Спустя год после релиза на ПК.",
+    "image": "https://leonardo.osnova.io/b114a672-2d74-583e-8ecd-b20dadceeaa8/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5211582-krafton-i-neon-giant-the-ascent-franshiza?from=rss",
-    "time": "2026-07-29T17:07:52.000Z"
+    "url": "https://dtf.ru/games/5211438-roglaity-strategiya-the-king-is-watching-na-konsolyakh?from=rss",
+    "time": "2026-07-29T15:57:29.000Z"
   }
 ]
