@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Абхазии назвали временным отсутствие топлива на некоторых АЗС",
-    "description": "Очередная партия топлива поступила 30 июля, сообщило правительство республики",
-    "fullText": "Очередная партия топлива поступила 30 июля, сообщило правительство республики",
+    "title": "Полиция Сербии ищет пропавшую в Белграде россиянку",
+    "description": "Сербские СМИ сообщали о том, что 27-летняя Людмила Туркова перестала отвечать на сообщения знакомых вечером 25 июля",
+    "fullText": "Сербские СМИ сообщали о том, что 27-летняя Людмила Туркова перестала отвечать на сообщения знакомых вечером 25 июля",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27968909",
-    "time": "2026-07-30T17:27:34.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27969231",
+    "time": "2026-07-30T18:48:27.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWcucnVz",
+    "title": "Финишируйте там, где играют футболисты",
+    "description": "«Джерси-бег» на «РЖД Арене».",
+    "fullText": "«Джерси-бег» на «РЖД Арене».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://reg.russiarunning.com/event/Jerseybeg",
+    "time": "2026-07-30T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -45,24 +56,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "20-летний Макклин Селебрини – самый дорогой хоккеист НХЛ: будет получать $18,8 млн в год!",
-    "description": "Заслужил?",
-    "fullText": "Заслужил?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/e5/0de24b8364a5dba6c74456568bd10.jpeg",
+    "title": "«Мы стали очень слабыми». Фехтовальщики провалились на ЧМ – хуже не было никогда",
+    "description": "Что случилось?",
+    "fullText": "Что случилось?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/78/8a4ea4df34b4ea7b524ca469ef3d7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3427774.html",
-    "time": "2026-07-30T13:25:00.000Z"
+    "url": "https://www.sports.ru/fencing/blogs/3427993.html",
+    "time": "2026-07-30T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Прохождение Control Resonant на 100% займёт 50 часов",
-    "description": "Основной сюжет можно пройти за 30.",
-    "fullText": "Основной сюжет можно пройти за 30.",
-    "image": "https://leonardo.osnova.io/92a038a7-506a-56b5-b539-3a51dd153775/",
+    "title": "«Я хотел тебе просто понравиться»: первый тизер-трейлер байопика про рэпера Басту",
+    "description": "Лента выйдет в российский прокат 24 декабря.",
+    "fullText": "Лента выйдет в российский прокат 24 декабря.",
+    "image": "https://leonardo.osnova.io/449e400e-b21c-51b7-8585-fda390b89e27/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5212539-prokhozhdenie-control-resonant-na-100?from=rss",
-    "time": "2026-07-30T05:23:40.000Z"
+    "url": "https://dtf.ru/cinema/5212784-basta-nachalo-igry?from=rss",
+    "time": "2026-07-30T08:05:53.000Z"
   }
 ]
