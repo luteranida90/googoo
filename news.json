@@ -1,24 +1,68 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Беглов обсудил с Памфиловой подготовку к выборам",
-    "description": "Председатель ЦИК поблагодарила главу города за помощь и поддержку избирательных комиссий Петербурга",
-    "fullText": "Председатель ЦИК поблагодарила главу города за помощь и поддержку избирательных комиссий Петербурга",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250811/8390563.jpg",
+    "title": "Гатилов: РФ требует от ООН осудить действия Молдавии против русского языка",
+    "description": "Постпред России при международных организациях в Женеве назвал происходящее в республике \"классическим примером политики двойных стандартов\"",
+    "fullText": "Постпред России при международных организациях в Женеве назвал происходящее в республике \"классическим примером политики двойных стандартов\"",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27969323",
-    "time": "2026-07-30T20:00:37.000Z"
+    "url": "https://tass.ru/politika/27969503",
+    "time": "2026-07-30T23:04:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Пас Ивана Едешко в Мюнхене: главный в истории советского спорта",
+    "description": "Три великих секунды.",
+    "fullText": "Три великих секунды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9f/10a6f5744407f877830ef5e1f54dd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/nIqjol5M09EAulNgzcNDwNEvzR5r6R655ihfYf8RoGI",
+    "time": "2026-07-30T21:22:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Человек-паук: Новый день» – самый зрелый фильм с Холландом. Это не веселенький Marvel",
+    "description": "Первые впечатления от фаната Паучка.",
+    "fullText": "Первые впечатления от фаната Паучка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/b6/3889780b24354974d7696233e86b6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3428146.html",
+    "time": "2026-07-30T20:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWcucnVz",
+    "title": "Финишируйте там, где играют футболисты",
+    "description": "«Джерси-бег» на «РЖД Арене».",
+    "fullText": "«Джерси-бег» на «РЖД Арене».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://reg.russiarunning.com/event/Jerseybeg",
+    "time": "2026-07-30T18:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "И на кой Инфантино продавать долю ЧМ частным инвесторам? УЕФА в ярости и грозит бойкотом",
+    "description": "Версии Игоря Сергеева.",
+    "fullText": "Версии Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b1/ecdfc0c4f4b2b8da6f35d2d5ddc72.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3427352.html",
+    "time": "2026-07-30T17:03:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Создатель Maniac Mansion и Monkey Island Рон Гилберт представил детективную адвенчуру Thimbleweed Park 2",
-    "description": "Игру планируют выпустить в 2028 году.",
-    "fullText": "Игру планируют выпустить в 2028 году.",
-    "image": "https://leonardo.osnova.io/1b319d60-d360-500a-9418-84499434abc2/",
+    "title": "Владелец Nexus Mods хочет сделать платформу «такой же удобной, как Spotify»",
+    "description": "Руководитель планирует упростить установку модов с сайта.",
+    "fullText": "Руководитель планирует упростить установку модов с сайта.",
+    "image": "https://leonardo.osnova.io/adcb2792-136a-5ada-aa99-74edf3d1cd41/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5213530-ron-gilbert-predstavlyaet-thimbleweed-park-2?from=rss",
-    "time": "2026-07-30T13:58:49.000Z"
+    "url": "https://dtf.ru/gameindustry/5213036-nexus-mods-udobnee-kak-spotify?from=rss",
+    "time": "2026-07-30T10:30:11.000Z"
   }
 ]
