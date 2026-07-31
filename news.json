@@ -1,57 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Умер чемпион мира по футболу 1982 года Франко Барези",
-    "description": "Ему было 66 лет",
-    "fullText": "Ему было 66 лет",
+    "title": "Telegraf: по подозрению в убийстве россиянки в Белграде задержали несколько человек",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/27970309",
-    "time": "2026-07-31T05:46:25.000Z"
+    "url": "https://tass.ru/proisshestviya/27972135",
+    "time": "2026-07-31T13:45:37.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Я сейчас закончу вообще все! Добавили короткие посты",
+    "description": "Короче, пишите.",
+    "fullText": "Короче, пишите.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-07-31T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Пас Ивана Едешко в Мюнхене: главный в истории советского спорта",
-    "description": "Три великих секунды.",
-    "fullText": "Три великих секунды.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/9f/10a6f5744407f877830ef5e1f54dd.jpeg",
+    "title": "Прыгуны в воду борются за первые медали Евро: прямой эфир «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Наши в деле.",
+    "fullText": "Наши в деле.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/e7/789b347e74684b5c9b551e6f7a58e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/nIqjol5M09EAulNgzcNDwNEvzR5r6R655ihfYf8RoGI",
-    "time": "2026-07-30T21:22:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Человек-паук: Новый день» – самый зрелый фильм с Холландом. Это не веселенький Marvel",
-    "description": "Первые впечатления от фаната Паучка.",
-    "fullText": "Первые впечатления от фаната Паучка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/b6/3889780b24354974d7696233e86b6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3428146.html",
-    "time": "2026-07-30T20:50:00.000Z"
+    "url": "https://video.sports.ru/aquatics/europeanaquatics/diving/",
+    "time": "2026-07-31T13:02:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сын Хьюитта шумит в туре – и, возможно, встречается с дочкой Федерера",
-    "description": "Первая победа в ATP.",
-    "fullText": "Первая победа в ATP.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/31/9a11302b14686a701bbc2a0dff994.jpeg",
+    "title": "Мартинс – недооцененный герой «Спартака»",
+    "description": "Колонка Андрея Савина.",
+    "fullText": "Колонка Андрея Савина.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/04/f0ef8f13f402c9b8e3bb74d4db6ef.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3428115.html",
-    "time": "2026-07-30T18:14:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3428287.html",
+    "time": "2026-07-31T10:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Epic Games Store стартовала раздача OTXO — мистического шутера с видом сверху про поиски возлюбленной",
-    "description": "Также можно забрать тактический «роглайт» Sol Cesto.",
-    "fullText": "Также можно забрать тактический «роглайт» Sol Cesto.",
-    "image": "https://leonardo.osnova.io/d3546153-91bb-5056-ac53-b22c3bc07eae/",
+    "title": "Нативная версия Xenoblade Chronicles 2 вышла на Switch 2 — с поддержкой 4K и 60 fps в режиме док-станции",
+    "description": "Владельцы игры на Nintendo Switch могут обновиться за 10 долларов.",
+    "fullText": "Владельцы игры на Nintendo Switch могут обновиться за 10 долларов.",
+    "image": "https://leonardo.osnova.io/8ae5d9ba-0679-51b1-8e25-5f7d6f603eeb/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5213719-razdacha-otxo-i-sol-cesto-v-epic-games-store?from=rss",
-    "time": "2026-07-30T15:52:48.000Z"
+    "url": "https://dtf.ru/games/5214179-xenoblade-chronicles-2-na-switch-2?from=rss",
+    "time": "2026-07-30T20:11:58.000Z"
   }
 ]
