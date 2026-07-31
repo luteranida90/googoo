@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Кривцов и Максименко у костра – с гитарой и пледами. Атмосферно поболтали!",
+    "description": "Про деньги, страхи и мечты.",
+    "fullText": "Про деньги, страхи и мечты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/fc/6da720fd441bfa349489c7dd4c24f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/tW0GO3xAAwpqoJJtePQeVQqAJlwO-oHiMpW-3ZI1PXI",
+    "time": "2026-08-01T20:45:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "233 гола Кержакова теперь на футболке",
     "description": "Заходите в магазин Спортса’‘.",
@@ -8,18 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
-    "time": "2026-07-31T19:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Военная база США заявила о крушении F-35 в Калифорнии",
-    "description": "Пилоту удалось катапультироваться",
-    "fullText": "Пилоту удалось катапультироваться",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27972977",
-    "time": "2026-07-31T19:22:41.000Z"
+    "time": "2026-08-01T19:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -30,7 +30,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3428393.html",
-    "time": "2026-07-31T19:05:00.000Z"
+    "time": "2026-08-01T19:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -41,18 +41,29 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
-    "time": "2026-07-31T17:30:00.000Z"
+    "time": "2026-08-01T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "На чем ездили Ловчев, Романцев, Маслаченко – экскурсия по автопарку отечественного футбола",
-    "description": "Одни занимали на «Волгу», другие покупали иномарки.",
-    "fullText": "Одни занимали на «Волгу», другие покупали иномарки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/9d/4883566c342338040da33741a7f6a.png",
+    "title": "Зачем эта девушка играет умирающим ударом? И почему у нее получается?",
+    "description": "Лилли Таггер взяла титул.",
+    "fullText": "Лилли Таггер взяла титул.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/91/d03f2236b45d7b9f0089fcdcf546e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3425183.html",
-    "time": "2026-07-31T15:05:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3428234.html",
+    "time": "2026-08-01T17:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Спартак\" постарается прервать доминирование ЦСКА в Кубке Овечкина по хоккею",
+    "description": "Турнир пройдет в Красногорске и Мытищах",
+    "fullText": "Турнир пройдет в Красногорске и Мытищах",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260801/9267385.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/27973111",
+    "time": "2026-07-31T21:09:02.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
