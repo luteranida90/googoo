@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Telegraf: по подозрению в убийстве россиянки в Белграде задержали несколько человек",
-    "description": "",
-    "fullText": "",
+    "title": "В МВД заявили, что тело убитой в Белграде россиянки помог найти полицейский пес",
+    "description": "Вице-премьер и министр внутренних дел Сербии Ивица Дачич отметил, что если бы не этот пес, поиски тела заняли бы часы, а может быть, даже дни",
+    "fullText": "Вице-премьер и министр внутренних дел Сербии Ивица Дачич отметил, что если бы не этот пес, поиски тела заняли бы часы, а может быть, даже дни",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27972135",
-    "time": "2026-07-31T13:45:37.000Z"
+    "url": "https://tass.ru/proisshestviya/27972527",
+    "time": "2026-07-31T15:42:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Батраков – в «Байер». Идеально?",
+    "description": "Саша Журавлев объясняет почему.",
+    "fullText": "Саша Журавлев объясняет почему.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/e8/fbb94c5df4c5fbb14271609909a33.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/aYf7DSVgFK8I9fcCsQ07HXTuqO_2pnhMkA_JR--11JA",
+    "time": "2026-07-31T14:24:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Симулятор таблицы РПЛ: расставьте всех по местам!",
+    "description": "Уже с впечатлениями от 1-го тура.",
+    "fullText": "Уже с впечатлениями от 1-го тура.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/b9/2d4d1743f46e6a000b774ec66fd8c.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/rpl-predictions/",
+    "time": "2026-07-31T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +44,25 @@
     "time": "2026-07-31T13:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Прыгуны в воду борются за первые медали Евро: прямой эфир «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "Наши в деле.",
-    "fullText": "Наши в деле.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/e7/789b347e74684b5c9b551e6f7a58e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/aquatics/europeanaquatics/diving/",
-    "time": "2026-07-31T13:02:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мартинс – недооцененный герой «Спартака»",
-    "description": "Колонка Андрея Савина.",
-    "fullText": "Колонка Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/04/f0ef8f13f402c9b8e3bb74d4db6ef.jpeg",
+    "title": "Однорукий футболист забил в ЛК. Он не считает себя инвалидом",
+    "description": "Удивительный Мариус Линд.",
+    "fullText": "Удивительный Мариус Линд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/6c/3558b2c5f423b88521cb7ade5c189.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3428287.html",
-    "time": "2026-07-31T10:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3428721.html",
+    "time": "2026-07-31T12:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Нативная версия Xenoblade Chronicles 2 вышла на Switch 2 — с поддержкой 4K и 60 fps в режиме док-станции",
-    "description": "Владельцы игры на Nintendo Switch могут обновиться за 10 долларов.",
-    "fullText": "Владельцы игры на Nintendo Switch могут обновиться за 10 долларов.",
-    "image": "https://leonardo.osnova.io/8ae5d9ba-0679-51b1-8e25-5f7d6f603eeb/-/format/mp4/",
+    "title": "Отчёт PlayStation: отгрузки PS5 достигли 95 миллионов единиц",
+    "description": "Доля цифровых загрузок за квартал составила 82%.",
+    "fullText": "Доля цифровых загрузок за квартал составила 82%.",
+    "image": "https://leonardo.osnova.io/d64e5da7-a9d1-546b-a06d-9e585a63b6c5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5214179-xenoblade-chronicles-2-na-switch-2?from=rss",
-    "time": "2026-07-30T20:11:58.000Z"
+    "url": "https://dtf.ru/gameindustry/5214516-otchet-playstation-o-prodazhakh-ps5?from=rss",
+    "time": "2026-07-31T05:04:53.000Z"
   }
 ]
