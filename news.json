@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сербии в \"Русском некрополе\" почтили память павших в Первой мировой войне",
-    "description": "В церемонии поучаствовали дипломаты России, соотечественники, а также представители сербских властей и патриотических движений",
-    "fullText": "В церемонии поучаствовали дипломаты России, соотечественники, а также представители сербских властей и патриотических движений",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260801/9267993.jpg",
+    "title": "США введут визовые залоги до $20 тыс. для граждан 50 стран",
+    "description": "Россия не входит в перечень этих государств",
+    "fullText": "Россия не входит в перечень этих государств",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27974275",
-    "time": "2026-08-01T11:27:32.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27974545",
+    "time": "2026-08-01T14:44:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Наши синхронистки – в борьбе за медали Евро! Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Следим за дуэтами.",
+    "fullText": "Следим за дуэтами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/a3/7a95df3a348d08df6081afc3ebb41.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/aquatics/europeanaquatics/artistic-swimming/",
+    "time": "2026-08-01T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В НБА можно попасть с улицы. Он нарезал видео с торрентов, тренировал Уганду и открыл Ищенко для «Далласа»",
-    "description": "Очень молодой генменеджер.",
-    "fullText": "Очень молодой генменеджер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/16/d5a425cf74464bf33b760ec8b4cb3.jpeg",
+    "title": "Антонелли – летний чемпион «Ф-1». В чем его уникальность?",
+    "description": "Все причины сенсационного лидерства.",
+    "fullText": "Все причины сенсационного лидерства.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/6d/8e02d6f5948088a7c40bffad18b69.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3424791.html",
-    "time": "2026-08-01T06:30:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3425911.html",
+    "time": "2026-08-01T11:04:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бета Mortal Shell II вышла на PS5 и Xbox Series X|S",
-    "description": "Игроки могут опробовать первые часы «соулслайка».",
-    "fullText": "Игроки могут опробовать первые часы «соулслайка».",
-    "image": "https://leonardo.osnova.io/6b1d7f7e-665a-5046-963f-79146dd00fe2/-/format/mp4/",
+    "title": "«TESO останется с нами»: геймдиректор The Elder Scrolls Online о дальнейшей поддержке игры",
+    "description": "Часть контента перенесли на 2027 год.",
+    "fullText": "Часть контента перенесли на 2027 год.",
+    "image": "https://leonardo.osnova.io/00af357c-37f6-581d-939e-34c38f981228/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5215383-beta-mortal-shell-ii-na-ps5?from=rss",
-    "time": "2026-07-31T13:36:01.000Z"
+    "url": "https://dtf.ru/games/5215280-podderzhka-the-elder-scrolls-online-prodolzhaetsya?from=rss",
+    "time": "2026-07-31T12:55:37.000Z"
   }
 ]
