@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Воронежской области объявили опасность атаки БПЛА",
-    "description": "Граждан попросили сохранять спокойствие",
-    "fullText": "Граждан попросили сохранять спокойствие",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "\"Ъ\": Генпрокуратура получила дело об атаке ВСУ на военные аэродромы РФ",
+    "description": "Под стражей находятся водители фур, которым вменили совершение теракта группой лиц по предварительному сговору и незаконное приобретение и перевозку взрывчатки организованной группой",
+    "fullText": "Под стражей находятся водители фур, которым вменили совершение теракта группой лиц по предварительному сговору и незаконное приобретение и перевозку взрывчатки организованной группой",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260805/9277961.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27986623",
-    "time": "2026-08-05T18:14:04.000Z"
+    "url": "https://tass.ru/obschestvo/27986745",
+    "time": "2026-08-05T19:50:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -20,17 +20,6 @@
     "category": "all",
     "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
     "time": "2026-08-05T18:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Семак vs Талалаев: «Зенит» обыгрывает «Балтику» в Кубке – 1:0, смотрим прямой эфир «Матч ТВ» на ВидеоСпортсе’‘",
-    "description": "Как стартует чемпион?",
-    "fullText": "Как стартует чемпион?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/b2/ae20f5e144dc6b9a0e16ef03c21f0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/football/russian-cup/match/zenit-vs-baltika/",
-    "time": "2026-08-05T17:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -45,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Все, кто вылетел и вышел: тест по всем перемещениям в топ-лигах. Впишем каждого?",
-    "description": "Мы в вас верим.",
-    "fullText": "Мы в вас верим.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/65/c97ec972e419a93a04d614f8efd66.jpeg",
+    "title": "Финишируйте там, где играют футболисты",
+    "description": "«Джерси-бег» на «РЖД Арене».",
+    "fullText": "«Джерси-бег» на «РЖД Арене».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3410367.html",
-    "time": "2026-08-05T14:25:00.000Z"
+    "url": "https://www.sports.ru/jersey-beg/?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
+    "time": "2026-08-05T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Четвертый сезон сериала «Тед Лассо» стартовал на Apple TV",
-    "description": "Первые рецензии оказались сдержанно положительными.",
-    "fullText": "Первые рецензии оказались сдержанно положительными.",
-    "image": "https://leonardo.osnova.io/3490a089-c18b-5338-8fa0-300e41496be1/",
+    "title": "Ведущий дизайнер оригинальной Assassin&#039;s Creed Black Flag вернулся в Ubisoft",
+    "description": "Он занял позицию геймдиректора франшизы.",
+    "fullText": "Он занял позицию геймдиректора франшизы.",
+    "image": "https://leonardo.osnova.io/e728717d-6a9e-5661-9baa-34bce8c72d91/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5223843-chetvertyj-sezon-seriala-ted-lasso?from=rss",
-    "time": "2026-08-05T08:52:28.000Z"
+    "url": "https://dtf.ru/gameindustry/5224142-dizayner-assassins-creed-black-flag-vernulsya-v-ubisoft?from=rss",
+    "time": "2026-08-05T11:26:36.000Z"
   }
 ]
