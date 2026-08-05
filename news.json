@@ -1,5 +1,38 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Воронежской области объявили опасность атаки БПЛА",
+    "description": "Граждан попросили сохранять спокойствие",
+    "fullText": "Граждан попросили сохранять спокойствие",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27986623",
+    "time": "2026-08-05T18:14:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
+    "description": "Уникальный мерч в магазине Спортса’‘.",
+    "fullText": "Уникальный мерч в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-08-05T18:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Семак vs Талалаев: «Зенит» обыгрывает «Балтику» в Кубке – 1:0, смотрим прямой эфир «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Как стартует чемпион?",
+    "fullText": "Как стартует чемпион?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/b2/ae20f5e144dc6b9a0e16ef03c21f0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/russian-cup/match/zenit-vs-baltika/",
+    "time": "2026-08-05T17:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Билеты на «Колобка» не покупают! А ведь из-за него перенесли «Человека-паука 4»…",
     "description": "Изучили пустующие залы.",
@@ -11,58 +44,25 @@
     "time": "2026-08-05T16:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Общественное. Новости\": в одесских портах повреждено более 1 тыс. объектов",
-    "description": "Речь идет об инфраструктуре в портах Одесса, Черноморск и Южный",
-    "fullText": "Речь идет об инфраструктуре в портах Одесса, Черноморск и Южный",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27986435",
-    "time": "2026-08-05T16:42:47.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Старт «Спартака» в Кубке – громят 3:0 «Оренбург». Смотрим игру в прямом эфире «Матч ТВ» на ВидеоСпортсе’‘",
-    "description": "3-я победа подряд близка.",
-    "fullText": "3-я победа подряд близка.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/eb/931c200a94da3940193f9de8e9753.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/football/russian-cup/match/spartak-vs-orenburg/",
-    "time": "2026-08-05T16:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9yZWRpcmVj",
-    "title": "ГОЛевой конкурс!",
-    "description": "Участвуйте в розыгрыше призов.",
-    "fullText": "Участвуйте в розыгрыше призов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
-    "time": "2026-08-05T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Сюжеты «Ф-1», каких точно не ждали: Антонелли лидирует, Хэмилтон вернулся, Ферстаппен шантажирует",
-    "description": "Фиксируем неожиданности.",
-    "fullText": "Фиксируем неожиданности.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/3a/88adea6e742a89d2a677de5e7f48c.jpeg",
+    "title": "Все, кто вылетел и вышел: тест по всем перемещениям в топ-лигах. Впишем каждого?",
+    "description": "Мы в вас верим.",
+    "fullText": "Мы в вас верим.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/65/c97ec972e419a93a04d614f8efd66.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3430503.html",
-    "time": "2026-08-05T12:01:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3410367.html",
+    "time": "2026-08-05T14:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Режиссёр экранизации Borderlands согласен, что фильм не удался: «У него нет целевой аудитории»",
-    "description": "Студия внесла множество изменений.",
-    "fullText": "Студия внесла множество изменений.",
-    "image": "https://leonardo.osnova.io/5d8deee7-d6dd-5249-a34c-dccf0f9bca18/",
+    "title": "Четвертый сезон сериала «Тед Лассо» стартовал на Apple TV",
+    "description": "Первые рецензии оказались сдержанно положительными.",
+    "fullText": "Первые рецензии оказались сдержанно положительными.",
+    "image": "https://leonardo.osnova.io/3490a089-c18b-5338-8fa0-300e41496be1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5223673-rezhisser-borderlands-o-provale-filma?from=rss",
-    "time": "2026-08-05T07:17:04.000Z"
+    "url": "https://dtf.ru/cinema/5223843-chetvertyj-sezon-seriala-ted-lasso?from=rss",
+    "time": "2026-08-05T08:52:28.000Z"
   }
 ]
