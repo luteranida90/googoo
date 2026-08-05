@@ -1,35 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Билеты на «Колобка» не покупают! А ведь из-за него перенесли «Человека-паука 4»…",
+    "description": "Изучили пустующие залы.",
+    "fullText": "Изучили пустующие залы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/77/f80a0b26c4e36a8d78bed1b16d1dc.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3432237.html",
+    "time": "2026-08-05T16:50:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Миляев заявил, что сил и средств для тушения пожара в Wildberries достаточно",
-    "description": "Ситуация находится под контролем, заверил глава Тульской области",
-    "fullText": "Ситуация находится под контролем, заверил глава Тульской области",
+    "title": "\"Общественное. Новости\": в одесских портах повреждено более 1 тыс. объектов",
+    "description": "Речь идет об инфраструктуре в портах Одесса, Черноморск и Южный",
+    "fullText": "Речь идет об инфраструктуре в портах Одесса, Черноморск и Южный",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27985199",
-    "time": "2026-08-05T10:42:49.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27986435",
+    "time": "2026-08-05T16:42:47.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Старт «Спартака» в Кубке – громят 3:0 «Оренбург». Смотрим игру в прямом эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "3-я победа подряд близка.",
+    "fullText": "3-я победа подряд близка.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/eb/931c200a94da3940193f9de8e9753.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/russian-cup/match/spartak-vs-orenburg/",
+    "time": "2026-08-05T16:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "ГОЛевой конкурс!",
+    "description": "Участвуйте в розыгрыше призов.",
+    "fullText": "Участвуйте в розыгрыше призов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-08-05T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему это трансферное лето «Реала» – особенное",
-    "description": "Три причины.",
-    "fullText": "Три причины.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/4b/a3afb671b42dca3194f0b8d4175c0.jpeg",
+    "title": "Сюжеты «Ф-1», каких точно не ждали: Антонелли лидирует, Хэмилтон вернулся, Ферстаппен шантажирует",
+    "description": "Фиксируем неожиданности.",
+    "fullText": "Фиксируем неожиданности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/3a/88adea6e742a89d2a677de5e7f48c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3430177.html",
-    "time": "2026-08-05T06:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3430503.html",
+    "time": "2026-08-05T12:01:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Путешествия во времени и пять персонажей — геймплей и подробности Fire Emblem: Fortune’s Weave",
-    "description": "Разработчики раскрыли сюжетную завязку.",
-    "fullText": "Разработчики раскрыли сюжетную завязку.",
-    "image": "https://leonardo.osnova.io/09b48729-8ada-59da-a203-c2ad38c97777/-/format/mp4/",
+    "title": "Режиссёр экранизации Borderlands согласен, что фильм не удался: «У него нет целевой аудитории»",
+    "description": "Студия внесла множество изменений.",
+    "fullText": "Студия внесла множество изменений.",
+    "image": "https://leonardo.osnova.io/5d8deee7-d6dd-5249-a34c-dccf0f9bca18/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5222735-fire-emblem-fortunes-weave-syuzhet-personazhi-geympley?from=rss",
-    "time": "2026-08-04T16:47:28.000Z"
+    "url": "https://dtf.ru/cinema/5223673-rezhisser-borderlands-o-provale-filma?from=rss",
+    "time": "2026-08-05T07:17:04.000Z"
   }
 ]
