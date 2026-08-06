@@ -1,57 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин назвал широкими перспективы сотрудничества России и Киргизии",
-    "description": "Президент РФ отметил, что речь идет и о взаимодействии в гуманитарной сфере",
-    "fullText": "Президент РФ отметил, что речь идет и о взаимодействии в гуманитарной сфере",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529899.jpg",
+    "title": "В аэропорту Сочи задерживаются более 130 рейсов",
+    "description": "В частности, на вылет задержаны 75 бортов",
+    "fullText": "В частности, на вылет задержаны 75 бортов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/27987625",
-    "time": "2026-08-06T05:27:04.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Рекордный гол Полеха в 16, яркие 5:1 – эмоции «Спартака» после разгрома",
-    "description": "Порезвились в Кубке.",
-    "fullText": "Порезвились в Кубке.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/d1/7dace3d304db7a16b06d52bc22970.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/jAoclxeHgUcrFzhMoPWuQDAkJeAhTEp0v6pQ8mNLlSI",
-    "time": "2026-08-05T20:30:00.000Z"
+    "url": "https://tass.ru/obschestvo/27988313",
+    "time": "2026-08-06T08:16:54.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Это самый татуированный боец мира: крест на лбу, слова на веках, сплошь залитая грудь",
-    "description": "Начал еще в детстве.",
-    "fullText": "Начал еще в детстве.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/64/6ce31ff39429a9a3563c489e018dc.jpeg",
+    "title": "Футболист погиб от молнии в Таиланде. Жуть",
+    "description": "Напоминаем правила безопасности.",
+    "fullText": "Напоминаем правила безопасности.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e3/1c62fb04a415ca539644b22f976a5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3426702.html",
-    "time": "2026-08-05T18:25:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
-    "description": "Уникальный мерч в магазине Спортса’‘.",
-    "fullText": "Уникальный мерч в магазине Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
-    "time": "2026-08-05T18:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3432158.html",
+    "time": "2026-08-05T20:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel Rivals «похудеет» на ПК и консолях",
-    "description": "Уже с апдейтом 7 августа.",
-    "fullText": "Уже с апдейтом 7 августа.",
-    "image": "https://leonardo.osnova.io/8cb6fe6c-d989-563c-87f4-be22cf3c6b40/",
+    "title": "Lies of P появилась на Nintendo Switch 2 в полном издании",
+    "description": "Цена — 70 долларов.",
+    "fullText": "Цена — 70 долларов.",
+    "image": "https://leonardo.osnova.io/494263af-72f0-59aa-a17b-4a991dd495c1/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5224127-obnovlenie-marvel-rivals-umenshit-razmer?from=rss",
-    "time": "2026-08-05T11:00:56.000Z"
+    "url": "https://dtf.ru/games/5224590-lies-of-p-na-nintendo-switch-2-v-polnom-izdanii?from=rss",
+    "time": "2026-08-05T15:50:11.000Z"
   }
 ]
