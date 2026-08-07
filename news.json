@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минпромторг ждет антидемпингового расследования ЕАЭС по лимонной кислоте",
-    "description": "В марте начато расследование по белой жести, сообщил замглавы министерства Роман Чекушов",
-    "fullText": "В марте начато расследование по белой жести, сообщил замглавы министерства Роман Чекушов",
+    "title": "Раскрыт молекулярный механизм развития средиземноморской семейной лихорадки",
+    "description": "Заболевание развивается в результате появления сбоев во взаимодействиях между белками CDC42 и MEFV",
+    "fullText": "Заболевание развивается в результате появления сбоев во взаимодействиях между белками CDC42 и MEFV",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/27993461",
-    "time": "2026-08-07T17:30:48.000Z"
+    "url": "https://tass.ru/nauka/27993539",
+    "time": "2026-08-07T18:08:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -22,25 +22,25 @@
     "time": "2026-08-07T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: финальный сезон «Ведьмака» перенесли на 2027 год",
-    "description": "Ожидалось, что сериал Netflix закончится этой осенью.",
-    "fullText": "Ожидалось, что сериал Netflix закончится этой осенью.",
-    "image": "https://leonardo.osnova.io/32305a5b-bd16-578d-85cc-7a466e66a156/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5228299-perenos-finalnogo-sezona-vedmaka-na-netflix?from=rss",
-    "time": "2026-08-07T14:33:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Покажите свою джерси на «Джерси-беге»",
-    "description": "Присоединяйтесь к благотворительному забегу.",
-    "fullText": "Присоединяйтесь к благотворительному забегу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "title": "Говорят, в НБА Запад сильнее Востока весь XXI век. Проверяем",
+    "description": "Легенды и мифы Древней Греции.",
+    "fullText": "Легенды и мифы Древней Греции.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/2b/fc9c9ad454f9da909bda442a2423d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/jersey-beg/?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
-    "time": "2026-08-07T13:30:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3430114.html",
+    "time": "2026-08-07T14:39:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Предварительный этап беты Gears of War: E-Day уже поставил рекорд франшизы по онлайну в Steam",
+    "description": "Дальше, вероятно, больше.",
+    "fullText": "Дальше, вероятно, больше.",
+    "image": "https://leonardo.osnova.io/2402b978-96a5-5d16-8537-caa1ca194bd3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5227972-gears-of-war-e-day-rekordy-onlayn-igry-v-steam?from=rss",
+    "time": "2026-08-07T11:23:46.000Z"
   }
 ]
