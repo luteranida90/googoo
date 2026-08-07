@@ -1,9 +1,31 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Свердловской области участок трассы закрыли для транспорта из-за подтопления",
+    "description": "Ограничения ввели на 128-м километре трассы Невьянск - Реж - Артемовский - Килачевское",
+    "fullText": "Ограничения ввели на 128-м километре трассы Невьянск - Реж - Артемовский - Килачевское",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27991963",
+    "time": "2026-08-07T08:38:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Пройдите легендарную игру и выиграйте призы!",
+    "description": "Только для самых внимательных.",
+    "fullText": "Только для самых внимательных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/5c/a513530714b0f99f8684378f13a93.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/mahjong-game/?utm_source=post_sports",
+    "time": "2026-08-07T07:49:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Наши пловцы в погоне за медалью Евро на открытой воде. Смотрите в эфире «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "Женские 3 км.",
-    "fullText": "Женские 3 км.",
+    "description": "Мужские 3 км.",
+    "fullText": "Мужские 3 км.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/fb/a019323954e9daf8837cacfcac619.jpeg",
     "source": "Sports.ru",
     "category": "all",
@@ -12,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Из 5-й лиги Испании в «Реал» за 1,5 года – вот настолько безумный взлет у Диоманде!",
-    "description": "Как так получилось?",
-    "fullText": "Как так получилось?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/f4/71ff95a0e491ba09830aadf568e4c.jpeg",
+    "title": "Наденьте джерси и выбегайте на стадион",
+    "description": "«Джерси-бег» возвращается!",
+    "fullText": "«Джерси-бег» возвращается!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3427645.html",
-    "time": "2026-08-06T20:20:00.000Z"
+    "url": "https://www.sports.ru/jersey-beg/?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
+    "time": "2026-08-06T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: роль Ганондорфа в экранизации The Legend of Zelda досталась австралийскому актёру Ули Латукефу",
-    "description": "Его можно было увидеть в сериале «Молодой Скала».",
-    "fullText": "Его можно было увидеть в сериале «Молодой Скала».",
-    "image": "https://leonardo.osnova.io/23c7acfc-41cb-5278-bfc8-6fe4fc8e2e0b/",
+    "title": "«Время вынести мусор»: Blizzard представила D.Mon — следующую героиню Overwatch",
+    "description": "Её добавят в шутер уже 11 августа.",
+    "fullText": "Её добавят в шутер уже 11 августа.",
+    "image": "https://leonardo.osnova.io/22bee17e-60e0-5799-8666-5c92cdebf5ea/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5226849-ganondorf-v-ekranizatsii-the-legend-of-zelda-uli-latukefu?from=rss",
-    "time": "2026-08-06T18:23:58.000Z"
+    "url": "https://dtf.ru/games/5226751-blizzard-predstavila-novuyu-geroinyu-dmon-v-overwatch?from=rss",
+    "time": "2026-08-06T17:46:16.000Z"
   }
 ]
