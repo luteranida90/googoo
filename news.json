@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В \"VK Видео\" заявили, что 55% россиян отправляют видео с котами другим людям",
-    "description": "По данным исследования, около 27% пользователей назвали причиной просмотра видео с котами желание посмеяться",
-    "fullText": "По данным исследования, около 27% пользователей назвали причиной просмотра видео с котами желание посмеяться",
+    "title": "Монголия создаст запасы продовольствия",
+    "description": "Правительство страны приняло такое решение, в том числе из-за проблем с импортом бензина из России",
+    "fullText": "Правительство страны приняло такое решение, в том числе из-за проблем с импортом бензина из России",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/27992401",
-    "time": "2026-08-07T10:40:35.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27992775",
+    "time": "2026-08-07T12:38:20.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Наши пловцы в погоне за медалью Евро на открытой воде. Смотрите в эфире «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "Мужские 3 км.",
-    "fullText": "Мужские 3 км.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/fb/a019323954e9daf8837cacfcac619.jpeg",
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Гарет Эдвардс покинул режиссёрское кресло сиквела «Мира Юрского периода: Возрождение»",
+    "description": "Ожидается, что актёрский состав вернётся к своим ролям.",
+    "fullText": "Ожидается, что актёрский состав вернётся к своим ролям.",
+    "image": "https://leonardo.osnova.io/ff8d79ed-46b6-5ce1-abb3-8b60e26f6c20/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5227625-garet-edvards-ushyel-s-posta-rezhissiora-sikvela-mira-yurskogo-perioda?from=rss",
+    "time": "2026-08-07T08:17:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Самый хрустальный игрок НБА хочет 275 млн. Как так?",
+    "description": "Финансовые загогулины Энтони Дэвиса.",
+    "fullText": "Финансовые загогулины Энтони Дэвиса.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a6/18a40ec1b4e9bb6e300436442285e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/aquatics/europeanaquatics/open-water-swimming/",
-    "time": "2026-08-07T09:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3432859.html",
+    "time": "2026-08-07T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -31,27 +42,5 @@
     "category": "all",
     "url": "https://specials.sports.ru/mahjong-game/?utm_source=post_sports",
     "time": "2026-08-07T07:49:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Диоманде за 125 млн – вторая трата «Реала» за всю историю. Он дороже Роналду и Бэйла",
-    "description": "Чуть не хватило до Джуда.",
-    "fullText": "Чуть не хватило до Джуда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/00/1d58d3e074bda8228ed5bc8c66331.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3426060.html",
-    "time": "2026-08-07T05:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Warner Bros. подтвердила, что продолжает работу над следующей «Матрицей»",
-    "description": "Её релиз ожидается после 2027 года.",
-    "fullText": "Её релиз ожидается после 2027 года.",
-    "image": "https://leonardo.osnova.io/84c10c41-cfc5-5ecd-acba-8edd7bdd5ef2/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5226804-warner-bros-prodolzhaet-rabotu-nad-novoy-matricey?from=rss",
-    "time": "2026-08-06T17:56:37.000Z"
   }
 ]
