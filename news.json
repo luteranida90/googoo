@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Свердловской области участок трассы закрыли для транспорта из-за подтопления",
-    "description": "Ограничения ввели на 128-м километре трассы Невьянск - Реж - Артемовский - Килачевское",
-    "fullText": "Ограничения ввели на 128-м километре трассы Невьянск - Реж - Артемовский - Килачевское",
+    "title": "В \"VK Видео\" заявили, что 55% россиян отправляют видео с котами другим людям",
+    "description": "По данным исследования, около 27% пользователей назвали причиной просмотра видео с котами желание посмеяться",
+    "fullText": "По данным исследования, около 27% пользователей назвали причиной просмотра видео с котами желание посмеяться",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27991963",
-    "time": "2026-08-07T08:38:34.000Z"
+    "url": "https://tass.ru/obschestvo/27992401",
+    "time": "2026-08-07T10:40:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Наши пловцы в погоне за медалью Евро на открытой воде. Смотрите в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Мужские 3 км.",
+    "fullText": "Мужские 3 км.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/fb/a019323954e9daf8837cacfcac619.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/aquatics/europeanaquatics/open-water-swimming/",
+    "time": "2026-08-07T09:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
@@ -22,36 +33,25 @@
     "time": "2026-08-07T07:49:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Наши пловцы в погоне за медалью Евро на открытой воде. Смотрите в эфире «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "Мужские 3 км.",
-    "fullText": "Мужские 3 км.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/fb/a019323954e9daf8837cacfcac619.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/aquatics/europeanaquatics/open-water-swimming/",
-    "time": "2026-08-07T06:58:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наденьте джерси и выбегайте на стадион",
-    "description": "«Джерси-бег» возвращается!",
-    "fullText": "«Джерси-бег» возвращается!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "title": "Диоманде за 125 млн – вторая трата «Реала» за всю историю. Он дороже Роналду и Бэйла",
+    "description": "Чуть не хватило до Джуда.",
+    "fullText": "Чуть не хватило до Джуда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/00/1d58d3e074bda8228ed5bc8c66331.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/jersey-beg/?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
-    "time": "2026-08-06T21:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3426060.html",
+    "time": "2026-08-07T05:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Время вынести мусор»: Blizzard представила D.Mon — следующую героиню Overwatch",
-    "description": "Её добавят в шутер уже 11 августа.",
-    "fullText": "Её добавят в шутер уже 11 августа.",
-    "image": "https://leonardo.osnova.io/22bee17e-60e0-5799-8666-5c92cdebf5ea/-/format/mp4/",
+    "title": "Warner Bros. подтвердила, что продолжает работу над следующей «Матрицей»",
+    "description": "Её релиз ожидается после 2027 года.",
+    "fullText": "Её релиз ожидается после 2027 года.",
+    "image": "https://leonardo.osnova.io/84c10c41-cfc5-5ecd-acba-8edd7bdd5ef2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5226751-blizzard-predstavila-novuyu-geroinyu-dmon-v-overwatch?from=rss",
-    "time": "2026-08-06T17:46:16.000Z"
+    "url": "https://dtf.ru/cinema/5226804-warner-bros-prodolzhaet-rabotu-nad-novoy-matricey?from=rss",
+    "time": "2026-08-06T17:56:37.000Z"
   }
 ]
