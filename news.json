@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Пензенской области ввели режим беспилотной опасности",
+    "description": "Временно ограничена работа мобильного интернета",
+    "fullText": "Временно ограничена работа мобильного интернета",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/27993635",
+    "time": "2026-08-07T21:14:51.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Он придумал «шансон для зумеров» про Майнкрафт, CS и GTA. А теперь собирает с ним тысячные залы",
     "description": "Интервью Фила Попова с исполнителем Илюшей.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3433208.html",
     "time": "2026-08-07T20:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "От восхищения до разочарования. Хорватия встала на пути российской гимнастики",
-    "description": "Ангелина Мельникова и Виктория Листунова не смогут выступить на чемпионате Европы из-за отказа властей Хорватии в выдаче виз",
-    "fullText": "Ангелина Мельникова и Виктория Листунова не смогут выступить на чемпионате Европы из-за отказа властей Хорватии в выдаче виз",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260807/9284365.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/27993589",
-    "time": "2026-08-07T19:58:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWRpcmVj",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Карри косплеит его игру, а Кайри – поведение. Махмуд Абдул-Рауф был всем тем, чем НБА стала сегодня",
-    "description": "Снайпер, новатор, глобалист.",
-    "fullText": "Снайпер, новатор, глобалист.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/7b/4f823cb7c4c3796c6db44fbbf40d2.jpeg",
+    "title": "Ларионов-младший остался в СКА на пробном контракте, Сошников поехал в «Трактор». Онлайн лета в КХЛ",
+    "description": "Главные события межсезонья.",
+    "fullText": "Главные события межсезонья.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/e3/2ecfb8d0e4fd88937eb8f8f3cd6d8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3417692.html",
-    "time": "2026-08-07T15:44:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3411419.html",
+    "time": "2026-08-07T16:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
