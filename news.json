@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Подозреваемый в хищении эск-госсекретарь МИД Украины вышел под залог",
-    "description": "За Александра Банькова внесли залог в 10 млн гривен",
-    "fullText": "За Александра Банькова внесли залог в 10 млн гривен",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Лукашенко подарили изготовленный по стандартам НАТО белорусский бинокль",
+    "description": "Президенту также вручили картину, сделанную из оптического стекла, на ней изображены аисты и женщина в традиционном белорусском костюме",
+    "fullText": "Президенту также вручили картину, сделанную из оптического стекла, на ней изображены аисты и женщина в традиционном белорусском костюме",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969335.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27993339",
-    "time": "2026-08-07T15:50:22.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27993423",
+    "time": "2026-08-07T16:45:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как работают рефери UFC – и за что их так ненавидят",
+    "description": "Разобрали с россиянином, судившим в лиге.",
+    "fullText": "Разобрали с россиянином, судившим в лиге.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/4d/54b8aa4bf4b84b010ca679dfd5b42.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3423466.html",
+    "time": "2026-08-07T13:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,25 +33,14 @@
     "time": "2026-08-07T13:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "О самой опасной гонке мира снимают фильм. Брэд Питт – теперь продюсер",
-    "description": "Главную роль исполнит Ченнинг Татум.",
-    "fullText": "Главную роль исполнит Ченнинг Татум.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/63/797251748435cac4c9f1d53ba6937.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3430603.html",
-    "time": "2026-08-07T12:25:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывшие авторы Mass Effect, Dragon Age и The Long Dark работают над детективной point-and-click адвенчурой",
-    "description": "Разработчики считают, что по модели ААА такая игра не смогла бы появиться на свет.",
-    "fullText": "Разработчики считают, что по модели ААА такая игра не смогла бы появиться на свет.",
-    "image": "https://leonardo.osnova.io/7ef8edb1-d9d6-56c0-b173-c7129e887540/-/format/mp4/",
+    "title": "Вышел трейлер аниме «Созданный в Бездне: Тайна пробуждения» с заглавной песней",
+    "description": "Трек исполнила витубер Каллиопа Мори.",
+    "fullText": "Трек исполнила витубер Каллиопа Мори.",
+    "image": "https://leonardo.osnova.io/abb17045-d811-5857-aa8d-03e92a451d60/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5227658-detektivnaya-adventura-ot-avtorov-mass-effect-i-dragon-age?from=rss",
-    "time": "2026-08-07T08:48:33.000Z"
+    "url": "https://dtf.ru/anime/5227684-trejler-animye-sozdannyy-v-bezdne-tayna-probuzhdeniya?from=rss",
+    "time": "2026-08-07T09:25:40.000Z"
   }
 ]
