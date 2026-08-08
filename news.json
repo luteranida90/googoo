@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Астрономы рассказали, как увидеть затмение Солнца в Москве 12 августа",
-    "description": "Начинать смотреть на Солнце через специальный фильтр можно в 20:03 мск",
-    "fullText": "Начинать смотреть на Солнце через специальный фильтр можно в 20:03 мск",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260808/9284765.jpg",
+    "title": "В Краснодарском крае объявили беспилотную опасность",
+    "description": "Об этом сообщили в РСЧС региона",
+    "fullText": "Об этом сообщили в РСЧС региона",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/27994409",
-    "time": "2026-08-08T07:13:40.000Z"
+    "url": "https://tass.ru/proisshestviya/27994471",
+    "time": "2026-08-08T08:04:01.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Наши пловцы в погоне за медалью Евро на открытой воде. Смотрите в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Эстафета.",
+    "fullText": "Эстафета.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/fb/a019323954e9daf8837cacfcac619.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/aquatics/europeanaquatics/open-water-swimming/",
+    "time": "2026-08-08T07:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -23,35 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фанаты «Спартака» против албанца Даку – из-за оскорблений сербов. Почему народы враждуют?",
-    "description": "Разбирался Юрий Истомин.",
-    "fullText": "Разбирался Юрий Истомин.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/2c/cfce986354f00b5e174790d5ea035.jpeg",
+    "title": "19+ голов и чемпионская гонка: чего ждать от Салаха в «Трабзонспоре»",
+    "description": "Меняется баланс сил.",
+    "fullText": "Меняется баланс сил.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/1e/3cb7e59704fdb86dd1e20e198f375.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3433107.html",
-    "time": "2026-08-07T20:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Он придумал «шансон для зумеров» про Майнкрафт, CS и GTA. А теперь собирает с ним тысячные залы",
-    "description": "Интервью Фила Попова с исполнителем Илюшей.",
-    "fullText": "Интервью Фила Попова с исполнителем Илюшей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/fd/04e372e9c4672800f87160679ed42.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cs/blogs/3433208.html",
-    "time": "2026-08-07T20:00:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3432702.html",
+    "time": "2026-08-07T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Marvel Rivals вышло межсезонное обновление с Капюшоном и временным ивентом",
-    "description": "Размер игры на ПК снизили на 30%.",
-    "fullText": "Размер игры на ПК снизили на 30%.",
-    "image": "https://leonardo.osnova.io/c732edd3-6337-5c95-9fe8-42a0e5cd3763/",
+    "title": "На Netflix вышел «Последний дом» — фантастический триллер о семействе, которое оказалось запертым в собственном жилище",
+    "description": "Режиссёр — Луи Летерье ( «Невероятный Халк», «Иллюзия обмана»).",
+    "fullText": "Режиссёр — Луи Летерье ( «Невероятный Халк», «Иллюзия обмана»).",
+    "image": "https://leonardo.osnova.io/45b2cd12-2508-5662-b534-9615d14b7452/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5228277-obnovlenie-marvel-rivals-s-kapyshonom-i-sobytiem-kredo-akabby?from=rss",
-    "time": "2026-08-07T15:07:25.000Z"
+    "url": "https://dtf.ru/cinema/5228196-posledniy-dom-na-netflix?from=rss",
+    "time": "2026-08-07T13:35:21.000Z"
   }
 ]
