@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Болгарии в небе взорвался неопознанный беспилотник",
-    "description": "В стране усилили защиту инфраструктуры после инцидента с дроном, сообщил премьер-министр Румен Радев",
-    "fullText": "В стране усилили защиту инфраструктуры после инцидента с дроном, сообщил премьер-министр Румен Радев",
+    "title": "В Ельце и четырех округах Липецкой области объявили угрозу атаки БПЛА",
+    "description": "Речь идет о Елецком, Долгоруковском, Становлянском, Измалковском муниципальных округах",
+    "fullText": "Речь идет о Елецком, Долгоруковском, Становлянском, Измалковском муниципальных округах",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27994695",
-    "time": "2026-08-08T10:40:57.000Z"
+    "url": "https://tass.ru/proisshestviya/27994953",
+    "time": "2026-08-08T13:06:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Я сейчас закончу вообще все! Добавили короткие посты",
+    "description": "Короче, пишите.",
+    "fullText": "Короче, пишите.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-08-08T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,36 +33,25 @@
     "time": "2026-08-08T10:29:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "«Раньше били лучше» – теперь официальный принт",
-    "description": "Мерч Кержакова в магазине Спортса’‘.",
-    "fullText": "Мерч Кержакова в магазине Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/37/b9e599fcd4d068038f16130c42645.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
-    "time": "2026-08-08T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто лучший эксперт «Матча» по нашему футболу? Рейтинг Спортса’‘",
-    "description": "Мы не зря купили подписку.",
-    "fullText": "Мы не зря купили подписку.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/28/76865948b4241b5301551738fde71.jpeg",
+    "title": "«Родина», «Акрон» или «Факел»: кто хуже на старте РПЛ?",
+    "description": "Разбираем проблемы каждого.",
+    "fullText": "Разбираем проблемы каждого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/4c/ff0f1a8f64685b4155ecc7ac50d6d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3430696.html",
-    "time": "2026-08-08T05:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3433336.html",
+    "time": "2026-08-08T08:18:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Общие продажи серии Grand Theft Auto приблизились к 475 миллионам копий",
-    "description": "Red Dead Redemption тоже продолжают покупать.",
-    "fullText": "Red Dead Redemption тоже продолжают покупать.",
-    "image": "https://leonardo.osnova.io/21e2a114-0da4-56ff-817d-9cb0008ca1e0/",
+    "title": "Морган Фриман считает, что актёру можно закрыть глаза на «некоторые недостатки» в сценарии фильма, если речь идёт о большом гонораре",
+    "description": "При этом ряд минусов зачастую можно исправить, отметил артист.",
+    "fullText": "При этом ряд минусов зачастую можно исправить, отметил артист.",
+    "image": "https://leonardo.osnova.io/0f0104cb-f96a-5e66-a484-866d1c6b965f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5228038-prodazhi-serii-grand-theft-auto?from=rss",
-    "time": "2026-08-07T12:11:02.000Z"
+    "url": "https://dtf.ru/cinema/5228295-morgan-freeman-o-stsenariyah-i-gonorah-v-kino?from=rss",
+    "time": "2026-08-07T14:49:42.000Z"
   }
 ]
