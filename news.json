@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Омской области в ДТП погиб человек",
-    "description": "Еще пятеро пострадали",
-    "fullText": "Еще пятеро пострадали",
+    "title": "Во всех муниципалитетах Югры открылась фотовыставка ТАСС о коренных народах",
+    "description": "В экспозиции представлены 20 уникальных фотоснимков, сделанных в регионе с 1968 по 2002 год",
+    "fullText": "В экспозиции представлены 20 уникальных фотоснимков, сделанных в регионе с 1968 по 2002 год",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/27996277",
-    "time": "2026-08-09T10:20:18.000Z"
+    "url": "https://tass.ru/obschestvo/27996529",
+    "time": "2026-08-09T13:11:21.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWRpcmVj",
+    "title": "Последний шанс выиграть iPhone 17",
+    "description": "Просто скачайте приложение ГОЛ.",
+    "fullText": "Просто скачайте приложение ГОЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/5f/e2ec9c1b544ff9d73c299ca0d605a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://redirect.appmetrica.yandex.com/serve/966662197017104881?campaign_id=wccontest",
+    "time": "2026-08-09T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чем «Краснодар» тревожит перед «Спартаком»",
-    "description": "Андрей Савин – о неожиданной уязвимости.",
-    "fullText": "Андрей Савин – о неожиданной уязвимости.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/0b/5737f8b6f4725bd28acda8add8606.jpeg",
+    "title": "Война в Иране давит на «Ф-1»: Гран-при Бахрейна пройдет в Малайзии, финальные гонки – в Европе?",
+    "description": "Пилот из России предложил «Игору Драйв».",
+    "fullText": "Пилот из России предложил «Игору Драйв».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/ec/b97965fd7432191500104cfa92c1b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3433656.html",
-    "time": "2026-08-09T06:40:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3431207.html",
+    "time": "2026-08-09T09:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Штраус Зельник о предзаказах GTA VI: «Думаю, Rockstar угадала с ценой»",
-    "description": "Take-Two также не смущает грядущий отказ Sony от дисков — её бизнес на 90% цифровой.",
-    "fullText": "Take-Two также не смущает грядущий отказ Sony от дисков — её бизнес на 90% цифровой.",
-    "image": "https://leonardo.osnova.io/71a26915-42a8-5af2-83a1-1ee635ed84aa/",
+    "title": "Релиз «роглайт»-шутера Serious Sam: Shatterverse состоится 31 августа — трейлер",
+    "description": "В Steam тем временем стартовал открытый плейтест игры.",
+    "fullText": "В Steam тем временем стартовал открытый плейтест игры.",
+    "image": "https://leonardo.osnova.io/aca25a47-82cd-558f-b9af-5b6154b57eca/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5228230-shtraus-zelnik-o-predzakazakh-gta-vi?from=rss",
-    "time": "2026-08-07T14:00:40.000Z"
+    "url": "https://dtf.ru/games/5228525-reliz-serious-sam-shatterverse-otkrytyj-plejtest-i-trejler?from=rss",
+    "time": "2026-08-07T16:53:53.000Z"
   }
 ]
