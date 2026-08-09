@@ -1,46 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "\"Рубин\" и \"Оренбург\" сыграли вничью в матче чемпионата России по футболу",
+    "description": "Встреча завершилась со счетом 1:1",
+    "fullText": "Встреча завершилась со счетом 1:1",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260809/9286691.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/27996825",
+    "time": "2026-08-09T19:23:37.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Чумовая игра «Спартак» – «Краснодар»! Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "Шанс оторваться от «Зенита».",
-    "fullText": "Шанс оторваться от «Зенита».",
+    "title": "Главные хайлайты тура РПЛ – в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Голы и обсуждение.",
+    "fullText": "Голы и обсуждение.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/e/24/6e4868d91409f82035b4548d61362.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/football/rpl/match/spartak-vs-krasnodar/",
-    "time": "2026-08-09T18:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошел взрыв",
-    "description": "На территории Сумской области объявлена воздушная тревога",
-    "fullText": "На территории Сумской области объявлена воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/27996241",
-    "time": "2026-08-09T17:38:33.000Z"
+    "time": "2026-08-09T19:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Зенит» внезапно проиграл «Родине» – что ждет команду в сезоне?",
-    "description": "Внезапные 1:2.",
-    "fullText": "Внезапные 1:2.",
-    "image": "https://photobooth.cdn.sports.ru/preset/poll/0/5d/bfe820ac6420fb53cb07d99256f56.jpeg",
+    "title": "Родри нужнее «Барсе» или «Реалу»? Разбираем с двух сторон",
+    "description": "Важный вопрос.",
+    "fullText": "Важный вопрос.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/19/0a20d75fd4b5abacd59bed044bfed.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/poll/1117328652.html",
-    "time": "2026-08-09T14:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3433682.html",
+    "time": "2026-08-09T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В раннем доступе вышла Expeditions: Samurai — тактическая RPG в сеттинге феодальной Японии",
-    "description": "До 14 августа игру можно купить за 1121 рубль.",
-    "fullText": "До 14 августа игру можно купить за 1121 рубль.",
-    "image": "https://leonardo.osnova.io/fd45ba9c-35b0-57cf-af18-e73b8b602cc2/-/format/mp4/",
+    "title": "Для Reanimal выпустили дополнение The Prisoner — первое из трёх запланированных",
+    "description": "Релиз следующего DLC состоится осенью.",
+    "fullText": "Релиз следующего DLC состоится осенью.",
+    "image": "https://leonardo.osnova.io/729fde13-cc75-5846-aefc-c9ccb0cb3239/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5228423-expeditions-samurai-takticheskaya-rpg?from=rss",
-    "time": "2026-08-07T16:12:29.000Z"
+    "url": "https://dtf.ru/games/5228827-dopolnenie-the-prisoner-dlya-reanimal?from=rss",
+    "time": "2026-08-07T20:06:33.000Z"
   }
 ]
