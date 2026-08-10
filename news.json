@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Пловец Пригода назвал слабым выступление в полуфинале на 100 м брассом на ЧЕ",
-    "description": "Россиянин стал девятым по итогам двух заплывов и не вышел в финал",
-    "fullText": "Россиянин стал девятым по итогам двух заплывов и не вышел в финал",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260810/9289421.jpg",
+    "title": "Карелин обсудил с региональным активом \"Единой России\" инициативы жителей Чувашии",
+    "description": "Также были подняты вопросы развития здравоохранения и топливной безопасности",
+    "fullText": "Также были подняты вопросы развития здравоохранения и топливной безопасности",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28000173",
-    "time": "2026-08-10T17:33:11.000Z"
+    "url": "https://tass.ru/obschestvo/28000221",
+    "time": "2026-08-10T18:23:28.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,36 +33,25 @@
     "time": "2026-08-10T16:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Школа Загитовой (неименная) вот-вот откроется. В конкурентах – катки Навки, Плющенко и Этери",
+    "description": "Алина покоряет Казань.",
+    "fullText": "Алина покоряет Казань.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/bb/8ec5308644c4492a9192189c312f3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3434725.html",
+    "time": "2026-08-10T14:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывшие сотрудники Ubisoft Barcelona основали собственную студию — она занимается адвенчурой Puzzle Mage",
-    "description": "В команде делают упор на качество игры, а не её масштаб.",
-    "fullText": "В команде делают упор на качество игры, а не её масштаб.",
-    "image": "https://leonardo.osnova.io/0864cbee-2560-5753-a078-3ca302757cca/",
+    "title": "Шон Мюррей сообщил, что над фэнтезийным «выживачом» Light No Fire ежедневно работает «от 12 до 20 человек»",
+    "description": "Примерно столько же трудилось над NMS, когда она вышла.",
+    "fullText": "Примерно столько же трудилось над NMS, когда она вышла.",
+    "image": "https://leonardo.osnova.io/0646cbf8-2da4-5370-bb8f-83a4fea2ce7b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5233047-byvshie-sotrudniki-ubisoft-barcelona-studiya-dark-ritual?from=rss",
-    "time": "2026-08-10T14:15:35.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Персональные рекомендации, короткие посты и реакции",
-    "description": "В новой ленте.",
-    "fullText": "В новой ленте.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/pGts16g",
-    "time": "2026-08-10T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У России прорыв! Гимнасты на Евро благодаря МИДу, в плавании вернули флаг, фигуристы едут в Японию",
-    "description": "Ура!",
-    "fullText": "Ура!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/b2/cb5279cb249c79354bb080781264e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3435393.html",
-    "time": "2026-08-10T13:00:00.000Z"
+    "url": "https://dtf.ru/games/5233003-shon-myurrey-o-komande-light-no-fire?from=rss",
+    "time": "2026-08-10T13:50:22.000Z"
   }
 ]
