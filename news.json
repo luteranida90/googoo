@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Шон Мюррей сообщил, что над фэнтезийным «выживачом» Light No Fire ежедневно работает «от 12 до 20 человек»",
-    "description": "Примерно столько же трудилось над NMS, когда она вышла.",
-    "fullText": "Примерно столько же трудилось над NMS, когда она вышла.",
-    "image": "https://leonardo.osnova.io/0646cbf8-2da4-5370-bb8f-83a4fea2ce7b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5233003-shon-myurrei-soobshil-chto-nad-fenteziinym-vyzhivachom-light-no-fire-ezhednevno-rabotaet-ot-12-do-20-chelovek?from=rss",
-    "time": "2026-08-10T13:50:22.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Герой России и ветеран ВОВ. Биография Павла Сюткина",
-    "description": "Он умер 10 августа в Сочи на 105-м году жизни",
-    "fullText": "Он умер 10 августа в Сочи на 105-м году жизни",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260810/9288827.jpg",
+    "title": "Главкома сухопутных войск армии Ирана Хейдари назначили замглавы Генштаба ВС",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/info/27999137",
-    "time": "2026-08-10T13:37:46.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27999829",
+    "time": "2026-08-10T15:47:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Персональные рекомендации, короткие посты и реакции",
+    "description": "В новой ленте.",
+    "fullText": "В новой ленте.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-08-10T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Спартаку» навредил ход Карседо, «Краснодар» восхитил многим. Разбор топ-матча с восторгом",
-    "description": "Шикарная дуэль тренеров.",
-    "fullText": "Шикарная дуэль тренеров.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/95/3c0cc9687416fa907d1c9cfed3ea2.jpeg",
+    "title": "Как НБА превратилась в «Лигу инсайдеров»",
+    "description": "Путь к тотальной открытости.",
+    "fullText": "Путь к тотальной открытости.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/b6/0e359c71d467a9c1089de93bab803.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3435064.html",
-    "time": "2026-08-10T08:15:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3433408.html",
+    "time": "2026-08-10T10:57:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Square Enix отчиталась о росте операционной прибыли почти на 89% благодаря игровым направлениям",
+    "description": "Final Fantasy VII Rebirth внесла вклад в консольный сегмент.",
+    "fullText": "Final Fantasy VII Rebirth внесла вклад в консольный сегмент.",
+    "image": "https://leonardo.osnova.io/8ca86987-790b-57d9-b29e-702c45a22c44/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5232591-square-enix-otchet-rost-pribyli-igry-final-fantasy?from=rss",
+    "time": "2026-08-10T10:04:30.000Z"
   }
 ]
