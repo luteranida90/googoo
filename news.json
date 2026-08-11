@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Ставрополье создадут прогноз развития ситуации с топливом",
-    "description": "Это позволит заранее выстраивать логистику поставок",
-    "fullText": "Это позволит заранее выстраивать логистику поставок",
+    "title": "Чемпионка России гимнастка Ковшова не выступит на ЧМ из-за травмы",
+    "description": "Чемпионат мира по художественной гимнастике пройдет в германском Франкфурте-на-Майне с 12 по 16 августа",
+    "fullText": "Чемпионат мира по художественной гимнастике пройдет в германском Франкфурте-на-Майне с 12 по 16 августа",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28003595",
-    "time": "2026-08-11T16:58:20.000Z"
+    "url": "https://tass.ru/sport/28003729",
+    "time": "2026-08-11T17:52:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,36 +33,25 @@
     "time": "2026-08-11T15:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9yZWcucnVz",
-    "title": "Джерси-бег уже в эту субботу. Не откладывайте регистрацию",
-    "description": "Количество мест ограничено.",
-    "fullText": "Количество мест ограничено.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://reg.russiarunning.com/event/Jerseybeg?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=news-feed",
-    "time": "2026-08-11T14:00:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Running With Scissors анонсировала комикс по Postal",
+    "description": "В случае успешной краудфандинговой кампании авторы начнут работу над игрой и анимационной короткометражкой.",
+    "fullText": "В случае успешной краудфандинговой кампании авторы начнут работу над игрой и анимационной короткометражкой.",
+    "image": "https://leonardo.osnova.io/8ae514af-f926-5b6a-afc4-8da2610a69b3/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/read/5234993-komiks-po-postal-ot-running-with-scissors-anons-i-detali?from=rss",
+    "time": "2026-08-11T14:38:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джокович хочет сократить теннис. Это правда нужно – или он просто стареет?",
-    "description": "Проверяем его идею на цифрах.",
-    "fullText": "Проверяем его идею на цифрах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/c4/a2fd1c9974e289e849cdb2ed4c5be.jpeg",
+    "title": "Герои тура РПЛ: кто сверкнул на фоне сонного «Зенита», в кого почти никто не верил?",
+    "description": "Лучшая схема – 5-4-1.",
+    "fullText": "Лучшая схема – 5-4-1.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/91/142dfb6de4aa4bc92d931c56decfa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3433395.html",
-    "time": "2026-08-11T13:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Кооперативная адвенчура Over the Hill про путешествия на внедорожниках выйдет на ПК 14 октября",
-    "description": "На остальных платформах релиз состоится в 2027 году.",
-    "fullText": "На остальных платформах релиз состоится в 2027 году.",
-    "image": "https://leonardo.osnova.io/b0409965-2d11-53c7-89b1-b7c730162475/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5234765-priklyuchenskaya-igra-over-the-hill-pro-vnedorozhniki?from=rss",
-    "time": "2026-08-11T12:55:20.000Z"
+    "url": "https://www.sports.ru/football/blogs/3435750.html",
+    "time": "2026-08-11T14:05:00.000Z"
   }
 ]
