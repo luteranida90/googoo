@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин дал старт производству на заводе по переработке молока",
-    "description": "Предприятие входит в группу компаний \"Эконива\"",
-    "fullText": "Предприятие входит в группу компаний \"Эконива\"",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Reuters: освобожденный в РФ американец Гилман летит в США",
+    "description": "По данным агентства, он находится на борту самолета Госдепа",
+    "fullText": "По данным агентства, он находится на борту самолета Госдепа",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260811/9292751.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28002937",
-    "time": "2026-08-11T12:41:20.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28003393",
+    "time": "2026-08-11T15:03:45.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9yZWcucnVz",
+    "title": "Джерси-бег уже в эту субботу. Не откладывайте регистрацию",
+    "description": "Количество мест ограничено.",
+    "fullText": "Количество мест ограничено.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://reg.russiarunning.com/event/Jerseybeg?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=news-feed",
+    "time": "2026-08-11T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чего ждут от Моуринью, Алонсо, Марески и Ираолы – новых тренеров топ-клубов",
-    "description": "Кто-то не доработает до Нового года.",
-    "fullText": "Кто-то не доработает до Нового года.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/34/e6473dd65403397d082d53f4ab1ad.jpeg",
+    "title": "«Ливерпуль» пассивен на трансферном рынке, хотя проблем с составом хватает. Пора переживать?",
+    "description": "Большая аналитика «Шесть Элче».",
+    "fullText": "Большая аналитика «Шесть Элче».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/e7/c398f7a6848cf858d28841183c1d6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3433444.html",
-    "time": "2026-08-11T08:15:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3430636.html",
+    "time": "2026-08-11T10:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джейкоб Элорди ведёт переговоры об участии в следующем фильме режиссёра «Солнцестояния» Ари Астера",
-    "description": "Актёр может присоединиться к Скарлетт Йоханссон.",
-    "fullText": "Актёр может присоединиться к Скарлетт Йоханссон.",
-    "image": "https://leonardo.osnova.io/04d88d07-9f93-52d2-a550-4d4191e28f63/",
+    "title": "Сценарий «Смертельного оружия 5» готов, однако фильм застрял в производственном аду",
+    "description": "Мэл Гибсон надеется, что дело сдвинется с мёртвой точки после слияния Warner Bros. и Paramount.",
+    "fullText": "Мэл Гибсон надеется, что дело сдвинется с мёртвой точки после слияния Warner Bros. и Paramount.",
+    "image": "https://leonardo.osnova.io/71f7d4d5-4539-529f-8bef-e4eea51d6b9f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5234130-deykob-elordi-novyy-film-ari-astra?from=rss",
-    "time": "2026-08-11T06:30:48.000Z"
+    "url": "https://dtf.ru/cinema/5234431-szhmertelnoe-oruzhie-5-scenariy-gotov?from=rss",
+    "time": "2026-08-11T09:43:06.000Z"
   }
 ]
