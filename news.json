@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В метро Москвы до конца года проведут грузовые испытания на 44 эскалаторах",
-    "description": "Проверки позволяют подтвердить, что эскалаторы способны безопасно работать даже при пиковом пассажиропотоке",
-    "fullText": "Проверки позволяют подтвердить, что эскалаторы способны безопасно работать даже при пиковом пассажиропотоке",
+    "title": "По делам о порче имущества московского метро вынесли 16 приговоров с начала года",
+    "description": "В одном из случаев, произошедшем в 2025 году, нарушитель пытался пройти на станцию \"Проспект Вернадского\" без оплаты проезда и разбил створку турникета",
+    "fullText": "В одном из случаев, произошедшем в 2025 году, нарушитель пытался пройти на станцию \"Проспект Вернадского\" без оплаты проезда и разбил створку турникета",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28001169",
-    "time": "2026-08-11T05:31:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Последний богатырь. Колобок» – сказка о принятии, которую никто не принял",
-    "description": "Тесто осталось сырым.",
-    "fullText": "Тесто осталось сырым.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/78/e785742ed458793a8d95df2866c0f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3435436.html",
-    "time": "2026-08-10T20:01:00.000Z"
+    "url": "https://tass.ru/obschestvo/28001431",
+    "time": "2026-08-11T06:47:05.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рич Пол – неотъемлемая и самая неприглядная часть наследия Леброна",
-    "description": "Шурует за спиной Короля.",
-    "fullText": "Шурует за спиной Короля.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/e5/20fa13a7f43139b4dfec6ef3f7d37.jpeg",
+    "title": "А куда пропал Аслан Карацев",
+    "description": "Не играет с апреля.",
+    "fullText": "Не играет с апреля.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/6d/05ce672f94c05a3d1b8bfb8062192.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3433364.html",
-    "time": "2026-08-10T18:58:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3433334.html",
+    "time": "2026-08-10T20:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Режиссёр «Всего одной ночи» с Каллумом Тернером вырезал из фильма «много наготы» из-за «социального сдвига» касательно таких сцен",
-    "description": "Тесты показывают, что зрителям в кинотеатрах «некомфортно».",
-    "fullText": "Тесты показывают, что зрителям в кинотеатрах «некомфортно».",
-    "image": "https://leonardo.osnova.io/b06854e3-15be-5941-a84b-2918d0ae1f40/",
+    "title": "Авторы популярного мода Calamity для Terraria сообщили о прекращении его разработки",
+    "description": "Последние дни в сообществе оказались напряжёнными.",
+    "fullText": "Последние дни в сообществе оказались напряжёнными.",
+    "image": "https://leonardo.osnova.io/4bae4623-4f78-5af0-9898-564e41fd1704/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5232661-rezhissyor-vsego-odnoy-nochi-vyrezal-nagotu?from=rss",
-    "time": "2026-08-10T10:30:35.000Z"
+    "url": "https://dtf.ru/games/5232807-prekrashchenie-razrabotki-moda-calamity-dlya-terraria?from=rss",
+    "time": "2026-08-10T11:50:20.000Z"
   }
 ]
