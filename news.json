@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "По делам о порче имущества московского метро вынесли 16 приговоров с начала года",
-    "description": "В одном из случаев, произошедшем в 2025 году, нарушитель пытался пройти на станцию \"Проспект Вернадского\" без оплаты проезда и разбил створку турникета",
-    "fullText": "В одном из случаев, произошедшем в 2025 году, нарушитель пытался пройти на станцию \"Проспект Вернадского\" без оплаты проезда и разбил створку турникета",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Фигуристка Валиева заявила, что чувствует уверенность в своих силах",
+    "description": "Для спортсменки предстоящий сезон станет первым после завершения дисквалификации",
+    "fullText": "Для спортсменки предстоящий сезон станет первым после завершения дисквалификации",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260811/9291151.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28001431",
-    "time": "2026-08-11T06:47:05.000Z"
+    "url": "https://tass.ru/sport/28002139",
+    "time": "2026-08-11T09:19:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Удивительная жизнь Ивана Саенко: BMW от Клоппа, 8 млн от «Спартака», завод с Кержаковым",
+    "description": "Раскладываем по полочкам.",
+    "fullText": "Раскладываем по полочкам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/6d/fe397c1e64077a151bba61aed58c2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/AFZD__dEovTf83hyhRC3bvKNZ1Pnjj6Rgs8cwhxUM98",
+    "time": "2026-08-11T07:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А куда пропал Аслан Карацев",
-    "description": "Не играет с апреля.",
-    "fullText": "Не играет с апреля.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/6d/05ce672f94c05a3d1b8bfb8062192.jpeg",
+    "title": "Ух ты, наших бегунов готовит топ-тренер из Британии – и Британия недовольна",
+    "description": "Как его переманили?",
+    "fullText": "Как его переманили?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/8e/77d3fd62b448099b38252c0597e7e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3433334.html",
-    "time": "2026-08-10T20:35:00.000Z"
+    "url": "https://www.sports.ru/athletics/blogs/3431585.html",
+    "time": "2026-08-11T04:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы популярного мода Calamity для Terraria сообщили о прекращении его разработки",
-    "description": "Последние дни в сообществе оказались напряжёнными.",
-    "fullText": "Последние дни в сообществе оказались напряжёнными.",
-    "image": "https://leonardo.osnova.io/4bae4623-4f78-5af0-9898-564e41fd1704/",
+    "title": "Фанат Battlefield 6 рассказал, что ему удалось получить рефанд в Steam после 470 часов игры — из-за удаления режима Rush",
+    "description": "Ему вернули 109 долларов.",
+    "fullText": "Ему вернули 109 долларов.",
+    "image": "https://leonardo.osnova.io/730fd329-cbce-5bc1-9743-6b6245382993/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5232807-prekrashchenie-razrabotki-moda-calamity-dlya-terraria?from=rss",
-    "time": "2026-08-10T11:50:20.000Z"
+    "url": "https://dtf.ru/games/5232685-fanat-battlefield-6-poluchil-refund-v-steam?from=rss",
+    "time": "2026-08-10T10:51:43.000Z"
   }
 ]
