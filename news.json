@@ -1,18 +1,29 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сумах произошли взрывы",
-    "description": "В Сумской области объявлена воздушная тревога",
-    "fullText": "В Сумской области объявлена воздушная тревога",
+    "title": "В Подмосковье более 15,5 тыс. человек проверили здоровье на рабочем месте",
+    "description": "Все, у кого выявлены отклонения, направлены на углубленную диагностику",
+    "fullText": "Все, у кого выявлены отклонения, направлены на углубленную диагностику",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28006127",
-    "time": "2026-08-12T11:56:40.000Z"
+    "url": "https://tass.ru/obschestvo/28006591",
+    "time": "2026-08-12T13:44:05.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В Fortnite добавят образ Дилана Фейдена из Control Resonant",
+    "description": "Его получат все владельцы игры в EGS, но скин будет продаваться и отдельно.",
+    "fullText": "Его получат все владельцы игры в EGS, но скин будет продаваться и отдельно.",
+    "image": "https://leonardo.osnova.io/ed7b9b2a-a135-5194-a5e9-e02990387911/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5236527-dilan-feyden-iz-control-resonant-v-fortnite?from=rss",
+    "time": "2026-08-12T11:30:42.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«ПСЖ» – «Астон Вилла» в Суперкубке УЕФА: ставьте с фрибетом",
+    "title": "«ПСЖ» – «Астон Вилла» в Суперкубке Европы: ставьте с фрибетом",
     "description": "До 20 000 рублей всем новичкам.",
     "fullText": "До 20 000 рублей всем новичкам.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/e/7c/5f7581f6d4497b9663fedbb1746ee.jpeg",
@@ -33,25 +44,14 @@
     "time": "2026-08-12T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Meccha Chameleon разошлась тиражом в 20 миллионов копий",
-    "description": "За месяц игра прибавила пять миллионов.",
-    "fullText": "За месяц игра прибавила пять миллионов.",
-    "image": "https://leonardo.osnova.io/57c2d69c-fc13-56d6-a211-f0fb3e179ce7/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5236342-meccha-chameleon-dostigla-20-millionov-prodazh?from=rss",
-    "time": "2026-08-12T09:16:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первое фото со свадьбы Роналду!",
-    "description": "Свершилось!",
-    "fullText": "Свершилось!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c6/cfa9e3c0246d8ac26d7ee510ae0cb.jpeg",
+    "title": "Чемпионат на паузе, игры Кубка Либертадорес отложены. Последствия землетрясения в Колумбии",
+    "description": "Не до футбола.",
+    "fullText": "Не до футбола.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/66/362af44054afba9fe20bb006861ac.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3433948.html",
-    "time": "2026-08-12T06:39:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3436235.html",
+    "time": "2026-08-12T07:40:00.000Z"
   }
 ]
