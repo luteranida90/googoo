@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве при столкновении четырех машин пострадал человек",
-    "description": "Движение в районе ДТП затруднено",
-    "fullText": "Движение в районе ДТП затруднено",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Медведев: СВО закончится или приостановится только на условиях России",
+    "description": "",
+    "fullText": "",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250219/8073367.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28006755",
-    "time": "2026-08-12T14:32:51.000Z"
+    "url": "https://tass.ru/armiya-i-opk/28006971",
+    "time": "2026-08-12T15:44:31.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -20,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/football/russian-cup/match/fc-shumbarat-vs-2drots/",
     "time": "2026-08-12T13:57:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Джей Джей Абрамс отверг связь между фильмом «На краю Оук-стрит» и франшизой «Кловерфилд»",
-    "description": "Ленты объединяет лишь то, что среди ведущих актёров есть супруги.",
-    "fullText": "Ленты объединяет лишь то, что среди ведущих актёров есть супруги.",
-    "image": "https://leonardo.osnova.io/034d9cad-3d9b-57c7-b686-13f32835c728/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5236585-dzhay-dzhay-abramz-oproverg-svyaz-na-kraiu-ouk-street?from=rss",
-    "time": "2026-08-12T12:17:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -45,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первое фото со свадьбы Роналду!",
-    "description": "Свершилось!",
-    "fullText": "Свершилось!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c6/cfa9e3c0246d8ac26d7ee510ae0cb.jpeg",
+    "title": "Валиева тренируется в лагере Бенуа Ришо: большой репортаж из Франции",
+    "description": "От Багрянцевой.",
+    "fullText": "От Багрянцевой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/98/ea6289b124777b7bcdd6420b51dfc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3433948.html",
-    "time": "2026-08-12T09:49:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3435744.html",
+    "time": "2026-08-12T10:17:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Больше любимого спорта, меньше лишнего шума",
-    "description": "Читайте, что хотите в «Моей ленте».",
-    "fullText": "Читайте, что хотите в «Моей ленте».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/pGts16g",
-    "time": "2026-08-12T09:30:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Идеальные парирования, олдскульная структура и «пока прямолинейный сценарий»: в сети раньше времени появилось превью Marvel&#039;s Wolverine от Eurogamer",
+    "description": "Нового мало, но есть скриншоты.",
+    "fullText": "Нового мало, но есть скриншоты.",
+    "image": "https://leonardo.osnova.io/204e50c9-8361-5577-a45c-567df0e6b249/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5236081-prevyu-marvels-wolverine-ot-eurogamer?from=rss",
+    "time": "2026-08-12T06:53:34.000Z"
   }
 ]
