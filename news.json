@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "История Суперкубка УЕФА",
-    "description": "Трофей разыгрывается с 1973 года",
-    "fullText": "Трофей разыгрывается с 1973 года",
+    "title": "В Сумах произошли взрывы",
+    "description": "В Сумской области объявлена воздушная тревога",
+    "fullText": "В Сумской области объявлена воздушная тревога",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/info/28005627",
-    "time": "2026-08-12T09:39:26.000Z"
+    "url": "https://tass.ru/proisshestviya/28006127",
+    "time": "2026-08-12T11:56:40.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "«ПСЖ» – «Астон Вилла» в Суперкубке УЕФА: ставьте с фрибетом",
+    "description": "До 20 000 рублей всем новичкам.",
+    "fullText": "До 20 000 рублей всем новичкам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/7c/5f7581f6d4497b9663fedbb1746ee.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/GPBa",
+    "time": "2026-08-12T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,25 +33,25 @@
     "time": "2026-08-12T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "А что с «Ак Барсом»? Почему ушли звезды и где новички?",
-    "description": "Финалист Кубка Гагарина на перепутье.",
-    "fullText": "Финалист Кубка Гагарина на перепутье.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/95/d6543e34a4db48e80e17b5df0d70f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3435569.html",
-    "time": "2026-08-11T22:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Spotify начнёт помечать профили ИИ-артистов специальным бейджем",
-    "description": "Профили с метками AI Persona по умолчанию не будут включать в рекомендации.",
-    "fullText": "Профили с метками AI Persona по умолчанию не будут включать в рекомендации.",
-    "image": "https://leonardo.osnova.io/e4596cc6-5a2f-552a-b91c-073d292f2c2b/",
+    "title": "Meccha Chameleon разошлась тиражом в 20 миллионов копий",
+    "description": "За месяц игра прибавила пять миллионов.",
+    "fullText": "За месяц игра прибавила пять миллионов.",
+    "image": "https://leonardo.osnova.io/57c2d69c-fc13-56d6-a211-f0fb3e179ce7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/5235311-spotify-bejdzi-dlya-ii-artistov?from=rss",
-    "time": "2026-08-11T16:59:16.000Z"
+    "url": "https://dtf.ru/gameindustry/5236342-meccha-chameleon-dostigla-20-millionov-prodazh?from=rss",
+    "time": "2026-08-12T09:16:55.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Первое фото со свадьбы Роналду!",
+    "description": "Свершилось!",
+    "fullText": "Свершилось!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c6/cfa9e3c0246d8ac26d7ee510ae0cb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3433948.html",
+    "time": "2026-08-12T06:39:00.000Z"
   }
 ]
