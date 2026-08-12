@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Подмосковье более 15,5 тыс. человек проверили здоровье на рабочем месте",
-    "description": "Все, у кого выявлены отклонения, направлены на углубленную диагностику",
-    "fullText": "Все, у кого выявлены отклонения, направлены на углубленную диагностику",
+    "title": "В Москве при столкновении четырех машин пострадал человек",
+    "description": "Движение в районе ДТП затруднено",
+    "fullText": "Движение в районе ДТП затруднено",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28006591",
-    "time": "2026-08-12T13:44:05.000Z"
+    "url": "https://tass.ru/proisshestviya/28006755",
+    "time": "2026-08-12T14:32:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Большая игра на «Мордовия Арене» – «Шумбрат» принимает 2Drots в Кубке! Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Скучали по Саранску?",
+    "fullText": "Скучали по Саранску?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/15/22789ed7a459da5a1ef236dc85106.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/russian-cup/match/fc-shumbarat-vs-2drots/",
+    "time": "2026-08-12T13:57:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Fortnite добавят образ Дилана Фейдена из Control Resonant",
-    "description": "Его получат все владельцы игры в EGS, но скин будет продаваться и отдельно.",
-    "fullText": "Его получат все владельцы игры в EGS, но скин будет продаваться и отдельно.",
-    "image": "https://leonardo.osnova.io/ed7b9b2a-a135-5194-a5e9-e02990387911/",
+    "title": "Джей Джей Абрамс отверг связь между фильмом «На краю Оук-стрит» и франшизой «Кловерфилд»",
+    "description": "Ленты объединяет лишь то, что среди ведущих актёров есть супруги.",
+    "fullText": "Ленты объединяет лишь то, что среди ведущих актёров есть супруги.",
+    "image": "https://leonardo.osnova.io/034d9cad-3d9b-57c7-b686-13f32835c728/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5236527-dilan-feyden-iz-control-resonant-v-fortnite?from=rss",
-    "time": "2026-08-12T11:30:42.000Z"
+    "url": "https://dtf.ru/cinema/5236585-dzhay-dzhay-abramz-oproverg-svyaz-na-kraiu-ouk-street?from=rss",
+    "time": "2026-08-12T12:17:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -33,6 +44,17 @@
     "time": "2026-08-12T11:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Первое фото со свадьбы Роналду!",
+    "description": "Свершилось!",
+    "fullText": "Свершилось!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/c6/cfa9e3c0246d8ac26d7ee510ae0cb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3433948.html",
+    "time": "2026-08-12T09:49:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Больше любимого спорта, меньше лишнего шума",
     "description": "Читайте, что хотите в «Моей ленте».",
@@ -42,16 +64,5 @@
     "category": "all",
     "url": "https://sprts.cc/pGts16g",
     "time": "2026-08-12T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Чемпионат на паузе, игры Кубка Либертадорес отложены. Последствия землетрясения в Колумбии",
-    "description": "Не до футбола.",
-    "fullText": "Не до футбола.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/66/362af44054afba9fe20bb006861ac.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3436235.html",
-    "time": "2026-08-12T07:40:00.000Z"
   }
 ]
