@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На юге Бангладеш возле здания суда произошел взрыв",
-    "description": "На место прибыли сотрудники полиции, которые проводят оценку ситуации",
-    "fullText": "На место прибыли сотрудники полиции, которые проводят оценку ситуации",
+    "title": "История Суперкубка УЕФА",
+    "description": "Трофей разыгрывается с 1973 года",
+    "fullText": "Трофей разыгрывается с 1973 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28004973",
-    "time": "2026-08-12T07:10:30.000Z"
+    "url": "https://tass.ru/info/28005627",
+    "time": "2026-08-12T09:39:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Больше любимого спорта, меньше лишнего шума",
+    "description": "Читайте, что хотите в «Моей ленте».",
+    "fullText": "Читайте, что хотите в «Моей ленте».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-08-12T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главный провокатор НХЛ снялся уже в трех фильмах Нолана. И в «Одиссее» тоже!",
-    "description": "Новая жизнь Шона Эйври.",
-    "fullText": "Новая жизнь Шона Эйври.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/93/49554e94447b2a196a0694be53fbb.jpeg",
+    "title": "А что с «Ак Барсом»? Почему ушли звезды и где новички?",
+    "description": "Финалист Кубка Гагарина на перепутье.",
+    "fullText": "Финалист Кубка Гагарина на перепутье.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/95/d6543e34a4db48e80e17b5df0d70f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3433672.html",
-    "time": "2026-08-11T19:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3435569.html",
+    "time": "2026-08-11T22:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На прохождение Resonance: A Plague Tale Legacy уйдёт примерно 20 часов",
-    "description": "Появилось несколько свежих скриншотов.",
-    "fullText": "Появилось несколько свежих скриншотов.",
-    "image": "https://leonardo.osnova.io/78bf0fcb-1de4-5a77-9cb1-bde5462d72ad/",
+    "title": "Spotify начнёт помечать профили ИИ-артистов специальным бейджем",
+    "description": "Профили с метками AI Persona по умолчанию не будут включать в рекомендации.",
+    "fullText": "Профили с метками AI Persona по умолчанию не будут включать в рекомендации.",
+    "image": "https://leonardo.osnova.io/e4596cc6-5a2f-552a-b91c-073d292f2c2b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5235119-prohozhdenie-resonance-a-plague-tale-legacy?from=rss",
-    "time": "2026-08-11T15:38:54.000Z"
+    "url": "https://dtf.ru/music/5235311-spotify-bejdzi-dlya-ii-artistov?from=rss",
+    "time": "2026-08-11T16:59:16.000Z"
   }
 ]
