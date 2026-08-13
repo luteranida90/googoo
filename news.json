@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Netflix закрыл студию авторов Oxenfree — спустя полтора месяца после релиза хоррор-игры Unhinged",
+    "description": "Вместе с Night School сервис ликвидировал и финскую Moonloot.",
+    "fullText": "Вместе с Night School сервис ликвидировал и финскую Moonloot.",
+    "image": "https://leonardo.osnova.io/4cf5aa7f-961a-5fcc-b4f1-1e1276e2d797/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5239253-netflix-zakryl-studiyu-avtorov-oxenfree-spustya-poltora-mesyaca-posle-reliza-horror-igry-unhinged?from=rss",
+    "time": "2026-08-13T19:36:14.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Мельникова впервые в карьере выиграла многоборье на чемпионате Европы",
+    "description": "Второе место заняла еще одна россиянка Анна Калмыкова",
+    "fullText": "Второе место заняла еще одна россиянка Анна Калмыкова",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/28010797",
+    "time": "2026-08-13T19:12:56.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Мы влюбились в третий сезон «Дома Дракона». Он абсолютно хорош",
     "description": "Хоть порой и не канон.",
@@ -9,17 +31,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3436336.html",
     "time": "2026-08-13T18:42:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Лавров: ЕС задерживает суда с грузами России, чтобы укреплять нацистов в Киеве",
-    "description": "Евросоюз \"разрешил себе\" передавать выручку с продажи груза с российских кораблей Украине, отметил министр иностранных дел РФ",
-    "fullText": "Евросоюз \"разрешил себе\" передавать выручку с продажи груза с российских кораблей Украине, отметил министр иностранных дел РФ",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250213/8061997.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/politika/28010723",
-    "time": "2026-08-13T18:13:38.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWcucnVz",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Препараты из списка наблюдения WADA рекламируют на турнирах в Канаде. Это норм?",
-    "description": "Копаемся в правилах.",
-    "fullText": "Копаемся в правилах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/35/6182dd4734c98873d549df24d8dd1.jpeg",
+    "title": "Сотрудники «Локомотива» избили журналиста «Матч ТВ». Что известно",
+    "description": "Клуб и телеканал выпустили заявление.",
+    "fullText": "Клуб и телеканал выпустили заявление.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/2f/26e5d733c43a68e5263882ec0a438.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3436866.html",
-    "time": "2026-08-13T14:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Mafia: Definitive Edition для PS5 и Xbox Series X|S получила возрастной рейтинг от ESRB",
-    "description": "Вероятно, версии для консолей текущего поколения анонсируют в ближайшее время.",
-    "fullText": "Вероятно, версии для консолей текущего поколения анонсируют в ближайшее время.",
-    "image": "https://leonardo.osnova.io/339c5819-52a4-5497-bb60-eaf184a3abdc/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5238576-mafia-definitive-edition-dlya-ps5-i-xbox-series-xs-reyting-esrb?from=rss",
-    "time": "2026-08-13T13:25:21.000Z"
+    "url": "https://www.sports.ru/football/blogs/3437648.html",
+    "time": "2026-08-13T15:10:00.000Z"
   }
 ]
