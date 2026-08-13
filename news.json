@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Аэропорт Ульяновска возобновил прием и выпуск самолетов",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Во Владивостоке откроют новые набережные и скверы к ВЭФ",
+    "description": "Мероприятие пройдет с 1 по 4 сентября",
+    "fullText": "Мероприятие пройдет с 1 по 4 сентября",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260813/9296541.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28008205",
-    "time": "2026-08-13T04:56:05.000Z"
+    "url": "https://tass.ru/obschestvo/28008421",
+    "time": "2026-08-13T06:36:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -23,35 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Люблю тебя, пап ❤️». Месси прощается с отцом Хорхе трогательным письмом",
-    "description": "«Ты всегда будешь рядом».",
-    "fullText": "«Ты всегда будешь рядом».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/24/1281905d642168060d0bf2aaacc9a.jpeg",
+    "title": "Автограф Капризова, ролексы Шипачеву – экскурсия за кулисы «Матча года» от Сергачева",
+    "description": "В блоге на Спортсе.",
+    "fullText": "В блоге на Спортсе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/81/ee36c47ee42a3b5b3b6d06e3d91dc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3436837.html",
-    "time": "2026-08-12T20:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Чинахов: почему ушел из «Коламбуса», как пережили смерть Годро, чем хороша связка с Малкиным",
-    "description": "Большой разговор.",
-    "fullText": "Большой разговор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/f5/a3d7c40624240bfb90517c0bd2166.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/kt_yHOYjCwkqdofgfa1FhX7j-C6b98jcm__Npsn_UVg",
-    "time": "2026-08-12T20:15:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3435990.html",
+    "time": "2026-08-12T21:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Genshin Impact добавили регион Снежная, вдохновлённый Россией",
-    "description": "В игре появились два новых героя и Крио-версия Путешественника.",
-    "fullText": "В игре появились два новых героя и Крио-версия Путешественника.",
-    "image": "https://leonardo.osnova.io/88084988-bebb-5bc1-a856-293cecfd0e89/",
+    "title": "Xbox анонсировала лимитированный контроллер в стиле Gears of War: E-Day за 90 долларов",
+    "description": "Игроки также получат возможность сделать свою версию геймпада.",
+    "fullText": "Игроки также получат возможность сделать свою версию геймпада.",
+    "image": "https://leonardo.osnova.io/3c69f4c1-b560-546c-8b6b-e5a22064bbc0/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5236381-genshin-impact-novyy-region-snezhnyy?from=rss",
-    "time": "2026-08-12T10:19:42.000Z"
+    "url": "https://dtf.ru/hard/5236900-xbox-limitirovanniy-kontroller-gears-of-war-e-day?from=rss",
+    "time": "2026-08-12T14:47:57.000Z"
   }
 ]
