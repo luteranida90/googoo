@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Во Владивостоке откроют новые набережные и скверы к ВЭФ",
-    "description": "Мероприятие пройдет с 1 по 4 сентября",
-    "fullText": "Мероприятие пройдет с 1 по 4 сентября",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260813/9296541.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/28008421",
-    "time": "2026-08-13T06:36:18.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
-    "description": "Уникальный мерч в магазине Спортса’‘.",
-    "fullText": "Уникальный мерч в магазине Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Найдите все одинаковые плитки!",
+    "description": "Новая мини-игра.",
+    "fullText": "Новая мини-игра.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/5c/a513530714b0f99f8684378f13a93.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
-    "time": "2026-08-12T21:30:00.000Z"
+    "url": "https://specials.sports.ru/mahjong-game/?utm_source=post_sports",
+    "time": "2026-08-13T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Человечище. 100 лет со дня рождения Фиделя Кастро",
+    "description": "Игорь Варламов — о впечатлениях от личных встреч с главой Кубы, о масштабе его личности и оставленном историческом наследии",
+    "fullText": "Игорь Варламов — о впечатлениях от личных встреч с главой Кубы, о масштабе его личности и оставленном историческом наследии",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260813/9297457.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/opinions/28008665",
+    "time": "2026-08-13T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Мостовой vs Отар – кто настоящий футбольный человек? «Диванный комментатор»: эксклюзивное шоу Спортса’’",
+    "description": "Футбольная мемология.",
+    "fullText": "Футбольная мемология.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/6f/e5a1c00df4baba61b01495fd06a8c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/KhvXUMmCbAFpEBcwnSq2yOFiT8HUBsQglEA7KXvRm1E",
+    "time": "2026-08-13T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Автограф Капризова, ролексы Шипачеву – экскурсия за кулисы «Матча года» от Сергачева",
-    "description": "В блоге на Спортсе.",
-    "fullText": "В блоге на Спортсе.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/81/ee36c47ee42a3b5b3b6d06e3d91dc.jpeg",
+    "title": "Уже 9-й трофей Сафонова в «ПСЖ»! Роскошная коллекция всего за 2 года",
+    "description": "Суперкубок Европы – 2-й.",
+    "fullText": "Суперкубок Европы – 2-й.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a7/03538e38f4243ad1caf660b596521.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3435990.html",
-    "time": "2026-08-12T21:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3437049.html",
+    "time": "2026-08-13T00:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Xbox анонсировала лимитированный контроллер в стиле Gears of War: E-Day за 90 долларов",
-    "description": "Игроки также получат возможность сделать свою версию геймпада.",
-    "fullText": "Игроки также получат возможность сделать свою версию геймпада.",
-    "image": "https://leonardo.osnova.io/3c69f4c1-b560-546c-8b6b-e5a22064bbc0/-/format/mp4/",
+    "title": "Kingdom Come: Deliverance II, Vampire Survivors, Hell is Us и Metro Exodus появятся в расширенном каталоге PS Plus",
+    "description": "Также будет Onimusha: Dawn of Dreams.",
+    "fullText": "Также будет Onimusha: Dawn of Dreams.",
+    "image": "https://leonardo.osnova.io/ec48660f-8525-556e-8d48-9e4b794e5903/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5236900-xbox-limitirovanniy-kontroller-gears-of-war-e-day?from=rss",
-    "time": "2026-08-12T14:47:57.000Z"
+    "url": "https://dtf.ru/games/5237018-kingdom-come-deliverance-ii-i-drugie-igry-v-ps-plus-extra?from=rss",
+    "time": "2026-08-12T15:41:14.000Z"
   }
 ]
