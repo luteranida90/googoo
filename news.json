@@ -1,14 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Mafia: Definitive Edition получит улучшение для консолей текущего поколения уже 14 августа",
-    "description": "Также анонсировали бандл со всеми частями серии.",
-    "fullText": "Также анонсировали бандл со всеми частями серии.",
-    "image": "https://leonardo.osnova.io/d0afeab4-9e3d-5173-b8b3-12fc194c4c05/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5238933-mafia-definitive-edition-poluchit-uluchshenie-dlya-konsolei-tekushego-pokoleniya-uzhe-14-avgusta?from=rss",
-    "time": "2026-08-13T16:39:50.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Футболист \"Зенита\" Энрике сосредоточен на игре за петербургский клуб",
+    "description": "Ранее сообщалось, что его переход в бразильский клуб \"Фламенго\" сорвался",
+    "fullText": "Ранее сообщалось, что его переход в бразильский клуб \"Фламенго\" сорвался",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/28010659",
+    "time": "2026-08-13T17:27:04.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -20,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/aquatics/europeanaquatics/swimming/",
     "time": "2026-08-13T16:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Татарстане водителя осудили за гибель двух человек в ДТП",
-    "description": "Он получил 3,5 года колонии-поселения",
-    "fullText": "Он получил 3,5 года колонии-поселения",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28010559",
-    "time": "2026-08-13T16:25:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9yZWcucnVz",
@@ -45,13 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ветер перемен. Что ждет «Вашингтон» в новом сезоне НБА",
-    "description": "Старт традиционного сериала.",
-    "fullText": "Старт традиционного сериала.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/81/47014b42e41129c88487258bef6c0.jpeg",
+    "title": "Валиева тренируется в лагере Бенуа Ришо: большой репортаж из Франции",
+    "description": "От Багрянцевой.",
+    "fullText": "От Багрянцевой.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/98/ea6289b124777b7bcdd6420b51dfc.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3436438.html",
-    "time": "2026-08-13T12:45:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3435744.html",
+    "time": "2026-08-13T13:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Mafia: Definitive Edition для PS5 и Xbox Series X|S получила возрастной рейтинг от ESRB",
+    "description": "Вероятно, версии для консолей текущего поколения анонсируют в ближайшее время.",
+    "fullText": "Вероятно, версии для консолей текущего поколения анонсируют в ближайшее время.",
+    "image": "https://leonardo.osnova.io/339c5819-52a4-5497-bb60-eaf184a3abdc/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5238576-mafia-definitive-edition-dlya-ps5-i-xbox-series-xs-reyting-esrb?from=rss",
+    "time": "2026-08-13T13:25:21.000Z"
   }
 ]
