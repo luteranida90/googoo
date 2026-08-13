@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ямпольская заявила о разработке концепции игровых площадок с образами народных промыслов",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/28009531",
+    "time": "2026-08-13T10:43:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
     "title": "Найдите все одинаковые плитки!",
     "description": "Новая мини-игра.",
@@ -8,17 +19,6 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://specials.sports.ru/mahjong-game/?utm_source=post_sports",
-    "time": "2026-08-13T09:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Человечище. 100 лет со дня рождения Фиделя Кастро",
-    "description": "Игорь Варламов — о впечатлениях от личных встреч с главой Кубы, о масштабе его личности и оставленном историческом наследии",
-    "fullText": "Игорь Варламов — о впечатлениях от личных встреч с главой Кубы, о масштабе его личности и оставленном историческом наследии",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260813/9297457.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/opinions/28008665",
     "time": "2026-08-13T09:30:00.000Z"
   },
   {
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Уже 9-й трофей Сафонова в «ПСЖ»! Роскошная коллекция всего за 2 года",
-    "description": "Суперкубок Европы – 2-й.",
-    "fullText": "Суперкубок Европы – 2-й.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/a7/03538e38f4243ad1caf660b596521.jpeg",
+    "title": "Шторм Станковича в ЛЧ: получил красную, поругался с фанатами «Црвены» и уволился",
+    "description": "Как же знакомо.",
+    "fullText": "Как же знакомо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ab/d8f4f109544d9a317d7dd197f8187.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3437049.html",
-    "time": "2026-08-13T00:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3436466.html",
+    "time": "2026-08-13T06:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Kingdom Come: Deliverance II, Vampire Survivors, Hell is Us и Metro Exodus появятся в расширенном каталоге PS Plus",
-    "description": "Также будет Onimusha: Dawn of Dreams.",
-    "fullText": "Также будет Onimusha: Dawn of Dreams.",
-    "image": "https://leonardo.osnova.io/ec48660f-8525-556e-8d48-9e4b794e5903/",
+    "title": "«На краю Оук-Стрит» стартовал с 85% на Rotten Tomatoes",
+    "description": "Дэвид Роберт Митчелл явно вдохновлялся Стивеном Спилбергом, но назвать это минусом нельзя.",
+    "fullText": "Дэвид Роберт Митчелл явно вдохновлялся Стивеном Спилбергом, но назвать это минусом нельзя.",
+    "image": "https://leonardo.osnova.io/ad897fa6-4dbb-5493-92ef-fdb6b149f722/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5237018-kingdom-come-deliverance-ii-i-drugie-igry-v-ps-plus-extra?from=rss",
-    "time": "2026-08-12T15:41:14.000Z"
+    "url": "https://dtf.ru/cinema/5237117-film-na-kraju-ouk-strit-ocenki?from=rss",
+    "time": "2026-08-12T19:57:22.000Z"
   }
 ]
