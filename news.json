@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Еще в трех городах Украины прошли митинги в поддержку Федорова",
-    "description": "Акции протеста состоялись в Днепропетровске, Ивано-Франковске и Харькове",
-    "fullText": "Акции протеста состоялись в Днепропетровске, Ивано-Франковске и Харькове",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Шварц рассказал о роли Паршивлюка в тренерском штабе \"Динамо\"",
+    "description": "Сергей Паршивлюк вошел в тренерский штаб бело-голубых перед началом сезона РПЛ",
+    "fullText": "Сергей Паршивлюк вошел в тренерский штаб бело-голубых перед началом сезона РПЛ",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260814/9301359.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28014157",
-    "time": "2026-08-14T18:54:44.000Z"
+    "url": "https://tass.ru/sport/28014215",
+    "time": "2026-08-14T19:54:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Синнер и Алькарас пропускают «Мастерс» в Цинциннати – кого рискнете взять в команду?",
+    "description": "Фэнтези-игра по теннису.",
+    "fullText": "Фэнтези-игра по теннису.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/f6/4074e02eb4707b8e114160e0fec38.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/cincinnati_open/?utm_source=native",
+    "time": "2026-08-14T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Готов принять ответственность». Что сказал Галактионов после «Оренбурга»",
+    "description": "Про ничью и травмированных.",
+    "fullText": "Про ничью и травмированных.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/9c/23abc50a64186a7eab27f62ddcbc1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/1jqbdtlCQBlxsKkZ-0P5Hv--7E1svDn2KhB2CEVeGX8",
+    "time": "2026-08-14T19:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,25 +44,25 @@
     "time": "2026-08-14T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Думаю, нам есть над чем поработать»: геймдиректор Beast of Reincarnation о проблемном релизе",
-    "description": "Хотя в целом игра удалась, считает разработчик.",
-    "fullText": "Хотя в целом игра удалась, считает разработчик.",
-    "image": "https://leonardo.osnova.io/c987c534-6a6b-5ca0-9c34-581963f22ec4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5240444-geimdirektor-beast-of-reincarnation-o-problemakh-reliza-igry?from=rss",
-    "time": "2026-08-14T14:16:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Вершину в $1 млн за бой мы прошли». Все о подготовке Махачева к исторической защите",
-    "description": "Деньги, средний вес, будущее.",
-    "fullText": "Деньги, средний вес, будущее.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/cd/adaed2bb1406a8ea982370171af59.jpeg",
+    "title": "Соболенко ответила за активные соцсети",
+    "description": "«Ты сначала со своим дерьмом разберись».",
+    "fullText": "«Ты сначала со своим дерьмом разберись».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/9b/24b3392b944e587ea8e617e0890c5.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3437679.html",
-    "time": "2026-08-14T14:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3438117.html",
+    "time": "2026-08-14T16:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "ARC Raiders принесла с релиза 552 миллиона долларов",
+    "description": "Сейчас, однако, игра растеряла большую часть аудитории.",
+    "fullText": "Сейчас, однако, игра растеряла большую часть аудитории.",
+    "image": "https://leonardo.osnova.io/f8ba6227-2827-5150-9db4-351b860d6bd1/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5240378-arc-raiders-vyruchka-i-auditoriya-igry?from=rss",
+    "time": "2026-08-14T13:09:29.000Z"
   }
 ]
