@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Топ-10 трансферов, изменивших историю футбола",
+    "description": "Кто сделал АПЛ главной лигой?",
+    "fullText": "Кто сделал АПЛ главной лигой?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/e9/6ae1050b542dda2b2b767191f977b.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/GBlrqCpeZvdLAohyT_zqbCIkMRaECu_MYifAH2Jxi4c",
+    "time": "2026-08-14T12:15:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "В Доте главный турнир года, все фавориты – россияне. Гайд, за кого болеть",
     "description": "Даже если не следите за Дотой.",
@@ -12,14 +23,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мельникова и Калмыкова забрали чемпионат Европы! После отказа в визах",
-    "description": "«Самый сложный турнир в жизни».",
-    "fullText": "«Самый сложный турнир в жизни».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/b8/51381f3b044398fc0bac39de79596.jpeg",
+    "title": "«Авангард» надолго потерял защитника-рекордсмена. Катастрофа?",
+    "description": "«Вопрос месяцев».",
+    "fullText": "«Вопрос месяцев».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/da/e87992a404912a5df4af68f12d10e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3437634.html",
-    "time": "2026-08-14T07:25:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3437739.html",
+    "time": "2026-08-14T08:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
@@ -33,25 +44,14 @@
     "time": "2026-08-14T07:21:58.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9yZWcucnVz",
-    "title": "Последний день регистрации на «Джерси-бег»",
-    "description": "Откладывать на потом не получится.",
-    "fullText": "Откладывать на потом не получится.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://reg.russiarunning.com/event/Jerseybeg?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
-    "time": "2026-08-14T07:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Системные требования Resonance: A Plague Tale Legacy — GTX 1060 для 1080p/30 fps и RTX 3060 Ti для 1080p/60 fps",
-    "description": "Без учёта апскейлинга и генерации кадров.",
-    "fullText": "Без учёта апскейлинга и генерации кадров.",
-    "image": "https://leonardo.osnova.io/558bb74b-0bba-54c1-a09f-2e9bb99c8785/",
+    "title": "На ПК и консолях вышел Hell Let Loose: Vietnam — онлайн-шутер в сеттинге Вьетнамской войны",
+    "description": "Оценка на Metacritic — 78 баллов, хотя игроки в Steam оказались более строги.",
+    "fullText": "Оценка на Metacritic — 78 баллов, хотя игроки в Steam оказались более строги.",
+    "image": "https://leonardo.osnova.io/ddea8519-337d-5204-93a7-e5fe255a80ec/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5238964-sistemnye-trebovaniya-resonance-a-plague-tale-legacy?from=rss",
-    "time": "2026-08-13T17:00:10.000Z"
+    "url": "https://dtf.ru/games/5239135-hell-let-loose-vietnam-onlajn-shuter?from=rss",
+    "time": "2026-08-13T19:01:30.000Z"
   }
 ]
