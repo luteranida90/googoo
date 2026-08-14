@@ -1,18 +1,29 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Обвиняемых в убийстве девочки в Приморье подростков направят на перевоспитание",
-    "description": "Как сообщалось ранее, тело 12-летней обнаружили в Находке на чердаке дома",
-    "fullText": "Как сообщалось ранее, тело 12-летней обнаружили в Находке на чердаке дома",
+    "title": "В хозяйствах Самарской области создали запас дизельного топлива",
+    "description": "В регионе в полном объеме сохранили поддержку аграрного сектора, отметил губернатор Вячеслав Федорищев",
+    "fullText": "В регионе в полном объеме сохранили поддержку аграрного сектора, отметил губернатор Вячеслав Федорищев",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28012603",
-    "time": "2026-08-14T17:15:46.000Z"
+    "url": "https://tass.ru/ekonomika/28013041",
+    "time": "2026-08-14T17:58:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Новый формат на Спортсе’’ – короткие посты",
+    "description": "Короче, пишите.",
+    "fullText": "Короче, пишите.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-08-14T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Чикунова – чемпионка, Колесников поборется за медаль Евро в плавании: прямой эфир «Матч ТВ» на ВидеоСпортсе’’",
+    "title": "Чикунова – чемпионка Европы, Колесников – в 0,01 от золота: прямой эфир «Матч ТВ» на ВидеоСпортсе’’",
     "description": "Разыграют 6 комплектов.",
     "fullText": "Разыграют 6 комплектов.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/9/87/4bc3d4d334dc4b024fe3a8b231e90.jpeg",
@@ -23,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я искупался в Сене! 2 года назад ее называли помойкой, сейчас там пляжи",
-    "description": "Владимир Иванов не позеленел.",
-    "fullText": "Владимир Иванов не позеленел.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/09/a21856e8943c1868acd9692da9d4c.jpeg",
+    "title": "Похоже, «Мерседес» саботирует главного моторного клиента в «Ф-1». Скандал неизбежен?",
+    "description": "«Макларен» недоволен.",
+    "fullText": "«Макларен» недоволен.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/30/cf2a6174f46f7992397143fc421d8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3438055.html",
-    "time": "2026-08-14T13:00:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3434985.html",
+    "time": "2026-08-14T14:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Режиссёрская версия фильма «Секретные материалы: Хочу верить» с рейтингом «R» вышла на Hulu",
-    "description": "18 лет спустя релиза оригинальной версии.",
-    "fullText": "18 лет спустя релиза оригинальной версии.",
-    "image": "https://leonardo.osnova.io/42cfdd13-3098-5ffb-9f6d-056a7dc926fb/",
+    "title": "Продюсер фильма по Gears of War считает, что киноадаптации должны дополнять лор игр, а не пересказывать его",
+    "description": "Повторения уже пройденного ждать, похоже, не стоит.",
+    "fullText": "Повторения уже пройденного ждать, похоже, не стоит.",
+    "image": "https://leonardo.osnova.io/3c2cd395-3033-5ec9-94b4-4feadf8d0bbb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5239937-rezhisserskaya-versiya-sekretnye-materialy-hochu-verit-na-hulu?from=rss",
-    "time": "2026-08-14T09:03:31.000Z"
+    "url": "https://dtf.ru/cinema/5240081-produktor-gears-of-war-o-kinoadaptatsii-lor-igr-dolzhen-doplnatsya?from=rss",
+    "time": "2026-08-14T10:40:14.000Z"
   }
 ]
