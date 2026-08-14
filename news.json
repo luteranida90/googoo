@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Четырех сотрудников \"Газпром Армении\" арестовали по обвинению в даче взяток",
+    "description": "В качестве меры пресечения для них избрали арест, сообщила пресс-секретарь Антикоррупционного комитета республики Марина Оганджанян",
+    "fullText": "В качестве меры пресечения для них избрали арест, сообщила пресс-секретарь Антикоррупционного комитета республики Марина Оганджанян",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28011773",
+    "time": "2026-08-14T07:21:58.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9yZWcucnVz",
     "title": "Последний день регистрации на «Джерси-бег»",
     "description": "Откладывать на потом не получится.",
@@ -11,15 +22,15 @@
     "time": "2026-08-14T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Казтрансойл\" нарастил поставки нефти по КТК до 271 тыс. тонн в июле",
-    "description": "Это почти в два раза больше показателя за аналогичный период 2025 года, рассказали в компании",
-    "fullText": "Это почти в два раза больше показателя за аналогичный период 2025 года, рассказали в компании",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Челси» просит у «Сити» 120 млн за Энцо, Батраков хочет в Турцию. Главные инсайды дня",
+    "description": "Трансферные дайджесты возвращаются.",
+    "fullText": "Трансферные дайджесты возвращаются.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/7e/1450722674d4e92d2f8bfcef438ea.jpeg",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28011481",
-    "time": "2026-08-14T06:57:32.000Z"
+    "url": "https://www.sports.ru/football/blogs/3437635.html",
+    "time": "2026-08-13T20:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -34,24 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Netflix закрыл студию авторов Oxenfree — спустя полтора месяца после релиза хоррор-игры Unhinged",
-    "description": "Вместе с Night School сервис ликвидировал и финскую Moonloot.",
-    "fullText": "Вместе с Night School сервис ликвидировал и финскую Moonloot.",
-    "image": "https://leonardo.osnova.io/4cf5aa7f-961a-5fcc-b4f1-1e1276e2d797/",
+    "title": "«Время стать частью этой истории»: обзорный трейлер The Blood of Dawnwalker",
+    "description": "До выхода игры осталось совсем немного.",
+    "fullText": "До выхода игры осталось совсем немного.",
+    "image": "https://leonardo.osnova.io/ae8e5981-459c-5916-9232-e8dae26e0971/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5239253-netflix-zakryl-studii-night-school-i-moonloot?from=rss",
-    "time": "2026-08-13T19:36:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что нужно починить «Зениту»",
-    "description": "Предложение Ильи Васильева.",
-    "fullText": "Предложение Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f9/9dc2f27b948db85d3b9e8a5cfa7de.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3436190.html",
-    "time": "2026-08-13T19:05:00.000Z"
+    "url": "https://dtf.ru/games/5238824-obzornyj-trejler-the-blood-of-dawnwalker?from=rss",
+    "time": "2026-08-13T15:45:21.000Z"
   }
 ]
