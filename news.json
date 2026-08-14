@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В хозяйствах Самарской области создали запас дизельного топлива",
-    "description": "В регионе в полном объеме сохранили поддержку аграрного сектора, отметил губернатор Вячеслав Федорищев",
-    "fullText": "В регионе в полном объеме сохранили поддержку аграрного сектора, отметил губернатор Вячеслав Федорищев",
+    "title": "Еще в трех городах Украины прошли митинги в поддержку Федорова",
+    "description": "Акции протеста состоялись в Днепропетровске, Ивано-Франковске и Харькове",
+    "fullText": "Акции протеста состоялись в Днепропетровске, Ивано-Франковске и Харькове",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28013041",
-    "time": "2026-08-14T17:58:12.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28014157",
+    "time": "2026-08-14T18:54:44.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,36 +22,25 @@
     "time": "2026-08-14T17:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Чикунова – чемпионка Европы, Колесников – в 0,01 от золота: прямой эфир «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "Разыграют 6 комплектов.",
-    "fullText": "Разыграют 6 комплектов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/87/4bc3d4d334dc4b024fe3a8b231e90.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/aquatics/europeanaquatics/swimming/",
-    "time": "2026-08-14T16:30:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Думаю, нам есть над чем поработать»: геймдиректор Beast of Reincarnation о проблемном релизе",
+    "description": "Хотя в целом игра удалась, считает разработчик.",
+    "fullText": "Хотя в целом игра удалась, считает разработчик.",
+    "image": "https://leonardo.osnova.io/c987c534-6a6b-5ca0-9c34-581963f22ec4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5240444-geimdirektor-beast-of-reincarnation-o-problemakh-reliza-igry?from=rss",
+    "time": "2026-08-14T14:16:56.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Похоже, «Мерседес» саботирует главного моторного клиента в «Ф-1». Скандал неизбежен?",
-    "description": "«Макларен» недоволен.",
-    "fullText": "«Макларен» недоволен.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/30/cf2a6174f46f7992397143fc421d8.jpeg",
+    "title": "«Вершину в $1 млн за бой мы прошли». Все о подготовке Махачева к исторической защите",
+    "description": "Деньги, средний вес, будущее.",
+    "fullText": "Деньги, средний вес, будущее.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/cd/adaed2bb1406a8ea982370171af59.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3434985.html",
-    "time": "2026-08-14T14:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Продюсер фильма по Gears of War считает, что киноадаптации должны дополнять лор игр, а не пересказывать его",
-    "description": "Повторения уже пройденного ждать, похоже, не стоит.",
-    "fullText": "Повторения уже пройденного ждать, похоже, не стоит.",
-    "image": "https://leonardo.osnova.io/3c2cd395-3033-5ec9-94b4-4feadf8d0bbb/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5240081-produktor-gears-of-war-o-kinoadaptatsii-lor-igr-dolzhen-doplnatsya?from=rss",
-    "time": "2026-08-14T10:40:14.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3437679.html",
+    "time": "2026-08-14T14:10:00.000Z"
   }
 ]
