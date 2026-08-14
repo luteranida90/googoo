@@ -1,14 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly9yZWcucnVz",
+    "title": "Последний день регистрации на «Джерси-бег»",
+    "description": "Откладывать на потом не получится.",
+    "fullText": "Откладывать на потом не получится.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/bc/7805f938a4a39946af817a728ed1a.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://reg.russiarunning.com/event/Jerseybeg?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
+    "time": "2026-08-14T07:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Петербурге представят инсталляцию из движущихся подушек и скульптуры классиков",
-    "description": "Выставка пройдет в Музее искусства Санкт-Петербурга XX-XXI веков",
-    "fullText": "Выставка пройдет в Музее искусства Санкт-Петербурга XX-XXI веков",
+    "title": "\"Казтрансойл\" нарастил поставки нефти по КТК до 271 тыс. тонн в июле",
+    "description": "Это почти в два раза больше показателя за аналогичный период 2025 года, рассказали в компании",
+    "fullText": "Это почти в два раза больше показателя за аналогичный период 2025 года, рассказали в компании",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/28011217",
-    "time": "2026-08-14T03:33:39.000Z"
+    "url": "https://tass.ru/ekonomika/28011481",
+    "time": "2026-08-14T06:57:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +33,25 @@
     "time": "2026-08-13T20:39:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Мы влюбились в третий сезон «Дома Дракона». Он абсолютно хорош",
-    "description": "Хоть порой и не канон.",
-    "fullText": "Хоть порой и не канон.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/c6/41f40d3fe4318a1b07fcc6473e891.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3436336.html",
-    "time": "2026-08-13T18:42:00.000Z"
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Netflix закрыл студию авторов Oxenfree — спустя полтора месяца после релиза хоррор-игры Unhinged",
+    "description": "Вместе с Night School сервис ликвидировал и финскую Moonloot.",
+    "fullText": "Вместе с Night School сервис ликвидировал и финскую Moonloot.",
+    "image": "https://leonardo.osnova.io/4cf5aa7f-961a-5fcc-b4f1-1e1276e2d797/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5239253-netflix-zakryl-studii-night-school-i-moonloot?from=rss",
+    "time": "2026-08-13T19:36:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Скандал: пенальти в пустые ворота. Странный протест «Фулхэма» после удаления Арбелоа",
-    "description": "Веселье с предсезонки.",
-    "fullText": "Веселье с предсезонки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/9e/43416c1b44d0e8bed8e87d28b227c.jpeg",
+    "title": "Что нужно починить «Зениту»",
+    "description": "Предложение Ильи Васильева.",
+    "fullText": "Предложение Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f9/9dc2f27b948db85d3b9e8a5cfa7de.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3437493.html",
-    "time": "2026-08-13T18:13:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В сети опубликовали короткие геймплейные ролики и скриншоты The Weavers — аналога Monster Hunter от miHoYo",
-    "description": "Не исключено, что это та игра, которую анонсировали в конце 2025-го.",
-    "fullText": "Не исключено, что это та игра, которую анонсировали в конце 2025-го.",
-    "image": "https://leonardo.osnova.io/9b75a755-76a7-56cd-8d76-ad41897e0840/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5238266-geympleynye-roliki-i-skrinshoty-the-weavers-ot-mihoyo?from=rss",
-    "time": "2026-08-13T10:28:19.000Z"
+    "url": "https://www.sports.ru/football/blogs/3436190.html",
+    "time": "2026-08-13T19:05:00.000Z"
   }
 ]
