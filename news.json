@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропорту Внуково сняли ограничения",
+    "description": "Их вводили для обеспечения безопасности полетов",
+    "fullText": "Их вводили для обеспечения безопасности полетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/28014315",
+    "time": "2026-08-14T21:57:41.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "«Раньше били лучше» — теперь официальный принт",
     "description": "Мерч Кержакова в магазине Спортса’‘.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=article&utm_campaign=jersey-beg-2026&utm_content=material-feed",
     "time": "2026-08-14T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Горелов сообщил, что риск заболеть гриппом у привитого в 150 раз ниже",
-    "description": "В случае заражения болезнь скорее всего пройдет без тяжелых осложнений, отметил заместитель директора по научной работе ФБУН ЦНИИ эпидемиологии Роспотребнадзора",
-    "fullText": "В случае заражения болезнь скорее всего пройдет без тяжелых осложнений, отметил заместитель директора по научной работе ФБУН ЦНИИ эпидемиологии Роспотребнадзора",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/28014293",
-    "time": "2026-08-14T21:21:18.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -53,17 +53,6 @@
     "category": "all",
     "url": "https://www.sports.ru/hockey/blogs/3438365.html",
     "time": "2026-08-14T18:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Новый формат на Спортсе’’ – короткие посты",
-    "description": "Короче, пишите.",
-    "fullText": "Короче, пишите.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/pGts16g",
-    "time": "2026-08-14T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
