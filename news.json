@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава Росрыболовства назвал сложным ход лососевой путины в 2026 году",
-    "description": "Есть отставание как по срокам, так и по объемам вылова, сообщил Илья Шестаков",
-    "fullText": "Есть отставание как по срокам, так и по объемам вылова, сообщил Илья Шестаков",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/28014713",
-    "time": "2026-08-15T04:35:28.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "«Раньше били лучше» — теперь официальный принт",
     "description": "Мерч Кержакова в магазине Спортса’‘.",
@@ -22,6 +11,17 @@
     "time": "2026-08-14T21:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Как правильно отдыхать и играть долго? Советы Игнашевича",
+    "description": "Секреты легенды.",
+    "fullText": "Секреты легенды.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b8/deeea01444fe18b335f070b613328.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3438346.html",
+    "time": "2026-08-14T20:05:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Синнер и Алькарас пропускают «Мастерс» в Цинциннати – кого рискнете взять в команду?",
     "description": "Фэнтези-игра по теннису.",
@@ -31,28 +31,6 @@
     "category": "all",
     "url": "https://m.sports.ru/osnova/cincinnati_open/?utm_source=native",
     "time": "2026-08-14T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Готов принять ответственность». Что сказал Галактионов после «Оренбурга»",
-    "description": "Про ничью и травмированных.",
-    "fullText": "Про ничью и травмированных.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/9c/23abc50a64186a7eab27f62ddcbc1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/1jqbdtlCQBlxsKkZ-0P5Hv--7E1svDn2KhB2CEVeGX8",
-    "time": "2026-08-14T19:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что нужно починить «Зениту»",
-    "description": "Предложение Ильи Васильева.",
-    "fullText": "Предложение Ильи Васильева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f9/9dc2f27b948db85d3b9e8a5cfa7de.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3436190.html",
-    "time": "2026-08-14T18:42:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
