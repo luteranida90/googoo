@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Пловчиха Гилязова назвала посещение Эйфелевой башни сбывшейся мечтой",
+    "description": "По словам спортсменки, ее очень понравилась достопримечательность",
+    "fullText": "По словам спортсменки, ее очень понравилась достопримечательность",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260815/9302549.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/28015819",
+    "time": "2026-08-15T17:27:49.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Наши пловцы в погоне за медалями Евро: прямой эфир «Матч ТВ» на ВидеоСпортсе’’",
     "description": "Разыграют 6 комплектов.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/aquatics/europeanaquatics/swimming/",
     "time": "2026-08-15T16:47:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Белгородской области при атаках ВСУ пострадали два человека",
-    "description": "Один из них находится в тяжелом состоянии",
-    "fullText": "Один из них находится в тяжелом состоянии",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260815/9302501.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28015759",
-    "time": "2026-08-15T16:30:20.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Пару дней назад я была на самом дне». Евгения Чикунова наконец-то с большой личной победой",
-    "description": "Несмотря на болезнь.",
-    "fullText": "Несмотря на болезнь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/e8/975524f864d9cbfdaac3547032f13.jpeg",
+    "title": "Почему в теннисе стало так много играющих матерей?",
+    "description": "Три в четвертьфинале тысячника.",
+    "fullText": "Три в четвертьфинале тысячника.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/96/d5dc390ef49b6a7e9d2e6852a0ac7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3438774.html",
-    "time": "2026-08-15T13:00:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3436944.html",
+    "time": "2026-08-15T13:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
