@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Центр патологии речи реконструировали на Ямале",
-    "description": "Его площадь увеличили в два раза",
-    "fullText": "Его площадь увеличили в два раза",
+    "title": "В Забайкалье подтопило более 40 домов и 200 приусадебных участков",
+    "description": "В ГУ МЧС по региону назвали напряженной ситуацию с паводками в крае",
+    "fullText": "В ГУ МЧС по региону назвали напряженной ситуацию с паводками в крае",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28015497",
-    "time": "2026-08-16T09:59:10.000Z"
+    "url": "https://tass.ru/proisshestviya/28016719",
+    "time": "2026-08-16T10:27:14.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,6 +22,17 @@
     "time": "2026-08-16T09:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кто ждет наших юниоров на международке: от топ-фигуристки из Австралии до ученика Малининых",
+    "description": "Гран-при уже скоро.",
+    "fullText": "Гран-при уже скоро.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/81/3c4877f5f4339bdd5cdcec77eeb63.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3411570.html",
+    "time": "2026-08-16T07:20:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "«Арсенал» vs «Ман Сити» – топ-матч с фрибетом до 15 000!",
     "description": "Кто заберет Суперкубок?",
@@ -33,25 +44,14 @@
     "time": "2026-08-16T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Краснодар» только побеждает! Но все ли так идеально?",
-    "description": "Главное про матч с «Ахматом».",
-    "fullText": "Главное про матч с «Ахматом».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/bc/10f70c0284f8ab8d1f882d89bf479.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3439357.html",
-    "time": "2026-08-16T06:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Спин-офф «Теории большого взрыва» про Стюарта продлили на второй сезон",
-    "description": "Ещё до окончания первого.",
-    "fullText": "Ещё до окончания первого.",
-    "image": "https://leonardo.osnova.io/170ab5e1-9051-554a-a953-af4067d323f8/",
+    "title": "Для Mafia: The Old Country вышло дополнение Man of Honor",
+    "description": "А на PS5 и Xbox Series X|S выпустили нативную версию ремейка оригинальной Mafia.",
+    "fullText": "А на PS5 и Xbox Series X|S выпустили нативную версию ремейка оригинальной Mafia.",
+    "image": "https://leonardo.osnova.io/8e685f54-08fa-52d0-881b-09457647abc9/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5241092-prodlenie-spin-offa-teorii-bolshogo-vzryva-pro-styuarta?from=rss",
-    "time": "2026-08-14T19:22:46.000Z"
+    "url": "https://dtf.ru/games/5240787-dopolnenie-man-of-honor-dlya-mafia-the-old-country?from=rss",
+    "time": "2026-08-14T17:20:26.000Z"
   }
 ]
