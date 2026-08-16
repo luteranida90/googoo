@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Забайкалье подтопило более 40 домов и 200 приусадебных участков",
-    "description": "В ГУ МЧС по региону назвали напряженной ситуацию с паводками в крае",
-    "fullText": "В ГУ МЧС по региону назвали напряженной ситуацию с паводками в крае",
+    "title": "В Душанбе 10 человек подозревают в умышленном заражении ВИЧ",
+    "description": "По данным МВД Таджикистана, задержанные заразили более 60 граждан",
+    "fullText": "По данным МВД Таджикистана, задержанные заразили более 60 граждан",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28016719",
-    "time": "2026-08-16T10:27:14.000Z"
+    "url": "https://tass.ru/obschestvo/28016789",
+    "time": "2026-08-16T12:53:41.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Швентек защищает титул в Цинциннати – повторит свой успех?",
-    "description": "Выберите фаворитов турнира.",
-    "fullText": "Выберите фаворитов турнира.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/fe/acd0871ec4762bbd67b4e8b3eb3bb.png",
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
+    "description": "Уникальный мерч в магазине Спортса’‘.",
+    "fullText": "Уникальный мерч в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/osnova/cincinnati_open/?utm_source=native",
-    "time": "2026-08-16T09:30:00.000Z"
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-08-16T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кто ждет наших юниоров на международке: от топ-фигуристки из Австралии до ученика Малининых",
-    "description": "Гран-при уже скоро.",
-    "fullText": "Гран-при уже скоро.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/81/3c4877f5f4339bdd5cdcec77eeb63.jpeg",
+    "title": "Махачев уже в списке величайших?",
+    "description": "Сравниваем аргументы.",
+    "fullText": "Сравниваем аргументы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/37/6460688134c60a2da5fdddcd14749.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3411570.html",
-    "time": "2026-08-16T07:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Арсенал» vs «Ман Сити» – топ-матч с фрибетом до 15 000!",
-    "description": "Кто заберет Суперкубок?",
-    "fullText": "Кто заберет Суперкубок?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/3d/8106a8a2440c1985816ce3541b408.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/materialf",
-    "time": "2026-08-16T07:00:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3439328.html",
+    "time": "2026-08-16T10:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Mafia: The Old Country вышло дополнение Man of Honor",
-    "description": "А на PS5 и Xbox Series X|S выпустили нативную версию ремейка оригинальной Mafia.",
-    "fullText": "А на PS5 и Xbox Series X|S выпустили нативную версию ремейка оригинальной Mafia.",
-    "image": "https://leonardo.osnova.io/8e685f54-08fa-52d0-881b-09457647abc9/-/format/mp4/",
+    "title": "Insomniac уточнила, что графический режим в Marvel&#039;s Wolverine «по умолчанию» для базовой PS5 — 60 fps с рейтрейсингом",
+    "description": "На этот раз студия изначально придерживалась этого стандарта.",
+    "fullText": "На этот раз студия изначально придерживалась этого стандарта.",
+    "image": "https://leonardo.osnova.io/06fb5eb7-683f-5cfd-9b01-297ddf77141c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5240787-dopolnenie-man-of-honor-dlya-mafia-the-old-country?from=rss",
-    "time": "2026-08-14T17:20:26.000Z"
+    "url": "https://dtf.ru/hard/5240649-marvels-wolverine-na-ps5-60-fps-s-rejtrejsingom-po-umolchaniyu?from=rss",
+    "time": "2026-08-14T16:01:57.000Z"
   }
 ]
