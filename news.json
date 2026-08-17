@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Кубани рассказали о состоянии двух пострадавших при атаке БПЛА 12 августа",
-    "description": "Его оценивают как тяжелое",
-    "fullText": "Его оценивают как тяжелое",
+    "title": "Данные измерительных станций подтвердили усиление УФ-излучения в Европе",
+    "description": "По оценке экспертов Федерального ведомства по защите от радиации в Германии, это связано с уменьшением облачности",
+    "fullText": "По оценке экспертов Федерального ведомства по защите от радиации в Германии, это связано с уменьшением облачности",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28019753",
-    "time": "2026-08-17T15:30:39.000Z"
+    "url": "https://tass.ru/obschestvo/28019819",
+    "time": "2026-08-17T16:00:09.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,25 +22,25 @@
     "time": "2026-08-17T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Даку избавил «Спартак» от Барко-зависимости. Колонка Чернявского",
-    "description": "Вот бы их связку уже с «Зенитом».",
-    "fullText": "Вот бы их связку уже с «Зенитом».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ab/0c7418fb64cbb86e45e5d6c026ac3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3440202.html",
-    "time": "2026-08-17T09:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Бывшая сценаристка Saber рассказала, что глава компании извинился за высказывания о ней",
-    "description": "После того, как руководителя массово раскритиковали в сети.",
-    "fullText": "После того, как руководителя массово раскритиковали в сети.",
-    "image": "https://leonardo.osnova.io/6f8341b5-16b8-5a45-9d52-b11b2f359777/",
+    "title": "Konami закроет мобильную Castlevania: Grimoire of Souls",
+    "description": "Она была доступна в сервисе Apple Arcade с 2021 года.",
+    "fullText": "Она была доступна в сервисе Apple Arcade с 2021 года.",
+    "image": "https://leonardo.osnova.io/50b98c99-5b19-5a0e-a28d-34feca85cba6/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5244677-stsena-listka-stella-sakko-izvineniya-glavy-saber?from=rss",
-    "time": "2026-08-17T07:12:26.000Z"
+    "url": "https://dtf.ru/mobile/5245105-konami-zakryvaet-mobilnuyu-igru-castlevania-grimoire-of-souls?from=rss",
+    "time": "2026-08-17T11:12:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Теневые короли паддока: кто управляет карьерами пилотов «Ф-1»",
+    "description": "Родители, менеджеры-профи, бывшие гонщики?",
+    "fullText": "Родители, менеджеры-профи, бывшие гонщики?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c7/744a92f714613bc1141cf887c11f7.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3386385.html",
+    "time": "2026-08-17T10:00:00.000Z"
   }
 ]
