@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Рязани выявили опубликовавшую видео атак дронов ВСУ",
-    "description": "Девушке грозит штраф в размере до 1 млн рублей",
-    "fullText": "Девушке грозит штраф в размере до 1 млн рублей",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ФАС проанализирует причины роста цен на арматуру",
+    "description": "Мониторинг цен на строительные материалы находится на особом контроле",
+    "fullText": "Мониторинг цен на строительные материалы находится на особом контроле",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260817/9304997.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28018595",
-    "time": "2026-08-17T09:26:35.000Z"
+    "url": "https://tass.ru/ekonomika/28018707",
+    "time": "2026-08-17T10:01:12.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Сорвался трансфер конкурента для Сафонова: Судзуки не доехал в «ПСЖ» из-за жадных агентов",
+    "description": "Теперь – к Эмери.",
+    "fullText": "Теперь – к Эмери.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/27/c8f2b65004f7c892a3d8b13d45c79.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3439140.html",
+    "time": "2026-08-17T04:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,25 +33,14 @@
     "time": "2026-08-17T04:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наши красиво закрыли Евро: 🥇 в эстафете, киборг Корнев, даже Ефимова с медалью",
-    "description": "5 наград за день!",
-    "fullText": "5 наград за день!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/d0/491c20dc040c8bf650881d76dbf86.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3440058.html",
-    "time": "2026-08-17T04:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "По Kingdom Hearts выпустят аниме для Disney+",
-    "description": "Четвёртая часть серии тем временем выйдет в конце 2027 года.",
-    "fullText": "Четвёртая часть серии тем временем выйдет в конце 2027 года.",
-    "image": "https://leonardo.osnova.io/7656f670-a105-5a83-8d6d-e3b37e8ef906/",
+    "title": "Marvel, Pixar, «Звёздные войны» и другое: все анонсы с презентации Disney на D23",
+    "description": "Тизер «Звёздного истребителя» в сети не опубликовали, но новостей и без того хватило.",
+    "fullText": "Тизер «Звёздного истребителя» в сети не опубликовали, но новостей и без того хватило.",
+    "image": "https://leonardo.osnova.io/dcf4640f-5bb6-534c-8a00-0b81ef833301/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/5241401-anime-po-kingdom-hearts-dlya-disney?from=rss",
-    "time": "2026-08-15T03:12:13.000Z"
+    "url": "https://dtf.ru/cinema/5241596-anonsy-disney-na-d23-marvel-pixar-zvezdnye-voyny?from=rss",
+    "time": "2026-08-15T10:32:13.000Z"
   }
 ]
