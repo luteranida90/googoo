@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Московском регионе 18 и 19 августа пройдут кратковременные дожди",
-    "description": "Температура воздуха будет до плюс 22-24 градусов местами, возможно усиление южного и юго-западного ветра в порывах до 18 м/с",
-    "fullText": "Температура воздуха будет до плюс 22-24 градусов местами, возможно усиление южного и юго-западного ветра в порывах до 18 м/с",
+    "title": "В Днепропетровской области Украины повреждено предприятие энергохолдинга \"ДТЭК\"",
+    "description": "Компания не привела подробностей",
+    "fullText": "Компания не привела подробностей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28018947",
-    "time": "2026-08-17T11:17:16.000Z"
+    "url": "https://tass.ru/proisshestviya/28019049",
+    "time": "2026-08-17T11:36:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Мостовой vs Отар – кто настоящий футбольный человек? «Диванный комментатор»: эксклюзивное шоу Спортса’’",
+    "description": "Футбольная мемология.",
+    "fullText": "Футбольная мемология.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/6f/e5a1c00df4baba61b01495fd06a8c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/KhvXUMmCbAFpEBcwnSq2yOFiT8HUBsQglEA7KXvRm1E",
+    "time": "2026-08-17T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Россия больше не лидер в художке: единственная победа на ЧМ – ширма",
-    "description": "Без медалей в олимпийских видах.",
-    "fullText": "Без медалей в олимпийских видах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/d2/35404dc944ea7a4c914aa353f1a85.jpeg",
+    "title": "«Арсенал» вариативный и красивый, «Сити» – сырой. Разбор Лукомского и Палагина",
+    "description": "Суть разгрома в Суперкубке.",
+    "fullText": "Суть разгрома в Суперкубке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/ac/7d0f17b3c46b3b434b728d0b19f9b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3439903.html",
-    "time": "2026-08-17T05:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3440057.html",
+    "time": "2026-08-17T06:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: команда разработчиков файтинга Invincible VS лишилась около 75% сотрудников",
-    "description": "Игра, по всей видимости, не оправдала ожиданий студии.",
-    "fullText": "Игра, по всей видимости, не оправдала ожиданий студии.",
-    "image": "https://leonardo.osnova.io/813b6091-0490-586a-92c2-b711a85af608/",
+    "title": "Бывший директор Square Enix считает, что отказ Sony от дисков приведёт к снижению стоимости игр в PS Store",
+    "description": "Он ожидает гибкое ценообразование и больше скидок, как в Steam.",
+    "fullText": "Он ожидает гибкое ценообразование и больше скидок, как в Steam.",
+    "image": "https://leonardo.osnova.io/691615b8-1eb7-5dc6-bfe0-8099f0a38c52/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5243192-komanda-razrabotchikov-invincible-vs-poterjala-sotrudnikov?from=rss",
-    "time": "2026-08-16T09:13:57.000Z"
+    "url": "https://dtf.ru/gameindustry/5243706-otkaz-sony-ot-diskov-i-vliyanie-na-tseny-igr-v-ps-store?from=rss",
+    "time": "2026-08-16T14:46:39.000Z"
   }
 ]
