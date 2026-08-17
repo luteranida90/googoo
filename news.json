@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Митрополит Нектарий ожидает восстановления общения православных Греции и России",
+    "description": "Митрополит Элладской православной церкви выразил сожаление по поводу отсутствия возможности общения между православными греками и русскими",
+    "fullText": "Митрополит Элладской православной церкви выразил сожаление по поводу отсутствия возможности общения между православными греками и русскими",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/28020181",
+    "time": "2026-08-17T20:10:31.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Депортиво» вернулся в Ла Лигу – смотрим матч против «Эльче» в эфире «Матч ТВ» на ВидеоСпортсе’‘",
     "description": "Ностальгия.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/football/la-liga/deportivo-vs-elche/",
     "time": "2026-08-17T20:05:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Курске при детонации БПЛА повреждены несколько автомобилей и два балкона",
-    "description": "Никто не пострадал",
-    "fullText": "Никто не пострадал",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28020167",
-    "time": "2026-08-17T19:38:41.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -34,13 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Инсайдер: Diablo IV с дополнениями выйдет на Switch 2 уже 15 сентября",
-    "description": "Анонс сделают всего лишь несколькими днями ранее.",
-    "fullText": "Анонс сделают всего лишь несколькими днями ранее.",
-    "image": "https://leonardo.osnova.io/9d3b207c-a1f5-58fd-bc7c-40a7b88eef6b/",
+    "title": "Unitree показала робота Superman, который «побил» мировые рекорды людей по прыжкам в высоту и скорости бега",
+    "description": "Он прыгает на два метра вверх с места.",
+    "fullText": "Он прыгает на два метра вверх с места.",
+    "image": "https://leonardo.osnova.io/cc055abd-121b-5b9a-abf7-005754172107/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5245434-diablo-iv-na-switch-2-anons-blizzard?from=rss",
-    "time": "2026-08-17T14:14:58.000Z"
+    "url": "https://dtf.ru/science/5245231-robot-superman-unitree-rekordy-pryzhki-skorost?from=rss",
+    "time": "2026-08-17T12:11:25.000Z"
   }
 ]
