@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Китай запустил спутник дистанционного зондирования Земли",
-    "description": "Старт состоялся с космодрома Тайюань",
-    "fullText": "Старт состоялся с космодрома Тайюань",
+    "title": "Латвийский участок дороги Rail Baltica не достроят до 2030 года",
+    "description": "Премьер республики Андрис Кулбергс отметил, что для завершения строительства участка потребуется минимум €4 млрд",
+    "fullText": "Премьер республики Андрис Кулбергс отметил, что для завершения строительства участка потребуется минимум €4 млрд",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/28017897",
-    "time": "2026-08-17T06:30:21.000Z"
+    "url": "https://tass.ru/ekonomika/28018019",
+    "time": "2026-08-17T07:12:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,6 +22,17 @@
     "time": "2026-08-17T04:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "У Роналду последний сезон: сам анонсировал на свадьбе. Что, правда?",
+    "description": "«Все планы уже расписаны».",
+    "fullText": "«Все планы уже расписаны».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/91/e1a2973e5482ea8cbddea70579ee7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3440204.html",
+    "time": "2026-08-16T21:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Интервью Даку на русском, Угальде говорит про покер – яркий «Спартака» после победы над «Балтикой» Талалаева",
     "description": "Счастье на поле и в раздевалке.",
@@ -33,25 +44,14 @@
     "time": "2026-08-16T20:35:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Медальный зачет водного Евро: Россия – 3-я по золоту, победила Великобритания",
-    "description": "Итог.",
-    "fullText": "Итог.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e4/76634ffab4d0baf161f68bdadf13c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/aquatics/blogs/3437505.html",
-    "time": "2026-08-16T20:10:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Remedy показала сражение с одним из боссов Control Resonant, который превращает пол в лаву",
-    "description": "Ещё одиннадцать минут геймплея.",
-    "fullText": "Ещё одиннадцать минут геймплея.",
-    "image": "https://leonardo.osnova.io/c9314af9-4779-5298-8a47-8d82f07614a1/-/format/mp4/",
+    "title": "По Kingdom Hearts выпустят аниме для Disney+",
+    "description": "Четвёртая часть серии тем временем выйдет в конце 2027 года.",
+    "fullText": "Четвёртая часть серии тем временем выйдет в конце 2027 года.",
+    "image": "https://leonardo.osnova.io/7656f670-a105-5a83-8d6d-e3b37e8ef906/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5240997-control-resonant-bitva-s-bossom?from=rss",
-    "time": "2026-08-14T18:42:32.000Z"
+    "url": "https://dtf.ru/anime/5241401-anime-po-kingdom-hearts-dlya-disney?from=rss",
+    "time": "2026-08-15T03:12:13.000Z"
   }
 ]
