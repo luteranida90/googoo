@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В округах Красноярского края ввели режим \"черного неба\"",
+    "description": "Специалисты экологического надзора перешли на усиленный режим работы",
+    "fullText": "Специалисты экологического надзора перешли на усиленный режим работы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/obschestvo/28017675",
+    "time": "2026-08-17T05:09:33.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
     "title": "Швентек защищает титул в Цинциннати – повторит свой успех?",
     "description": "Выберите фаворитов турнира.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://m.sports.ru/osnova/cincinnati_open/?utm_source=native",
     "time": "2026-08-17T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Индекс Мосбиржи на открытии утренней торговой сессии снижался на 0,37%",
-    "description": "К 07:09 мск показатель ускорил снижение и находился на отметке 2 107,18 пункта",
-    "fullText": "К 07:09 мск показатель ускорил снижение и находился на отметке 2 107,18 пункта",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/ekonomika/28017569",
-    "time": "2026-08-17T04:17:35.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -34,14 +34,14 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Даку избавил «Спартак» от Барко-зависимости. Колонка Чернявского",
-    "description": "Вот бы их связку уже с «Зенитом».",
-    "fullText": "Вот бы их связку уже с «Зенитом».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ab/0c7418fb64cbb86e45e5d6c026ac3.jpeg",
+    "title": "Медальный зачет водного Евро: Россия – 3-я по золоту, победила Великобритания",
+    "description": "Итог.",
+    "fullText": "Итог.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e4/76634ffab4d0baf161f68bdadf13c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3440202.html",
-    "time": "2026-08-16T19:45:00.000Z"
+    "url": "https://www.sports.ru/aquatics/blogs/3437505.html",
+    "time": "2026-08-16T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
