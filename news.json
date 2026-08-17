@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На севере Украины без света остались около 11 тыс. абонентов",
-    "description": "Авария произошла из-за повреждения объекта энергетики, сообщили в \"Черниговоблэнерго\"",
-    "fullText": "Авария произошла из-за повреждения объекта энергетики, сообщили в \"Черниговоблэнерго\"",
+    "title": "Ambrey сообщила о захвате грузового судна под флагом Комор у берегов Сомали",
+    "description": "Оно вышло из Текирдага в Турции и следовало в город Дар-эс-Салам в Танзании",
+    "fullText": "Оно вышло из Текирдага в Турции и следовало в город Дар-эс-Салам в Танзании",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28019889",
-    "time": "2026-08-17T16:30:10.000Z"
+    "url": "https://tass.ru/proisshestviya/28019945",
+    "time": "2026-08-17T17:00:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Смелые прогнозы на сезон АПЛ: кто станет чемпионом и кого ждет провал?",
+    "description": "Почему не верят в Алонсо?",
+    "fullText": "Почему не верят в Алонсо?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/ac/fa66403584bb78ac98dd7981f5e25.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/p5CY0fv5V9xWUPQE_bbWSefMGfpW5_lZnNQ-oDQi6bE",
+    "time": "2026-08-17T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -22,25 +33,14 @@
     "time": "2026-08-17T11:50:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Мостовой vs Отар – кто настоящий футбольный человек? «Диванный комментатор»: эксклюзивное шоу Спортса’’",
-    "description": "Футбольная мемология.",
-    "fullText": "Футбольная мемология.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/6f/e5a1c00df4baba61b01495fd06a8c.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/KhvXUMmCbAFpEBcwnSq2yOFiT8HUBsQglEA7KXvRm1E",
-    "time": "2026-08-17T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Тим Рот сыграет немецкого военного преступника Клауса Барби в фильме Projet K об охотниках на нацистов",
-    "description": "В картине, основанной на реальных событиях, также снимутся Дайан Крюгер и Дэни Бун.",
-    "fullText": "В картине, основанной на реальных событиях, также снимутся Дайан Крюгер и Дэни Бун.",
-    "image": "https://leonardo.osnova.io/c7a341fd-9ea2-5918-ae3b-850e59a98d30/",
+    "title": "Симу Лю уточнил, что работа над экранизацией Sleeping Dogs продвигается успешно — идут переговоры со Square Enix",
+    "description": "Актёр напомнил, что у проекта уже есть режиссёр и производственная компания.",
+    "fullText": "Актёр напомнил, что у проекта уже есть режиссёр и производственная компания.",
+    "image": "https://leonardo.osnova.io/34ce9520-61b9-570b-b472-58251b8780a7/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5245073-tim-rot-projet-k-ohota-na-nacistov?from=rss",
-    "time": "2026-08-17T10:58:21.000Z"
+    "url": "https://dtf.ru/cinema/5244988-simu-lyu-sleeping-dogs-ekranizatsiya?from=rss",
+    "time": "2026-08-17T10:03:05.000Z"
   }
 ]
