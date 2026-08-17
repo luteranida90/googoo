@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Данные измерительных станций подтвердили усиление УФ-излучения в Европе",
-    "description": "По оценке экспертов Федерального ведомства по защите от радиации в Германии, это связано с уменьшением облачности",
-    "fullText": "По оценке экспертов Федерального ведомства по защите от радиации в Германии, это связано с уменьшением облачности",
+    "title": "На севере Украины без света остались около 11 тыс. абонентов",
+    "description": "Авария произошла из-за повреждения объекта энергетики, сообщили в \"Черниговоблэнерго\"",
+    "fullText": "Авария произошла из-за повреждения объекта энергетики, сообщили в \"Черниговоблэнерго\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28019819",
-    "time": "2026-08-17T16:00:09.000Z"
+    "url": "https://tass.ru/proisshestviya/28019889",
+    "time": "2026-08-17T16:30:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Зенит» все еще впереди, «Краснодар» и «Спартак» подбираются. Следим за фаворитами РПЛ",
+    "description": "Изменения после 4-го тура.",
+    "fullText": "Изменения после 4-го тура.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/17/928c3db454742b045f69085fcf8db.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/betting/blogs/3437704.html",
+    "time": "2026-08-17T11:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -23,24 +34,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Konami закроет мобильную Castlevania: Grimoire of Souls",
-    "description": "Она была доступна в сервисе Apple Arcade с 2021 года.",
-    "fullText": "Она была доступна в сервисе Apple Arcade с 2021 года.",
-    "image": "https://leonardo.osnova.io/50b98c99-5b19-5a0e-a28d-34feca85cba6/",
+    "title": "Тим Рот сыграет немецкого военного преступника Клауса Барби в фильме Projet K об охотниках на нацистов",
+    "description": "В картине, основанной на реальных событиях, также снимутся Дайан Крюгер и Дэни Бун.",
+    "fullText": "В картине, основанной на реальных событиях, также снимутся Дайан Крюгер и Дэни Бун.",
+    "image": "https://leonardo.osnova.io/c7a341fd-9ea2-5918-ae3b-850e59a98d30/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/5245105-konami-zakryvaet-mobilnuyu-igru-castlevania-grimoire-of-souls?from=rss",
-    "time": "2026-08-17T11:12:13.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Теневые короли паддока: кто управляет карьерами пилотов «Ф-1»",
-    "description": "Родители, менеджеры-профи, бывшие гонщики?",
-    "fullText": "Родители, менеджеры-профи, бывшие гонщики?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c7/744a92f714613bc1141cf887c11f7.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3386385.html",
-    "time": "2026-08-17T10:00:00.000Z"
+    "url": "https://dtf.ru/cinema/5245073-tim-rot-projet-k-ohota-na-nacistov?from=rss",
+    "time": "2026-08-17T10:58:21.000Z"
   }
 ]
