@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РФ впервые за восемь лет доставили десницу святителя Спиридона Тримифунтского",
-    "description": "Поклониться святыне можно будет в 12 регионах",
-    "fullText": "Поклониться святыне можно будет в 12 регионах",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/28020135",
-    "time": "2026-08-17T19:17:57.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Депортиво» вернулся в Ла Лигу – смотрим матч против «Эльче» в эфире «Матч ТВ» на ВидеоСпортсе’‘",
     "description": "Ностальгия.",
@@ -19,18 +8,29 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/football/la-liga/deportivo-vs-elche/",
-    "time": "2026-08-17T19:10:00.000Z"
+    "time": "2026-08-17T20:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Курске при детонации БПЛА повреждены несколько автомобилей и два балкона",
+    "description": "Никто не пострадал",
+    "fullText": "Никто не пострадал",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28020167",
+    "time": "2026-08-17T19:38:41.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гласнер – 2-й по зарплате в АПЛ. Выше только у Артеты",
-    "description": "Денежный рейтинг.",
-    "fullText": "Денежный рейтинг.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/2f/849c13f414d85bb0c593a6b5a28d2.jpeg",
+    "title": "Родри почти в «Барсе», Дьокереш – тоже вариант, Викарио едет в «Юве». Главные инсайды дня",
+    "description": "Here we go!",
+    "fullText": "Here we go!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/bf/872f97d854d8cbb60fd788ff4278f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3434845.html",
-    "time": "2026-08-17T14:45:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3440584.html",
+    "time": "2026-08-17T15:33:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
