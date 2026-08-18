@@ -1,16 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве и Подмосковье начал действовать желтый уровень погодной опасности",
-    "description": "Мера связана с ожидаемой грозой",
-    "fullText": "Мера связана с ожидаемой грозой",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260818/9309387.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/28023401",
-    "time": "2026-08-18T18:09:41.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Локо» уже без Батракова против «Ростова» в Кубке. Смотрим игру в эфире «Матч ТВ» на ВидеоСпортсе’‘",
     "description": "Пока москвичи без побед в сезоне.",
@@ -19,7 +8,40 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/football/russian-cup/match/rostov-vs-lokomotiv/",
-    "time": "2026-08-18T17:45:00.000Z"
+    "time": "2026-08-18T19:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Забайкальске пресекли коррупцию должностных лиц таможенного поста",
+    "description": "Санкция предусматривает наказание в виде лишения свободы сроком до 12 лет",
+    "fullText": "Санкция предусматривает наказание в виде лишения свободы сроком до 12 лет",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28023495",
+    "time": "2026-08-18T18:54:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Беспроводные колонки Pulse Elevate от Sony с микрофоном и док-станцией в комплекте будут стоить 210 долларов",
+    "description": "Продажи начнутся в ноябре.",
+    "fullText": "Продажи начнутся в ноябре.",
+    "image": "https://leonardo.osnova.io/679c969d-74da-5637-bb2b-04b9d6fa2d05/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/hard/5074967-besprovodnye-kolonki-pulse-elevate-ot-sony?from=rss",
+    "time": "2026-08-18T16:51:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все бразильцы в истории ЦСКА – где они сейчас? Есть скотовод и злостный неплательщик алиментов",
+    "description": "Десятки.",
+    "fullText": "Десятки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/40/7deada88a49e58d2ae2adffcb7124.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3438355.html",
+    "time": "2026-08-18T14:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL2N5",
@@ -31,27 +53,5 @@
     "category": "all",
     "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_sports_material",
     "time": "2026-08-18T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Олдскул в КХЛ: вратарь заказал на сезон щитки в стиле ретро",
-    "description": "Екатеринбург – это модно!",
-    "fullText": "Екатеринбург – это модно!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/76/f44b74d604c1689b4bd5eb6a022d6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3440625.html",
-    "time": "2026-08-18T13:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Головоломка Order of the Sinking Star от автора Braid и The Witness выйдет 8 октября — трейлер",
-    "description": "Игра в том числе появится на PS5.",
-    "fullText": "Игра в том числе появится на PS5.",
-    "image": "https://leonardo.osnova.io/fb199752-00c2-5373-b382-72591584b9c4/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5246989-golovolomka-order-of-the-sinking-star-thekla?from=rss",
-    "time": "2026-08-18T13:24:18.000Z"
   }
 ]
