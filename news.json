@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Выломов: рынок новостроек РФ может столкнуться с недостатком предложения",
-    "description": "По словам гендиректора Рейтингового агентства стройкомплекса, это произойдет, если девелоперы слишком сильно сократят запуск новых проектов",
-    "fullText": "По словам гендиректора Рейтингового агентства стройкомплекса, это произойдет, если девелоперы слишком сильно сократят запуск новых проектов",
+    "title": "Эксперт Ип: возраст 100 лет в будущем может восприниматься как период активной жизни",
+    "description": "Генеральный директор Lonvi Biosciences отметил, что речь идет не просто об увеличении продолжительности жизни, а о продлении периода, в течение которого человек сохраняет здоровье",
+    "fullText": "Генеральный директор Lonvi Biosciences отметил, что речь идет не просто об увеличении продолжительности жизни, а о продлении периода, в течение которого человек сохраняет здоровье",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/28023173",
-    "time": "2026-08-18T16:43:52.000Z"
+    "url": "https://tass.ru/obschestvo/28023237",
+    "time": "2026-08-18T17:11:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -19,7 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/football/russian-cup/match/akron-vs-cska/",
-    "time": "2026-08-18T16:30:00.000Z"
+    "time": "2026-08-18T16:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL2N5",
@@ -33,25 +33,25 @@
     "time": "2026-08-18T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Никишин до сих пор без контракта в НХЛ. Выбьет у «Каролины» $8 млн или станет частью обмена?",
-    "description": "Сезон уже через 1,5 месяца.",
-    "fullText": "Сезон уже через 1,5 месяца.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c3/7880984014a91b15ad1bbb759f9bd.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3441134.html",
-    "time": "2026-08-18T11:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз The Sinking City 2",
-    "description": "Спустя семь лет после первой части.",
-    "fullText": "Спустя семь лет после первой части.",
-    "image": "https://leonardo.osnova.io/c337c3a3-2445-5203-b712-a1e33c2902b5/",
+    "title": "Головоломка Order of the Sinking Star от автора Braid и The Witness выйдет 8 октября — трейлер",
+    "description": "Игра в том числе появится на PS5.",
+    "fullText": "Игра в том числе появится на PS5.",
+    "image": "https://leonardo.osnova.io/fb199752-00c2-5373-b382-72591584b9c4/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5246731-reliz-the-sinking-city-2-na-pk-ps5-i-xbox-series-xs?from=rss",
-    "time": "2026-08-18T10:42:53.000Z"
+    "url": "https://dtf.ru/games/5246989-golovolomka-order-of-the-sinking-star-thekla?from=rss",
+    "time": "2026-08-18T13:24:18.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Что ждет мужской теннис в России после поколения Медведева?",
+    "description": "Главные лица.",
+    "fullText": "Главные лица.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/33/de9467751493ab0ea3eb0daa9baa2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3438845.html",
+    "time": "2026-08-18T13:00:00.000Z"
   }
 ]
