@@ -1,25 +1,14 @@
 [
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Battlefield 6 начался кроссовер с «Топ Ганом»",
-    "description": "В шутере также стартовала бесплатная неделя.",
-    "fullText": "В шутере также стартовала бесплатная неделя.",
-    "image": "https://leonardo.osnova.io/bf1a6e88-d042-5e39-a507-5ae9f8a9b590/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5247227-v-battlefield-6-nachalsya-krossover-s-top-ganom?from=rss",
-    "time": "2026-08-18T16:12:56.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Дунаев отметил востребованность опыта транспорта Москвы в регионах",
-    "description": "Профессор МГИМО в качестве примера привел столичные проекты по внедрению карты \"Тройка\" и обновление парка общественного транспорта",
-    "fullText": "Профессор МГИМО в качестве примера привел столичные проекты по внедрению карты \"Тройка\" и обновление парка общественного транспорта",
+    "title": "Эксперт Выломов: рынок новостроек РФ может столкнуться с недостатком предложения",
+    "description": "По словам гендиректора Рейтингового агентства стройкомплекса, это произойдет, если девелоперы слишком сильно сократят запуск новых проектов",
+    "fullText": "По словам гендиректора Рейтингового агентства стройкомплекса, это произойдет, если девелоперы слишком сильно сократят запуск новых проектов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28023129",
-    "time": "2026-08-18T16:12:28.000Z"
+    "url": "https://tass.ru/nedvizhimost/28023173",
+    "time": "2026-08-18T16:43:52.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -30,7 +19,7 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/football/russian-cup/match/akron-vs-cska/",
-    "time": "2026-08-18T15:30:00.000Z"
+    "time": "2026-08-18T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly90Lm1lL2N5",
@@ -53,5 +42,16 @@
     "category": "all",
     "url": "https://www.sports.ru/hockey/blogs/3441134.html",
     "time": "2026-08-18T11:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Состоялся релиз The Sinking City 2",
+    "description": "Спустя семь лет после первой части.",
+    "fullText": "Спустя семь лет после первой части.",
+    "image": "https://leonardo.osnova.io/c337c3a3-2445-5203-b712-a1e33c2902b5/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5246731-reliz-the-sinking-city-2-na-pk-ps5-i-xbox-series-xs?from=rss",
+    "time": "2026-08-18T10:42:53.000Z"
   }
 ]
