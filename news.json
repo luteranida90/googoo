@@ -1,25 +1,25 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "DPA: министр в ФРГ обещал Киеву помощь в ремонте саркофага Чернобыльской АЭС",
+    "description": "По данным агентства, Карстен Шнайдер отметил, что ремонт купола представляет собой очень сложный процесс и потребует общих международных усилий",
+    "fullText": "По данным агентства, Карстен Шнайдер отметил, что ремонт купола представляет собой очень сложный процесс и потребует общих международных усилий",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28021847",
+    "time": "2026-08-18T09:45:40.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
     "title": "Персональные рекомендации, короткие посты и реакции",
-    "description": "Обновления в «Моей Ленте»",
-    "fullText": "Обновления в «Моей Ленте»",
+    "description": "Обновления в «Моей Ленте».",
+    "fullText": "Обновления в «Моей Ленте».",
     "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://sprts.cc/pGts16g",
-    "time": "2026-08-18T09:15:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Нашли две группы альпинистов. Главное о спасательной операции на Эльбрусе",
-    "description": "Все альпинисты находятся в безопасности",
-    "fullText": "Все альпинисты находятся в безопасности",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260818/9307527.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28021699",
-    "time": "2026-08-18T09:13:39.000Z"
+    "time": "2026-08-18T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -45,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Голливудские студии заключили с ByteDance соглашение об усилении мер защиты авторских прав в отношении ИИ-сервисов",
-    "description": "Сделка распространяется в том числе на Seedance и TikTok.",
-    "fullText": "Сделка распространяется в том числе на Seedance и TikTok.",
-    "image": "https://leonardo.osnova.io/e0634436-199c-5769-9209-2f0ee86b96ab/",
+    "title": "«Времена, как сейчас, меняют людей»: финальный трейлер Star Wars Zero Company",
+    "description": "Релиз тактической игры состоится уже 27 августа.",
+    "fullText": "Релиз тактической игры состоится уже 27 августа.",
+    "image": "https://leonardo.osnova.io/fa5c9868-0b46-5ddd-a082-a5c393e92e19/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5245730-golivud-i-bytedance-usilivayut-zashchitu-avtorskikh-prav-v-ii-servisakh?from=rss",
-    "time": "2026-08-17T17:48:34.000Z"
+    "url": "https://dtf.ru/games/5245580-finalnyj-trejler-star-wars-zero-company?from=rss",
+    "time": "2026-08-17T15:49:24.000Z"
   }
 ]
