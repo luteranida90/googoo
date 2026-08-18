@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Украине гендиректор Агентства оборонных закупок уйдет в отставку",
-    "description": "Речь идет о фигуранте аудиозаписей по делу бизнесмена Тимура Миндича Арсене Жумадилове",
-    "fullText": "Речь идет о фигуранте аудиозаписей по делу бизнесмена Тимура Миндича Арсене Жумадилове",
+    "title": "В Карелии усилят контроль за нарушающими сроки сборщиками ягод",
+    "description": "В Минприроды региона напомнили, что за их несоблюдение в республике предусмотрена административная ответственность",
+    "fullText": "В Минприроды региона напомнили, что за их несоблюдение в республике предусмотрена административная ответственность",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28022635",
-    "time": "2026-08-18T13:27:42.000Z"
+    "url": "https://tass.ru/obschestvo/28022813",
+    "time": "2026-08-18T14:43:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90Lm1lL2N5",
+    "title": "Новый зверек на ЧМ по Доте!",
+    "description": "Позаботьтесь о нем.",
+    "fullText": "Позаботьтесь о нем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/4f/bb6e30c0c41fcbd360b03e373d519.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_sports_material",
+    "time": "2026-08-18T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,36 +33,25 @@
     "time": "2026-08-18T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Родри, Ферран Торрес, Ромеро: разбор главных трансферов недели",
-    "description": "На ВидеоСпортсе’‘",
-    "fullText": "На ВидеоСпортсе’‘",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/9d/10d069b824cb1a12f5041e21e9048.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/3zWvsf-AlGLvGGwzVrGoO3fuBReA4f6ppMpyPksYUSc",
-    "time": "2026-08-18T09:40:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наши фигуристы-юниоры открывают мировой сезон! Что у них приготовлено для Гран-при?",
-    "description": "Без опыта, но с ультра-си.",
-    "fullText": "Без опыта, но с ультра-си.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/65/8335b53894dd8a3705840470a15da.jpeg",
+    "title": "Джокеры Фэнтези АПЛ: кто сделает разницу в новом сезоне?",
+    "description": "Чтобы быть в топе.",
+    "fullText": "Чтобы быть в топе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/fd/c58605fc34d72a81f40d4d76e043a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3437737.html",
-    "time": "2026-08-18T09:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3439669.html",
+    "time": "2026-08-18T10:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Phantom Blade Zero рассказали о завязке сюжета, механиках и мире игры на специальном State of Play",
-    "description": "О демо пока ни слова.",
-    "fullText": "О демо пока ни слова.",
-    "image": "https://leonardo.osnova.io/9e1aec63-da2e-5d7c-9883-323e3cbb1eae/-/format/mp4/",
+    "title": "«Оно: Добро пожаловать в Дерри» продлили на второй сезон",
+    "description": "Первый закончился ещё в декабре.",
+    "fullText": "Первый закончился ещё в декабре.",
+    "image": "https://leonardo.osnova.io/0309272e-a317-5bc0-93ae-77358fa2ef3f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5246351-phantom-blade-zero-syuzhet-mekhaniki-i-mir-igry?from=rss",
-    "time": "2026-08-18T06:32:44.000Z"
+    "url": "https://dtf.ru/cinema/5246630-ono-dobro-pozhalovat-v-derri-prodlili-na-vtoroy-sezon?from=rss",
+    "time": "2026-08-18T09:44:17.000Z"
   }
 ]
