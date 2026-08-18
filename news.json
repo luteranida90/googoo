@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: с начала суток в семи регионах России объявлялась тревога",
-    "description": "Больше всего она затронула Центральный федеральный округ",
-    "fullText": "Больше всего она затронула Центральный федеральный округ",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Лукашенко отметил важность производства в Белоруссии стрелкового оружия",
+    "description": "Президент страны прибыл на завод \"Кидма тек\", где ему представили первый белорусский образец автомата ВСК-100Б",
+    "fullText": "Президент страны прибыл на завод \"Кидма тек\", где ему представили первый белорусский образец автомата ВСК-100Б",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969333.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28020933",
-    "time": "2026-08-18T05:27:59.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28021247",
+    "time": "2026-08-18T07:13:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вспомните самые дорогие покупки в истории «Челси»? Топ обновлен уже этим летом",
+    "description": "В тройке – трансферы после Абрамовича.",
+    "fullText": "В тройке – трансферы после Абрамовича.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3f/9733ac77d400f985ef24f888f18f7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3423701.html",
+    "time": "2026-08-17T22:14:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -22,25 +33,14 @@
     "time": "2026-08-17T20:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как дела у Дона Черри – канадца, который критиковал Ови и называл Кузнецова «придурком»",
-    "description": "Главный апологет «старой школы».",
-    "fullText": "Главный апологет «старой школы».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/61/cda4bb76e4b47a12022815e83fc9d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3440461.html",
-    "time": "2026-08-17T18:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Unitree показала робота Superman, который «побил» мировые рекорды людей по прыжкам в высоту и скорости бега",
-    "description": "Он прыгает на два метра вверх с места.",
-    "fullText": "Он прыгает на два метра вверх с места.",
-    "image": "https://leonardo.osnova.io/cc055abd-121b-5b9a-abf7-005754172107/",
+    "title": "Стартовал 18-й сезон «В Филадельфии всегда солнечно»",
+    "description": "На этот раз зрителей ждут десять эпизодов.",
+    "fullText": "На этот раз зрителей ждут десять эпизодов.",
+    "image": "https://leonardo.osnova.io/ea79cada-2134-553b-9ad7-e5b3b9448bb8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/science/5245231-robot-superman-unitree-rekordy-pryzhki-skorost?from=rss",
-    "time": "2026-08-17T12:11:25.000Z"
+    "url": "https://dtf.ru/cinema/5245282-novyj-sezon-seriala-v-filadelfii-vsegda-solnechno?from=rss",
+    "time": "2026-08-17T12:53:10.000Z"
   }
 ]
