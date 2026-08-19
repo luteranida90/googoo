@@ -1,18 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Импресарио Джованарди: решать, на какие концерты ходить, должна публика",
-    "description": "Подчиняться какому-то диктату неправильно, заявил промоутер культуры",
-    "fullText": "Подчиняться какому-то диктату неправильно, заявил промоутер культуры",
+    "title": "ТАСС: американский истребитель летает над Балтийским морем",
+    "description": "Самолет прилетел из Рейкьявика, по пути пройдя в воздушном пространстве Норвегии и Швеции, а также совершив полет над Польшей",
+    "fullText": "Самолет прилетел из Рейкьявика, по пути пройдя в воздушном пространстве Норвегии и Швеции, а также совершив полет над Польшей",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/28024833",
-    "time": "2026-08-19T16:12:33.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28026743",
+    "time": "2026-08-19T16:33:27.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Спартак» пропустил от «Рубина»! Даку в запасе – смотрим трансляцию «Матч ТВ» на ВидеоСпортсе’’",
+    "title": "«Спартак» проигрывает «Рубину»! Даку в запасе – смотрим трансляцию «Матч ТВ» на ВидеоСпортсе’’",
     "description": "Ждем Мирлинда на поле.",
     "fullText": "Ждем Мирлинда на поле.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/4/1d/b21417f4a4221ad98977451344a5e.jpeg",
@@ -33,25 +33,25 @@
     "time": "2026-08-19T15:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Второй сезон криминального сериала «Плохая обезьяна» стартует в декабре — в нём появится Джон Малкович",
-    "description": "Будет десять эпизодов.",
-    "fullText": "Будет десять эпизодов.",
-    "image": "https://leonardo.osnova.io/7adafd6c-f73c-5a4c-b688-a058f8b38dd4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5249270-vtoroy-sezon-seriala-plokhaya-obezyana?from=rss",
-    "time": "2026-08-19T15:08:42.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "70 лучших хоккеистов мира прямо сейчас. Рейтинг Спортса’’",
-    "description": "Угадаете, кто №1?",
-    "fullText": "Угадаете, кто №1?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ce/4c1eb1ae0462a9bd70c17cd9e8842.jpeg",
+    "title": "Шредер отказался от 80 млн, а теперь его обменяли девятый раз. Рекорд близко",
+    "description": "Будь как дома, путник.",
+    "fullText": "Будь как дома, путник.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/42/8daddf7ec44aa9cdfe242b8dddd78.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3440042.html",
-    "time": "2026-08-19T12:00:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3439845.html",
+    "time": "2026-08-19T12:35:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Сценарист Марк Гэтисс не верит, что «Доктор Кто» вернётся в ближайшие годы",
+    "description": "Он напомнил, что сериал уже попадал в похожую ситуацию перед большим перерывом.",
+    "fullText": "Он напомнил, что сериал уже попадал в похожую ситуацию перед большим перерывом.",
+    "image": "https://leonardo.osnova.io/98876e45-5fc3-5435-b214-87d0c3c6646d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5248826-mark-getiss-o-budushchem-seriala-doktor-kto?from=rss",
+    "time": "2026-08-19T11:18:52.000Z"
   }
 ]
