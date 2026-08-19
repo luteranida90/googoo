@@ -1,25 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Решетников рассказал, на чем будет основан новый инвестиционный цикл в РФ",
-    "description": "Он будет связан с развитием собственных технологий, искусственного интеллекта и роботизации, заявил глава Минэкономразвития",
-    "fullText": "Он будет связан с развитием собственных технологий, искусственного интеллекта и роботизации, заявил глава Минэкономразвития",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250529/8261887.jpg",
+    "title": "Импресарио Джованарди: решать, на какие концерты ходить, должна публика",
+    "description": "Подчиняться какому-то диктату неправильно, заявил промоутер культуры",
+    "fullText": "Подчиняться какому-то диктату неправильно, заявил промоутер культуры",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28026599",
-    "time": "2026-08-19T15:39:38.000Z"
+    "url": "https://tass.ru/kultura/28024833",
+    "time": "2026-08-19T16:12:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Спартак» уже пропустил от «Рубина»! Даку в запасе – смотрим игру Кубка в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "title": "«Спартак» пропустил от «Рубина»! Даку в запасе – смотрим трансляцию «Матч ТВ» на ВидеоСпортсе’’",
     "description": "Ждем Мирлинда на поле.",
     "fullText": "Ждем Мирлинда на поле.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/4/1d/b21417f4a4221ad98977451344a5e.jpeg",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://video.sports.ru/football/russian-cup/match/rubin-vs-spartak/",
-    "time": "2026-08-19T15:15:00.000Z"
+    "time": "2026-08-19T16:03:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
+    "description": "Уникальный мерч в магазине Спортса’‘.",
+    "fullText": "Уникальный мерч в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-08-19T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -34,13 +45,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Ты натуральная Йохан Кройфф». Интервью первой девушки судьи в РПЛ – путь от муромского зала до ЧМ и финала ЛЧ",
-    "description": "Поговорил Артем Терентьев.",
-    "fullText": "Поговорил Артем Терентьев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/ee/1f82e75f2468199781496ba58cbfc.png",
+    "title": "70 лучших хоккеистов мира прямо сейчас. Рейтинг Спортса’’",
+    "description": "Угадаете, кто №1?",
+    "fullText": "Угадаете, кто №1?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/ce/4c1eb1ae0462a9bd70c17cd9e8842.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3437593.html",
-    "time": "2026-08-19T11:50:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3440042.html",
+    "time": "2026-08-19T12:00:00.000Z"
   }
 ]
