@@ -1,24 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Краснодар» обыгрывает «Динамо»! Смотрим горячую концовку в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Майские флэшбеки.",
+    "fullText": "Майские флэшбеки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/news/f/64/ca2701c00438ea3ea72807fbf5a58.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/russian-cup/match/dynamo-vs-krasnodar/",
+    "time": "2026-08-19T19:29:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Камчатке произошло землетрясение магнитудой 5,6",
-    "description": "Глубина сейсмособытия составляет 40,4 км",
-    "fullText": "Глубина сейсмособытия составляет 40,4 км",
+    "title": "В ФРГ не ждут ухудшения отношений с Киевом после задержания по делу \"Северных потоков\"",
+    "description": "Министр иностранных дел Германии Йоханн Вадефуль заявил, что задача всех следственных органов заключается в том, чтобы решительно расследовать это дело и принимать необходимые меры",
+    "fullText": "Министр иностранных дел Германии Йоханн Вадефуль заявил, что задача всех следственных органов заключается в том, чтобы решительно расследовать это дело и принимать необходимые меры",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28026913",
-    "time": "2026-08-19T18:29:08.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28026947",
+    "time": "2026-08-19T19:28:09.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Он рулил легендарными Virtus.pro, а теперь работает в кибербезопасности. Большое интервью о спорте и жизни",
+    "description": "Где сейчас Роман Дворянкин.",
+    "fullText": "Где сейчас Роман Дворянкин.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/92/6390f411341aead75e6608716d38e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/dota2/blogs/3441240.html",
+    "time": "2026-08-19T18:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
+    "description": "Уникальный мерч в магазине Спортса’‘.",
+    "fullText": "Уникальный мерч в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-08-19T15:55:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Илья Сафонов открыл блог на Спортсе’’! И рассказал, почему уезжает в НХЛ",
+    "description": "Первый пост.",
+    "fullText": "Первый пост.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/12/9b837fd5a47e682b00e1e2bf50f22.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3441097.html",
+    "time": "2026-08-19T15:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Уволенные сотрудники Rockstar попросили игроков не бойкотировать GTA VI, так как специалисты «вложили годы работы» в проект",
-    "description": "Однако они всё равно намерены добиться справедливости.",
-    "fullText": "Однако они всё равно намерены добиться справедливости.",
-    "image": "https://leonardo.osnova.io/0cdc32ba-0eda-57df-95e7-fecda1e3500d/",
+    "title": "Второй сезон криминального сериала «Плохая обезьяна» стартует в декабре — в нём появится Джон Малкович",
+    "description": "Будет десять эпизодов.",
+    "fullText": "Будет десять эпизодов.",
+    "image": "https://leonardo.osnova.io/7adafd6c-f73c-5a4c-b688-a058f8b38dd4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5248831-sotrudniki-rockstar-prosyat-ne-boykotirovat-gta-vi?from=rss",
-    "time": "2026-08-19T11:26:54.000Z"
+    "url": "https://dtf.ru/cinema/5249270-vtoroy-sezon-seriala-plokhaya-obezyana?from=rss",
+    "time": "2026-08-19T15:08:42.000Z"
   }
 ]
