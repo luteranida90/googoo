@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В десяти школах Подмосковья с 1 сентября введут оценки за поведение",
-    "description": "Проект будет работать в тестовом режиме до 2027-2028 учебного года",
-    "fullText": "Проект будет работать в тестовом режиме до 2027-2028 учебного года",
+    "title": "ГК \"Дело\" провела ежегодную встречу для многодетных сотрудников",
+    "description": "В рамках поездки семьи принимают участие в культурной программе с осмотром достопримечательностей Москвы",
+    "fullText": "В рамках поездки семьи принимают участие в культурной программе с осмотром достопримечательностей Москвы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28026211",
-    "time": "2026-08-19T13:24:18.000Z"
+    "url": "https://tass.ru/obschestvo/28026445",
+    "time": "2026-08-19T14:44:35.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Зенит» в гостях у «Крыльев»: смотрим игру Кубка в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Чемпион снова в Самаре.",
+    "fullText": "Чемпион снова в Самаре.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/73/c19fae7e84e25814b54fdd2bbf4bd.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/russian-cup/match/krylia-sovetov-vs-zenit/",
+    "time": "2026-08-19T13:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,36 +33,25 @@
     "time": "2026-08-19T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Игра в НБА, жизнь в Нью-Йорке: болтаем с Егором Дёминым",
-    "description": "«Бруклин», метро, пицца.",
-    "fullText": "«Бруклин», метро, пицца.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/85/3699cc2ed4ade9884aaed4ce6e848.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/H9GB3tEJ1Ik5hQDF00ljWysuD9jcvVgrW4Vl7_6SDr0",
-    "time": "2026-08-19T09:55:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Лейкерс» просто не могли продать без скандала",
-    "description": "Джини Басс идет в атаку.",
-    "fullText": "Джини Басс идет в атаку.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/96/b13e42bad4c39a892424cefe7633d.jpeg",
+    "title": "Джекпот «Аякса»: купили Годтса за миллион, а продали в «ПСЖ» – за 55 млн!",
+    "description": "Деньги под новый проект.",
+    "fullText": "Деньги под новый проект.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/84/b24ad403c4df4b0399de7f1896202.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3441365.html",
-    "time": "2026-08-19T09:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3441862.html",
+    "time": "2026-08-19T11:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Тейлор Шеридан отказался от идеи спин-оффа «Йеллоустоуна» про ранчо 6666",
-    "description": "Режиссёр «не хочет обесценивать жизни реальных людей».",
-    "fullText": "Режиссёр «не хочет обесценивать жизни реальных людей».",
-    "image": "https://leonardo.osnova.io/656eb8ac-4b5a-50f1-881a-93a21f2517d5/",
+    "title": "Stop Killing Games о мотивах хакеров, опубликовавших ролики GTA VI: «Незаконные методы для отстаивания точки зрения для нас неприемлемы»",
+    "description": "Организация отстранилась от действий группировки, которая выступила против исключительно цифрового будущего.",
+    "fullText": "Организация отстранилась от действий группировки, которая выступила против исключительно цифрового будущего.",
+    "image": "https://leonardo.osnova.io/ca7c40a1-bac0-51ff-9063-8aca07ae82cf/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5248371-teylor-sheridan-otmenil-spin-off-yeloustouna-o-rancho-6666?from=rss",
-    "time": "2026-08-19T07:49:28.000Z"
+    "url": "https://dtf.ru/gameindustry/5248641-stop-killing-games-i-hakery-cyberleek-motivaciya-i-posledstviya-slivov-gta-vi?from=rss",
+    "time": "2026-08-19T10:17:38.000Z"
   }
 ]
