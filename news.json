@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Олимпийские чемпионы фигуристы Чок и Бейтс пропустят следующий сезон",
-    "description": "Американские танцоры завоевали золотые медали Игр в командных соревнованиях в 2022 и 2026 годах",
-    "fullText": "Американские танцоры завоевали золотые медали Игр в командных соревнованиях в 2022 и 2026 годах",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260821/9316449.jpg",
+    "title": "WP пишет о раздражении Трампа из-за отсутствия выхода из войны с Ираном",
+    "description": "По этой причине президент США стал чаще резко выражаться в адрес региональных союзников, сообщило издание",
+    "fullText": "По этой причине президент США стал чаще резко выражаться в адрес региональных союзников, сообщило издание",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28030477",
-    "time": "2026-08-20T21:11:46.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28030491",
+    "time": "2026-08-20T21:44:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,25 +22,25 @@
     "time": "2026-08-20T18:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Галатасарая» и есть деньги на Батракова, и нет. Сейчас объясним",
-    "description": "Разбор Игоря Сергеева.",
-    "fullText": "Разбор Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/36/7e5d303d74fc68bf82f961ed9bd53.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3441171.html",
-    "time": "2026-08-20T16:27:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«В крови — сила, в крови — свобода»: трейлер четвёртого сезона «Монстра» о Лиззи Борден, обвинённой в жестоком убийстве своих родителей в XIX веке",
-    "description": "Следующая часть антологии выйдет 17 сентября.",
-    "fullText": "Следующая часть антологии выйдет 17 сентября.",
-    "image": "https://leonardo.osnova.io/0a169615-1dba-502b-8bff-0bf7889d952c/-/format/mp4/",
+    "title": "Авторы Payday 3 сделают все платные ограбления частью основной игры",
+    "description": "Для владельцев DLC предусмотрена уникальная «косметика».",
+    "fullText": "Для владельцев DLC предусмотрена уникальная «косметика».",
+    "image": "https://leonardo.osnova.io/797b0a9c-dcd2-59b5-a26b-a63708afffeb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5251241-monstr-lizzi-borden-ubijstvo-roditelej?from=rss",
-    "time": "2026-08-20T13:44:49.000Z"
+    "url": "https://dtf.ru/games/5251779-platnye-ogrableniya-payday-3-stanut-chastyu-osnovnoy-igry?from=rss",
+    "time": "2026-08-20T17:38:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Все детали трансфера Батракова в «Галатасарай»: почему не «ПСЖ», как отказался от бонуса ради Турции",
+    "description": "Рассказывает Дорский.",
+    "fullText": "Рассказывает Дорский.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/14/3931722f347c78fbc6163dbe09fcb.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3442849.html",
+    "time": "2026-08-20T16:45:00.000Z"
   }
 ]
