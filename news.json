@@ -1,25 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ЦБ сообщил о защите всех счетов и операций с цифровым рублем банковской тайной",
-    "description": "Для этих средств работают те же правила, что и для другой валюты, отметила зампредседателя Банка России Зульфия Кахруманова",
-    "fullText": "Для этих средств работают те же правила, что и для другой валюты, отметила зампредседателя Банка России Зульфия Кахруманова",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260424/8999373.jpg",
+    "title": "Алькарас выступит на US Open",
+    "description": "Испанец не играл с апреля из-за травмы",
+    "fullText": "Испанец не играл с апреля из-за травмы",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28030115",
-    "time": "2026-08-20T16:23:48.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Fortnite начался четвёртый сезон седьмой главы — его посвятили кроссоверу с другими видеоиграми",
-    "description": "Добавили множество скинов и новые механики.",
-    "fullText": "Добавили множество скинов и новые механики.",
-    "image": "https://leonardo.osnova.io/74df2a20-06c9-593a-809b-6c65d644cb50/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5250793-fortnite-zapustil-chetvyortyy-sezon-sedmoy-glavy-k-crossoverami-s-igrami?from=rss",
-    "time": "2026-08-20T14:28:30.000Z"
+    "url": "https://tass.ru/sport/28030191",
+    "time": "2026-08-20T17:09:39.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -42,5 +31,16 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3439025.html",
     "time": "2026-08-20T12:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Бывший ведущий менеджер EA сомневается, что под новым руководством компания будет финансировать Mass Effect",
+    "description": "«Поверю, когда увижу».",
+    "fullText": "«Поверю, когда увижу».",
+    "image": "https://leonardo.osnova.io/7e481c63-0c71-595a-b713-1ac2cf50f086/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5250688-ea-i-budushchee-mass-effect-pod-novym-rukovodstvom-kompanii?from=rss",
+    "time": "2026-08-20T10:15:01.000Z"
   }
 ]
