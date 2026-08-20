@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Мэппинг-мюзикл о детстве покажут в Петергофе на Осеннем фестивале фонтанов",
-    "description": "Шоу пройдет на Большом каскаде 26 и 27 сентября в честь 200-летия парка Александрия",
-    "fullText": "Шоу пройдет на Большом каскаде 26 и 27 сентября в честь 200-летия парка Александрия",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ЦБ сообщил о защите всех счетов и операций с цифровым рублем банковской тайной",
+    "description": "Для этих средств работают те же правила, что и для другой валюты, отметила зампредседателя Банка России Зульфия Кахруманова",
+    "fullText": "Для этих средств работают те же правила, что и для другой валюты, отметила зампредседателя Банка России Зульфия Кахруманова",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260424/8999373.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/spb-news/28029705",
-    "time": "2026-08-20T14:14:02.000Z"
+    "url": "https://tass.ru/ekonomika/28030115",
+    "time": "2026-08-20T16:23:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В Fortnite начался четвёртый сезон седьмой главы — его посвятили кроссоверу с другими видеоиграми",
+    "description": "Добавили множество скинов и новые механики.",
+    "fullText": "Добавили множество скинов и новые механики.",
+    "image": "https://leonardo.osnova.io/74df2a20-06c9-593a-809b-6c65d644cb50/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5250793-fortnite-zapustil-chetvyortyy-sezon-sedmoy-glavy-k-crossoverami-s-igrami?from=rss",
+    "time": "2026-08-20T14:28:30.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +33,14 @@
     "time": "2026-08-20T13:40:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90Lm1lL2N5",
-    "title": "Срочно нужен хозяин!",
-    "description": "Заведите Тамагочи.",
-    "fullText": "Заведите Тамагочи.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/7f/ce80a5ba34f23a74b7478c82d9b7f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://t.me/cyber_tamagotchi_bot/webapp?startapp=utm_sports_material",
-    "time": "2026-08-20T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "25 звезд «Галатасарая» в XXI веке",
-    "description": "Неплохая компания для Батракова.",
-    "fullText": "Неплохая компания для Батракова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/b4/e8be33be543a898b14c247ad47026.jpeg",
+    "title": "Рейтинг зарплат русских за границей. Батраков теперь в тройке",
+    "description": "На уровне Головина и Сафонова.",
+    "fullText": "На уровне Головина и Сафонова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/b9/f91d4526a4f28836dfb97e90a36ce.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3391296.html",
-    "time": "2026-08-20T10:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В третьем «Ведьмаке» упростили реакции NPC на Геральта, потому что «женщины постоянно роняли детей»",
-    "description": "Не от счастья.",
-    "fullText": "Не от счастья.",
-    "image": "https://leonardo.osnova.io/4ad74383-2b9d-5d5d-854a-870a5a688f5a/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5250522-vedmak-3-problemy-s-npc?from=rss",
-    "time": "2026-08-20T08:47:51.000Z"
+    "url": "https://www.sports.ru/football/blogs/3439025.html",
+    "time": "2026-08-20T12:10:00.000Z"
   }
 ]
