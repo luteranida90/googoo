@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На дороге в ЕАО сбили тигра",
-    "description": "На место столкновения прибыли сотрудники Госавтоинспекции и следственно-оперативная группа",
-    "fullText": "На место столкновения прибыли сотрудники Госавтоинспекции и следственно-оперативная группа",
+    "title": "Из-за жары в Германии в 2026 году умерли 14 тыс. человек",
+    "description": "По данным Института Роберта Коха, это самый высокий показатель смертности населения с 1992 года",
+    "fullText": "По данным Института Роберта Коха, это самый высокий показатель смертности населения с 1992 года",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28028217",
-    "time": "2026-08-20T07:26:17.000Z"
+    "url": "https://tass.ru/obschestvo/28028373",
+    "time": "2026-08-20T08:11:59.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Вопросы после ЧМ по художке: почему выступала сборная города и что за «ссора у нас»",
+    "description": "Задает Наталья Марьянчик.",
+    "fullText": "Задает Наталья Марьянчик.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/ac/59baff45a44ef8db9bafef08d6212.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/gymnastics/blogs/3441149.html",
+    "time": "2026-08-20T01:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,25 +33,14 @@
     "time": "2026-08-19T22:10:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Что случилось с Мусиалой? Разбираемся в абсансах и их причинах",
-    "description": "Запутанная история.",
-    "fullText": "Запутанная история.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/69/850c0e0a5498ca348933d0bee93c2.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3441798.html",
-    "time": "2026-08-19T21:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Saber открыла предзаказы экшен-хоррора Clive Barker&#039;s Hellraiser: Revival — в Steam игра стоит от 2400 рублей",
-    "description": "Доступно два издания — стандартное и Deluxe.",
-    "fullText": "Доступно два издания — стандартное и Deluxe.",
-    "image": "https://leonardo.osnova.io/ccaa5834-a607-5083-83a1-7cffaa4e0437/",
+    "title": "Прогресс в Control Resonant будет повышать уровень локаций, а не главного героя Дилана",
+    "description": "Уровень сложности заявлен только один — как и в оригинале.",
+    "fullText": "Уровень сложности заявлен только один — как и в оригинале.",
+    "image": "https://leonardo.osnova.io/a99800e7-9d3a-574f-9e20-b9244893831b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5249124-saber-interactive-predzakazy-hellraiser-revival?from=rss",
-    "time": "2026-08-19T14:09:08.000Z"
+    "url": "https://dtf.ru/games/5249447-progress-v-control-resonant-urovni-lokatsiy-vmesto-geroya-dilana?from=rss",
+    "time": "2026-08-19T16:45:43.000Z"
   }
 ]
