@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Депутат Рады Колтунович заявил об историческом поражении Украины",
-    "description": "Это обусловлено потерями в населении, энергетике и промышленном секторе, считает парламентарий",
-    "fullText": "Это обусловлено потерями в населении, энергетике и промышленном секторе, считает парламентарий",
+    "title": "Состояние троих пострадавших от удара ВСУ работников ЗАЭС стабилизировалось",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28028609",
-    "time": "2026-08-20T09:18:14.000Z"
+    "url": "https://tass.ru/obschestvo/28028727",
+    "time": "2026-08-20T09:49:30.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Рыбакина, Швентек, Анисимова вышли в 1/4 «Мастерса» в Цинци – кто пройдет дальше?",
+    "description": "Сделать выбор.",
+    "fullText": "Сделать выбор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/e5/4592a236c4a2dbd754a722e51df41.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/cincinnati_open/?utm_source=native",
+    "time": "2026-08-20T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "0,001 до золота не хватило нашему 18-летнему таланту! Драма на гимнастическом Евро 😱",
-    "description": "Ну как так?!",
-    "fullText": "Ну как так?!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/d0/17c35dd344de1a29c0a2a2f0bbacc.jpeg",
+    "title": "Худшее поражение Соболенко, баранка Мирры, Зверев упустил матчбол. Да что творится в Цинциннати?!",
+    "description": "Дайджест.",
+    "fullText": "Дайджест.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/4b/71fb492e242d7a08ba0531f6ed851.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3442401.html",
-    "time": "2026-08-20T01:40:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3442560.html",
+    "time": "2026-08-20T05:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Valor Mortis от авторов Ghostrunner ушла «на золото»",
-    "description": "Игра о восставшем из мёртвых солдате Наполеона выйдет 13 октября.",
-    "fullText": "Игра о восставшем из мёртвых солдате Наполеона выйдет 13 октября.",
-    "image": "https://leonardo.osnova.io/eddc472f-cbd0-5dc4-9395-186b3db1ca64/",
+    "title": "Infinity Ward представила геймплейный трейлер мультиплеера Call of Duty: Modern Warfare 4",
+    "description": "Под трек «The Devil is a Lie» от Рика Росса и Jay-Z.",
+    "fullText": "Под трек «The Devil is a Lie» от Рика Росса и Jay-Z.",
+    "image": "https://leonardo.osnova.io/201f7776-3d49-5b28-b444-1fb43485b32c/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5249602-valor-mortis-ot-razrabotchikov-ghostrunner?from=rss",
-    "time": "2026-08-19T18:01:49.000Z"
+    "url": "https://dtf.ru/games/5249385-geympleynyy-treyler-multipleyera-call-of-duty-modern-warfare-4?from=rss",
+    "time": "2026-08-19T16:11:22.000Z"
   }
 ]
