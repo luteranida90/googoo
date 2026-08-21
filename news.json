@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Ил-76 МЧС РФ потушил крупные очаги пожаров в заповеднике в Сербии",
+    "description": "Это позволило сдержать распространение огня в направлении населенных пунктов, сообщили в ведомстве",
+    "fullText": "Это позволило сдержать распространение огня в направлении населенных пунктов, сообщили в ведомстве",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260821/9319283.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28033675",
+    "time": "2026-08-21T19:05:50.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "«Сосьедад» Захаряна стартует в Ла Лиге – на выезде с «Бетисом». Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
     "description": "Арсен на скамейке.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/football/la-liga/match/betis-vs-real-sociedad/",
     "time": "2026-08-21T19:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Тамбова ввели ограничения",
-    "description": "Они необходимы для обеспечения безопасности полетов",
-    "fullText": "Они необходимы для обеспечения безопасности полетов",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/obschestvo/28033659",
-    "time": "2026-08-21T18:43:34.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -34,24 +34,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Синнер все-таки пропустит US Open. Из-за колена впервые снялся со «Шлема»",
-    "description": "🤕",
-    "fullText": "🤕",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/9b/a4734d413400db7ecf1a761b29ba9.jpeg",
+    "title": "Угловые «Арсенала» – все? «Ливерпуль» ждет крах? Разбор интриг АПЛ – от Игнашевича",
+    "description": "И найдет ли «Сити» замену Родри?",
+    "fullText": "И найдет ли «Сити» замену Родри?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/1b/9eb40a30e448eb7d857cc17a4085e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3443566.html",
-    "time": "2026-08-21T15:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3443580.html",
+    "time": "2026-08-21T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В производство запустили сиквел Mouse: P.I. For Hire",
-    "description": "Издатель оказался очень доволен показателями игры.",
-    "fullText": "Издатель оказался очень доволен показателями игры.",
-    "image": "https://leonardo.osnova.io/e0238e84-59a0-540c-b927-256df0e7a1e5/",
+    "title": "На пиратских сайтах начали появляться фейковые «копии» GTA VI с вредоносным софтом",
+    "description": "Пользователи тем временем отследили авторов утечки до криптобиржи, требующей подтверждения личности.",
+    "fullText": "Пользователи тем временем отследили авторов утечки до криптобиржи, требующей подтверждения личности.",
+    "image": "https://leonardo.osnova.io/2d74c5b5-b59b-5e39-90d8-76a695228945/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5252947-sikvel-mouse-pi-for-hire-v-proizvodstve?from=rss",
-    "time": "2026-08-21T10:37:57.000Z"
+    "url": "https://dtf.ru/gameindustry/5252806-feykovye-kopii-gta-vi-s-vredonosnym-po-na-piratskikh-saitakh?from=rss",
+    "time": "2026-08-21T09:28:15.000Z"
   }
 ]
