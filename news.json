@@ -1,9 +1,20 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Херсонской области при атаках ВСУ за неделю погибли восемь человек",
+    "description": "Еще 30 пострадали",
+    "fullText": "Еще 30 пострадали",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28032117",
+    "time": "2026-08-21T10:10:15.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "У Швентек все шансы забрать «Мастерс» в Цинци – верите в ее победу?",
-    "description": "Выбрать фаворитом в Фэнтези.",
-    "fullText": "Выбрать фаворитом в Фэнтези.",
+    "title": "Верите, что Швентек заберет титул в Цинциннати? Тогда действуйте!",
+    "description": "В Фэнтези.",
+    "fullText": "В Фэнтези.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/7/fe/acd0871ec4762bbd67b4e8b3eb3bb.png",
     "source": "Sports.ru",
     "category": "all",
@@ -11,36 +22,25 @@
     "time": "2026-08-21T09:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВСУ за неделю потеряли более 260 военных в зоне ответственности \"Днепра\"",
-    "description": "",
-    "fullText": "",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260821/9317587.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/28031901",
-    "time": "2026-08-21T09:24:13.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Первые минуты Батракова в Стамбуле: сразу в шарфе «Галатасарая», дирижировал фанатами, 10 000 человек следили за полетом",
-    "description": "Мама, папа и жена рядом.",
-    "fullText": "Мама, папа и жена рядом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/b6/0e0c5623544dea47d320f63d7f7b9.jpeg",
+    "title": "С кем Батраков будет играть в «Галатасарае»? Осимхен, Сане, Гюндоган и другие",
+    "description": "Изучаем.",
+    "fullText": "Изучаем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/f9/2584be6e745c59265fd6902dca4a8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3442793.html",
-    "time": "2026-08-20T22:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3438786.html",
+    "time": "2026-08-21T06:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Мультсериал по Golden Axe стартует 16 сентября",
-    "description": "Paramount представила дебютный трейлер экранизации.",
-    "fullText": "Paramount представила дебютный трейлер экранизации.",
-    "image": "https://leonardo.osnova.io/d275c6a1-f860-5f91-b0e4-9b8bd16730f7/-/format/mp4/",
+    "title": "Riot Games закончит активную поддержку файтинга 2XKO в декабре",
+    "description": "Студия поделилась дальнейшими планами — в том числе на рефанды.",
+    "fullText": "Студия поделилась дальнейшими планами — в том числе на рефанды.",
+    "image": "https://leonardo.osnova.io/5dc03443-e347-594c-8198-8ee6de944f7f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5251370-multserial-golden-axe-ot-paramount?from=rss",
-    "time": "2026-08-20T14:40:53.000Z"
+    "url": "https://dtf.ru/games/5252036-riot-games-zavershaet-podderzhku-2xko?from=rss",
+    "time": "2026-08-20T19:49:43.000Z"
   }
 ]
