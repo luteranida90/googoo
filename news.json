@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: во Львове во время насильной мобилизации убили сотрудника ТЦК",
-    "description": "По данным российских силовых структур, один из мобилизованных отказался выполнять требования младшего сержанта и нанес ему ножевые ранения",
-    "fullText": "По данным российских силовых структур, один из мобилизованных отказался выполнять требования младшего сержанта и нанес ему ножевые ранения",
+    "title": "Рядом с Токио произошло землетрясение магнитудой 5,9",
+    "description": "Национальное метеорологическое управление страны сообщило об угрозе цунами",
+    "fullText": "Национальное метеорологическое управление страны сообщило об угрозе цунами",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28035917",
-    "time": "2026-08-22T15:44:59.000Z"
+    "url": "https://tass.ru/proisshestviya/28036023",
+    "time": "2026-08-22T17:05:13.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,6 +33,17 @@
     "time": "2026-08-22T14:00:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Почему мы так любим выбирать величайших игроков? И почему в этом виноват (кто же еще) Майкл Джордан?",
+    "description": "Задал критерии величия.",
+    "fullText": "Задал критерии величия.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/5f/77013e00c4a148ebfb1eb631426c3.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/basketball/blogs/3435603.html",
+    "time": "2026-08-22T13:40:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Антихайлайт года в CS: случайно взорвал своего в решающий момент",
     "description": "Donk пострадал.",
@@ -42,17 +53,6 @@
     "category": "all",
     "url": "https://cyber.sports.ru/cs/blogs/3443819.html",
     "time": "2026-08-22T13:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Лукомский верит в «Арсенал», в «Сити» – никто. Прогнозы на АПЛ от авторов Спортса”",
-    "description": "«МЮ» – вне топ-4.",
-    "fullText": "«МЮ» – вне топ-4.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/3f/53222b800416e972bc1587ef6c65a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3441178.html",
-    "time": "2026-08-22T12:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
