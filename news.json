@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ФРГ во время беспорядков на футбольном матче пострадали 35 полицейских",
-    "description": "Несколько футбольных болельщиков были задержаны",
-    "fullText": "Несколько футбольных болельщиков были задержаны",
+    "title": "В Турции в ДТП с автобусом пострадали 22 человека",
+    "description": "Он вез людей из Стамбула в провинцию Анталья",
+    "fullText": "Он вез людей из Стамбула в провинцию Анталья",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28034389",
-    "time": "2026-08-22T07:12:43.000Z"
+    "url": "https://tass.ru/proisshestviya/28034529",
+    "time": "2026-08-22T07:31:19.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -33,6 +33,17 @@
     "time": "2026-08-22T04:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Синнер все-таки пропустит US Open. Из-за колена впервые снялся со «Шлема»",
+    "description": "🤕",
+    "fullText": "🤕",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/9b/a4734d413400db7ecf1a761b29ba9.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3443566.html",
+    "time": "2026-08-21T21:44:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
     "title": "«Раньше били лучше» — теперь официальный принт",
     "description": "Мерч Кержакова в магазине Спортса’‘.",
@@ -42,17 +53,6 @@
     "category": "all",
     "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=vynos&utm_campaign=kerzh-gol-2026&utm_content=material",
     "time": "2026-08-21T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ожидания в Лиге 1: дикая конкуренция за ЛЧ и невылет, «ПСЖ» – фаворит даже у бомбардиров",
-    "description": "«Марсель» и «Монако» навяжут борьбу.",
-    "fullText": "«Марсель» и «Монако» навяжут борьбу.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d2/3d81cf7cf44a7a388295c57b53e62.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3441211.html",
-    "time": "2026-08-21T20:39:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
