@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС покажет трансляцию съезда \"Единой России\"",
-    "description": "На нем утвердят предвыборную программу партии",
-    "fullText": "На нем утвердят предвыборную программу партии",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260821/9318711.jpg",
+    "title": "В ФРГ во время беспорядков на футбольном матче пострадали 35 полицейских",
+    "description": "Несколько футбольных болельщиков были задержаны",
+    "fullText": "Несколько футбольных болельщиков были задержаны",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/28033063",
-    "time": "2026-08-22T06:10:01.000Z"
+    "url": "https://tass.ru/proisshestviya/28034389",
+    "time": "2026-08-22T07:12:43.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«А ты точно девушка?» – рушим стереотипы про женскую тяжелую атлетику",
+    "description": "Вопреки предрассудкам.",
+    "fullText": "Вопреки предрассудкам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/92/d5dee94d24d2898feef134a132ceb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/magnitsila",
+    "time": "2026-08-22T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Верите, что Швентек заберет титул в Цинциннати? Тогда действуйте!",
+    "description": "В Фэнтези.",
+    "fullText": "В Фэнтези.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/fe/acd0871ec4762bbd67b4e8b3eb3bb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/cincinnati_open/?utm_source=native",
+    "time": "2026-08-22T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -23,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "ФИФА забанила Паредеса на 10 матчей. Итоги грязной потасовки после финала ЧМ",
-    "description": "Гави прилетело и тут.",
-    "fullText": "Гави прилетело и тут.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/4d/ca4bd9fd7420a82d586605949a003.jpeg",
+    "title": "Ожидания в Лиге 1: дикая конкуренция за ЛЧ и невылет, «ПСЖ» – фаворит даже у бомбардиров",
+    "description": "«Марсель» и «Монако» навяжут борьбу.",
+    "fullText": "«Марсель» и «Монако» навяжут борьбу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/d2/3d81cf7cf44a7a388295c57b53e62.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3443635.html",
-    "time": "2026-08-21T19:45:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3441211.html",
+    "time": "2026-08-21T20:39:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На пиратских сайтах начали появляться фейковые «копии» GTA VI с вредоносным софтом",
-    "description": "Пользователи тем временем отследили авторов утечки до криптобиржи, требующей подтверждения личности.",
-    "fullText": "Пользователи тем временем отследили авторов утечки до криптобиржи, требующей подтверждения личности.",
-    "image": "https://leonardo.osnova.io/2d74c5b5-b59b-5e39-90d8-76a695228945/",
+    "title": "В производство запустили сиквел Mouse: P.I. For Hire",
+    "description": "Издатель оказался очень доволен показателями игры.",
+    "fullText": "Издатель оказался очень доволен показателями игры.",
+    "image": "https://leonardo.osnova.io/e0238e84-59a0-540c-b927-256df0e7a1e5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5252806-feykovye-kopii-gta-vi-s-vredonosnym-po-na-piratskikh-saitakh?from=rss",
-    "time": "2026-08-21T09:28:15.000Z"
+    "url": "https://dtf.ru/games/5252947-sikvel-mouse-pi-for-hire-v-proizvodstve?from=rss",
+    "time": "2026-08-21T10:37:57.000Z"
   }
 ]
