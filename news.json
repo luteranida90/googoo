@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В аэропортах Пензы, Самары и Сочи ввели ограничения",
+    "description": "Они необходимы для обеспечения безопасности полетов",
+    "fullText": "Они необходимы для обеспечения безопасности полетов",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/ekonomika/28036293",
+    "time": "2026-08-23T00:03:18.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
     "title": "Смотрите бои Эрнандеса, Долидзе и Газиева на UFC в Сакраменто в прямом эфире «Матч ТВ» на ВидеоСпортсе’’!",
     "description": "Насыщенный турнир.",
@@ -11,26 +22,15 @@
     "time": "2026-08-22T23:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "По коням. ЦСКА включается в борьбу за золото, \"Локомотив\" - в борьбу за жизнь",
-    "description": "Армейцы в субботу одержали победу в дерби со счетом 3:2",
-    "fullText": "Армейцы в субботу одержали победу в дерби со счетом 3:2",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260823/9321239.jpg",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/28036249",
-    "time": "2026-08-22T21:55:37.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Интриги «Барсы» и «Реала»: кто станет чемпионом? А будет ли сезон без поражений?",
-    "description": "В каталонцев верят больше.",
-    "fullText": "В каталонцев верят больше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/c2/f911f771e4e159a4ec8fa7eafb9ea.jpeg",
+    "title": "Все знают «Тур де Франс». А что насчет «Джиро» и «Вуэльты»?",
+    "description": "Квиз по легендарным велогонкам.",
+    "fullText": "Квиз по легендарным велогонкам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/0e/02f6c48d34cde95cc9d584960dfc0.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3443113.html",
-    "time": "2026-08-22T16:58:00.000Z"
+    "url": "https://www.sports.ru/cycle-racing/blogs/3431979.html?utm_source=native&erid=2SDnjcBUxMH",
+    "time": "2026-08-22T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
