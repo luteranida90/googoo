@@ -1,7 +1,18 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Умер посол в отставке Максим Пешков",
+    "description": "Ему 76 лет",
+    "fullText": "Ему 76 лет",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260823/9322003.png",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/politika/28037441",
+    "time": "2026-08-23T15:26:19.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Вот как Холанд решился состричь волосы – показал во влоге весь процесс и реакцию звезд",
+    "title": "Вот как Холанд решился состричь волосы – сам показал во влоге весь процесс и реакцию звезд",
     "description": "Мир в шоке.",
     "fullText": "Мир в шоке.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/0/e5/f222535da48adbe11f801068ac4d1.jpeg",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/video/qyBOXsHcND-o_NsWjrtRe-3386dLxwNUUI1NaBKqD_s",
     "time": "2026-08-23T15:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Тульской области уничтожили 10 украинских БПЛА",
-    "description": "Пострадавших нет, сообщил губернатор региона Дмитрий Миляев",
-    "fullText": "Пострадавших нет, сообщил губернатор региона Дмитрий Миляев",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28037401",
-    "time": "2026-08-23T14:51:33.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -45,35 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Владение «Спартака» или контратаки «Зенита»? Ключевой вопрос выходных",
-    "description": "Превью Васильева и Савина.",
-    "fullText": "Превью Васильева и Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ae/780cf41564fd591301c3db7b0b8d0.jpeg",
+    "title": "Линекер – лучший англичанин «Барсы». Сделал хет-трик «Реалу» и ушел из-за Кройффа",
+    "description": "Вечный фанат каталонцев.",
+    "fullText": "Вечный фанат каталонцев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/6e/eecb70a3e4d1194f28c430458d813.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3443271.html",
-    "time": "2026-08-23T12:12:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Подарки со смыслом для тех, кто застал настоящий русский футбол",
-    "description": "Уникальный мерч в магазине Спортса’‘.",
-    "fullText": "Уникальный мерч в магазине Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
-    "time": "2026-08-23T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3442968.html",
+    "time": "2026-08-23T12:13:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Take-Two обратилась к Microsoft и Discord с требованием предоставить данные юзеров, публиковавших утечки по GTA VI — с целью раскрытия личности Cyberleeks",
-    "description": "Полученную информацию издатель использует «для защиты собственных прав».",
-    "fullText": "Полученную информацию издатель использует «для защиты собственных прав».",
-    "image": "https://leonardo.osnova.io/d34b553b-f62f-5038-8a06-951cb9b3aca5/",
+    "title": "«С возвращением!»: тизер продолжения «Больницы Питт»",
+    "description": "Третий сезон стартует в январе 2027 года.",
+    "fullText": "Третий сезон стартует в январе 2027 года.",
+    "image": "https://leonardo.osnova.io/78529dc8-ac2a-5f06-9c90-6339cbb7b1e8/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5253371-taketwo-trebuet-ot-microsoft-i-discord-dannye-polzovateley-po-utechkam-gta-vi?from=rss",
-    "time": "2026-08-21T15:58:30.000Z"
+    "url": "https://dtf.ru/cinema/5253654-tizer-prodolzheniya-bolnitsa-pitt?from=rss",
+    "time": "2026-08-21T17:28:28.000Z"
   }
 ]
