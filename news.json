@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кафедральный собор в Горловке не поврежден при атаке БПЛА",
-    "description": "Состояние четырех пострадавших оценивают как средней степени тяжести",
-    "fullText": "Состояние четырех пострадавших оценивают как средней степени тяжести",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Авиация МЧС ликвидировала основные очаги возгорания в Сербии",
+    "description": "Самолет Ил 76 за сутки совершил четыре вылета",
+    "fullText": "Самолет Ил 76 за сутки совершил четыре вылета",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260823/9322147.png",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28037503",
-    "time": "2026-08-23T16:31:54.000Z"
+    "url": "https://tass.ru/proisshestviya/28037569",
+    "time": "2026-08-23T17:39:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Team Spirit – трехкратные чемпионы The International! Первые в истории!",
+    "description": "Невероятная победа российской команды!",
+    "fullText": "Невероятная победа российской команды!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/83/be1b1f49642729662a8388b020f52.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/dota2/blogs/3445354.html",
+    "time": "2026-08-23T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,37 +33,15 @@
     "time": "2026-08-23T15:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Team Spirit – трехкратные чемпионы The International! Первые в истории!",
-    "description": "Невероятная победа российской команды!",
-    "fullText": "Невероятная победа российской команды!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/83/be1b1f49642729662a8388b020f52.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/dota2/blogs/3445354.html",
-    "time": "2026-08-23T14:07:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Кто победит в дерби «Спартак» – «Зенит»? Ставьте с фрибетом",
-    "description": "До 20 000 рублей от Балтбет.",
-    "fullText": "До 20 000 рублей от Балтбет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/5e/7cee2e7f7478b9d97a83f91f9f8a0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/0XrdFSS",
-    "time": "2026-08-23T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "5 вопросов к новому сезону «Барсы»: интеграция Родри, уход Левандовского, что с защитой",
-    "description": "Есть сомнения в крутости?",
-    "fullText": "Есть сомнения в крутости?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/36/89a71f02c4c4e8ff2d24beca41c6b.jpeg",
+    "title": "Джиз, майлстоуны, камбэчить в церковь: словарь Смолова (том 1)",
+    "description": "Раздаем бесплатно.",
+    "fullText": "Раздаем бесплатно.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/25/cb3d135af49aa840f2cbaa65d13cd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3444406.html",
-    "time": "2026-08-23T13:35:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3444155.html",
+    "time": "2026-08-23T14:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
