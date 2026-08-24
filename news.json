@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Лукашенко поздравил Токаева с успешным проведением выборов в парламент",
+    "description": "Президент Белоруссии уверен, что стратегическое партнерство Минска и Астаны будет и впредь углубляться на благо братских стран",
+    "fullText": "Президент Белоруссии уверен, что стратегическое партнерство Минска и Астаны будет и впредь углубляться на благо братских стран",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241223/7980605.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28040471",
+    "time": "2026-08-24T15:16:40.000Z"
+  },
+  {
     "id": "aHR0cDovL3ZpZGVvLnNw",
     "title": "«Сочи» бьется за топ-2 в Лиге PARI – смотрим матч против «КАМАЗа» в эфире «Матч ТВ» на ВидеоСпортсе’‘",
     "description": "Рвутся обратно в РПЛ.",
@@ -9,17 +20,6 @@
     "category": "all",
     "url": "http://video.sports.ru/football/match/fc-sochi-vs-kamaz/",
     "time": "2026-08-24T14:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На Московской неделе кино выступят Кристофер Ламберт и Дольф Лундгрен",
-    "description": "В мероприятии планируют участвовать порядка 22 зарубежных стран",
-    "fullText": "В мероприятии планируют участвовать порядка 22 зарубежных стран",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/kultura/28040323",
-    "time": "2026-08-24T14:20:24.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -45,24 +45,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Зобнин – олицетворение «Спартака». Доказательства из матча с «Зенитом»",
-    "description": "Доминировал в двух аспектах.",
-    "fullText": "Доминировал в двух аспектах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/8a/939eaa8234a90b722f24dce5d3c25.jpeg",
+    "title": "Я в шоке, насколько легко «Спартак» обыграл «Зенит»",
+    "description": "Эмоции Чернявского.",
+    "fullText": "Эмоции Чернявского.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/4d/c8e37ba344e38a489d7a5da3d7c58.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3446018.html",
-    "time": "2026-08-24T09:43:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3445961.html",
+    "time": "2026-08-24T11:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "По «Ван-Пис» анонсировали два новых фильма",
-    "description": "Один из них посвятят «Инциденту в Долине Бога».",
-    "fullText": "Один из них посвятят «Инциденту в Долине Бога».",
-    "image": "https://leonardo.osnova.io/fd1173fc-59a7-5e22-944f-06ccbd835e14/",
+    "title": "«Астрал 6: Они уже здесь» стартовал в прокате США слабее прошлой части",
+    "description": "Новый боевик с Джейсоном Стэйтемом тоже не может похвастаться успехами.",
+    "fullText": "Новый боевик с Джейсоном Стэйтемом тоже не может похвастаться успехами.",
+    "image": "https://leonardo.osnova.io/bca1f327-bd77-5fed-930e-fb7beb9698f5/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/anime/5256517-anons-novykh-filmov-po-van-pis?from=rss",
-    "time": "2026-08-23T10:47:33.000Z"
+    "url": "https://dtf.ru/cinema/5256979-astral-6-oni-uzhe-zdes?from=rss",
+    "time": "2026-08-23T16:10:20.000Z"
   }
 ]
