@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Путин поздравил первого вице-президента Азербайджана с днем рождения",
-    "description": "Президент России пожелал Мехрибан Алиевой здоровья, счастья, благополучия и успехов в государственной деятельности",
-    "fullText": "Президент России пожелал Мехрибан Алиевой здоровья, счастья, благополучия и успехов в государственной деятельности",
+    "title": "В Моздокском районе Северной Осетии частично пропали свет и газ из-за ветра",
+    "description": "Работы по восстановлению перенесли на утро",
+    "fullText": "Работы по восстановлению перенесли на утро",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/28044227",
-    "time": "2026-08-25T17:54:24.000Z"
+    "url": "https://tass.ru/proisshestviya/28044295",
+    "time": "2026-08-25T19:02:38.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Феррари» очень боится обидеть Леклера и Хэмилтона. Поэтому тупит в гонках",
-    "description": "Недовольны все.",
-    "fullText": "Недовольны все.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/3b/d642df6aa45a4b1e272b66971206a.jpeg",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Бетис» Антони vs «Валенсия» в Ла Лиге – смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Отложенный 1-й тур.",
+    "fullText": "Отложенный 1-й тур.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/43/ef986b16c4c5a9aa780efb1493d3b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3446963.html",
-    "time": "2026-08-25T14:37:00.000Z"
+    "url": "https://video.sports.ru/football/la-liga/match/valencia-vs-betis/",
+    "time": "2026-08-25T19:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Только на PS5»: PlayStation опубликовала рекламу с пометкой об эксклюзивности своих игр",
-    "description": "Уже вышедшие Ghost of Yotei и Saros на ПК ждать не стоит.",
-    "fullText": "Уже вышедшие Ghost of Yotei и Saros на ПК ждать не стоит.",
-    "image": "https://leonardo.osnova.io/171527d9-8dff-5f08-95fa-7eb1de4a2da6/",
+    "title": "AdHoc выпустит физическое издание Dispatch — с саундтреком на виниле и постером Меха-Мэна",
+    "description": "Игра также стала доступна в Epic Games Store.",
+    "fullText": "Игра также стала доступна в Epic Games Store.",
+    "image": "https://leonardo.osnova.io/a0e52c39-bbe7-5eae-b708-6d6c6f85420e/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5259907-eksklyuzivnye-igry-playstation-reklama-tolko-na-ps5?from=rss",
-    "time": "2026-08-25T08:29:09.000Z"
+    "url": "https://dtf.ru/games/5260875-adhoc-vypustit-fizicheskoe-izdanie-dispatch?from=rss",
+    "time": "2026-08-25T17:48:44.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Леау ждут в АПЛ, «Сити» возвращается за Энцо и продает Нико. Главные инсайды дня",
+    "description": "Here we go!",
+    "fullText": "Here we go!",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/b3/882e276ca4222a85df87e6546afce.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3447158.html",
+    "time": "2026-08-25T15:30:00.000Z"
   }
 ]
