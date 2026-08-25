@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Экс-замглавы офиса Зеленского получила деньги от Миндича для залога за Галущенко",
-    "description": "Это произошло 9 июня",
-    "fullText": "Это произошло 9 июня",
+    "title": "Школы и колледжи ЛНР с 1 сентября будут работать в очном формате",
+    "description": "Родители могут перевести ребенка на дистанционное обучение, написав заявление на имя директора учреждения",
+    "fullText": "Родители могут перевести ребенка на дистанционное обучение, написав заявление на имя директора учреждения",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28043633",
-    "time": "2026-08-25T13:23:48.000Z"
+    "url": "https://tass.ru/obschestvo/28043927",
+    "time": "2026-08-25T15:21:07.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Джиз, майлстоуны, камбэчить в церковь: словарь Смолова (том 1)",
-    "description": "Раздаем бесплатно.",
-    "fullText": "Раздаем бесплатно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/25/cb3d135af49aa840f2cbaa65d13cd.jpeg",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Спартак» из Тамбова играет вничью с «Рязанью» в Кубке – смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Кто пройдет дальше?",
+    "fullText": "Кто пройдет дальше?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/61/2f67b3e464b4cbae352115d585b38.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3444155.html",
-    "time": "2026-08-25T08:15:00.000Z"
+    "url": "https://video.sports.ru/football/russian-cup/match/academia-spartak-vs-zvezda-ryazan/",
+    "time": "2026-08-25T14:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Discord пока не получил судебный запрос от Take-Two в связи с утечками GTA VI — в сервисе «оценят его обоснованность»",
-    "description": "Microsoft ранее выразила готовность помогать издателю.",
-    "fullText": "Microsoft ранее выразила готовность помогать издателю.",
-    "image": "https://leonardo.osnova.io/a722330e-4ddf-54be-8b33-d6ff02577a5e/",
+    "title": "SEGA указала, что физические копии Persona 6 будут доступны только на PS5",
+    "description": "Косвенное подтверждение релиза в 2027 году.",
+    "fullText": "Косвенное подтверждение релиза в 2027 году.",
+    "image": "https://leonardo.osnova.io/0b6fed76-1d59-5e97-8f0b-c646d459cc3c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5259819-discord-ne-poluchil-zapros-ot-take-two-po-utechkam-gta-vi?from=rss",
-    "time": "2026-08-25T06:53:05.000Z"
+    "url": "https://dtf.ru/games/5260167-sega-podtverdila-fizicheskie-kopii-persona-6-tolko-dlya-ps5?from=rss",
+    "time": "2026-08-25T10:41:29.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Главные воспитанники «МЮ»: от Беста и Чарлтона до Бекхэма и Гиггза",
+    "description": "Клубная гордость.",
+    "fullText": "Клубная гордость.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/de/9bbc515614247ad6f24410815b4c1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3436064.html",
+    "time": "2026-08-25T10:40:00.000Z"
   }
 ]
