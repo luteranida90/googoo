@@ -1,7 +1,18 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Украина стала главным получателем вооружений некоторых стран Запада в 2024 году",
+    "description": "Так, Великобритания за год поставила за рубеж 2 989 единиц основных видов обычных вооружений, из них на Украину - свыше 2,7 тыс.",
+    "fullText": "Так, Великобритания за год поставила за рубеж 2 989 единиц основных видов обычных вооружений, из них на Украину - свыше 2,7 тыс.",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/28044381",
+    "time": "2026-08-25T20:13:01.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Бетис» Антони играет вничью с «Валенсией» в Ла Лиге – смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "title": "«Бетис» Антони обыгрывает «Валенсию» в Ла Лиге – смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
     "description": "Отложенный 1-й тур.",
     "fullText": "Отложенный 1-й тур.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/e/43/ef986b16c4c5a9aa780efb1493d3b.jpeg",
@@ -9,28 +20,6 @@
     "category": "all",
     "url": "https://video.sports.ru/football/la-liga/match/valencia-vs-betis/",
     "time": "2026-08-25T20:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Первую ледовую арену с двумя хоккейными катками открыли в Грозном",
-    "description": "В церемонии открытия приняли участие глава Чечни Рамзан Кадыров и президент Федерации хоккея России Владислав Третьяк",
-    "fullText": "В церемонии открытия приняли участие глава Чечни Рамзан Кадыров и президент Федерации хоккея России Владислав Третьяк",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/sport/28044357",
-    "time": "2026-08-25T19:47:16.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Звезда «Легиона» Дэн Стивенс исполнит ведущую роль в сериальной адаптации «Робокопа» от Amazon",
-    "description": "В основу шоу ляжет знакомая зрителям история о полицейском, которого превратили в киборга.",
-    "fullText": "В основу шоу ляжет знакомая зрителям история о полицейском, которого превратили в киборга.",
-    "image": "https://leonardo.osnova.io/0672b8b3-dfb0-5e1d-a407-5ad12a7102d5/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5260805-dan-stevens-v-seriale-robokop-ot-amazon?from=rss",
-    "time": "2026-08-25T16:45:50.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
@@ -42,5 +31,16 @@
     "category": "all",
     "url": "https://www.sports.ru/football/blogs/3446198.html",
     "time": "2026-08-25T16:20:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "«Лауреат и номинант на „Оскар“»: трейлер комедии «Братья» с Мэттью Макконахи и Вуди Харрельсоном, которые сыграли сами себя",
+    "description": "Сериал стартует 23 сентября на Apple TV.",
+    "fullText": "Сериал стартует 23 сентября на Apple TV.",
+    "image": "https://leonardo.osnova.io/820de130-add7-5d45-9cac-2f41d8c578bc/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5260563-treyler-komedii-bratya?from=rss",
+    "time": "2026-08-25T14:36:10.000Z"
   }
 ]
