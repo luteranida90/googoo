@@ -1,24 +1,35 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Кобяков: российский ОПК по своей эффективности превосходит все страны НАТО",
+    "description": "По словам советника президента России, об этом наглядно свидетельствуют разборки в США, посвященные дефициту ракет и боеприпасов",
+    "fullText": "По словам советника президента России, об этом наглядно свидетельствуют разборки в США, посвященные дефициту ракет и боеприпасов",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260825/9329099.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/armiya-i-opk/28044159",
+    "time": "2026-08-25T17:03:33.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Клэй Томпсон едет к Яннису в «Майами» ради пятого титула",
-    "description": "Нужна поддержка с воздуха.",
-    "fullText": "Нужна поддержка с воздуха.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/3a/302f3663c4ebab187a71b638afcbd.jpeg",
+    "title": "Болбой, которого пнул Азар, продает бренд водки за 500 млн",
+    "description": "Возможно, он богаче бельгийца.",
+    "fullText": "Возможно, он богаче бельгийца.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/03/109fcfaed470c82df064aa7b06cd2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3446552.html",
-    "time": "2026-08-25T11:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3442016.html",
+    "time": "2026-08-25T13:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Анонсирован ремастер психологического хоррора Sanitarium — он выйдет до конца 2026 года",
-    "description": "На ПК и всех консолях.",
-    "fullText": "На ПК и всех консолях.",
-    "image": "https://leonardo.osnova.io/5c64dc95-cdaf-5513-96da-5e4e17fc5608/",
+    "title": "Закрытая бета Wardogs привлекла около 500 тысяч уникальных игроков",
+    "description": "Разработчики остались довольны результатом.",
+    "fullText": "Разработчики остались довольны результатом.",
+    "image": "https://leonardo.osnova.io/8a6118f4-304c-5f09-a117-539bf1438535/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5259772-remaster-psikhologicheskogo-khorrora-sanitarium?from=rss",
-    "time": "2026-08-25T06:12:59.000Z"
+    "url": "https://dtf.ru/games/5259882-zakrytaia-beta-wardogs-privlekla-500-tysyach-igrokov?from=rss",
+    "time": "2026-08-25T07:44:27.000Z"
   }
 ]
