@@ -1,5 +1,16 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Югре проводят проверку после публикации видео с избиением девочки",
+    "description": "На опубликованных кадрах несовершеннолетнюю душат и бьют по лицу",
+    "fullText": "На опубликованных кадрах несовершеннолетнюю душат и бьют по лицу",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28042295",
+    "time": "2026-08-25T08:23:50.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Почему «Вуэльту Испании» смотрят даже те, кто далек от велоспорта?",
     "description": "Есть способ узнать.",
@@ -12,24 +23,24 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Партнер Сафонова – в «Ливерпуль», вокруг Хулиана намечается многоходовка. Самые вероятные трансферы",
-    "description": "Под конец окна.",
-    "fullText": "Под конец окна.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/a4/6149972fb4860a9bfecf897942ebd.jpeg",
+    "title": "Топ-5 видео недели: Месси ударил соперника, Холанд радикально постригся, робот побил рекорд Болта",
+    "description": "Только самое яркое.",
+    "fullText": "Только самое яркое.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/c2/00e8c065245cb8683054c1e459a6b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3446524.html",
-    "time": "2026-08-24T20:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3446490.html",
+    "time": "2026-08-24T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Исследование: сумма общей выручки всех платных игр в Steam превысила 130 миллиардов долларов",
-    "description": "Самый успешный жанр — «песочницы».",
-    "fullText": "Самый успешный жанр — «песочницы».",
-    "image": "https://leonardo.osnova.io/dfbeb06e-74f1-5962-8c11-7fbc5b20c3a4/",
+    "title": "СМИ: звезда «Игры престолов» Кит Харрингтон сыграет Златопуста Локонса в сериале «Гарри Поттер»",
+    "description": "У Николаса Холта возникли проблемы с графиком.",
+    "fullText": "У Николаса Холта возникли проблемы с графиком.",
+    "image": "https://leonardo.osnova.io/cd375ccd-08e0-59e8-8e90-1adea904b5cd/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5258606-obshchaya-vyruchka-platnykh-igr-v-steam?from=rss",
-    "time": "2026-08-24T14:48:17.000Z"
+    "url": "https://dtf.ru/cinema/5258917-kit-harringhton-zlatopust-lokonsa-garri-potter?from=rss",
+    "time": "2026-08-24T16:53:34.000Z"
   }
 ]
