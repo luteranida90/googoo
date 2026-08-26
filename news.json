@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Авто.ру\" заявил о росте спроса на дизельные машины с пробегом на 33% в августе",
-    "description": "При этом средняя цена на такие авто возросла до 3,2 млн рублей, говорится в исследовании",
-    "fullText": "При этом средняя цена на такие авто возросла до 3,2 млн рублей, говорится в исследовании",
+    "title": "В Нижегородской области отразили атаку более 40 БПЛА",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28045047",
-    "time": "2026-08-26T05:02:56.000Z"
+    "url": "https://tass.ru/proisshestviya/28045539",
+    "time": "2026-08-26T07:25:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Почему «Вуэльту» считают самой зрелищной велогонкой в мире?",
+    "description": "Есть способ узнать.",
+    "fullText": "Есть способ узнать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/6e/99f41a1ec4898bd9b7edfcb9296a1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/mrJzYKW",
+    "time": "2026-08-26T07:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Герои тура РПЛ: кто вырвался из «Зенита», кого наконец-то прорвало?",
-    "description": "Наконец-то три нападающих.",
-    "fullText": "Наконец-то три нападающих.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/95/a1396aed1441cbafb9414b449710f.jpeg",
+    "title": "Вот на чем ездят игроки «ПСЖ»: у Хвичи – первый электрокар «Роллс-Ройса», а у Сафонова?",
+    "description": "Руис выбирает компакт.",
+    "fullText": "Руис выбирает компакт.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/a7/6e8620fb44f7690bf8c83cf568c92.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3447897.html",
-    "time": "2026-08-25T18:50:00.000Z"
+    "url": "https://www.sports.ru/automoto/blogs/3441157.html",
+    "time": "2026-08-25T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Звезда «Легиона» Дэн Стивенс исполнит ведущую роль в сериальной адаптации «Робокопа» от Amazon",
-    "description": "В основу шоу ляжет знакомая зрителям история о полицейском, которого превратили в киборга.",
-    "fullText": "В основу шоу ляжет знакомая зрителям история о полицейском, которого превратили в киборга.",
-    "image": "https://leonardo.osnova.io/0672b8b3-dfb0-5e1d-a407-5ad12a7102d5/",
+    "title": "NVIDIA показала первый геймплейный тизер научно-фантастического шутера Fragmentary Order Никиты Буянова",
+    "description": "Игра получит поддержку передовых технологий компании.",
+    "fullText": "Игра получит поддержку передовых технологий компании.",
+    "image": "https://leonardo.osnova.io/e53bf92f-9db4-544b-8cde-44ef09e22581/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5260805-dan-stevens-v-seriale-robokop-ot-amazon?from=rss",
-    "time": "2026-08-25T16:45:50.000Z"
+    "url": "https://dtf.ru/games/5260733-nvidia-tizer-gempleya-fragmentary-order?from=rss",
+    "time": "2026-08-25T16:19:44.000Z"
   }
 ]
