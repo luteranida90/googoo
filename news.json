@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Японии более 100 тыс. человек рекомендовали эвакуироваться из-за ливней",
-    "description": "В некоторых районах префектур Исикава, Тояма и Ниигата за последние 24 часа выпало более 300 мм осадков",
-    "fullText": "В некоторых районах префектур Исикава, Тояма и Ниигата за последние 24 часа выпало более 300 мм осадков",
+    "title": "Суд утвердил мировое соглашение по иску РЖД к \"Ангаре\"",
+    "description": "Условия соглашения пока не опубликованы",
+    "fullText": "Условия соглашения пока не опубликованы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28048169",
-    "time": "2026-08-26T23:42:18.000Z"
+    "url": "https://tass.ru/ekonomika/28049817",
+    "time": "2026-08-27T09:54:48.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Попробуете расчистить все поле?",
+    "description": "Новый маджонг с призами.",
+    "fullText": "Новый маджонг с призами.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/88/ff8552d314c708320853180e9d053.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/mahjong-game/?utm_source=post_sports",
+    "time": "2026-08-27T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Отмена (или нет?) концерта Канье Уэста в России: что известно. Все детали и странности",
-    "description": "Как «Зенит» и «Газпром Арена» все подтверждали?",
-    "fullText": "Как «Зенит» и «Газпром Арена» все подтверждали?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/1e/b764c806b43a78f81f2d2d852e42c.jpeg",
+    "title": "КХЛ впервые прокомментировала бан Шевченко. Его лишили даже разовых аккредитаций",
+    "description": "Что же натворил?",
+    "fullText": "Что же натворил?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c8/7a4f8e2644e048a17ffb3990d78c8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3446563.html",
-    "time": "2026-08-26T18:15:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3449041.html",
+    "time": "2026-08-27T05:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Почему «Вуэльту Испании» смотрят даже те, кто далек от велоспорта?",
+    "description": "Есть способ узнать.",
+    "fullText": "Есть способ узнать.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/6e/99f41a1ec4898bd9b7edfcb9296a1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.world/mrJzYKW",
+    "time": "2026-08-27T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Поиски Лютика на Севере Редании: главное из превью дополнения «Баллады прошлого» для «Ведьмака 3»",
-    "description": "И первые впечатления от ремастера.",
-    "fullText": "И первые впечатления от ремастера.",
-    "image": "https://leonardo.osnova.io/9ee5da37-e209-5315-8202-386e0d56cb9d/-/format/mp4/",
+    "title": "Переключение между героями на ходу, необходимость во сне и более приземлённый тон: превью GTA VI от Dazed",
+    "description": "Первая обложка с главным релизом консольного поколения.",
+    "fullText": "Первая обложка с главным релизом консольного поколения.",
+    "image": "https://leonardo.osnova.io/f003af10-6018-58a5-8016-2d0c0aab281d/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5262101-poiskilutikavletten?from=rss",
-    "time": "2026-08-26T09:52:52.000Z"
+    "url": "https://dtf.ru/games/5263236-preview-gta-vi-perekljuchenie-mezhdu-geroyami?from=rss",
+    "time": "2026-08-26T17:11:09.000Z"
   }
 ]
