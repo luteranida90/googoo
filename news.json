@@ -1,46 +1,57 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Свердловской области за сутки от воды освободились четыре участка",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28052371",
-    "time": "2026-08-28T04:46:41.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "🔴 Много нового про GTA VI! Все, что показали на презентации Netflix",
-    "description": "Трейлер, инсайды, геймплей, пасхалки.",
-    "fullText": "Трейлер, инсайды, геймплей, пасхалки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/26/40f2632994a8190bb6e2c9c3b6f49.jpeg",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Тот же Спортс’‘, только короче",
+    "description": "Читайте. Пишите. Короткие посты.",
+    "fullText": "Читайте. Пишите. Короткие посты.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://cyber.sports.ru/games/blogs/3450071.html",
-    "time": "2026-08-27T20:01:00.000Z"
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-08-28T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В \"Динамо\" назвали непосильными условия \"Спартака\" по переходу Морозова",
+    "description": "Права в Континентальной хоккейной лиге на 26-летнего игрока сохраняются за красно-белыми",
+    "fullText": "Права в Континентальной хоккейной лиге на 26-летнего игрока сохраняются за красно-белыми",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260828/9339009.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/28055191",
+    "time": "2026-08-28T17:12:34.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Уфа» против «Нефтехимика»: смотрим Лигу PARI в эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Включаем лучшую лигу.",
+    "fullText": "Включаем лучшую лигу.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/2e/d8aa03dc941b9b4aa90362d1e7c6c.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/football/match/fc-neftekhimik-vs-ufa/",
+    "time": "2026-08-28T16:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Тур де Франс», «Вуэльта», «Джиро» – квиз по легендарным гонкам",
-    "description": "Справитесь?",
-    "fullText": "Справитесь?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/7a/479c377574fc0a9f720a1bec75d60.png",
+    "title": "«Действия Инфантино напомнили диктаторские». Разбор войны в мировом футболе от Колоскова",
+    "description": "Спрашивал Ковалев.",
+    "fullText": "Спрашивал Ковалев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/14/8d5af78d84ab38cdede37a3d36c9a.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/cycle-racing/blogs/3431979.html?utm_source=native",
-    "time": "2026-08-27T18:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3451309.html",
+    "time": "2026-08-28T13:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Под прикрытием: 4 минуты геймплея The Expanse от Owlcat из середины игры и отзывы с показа демо",
-    "description": "RPG постепенно преображается.",
-    "fullText": "RPG постепенно преображается.",
-    "image": "https://leonardo.osnova.io/6d847a12-35fa-50a9-9bf6-e967d6cdea8f/-/format/mp4/",
+    "title": "Глава CDPR об отличиях процесса разработки «Ведьмака 4» от Cyberpunk 2077: «Вы можете зайти в офис сейчас и включить игру на любой платформе»",
+    "description": "Студия «обожглась» и не хочет повторять ошибку.",
+    "fullText": "Студия «обожглась» и не хочет повторять ошибку.",
+    "image": "https://leonardo.osnova.io/c7afbf30-6620-5b36-8cac-ad0496d8ea28/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5264217-geympley-the-expanse-osiris-reborn-ot-owlcat?from=rss",
-    "time": "2026-08-27T08:52:15.000Z"
+    "url": "https://dtf.ru/games/5266882-razrabotka-vedmaka-4-otlichiya-ot-cyberpunk?from=rss",
+    "time": "2026-08-28T10:37:34.000Z"
   }
 ]
