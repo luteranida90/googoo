@@ -1,35 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Симулятор сетки US Open-2026. Можно прикинуть пары и весь путь до финала",
+    "description": "Кто пройдет дальше всех?",
+    "fullText": "Кто пройдет дальше всех?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/15/c75c8dab341f98a393654d6f1d234.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/us-open-bracket/",
+    "time": "2026-08-29T13:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "По делу о смерти блогера Буавы в Грузии задержали его подругу",
-    "description": "Это иностранная гражданка, которая оставила мужчину одного в опасном для жизни состоянии после совместного употребления наркотиков",
-    "fullText": "Это иностранная гражданка, которая оставила мужчину одного в опасном для жизни состоянии после совместного употребления наркотиков",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "В Новосибирской области из-за стрельбы на охоте погиб человек",
+    "description": "Еще двое получили ранения",
+    "fullText": "Еще двое получили ранения",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260829/9340585.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28056311",
-    "time": "2026-08-29T07:44:21.000Z"
+    "url": "https://tass.ru/proisshestviya/28056923",
+    "time": "2026-08-29T13:14:53.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Вот-вот стартует US Open! Пора собирать команду в Фэнтези",
+    "description": "Выбираем фаворитов турнира.",
+    "fullText": "Выбираем фаворитов турнира.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/1d/0b66336ea4532a752465e9832e5d1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/osnova/us_open/?utm_source=native",
+    "time": "2026-08-29T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Кем «Краснодару» заменить Кривцова. 5 вариантов",
-    "description": "Предложения Андрея Савина.",
-    "fullText": "Предложения Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/b2/797bccee742aa979ff5e1d1068f7d.jpeg",
+    "title": "Кто из наших уедет вслед за Батраковым?",
+    "description": "Рейтинг Ильи Васильева.",
+    "fullText": "Рейтинг Ильи Васильева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/67/c089458d441c6a2182680be84ab3e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3450282.html",
-    "time": "2026-08-28T21:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3449786.html",
+    "time": "2026-08-29T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Всеволод Кузнецов не одобряет отказ от русской озвучки в «Балладах прошлого» для «Ведьмака 3», но он не будет участвовать в неофициальных локализациях",
-    "description": "Актёр также процитировал Геральта.",
-    "fullText": "Актёр также процитировал Геральта.",
-    "image": "https://leonardo.osnova.io/f9e76330-e2aa-52e1-b5ff-6564fb3338d2/",
+    "title": "Аналитики: показ GTA VI на Netflix спровоцировал скачок зрительской активности в США на 50%",
+    "description": "Предзаказы тем временем превысили 4,5 миллиона копий.",
+    "fullText": "Предзаказы тем временем превысили 4,5 миллиона копий.",
+    "image": "https://leonardo.osnova.io/d9a1299d-236c-5041-ae64-84c338d375be/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5266672-vsevolod-kuznetsov-protiv-otkaza-ot-russkoj-ozvuchki-v-vedmake-3?from=rss",
-    "time": "2026-08-28T08:43:04.000Z"
+    "url": "https://dtf.ru/gameindustry/5267308-gta-vi-na-netflix-uvelichil-zritelskuyu-aktivnost-v-ssha?from=rss",
+    "time": "2026-08-28T14:11:55.000Z"
   }
 ]
