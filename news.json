@@ -1,35 +1,57 @@
 [
   {
+    "id": "aHR0cDovL3ZpZGVvLnNw",
+    "title": "Мбаппе и Винисиус громят «Малагу» – смотрим матч «Реала» в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Ждем третью подряд победу мадридцев?",
+    "fullText": "Ждем третью подряд победу мадридцев?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/d9/b0cd856d04673937f41ec5c88c2b3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "http://video.sports.ru/football/la-liga/match/real-vs-malaga/",
+    "time": "2026-08-30T16:10:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Адвокат Власова рассказала о юридической силе таблички об ответственности за вещи",
-    "description": "Советник Федеральной палаты адвокатов отметила, что табличка \"Администрация не несет ответственности за оставленные вещи\" не имеет силы, если ее сотрудники взяли вещи посетителя на хранение",
-    "fullText": "Советник Федеральной палаты адвокатов отметила, что табличка \"Администрация не несет ответственности за оставленные вещи\" не имеет силы, если ее сотрудники взяли вещи посетителя на хранение",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Песков: Белоруссия чутко реагирует на потребности России в поставках топлива",
+    "description": "Пресс-секретарь российского лидера отметил, что РФ признательна белорусской стороне за поставки бензина",
+    "fullText": "Пресс-секретарь российского лидера отметил, что РФ признательна белорусской стороне за поставки бензина",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250113/8004233.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28057815",
-    "time": "2026-08-30T05:33:47.000Z"
+    "url": "https://tass.ru/politika/28058751",
+    "time": "2026-08-30T16:03:08.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Читайте короткие посты на Спортсе’‘",
+    "description": "И пишите тоже.",
+    "fullText": "И пишите тоже.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-08-30T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "У «Краснодара» +6, «Динамо» – уже в топ-5, «Локо» – рядом с вылетом. Следим за фаворитами РПЛ",
-    "description": "Напряженный шестой тур.",
-    "fullText": "Напряженный шестой тур.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/89/6ac0c66014eaea1519228a9bc3f06.jpeg",
+    "title": "Внимание: покер Месси!",
+    "description": "Легенда.",
+    "fullText": "Легенда.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/7c/abd1b17494f819970029e0a55ce59.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/betting/blogs/3437704.html",
-    "time": "2026-08-29T18:55:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3454208.html",
+    "time": "2026-08-30T12:48:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Это лишь отсылка к постеру „Джона Уика“»: авторы SPINE о сцене из трейлера, завирусившейся по «интерпретированным» причинам",
-    "description": "Люди подумали про совсем другие стволы.",
-    "fullText": "Люди подумали про совсем другие стволы.",
-    "image": "https://leonardo.osnova.io/143b4d2d-5449-5c66-b311-352e51d96668/-/format/mp4/",
+    "title": "Группа Czarface и Том Харди выпустили совместный альбом в жанре хип-хоп — Czarface Meets Frankie Pulitzer",
+    "description": "Качает.",
+    "fullText": "Качает.",
+    "image": "https://leonardo.osnova.io/91feb8a0-bf70-5bdf-9e83-145406ba0c16/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5267925-treyler-spine-i-mem-o-dzhone-uike?from=rss",
-    "time": "2026-08-28T19:20:01.000Z"
+    "url": "https://dtf.ru/music/5268553-tom-hardi-i-czarface-albom-czarface-meets-frankie-pulitzer?from=rss",
+    "time": "2026-08-29T08:41:25.000Z"
   }
 ]
