@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "NY Post: вице-президент Bank of America погибла при нападении в Нью-Йорке",
-    "description": "Она получила ножевое ранение в живот",
-    "fullText": "Она получила ножевое ранение в живот",
+    "title": "\"Тоттенхэм\" арендовал у \"Челси\" украинского футболиста Мудрика",
+    "description": "31 июля Футбольная ассоциация Англии сняла дисквалификацию с Мудрика",
+    "fullText": "31 июля Футбольная ассоциация Англии сняла дисквалификацию с Мудрика",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28067043",
-    "time": "2026-09-01T18:21:33.000Z"
+    "url": "https://tass.ru/sport/28067699",
+    "time": "2026-09-01T21:17:36.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -33,36 +33,25 @@
     "time": "2026-09-01T18:00:00.000Z"
   },
   {
-    "id": "aHR0cDovL3ZpZGVvLnNw",
-    "title": "ЦСКА бьется с «Ростовом» в Кубке – смотрим матч в эфире «Матч ТВ» на ВидеоСпортсе’‘",
-    "description": "Ростовчане идут без потерь.",
-    "fullText": "Ростовчане идут без потерь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/4/bd/f022031ea4bfca7c615455b6d69bf.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "http://video.sports.ru/football/russian-cup/match/rostov-vs-cska/",
-    "time": "2026-09-01T17:45:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Фэнтези КХЛ: создавайте команды и стартуйте в сезоне вместе со звездами лиги",
-    "description": "Начинаем 5 сентября.",
-    "fullText": "Начинаем 5 сентября.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/13/2573f320a4799b31925941122498e.png",
+    "title": "Прокат на коленях – величайшее футбольное празднование. Почему его так любят?",
+    "description": "Символ АПЛ.",
+    "fullText": "Символ АПЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/22/fc8d9c92b48b69c14dce60bba69b2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/fantasy/hockey/tournament/107.html?utm_source=sports&utm_medium=matherial_direct&utm_campaign=fantasy_khl_26-27",
-    "time": "2026-09-01T14:40:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3448383.html",
+    "time": "2026-09-01T17:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "CDPR о ремастере «Ведьмака 3» на Steam Deck: «Мы видим, что работает так же, но выглядит намного лучше»",
-    "description": "Достижения в новую версию тоже перенесутся.",
-    "fullText": "Достижения в новую версию тоже перенесутся.",
-    "image": "https://leonardo.osnova.io/26d6279a-b27e-5408-83fe-e6fc2a90c12f/",
+    "title": "Число поддерживаемых игр на Steam Deck превысило 30 тысяч",
+    "description": "Согласно данным SteamDB.",
+    "fullText": "Согласно данным SteamDB.",
+    "image": "https://leonardo.osnova.io/c555f1af-112b-5be0-92c4-67ffd04da987/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5274801-remaster-vedmaka-3-na-steam-deck?from=rss",
-    "time": "2026-09-01T14:08:19.000Z"
+    "url": "https://dtf.ru/hard/5275044-kolichestvo-igr-na-steam-deck-prevyshaet-30000?from=rss",
+    "time": "2026-09-01T15:51:27.000Z"
   }
 ]
