@@ -1,57 +1,68 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Россия работает над двигателями для разных типов малых самолетов",
-    "description": "Замглавы Минпромторга Геннадий Абраменков отметил, что основной проблемой при развитии малой авиации является доступность инвестиций",
-    "fullText": "Замглавы Минпромторга Геннадий Абраменков отметил, что основной проблемой при развитии малой авиации является доступность инвестиций",
+    "title": "На Кавминводах нашли пачку банкнот с взрывным устройством",
+    "description": "Специалисты обезвреживают находку",
+    "fullText": "Специалисты обезвреживают находку",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28068319",
-    "time": "2026-09-02T02:31:38.000Z"
+    "url": "https://tass.ru/proisshestviya/28071105",
+    "time": "2026-09-02T12:22:08.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Новая девушка Фрица – непобейби, чьи родители ради нее сидели в тюрьме",
-    "description": "Оливия Джейд.",
-    "fullText": "Оливия Джейд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/d4/950a3ff95432aa7575358f0760ba8.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Возродили легендарную советскую игру – о такой мечтал каждый школьник",
+    "description": "Футбольная Аркада.",
+    "fullText": "Футбольная Аркада.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/72/251ba5e5d40d8bd5ea88120e3d442.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3456576.html",
-    "time": "2026-09-01T18:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Новые правила цифровой жизни: что изменилось в России с 1 сентября",
-    "description": "Осень по новым правилам.",
-    "fullText": "Осень по новым правилам.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/f4/c225d35fa4e0cbaab9c00d0425df1.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/tech/blogs/3457621.html",
-    "time": "2026-09-01T18:10:00.000Z"
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-09-02T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "📸 На этом фото – будущая звезда «Динамо». Вспомните всех легенд, выступавших за клуб?",
-    "description": "Собрали 27 игроков.",
-    "fullText": "Собрали 27 игроков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/83/b12b24b7f480b99c81e431745a168.png",
+    "title": "Только настоящие фанаты «Динамо» смогут отгадать всех легенд клуба. А вы справитесь?",
+    "description": "Иван Васильевич – да.",
+    "fullText": "Иван Васильевич – да.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e0/08215b3214a3094ff039f4fa685cf.png",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-09-01T18:00:00.000Z"
+    "time": "2026-09-02T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Вашему мнению хватит пары строк",
+    "description": "В коротких постах.",
+    "fullText": "В коротких постах.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-09-02T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Я не пришел улучшать «Барсу» – они и так ########». Огненная первая речь Жезуса",
+    "description": "Габи подходит Флику.",
+    "fullText": "Габи подходит Флику.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/7f/e189965c746a18c5575464e14e315.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3457680.html",
+    "time": "2026-09-02T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Число поддерживаемых игр на Steam Deck превысило 30 тысяч",
-    "description": "Согласно данным SteamDB.",
-    "fullText": "Согласно данным SteamDB.",
-    "image": "https://leonardo.osnova.io/c555f1af-112b-5be0-92c4-67ffd04da987/",
+    "title": "Показ GTA VI стал самым просматриваемым «фильмом на английском языке» на Netflix за последнюю неделю августа",
+    "description": "При шестичасовом окне эксклюзивности.",
+    "fullText": "При шестичасовом окне эксклюзивности.",
+    "image": "https://leonardo.osnova.io/a6fc1aa0-281c-54bc-b135-6d0716fcdd3f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/hard/5275044-kolichestvo-igr-na-steam-deck-prevyshaet-30000?from=rss",
-    "time": "2026-09-01T15:51:27.000Z"
+    "url": "https://dtf.ru/games/5275857-gta-vi-lider-prosmotrov-na-netflix?from=rss",
+    "time": "2026-09-02T06:06:39.000Z"
   }
 ]
