@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "На ВЭФ представили фарфоровые скульптуры леопарда и снежного барса",
-    "description": "Эти животные являются главными природными символами Дальнего Востока и Сибири",
-    "fullText": "Эти животные являются главными природными символами Дальнего Востока и Сибири",
+    "title": "В Челябинске пять человек осудили за разбой и другие преступления",
+    "description": "Они являлись участниками организованной преступной группы",
+    "fullText": "Они являлись участниками организованной преступной группы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28072695",
-    "time": "2026-09-02T21:35:06.000Z"
+    "url": "https://tass.ru/proisshestviya/28075441",
+    "time": "2026-09-03T09:16:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "На этом фото – будущая звезда «Динамо». Вспомните всех легенд, выступавших за клуб?",
+    "description": "Собрали 27 игроков.",
+    "fullText": "Собрали 27 игроков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/83/b12b24b7f480b99c81e431745a168.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/invisible/?utm_source=native",
+    "time": "2026-09-03T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Брат Хабиба говорит, что $1 млн – слишком мало. А что можно сделать на эти деньги?",
-    "description": "Вопрос на миллион.",
-    "fullText": "Вопрос на миллион.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/be/9b18485ed4ad69cdd91c2d92d52eb.jpeg",
+    "title": "Интервью шефа пловцов: рефлексия Колесникова, наш ответ Фелпсу, «с девочками по-хорошему нельзя»",
+    "description": "Владимир Иванов 🤜🤛 Андрей Шишин.",
+    "fullText": "Владимир Иванов 🤜🤛 Андрей Шишин.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/3e/52613dd5b425f9d8db0f78ff72879.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/boxing/blogs/3457444.html",
-    "time": "2026-09-02T18:20:00.000Z"
+    "url": "https://www.sports.ru/aquatics/blogs/3457570.html",
+    "time": "2026-09-03T01:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Из раннего доступа вышел Moonlighter 2 — экшен-«роглайк» об искателе приключений, открывшем торговую лавку",
-    "description": "Теперь игра доступна и на консолях.",
-    "fullText": "Теперь игра доступна и на консолях.",
-    "image": "https://leonardo.osnova.io/4e47eb59-42bc-5adb-be6d-3e3ff194afc0/-/format/mp4/",
+    "title": "«Hollow Knight с механикой стелса» — геймплей и детали метроидвании Warhammer Age of Sigmar: Deathmaster",
+    "description": "Ключевая особенность игры — возможность перемещаться по стенам и потолкам.",
+    "fullText": "Ключевая особенность игры — возможность перемещаться по стенам и потолкам.",
+    "image": "https://leonardo.osnova.io/37911da8-7a96-51a1-b0a3-dfda24e7c3b8/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5276638-moonlighter-2-vyshel-na-konsoli?from=rss",
-    "time": "2026-09-02T14:02:06.000Z"
+    "url": "https://dtf.ru/games/5276876-warhammer-age-of-sigmar-deathmaster-mekhanika-stelsa?from=rss",
+    "time": "2026-09-02T16:52:10.000Z"
   }
 ]
