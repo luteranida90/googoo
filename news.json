@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Рособоронэкспорт\": российские средства ПВО ждет большое будущее в Африке",
-    "description": "",
-    "fullText": "",
+    "title": "В Генпрокуратуру направили материалы о медиапроектах по дискредитации выборов",
+    "description": "Председатель комиссии Госдумы по расследованию фактов вмешательства во внутренние дела РФ Василий Пискарев указал, что в попытках дестабилизировать обстановку в стране задействованы западные провокаторы",
+    "fullText": "Председатель комиссии Госдумы по расследованию фактов вмешательства во внутренние дела РФ Василий Пискарев указал, что в попытках дестабилизировать обстановку в стране задействованы западные провокаторы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28085687",
-    "time": "2026-09-07T01:03:36.000Z"
+    "url": "https://tass.ru/politika/28086131",
+    "time": "2026-09-07T06:04:19.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Циципас – лучший теннисист без «Шлема»",
+    "description": "Рейтинг Маши Шамайской.",
+    "fullText": "Рейтинг Маши Шамайской.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/4c/62f13a70441a9997f31e1d72a7219.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3441526.html",
+    "time": "2026-09-06T20:04:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +44,14 @@
     "time": "2026-09-06T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Саша Плющенко выбирал Азербайджан: «в этой стране меня все любят», «там хорошо кормят»",
-    "description": "Об этом рассказала Рудковская.",
-    "fullText": "Об этом рассказала Рудковская.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/76/5194c475d42fa9d00f7daacb98b01.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3470193.html",
-    "time": "2026-09-06T19:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Code Vein 2 получит режим Battle Rush для сражений с боссами",
-    "description": "Он появится в день релиза сюжетного DLC Mask of Idris.",
-    "fullText": "Он появится в день релиза сюжетного DLC Mask of Idris.",
-    "image": "https://leonardo.osnova.io/d7f79704-a294-539b-8def-1152c208b712/-/format/mp4/",
+    "title": "Лимиты на «облачный» гейминг для пользователей Game Pass не затронут часть подписчиков из некоторых стран",
+    "description": "Изменения не коснутся обладателей тарифов с автопродлением.",
+    "fullText": "Изменения не коснутся обладателей тарифов с автопродлением.",
+    "image": "https://leonardo.osnova.io/06fcaf2e-ea3c-54a5-99c5-68b49e6ef0d2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5281703-code-vein-2-obnovlenie-battle-rush?from=rss",
-    "time": "2026-09-05T11:38:16.000Z"
+    "url": "https://dtf.ru/gameindustry/5281895-limity-na-oblachnyj-gejming-dlya-podpischikov-game-pass?from=rss",
+    "time": "2026-09-05T14:24:47.000Z"
   }
 ]
