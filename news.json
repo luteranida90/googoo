@@ -1,57 +1,68 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Генпрокуратуру направили материалы о медиапроектах по дискредитации выборов",
-    "description": "Председатель комиссии Госдумы по расследованию фактов вмешательства во внутренние дела РФ Василий Пискарев указал, что в попытках дестабилизировать обстановку в стране задействованы западные провокаторы",
-    "fullText": "Председатель комиссии Госдумы по расследованию фактов вмешательства во внутренние дела РФ Василий Пискарев указал, что в попытках дестабилизировать обстановку в стране задействованы западные провокаторы",
+    "title": "В Москве в Гагаринском тоннеле произошло ДТП",
+    "description": "Обстоятельства произошедшего и информация о пострадавших уточняется",
+    "fullText": "Обстоятельства произошедшего и информация о пострадавших уточняется",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/28086131",
-    "time": "2026-09-07T06:04:19.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Циципас – лучший теннисист без «Шлема»",
-    "description": "Рейтинг Маши Шамайской.",
-    "fullText": "Рейтинг Маши Шамайской.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/4c/62f13a70441a9997f31e1d72a7219.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3441526.html",
-    "time": "2026-09-06T20:04:00.000Z"
+    "url": "https://tass.ru/proisshestviya/28088655",
+    "time": "2026-09-07T17:39:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Барселона» впечатляюще разгромила «Валенсию». Разбор от Barca Family",
-    "description": "Флик наслаждается своей атакой.",
-    "fullText": "Флик наслаждается своей атакой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/c/40/4335329d047778368cbdf66644e4a.jpeg",
+    "title": "Дерби Москвы в хоккее – ЦСКА против «Спартака»! Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Топ-матч.",
+    "fullText": "Топ-матч.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/64/2e97cad484e37b5f99502438ea3cb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/tAsC5iMi8aAUiKsWngQMDxUU2e-LYE0xFm1rzbLU9uI",
-    "time": "2026-09-06T19:58:00.000Z"
+    "url": "https://video.sports.ru/hockey/khl/match/cska-vs-spartak/",
+    "time": "2026-09-07T16:25:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Осторожно, сводит олдскулы! Возвращение легендарной игры из советского детства",
+    "description": "Футбольная Аркада.",
+    "fullText": "Футбольная Аркада.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/3a/6d3661cf541f291fa1d5b8c09c4b7.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-09-07T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "Помните свой самый необычный забег?",
-    "description": "Поделитесь историей.",
-    "fullText": "Поделитесь историей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/c8/c5c91ed564ec9a6b73038c24fec7d.png",
+    "title": "Участвуете в марафонах? Вспомните самые теплые истории из забегов",
+    "description": "И получите подарок.",
+    "fullText": "И получите подарок.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/12/d3c24cd6c4bd7b65e92337ec5fa7b.png",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://specials.sports.ru/magnit-marathon/?utm_source=native",
-    "time": "2026-09-06T19:30:00.000Z"
+    "time": "2026-09-07T14:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мужская элита тенниса правда ослабла?",
+    "description": "Opta исследовала топов.",
+    "fullText": "Opta исследовала топов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/32/8d92b212b481f9d297947074f63ac.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3467967.html",
+    "time": "2026-09-07T13:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Лимиты на «облачный» гейминг для пользователей Game Pass не затронут часть подписчиков из некоторых стран",
-    "description": "Изменения не коснутся обладателей тарифов с автопродлением.",
-    "fullText": "Изменения не коснутся обладателей тарифов с автопродлением.",
-    "image": "https://leonardo.osnova.io/06fcaf2e-ea3c-54a5-99c5-68b49e6ef0d2/",
+    "title": "«Поздравляю, Шарик, ты балбес!»: трейлер фильма «Зима в Простоквашино»",
+    "description": "В прокате с 17 декабря.",
+    "fullText": "В прокате с 17 декабря.",
+    "image": "https://leonardo.osnova.io/0b798e79-b088-51b3-9ad4-1486084a7a14/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5281895-limity-na-oblachnyj-gejming-dlya-podpischikov-game-pass?from=rss",
-    "time": "2026-09-05T14:24:47.000Z"
+    "url": "https://dtf.ru/cinema/5284619-treyler-filma-zima-v-prostokvashino?from=rss",
+    "time": "2026-09-07T09:22:03.000Z"
   }
 ]
