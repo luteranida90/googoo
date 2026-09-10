@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Минпромторг не исключил появления робота-кассира",
-    "description": "Замглавы министерства Роман Чекушов отметил, что его можно будет разработать на базе технологий машинного зрения",
-    "fullText": "Замглавы министерства Роман Чекушов отметил, что его можно будет разработать на базе технологий машинного зрения",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260910/9375893.jpg",
+    "title": "ТАСС: в Калужской области завели дело за оправдание атаки на Крымский мост",
+    "description": "Фигуранта арестовали на два месяца",
+    "fullText": "Фигуранта арестовали на два месяца",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28097547",
-    "time": "2026-09-10T02:27:56.000Z"
+    "url": "https://tass.ru/proisshestviya/28098465",
+    "time": "2026-09-10T07:41:51.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Легенды московского «Динамо»: от Яшина до наших дней. Вспомните всех?",
+    "description": "Собрали 27 игроков.",
+    "fullText": "Собрали 27 игроков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e7/aed7cd9c34b6ba9caed74c77290a6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/special/invisible/?utm_source=native",
+    "time": "2026-09-10T07:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«А ты точно девушка?» – рушим стереотипы про женскую тяжелую атлетику",
+    "description": "Сильнее предрассудков.",
+    "fullText": "Сильнее предрассудков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/92/d5dee94d24d2898feef134a132ceb.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/magnitsila",
+    "time": "2026-09-10T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Елена Рыбакина – первая ракетка мира! Кто был до нее?",
-    "description": "Добралась.",
-    "fullText": "Добралась.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e5/179aa27ac4227b8f2fba5c7db3780.jpeg",
+    "title": "Трепет дня: Батраков впервые слушает гимн ЛЧ на поле. Жаль, «Галатасарай» провалился",
+    "description": "Отдали матч «Спортингу».",
+    "fullText": "Отдали матч «Спортингу».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/79/ec089b9294ab6bbaea9f30b9a3c91.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3478228.html",
-    "time": "2026-09-09T18:38:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3478232.html",
+    "time": "2026-09-09T22:04:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Kirby and the World Beyond выйдет весной 2027 года — трейлер",
-    "description": "Следующая игра серии снова будет в 3D.",
-    "fullText": "Следующая игра серии снова будет в 3D.",
-    "image": "https://leonardo.osnova.io/fbed8b95-1ff2-5b46-b9f3-a243125c835f/-/format/mp4/",
+    "title": "Аванпосты, альянсы и карта звёздной системы — для No Man&#039;s Sky вышло масштабное обновление Cosmos",
+    "description": "Игроки могут покупать и оформлять станции.",
+    "fullText": "Игроки могут покупать и оформлять станции.",
+    "image": "https://leonardo.osnova.io/a0fda2b3-5ecd-52fc-ab30-21f6ad9bda8b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5289031-kirby-and-the-world-beyond-novaya-igra-ot-nintendo?from=rss",
-    "time": "2026-09-09T15:13:41.000Z"
+    "url": "https://dtf.ru/games/5288863-obnovlenie-cosmos-dlya-no-mans-sky?from=rss",
+    "time": "2026-09-09T13:52:01.000Z"
   }
 ]
