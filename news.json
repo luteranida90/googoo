@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Сочи ввели ограничения",
-    "description": "Они необходимы для обеспечения безопасности полетов",
-    "fullText": "Они необходимы для обеспечения безопасности полетов",
+    "title": "Немецкий миллиардер Мюллер выступил против помощи Украине",
+    "description": "Владелец брендов Müller, Weihenstephan и Landliebeотметил, что украинский конфликт не касается Германии",
+    "fullText": "Владелец брендов Müller, Weihenstephan и Landliebeотметил, что украинский конфликт не касается Германии",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28106673",
-    "time": "2026-09-12T15:21:46.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28106843",
+    "time": "2026-09-12T17:35:58.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Игра из нашего детства – о такой мечтал каждый мальчишка во дворе",
+    "description": "Футбольная Аркада.",
+    "fullText": "Футбольная Аркада.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/3a/6d3661cf541f291fa1d5b8c09c4b7.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-09-12T15:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9tLnNwb3J0",
@@ -22,36 +33,25 @@
     "time": "2026-09-12T14:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Зенит» – огромный фаворит матча с «Локо». Заберут три очка?",
-    "description": "Решайте с фрибетом до 15 000.",
-    "fullText": "Решайте с фрибетом до 15 000.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/54/77a0dc6544394b444e2f5fc9723aa.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.world/fmaterpl",
-    "time": "2026-09-12T11:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Рекордные продажи каждого клуба РПЛ. Здесь Халк, Кокорин, Соболев и даже Бориско",
-    "description": "Много новых героев.",
-    "fullText": "Много новых героев.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/ed/b1eb6a26b48abbb800349ece34fe0.jpeg",
+    "title": "Изидор – лучший джокер АПЛ. На пару с Шешко",
+    "description": "Тот самый.",
+    "fullText": "Тот самый.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/73/24903b0fc45fcbc81c313ec43833d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3467828.html",
-    "time": "2026-09-12T11:05:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3482705.html",
+    "time": "2026-09-12T13:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Nintendo добилась судебного запрета на продажу устройств для запуска «пиратских» игр на Switch в Европе",
-    "description": "Компания инициировала дело «ради благополучия разработчиков».",
-    "fullText": "Компания инициировала дело «ради благополучия разработчиков».",
-    "image": "https://leonardo.osnova.io/ecb45753-1a80-54e4-b113-b51de6cc8f56/",
+    "title": "Российские разработчики софта, позволяющего локально менять скины в CS2, объявили о прекращении деятельности — после досудебной претензии от Valve",
+    "description": "Чтобы разрешить вопрос, компании пришлось обратиться к юристам.",
+    "fullText": "Чтобы разрешить вопрос, компании пришлось обратиться к юристам.",
+    "image": "https://leonardo.osnova.io/b2a911b6-d2fc-56e1-8bc4-ddb0806733dd/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5293290-nintendo-zapret-prodazhi-ustroystv-dlya-switch-v-evrope?from=rss",
-    "time": "2026-09-11T14:53:19.000Z"
+    "url": "https://dtf.ru/gameindustry/5293355-zakrytie-touch-skins-rossiyskiy-soft-dlya-cs2-prekratil-sushchestvovanie?from=rss",
+    "time": "2026-09-11T15:52:32.000Z"
   }
 ]
