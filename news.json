@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Бастрыкин поручил главе СУ СК РФ Поморья доложить о ходе дел о ДТП с автобусом",
-    "description": "В аварии погибли 13 человек, 8 пострадали",
-    "fullText": "В аварии погибли 13 человек, 8 пострадали",
+    "title": "В аэропорту Сочи ввели ограничения",
+    "description": "Они необходимы для обеспечения безопасности полетов",
+    "fullText": "Они необходимы для обеспечения безопасности полетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28105551",
-    "time": "2026-09-12T07:39:19.000Z"
+    "url": "https://tass.ru/ekonomika/28106673",
+    "time": "2026-09-12T15:21:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9tLnNwb3J0",
+    "title": "Легенды «Динамо» – вспомните 27 культовых игроков московского клуба",
+    "description": "Яшин и другие.",
+    "fullText": "Яшин и другие.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e7/aed7cd9c34b6ba9caed74c77290a6.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://m.sports.ru/special/invisible/?utm_source=native",
+    "time": "2026-09-12T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "«Зенит» или «Локомотив»? Прогнозируйте с фрибетом",
-    "description": "До 20 000 всем новичкам от Балтбет.",
-    "fullText": "До 20 000 всем новичкам от Балтбет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/dc/215ff90ae42398221bce08abc7bc7.jpeg",
+    "title": "«Зенит» – огромный фаворит матча с «Локо». Заберут три очка?",
+    "description": "Решайте с фрибетом до 15 000.",
+    "fullText": "Решайте с фрибетом до 15 000.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/54/77a0dc6544394b444e2f5fc9723aa.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.world/ysVlli9",
-    "time": "2026-09-12T07:00:00.000Z"
+    "url": "https://sirena.world/fmaterpl",
+    "time": "2026-09-12T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Дичь в «Фенере»: тренер не приезжает, выключил телефон – его отставку не принимают",
-    "description": "Клуб уверяет, что Картал вернется.",
-    "fullText": "Клуб уверяет, что Картал вернется.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ae/a3e0ca464430689af164999b4c73e.jpeg",
+    "title": "Рекордные продажи каждого клуба РПЛ. Здесь Халк, Кокорин, Соболев и даже Бориско",
+    "description": "Много новых героев.",
+    "fullText": "Много новых героев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/ed/b1eb6a26b48abbb800349ece34fe0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3483693.html",
-    "time": "2026-09-11T22:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3467828.html",
+    "time": "2026-09-12T11:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Роджер Кларк иногда записывал сцены с кашляющим Артуром Морганом в RDR 2, будучи простуженным",
-    "description": "Работа велась пять лет, поэтому случалось всякое.",
-    "fullText": "Работа велась пять лет, поэтому случалось всякое.",
-    "image": "https://leonardo.osnova.io/0387f883-1d1b-5e88-90a2-0e7459e976de/",
+    "title": "Nintendo добилась судебного запрета на продажу устройств для запуска «пиратских» игр на Switch в Европе",
+    "description": "Компания инициировала дело «ради благополучия разработчиков».",
+    "fullText": "Компания инициировала дело «ради благополучия разработчиков».",
+    "image": "https://leonardo.osnova.io/ecb45753-1a80-54e4-b113-b51de6cc8f56/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5292709-rodzher-klark-o-zapisi-kashlyashchego-artura-morgana-v-red-dead-redemption-2?from=rss",
-    "time": "2026-09-11T09:14:50.000Z"
+    "url": "https://dtf.ru/gameindustry/5293290-nintendo-zapret-prodazhi-ustroystv-dlya-switch-v-evrope?from=rss",
+    "time": "2026-09-11T14:53:19.000Z"
   }
 ]
