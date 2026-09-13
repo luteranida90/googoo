@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве объявили воздушную тревогу",
-    "description": "Сирены звучат в том числе в Днепропетровской, Житомирской, Львовской, Одесской, Харьковской и Черниговской областях",
-    "fullText": "Сирены звучат в том числе в Днепропетровской, Житомирской, Львовской, Одесской, Харьковской и Черниговской областях",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "На МФМ съехались участники из 191 страны мира",
+    "description": "Международный фестиваль молодежи проходит в Екатеринбурге с 11 по 17 сентября",
+    "fullText": "Международный фестиваль молодежи проходит в Екатеринбурге с 11 по 17 сентября",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260913/9384903.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28107375",
-    "time": "2026-09-13T05:21:46.000Z"
+    "url": "https://tass.ru/obschestvo/28108033",
+    "time": "2026-09-13T10:43:54.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9tLnNwb3J0",
-    "title": "Только настоящие фанаты «Динамо» смогут отгадать всех легенд клуба. А вы справитесь?",
-    "description": "Иван Васильевич – да.",
-    "fullText": "Иван Васильевич – да.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e0/08215b3214a3094ff039f4fa685cf.png",
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Если вы ребенок девяностых – эта коллекция для вас",
+    "description": "Мерч Музея русского футбола в магазине Спортса’‘.",
+    "fullText": "Мерч Музея русского футбола в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://m.sports.ru/invisible/?utm_source=native",
-    "time": "2026-09-13T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Ждете манчестерское дерби? Ставьте на топ-матч АПЛ с фрибетами от партнеров Спортса’‘",
-    "description": "Бруну против Холанда.",
-    "fullText": "Бруну против Холанда.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/df/ceb2c5ec8418c9598c2dccef21eaf.webp",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/MU_MC",
-    "time": "2026-09-12T22:40:00.000Z"
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-09-13T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "👸 Рыбакина – чемпионка US Open! Лишила Соболенко короны",
-    "description": "Забрала все.",
-    "fullText": "Забрала все.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/96/0e6b22f5b46369e25733fcd186f07.jpeg",
+    "title": "Рейс из ЦСКА толкнул судью после красной – грозит бан на 6 матчей. Как же подвел",
+    "description": "Пропустит столько топ-игр.",
+    "fullText": "Пропустит столько топ-игр.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/8a/aa37f7df9477c85e57c2d5c4570f6.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/tennis/blogs/3484586.html",
-    "time": "2026-09-12T22:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3486192.html",
+    "time": "2026-09-13T06:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Remedy выпустила пятиминутное видео с пересказом событий Control — в преддверии релиза второй части",
-    "description": "Главное, что нужно знать перед прохождением сиквела.",
-    "fullText": "Главное, что нужно знать перед прохождением сиквела.",
-    "image": "https://leonardo.osnova.io/f85d2624-21ce-53cf-9483-154a86c88a74/-/format/mp4/",
+    "title": "Сценарист Стивен Найт косвенно подтвердил, что следующий исполнитель роли Бонда уже выбран",
+    "description": "Черновик сюжета тоже готов.",
+    "fullText": "Черновик сюжета тоже готов.",
+    "image": "https://leonardo.osnova.io/c9d1e632-7ff3-5f9f-ae06-c1caf2746639/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5293370-control-resonant-video-perevod-syuzheta?from=rss",
-    "time": "2026-09-11T16:06:50.000Z"
+    "url": "https://dtf.ru/cinema/5293557-steven-najt-podtverdil-vybor-novogo-ispolnitelya-roli-bonda?from=rss",
+    "time": "2026-09-11T17:27:32.000Z"
   }
 ]
