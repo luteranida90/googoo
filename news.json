@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Чернышенко: придуманные в РФ фиджитал-игры обретают все больше популярности в мире",
-    "description": "Вице-премьер отметил, что более 120 стран играют по правилам, которые изобрели в России",
-    "fullText": "Вице-премьер отметил, что более 120 стран играют по правилам, которые изобрели в России",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250620/8301745.jpg",
+    "title": "GB News: в школах Англии запретят подавать фиш-энд-чипс и выпечку",
+    "description": "По данным телеканала, в столовых будут обязаны подавать блюда из чечевицы и нута как минимум раз в неделю, а каждая из позиций должна содержать не менее одной порции фруктов или овощей",
+    "fullText": "По данным телеканала, в столовых будут обязаны подавать блюда из чечевицы и нута как минимум раз в неделю, а каждая из позиций должна содержать не менее одной порции фруктов или овощей",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28110519",
-    "time": "2026-09-14T11:30:07.000Z"
+    "url": "https://tass.ru/obschestvo/28111739",
+    "time": "2026-09-14T20:49:05.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Разработчики ARC Raiders пока не знают, как изменится система экспедиций и вернётся ли она вообще",
-    "description": "Прежде её хотели обновить к 2027 году.",
-    "fullText": "Прежде её хотели обновить к 2027 году.",
-    "image": "https://leonardo.osnova.io/c1c4db8a-c0ac-5b8c-873f-87f22e3e12e8/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5298433-razrabotchiki-arc-raiders-poka-ne-znayut-kak-izmenitsya-sistema-ekspedicii-i-vernetsya-li-ona-voobshe?from=rss",
-    "time": "2026-09-14T11:24:54.000Z"
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Зенит» засудили? Что не так у «Краснодара»? Кто прав: Олейников или «Рубин»? Главное в РПЛ",
+    "description": "Разбор в «Футбольном клубе».",
+    "fullText": "Разбор в «Футбольном клубе».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/65/d5bc24bca4acb894024096bdd1b2e.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/HGilCqy5XRtRNxaG6_syyh2kzvz3EsLBdEVA8KdRiX0",
+    "time": "2026-09-14T19:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Volga Арена» – новый стадион в КХЛ в Нижнем. Что о нем нужно знать?",
-    "description": "«Торпедо» готово к открытию.",
-    "fullText": "«Торпедо» готово к открытию.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f8/68b4945ae4f979c2629e931052563.jpeg",
+    "title": "Топ-7 видео недели: голая Сидни Суини, порноактриса на «Сити», дрожащий Лавесси",
+    "description": "Только самое яркое.",
+    "fullText": "Только самое яркое.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/a9/656a292d94efb820df328e241309d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3487390.html",
-    "time": "2026-09-14T07:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3491344.html",
+    "time": "2026-09-14T16:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Актёр Стивен Рут подтвердил, что сыграл Брайана Хедера в GTA VI",
+    "description": "Сама Rockstar пока не рассказала ни об одном привлечённом артисте.",
+    "fullText": "Сама Rockstar пока не рассказала ни об одном привлечённом артисте.",
+    "image": "https://leonardo.osnova.io/2787cb22-b209-5414-937a-fb0645d8e38d/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5298529-steven-rut-ozvuchil-bryana-khedera-v-gta-vi?from=rss",
+    "time": "2026-09-14T12:30:00.000Z"
   }
 ]
