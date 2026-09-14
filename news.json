@@ -1,57 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Сибири за последний месяц погиб пятый человек от нападения медведя",
-    "description": "По подсчетам ТАСС, в 2026 году медведи выходили к населенным пунктам в 41 регионе России",
-    "fullText": "По подсчетам ТАСС, в 2026 году медведи выходили к населенным пунктам в 41 регионе России",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Чернышенко: придуманные в РФ фиджитал-игры обретают все больше популярности в мире",
+    "description": "Вице-премьер отметил, что более 120 стран играют по правилам, которые изобрели в России",
+    "fullText": "Вице-премьер отметил, что более 120 стран играют по правилам, которые изобрели в России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250620/8301745.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28109157",
-    "time": "2026-09-14T05:14:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как же повезло Антонелли с победой! Или это мадридская трасса «Ф-1» слишком унылая?",
-    "description": "«Мерседесу» стоит благодарить «Макларен».",
-    "fullText": "«Мерседесу» стоит благодарить «Макларен».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/11/0a62dc04340a89f5b66dc0626f271.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3485480.html",
-    "time": "2026-09-13T19:50:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Следите за главными инсайдами, эмоциями и мнениями",
-    "description": "В «Моей Ленте».",
-    "fullText": "В «Моей Ленте».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/pGts16g",
-    "time": "2026-09-13T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Овации для Массалыги, Умяров исполнил мечту юного фаната: как «Спартак» отметил победу над «Ростовом»",
-    "description": "Карседо уже говорит по-русски.",
-    "fullText": "Карседо уже говорит по-русски.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/be/a454c4a5b42f581eebf74af570ea3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/ZBhFOtt8teGnhY1hXz6TwoHNaD21VuqRH7TnJhXES5c",
-    "time": "2026-09-13T19:05:00.000Z"
+    "url": "https://tass.ru/obschestvo/28110519",
+    "time": "2026-09-14T11:30:07.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Студия авторов серии Moss сообщила о закрытии",
-    "description": "После 11 лет существования.",
-    "fullText": "После 11 лет существования.",
-    "image": "https://leonardo.osnova.io/6c8c25a4-3b7c-5abb-b9df-9e7e5886eb3e/",
+    "title": "Разработчики ARC Raiders пока не знают, как изменится система экспедиций и вернётся ли она вообще",
+    "description": "Прежде её хотели обновить к 2027 году.",
+    "fullText": "Прежде её хотели обновить к 2027 году.",
+    "image": "https://leonardo.osnova.io/c1c4db8a-c0ac-5b8c-873f-87f22e3e12e8/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5294443-zakrytie-studii-polyarc-sozdatelei-moss?from=rss",
-    "time": "2026-09-12T08:18:07.000Z"
+    "url": "https://dtf.ru/games/5298433-razrabotchiki-arc-raiders-poka-ne-znayut-kak-izmenitsya-sistema-ekspedicii-i-vernetsya-li-ona-voobshe?from=rss",
+    "time": "2026-09-14T11:24:54.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Volga Арена» – новый стадион в КХЛ в Нижнем. Что о нем нужно знать?",
+    "description": "«Торпедо» готово к открытию.",
+    "fullText": "«Торпедо» готово к открытию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/f8/68b4945ae4f979c2629e931052563.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3487390.html",
+    "time": "2026-09-14T07:20:00.000Z"
   }
 ]
