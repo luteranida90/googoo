@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Kauppalehti: финская компания Summa Defence находится на грани банкротства",
-    "description": "Оборонный консорциум рассматривает возможность реструктуризации бизнеса и продажи дочерних предприятий, пишет газета",
-    "fullText": "Оборонный консорциум рассматривает возможность реструктуризации бизнеса и продажи дочерних предприятий, пишет газета",
+    "title": "RND: в ФРГ прибыли около 6 тыс. украинцев за последние три месяца",
+    "description": "На конец августа в Германии числились 1 358 212 граждан Украины",
+    "fullText": "На конец августа в Германии числились 1 358 212 граждан Украины",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28112069",
-    "time": "2026-09-15T03:25:15.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Зенит» засудили? Что не так у «Краснодара»? Кто прав: Олейников или «Рубин»? Главное в РПЛ",
-    "description": "Разбор в «Футбольном клубе».",
-    "fullText": "Разбор в «Футбольном клубе».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/65/d5bc24bca4acb894024096bdd1b2e.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/HGilCqy5XRtRNxaG6_syyh2kzvz3EsLBdEVA8KdRiX0",
-    "time": "2026-09-14T19:55:00.000Z"
+    "url": "https://tass.ru/obschestvo/28113057",
+    "time": "2026-09-15T08:59:29.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Тренер «Барнаула» записал альбом. Обещает по треку в месяц",
-    "description": "Михаил Терехов из студии.",
-    "fullText": "Михаил Терехов из студии.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/24/7fb019a3849d692372906969e5e89.jpeg",
+    "title": "5 громких скандалов судьи, засчитавшего гол «Сити» из офсайда. Удалял не того, свистел раньше времени, стыдился своих ошибок",
+    "description": "«МЮ» страдал и до этого.",
+    "fullText": "«МЮ» страдал и до этого.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/56/df607800442458c8e7195bad94ce2.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3488050.html",
-    "time": "2026-09-14T18:25:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3491077.html",
+    "time": "2026-09-14T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Актёр Стивен Рут подтвердил, что сыграл Брайана Хедера в GTA VI",
-    "description": "Сама Rockstar пока не рассказала ни об одном привлечённом артисте.",
-    "fullText": "Сама Rockstar пока не рассказала ни об одном привлечённом артисте.",
-    "image": "https://leonardo.osnova.io/2787cb22-b209-5414-937a-fb0645d8e38d/",
+    "title": "DLC для Of Ash and Steel, хоррор про японское такси и 12 минут геймплея Kingmakers: что показали на tinyBuild Connect",
+    "description": "В Steam также проходит распродажа от издателя.",
+    "fullText": "В Steam также проходит распродажа от издателя.",
+    "image": "https://leonardo.osnova.io/1671c66e-368e-5e86-b7fb-98ca88e67a61/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5298529-steven-rut-ozvuchil-bryana-khedera-v-gta-vi?from=rss",
-    "time": "2026-09-14T12:30:00.000Z"
+    "url": "https://dtf.ru/games/5298808-dlc-dlya-of-ash-and-steel-horror-road-to-jukai-i-geympley-kingmakers?from=rss",
+    "time": "2026-09-14T17:47:01.000Z"
   }
 ]
