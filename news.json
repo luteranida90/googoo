@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "RND: в ФРГ прибыли около 6 тыс. украинцев за последние три месяца",
-    "description": "На конец августа в Германии числились 1 358 212 граждан Украины",
-    "fullText": "На конец августа в Германии числились 1 358 212 граждан Украины",
+    "title": "DPA: Мерц отменил визит в Нью-Йорк на мероприятия ГА ООН",
+    "description": "Источники в правительстве отметили, что присутствие канцлера \"необходимо в Берлине\"",
+    "fullText": "Источники в правительстве отметили, что присутствие канцлера \"необходимо в Берлине\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28113057",
-    "time": "2026-09-15T08:59:29.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28114981",
+    "time": "2026-09-15T17:47:14.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "5 громких скандалов судьи, засчитавшего гол «Сити» из офсайда. Удалял не того, свистел раньше времени, стыдился своих ошибок",
-    "description": "«МЮ» страдал и до этого.",
-    "fullText": "«МЮ» страдал и до этого.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/56/df607800442458c8e7195bad94ce2.jpeg",
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Читайте главное по вашим интересам в «Моей Ленте»",
+    "description": "Спорт без лишних поисков.",
+    "fullText": "Спорт без лишних поисков.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3491077.html",
-    "time": "2026-09-14T21:10:00.000Z"
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-09-15T17:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Игра из нашего детства – о такой мечтал каждый мальчишка во дворе",
+    "description": "Футбольная Аркада.",
+    "fullText": "Футбольная Аркада.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/73/0052142d1481e905e2651f8c741b3.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-09-15T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "DLC для Of Ash and Steel, хоррор про японское такси и 12 минут геймплея Kingmakers: что показали на tinyBuild Connect",
-    "description": "В Steam также проходит распродажа от издателя.",
-    "fullText": "В Steam также проходит распродажа от издателя.",
-    "image": "https://leonardo.osnova.io/1671c66e-368e-5e86-b7fb-98ca88e67a61/",
+    "title": "Для Payday 2 вышло новое платное ограбление — первое со времён релиза третьей части шутера",
+    "description": "Стоимость DLC — 239 рублей.",
+    "fullText": "Стоимость DLC — 239 рублей.",
+    "image": "https://leonardo.osnova.io/b0edf1ab-5b05-5e36-b9c1-faed14b1ad7b/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5298808-dlc-dlya-of-ash-and-steel-horror-road-to-jukai-i-geympley-kingmakers?from=rss",
-    "time": "2026-09-14T17:47:01.000Z"
+    "url": "https://dtf.ru/games/5300735-novoe-ograblenie-under-the-hammer-dlya-payday-2?from=rss",
+    "time": "2026-09-15T15:12:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Цифра дня: 2668 дней Аленичев никого не тренировал. Теперь возвращается в «Арсенал»",
+    "description": "Больше семи лет.",
+    "fullText": "Больше семи лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/c2/0005874c646258b2e10bb6782ea35.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3492822.html",
+    "time": "2026-09-15T14:20:00.000Z"
   }
 ]
