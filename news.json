@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве горит склад",
-    "description": "Объект расположен в Святошинском районе",
-    "fullText": "Объект расположен в Святошинском районе",
+    "title": "В Саратовской области выявили загрязнение Волги сточными водами и порчу земли",
+    "description": "По нескольким нарушениям завели уголовные дела",
+    "fullText": "По нескольким нарушениям завели уголовные дела",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28115575",
-    "time": "2026-09-16T03:26:44.000Z"
+    "url": "https://tass.ru/proisshestviya/28116509",
+    "time": "2026-09-16T08:51:07.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "«После забега китайские туристки попросили фото со мной – я почувствовала себя суперзвездой»",
+    "description": "Истории участников марафонов.",
+    "fullText": "Истории участников марафонов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/59/9f89f43a84a6aa77df315e9424a55.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/magnit-marathon/start?utm_source=native",
+    "time": "2026-09-16T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Прокат на коленях – величайшее футбольное празднование. Почему его так любят?",
-    "description": "Символ АПЛ.",
-    "fullText": "Символ АПЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/3/22/fc8d9c92b48b69c14dce60bba69b2.jpeg",
+    "title": "Месси вызван в сборную! Ласт дэнс – в Буэнос-Айресе",
+    "description": "На глазах у Веги из «Зенита».",
+    "fullText": "На глазах у Веги из «Зенита».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/4f/7cedabbdc41a79a0fe423cc1a120f.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3448383.html",
-    "time": "2026-09-15T18:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3494432.html",
+    "time": "2026-09-15T21:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Триумф «Бухты вдов», Мэттью Риз с двумя статуэтками, а Рэй Сихорн — лучшая актриса в драме: итоги «Эмми-2026»",
-    "description": "«Больница Питт» тоже не осталась без наград.",
-    "fullText": "«Больница Питт» тоже не осталась без наград.",
-    "image": "https://leonardo.osnova.io/59f5b0e5-4df2-5c7c-b9d6-2cacb98a468c/",
+    "title": "Diablo IV: Age of Hatred Collection вышла на Switch 2",
+    "description": "Цена составила 70 долларов.",
+    "fullText": "Цена составила 70 долларов.",
+    "image": "https://leonardo.osnova.io/145211d8-7ed0-5af0-bf9e-5bac9542c83a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5299869-pobediteli-emmi-buhta-vdov-mattju-riz?from=rss",
-    "time": "2026-09-15T08:19:48.000Z"
+    "url": "https://dtf.ru/games/5300996-diablo-iv-age-of-hatred-collection-na-switch-2?from=rss",
+    "time": "2026-09-15T17:27:43.000Z"
   }
 ]
