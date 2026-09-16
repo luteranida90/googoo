@@ -1,57 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "DPA: Мерц отменил визит в Нью-Йорк на мероприятия ГА ООН",
-    "description": "Источники в правительстве отметили, что присутствие канцлера \"необходимо в Берлине\"",
-    "fullText": "Источники в правительстве отметили, что присутствие канцлера \"необходимо в Берлине\"",
+    "title": "В Харьковской ВГА сообщили о потерях среди бегущих из котла солдат ВСУ",
+    "description": "По словам замглавы Военно-гражданской администрации Харьковской области по обороне и безопасности Евгения Лисняка, противник пытается выходить мелкими группами через леса",
+    "fullText": "По словам замглавы Военно-гражданской администрации Харьковской области по обороне и безопасности Евгения Лисняка, противник пытается выходить мелкими группами через леса",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28114981",
-    "time": "2026-09-15T17:47:14.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Читайте главное по вашим интересам в «Моей Ленте»",
-    "description": "Спорт без лишних поисков.",
-    "fullText": "Спорт без лишних поисков.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/2e/679fc3ed248a7b346af9bc32e5148.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/pGts16g",
-    "time": "2026-09-15T17:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Игра из нашего детства – о такой мечтал каждый мальчишка во дворе",
-    "description": "Футбольная Аркада.",
-    "fullText": "Футбольная Аркада.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/73/0052142d1481e905e2651f8c741b3.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-09-15T15:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для Payday 2 вышло новое платное ограбление — первое со времён релиза третьей части шутера",
-    "description": "Стоимость DLC — 239 рублей.",
-    "fullText": "Стоимость DLC — 239 рублей.",
-    "image": "https://leonardo.osnova.io/b0edf1ab-5b05-5e36-b9c1-faed14b1ad7b/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5300735-novoe-ograblenie-under-the-hammer-dlya-payday-2?from=rss",
-    "time": "2026-09-15T15:12:13.000Z"
+    "url": "https://tass.ru/armiya-i-opk/28115235",
+    "time": "2026-09-15T22:49:49.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Цифра дня: 2668 дней Аленичев никого не тренировал. Теперь возвращается в «Арсенал»",
-    "description": "Больше семи лет.",
-    "fullText": "Больше семи лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/c2/0005874c646258b2e10bb6782ea35.jpeg",
+    "title": "«Авангард» троллит и себя, и всю КХЛ: вновь отыгрался с 0:2 и победил в овертайме",
+    "description": "Мощь от связки Потуральски-Гуляев.",
+    "fullText": "Мощь от связки Потуральски-Гуляев.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/41/6a6addb3340bd93ecd039ad1adbea.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3492822.html",
-    "time": "2026-09-15T14:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3493642.html",
+    "time": "2026-09-15T17:50:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Триумф «Бухты вдов», Мэттью Риз с двумя статуэтками, а Рэй Сихорн — лучшая актриса в драме: итоги «Эмми-2026»",
+    "description": "«Больница Питт» тоже не осталась без наград.",
+    "fullText": "«Больница Питт» тоже не осталась без наград.",
+    "image": "https://leonardo.osnova.io/59f5b0e5-4df2-5c7c-b9d6-2cacb98a468c/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/cinema/5299869-pobediteli-emmi-buhta-vdov-mattju-riz?from=rss",
+    "time": "2026-09-15T08:19:48.000Z"
   }
 ]
