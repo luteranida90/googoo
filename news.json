@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Виннипег\" отстранил олимпийского чемпиона Хеллебайка за неявку на сборы",
-    "description": "Ранее хоккеист запросил обмен из клуба",
-    "fullText": "Ранее хоккеист запросил обмен из клуба",
+    "title": "Президент Румынии выдвинул на пост премьера Зигфрида Мурешана",
+    "description": "У выдвинутого кандидата есть 10 дней, чтобы сформировать кабмин и подготовить его программу",
+    "fullText": "У выдвинутого кандидата есть 10 дней, чтобы сформировать кабмин и подготовить его программу",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28119585",
-    "time": "2026-09-17T04:48:24.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28122209",
+    "time": "2026-09-17T14:54:14.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Овечкин у Акинфеева: байки под бургеры. Легенда в гостях у легенды",
-    "description": "Видеошоу «СмАки».",
-    "fullText": "Видеошоу «СмАки».",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/63/12b82bedb4483813220308112e105.jpeg",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "«После забега китайские туристки попросили фото со мной – я почувствовала себя суперзвездой»",
+    "description": "Истории участников марафонов.",
+    "fullText": "Истории участников марафонов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/59/9f89f43a84a6aa77df315e9424a55.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/9ONOVjmtdOczEcqlMtV0pQdB_BzJQ5Tx4Ai3sQAT7Kk",
-    "time": "2026-09-16T20:05:00.000Z"
+    "url": "https://specials.sports.ru/magnit-marathon/start?utm_source=native",
+    "time": "2026-09-17T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Батраков – суперзвезда на старте FC 27. Но что с лицом?",
+    "description": "Скрытый бриллиант для карьеры!",
+    "fullText": "Скрытый бриллиант для карьеры!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/9c/9ddbddd714af085203de8227baca7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3495729.html",
+    "time": "2026-09-17T10:54:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "⚡ Вы ждали этого 8 лет: вот из-за чего произошла драка на корпоративе «Авангарда»",
-    "description": "«Не переключайтесь, не переключайтесь».",
-    "fullText": "«Не переключайтесь, не переключайтесь».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ae/308ed54214c19b5876a43c6770d00.jpeg",
+    "title": "Клубы НХЛ за пару дней потратили около 400 млн на контракты. Что случилось?",
+    "description": "Запрыгнули в последний вагон.",
+    "fullText": "Запрыгнули в последний вагон.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/9a/5851faaf742febd83c39d77f2f29b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3495498.html",
-    "time": "2026-09-16T19:40:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3495560.html",
+    "time": "2026-09-17T10:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Warlock отказались от маркеров квестов, чтобы игрокам было интереснее исследовать открытый мир",
-    "description": "Ориентироваться помогут подсказки от NPC.",
-    "fullText": "Ориентироваться помогут подсказки от NPC.",
-    "image": "https://leonardo.osnova.io/03f9408b-818c-58ea-8383-20a85ae374b6/",
+    "title": "Инсайдер: серия RTX 60 и большая часть видеокарт на RDNA 5 выйдут только в 2028 году",
+    "description": "В 2027-м ожидается лишь одна модель от AMD.",
+    "fullText": "В 2027-м ожидается лишь одна модель от AMD.",
+    "image": "https://leonardo.osnova.io/5a98db43-d2e7-51a9-99d7-516fa5a26073/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5301977-razrabotchiki-warlock-isklyuchili-markery-kvestov?from=rss",
-    "time": "2026-09-16T08:28:46.000Z"
+    "url": "https://dtf.ru/hard/5303901-insayder-videokarty-rtx-60-i-rdna-5-vyjdut-pozzhe?from=rss",
+    "time": "2026-09-17T08:03:29.000Z"
   }
 ]
