@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Ново-Екатерининский сквер в центре Москвы обновили",
-    "description": "При проведении работ сохранили планировочную структуру",
-    "fullText": "При проведении работ сохранили планировочную структуру",
+    "title": "В аэропорту Сочи сняли ограничения",
+    "description": "Эту информацию сообщили в Росавиации",
+    "fullText": "Эту информацию сообщили в Росавиации",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28126945",
-    "time": "2026-09-18T17:43:00.000Z"
+    "url": "https://tass.ru/ekonomika/28127261",
+    "time": "2026-09-18T20:29:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly9jeWJlci5z",
@@ -19,50 +19,28 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/games/blogs/3496045.html",
-    "time": "2026-09-18T17:15:00.000Z"
-  },
-  {
-    "id": "aHR0cDovL3ZpZGVvLnNw",
-    "title": "Топ-матч в КХЛ – «Локомотив» принимает «Авангард». Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
-    "description": "Клуб из Ярославля пока без потерь.",
-    "fullText": "Клуб из Ярославля пока без потерь.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/69/c1b68f36947ecbe116d3c9a872693.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "http://video.sports.ru/hockey/khl/match/avangard-vs-lokomotiv-yaroslavl/",
-    "time": "2026-09-18T16:35:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Помните, как в детстве все рубились в эту игру? Воссоздали ее в 3D",
-    "description": "Раньше было лучше.",
-    "fullText": "Раньше было лучше.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/d1/847c0af5a4afba4fc0f92f9db5861.gif",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-09-18T15:30:00.000Z"
+    "time": "2026-09-18T19:05:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Двойник Мбаппе из России: стал звездой 2Drots из-за сходства, его троллил Слуцкий",
-    "description": "Российский диктатор.",
-    "fullText": "Российский диктатор.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/56/1505f67e54695b880591bd904d852.jpeg",
+    "title": "Что Моуринью уже поменял в «Реале»",
+    "description": "Есть поводы для оптимизма.",
+    "fullText": "Есть поводы для оптимизма.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/53/ef89d4d004ede8cc16f4c8ee4df51.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/mediafootball/blogs/3488167.html",
-    "time": "2026-09-18T13:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3491812.html",
+    "time": "2026-09-18T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Второй сезон «Гангстерленда» с Томом Харди стартовал на Paramount+",
-    "description": "По словам критиков, шоу ещё не достигло уровня «Клана Сопрано», но стремится к нему.",
-    "fullText": "По словам критиков, шоу ещё не достигло уровня «Клана Сопрано», но стремится к нему.",
-    "image": "https://leonardo.osnova.io/0fc19eea-cb5b-5d76-a32a-9de77b588c2b/",
+    "title": "Авторы Guild Wars 3 стремятся к минималистичному для MMO интерфейсу — отчасти ради удобства консольных игроков",
+    "description": "Разработчики сделают упор на визуальные эффекты вместо индикаторов.",
+    "fullText": "Разработчики сделают упор на визуальные эффекты вместо индикаторов.",
+    "image": "https://leonardo.osnova.io/646cd246-ac7a-52cf-af80-bdbc70eac21a/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5306184-vtoroy-sezon-gangsterlenda?from=rss",
-    "time": "2026-09-18T12:28:07.000Z"
+    "url": "https://dtf.ru/games/5306094-guild-wars-3-minimalistichnyy-interfeys?from=rss",
+    "time": "2026-09-18T11:24:59.000Z"
   }
 ]
