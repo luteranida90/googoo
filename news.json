@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ТАСС: в 30 регионах России с начала суток объявляли тревогу",
-    "description": "В частности, в Крыму беспилотная опасность действует больше 10 часов",
-    "fullText": "В частности, в Крыму беспилотная опасность действует больше 10 часов",
+    "title": "В Калмыкии избиратели приехали на выборы на верблюдах",
+    "description": "Это были владельцы фермы \"Верблюжий остров\" - семья Очиргоряевых",
+    "fullText": "Это были владельцы фермы \"Верблюжий остров\" - семья Очиргоряевых",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28123769",
-    "time": "2026-09-18T05:13:09.000Z"
+    "url": "https://tass.ru/politika/28125133",
+    "time": "2026-09-18T10:16:56.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "«Мы регулярно участвуем в забегах по Золотому кольцу, а после вкусно обедаем и гуляем по городу»",
-    "description": "Истории участников марафонов.",
-    "fullText": "Истории участников марафонов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/8c/a66ef7a164401907dfeda765eb9e0.png",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
+    "description": "Приглашаем!",
+    "fullText": "Приглашаем!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/97/80d2415524273ad20b7115d64635e.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://specials.sports.ru/magnit-marathon/start?utm_source=native",
-    "time": "2026-09-17T21:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9iZXRib29t",
-    "title": "Тут решает точность: построй футбольную башню – и борись за призы",
-    "description": "iPhone 18 Pro Max, PS5 Pro и куча других призов.",
-    "fullText": "iPhone 18 Pro Max, PS5 Pro и куча других призов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/cd/dafc26de34b39a9184cc514583bbb.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://betboom.ru/actions/tower?utm_source=cyber_sports&utm_medium=cyber&utm_campaign=tower_freebet&utm_term=materials&utm_content=CYBERSPORTS",
-    "time": "2026-09-17T19:30:00.000Z"
+    "url": "https://sirena.sports.ru/101-museum/?ref=sports&ref2=main&ref3=supertop",
+    "time": "2026-09-18T08:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ветер перемен. Попадет ли Зайон когда-нибудь в плей-офф?",
-    "description": "Зайон в болотах.",
-    "fullText": "Зайон в болотах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/6/e3/2032a9aa74b5b852f76b49447eaf8.jpeg",
+    "title": "Умер Сергей Чепиков – наш великий биатлонист, Полковник",
+    "description": "Ему было 59 лет.",
+    "fullText": "Ему было 59 лет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/db/380874a434f7db147f2274f93353c.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3449205.html",
-    "time": "2026-09-17T18:40:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3498503.html",
+    "time": "2026-09-18T05:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Rockstar выпустит Grand Theft Auto VI: The Album — в сборник войдут 34 оригинальных музыкальных трека",
-    "description": "Шесть синглов уже доступны.",
-    "fullText": "Шесть синглов уже доступны.",
-    "image": "https://leonardo.osnova.io/1f9ae6af-ed6c-5f3a-89c1-73ef5f8a826a/",
+    "title": "Для The Rogue Prince of Persia выпустили крупный апдейт в честь первой годовщины с полного релиза",
+    "description": "В игру, помимо прочего, добавили новую стихию.",
+    "fullText": "В игру, помимо прочего, добавили новую стихию.",
+    "image": "https://leonardo.osnova.io/f81a1c7d-284f-52d6-af5b-d5cfd1e0249f/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/music/5304347-rockstar-albom-grand-theft-auto-vi?from=rss",
-    "time": "2026-09-17T12:18:45.000Z"
+    "url": "https://dtf.ru/games/5304916-obnovlenie-dlya-the-rogue-prince-of-persia?from=rss",
+    "time": "2026-09-17T17:59:49.000Z"
   }
 ]
