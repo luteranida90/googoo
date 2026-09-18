@@ -1,46 +1,68 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Калмыкии избиратели приехали на выборы на верблюдах",
-    "description": "Это были владельцы фермы \"Верблюжий остров\" - семья Очиргоряевых",
-    "fullText": "Это были владельцы фермы \"Верблюжий остров\" - семья Очиргоряевых",
+    "title": "Ново-Екатерининский сквер в центре Москвы обновили",
+    "description": "При проведении работ сохранили планировочную структуру",
+    "fullText": "При проведении работ сохранили планировочную структуру",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/28125133",
-    "time": "2026-09-18T10:16:56.000Z"
+    "url": "https://tass.ru/obschestvo/28126945",
+    "time": "2026-09-18T17:43:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Разбаньте, плиз!» Палмер словил бан на стриме за слив EA Sports FC 27",
+    "description": "Стартанул раньше времени.",
+    "fullText": "Стартанул раньше времени.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/61/a285416cc4e29a2a26b6ff3ebe6b1.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3496045.html",
+    "time": "2026-09-18T17:15:00.000Z"
+  },
+  {
+    "id": "aHR0cDovL3ZpZGVvLnNw",
+    "title": "Топ-матч в КХЛ – «Локомотив» принимает «Авангард». Смотрим в эфире «Матч ТВ» на ВидеоСпортсе’‘",
+    "description": "Клуб из Ярославля пока без потерь.",
+    "fullText": "Клуб из Ярославля пока без потерь.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/69/c1b68f36947ecbe116d3c9a872693.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "http://video.sports.ru/hockey/khl/match/avangard-vs-lokomotiv-yaroslavl/",
+    "time": "2026-09-18T16:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Музей русского футбола в 101 предмете. Уникальный проект Спортса‘’",
-    "description": "Приглашаем!",
-    "fullText": "Приглашаем!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/97/80d2415524273ad20b7115d64635e.png",
+    "title": "Помните, как в детстве все рубились в эту игру? Воссоздали ее в 3D",
+    "description": "Раньше было лучше.",
+    "fullText": "Раньше было лучше.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/d1/847c0af5a4afba4fc0f92f9db5861.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/101-museum/?ref=sports&ref2=main&ref3=supertop",
-    "time": "2026-09-18T08:45:00.000Z"
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-09-18T15:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Умер Сергей Чепиков – наш великий биатлонист, Полковник",
-    "description": "Ему было 59 лет.",
-    "fullText": "Ему было 59 лет.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/db/380874a434f7db147f2274f93353c.jpeg",
+    "title": "Двойник Мбаппе из России: стал звездой 2Drots из-за сходства, его троллил Слуцкий",
+    "description": "Российский диктатор.",
+    "fullText": "Российский диктатор.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/56/1505f67e54695b880591bd904d852.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/biathlon/blogs/3498503.html",
-    "time": "2026-09-18T05:50:00.000Z"
+    "url": "https://www.sports.ru/mediafootball/blogs/3488167.html",
+    "time": "2026-09-18T13:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Для The Rogue Prince of Persia выпустили крупный апдейт в честь первой годовщины с полного релиза",
-    "description": "В игру, помимо прочего, добавили новую стихию.",
-    "fullText": "В игру, помимо прочего, добавили новую стихию.",
-    "image": "https://leonardo.osnova.io/f81a1c7d-284f-52d6-af5b-d5cfd1e0249f/-/format/mp4/",
+    "title": "Второй сезон «Гангстерленда» с Томом Харди стартовал на Paramount+",
+    "description": "По словам критиков, шоу ещё не достигло уровня «Клана Сопрано», но стремится к нему.",
+    "fullText": "По словам критиков, шоу ещё не достигло уровня «Клана Сопрано», но стремится к нему.",
+    "image": "https://leonardo.osnova.io/0fc19eea-cb5b-5d76-a32a-9de77b588c2b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5304916-obnovlenie-dlya-the-rogue-prince-of-persia?from=rss",
-    "time": "2026-09-17T17:59:49.000Z"
+    "url": "https://dtf.ru/cinema/5306184-vtoroy-sezon-gangsterlenda?from=rss",
+    "time": "2026-09-18T12:28:07.000Z"
   }
 ]
