@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"2ГИС\" узнал, как изменилось количество кинотеатров в городах-миллионниках",
-    "description": "К сентябрю их стало меньше на 2% по сравнению с аналогичным периодом 2025 года",
-    "fullText": "К сентябрю их стало меньше на 2% по сравнению с аналогичным периодом 2025 года",
+    "title": "В Сеуле заявили, что КНДР запустила еще одну ракету",
+    "description": "Там ранее отмечали, что 20 сентября около 09:00 мск из района Вонсана в сторону Японского моря была запущена баллистическая ракета малой дальности",
+    "fullText": "Там ранее отмечали, что 20 сентября около 09:00 мск из района Вонсана в сторону Японского моря была запущена баллистическая ракета малой дальности",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28129967",
-    "time": "2026-09-20T04:39:41.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28130791",
+    "time": "2026-09-20T09:36:46.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Мадридское дерби уже сегодня! Ставьте на «Атлетико» – «Реал» с бонусами от партнеров Спортса’‘",
+    "description": "Топ-футбол по-испански.",
+    "fullText": "Топ-футбол по-испански.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/b1/88cbda5c5498abc58edb6fb6c3dc7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/Nx0r",
+    "time": "2026-09-20T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Что подарить олдовому болельщику? Его футбольные воспоминания",
+    "description": "Коллекция Музея русского футбола в магазине Спортса’‘.",
+    "fullText": "Коллекция Музея русского футбола в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-09-20T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Блин, я выступаю!» Валиева кайфует, несмотря ни на что, а ее тренер сделала жест для ISU",
-    "description": "Заждались?",
-    "fullText": "Заждались?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/8b/2d543279d4f978e1f8e40245de3cf.jpeg",
+    "title": "Ну вы видели, как Царукян вырубил нокаутера из Бразилии?",
+    "description": "Следили в онлайне.",
+    "fullText": "Следили в онлайне.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/5f/0702c59f446b78c60f8cf4217b21e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3503170.html",
-    "time": "2026-09-19T19:50:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3463470.html",
+    "time": "2026-09-20T05:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Аналитик: японские студии проводят меньше сокращений из-за маленьких команд и более скромных зарплат руководства",
-    "description": "По его мнению, западные компании могли бы перенять опыт коллег.",
-    "fullText": "По его мнению, западные компании могли бы перенять опыт коллег.",
-    "image": "https://leonardo.osnova.io/f5c2a276-af0e-58ec-bf73-4b601245728a/",
+    "title": "Endless Legend 2 покинула ранний доступ — в 4X-стратегии появилась шестая фракция",
+    "description": "До 1 октября на игру действует скидка 50%.",
+    "fullText": "До 1 октября на игру действует скидка 50%.",
+    "image": "https://leonardo.osnova.io/09e7894b-309c-5dbc-9d39-88ed9db8b775/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5305961-yaponskie-studii-igrovoy-industrii?from=rss",
-    "time": "2026-09-18T10:10:33.000Z"
+    "url": "https://dtf.ru/games/5306480-endless-legend-2-vyshla-iz-rannego-dostupa?from=rss",
+    "time": "2026-09-18T16:06:51.000Z"
   }
 ]
