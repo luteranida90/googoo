@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Дипломат Данон: Израиль находится на связи с Госдепом из-за ожидаемых протестов",
-    "description": "Иерусалим следит за сообщениями о возможных протестных акциях в Нью-Йорке, отметил постпред еврейского государства при ООН",
-    "fullText": "Иерусалим следит за сообщениями о возможных протестных акциях в Нью-Йорке, отметил постпред еврейского государства при ООН",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Мирошник заявил, что атакой на Таганрог Киев показал свою террористическую сущность",
+    "description": "Повреждены многоквартирные и частные дома, склад маркетплейса Ozon и другие учреждения",
+    "fullText": "Повреждены многоквартирные и частные дома, склад маркетплейса Ozon и другие учреждения",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260428/9010039.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28140651",
-    "time": "2026-09-22T17:28:06.000Z"
+    "url": "https://tass.ru/obschestvo/28140961",
+    "time": "2026-09-22T20:02:43.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Торпедо» – «Авангард» на новой арене: смотрим в эфире «Матч ТВ» на ВидеоСпортсе’’",
-    "description": "У Омска два поражения подряд.",
-    "fullText": "У Омска два поражения подряд.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/3f/b24bd6763447e85b53c87911b66ed.jpeg",
+    "title": "Ву бесит VPN, он любит борщ, учит русский и набьет ромбик при чемпионстве. Подкаст с Мостовым!",
+    "description": "Раньше жил рядом с Мбаппе.",
+    "fullText": "Раньше жил рядом с Мбаппе.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/f1/f3f2261e44669aaf7395ca06cca49.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/hockey/khl/match/torpedo-nn-vs-avangard/",
-    "time": "2026-09-22T16:30:00.000Z"
+    "url": "https://video.sports.ru/video/pT8Lov0ENeIBxHE0ZiaHUqkvU1ShwkR-kdMuacZjVWw",
+    "time": "2026-09-22T19:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9ydWdieS5y",
+    "title": "Игра: занеси попытку с регбистом и выиграй скидку на билеты на финал Кубка России!",
+    "description": "",
+    "fullText": "",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/ab/853590e804423936e5cd9739d53f0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://rugby.ru/rugby-runner/",
+    "time": "2026-09-22T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Семь наблюдений о старте сезона «МЮ»",
-    "description": "Не только плохое.",
-    "fullText": "Не только плохое.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/8d/056ff7f424f12b6d5835974e50a16.jpeg",
+    "title": "Сменилась власть в мировом биатлоне. Словенец Фарчник вернет Россию?",
+    "description": "«Понятный нам человек».",
+    "fullText": "«Понятный нам человек».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/b3/6cc46aaaa45ca8a7033e40d5d4b9b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3508761.html",
-    "time": "2026-09-22T14:15:00.000Z"
+    "url": "https://www.sports.ru/biathlon/blogs/3509943.html",
+    "time": "2026-09-22T16:15:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Глава Sonic Team рассказал, что SEGA планировала закрыть франшизу, но передумала из-за успеха первого фильма",
-    "description": "По его словам, ёжик Шэдоу сейчас догоняет Соника по популярности.",
-    "fullText": "По его словам, ёжик Шэдоу сейчас догоняет Соника по популярности.",
-    "image": "https://leonardo.osnova.io/65722e09-d89f-5e37-9a39-907c701d9a7f/",
+    "title": "Remedy призвала фанатов не делиться спойлерами Control Resonant без предупреждения",
+    "description": "Предварительный доступ к игре уже стартовал на PS5, а на стримингах выпустили оригинальные песни для экшен-RPG.",
+    "fullText": "Предварительный доступ к игре уже стартовал на PS5, а на стримингах выпустили оригинальные песни для экшен-RPG.",
+    "image": "https://leonardo.osnova.io/72736a74-a2bd-58b4-a5d5-68824f054396/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5312861-takasi-iidzuka-o-sudbe-franshizy-sonic?from=rss",
-    "time": "2026-09-22T10:19:03.000Z"
+    "url": "https://dtf.ru/games/5313345-remedy-prizvala-fanativ-ne-delitsya-spoylerami-control-resonant?from=rss",
+    "time": "2026-09-22T14:55:15.000Z"
   }
 ]
