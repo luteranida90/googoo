@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РФ ждут появления новых потребителей угольной продукции",
-    "description": "",
-    "fullText": "",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Эксперт Красноженов назвал объемы добычи угля в РФ в 2026 году",
+    "description": "Она может быть в диапазоне 430-435 млн тонн, а экспорт достигнет 205-210 млн тонн, считает руководитель дирекции инвестиционной и отраслевой аналитики Альфа-банка",
+    "fullText": "Она может быть в диапазоне 430-435 млн тонн, а экспорт достигнет 205-210 млн тонн, считает руководитель дирекции инвестиционной и отраслевой аналитики Альфа-банка",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260923/9415297.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28142049",
-    "time": "2026-09-23T07:06:28.000Z"
+    "url": "https://tass.ru/ekonomika/28143441",
+    "time": "2026-09-23T12:39:01.000Z"
   },
   {
     "id": "aHR0cHM6Ly9ydWdieS5y",
-    "title": "Игра: занеси попытку с регбистом и выиграй скидку на билеты на финал Кубка России!",
-    "description": "",
-    "fullText": "",
+    "title": "Занеси попытку с регбистом и выиграй скидку на билеты на финал Кубка России!",
+    "description": "Матч уже 27 сентября.",
+    "fullText": "Матч уже 27 сентября.",
     "image": "https://photobooth.cdn.sports.ru/preset/article/4/ab/853590e804423936e5cd9739d53f0.png",
     "source": "Sports.ru",
     "category": "all",
     "url": "https://rugby.ru/rugby-runner/",
-    "time": "2026-09-23T00:45:00.000Z"
+    "time": "2026-09-23T12:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "КХЛ сияет ярко! Забирайте бонусы от букмекеров для ставок на наш хоккей",
+    "description": "Поддерживайте лучших.",
+    "fullText": "Поддерживайте лучших.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/e5/f62421bcd48c8b5ef1f457af7f028.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/AjpfI",
+    "time": "2026-09-23T11:39:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Я был на жесточайшем дерби «Миллуолл» – «Вест Хэм». Каково это изнутри?",
-    "description": "Наш блогер – из южного Лондона.",
-    "fullText": "Наш блогер – из южного Лондона.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/f8/f34840c684186a8816ab492d62c2c.jpeg",
+    "title": "Джерси с автографами Кросби и Кучерова – ради добрых дел. Рассказываем об аукционе для фонда Сергачева",
+    "description": "На платформе Fan’s Dream.",
+    "fullText": "На платформе Fan’s Dream.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/cf/33f9e60e544098ee4db7c6a0c6358.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3502452.html",
-    "time": "2026-09-22T21:20:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3510622.html",
+    "time": "2026-09-23T08:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "EA Sports FC 27 заняла вторую строчку в чарте Steam среди платных игр и устройств — на фоне предварительного доступа для предзаказавших",
-    "description": "Лидерство продолжает удерживать Wardogs.",
-    "fullText": "Лидерство продолжает удерживать Wardogs.",
-    "image": "https://leonardo.osnova.io/4f4dd2fb-942a-5a71-9d92-0228deaf0bbc/",
+    "title": "«Сердце зверя» Дэвида Эйра с Брэдом Питтом в главной роли стартовало с 96% одобрения на Rotten Tomatoes",
+    "description": "Критики похвалили эмоциональную связь героя с псом.",
+    "fullText": "Критики похвалили эмоциональную связь героя с псом.",
+    "image": "https://leonardo.osnova.io/7e6ab5e6-4e41-5851-a7e9-3cd460d1a18c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5313784-ea-sports-fc-27-vtoroje-mesto-v-chartah-steam?from=rss",
-    "time": "2026-09-22T19:08:13.000Z"
+    "url": "https://dtf.ru/cinema/5313429-film-serdce-zverya-brad-pitt?from=rss",
+    "time": "2026-09-22T16:17:06.000Z"
   }
 ]
