@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве отменили воздушную тревогу",
-    "description": "В красной зоне остаются Житомирская, Киевская, Полтавская, Сумская, Харьковская и Черниговская области",
-    "fullText": "В красной зоне остаются Житомирская, Киевская, Полтавская, Сумская, Харьковская и Черниговская области",
+    "title": "В альплагере \"Безенги\" рекомендовали не посещать место обвала на горе Мижирги",
+    "description": "Там ранее погибли 17 человек",
+    "fullText": "Там ранее погибли 17 человек",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28145059",
-    "time": "2026-09-24T02:09:20.000Z"
+    "url": "https://tass.ru/obschestvo/28146087",
+    "time": "2026-09-24T08:27:44.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "Подарок для тех, кто помнит голы Кержакова",
-    "description": "Лимитированный мерч в магазине Спортса’‘.",
-    "fullText": "Лимитированный мерч в магазине Спортса’‘.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/9/c4/5ec36306e4f88ba6f48c5ff1e2c7b.png",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Участвуете в марафонах? Вспомните самые теплые истории из забегов",
+    "description": "Как начался ваш путь?",
+    "fullText": "Как начался ваш путь?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/c8/c5c91ed564ec9a6b73038c24fec7d.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=vynos&utm_campaign=kerzh-gol-2026&utm_content=material",
-    "time": "2026-09-23T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Казанский в гостях у Бельского: обсудили главное про «Челси» и «МЮ»",
-    "description": "Какие у них проблемы и кто закончит выше?",
-    "fullText": "Какие у них проблемы и кто закончит выше?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/be/efd7cceeb4bc0a529c75198be56d3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/O3OciJqglR7_wxg98IfQsUvu010mbk-aY2Men76gNCg",
-    "time": "2026-09-23T18:50:00.000Z"
+    "url": "https://specials.sports.ru/magnit-marathon/start?utm_source=native",
+    "time": "2026-09-24T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Большой разговор с Данилом Круговым – самым медийным футболистом РПЛ",
-    "description": "О самоиронии, хейте и медиабренде.",
-    "fullText": "О самоиронии, хейте и медиабренде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b0/fef7140f74c1885adf2aeeae5b8c7.jpeg",
+    "title": "Такого игрока в настольный теннис у России не было 20 лет. Интервью о том, как стать своим в чужом виде спорта",
+    "description": "Владимир Сидоренко на связи.",
+    "fullText": "Владимир Сидоренко на связи.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/63/040ade0c44da1b68dfb635a278d8d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3510479.html",
-    "time": "2026-09-23T18:10:00.000Z"
+    "url": "https://www.sports.ru/ping-pong/blogs/3500332.html",
+    "time": "2026-09-23T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: следующим фильмом Роберта Эггерса станет адаптация «Ромео и Джульетты»",
-    "description": "Focus Features приобрела права на ленту за 70 миллионов долларов.",
-    "fullText": "Focus Features приобрела права на ленту за 70 миллионов долларов.",
-    "image": "https://leonardo.osnova.io/f928ac21-9c43-5a82-b25f-cf211f97169c/",
+    "title": "Фильм «Искусственный» об OpenAI с Юрой Борисовым и Эндрю Гарфилдом получит официальный прокат в РФ",
+    "description": "Выпустить картину в стране пообещали зимой 2027 года.",
+    "fullText": "Выпустить картину в стране пообещали зимой 2027 года.",
+    "image": "https://leonardo.osnova.io/2fd6c142-db8e-5e68-9cd3-755b0f8639c0/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5314629-robert-eggers-adaptatsiya-romeo-i-dzhuletty?from=rss",
-    "time": "2026-09-23T09:45:35.000Z"
+    "url": "https://dtf.ru/cinema/5298313-film-iskusstvennyj-ob-openai?from=rss",
+    "time": "2026-09-23T16:30:25.000Z"
   }
 ]
