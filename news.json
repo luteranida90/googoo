@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Ярославле после ремонта открыли детскую школу искусств имени Алмазова",
-    "description": "В помещениях обновили классы и залы, заменили коммуникации",
-    "fullText": "В помещениях обновили классы и залы, заменили коммуникации",
+    "title": "В Киеве отменили воздушную тревогу",
+    "description": "В красной зоне остаются Житомирская, Киевская, Полтавская, Сумская, Харьковская и Черниговская области",
+    "fullText": "В красной зоне остаются Житомирская, Киевская, Полтавская, Сумская, Харьковская и Черниговская области",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28144507",
-    "time": "2026-09-23T17:07:34.000Z"
+    "url": "https://tass.ru/proisshestviya/28145059",
+    "time": "2026-09-24T02:09:20.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Помните стильный свитер у вратарей «Ромы» в нулевых? Вы можете его выиграть",
-    "description": "В футбольной Аркаде.",
-    "fullText": "В футбольной Аркаде.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/a/e3/1d30993774fc8be29d80e90327b46.png",
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Подарок для тех, кто помнит голы Кержакова",
+    "description": "Лимитированный мерч в магазине Спортса’‘.",
+    "fullText": "Лимитированный мерч в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/c4/5ec36306e4f88ba6f48c5ff1e2c7b.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-09-23T15:30:00.000Z"
+    "url": "https://shop.sports.ru/kerzhakov?utm_source=sports&utm_medium=vynos&utm_campaign=kerzh-gol-2026&utm_content=material",
+    "time": "2026-09-23T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Казанский в гостях у Бельского: обсудили главное про «Челси» и «МЮ»",
+    "description": "Какие у них проблемы и кто закончит выше?",
+    "fullText": "Какие у них проблемы и кто закончит выше?",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/be/efd7cceeb4bc0a529c75198be56d3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/O3OciJqglR7_wxg98IfQsUvu010mbk-aY2Men76gNCg",
+    "time": "2026-09-23T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Этого игрока сборной Аргентины и чемпиона мира назвали в честь футбольной легенды из Уругвая",
-    "description": "Тоже стал чемпионом.",
-    "fullText": "Тоже стал чемпионом.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/6/65/7ded6e20547c69b473827e1e5131b.png",
+    "title": "Большой разговор с Данилом Круговым – самым медийным футболистом РПЛ",
+    "description": "О самоиронии, хейте и медиабренде.",
+    "fullText": "О самоиронии, хейте и медиабренде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/b0/fef7140f74c1885adf2aeeae5b8c7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/special/hot-or-haaland?utm_source=native",
-    "time": "2026-09-23T13:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3510479.html",
+    "time": "2026-09-23T18:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Международная версия «Обители зла» Зака Креггера отличается от варианта для США",
-    "description": "Поскольку постановщик рисковал сорвать дедлайны.",
-    "fullText": "Поскольку постановщик рисковал сорвать дедлайны.",
-    "image": "https://leonardo.osnova.io/f6e62fce-88ec-58bd-b95b-c95088199b70/",
+    "title": "СМИ: следующим фильмом Роберта Эггерса станет адаптация «Ромео и Джульетты»",
+    "description": "Focus Features приобрела права на ленту за 70 миллионов долларов.",
+    "fullText": "Focus Features приобрела права на ленту за 70 миллионов долларов.",
+    "image": "https://leonardo.osnova.io/f928ac21-9c43-5a82-b25f-cf211f97169c/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5314481-mezhdunarodnaya-versiya-obitel-zla-zaka-kreggera?from=rss",
-    "time": "2026-09-23T08:30:07.000Z"
+    "url": "https://dtf.ru/cinema/5314629-robert-eggers-adaptatsiya-romeo-i-dzhuletty?from=rss",
+    "time": "2026-09-23T09:45:35.000Z"
   }
 ]
