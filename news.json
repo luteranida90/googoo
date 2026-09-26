@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Фигуристы Фефелова и Валов назвали Фурнье-Бодри и Сизерона своими кумирами",
-    "description": "В России любимым дуэтом для них являются Василиса Кагановская и Максим Некрасов",
-    "fullText": "В России любимым дуэтом для них являются Василиса Кагановская и Максим Некрасов",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260926/9424939.jpg",
+    "title": "В Киеве произошли новые взрывы",
+    "description": "В городе была объявлена воздушная тревога",
+    "fullText": "В городе была объявлена воздушная тревога",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28154851",
-    "time": "2026-09-26T15:04:33.000Z"
+    "url": "https://tass.ru/proisshestviya/28155249",
+    "time": "2026-09-26T18:08:52.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Встреча Сафонова и Мостового, Литвин и Равшан на базе, турецкие откровения Батракова. Сборная России: новый день",
-    "description": "Матвей играет в нарды?",
-    "fullText": "Матвей играет в нарды?",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/d1/664b2d6364c4ca85e79188b9fada0.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Как английский школьник, нарушивший футбольные правила, изобрел новый вид спорта",
+    "description": "Счастливая случайность.",
+    "fullText": "Счастливая случайность.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/58/4c6dce22c417c976819bdd5f2c8e0.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/oN8nNQvYDiAVHmmsgjhXMbR2nhfLdbauSniM_EwJeUg",
-    "time": "2026-09-26T10:50:00.000Z"
+    "url": "https://sirena.sports.ru/rugby-history/?utm_source=native",
+    "time": "2026-09-26T18:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "«После забега китайские туристки попросили о фото – почувствовала себя суперзвездой». Яркие истории марафонцев",
+    "description": "Взгляд изнутри.",
+    "fullText": "Взгляд изнутри.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/59/9f89f43a84a6aa77df315e9424a55.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://specials.sports.ru/magnit-marathon/start?utm_source=native",
+    "time": "2026-09-26T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как я три года готовился к первому марафону, чтобы наслаждаться им все 42 километра",
-    "description": "Рассказ Глеба Чернявского.",
-    "fullText": "Рассказ Глеба Чернявского.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/7f/ac099c49b4d1baf1ab7e0115e6770.jpeg",
+    "title": "Икарди запретили водить машину в Аргентине до 2099-го. Из-за нарушений и просроченных прав",
+    "description": "Снова не обошлось без девушки.",
+    "fullText": "Снова не обошлось без девушки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/bf/300b47c3948dfae53b0f3ca91d0a3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/athletics/blogs/3516796.html",
-    "time": "2026-09-26T10:30:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3513870.html",
+    "time": "2026-09-26T13:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Konami запустила на iOS и Android раздачу оригинальной Castlevania — в честь 40-летия франшизы",
-    "description": "Забрать игру можно в течение месяца.",
-    "fullText": "Забрать игру можно в течение месяца.",
-    "image": "https://leonardo.osnova.io/041c2978-9f2f-5fc9-b0e3-e04cdb7938f8/",
+    "title": "Разработчики Stranger Than Heaven показали механику управления музыкальной группой",
+    "description": "Шоу-бизнес станет важной частью повествования.",
+    "fullText": "Шоу-бизнес станет важной частью повествования.",
+    "image": "https://leonardo.osnova.io/5dbe81ae-7e1c-50d9-833d-6b1b89d03942/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/mobile/5319531-konami-vypustila-castlevania-na-ios-i-android?from=rss",
-    "time": "2026-09-25T15:47:50.000Z"
+    "url": "https://dtf.ru/games/5319720-stranger-than-heaven-upravlenie-muzikalnoj-gruppoj?from=rss",
+    "time": "2026-09-25T17:58:40.000Z"
   }
 ]
