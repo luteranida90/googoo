@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Киеве произошли новые взрывы",
-    "description": "В городе была объявлена воздушная тревога",
-    "fullText": "В городе была объявлена воздушная тревога",
+    "title": "В аэропорту Сочи ввели ограничения",
+    "description": "Они необходимы для обеспечения безопасности полетов",
+    "fullText": "Они необходимы для обеспечения безопасности полетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28155249",
-    "time": "2026-09-26T18:08:52.000Z"
+    "url": "https://tass.ru/obschestvo/28155389",
+    "time": "2026-09-26T20:54:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Только ваш любимый спорт. Ничего лишнего",
+    "description": "Откройте «Мою Ленту».",
+    "fullText": "Откройте «Мою Ленту».",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/1a/cf1101df4413a87e09a8505fd07ce.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-09-26T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,26 +33,15 @@
     "time": "2026-09-26T18:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjaWFs",
-    "title": "«После забега китайские туристки попросили о фото – почувствовала себя суперзвездой». Яркие истории марафонцев",
-    "description": "Взгляд изнутри.",
-    "fullText": "Взгляд изнутри.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/0/59/9f89f43a84a6aa77df315e9424a55.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://specials.sports.ru/magnit-marathon/start?utm_source=native",
-    "time": "2026-09-26T16:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Икарди запретили водить машину в Аргентине до 2099-го. Из-за нарушений и просроченных прав",
-    "description": "Снова не обошлось без девушки.",
-    "fullText": "Снова не обошлось без девушки.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/bf/300b47c3948dfae53b0f3ca91d0a3.jpeg",
+    "title": "«Нефтехимик» – лидер Востока! Мы сами в шоке",
+    "description": "Самая веселая команда КХЛ.",
+    "fullText": "Самая веселая команда КХЛ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/1c/3488d82644833be775191946068a8.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3513870.html",
-    "time": "2026-09-26T13:10:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3519952.html",
+    "time": "2026-09-26T16:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
