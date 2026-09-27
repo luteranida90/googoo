@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Сочи ввели ограничения",
-    "description": "Они необходимы для обеспечения безопасности полетов",
-    "fullText": "Они необходимы для обеспечения безопасности полетов",
+    "title": "В Киеве объявляли воздушную тревогу",
+    "description": "Сирены работали 44 минуты",
+    "fullText": "Сирены работали 44 минуты",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28155389",
-    "time": "2026-09-26T20:54:00.000Z"
+    "url": "https://tass.ru/proisshestviya/28155449",
+    "time": "2026-09-26T22:49:38.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zcHJ0cy5j",
@@ -22,6 +22,17 @@
     "time": "2026-09-26T19:30:00.000Z"
   },
   {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Я впервые взошла на семитысячник – Пик Ленина! Новый пост Варвары Прохоровой на Трибуне",
+    "description": "Горная болезнь, лыжи, деньги.",
+    "fullText": "Горная болезнь, лыжи, деньги.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/a0/c2d221c324e979585eac858467c87.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/skiing/blogs/3516609.html",
+    "time": "2026-09-26T18:51:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
     "title": "Как английский школьник, нарушивший футбольные правила, изобрел новый вид спорта",
     "description": "Счастливая случайность.",
@@ -31,17 +42,6 @@
     "category": "all",
     "url": "https://sirena.sports.ru/rugby-history/?utm_source=native",
     "time": "2026-09-26T18:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«Нефтехимик» – лидер Востока! Мы сами в шоке",
-    "description": "Самая веселая команда КХЛ.",
-    "fullText": "Самая веселая команда КХЛ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/1c/3488d82644833be775191946068a8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3519952.html",
-    "time": "2026-09-26T16:25:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
