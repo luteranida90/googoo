@@ -1,57 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ТАСС расскажут о декаде пожилого человека в Новосибирской области",
-    "description": "Спикером выступит заместитель министра труда и социального развития Новосибирской области Татьяна Савченко",
-    "fullText": "Спикером выступит заместитель министра труда и социального развития Новосибирской области Татьяна Савченко",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "Сафонов не покинет расположение сборной России после матча с иранцами",
+    "description": "После матча с иранцами сборная России 3 октября в Екатеринбурге встретится с командой Намибии, а 6 октября сыграет с нигерийцами в Нижнем Новгороде",
+    "fullText": "После матча с иранцами сборная России 3 октября в Екатеринбурге встретится с командой Намибии, а 6 октября сыграет с нигерийцами в Нижнем Новгороде",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260929/9433659.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/novosti-regionov/28161251",
-    "time": "2026-09-29T07:09:22.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Ждем всех 2 октября на «ЦСКА-Арене» – на новом шоу «Дискотека 90-х на льду» от Евгении Медведевой",
-    "description": "Уже через 3 дня!",
-    "fullText": "Уже через 3 дня!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/bc/a3f29f9674a278ceba46cd9a09538.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sprts.cc/em_native?erid=2SDnjeibHDM",
-    "time": "2026-09-29T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "😳 Российский олигарх строит в Баку искусственный остров с треком «Ф-1» за $16 млрд!",
-    "description": "Новый проект владельцев «Крокуса».",
-    "fullText": "Новый проект владельцев «Крокуса».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/9c/609215b5746b6b3224566ee68780d.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3514778.html",
-    "time": "2026-09-28T21:10:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Да что ж вы за люди!» Новое шоу Разина после матча – кого приложил на этот раз?",
-    "description": "«Опять я завелся…»",
-    "fullText": "«Опять я завелся…»",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/0a/6a451f9af4a1a89c5951c745bf6c3.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/tPj4tpjHDS6zvX_Z_qsqliof9wcI7h5qe8DC_uIPAuQ",
-    "time": "2026-09-28T20:45:00.000Z"
+    "url": "https://tass.ru/sport/28163771",
+    "time": "2026-09-29T18:53:51.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Ghost of Yotei добавят броню в духе The Last of Us",
-    "description": "Она появится в игре уже 1 октября.",
-    "fullText": "Она появится в игре уже 1 октября.",
-    "image": "https://leonardo.osnova.io/9ccb297c-4173-542a-8f75-2a978bfca84b/",
+    "title": "8,6 миллиарда убитых зомби и 11 тысяч лет, проведённых в игре: статистика Dying Light: The Beast за год с релиза",
+    "description": "Самым опасным зомби оказался прыгун.",
+    "fullText": "Самым опасным зомби оказался прыгун.",
+    "image": "https://leonardo.osnova.io/13f01184-5d2c-5d2e-b4c5-3c7b7066f9bc/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5324539-bronya-v-stile-the-last-of-us-dlya-ghost-of-yotei?from=rss",
-    "time": "2026-09-28T18:04:52.000Z"
+    "url": "https://dtf.ru/games/5325975-statistika-dying-light-the-beast?from=rss",
+    "time": "2026-09-29T15:26:13.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Марченко, Мерзликин и Бобровский – в «Лифс», «Миннесота» сохранила баланс русских. Таблица переходов НХЛ",
+    "description": "Уследили за всем.",
+    "fullText": "Уследили за всем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/8e/57fbfe63b425390df1ed66117e8d8.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3513434.html",
+    "time": "2026-09-29T14:30:00.000Z"
   }
 ]
