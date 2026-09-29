@@ -1,14 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "КНДР обвинила США в подрыве международной системы ядерного нераспространения",
-    "description": "МИД республики подчеркнул, что Вашингтон своими действиями усиливает риски новой гонки вооружений",
-    "fullText": "МИД республики подчеркнул, что Вашингтон своими действиями усиливает риски новой гонки вооружений",
+    "title": "В ТАСС расскажут о декаде пожилого человека в Новосибирской области",
+    "description": "Спикером выступит заместитель министра труда и социального развития Новосибирской области Татьяна Савченко",
+    "fullText": "Спикером выступит заместитель министра труда и социального развития Новосибирской области Татьяна Савченко",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28160497",
-    "time": "2026-09-29T00:45:32.000Z"
+    "url": "https://tass.ru/novosti-regionov/28161251",
+    "time": "2026-09-29T07:09:22.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Ждем всех 2 октября на «ЦСКА-Арене» – на новом шоу «Дискотека 90-х на льду» от Евгении Медведевой",
+    "description": "Уже через 3 дня!",
+    "fullText": "Уже через 3 дня!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/d/bc/a3f29f9674a278ceba46cd9a09538.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/em_native?erid=2SDnjeibHDM",
+    "time": "2026-09-29T04:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "😳 Российский олигарх строит в Баку искусственный остров с треком «Ф-1» за $16 млрд!",
+    "description": "Новый проект владельцев «Крокуса».",
+    "fullText": "Новый проект владельцев «Крокуса».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/9c/609215b5746b6b3224566ee68780d.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3514778.html",
+    "time": "2026-09-28T21:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -22,36 +44,14 @@
     "time": "2026-09-28T20:45:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "«Девятая планета» – антивоенная фантастика о любви ко всему живому",
-    "description": "С Юрой Борисовым и Ириной Старшенбаум!",
-    "fullText": "С Юрой Борисовым и Ириной Старшенбаум!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/5/40/01c23c2d046a4b985121f62394cc6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3524116.html",
-    "time": "2026-09-28T20:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "$127,5 млн! Потолок зарплат в НХЛ продолжает расти",
-    "description": "О дивный новый мир.",
-    "fullText": "О дивный новый мир.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/4/08/9759dfb3b4d0cb75fe75d786dfa0b.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3519437.html",
-    "time": "2026-09-28T19:20:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Очень много вопросов»: второй трейлер фильма «Отель „У погибшего альпиниста“» по мотивам повести братьев Стругацких",
-    "description": "Лента выйдет в прокат 28 января.",
-    "fullText": "Лента выйдет в прокат 28 января.",
-    "image": "https://leonardo.osnova.io/88acd431-55f9-5ae2-a00e-69f1ea717036/-/format/mp4/",
+    "title": "В Ghost of Yotei добавят броню в духе The Last of Us",
+    "description": "Она появится в игре уже 1 октября.",
+    "fullText": "Она появится в игре уже 1 октября.",
+    "image": "https://leonardo.osnova.io/9ccb297c-4173-542a-8f75-2a978bfca84b/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5323785-treyler-filma-otel-u-pogibshhego-alpinista?from=rss",
-    "time": "2026-09-28T11:08:58.000Z"
+    "url": "https://dtf.ru/games/5324539-bronya-v-stile-the-last-of-us-dlya-ghost-of-yotei?from=rss",
+    "time": "2026-09-28T18:04:52.000Z"
   }
 ]
