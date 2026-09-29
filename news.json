@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Стоимость золота опустилась ниже $4 200",
-    "description": "Это произошло впервые с 5 августа 2026 года",
-    "fullText": "Это произошло впервые с 5 августа 2026 года",
+    "title": "КНДР обвинила США в подрыве международной системы ядерного нераспространения",
+    "description": "МИД республики подчеркнул, что Вашингтон своими действиями усиливает риски новой гонки вооружений",
+    "fullText": "МИД республики подчеркнул, что Вашингтон своими действиями усиливает риски новой гонки вооружений",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28157537",
-    "time": "2026-09-28T06:58:39.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28160497",
+    "time": "2026-09-29T00:45:32.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Космос во Второй лиге: Шевченко из «Калуги» закинул с центра поля 🤯",
-    "description": "Ждем в 433.",
-    "fullText": "Ждем в 433.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ed/e11bce3a944dcb758cf30e0ed0482.jpeg",
+    "title": "«Да что ж вы за люди!» Новое шоу Разина после матча – кого приложил на этот раз?",
+    "description": "«Опять я завелся…»",
+    "fullText": "«Опять я завелся…»",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/0a/6a451f9af4a1a89c5951c745bf6c3.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/PMLs04r0gAxetuLhJbCMYupT4ajEE0W2wN4yeHEoEOU",
-    "time": "2026-09-27T19:40:00.000Z"
+    "url": "https://video.sports.ru/video/tPj4tpjHDS6zvX_Z_qsqliof9wcI7h5qe8DC_uIPAuQ",
+    "time": "2026-09-28T20:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Девятая планета» – антивоенная фантастика о любви ко всему живому",
+    "description": "С Юрой Борисовым и Ириной Старшенбаум!",
+    "fullText": "С Юрой Борисовым и Ириной Старшенбаум!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/40/01c23c2d046a4b985121f62394cc6.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3524116.html",
+    "time": "2026-09-28T20:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему «Ред Булл» не приказал Ферстаппену пропустить напарника в Баку?",
-    "description": "Мог бы, но зачем?",
-    "fullText": "Мог бы, но зачем?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/2f/e11e4a4ee403e92d0a436cc57dfa2.jpeg",
+    "title": "$127,5 млн! Потолок зарплат в НХЛ продолжает расти",
+    "description": "О дивный новый мир.",
+    "fullText": "О дивный новый мир.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/08/9759dfb3b4d0cb75fe75d786dfa0b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3522426.html",
-    "time": "2026-09-27T19:17:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3519437.html",
+    "time": "2026-09-28T19:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Marvel&#039;s Wolverine получила патч с возможностью отключить визуальные подсказки для поиска коллекционных предметов",
-    "description": "Изменения не затронули голубой дым.",
-    "fullText": "Изменения не затронули голубой дым.",
-    "image": "https://leonardo.osnova.io/76042b6b-8f34-5f3f-aa1d-6e8f96de7f19/",
+    "title": "«Очень много вопросов»: второй трейлер фильма «Отель „У погибшего альпиниста“» по мотивам повести братьев Стругацких",
+    "description": "Лента выйдет в прокат 28 января.",
+    "fullText": "Лента выйдет в прокат 28 января.",
+    "image": "https://leonardo.osnova.io/88acd431-55f9-5ae2-a00e-69f1ea717036/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5320400-marvels-wolverine-obnovlenie-otklyuchenie-podskazok?from=rss",
-    "time": "2026-09-26T08:54:08.000Z"
+    "url": "https://dtf.ru/cinema/5323785-treyler-filma-otel-u-pogibshhego-alpinista?from=rss",
+    "time": "2026-09-28T11:08:58.000Z"
   }
 ]
