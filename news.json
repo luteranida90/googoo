@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Петросян выступит седьмой в короткой программе на турнире в Грузии",
-    "description": "Анна Фролова получила 11-й стартовый номер",
-    "fullText": "Анна Фролова получила 11-й стартовый номер",
+    "title": "Драка и экстренная посадка. Что известно об инциденте на борту самолета Flydubai",
+    "description": "Командир и второй пилот самолета госпитализированы с травмами, сообщила компания - оператор саудовских аэропортов Cluster 2",
+    "fullText": "Командир и второй пилот самолета госпитализированы с травмами, сообщила компания - оператор саудовских аэропортов Cluster 2",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28165395",
-    "time": "2026-09-30T08:40:24.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Один из величайших игроков в истории регби – русский князь, которого прозвали летающим",
-    "description": "Великий Оболенский.",
-    "fullText": "Великий Оболенский.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/3/58/4c6dce22c417c976819bdd5f2c8e0.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/rugby-history/?utm_source=native",
-    "time": "2026-09-30T04:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Жребием решали, кто выйдет в полуфинал Персидского кубка. Хотя Оман прошел бы сам, если бы игрок не снял футболку после гола",
-    "description": "Их сначала еще и обманули.",
-    "fullText": "Их сначала еще и обманули.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/c/28/a8c31aead44a08222f91e2c6a4b35.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3528443.html",
-    "time": "2026-09-29T22:55:00.000Z"
+    "url": "https://tass.ru/proisshestviya/28167275",
+    "time": "2026-09-30T15:14:37.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Xbox представила «мифическое» достижение — аналог «платинового» трофея с PlayStation",
-    "description": "Нововведение пока доступно лишь участникам программы Insider.",
-    "fullText": "Нововведение пока доступно лишь участникам программы Insider.",
-    "image": "https://leonardo.osnova.io/745ce466-885f-559a-b9f6-9e66cbbb63eb/",
+    "title": "Для Little Nightmares III вышло дополнение The Shores",
+    "description": "Цена в российском Steam составила 600 рублей.",
+    "fullText": "Цена в российском Steam составила 600 рублей.",
+    "image": "https://leonardo.osnova.io/51e9db0b-e776-5d18-b647-d0ffc63f73c0/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5326176-xbox-anonsirovala-mificheskoe-dostizhenie-analog-platinovogo-trofea?from=rss",
-    "time": "2026-09-29T16:51:13.000Z"
+    "url": "https://dtf.ru/games/5327490-dopolnenie-the-shores-dlya-little-nightmares-iii?from=rss",
+    "time": "2026-09-30T11:13:33.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Заведите питомца – и заберите призы!",
+    "description": "Дарим новые AirPods 5 и много фрибетов.",
+    "fullText": "Дарим новые AirPods 5 и много фрибетов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/36/9e2ad466f4ac2ba809e2481336fe1.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/special/tamagotchi/?utm_source=sports_material",
+    "time": "2026-09-30T09:30:00.000Z"
   }
 ]
