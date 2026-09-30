@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Сафонов не покинет расположение сборной России после матча с иранцами",
-    "description": "После матча с иранцами сборная России 3 октября в Екатеринбурге встретится с командой Намибии, а 6 октября сыграет с нигерийцами в Нижнем Новгороде",
-    "fullText": "После матча с иранцами сборная России 3 октября в Екатеринбурге встретится с командой Намибии, а 6 октября сыграет с нигерийцами в Нижнем Новгороде",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260929/9433659.jpg",
+    "title": "Расчеты \"Мста-С\" уничтожили \"Краснополем\" позиции ВСУ в Запорожской области",
+    "description": "",
+    "fullText": "",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28163771",
-    "time": "2026-09-29T18:53:51.000Z"
+    "url": "https://tass.ru/armiya-i-opk/28164189",
+    "time": "2026-09-30T02:01:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мы сделали афишу спорта – приходите на трибуны!",
+    "description": "«Спорт Сегодня».",
+    "fullText": "«Спорт Сегодня».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/d/98/60e268f524df5ba9b8daafc43bf82.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/others/blogs/3519279.html",
+    "time": "2026-09-29T19:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
@@ -20,16 +31,5 @@
     "category": "cybersport",
     "url": "https://dtf.ru/games/5325975-statistika-dying-light-the-beast?from=rss",
     "time": "2026-09-29T15:26:13.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Марченко, Мерзликин и Бобровский – в «Лифс», «Миннесота» сохранила баланс русских. Таблица переходов НХЛ",
-    "description": "Уследили за всем.",
-    "fullText": "Уследили за всем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/8e/57fbfe63b425390df1ed66117e8d8.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3513434.html",
-    "time": "2026-09-29T14:30:00.000Z"
   }
 ]
