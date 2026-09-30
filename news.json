@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Расчеты \"Мста-С\" уничтожили \"Краснополем\" позиции ВСУ в Запорожской области",
-    "description": "",
-    "fullText": "",
+    "title": "Петросян выступит седьмой в короткой программе на турнире в Грузии",
+    "description": "Анна Фролова получила 11-й стартовый номер",
+    "fullText": "Анна Фролова получила 11-й стартовый номер",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/28164189",
-    "time": "2026-09-30T02:01:17.000Z"
+    "url": "https://tass.ru/sport/28165395",
+    "time": "2026-09-30T08:40:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Один из величайших игроков в истории регби – русский князь, которого прозвали летающим",
+    "description": "Великий Оболенский.",
+    "fullText": "Великий Оболенский.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/58/4c6dce22c417c976819bdd5f2c8e0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/rugby-history/?utm_source=native",
+    "time": "2026-09-30T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мы сделали афишу спорта – приходите на трибуны!",
-    "description": "«Спорт Сегодня».",
-    "fullText": "«Спорт Сегодня».",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/d/98/60e268f524df5ba9b8daafc43bf82.png",
+    "title": "Жребием решали, кто выйдет в полуфинал Персидского кубка. Хотя Оман прошел бы сам, если бы игрок не снял футболку после гола",
+    "description": "Их сначала еще и обманули.",
+    "fullText": "Их сначала еще и обманули.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/c/28/a8c31aead44a08222f91e2c6a4b35.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3519279.html",
-    "time": "2026-09-29T19:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3528443.html",
+    "time": "2026-09-29T22:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "8,6 миллиарда убитых зомби и 11 тысяч лет, проведённых в игре: статистика Dying Light: The Beast за год с релиза",
-    "description": "Самым опасным зомби оказался прыгун.",
-    "fullText": "Самым опасным зомби оказался прыгун.",
-    "image": "https://leonardo.osnova.io/13f01184-5d2c-5d2e-b4c5-3c7b7066f9bc/",
+    "title": "Xbox представила «мифическое» достижение — аналог «платинового» трофея с PlayStation",
+    "description": "Нововведение пока доступно лишь участникам программы Insider.",
+    "fullText": "Нововведение пока доступно лишь участникам программы Insider.",
+    "image": "https://leonardo.osnova.io/745ce466-885f-559a-b9f6-9e66cbbb63eb/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5325975-statistika-dying-light-the-beast?from=rss",
-    "time": "2026-09-29T15:26:13.000Z"
+    "url": "https://dtf.ru/games/5326176-xbox-anonsirovala-mificheskoe-dostizhenie-analog-platinovogo-trofea?from=rss",
+    "time": "2026-09-29T16:51:13.000Z"
   }
 ]
