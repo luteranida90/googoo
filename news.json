@@ -1,14 +1,14 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Глава КС РФ: МУС игнорирует неонацизм на Украине и в Европе",
-    "description": "Валерий Зорькин заявил, что таким образом Международный уголовный суд отступет от заветов Нюрнбергского трибунала",
-    "fullText": "Валерий Зорькин заявил, что таким образом Международный уголовный суд отступет от заветов Нюрнбергского трибунала",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260930/9437653.jpg",
+    "title": "NASA рассчитывает, что аппарат для сведения МКС с орбиты будет готов в 2028 году",
+    "description": "Компания SpaceX будет хранить и обслуживать устройство, сообщила куратор программы на низкой околоземной орбите Дана Вайгел",
+    "fullText": "Компания SpaceX будет хранить и обслуживать устройство, сообщила куратор программы на низкой околоземной орбите Дана Вайгел",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28168065",
-    "time": "2026-09-30T19:58:11.000Z"
+    "url": "https://tass.ru/kosmos/28168405",
+    "time": "2026-09-30T23:28:47.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
@@ -33,25 +33,25 @@
     "time": "2026-09-30T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Bloomberg: 13 октября Apple представит дисплей для управления «умным» домом, новую колонку HomePod mini и приставку Apple TV",
-    "description": "Позже компания обновит и большую колонку HomePod.",
-    "fullText": "Позже компания обновит и большую колонку HomePod.",
-    "image": "https://leonardo.osnova.io/87b87972-693f-5f55-b45c-e442e00a510b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/hard/5328101-apple-predstavit-displei-dlya-umnogo-doma?from=rss",
-    "time": "2026-09-30T16:36:55.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В России игроманов теперь лечат по ОМС. Узнали, как устроена терапия",
-    "description": "Бесплатно и добровольно.",
-    "fullText": "Бесплатно и добровольно.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/d0/e3a7ece3c4db996f1c919f0844e83.jpeg",
+    "title": "Блевал на взвешивании и нокаутировал средним пальцем – все перформансы главного чудика UFC",
+    "description": "«Хочу шаму на твоей маме».",
+    "fullText": "«Хочу шаму на твоей маме».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/4/53/b5a2bf0c74da4bb7cef4b3344155e.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3513107.html",
-    "time": "2026-09-30T16:33:00.000Z"
+    "url": "https://www.sports.ru/boxing/blogs/3529492.html",
+    "time": "2026-09-30T17:55:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В ремастере «Ведьмака 3» улучшили геймплей, потому что это, «очевидно, самая слабая часть игры»",
+    "description": "Опыт работы над патчем 2.0 для Cyberpunk 2077 помог.",
+    "fullText": "Опыт работы над патчем 2.0 для Cyberpunk 2077 помог.",
+    "image": "https://leonardo.osnova.io/6af6f4da-008c-573b-a103-125ba6f74322/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5327425-vedmak-3-remaster-uluchshenie-geympleya?from=rss",
+    "time": "2026-09-30T10:39:52.000Z"
   }
 ]
