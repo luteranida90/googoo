@@ -1,46 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Если вы ребенок девяностых – эта коллекция для вас",
+    "description": "Мерч Музея русского футбола в магазине Спортса’‘.",
+    "fullText": "Мерч Музея русского футбола в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-10-02T19:30:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Страна\": в Киеве начали закрывать мосты во время воздушной тревоги",
-    "description": "На них образовались протяженные заторы",
-    "fullText": "На них образовались протяженные заторы",
+    "title": "Посольство РФ указало на усиление милитаристской риторики в Польше",
+    "description": "Диппредставительство сообщило, что в польское инфополе \"активно вбрасываются ни на чем не основанные слухи о якобы имеющейся \"вероятности\" проведения Российской Федерацией \"провокаций под чужим флагом\"",
+    "fullText": "Диппредставительство сообщило, что в польское инфополе \"активно вбрасываются ни на чем не основанные слухи о якобы имеющейся \"вероятности\" проведения Российской Федерацией \"провокаций под чужим флагом\"",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28176845",
-    "time": "2026-10-02T14:55:32.000Z"
+    "url": "https://tass.ru/politika/28177441",
+    "time": "2026-10-02T19:17:48.000Z"
   },
   {
     "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Все очки Кузнецова в «Сибири» – как прошли его два месяца в клубе?",
-    "description": "Четыре за восемь матчей.",
-    "fullText": "Четыре за восемь матчей.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/6a/21d5135824e9c896dbeae32bb3724.jpeg",
+    "title": "Пента-трик игрока «Реала» за сборную. Эспи прибил Сан-Марино U-21",
+    "description": "Смотрим голы.",
+    "fullText": "Смотрим голы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/5/b0/4437480a04b9f903044af5a96629b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/JQeOBIxoz34474y0hUMxPl22vFnTYeLVIBIFJPAvn6M",
-    "time": "2026-10-02T12:42:00.000Z"
+    "url": "https://video.sports.ru/video/vDo9ZNgP2672sROXcD4PWUiYTRNL7b-UENZK4E4HEpg",
+    "time": "2026-10-02T18:50:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Алонсо страдает в «Ф-1», но не уходит. И вот почему",
-    "description": "Будет гонять еще год.",
-    "fullText": "Будет гонять еще год.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/0a/e24b9403d4caea23c1591c958a76f.jpeg",
+    "title": "Это самый курьезный автогол в истории КХЛ – от вратаря «Салавата»",
+    "description": "Что случилось, Вязовой?",
+    "fullText": "Что случилось, Вязовой?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d2/f763069c747fb9409848fcd5d3250.gif",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3533014.html",
-    "time": "2026-10-02T11:13:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3535780.html",
+    "time": "2026-10-02T15:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Steam вышла российская экшен-RPG «Магия крови» 2005 года",
-    "description": "Со множеством улучшений.",
-    "fullText": "Со множеством улучшений.",
-    "image": "https://leonardo.osnova.io/3c312112-dc2a-5808-a85a-fb659149124a/",
+    "title": "Double Fine объявила победителя внутреннего джема — им стала визуальная новелла с элементами пошаговой RPG Plot Armor",
+    "description": "Голосование проходило среди участников краудфандинговой кампании.",
+    "fullText": "Голосование проходило среди участников краудфандинговой кампании.",
+    "image": "https://leonardo.osnova.io/5ee49e9c-4ad0-5baa-89c6-e8f62146bd91/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5330196-v-steam-vyshla-ekshen-rpg-magiya-krovi?from=rss",
-    "time": "2026-10-01T19:45:13.000Z"
+    "url": "https://dtf.ru/games/5331565-double-fine-pobeditel-indidzhema-plot-armor?from=rss",
+    "time": "2026-10-02T15:14:54.000Z"
   }
 ]
