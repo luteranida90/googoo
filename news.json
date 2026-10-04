@@ -1,27 +1,5 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Создатель двигателей для космических ракет. Биография Гарри Попова",
-    "description": "Ученый умер 4 октября в возрасте 91 года",
-    "fullText": "Ученый умер 4 октября в возрасте 91 года",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/info/28180667",
-    "time": "2026-10-04T16:39:39.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Заведите питомца – и заберите призы!",
-    "description": "Дарим новые AirPods 5 и много фрибетов.",
-    "fullText": "Дарим новые AirPods 5 и много фрибетов.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/36/9e2ad466f4ac2ba809e2481336fe1.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/special/tamagotchi/?utm_source=sports_material",
-    "time": "2026-10-04T14:00:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Как устроен наш мозг? Почему мы придумываем воспоминания? А переписать их можно?",
     "description": "Огромное интервью с психофизиологом.",
@@ -30,17 +8,50 @@
     "source": "Sports.ru",
     "category": "all",
     "url": "https://cyber.sports.ru/cinema/blogs/3514207.html",
-    "time": "2026-10-04T13:10:00.000Z"
+    "time": "2026-10-04T19:41:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "«Моя Лента» покажет, что интересно вам",
+    "description": "Ничего лишнего.",
+    "fullText": "Ничего лишнего.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/1a/cf1101df4413a87e09a8505fd07ce.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/pGts16g",
+    "time": "2026-10-04T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "UKMTO сообщил об инциденте с танкером у берегов Йемена",
+    "description": "Экипаж судна не пострадал",
+    "fullText": "Экипаж судна не пострадал",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28180829",
+    "time": "2026-10-04T19:20:24.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Мбаппе просит поддержку в гонке за «ЗМ». Но в «Реале» так не работает",
+    "description": "Предупреждает Юра La Saeta.",
+    "fullText": "Предупреждает Юра La Saeta.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/cf/e88af78a64194b0151f91285c9a62.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3534141.html",
+    "time": "2026-10-04T16:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Стартовый онлайн Gears of War: E-Day в Steam превысил 20 тысяч игроков — это рекорд для серии",
-    "description": "Цифра ещё может обновиться после полноценного релиза.",
-    "fullText": "Цифра ещё может обновиться после полноценного релиза.",
-    "image": "https://leonardo.osnova.io/e870fc53-2774-5bdd-af0e-b2430e019630/",
+    "title": "Объединённая компания Paramount и Warner Bros. получит название Skydance — наименования самих студий менять не будут",
+    "description": "«Что раньше было пределом, оказалось только началом».",
+    "fullText": "«Что раньше было пределом, оказалось только началом».",
+    "image": "https://leonardo.osnova.io/9451822d-de36-51a2-b742-9b5c5f8644bf/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5331212-gears-of-war-e-day-v-steam-rekord-po-kolichestvu-igrokov?from=rss",
-    "time": "2026-10-02T12:10:40.000Z"
+    "url": "https://dtf.ru/cinema/5331387-sliyanie-paramount-i-warner-bros-v-skydance?from=rss",
+    "time": "2026-10-02T13:57:02.000Z"
   }
 ]
