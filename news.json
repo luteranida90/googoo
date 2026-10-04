@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "В Киеве отменили воздушную тревогу",
+    "description": "Сирены звучали в городе более часа",
+    "fullText": "Сирены звучали в городе более часа",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28180955",
+    "time": "2026-10-04T21:56:26.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Легендарный сэйв, BMW в подарок, байки о 90-х – Тихонов в подкасте у Мостового",
+    "description": "Комбо легенд.",
+    "fullText": "Комбо легенд.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/d3/2a50aa4d94d89ab2a0921578f52e3.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/rWTy1e2p7PC1uRDB0bm8I7Pm9YstPqOSNB1Fd5AYNJs",
+    "time": "2026-10-04T20:29:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Как устроен наш мозг? Почему мы придумываем воспоминания? А переписать их можно?",
     "description": "Огромное интервью с психофизиологом.",
@@ -22,26 +44,15 @@
     "time": "2026-10-04T19:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "UKMTO сообщил об инциденте с танкером у берегов Йемена",
-    "description": "Экипаж судна не пострадал",
-    "fullText": "Экипаж судна не пострадал",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28180829",
-    "time": "2026-10-04T19:20:24.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Мбаппе просит поддержку в гонке за «ЗМ». Но в «Реале» так не работает",
-    "description": "Предупреждает Юра La Saeta.",
-    "fullText": "Предупреждает Юра La Saeta.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/cf/e88af78a64194b0151f91285c9a62.jpeg",
+    "title": "Ветер перемен. Что осталось у «Клипперс» после Кавая?",
+    "description": "56 сезонов, 0 финалов.",
+    "fullText": "56 сезонов, 0 финалов.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/e4/262b0aa7c4aa9baa84f326d6d193b.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3534141.html",
-    "time": "2026-10-04T16:10:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3537065.html",
+    "time": "2026-10-04T17:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
