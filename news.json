@@ -1,46 +1,79 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВС РФ поразили доставлявший военное имущество ВСУ в порт Одесса сухогруз",
-    "description": "Это произошло в результате удара беспилотными летательными аппаратами",
-    "fullText": "Это произошло в результате удара беспилотными летательными аппаратами",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261004/9447107.jpg",
+    "title": "Гран-при фестиваля \"Анимур\" взял китайский мультфильм \"Привет, Везунчик!\"",
+    "description": "Анимационный фильм рассказывает о молодом человеке, потерявшем радость жизни",
+    "fullText": "Анимационный фильм рассказывает о молодом человеке, потерявшем радость жизни",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/28179657",
-    "time": "2026-10-04T05:32:14.000Z"
+    "url": "https://tass.ru/kultura/28180365",
+    "time": "2026-10-04T12:12:32.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "История русского регби: от игр с английскими моряками до турне по Великобритании",
+    "description": "Начали в 19-м веке.",
+    "fullText": "Начали в 19-м веке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/3c/a5918a5fd4f88822be30d5aff73aa.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/rugby-history/start/?utm_source=native",
+    "time": "2026-10-04T11:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Тренер-легенда НФЛ показал свой город в Minecraft – строил 12 лет!",
+    "description": "Но команда играла лучше, пока он не знал про игру.",
+    "fullText": "Но команда играла лучше, пока он не знал про игру.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/6/d7/ead356a9c459495e1d2fcb86302fa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3535802.html",
+    "time": "2026-10-04T10:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "Что подарить олдовому болельщику? Его футбольные воспоминания",
+    "description": "Коллекция Музея русского футбола в магазине Спортса’‘.",
+    "fullText": "Коллекция Музея русского футбола в магазине Спортса’‘.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/e/20/6c27959f54c9dbe4a63f70d0b5d91.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://shop.sports.ru/museum-collection?utm_source=sports&utm_medium=vynos&utm_campaign=museum-2026&utm_content=material",
+    "time": "2026-10-04T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Гусев не играл полгода. Дебютировал – и «Сочи» влетел 0:6",
-    "description": "Понял, где оказался?",
-    "fullText": "Понял, где оказался?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/8c/e3bf4d9a34c15a1150c80149f2eee.jpeg",
+    "title": "Судороги – реалии «Ф-1»: Ферстаппен из-за них однажды потерял победу",
+    "description": "Нервы, перегрузка, жара.",
+    "fullText": "Нервы, перегрузка, жара.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/92/143497dd44e11bac75d7c2d347eec.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3538922.html",
-    "time": "2026-10-03T20:15:00.000Z"
+    "url": "https://www.sports.ru/health/blogs/3436104.html",
+    "time": "2026-10-04T08:55:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zcHJ0cy5j",
-    "title": "Выбирайте букмекера вместе с Жозе – португалец давно в теме",
-    "description": "Советует лучших.",
-    "fullText": "Советует лучших.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/3d/db3e0db694f0b96db8d438cea7e14.jpeg",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Самые неудачные трансферы в последний момент – кто стал провалом?",
+    "description": "Обсудили главные.",
+    "fullText": "Обсудили главные.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/1/a1/0bc07193b44038eb92984579d0239.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sprts.cc/Test_BK",
-    "time": "2026-10-03T19:50:00.000Z"
+    "url": "https://video.sports.ru/video/tVPbeROZ1jglti7veIbLNlFitBB97Y8IEPdHk3RYSqY",
+    "time": "2026-10-04T08:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы ARC Raiders анонсировали первый бесплатный период после релиза — он пройдёт с 8 по 12 октября",
-    "description": "На всех платформах.",
-    "fullText": "На всех платформах.",
-    "image": "https://leonardo.osnova.io/a603511c-4445-5cd6-b081-db337ece7e93/",
+    "title": "DOOM: The Dark Ages — Revelations получит режим с бесконечными сражениями",
+    "description": "Это будет бесплатное обновление.",
+    "fullText": "Это будет бесплатное обновление.",
+    "image": "https://leonardo.osnova.io/d9cb1fe4-9146-5332-9b39-b5fe0a89bcca/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5331784-besplatnyy-dostup-k-arc-raiders?from=rss",
-    "time": "2026-10-02T16:32:01.000Z"
+    "url": "https://dtf.ru/games/5331448-doom-the-dark-ages-besplatnyj-rezhim-slaughter-mode?from=rss",
+    "time": "2026-10-02T14:12:34.000Z"
   }
 ]
