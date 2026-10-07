@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Москве вручили премию имени Эдуарда Сагалаева",
-    "description": "В девяти основных номинациях вручили по две награды - за региональные и федеральные проекты",
-    "fullText": "В девяти основных номинациях вручили по две награды - за региональные и федеральные проекты",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261006/9454959.jpg",
+    "title": "Сергеачев отдал три передачи и не доиграл встречу с \"Нью-Джерси\" из-за травмы",
+    "description": "Защитнику \"Юты\" попала шайба в лицо",
+    "fullText": "Защитнику \"Юты\" попала шайба в лицо",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/28188237",
-    "time": "2026-10-06T19:05:28.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "«Ты – лучшее, что случалось в моей жизни». Фанаты трогательно прощаются с Месси в сборной Аргентины",
-    "description": "В рубрике «Что ты скажешь Лео?»",
-    "fullText": "В рубрике «Что ты скажешь Лео?»",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/b/4a/485181e5a4e0fab29044d6bdf9a3a.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/oLLufiANUPNoKsrg5MywP0q5tHDea1TcwX60e0ExxL8",
-    "time": "2026-10-06T18:41:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В Halo Studios намекнули, что в следующей части Halo собирались рассказать о Вечных — расе, представленной в Infinite",
-    "description": "Станет ли Activision придерживаться их идей, неизвестно.",
-    "fullText": "Станет ли Activision придерживаться их идей, неизвестно.",
-    "image": "https://leonardo.osnova.io/24aba1bf-328f-5124-b067-f8ca6c746a4b/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5338560-v-halo-studios-raskryli-plany-o-vechnyh?from=rss",
-    "time": "2026-10-06T14:42:33.000Z"
+    "url": "https://tass.ru/sport/28188793",
+    "time": "2026-10-07T03:58:53.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как Гретцки, Хоу и другие легенды проводили последние сезоны в НХЛ",
-    "description": "С кого брать пример Овечкину?",
-    "fullText": "С кого брать пример Овечкину?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/8c/fae43a0d544bab1b6d20824f40d25.jpeg",
+    "title": "Дерзкая Греция, 0:7 Хорватии и блеклый старт Клоппа. Все аномалии Лиги наций",
+    "description": "Чем запомнились 4 тура.",
+    "fullText": "Чем запомнились 4 тура.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/20/b734154b743b68575d6f94c3f4286.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3543998.html",
-    "time": "2026-10-06T14:40:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3545733.html",
+    "time": "2026-10-06T21:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Создатель «Евангелиона» Хидэаки Анно выступит режиссёром аниме «Космический крейсер „Ямато“ √2199»",
+    "description": "Производством займётся студия Khara, основанная постановщиком.",
+    "fullText": "Производством займётся студия Khara, основанная постановщиком.",
+    "image": "https://leonardo.osnova.io/bfa42e5b-1c9c-5b5b-b64c-42e791235214/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/anime/5338304-hideaki-anno-rezhisser-anime-kosmicheskiy-kreyser-yamato?from=rss",
+    "time": "2026-10-06T12:10:25.000Z"
   }
 ]
