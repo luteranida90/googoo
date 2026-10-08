@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Председателем Мурманской областной думы вновь избрали Сергея Дубового",
-    "description": "Парламентарии единогласно проголосовали за его кандидатуру",
-    "fullText": "Парламентарии единогласно проголосовали за его кандидатуру",
+    "title": "Оборот розничной торговли в РФ за восемь месяцев превысил показатель всего 2025 года",
+    "description": "За последние годы отрасль прошла серьезную трансформацию и вобрала в себя отечественные решения в области программного обеспечения, оборудования и транспорта, отметил замминистра промышленности и торговли Роман Чекушов",
+    "fullText": "За последние годы отрасль прошла серьезную трансформацию и вобрала в себя отечественные решения в области программного обеспечения, оборудования и транспорта, отметил замминистра промышленности и торговли Роман Чекушов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/politika/28193689",
-    "time": "2026-10-08T09:10:28.000Z"
+    "url": "https://tass.ru/ekonomika/28195643",
+    "time": "2026-10-08T16:33:16.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Еще 15 тезисов для абсурдного заявления Роналду – чтоб перед ним извинялся Жезуш",
-    "description": "Пошел согласовывать.",
-    "fullText": "Пошел согласовывать.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/34/0bac7a3dd4dbcbc44dc9bf4be33d7.jpeg",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "От всенародной травли до «Золотого мяча»: история великого Льва Яшина",
+    "description": "«Футбольный клуб» – о легенде.",
+    "fullText": "«Футбольный клуб» – о легенде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/2e/264c3c7bf4a6fb1c9f330c3d9d0a0.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3547266.html",
-    "time": "2026-10-07T22:20:00.000Z"
+    "url": "https://video.sports.ru/video/oJI7WJGYDSjM4eK9po6W1ztym6DWTt5DE5QOlNfiJbs",
+    "time": "2026-10-08T15:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Не дотягивает до „Социальной сети“» — «Социальная расплата» стартовала с 65% одобрения на Rotten Tomatoes",
-    "description": "Главным достоинством фильма критики назвали актёрский состав.",
-    "fullText": "Главным достоинством фильма критики назвали актёрский состав.",
-    "image": "https://leonardo.osnova.io/5fc5ff28-7776-5f08-a45c-88cd1d2838a9/",
+    "title": "Xbox открыла подразделение XP — оно будет заниматься экранизациями, потребительскими продуктами и стратегическими партнёрствами",
+    "description": "Направление возглавила руководитель Mojang Кейлен Уолтерс.",
+    "fullText": "Направление возглавила руководитель Mojang Кейлен Уолтерс.",
+    "image": "https://leonardo.osnova.io/b57a50d3-7c7a-5754-bd98-e618d772c7ba/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5340435-sotsialnaya-rasplata-otzyvy-i-kritika?from=rss",
-    "time": "2026-10-07T14:43:40.000Z"
+    "url": "https://dtf.ru/gameindustry/5342244-xbox-otkryvaet-novoe-podrazdelenie-xp?from=rss",
+    "time": "2026-10-08T12:24:36.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Он пробежал марафон в кроксах и побил мировой рекорд. Как и зачем?",
+    "description": "Яркий перформанс Искандера Ядгарова.",
+    "fullText": "Яркий перформанс Искандера Ядгарова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/a/c5/cf0433f624506b1c9039e7e222faa.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/others/blogs/3549996.html",
+    "time": "2026-10-08T12:10:00.000Z"
   }
 ]
