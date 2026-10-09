@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "\"Метриум\": спрос на массовые новостройки Москвы упал за год более чем в два раза",
-    "description": "Средневзвешенная цена квадратного метра составила 438 610 руб",
-    "fullText": "Средневзвешенная цена квадратного метра составила 438 610 руб",
+    "title": "Узбекский фильм \"Вата\" получил главный приз на фестивале \"Евразийский мост\"",
+    "description": "Кинолента рассказывает о женщине, которая проходит через череду проблем и трудностей и пытается найти новый смысл жизни, рассказал режиссер Рашид Маликов",
+    "fullText": "Кинолента рассказывает о женщине, которая проходит через череду проблем и трудностей и пытается найти новый смысл жизни, рассказал режиссер Рашид Маликов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/28197407",
-    "time": "2026-10-09T08:13:59.000Z"
+    "url": "https://tass.ru/kultura/28199065",
+    "time": "2026-10-09T15:16:16.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "В России правда вспышка чумы? Вот что известно точно",
-    "description": "Что там с Иркутском?",
-    "fullText": "Что там с Иркутском?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/9/de/c00e1dacb43ac9942ffd760ad0145.jpeg",
+    "title": "Сложность календаря РПЛ после сборных: «Зениту» нетрудно даже с «Краснодаром»",
+    "description": "На ближайшие три тура.",
+    "fullText": "На ближайшие три тура.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/e/c7/fc0f929274e65aedd09d34c74e5fb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/health/blogs/3548931.html",
-    "time": "2026-10-08T23:20:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3550703.html",
+    "time": "2026-10-09T11:55:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "В этой форме юный Месси блистал за сборную – разыгрываем ее",
+    "description": "Ушла эпоха.",
+    "fullText": "Ушла эпоха.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/68/eb5ef31484ecab0e1c755c47bcd8a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-10-09T11:35:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Состоялся релиз Clive Barker&#039;s Hellraiser: Revival от Saber Interactive",
-    "description": "Средняя оценка на агрегаторах пока варьируется от 69 до 75 баллов.",
-    "fullText": "Средняя оценка на агрегаторах пока варьируется от 69 до 75 баллов.",
-    "image": "https://leonardo.osnova.io/58fd89f6-adff-5d6c-990a-15e4cefd7c07/",
+    "title": "Digital Foundry: интеграция QSSR в старые игры на PS5 может быть сложной, если разработчикам придётся обновлять их под новый SDK",
+    "description": "Этот момент пока не прояснился.",
+    "fullText": "Этот момент пока не прояснился.",
+    "image": "https://leonardo.osnova.io/24238359-db76-5f62-bfdb-fa60b77f328f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5342333-reliz-clive-barkers-hellraiser-revival?from=rss",
-    "time": "2026-10-08T13:39:15.000Z"
+    "url": "https://dtf.ru/hard/5343982-integratsiya-qssr-v-starye-igry-na-ps5?from=rss",
+    "time": "2026-10-09T10:36:41.000Z"
   }
 ]
