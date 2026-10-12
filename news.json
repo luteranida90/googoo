@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В ГД предложили сделать общественный транспорт бесплатным для школьников",
-    "description": "Председатель партии \"Справедливая Россия\" Сергей Миронов также выступил за введение транспортной карты со скидкой 50% для учащихся вузов и колледжей",
-    "fullText": "Председатель партии \"Справедливая Россия\" Сергей Миронов также выступил за введение транспортной карты со скидкой 50% для учащихся вузов и колледжей",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261012/9468505.jpg",
+    "title": "Туск: в ФРГ задержали граждан Турции по делу о поджоге шлюза Starlink в Польше",
+    "description": "По словам премьер-министра республики, операция была проведена по заданию польских спецслужб",
+    "fullText": "По словам премьер-министра республики, операция была проведена по заданию польских спецслужб",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28204067",
-    "time": "2026-10-12T00:17:48.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28207125",
+    "time": "2026-10-12T18:10:31.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "«Битва моторов» – универсальное и практически идеальное приключение!",
+    "description": "Стоит смотреть, даже если вы не особо любите автогонки.",
+    "fullText": "Стоит смотреть, даже если вы не особо любите автогонки.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/09/13b1caba04d8da7a9470aac9bb494.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cinema/blogs/3553941.html",
+    "time": "2026-10-12T15:55:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Буря от наших фигуристов: небывалый элемент у Лутфуллина, а Дикиджи – 4-й в истории",
-    "description": "Даже Малилин такого не делал.",
-    "fullText": "Даже Малилин такого не делал.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/1d/6b1bc1dc14572b2bb8998ea96da10.jpeg",
+    "title": "Захарян забил в Ла Лиге! Впервые за полтора года",
+    "description": "Возвращаться в РПЛ рано?",
+    "fullText": "Возвращаться в РПЛ рано?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/0/e3/dffc99fac49a9910c424444fa021d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3556513.html",
-    "time": "2026-10-10T21:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3559985.html",
+    "time": "2026-10-12T12:44:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Авторы Beast of Reincarnation сообщили, что «цикл частых обновлений» завершится после выхода следующего патча",
-    "description": "Затем игру, вероятно, ждут, только экстренные исправления.",
-    "fullText": "Затем игру, вероятно, ждут, только экстренные исправления.",
-    "image": "https://leonardo.osnova.io/9a8fb6ea-6cb0-56cc-83a6-77ad0101482b/",
+    "title": "Стартовал сериал «Остров сокровищ»",
+    "description": "В том числе на «Амедиатеке».",
+    "fullText": "В том числе на «Амедиатеке».",
+    "image": "https://leonardo.osnova.io/b8119bf2-62be-57c3-809c-1e4716209d31/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5346051-obnovleniya-beast-of-reincarnation-zavershatsya?from=rss",
-    "time": "2026-10-10T11:51:43.000Z"
+    "url": "https://dtf.ru/cinema/5349592-serial-ostrov-sokrovisch?from=rss",
+    "time": "2026-10-12T10:41:43.000Z"
   }
 ]
