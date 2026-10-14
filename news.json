@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп заявил о скором начале работ по поиску полезных ископаемых в Гренландии",
-    "description": "Американский лидер подчеркнул важность острова для обеспечения безопасности США",
-    "fullText": "Американский лидер подчеркнул важность острова для обеспечения безопасности США",
+    "title": "Модули по ИИ будут во всех программах высшего образования начиная с 2027 года",
+    "description": "",
+    "fullText": "",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28211863",
-    "time": "2026-10-14T04:59:49.000Z"
+    "url": "https://tass.ru/obschestvo/28213237",
+    "time": "2026-10-14T10:16:17.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90cmFjay1i",
+    "title": "Топ-матч ЛЧ: «Манчестер Сити» vs «ПСЖ» с фрибетом",
+    "description": "до 20 000 рублей всем новичкам от Балтбет.",
+    "fullText": "до 20 000 рублей всем новичкам от Балтбет.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/f/16/a768bbf4740ebbaf97223a8499176.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://track-baltbet.ru/t25fipu56?utm_source=sports_ru&utm_medium=native_article&utm_campaign=sportsm&content=native_article",
+    "time": "2026-10-14T09:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Английский школьник нарушил футбольные правила и изобрел новый вид спорта",
+    "description": "Рассказали про регби.",
+    "fullText": "Рассказали про регби.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/58/4c6dce22c417c976819bdd5f2c8e0.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/rugby-history/chapter-1/?utm_source=native",
+    "time": "2026-10-14T07:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Наших гимнастов во главе с Мельниковой не пускают на ЧМ. Дегтярев рассердился",
-    "description": "Отказ в визах.",
-    "fullText": "Отказ в визах.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/a/be/a9354c4e943aea3d78b1e6c248419.jpeg",
+    "title": "Чьи шейхи богаче: «Сити» или «ПСЖ»?",
+    "description": "Разбор Игоря Сергеева.",
+    "fullText": "Разбор Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/6/9e/2798d826b4b54b7dd802e9380c54d.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/gymnastics/blogs/3560684.html",
-    "time": "2026-10-13T20:20:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3560827.html",
+    "time": "2026-10-14T06:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Star Wars: Galactic Racer возглавила чарт Steam среди платных игр",
-    "description": "Clive Barker's Hellraiser: Revival стартовала с десятой позиции.",
-    "fullText": "Clive Barker's Hellraiser: Revival стартовала с десятой позиции.",
-    "image": "https://leonardo.osnova.io/c8e090bc-180b-5953-b8cb-98ee05891f53/",
+    "title": "Дэн Хаузер о Max Payne 3: «Игра не обрела должного успеха — по большей части из-за моих решений»",
+    "description": "Сценарист, однако, считает что Rockstar проделала впечатляющую работу над экшеном.",
+    "fullText": "Сценарист, однако, считает что Rockstar проделала впечатляющую работу над экшеном.",
+    "image": "https://leonardo.osnova.io/17483c81-29d0-592d-9aed-73346f5b5dde/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5351875-star-wars-galactic-racer-chart-steam?from=rss",
-    "time": "2026-10-13T15:50:10.000Z"
+    "url": "https://dtf.ru/games/5351842-den-khauzer-o-max-payne-3-oshibki-v-razrabotke?from=rss",
+    "time": "2026-10-13T15:39:22.000Z"
   }
 ]
