@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В районе в Новосибирской области ввели решим повышенной готовности из-за медведей",
-    "description": "Жителей Куйбышевского района призвали ограничить пребывание в лесу",
-    "fullText": "Жителей Куйбышевского района призвали ограничить пребывание в лесу",
+    "title": "Актриса \"Секрета тропиканки\" объяснила мировой успех бразильских сериалов",
+    "description": "Глория Пирес считает, что душевность, талант актеров, сценарии и высокий уровень съемок заставили весь мир полюбить эти сериалы",
+    "fullText": "Глория Пирес считает, что душевность, талант актеров, сценарии и высокий уровень съемок заставили весь мир полюбить эти сериалы",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28216147",
-    "time": "2026-10-15T05:56:26.000Z"
+    "url": "https://tass.ru/obschestvo/28216583",
+    "time": "2026-10-15T11:42:16.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Мечтали о футболке Мальдини в детстве? Теперь ее можно выиграть в Аркаде",
+    "description": "Справится самый ловкий.",
+    "fullText": "Справится самый ловкий.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/c/3e/81eaecc234e0da6924428173f6b07.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-10-15T11:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Заочный спор Марески и Энрике: футбол принадлежит тренерам или игрокам «Сити» и «ПСЖ»?",
-    "description": "Палагин слушает аргументы.",
-    "fullText": "Палагин слушает аргументы.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/ce/608fc9afe4282944e8bf76f95360e.jpeg",
+    "title": "Возможно, самый таинственный судья фигурки – со странными оценками. Мы изучили его работу",
+    "description": "Крутихина – про Юрия Клюшникова.",
+    "fullText": "Крутихина – про Юрия Клюшникова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/99/e9f6fb3e04492a4f201e07de8d4a7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3560655.html",
-    "time": "2026-10-14T20:10:00.000Z"
+    "url": "https://www.sports.ru/figure-skating/blogs/3561022.html",
+    "time": "2026-10-15T08:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В мультфильме «Ведьмин лес» покажут самую масштабную битву в истории покадровой анимации",
-    "description": "В 12-минутной сцене участвуют три тысячи персонажей.",
-    "fullText": "В 12-минутной сцене участвуют три тысячи персонажей.",
-    "image": "https://leonardo.osnova.io/10d9be9b-bf47-5c04-a2b9-67080fbaa85d/",
+    "title": "«Они приходят ко мне во снах и просят о помощи» — трейлер аниме-сериала Cyberpunk: Edgerunners 2",
+    "description": "Все эпизоды выйдут уже 20 октября.",
+    "fullText": "Все эпизоды выйдут уже 20 октября.",
+    "image": "https://leonardo.osnova.io/01fb505e-1f4f-56e7-b34e-c5bece9ffaf6/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5353485-vedmin-les-masshtabnaya-bitva?from=rss",
-    "time": "2026-10-14T12:40:04.000Z"
+    "url": "https://dtf.ru/anime/5354257-oni-prihodyat-ko-mne-vo-snah-i-prosyat-o-pomoshi-treiler-anime-seriala-cyberpunk-edgerunners-2?from=rss",
+    "time": "2026-10-14T19:39:44.000Z"
   }
 ]
