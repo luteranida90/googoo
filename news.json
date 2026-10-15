@@ -1,35 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Великобритания пригрозила полностью прекратить выдачу виз гражданам Эритреи",
-    "description": "Африканская страна отказалась принимать обратно своих граждан, подлежащих депортации, утверждают в МВД Соединенного Королевства",
-    "fullText": "Африканская страна отказалась принимать обратно своих граждан, подлежащих депортации, утверждают в МВД Соединенного Королевства",
+    "title": "CENTCOM сообщило о возвращении авианосца George H. W. Bush в Аравийское море",
+    "description": "Экипаж и личный состав продолжают участвовать в операциях на Ближнем Востоке",
+    "fullText": "Экипаж и личный состав продолжают участвовать в операциях на Ближнем Востоке",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28219525",
-    "time": "2026-10-15T19:39:11.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "На Peacock вышел сериал «Хрустальное озеро» — приквел «Пятницы, 13-е»",
-    "description": "У шоу 78% одобрения на Rotten Tomatoes.",
-    "fullText": "У шоу 78% одобрения на Rotten Tomatoes.",
-    "image": "https://leonardo.osnova.io/216cf31a-83da-58b2-bc6b-2180ea260d86/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5355809-serial-hrustalnoe-ozero-na-peacock-prikvel-pyatnitsy-13?from=rss",
-    "time": "2026-10-15T15:48:27.000Z"
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/28219817",
+    "time": "2026-10-15T22:15:25.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как живая «Ф-1», но можно разрисовать болид – главные русские гонки изнутри",
-    "description": "Тотальное погружение в «500 верст» под Москвой.",
-    "fullText": "Тотальное погружение в «500 верст» под Москвой.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/e/03/758467bed454f8fe9f8012834ddf8.jpeg",
+    "title": "Кризис Соболенко в цифрах",
+    "description": "Провалила азиатскую серию.",
+    "fullText": "Провалила азиатскую серию.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/29/ec78a4dc440dfb356577edf1d93bb.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/automoto/blogs/3543545.html",
-    "time": "2026-10-15T14:10:00.000Z"
+    "url": "https://www.sports.ru/tennis/blogs/3563136.html",
+    "time": "2026-10-15T17:10:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "В It Takes Two добавили кроссплей между ПК и консолями",
+    "description": "Высокооценённая кооперативная игра также появилась на Switch 2.",
+    "fullText": "Высокооценённая кооперативная игра также появилась на Switch 2.",
+    "image": "https://leonardo.osnova.io/08b2ca20-c67e-5a5c-9309-6d15b501172b/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5355920-krosspley-v-it-takes-two?from=rss",
+    "time": "2026-10-15T16:44:07.000Z"
   }
 ]
