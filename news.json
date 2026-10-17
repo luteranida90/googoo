@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В \"Зарядье\" в честь юбилея Духового общества выступила 1 тыс. музыкантов",
-    "description": "В концертной программе приняли участие, в частности, народный артист России, саксофонист Игорь Бутман и мультиинструменталист Аркадий Шилклопер",
-    "fullText": "В концертной программе приняли участие, в частности, народный артист России, саксофонист Игорь Бутман и мультиинструменталист Аркадий Шилклопер",
+    "title": "Глава ЦБ КНР назвал факторы, сдерживающие рост мировой экономики",
+    "description": "Среди них торговые трения и протекционизм, отметил Пань Гуншэн",
+    "fullText": "Среди них торговые трения и протекционизм, отметил Пань Гуншэн",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kultura/28225391",
-    "time": "2026-10-17T12:47:06.000Z"
+    "url": "https://tass.ru/ekonomika/28225653",
+    "time": "2026-10-17T16:00:25.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "«Тесла» выпустила летающее авто! Водители будут делать кульбиты в воздухе, правда же?",
+    "description": "Шоу Илона Маска удалось.",
+    "fullText": "Шоу Илона Маска удалось.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/3/c1/29a3d443549b281475379e3685508.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/automoto/blogs/3563725.html",
+    "time": "2026-10-17T11:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
@@ -22,36 +33,14 @@
     "time": "2026-10-17T11:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Канадец из ЦСКА получил российское гражданство. Для чего ему это?",
-    "description": "Любит страну!",
-    "fullText": "Любит страну!",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/7f/e9a9bde7643b49fc01307734a1ce0.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/hockey/blogs/3563705.html",
-    "time": "2026-10-17T09:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9jeWJlci5z",
-    "title": "Обзор «Трудно быть богом». В чем наш сериал-блокбастер лучше, а в чем хуже «Игры престолов»?",
-    "description": "Безруков, Бондарчук и насилие.",
-    "fullText": "Безруков, Бондарчук и насилие.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/ea/b65a54e2245169bbb4e481e38dce6.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://cyber.sports.ru/cinema/blogs/3563149.html",
-    "time": "2026-10-17T08:30:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Фото: Роберт Паттинсон в роли злодея «Дюны 3»",
-    "description": "К необычному образу приложил руку режиссёр Дени Вильнёв.",
-    "fullText": "К необычному образу приложил руку режиссёр Дени Вильнёв.",
-    "image": "https://leonardo.osnova.io/507c56b6-c8c8-58fe-9750-2ce37cd93792/",
+    "title": "Анонсирован пиксельный ролевой экшен Drova II — Torn Lands",
+    "description": "У первой части восторженные отзывы от аудитории.",
+    "fullText": "У первой части восторженные отзывы от аудитории.",
+    "image": "https://leonardo.osnova.io/10e35a62-d656-50a8-82a7-bf36f48e6ad2/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5357739-robert-pattinson-zlodej-skajtejl-dyuna-3?from=rss",
-    "time": "2026-10-16T15:22:44.000Z"
+    "url": "https://dtf.ru/games/5357597-anons-drova-ii-torn-lands?from=rss",
+    "time": "2026-10-16T14:15:17.000Z"
   }
 ]
