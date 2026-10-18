@@ -1,24 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Помните легендарную футболку, в которой бегал за «Реал» Зидан?",
+    "description": "Мы ее разыгрываем.",
+    "fullText": "Мы ее разыгрываем.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/69/d23fbd71e49f788f5a5d68623bf52.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
+    "time": "2026-10-18T18:00:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кириленко уверен, что быть отцом - самая сложная профессия",
-    "description": "Сегодня в России отмечается День отца",
-    "fullText": "Сегодня в России отмечается День отца",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261018/9488979.jpg",
+    "title": "Российские саблисты стали бронзовыми призерами этапа Кубка мира в Алжире",
+    "description": "В поединке за бронзовые медали россияне победили команду Венгрии",
+    "fullText": "В поединке за бронзовые медали россияне победили команду Венгрии",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261018/9489277.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28227393",
-    "time": "2026-10-18T14:49:58.000Z"
+    "url": "https://tass.ru/sport/28227607",
+    "time": "2026-10-18T17:27:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Демонстранты во Франции разнесли офис флагманской команды по CS. Детали",
+    "description": "И украли трофей!",
+    "fullText": "И украли трофей!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/3/c6/c30925e0c4069aae34798c489bdef.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/cs/blogs/3564723.html",
+    "time": "2026-10-18T15:05:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Русский испанец Давидович-Фокина – первый чемпион «Мастерса» в разных носках",
+    "description": "Долгожданный триумф.",
+    "fullText": "Долгожданный триумф.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/d8/b10d805f4430eaf5a2acfdf0f0790.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/tennis/blogs/3564773.html",
+    "time": "2026-10-18T14:20:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Документальный фильм Нэйта Филдера «Увидеть всё» о мошеннице Элизабет Холмс покажут в кинотеатрах РФ",
-    "description": "Прокат начнётся 19 ноября.",
-    "fullText": "Прокат начнётся 19 ноября.",
-    "image": "https://leonardo.osnova.io/30d1204c-35a0-5891-95fe-ed7bc6187df0/",
+    "title": "The Finals получит соло-режим — в формате турнира с разными видами матчей",
+    "description": "В нём тиммейты точно не «заруинят» игру.",
+    "fullText": "В нём тиммейты точно не «заруинят» игру.",
+    "image": "https://leonardo.osnova.io/4eaa0258-122f-5802-bd36-323098ad2610/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5358174-dokumentalnyj-film-nejta-fildera-uvidet-vso?from=rss",
-    "time": "2026-10-16T18:37:23.000Z"
+    "url": "https://dtf.ru/games/5358211-the-finals-novyy-solo-rezhim-solo-showdown-dlya-turnirov?from=rss",
+    "time": "2026-10-16T19:43:19.000Z"
   }
 ]
