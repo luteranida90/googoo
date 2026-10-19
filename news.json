@@ -1,46 +1,57 @@
 [
   {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Денис Казанский ответил на ваши вопросы – новый выпуск Конференций на ВидеоСпортсе’‘!",
+    "description": "О «МЮ», АПЛ и личном.",
+    "fullText": "О «МЮ», АПЛ и личном.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/e7/219274d464ec794cdb63b8861dbc2.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/_klsBF0dg0QwaKutSsOoNwB1ZNLl328-6aqG6YqiQAk",
+    "time": "2026-10-19T12:01:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Трамп ответил, когда утвердит санкции против России",
-    "description": "Президент США заявил, что сделает это, когда сам того пожелает",
-    "fullText": "Президент США заявил, что сделает это, когда сам того пожелает",
+    "title": "Украинцы покидают Польшу из-за плохого отношения к ним",
+    "description": "Среди причин также рост социальной напряженности, \"чувство отчужденности\" и недовольство положением в стране",
+    "fullText": "Среди причин также рост социальной напряженности, \"чувство отчужденности\" и недовольство положением в стране",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/28227785",
-    "time": "2026-10-18T21:32:12.000Z"
+    "url": "https://tass.ru/obschestvo/28229731",
+    "time": "2026-10-19T11:49:33.000Z"
   },
   {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "Извинения Даку, радость Угальде и Солари, речь Зобнина – эмоции «Спартака» после 4:0 с «Рубином»",
-    "description": "Посвятили Никите Симоняну.",
-    "fullText": "Посвятили Никите Симоняну.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/79/f6cea7869412493f6e0c40385d91d.jpeg",
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Регби в СССР: война, переполненные трибуны и массовые драки",
+    "description": "Но все равно играли.",
+    "fullText": "Но все равно играли.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/66/9838c426540eb83e03a0b96eea5c7.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://video.sports.ru/video/nozfaKjDVVxo9s91nyejD1rI_Ce1pGzwN3bohDYp8RQ",
-    "time": "2026-10-18T20:05:00.000Z"
+    "url": "https://sirena.sports.ru/rugby-history/chapter-5/?utm_source=native",
+    "time": "2026-10-19T09:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Улетное дерби «Динамо» и ЦСКА. 5 быстрых мыслей",
-    "description": "От Андрея Савина.",
-    "fullText": "От Андрея Савина.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/8/6d/eb0b65cb44f9a853723cb8f832ee8.jpeg",
+    "title": "Как две подруги сделали удивительную газету о футболе – с историями из Сенегала, Восточного Тимора и Пешелани",
+    "description": "Узнала Любовь Курчавова.",
+    "fullText": "Узнала Любовь Курчавова.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/87/56b51ae084a0685f0bb2ef3001ec7.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3565305.html",
-    "time": "2026-10-18T18:50:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3564147.html",
+    "time": "2026-10-19T07:21:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "The Finals получит соло-режим — в формате турнира с разными видами матчей",
-    "description": "В нём тиммейты точно не «заруинят» игру.",
-    "fullText": "В нём тиммейты точно не «заруинят» игру.",
-    "image": "https://leonardo.osnova.io/4eaa0258-122f-5802-bd36-323098ad2610/",
+    "title": "Фильм по Street Fighter возглавил мировой прокат",
+    "description": "Картина собрала 51 миллион долларов в первые выходные.",
+    "fullText": "Картина собрала 51 миллион долларов в первые выходные.",
+    "image": "https://leonardo.osnova.io/07c58c32-36db-506e-9d26-6b8e72543836/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5358211-the-finals-novyy-solo-rezhim-solo-showdown-dlya-turnirov?from=rss",
-    "time": "2026-10-16T19:43:19.000Z"
+    "url": "https://dtf.ru/cinema/5361270-film-street-fighter-lider-mirovogo-prokata?from=rss",
+    "time": "2026-10-18T18:06:00.000Z"
   }
 ]
