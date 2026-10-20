@@ -1,35 +1,46 @@
 [
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Кравцов обсудил с главой Минобразования КНДР обмен опытом в сфере воспитания",
-    "description": "Во время переговоров стороны также затронули вопрос изучения русского языка в республике",
-    "fullText": "Во время переговоров стороны также затронули вопрос изучения русского языка в республике",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250619/8300283.jpg",
-    "source": "ТАСС Спорт",
+    "id": "aHR0cHM6Ly9zaG9wLnNw",
+    "title": "«Лысый шарлатан» вернулся в магазин Спортса’‘",
+    "description": "Собирайте полный образ.",
+    "fullText": "Собирайте полный образ.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/7/29/8c620441b4a07be5de98d60f5499b.png",
+    "source": "Sports.ru",
     "category": "all",
-    "url": "https://tass.ru/obschestvo/28231185",
-    "time": "2026-10-19T21:44:58.000Z"
+    "url": "https://shop.sports.ru/tproduct/818187659463-kepka-lisii-sharlatan?utm_source=sports&utm_medium=vynos&utm_campaign=kepka-lisii-sharlatan&utm_content=material",
+    "time": "2026-10-20T07:00:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Payday: Aces High выйдет 5 ноября — трейлер",
-    "description": "Игра будет доступна в том числе на Steam Frame.",
-    "fullText": "Игра будет доступна в том числе на Steam Frame.",
-    "image": "https://leonardo.osnova.io/6b793a1b-e815-56ba-92f2-9183dc37c400/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5363272-payday-aces-high-novyy-spin-off-vr-igry-ot-starbreeze?from=rss",
-    "time": "2026-10-19T19:00:23.000Z"
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Семин: футболист Гарин был простым парнем, его все любили",
+    "description": "Экс-игрок \"Локомотива\" Олег Гарин скончался в возрасте 60 лет",
+    "fullText": "Экс-игрок \"Локомотива\" Олег Гарин скончался в возрасте 60 лет",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261020/9493861.jpg",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/sport/28231977",
+    "time": "2026-10-20T06:56:06.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "НБА от А до Я: ультимативная азбука сезона",
-    "description": "33 главных слова.",
-    "fullText": "33 главных слова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/f/37/a0774d1ee42ebb21985d9c582b325.jpeg",
+    "title": "Как смотрели КХЛ в прошлом сезоне?",
+    "description": "Прайм-эра «Локомотива», рост Кинопоиска и лидерство «Матч ТВ».",
+    "fullText": "Прайм-эра «Локомотива», рост Кинопоиска и лидерство «Матч ТВ».",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/f4/76ab4dd24450fbf2b1c209c8b7abf.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3563883.html",
-    "time": "2026-10-19T18:40:00.000Z"
+    "url": "https://www.sports.ru/hockey/blogs/3543299.html",
+    "time": "2026-10-19T20:45:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Для Saros выпустили обновление Zenith с дополнительными режимами и расширенными параметрами доступности",
+    "description": "К патчу приурочили геймплейный трейлер.",
+    "fullText": "К патчу приурочили геймплейный трейлер.",
+    "image": "https://leonardo.osnova.io/103757c9-441c-5a28-8cee-4d72a6affec1/-/format/mp4/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/games/5362597-obnovlenie-zenith-dlya-saros-novye-rezhimy?from=rss",
+    "time": "2026-10-19T12:44:32.000Z"
   }
 ]
