@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В РКК \"Энергия\" рассказали об отличиях управления РОС от МКС",
-    "description": "Для Российской орбитальной станции создается так называемый спутниковый контур",
-    "fullText": "Для Российской орбитальной станции создается так называемый спутниковый контур",
+    "title": "Боец Лем: ВС РФ взяли в плен солдат ВСУ на Ореховском направлении",
+    "description": "Пленных удалось в сохранности довести до опорного пункта и передать для дальнейшего этапирования",
+    "fullText": "Пленных удалось в сохранности довести до опорного пункта и передать для дальнейшего этапирования",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/kosmos/28239915",
-    "time": "2026-10-22T00:31:29.000Z"
+    "url": "https://tass.ru/armiya-i-opk/28240541",
+    "time": "2026-10-22T06:11:11.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "С таким составом «Бавария» может дойти и до финала ЛЧ – а кто там вообще?",
+    "description": "Надо назвать!",
+    "fullText": "Надо назвать!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/52/d4717ec324e7c9cebb5eef35b321a.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
+    "time": "2026-10-22T04:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly8xMWJlc3Qu",
@@ -33,25 +44,14 @@
     "time": "2026-10-21T20:30:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "С таким составом «Бавария» может дойти и до финала ЛЧ – а кто там вообще?",
-    "description": "Надо назвать!",
-    "fullText": "Надо назвать!",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/2/52/d4717ec324e7c9cebb5eef35b321a.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/missing-player/?utm_source=native",
-    "time": "2026-10-21T20:15:00.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Xbox начала тест ограничения «облачного» стриминга по времени — десять часов стоят четыре доллара",
-    "description": "За 50 часов придётся заплатить 12 долларов.",
-    "fullText": "За 50 часов придётся заплатить 12 долларов.",
-    "image": "https://leonardo.osnova.io/785dc797-1657-50e7-9b3d-7a46cd177cfd/",
+    "title": "Продажи Fatekeeper превысили 500 тысяч копий",
+    "description": "Игра вышла в начале июня в раннем доступе.",
+    "fullText": "Игра вышла в начале июня в раннем доступе.",
+    "image": "https://leonardo.osnova.io/b40bd032-6292-56c8-952c-128bb5301e9f/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/gameindustry/5367398-xbox-testiruet-ogranicheniya-oblachnogo-striminga?from=rss",
-    "time": "2026-10-21T18:50:13.000Z"
+    "url": "https://dtf.ru/gameindustry/5366862-fatekeeper-prodazhi-uspeshnaya-rpg?from=rss",
+    "time": "2026-10-21T14:34:02.000Z"
   }
 ]
