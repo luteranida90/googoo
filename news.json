@@ -1,5 +1,27 @@
 [
   {
+    "id": "aHR0cHM6Ly90YXNzLnJ1",
+    "title": "Reuters сообщило о разливе нефти с танкера у побережья ОАЭ",
+    "description": "По информации агентства, все пляжи и прибрежные зоны в Умм-эль-Кайвайне закрыты",
+    "fullText": "По информации агентства, все пляжи и прибрежные зоны в Умм-эль-Кайвайне закрыты",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "source": "ТАСС Спорт",
+    "category": "all",
+    "url": "https://tass.ru/proisshestviya/28244597",
+    "time": "2026-10-23T02:57:04.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "10 громких предательств в футболе: от Кукурельи до Баринова",
+    "description": "Разбили сердца болельщикам.",
+    "fullText": "Разбили сердца болельщикам.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/a/71/b15b4f242433998739db66a527fa0.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/MMbRmbtiLbYYon1NREjxbw1Tupj9g7rOU_QrzCmlkCQ",
+    "time": "2026-10-22T22:25:00.000Z"
+  },
+  {
     "id": "aHR0cHM6Ly9jeWJlci5z",
     "title": "Темнокожий Северус Снейп – это хорошая идея. И вот почему",
     "description": "О повестке в сериале по «Гарри Поттеру».",
@@ -11,37 +33,26 @@
     "time": "2026-10-22T20:14:00.000Z"
   },
   {
-    "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В подконтрольном Киеву городе Запорожье произошел еще один взрыв",
-    "description": "На подконтрольной Киеву части Запорожской области действует воздушная тревога",
-    "fullText": "На подконтрольной Киеву части Запорожской области действует воздушная тревога",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
-    "source": "ТАСС Спорт",
-    "category": "all",
-    "url": "https://tass.ru/proisshestviya/28243975",
-    "time": "2026-10-22T19:58:40.000Z"
-  },
-  {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Помните легендарную футболку, в которой бегал за «Ювентус» Дель Пьеро?",
-    "description": "Мы ее разыгрываем.",
-    "fullText": "Мы ее разыгрываем.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/d/da/0c23aae9945fdab546abc967899dc.png",
+    "title": "История русского регби: от игр с английскими моряками до турне по Великобритании",
+    "description": "Начали в 19-м веке.",
+    "fullText": "Начали в 19-м веке.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/3c/a5918a5fd4f88822be30d5aff73aa.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/labyrinth/?utm_source=native",
-    "time": "2026-10-22T18:00:00.000Z"
+    "url": "https://sirena.sports.ru/rugby-history/chapter-1/?utm_source=native",
+    "time": "2026-10-22T19:30:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Ямаль летит на «ЗМ» отдельно от «Барсы». В прошлый раз готовил вечеринку и проиграл",
-    "description": "На частном самолете с близкими.",
-    "fullText": "На частном самолете с близкими.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/5/3e/4e300496444bfa7ed5cfb27164f9e.jpeg",
+    "title": "Новый турнир ФИФА пропускают 18 европейских сборных. Украина утверждает, что из-за России",
+    "description": "Разбор Игоря Сергеева.",
+    "fullText": "Разбор Игоря Сергеева.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/2/4f/2c31953334eea80db887cdf1992f9.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3567686.html",
-    "time": "2026-10-22T16:10:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3567799.html",
+    "time": "2026-10-22T18:45:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
