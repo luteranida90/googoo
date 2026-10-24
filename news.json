@@ -1,46 +1,35 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В аэропорту Уфы ввели временные ограничения",
-    "description": "Прием и выпуск самолетов приостановили",
-    "fullText": "Прием и выпуск самолетов приостановили",
-    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
+    "title": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
+    "description": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
+    "fullText": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
+    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261024/9510139.jpg",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28248953",
-    "time": "2026-10-24T04:13:52.000Z"
+    "url": "https://tass.ru/armiya-i-opk/28249363",
+    "time": "2026-10-24T08:53:57.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Главный взлет европейской фигурки – эстонец с русскими тренерами",
-    "description": "Александр Селевко – скрытый фаворит?",
-    "fullText": "Александр Селевко – скрытый фаворит?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/7/13/3cab86e4341d7bb18916436c18baf.jpeg",
+    "title": "«В Нью-Йорке меня узнают реже, чем в Юте». Интервью Егора Дёмина",
+    "description": "Перед стартом сезона НБА.",
+    "fullText": "Перед стартом сезона НБА.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/b/dc/e3a7d54984bca90ba34a0a1a29fad.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/figure-skating/blogs/3566176.html",
-    "time": "2026-10-23T19:40:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "«Лысый шарлатан» по акции! Футболка + кепка = бесплатная доставка",
-    "description": "Без жульничества.",
-    "fullText": "Без жульничества.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/29/8c620441b4a07be5de98d60f5499b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/sharlatan?utm_source=sports&utm_medium=vynos&utm_campaign=sharlatan&utm_content=material",
-    "time": "2026-10-23T19:30:00.000Z"
+    "url": "https://www.sports.ru/basketball/blogs/3565736.html",
+    "time": "2026-10-23T22:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Forbes: затраты на «Звёздный истребитель» c Райаном Гослингом к концу съёмок составили 226,5 миллиона долларов",
-    "description": "Выше, чем у «Пробуждения силы» на том же этапе.",
-    "fullText": "Выше, чем у «Пробуждения силы» на том же этапе.",
-    "image": "https://leonardo.osnova.io/b504a0a0-2349-5734-acdb-11749dd098ba/",
+    "title": "Вице-президент Total War напомнил, что разработкой переиздания Shogun 2 занимался сторонний партнёр, но признал вину за его качество",
+    "description": "Он также прояснил позицию студии касательно ИИ.",
+    "fullText": "Он также прояснил позицию студии касательно ИИ.",
+    "image": "https://leonardo.osnova.io/b15bac02-5072-502b-b03d-f4c12a0d6c18/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5370737-zvezdnye-voyny-byudzhet-zvezdnogo-istrebitelya?from=rss",
-    "time": "2026-10-23T12:07:04.000Z"
+    "url": "https://dtf.ru/games/5371242-problemy-pereizdaniya-total-war-shogun-2?from=rss",
+    "time": "2026-10-23T16:50:48.000Z"
   }
 ]
