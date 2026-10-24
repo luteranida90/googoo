@@ -1,35 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
-    "description": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
-    "fullText": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
-    "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261024/9510139.jpg",
+    "title": "\"Тоттенхэм\" благодаря автоголу вратаря победил \"Челси\" в матче чемпионата Англии",
+    "description": "Эта победа стала второй для \"Тоттенхэма\" в текущем розыгрыше турнира",
+    "fullText": "Эта победа стала второй для \"Тоттенхэма\" в текущем розыгрыше турнира",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/armiya-i-opk/28249363",
-    "time": "2026-10-24T08:53:57.000Z"
+    "url": "https://tass.ru/sport/28250191",
+    "time": "2026-10-24T18:34:03.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Титульники Евлоева и Яна и бой Волкова – лучший турнир года в UFC в прямом эфире «Матч ТВ» на ВидеоСпортсе’’",
+    "description": "Шоу в Абу-Даби.",
+    "fullText": "Шоу в Абу-Даби.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/26/5bd2a364045b690655573ab176b21.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/tv/match-tv",
+    "time": "2026-10-24T17:13:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "Финал трилогии Ян – Двалишвили: кто победит сегодня? Забирайте фрибеты и следите за боем",
+    "description": "Болеем за нашего.",
+    "fullText": "Болеем за нашего.",
+    "image": "https://photobooth.cdn.sports.ru/preset/news/2/67/1546e43774daf8f99a450b099d157.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/AjpfI",
+    "time": "2026-10-24T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«В Нью-Йорке меня узнают реже, чем в Юте». Интервью Егора Дёмина",
-    "description": "Перед стартом сезона НБА.",
-    "fullText": "Перед стартом сезона НБА.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/dc/e3a7d54984bca90ba34a0a1a29fad.jpeg",
+    "title": "«Золотой мяч» – кому? Ждем вашу пятерку лучших футболистов мира",
+    "description": "Успейте отдать свой голос.",
+    "fullText": "Успейте отдать свой голос.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/f/07/e055ab1054defaf2f7c7c4a68cf31.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/basketball/blogs/3565736.html",
-    "time": "2026-10-23T22:00:00.000Z"
+    "url": "https://www.sports.ru/football/blogs/3563704.html",
+    "time": "2026-10-24T14:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "Вице-президент Total War напомнил, что разработкой переиздания Shogun 2 занимался сторонний партнёр, но признал вину за его качество",
-    "description": "Он также прояснил позицию студии касательно ИИ.",
-    "fullText": "Он также прояснил позицию студии касательно ИИ.",
-    "image": "https://leonardo.osnova.io/b15bac02-5072-502b-b03d-f4c12a0d6c18/",
+    "title": "Science SARU анонсировала ещё одно аниме по «Призраку в доспехах»",
+    "description": "Студия показала первое промо-изображение.",
+    "fullText": "Студия показала первое промо-изображение.",
+    "image": "https://leonardo.osnova.io/6d982359-8905-5560-890c-0f5a85f2ea87/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5371242-problemy-pereizdaniya-total-war-shogun-2?from=rss",
-    "time": "2026-10-23T16:50:48.000Z"
+    "url": "https://dtf.ru/anime/5370844-science-saru-anonsirovala-novoe-anime-po-prizraku-v-dospehah?from=rss",
+    "time": "2026-10-23T12:45:00.000Z"
   }
 ]
