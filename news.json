@@ -1,14 +1,25 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Кузбассе произошло землетрясение магнитудой 4,8",
-    "description": "Эпицентр подземных толчков находился в 39 км к северо-западу от Киселевска",
-    "fullText": "Эпицентр подземных толчков находился в 39 км к северо-западу от Киселевска",
+    "title": "В аэропорту Уфы ввели временные ограничения",
+    "description": "Прием и выпуск самолетов приостановили",
+    "fullText": "Прием и выпуск самолетов приостановили",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28248657",
-    "time": "2026-10-23T23:17:08.000Z"
+    "url": "https://tass.ru/ekonomika/28248953",
+    "time": "2026-10-24T04:13:52.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Главный взлет европейской фигурки – эстонец с русскими тренерами",
+    "description": "Александр Селевко – скрытый фаворит?",
+    "fullText": "Александр Селевко – скрытый фаворит?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/7/13/3cab86e4341d7bb18916436c18baf.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/figure-skating/blogs/3566176.html",
+    "time": "2026-10-23T19:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaG9wLnNw",
@@ -20,17 +31,6 @@
     "category": "all",
     "url": "https://shop.sports.ru/sharlatan?utm_source=sports&utm_medium=vynos&utm_campaign=sharlatan&utm_content=material",
     "time": "2026-10-23T19:30:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Как две подруги сделали удивительную газету о футболе – с историями из Сенегала, Восточного Тимора и Пешелани",
-    "description": "Узнала Любовь Курчавова.",
-    "fullText": "Узнала Любовь Курчавова.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/87/56b51ae084a0685f0bb2ef3001ec7.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3564147.html",
-    "time": "2026-10-23T18:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
