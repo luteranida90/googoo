@@ -1,46 +1,68 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Эксперт Моор рассказал о влиянии условий семейной ипотеки на новые жилые проекты",
-    "description": "Застройщики будут учитывать изменения в льготной программе и подстраиваться под потребности семей с разным количеством детей при формировании квартирографии новых объектов, считает руководитель Всероссийского центра национальной строительной политики",
-    "fullText": "Застройщики будут учитывать изменения в льготной программе и подстраиваться под потребности семей с разным количеством детей при формировании квартирографии новых объектов, считает руководитель Всероссийского центра национальной строительной политики",
+    "title": "В ЛНР убрали 1,5 тыс. кв. м мусора после удара ВСУ по Луганску",
+    "description": "Также в домах закрыли тепловой контур более 30 окон",
+    "fullText": "Также в домах закрыли тепловой контур более 30 окон",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/nedvizhimost/28267595",
-    "time": "2026-10-29T14:21:45.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaG9wLnNw",
-    "title": "«Лысый шарлатан» вернулся в магазин Спортса’‘",
-    "description": "Собирайте полный образ.",
-    "fullText": "Собирайте полный образ.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/7/29/8c620441b4a07be5de98d60f5499b.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://shop.sports.ru/tproduct/818187659463-kepka-lisii-sharlatan?utm_source=sports&utm_medium=vynos&utm_campaign=kepka-lisii-sharlatan&utm_content=material",
-    "time": "2026-10-29T14:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«На сцене Кремля поняла, что заканчиваю со спортом». Интервью Марии Командной",
-    "description": "Где она сейчас?",
-    "fullText": "Где она сейчас?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/b/83/fa6310413482e824597543f5e362f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://www.sports.ru/others/blogs/3565475.html",
-    "time": "2026-10-29T10:50:00.000Z"
+    "url": "https://tass.ru/obschestvo/28268975",
+    "time": "2026-10-29T19:50:35.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "СМИ: хоррор «Улыбка 3» снимет режиссёр перезапуска «Восставшего из ада»",
-    "description": "Автор франшизы останется продюсером.",
-    "fullText": "Автор франшизы останется продюсером.",
-    "image": "https://leonardo.osnova.io/a368f36e-3035-5e55-9a71-de24d34c117b/",
+    "title": "Netflix работает над сериалом по мотивам PUBG — Дональд Гловер выступит режиссёром и исполнит главную роль",
+    "description": "Он также спродюсирует проект и напишет сценарий.",
+    "fullText": "Он также спродюсирует проект и напишет сценарий.",
+    "image": "https://leonardo.osnova.io/c0915398-e804-57f5-a8f0-918257055592/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/cinema/5381358-ulybka-3-novyy-rezhissyor?from=rss",
-    "time": "2026-10-29T10:15:20.000Z"
+    "url": "https://dtf.ru/cinema/5382367-netflix-sereal-po-pubg-s-donaldom-gloverom?from=rss",
+    "time": "2026-10-29T19:21:10.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zaXJlbmEu",
+    "title": "Вагнер из ЦСКА-2005 или Миранчук из «Локомотива»-2018 – кого возьмете в команду мечты?",
+    "description": "Наш ответ 7-0.",
+    "fullText": "Наш ответ 7-0.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/8/d0/c87982da948e5aca56621eae4c319.png",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sirena.sports.ru/gold-squad/?utm_source=native",
+    "time": "2026-10-29T18:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcHJ0cy5j",
+    "title": "ЦСКА – «Локомотив»: топ-вывеска в 5-м туре FONBET Кубка России. Следите за турниром с фрибетами от БК",
+    "description": "🔥 Будет горячо.",
+    "fullText": "🔥 Будет горячо.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/4/e7/8fd66fc274fb3ae9488fd296799b7.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://sprts.cc/AjpfI",
+    "time": "2026-10-29T16:00:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Кошмар русского защитника «Айлендерс»: травмы ломают ему второй сезон подряд",
+    "description": "Но все могло быть хуже.",
+    "fullText": "Но все могло быть хуже.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/8/25/4b941240244519074f6a22b54f921.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/hockey/blogs/3560821.html",
+    "time": "2026-10-29T15:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "«Анжи»: от первых успехов до внезапной распродажи звезд и борьбы за выживание",
+    "description": "«Футбольный клуб» вспоминает.",
+    "fullText": "«Футбольный клуб» вспоминает.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/0/78/aa7830da94ab1a2a70d9f91c4f665.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://video.sports.ru/video/-4SV5qW9Bk5S7G2NDbduaHDf12_SnOJS3OtV4kPpKAo",
+    "time": "2026-10-29T15:00:00.000Z"
   }
 ]
