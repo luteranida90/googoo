@@ -1,46 +1,57 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "РФ и Мали укрепляют противодействие отмыванию доходов в сфере драгкамней",
-    "description": "Реализация договоренностей будет способствовать повышению прозрачности операций с драгоценными металлами и совершенствованию механизмов контроля в этом секторе",
-    "fullText": "Реализация договоренностей будет способствовать повышению прозрачности операций с драгоценными металлами и совершенствованию механизмов контроля в этом секторе",
+    "title": "Аэропорт Саратова приостановил прием и выпуск самолетов",
+    "description": "Меры необходимы для обеспечения безопасности полетов",
+    "fullText": "Меры необходимы для обеспечения безопасности полетов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/ekonomika/28273055",
-    "time": "2026-10-30T18:18:58.000Z"
+    "url": "https://tass.ru/ekonomika/28273561",
+    "time": "2026-10-30T21:47:15.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Почему спорт так боится обидеть Китай?",
-    "description": "Разбор Игоря Сергеева.",
-    "fullText": "Разбор Игоря Сергеева.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/0/52/f859469f14b88a8f2e056ffd17afd.png",
+    "id": "aHR0cHM6Ly92aWRlby5z",
+    "title": "Как прошел последний матч России на хоккейном ЧМ? Бились с Канадой в 2021-м 📹",
+    "description": "Погружаемся.",
+    "fullText": "Погружаемся.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/7b/2879e76f94a6787f64e16469d2240.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3583115.html",
-    "time": "2026-10-30T14:20:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "«Теперь я заслужил свою победу»: трейлер с анонсом Лионеля Рафаля для Virtua Fighter Crossroads",
-    "description": "У персонажа есть связь с классическим героем серии.",
-    "fullText": "У персонажа есть связь с классическим героем серии.",
-    "image": "https://leonardo.osnova.io/fef2b4ea-8753-5418-be7d-e94728e45a84/-/format/mp4/",
-    "source": "DTF Киберспорт",
-    "category": "cybersport",
-    "url": "https://dtf.ru/games/5383684-lionel-rafal-virtua-fighter-crossroads?from=rss",
-    "time": "2026-10-30T14:09:31.000Z"
+    "url": "https://video.sports.ru/video/0vLy5D36nF2fVOmtqfqTMHGH3RHJwGUiCpyBKn-ZVfA",
+    "time": "2026-10-30T19:40:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Найдите на карте место, где Балотелли показал майку «Why Always Me?»",
-    "description": "Футбольный геогессер.",
-    "fullText": "Футбольный геогессер.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/f/3c/f41249ec24bdea5d7e37f84775884.png",
+    "title": "Смолов из «Краснодара»-2015 или Кураньи из «Динамо»-2011 – кого возьмете в команду?",
+    "description": "Наш ответ 7-0.",
+    "fullText": "Наш ответ 7-0.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/b/18/cf1c5af8c48118112c81dc99c05f3.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://sirena.sports.ru/photo-guesser/?utm_source=native",
-    "time": "2026-10-30T14:00:00.000Z"
+    "url": "https://sirena.sports.ru/gold-squad/?utm_source=native",
+    "time": "2026-10-30T19:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Новый стадион «Милана» и «Интера»: проект от архитектора «ВТБ-Арены», смелые сроки строительства",
+    "description": "Ну теперь-то переедут?",
+    "fullText": "Ну теперь-то переедут?",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/5/51/5d09d4f694414892a58547b05f92f.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/football/blogs/3583134.html",
+    "time": "2026-10-30T17:40:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9kdGYucnUv",
+    "title": "Продажи Gears of War: E-Day за первый месяц составили 400 тысяч копий — The Verge",
+    "description": "Что крайне мало для такого релиза.",
+    "fullText": "Что крайне мало для такого релиза.",
+    "image": "https://leonardo.osnova.io/e870fc53-2774-5bdd-af0e-b2430e019630/",
+    "source": "DTF Киберспорт",
+    "category": "cybersport",
+    "url": "https://dtf.ru/gameindustry/5383147-prodazhi-gears-of-war-e-day-okazalis-nizhe-ozhidaniy?from=rss",
+    "time": "2026-10-30T08:34:32.000Z"
   }
 ]
