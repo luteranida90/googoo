@@ -1,57 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "В Тюмени из подпольной лаборатории изъяли более 24 кг наркотиков",
-    "description": "В производстве веществ обвинили двух жителей города",
-    "fullText": "В производстве веществ обвинили двух жителей города",
+    "title": "Южная группировка за сутки уничтожила 99 тяжелых коптеров ВСУ",
+    "description": "Противник также лишился 63 наземных робототехнических комплексов",
+    "fullText": "Противник также лишился 63 наземных робототехнических комплексов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/proisshestviya/28287881",
-    "time": "2026-11-05T07:26:17.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly92aWRlby5z",
-    "title": "9:1 в Лиге чемпионов! «Комо» стер «Ланс» – вы должны это увидеть",
-    "description": "Это вообще законно?",
-    "fullText": "Это вообще законно?",
-    "image": "https://photobooth.cdn.sports.ru/preset/news/e/23/b5be48e2f4c188db3f6f2aa95c86f.jpeg",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://video.sports.ru/video/HkWD4yJF9dSSdnQ_zHltPP8T6A6MmA8yKwcKRp5E3XE?start=334",
-    "time": "2026-11-05T05:00:00.000Z"
-  },
-  {
-    "id": "aHR0cHM6Ly9zaXJlbmEu",
-    "title": "Аршавин из «Зенита»-2008 или Вагнер из ЦСКА-2005 – кого возьмете в команду мечты?",
-    "description": "Выберите лучших.",
-    "fullText": "Выберите лучших.",
-    "image": "https://photobooth.cdn.sports.ru/preset/article/8/ba/6920db081443eb34c92304bdfd58f.png",
-    "source": "Sports.ru",
-    "category": "all",
-    "url": "https://sirena.sports.ru/gold-squad/?utm_source=native",
-    "time": "2026-11-05T04:30:00.000Z"
+    "url": "https://tass.ru/armiya-i-opk/28290829",
+    "time": "2026-11-06T02:03:57.000Z"
   },
   {
     "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "Галактионов ждет, что его уволят из «Локо» – сам не уходит из-за неустойки. Решение стоит чуть ли не 120 млн",
-    "description": "Ну минимум 60.",
-    "fullText": "Ну минимум 60.",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/1/01/4fadfcea0434ca3d3b630ad0b7d39.jpeg",
+    "title": "ЦСКА не выиграет в Краснодаре, «Спартак» пойдет за очередным разгромом. Интриги 14-го тура РПЛ",
+    "description": "«Динамо» – в трудном Воронеже.",
+    "fullText": "«Динамо» – в трудном Воронеже.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/1/f5/6397f325443c2aede71b441f184cd.jpeg",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3601017.html",
-    "time": "2026-11-04T22:50:00.000Z"
+    "url": "https://www.sports.ru/betting/blogs/3604984.html",
+    "time": "2026-11-05T20:30:00.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly9jeWJlci5z",
+    "title": "Футболистка потроллила EA Sports и заработала именную эволюцию в FC 27",
+    "description": "Сила тиктока!",
+    "fullText": "Сила тиктока!",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/9/05/35691208c42e5a83df6e2e0fde846.jpeg",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://cyber.sports.ru/games/blogs/3566985.html",
+    "time": "2026-11-05T20:10:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "God of War Laufey перенесли на 20 мая 2027 года",
-    "description": "Дополнительное время на разработку позволит «сполна раскрыть» потенциал игры.",
-    "fullText": "Дополнительное время на разработку позволит «сполна раскрыть» потенциал игры.",
-    "image": "https://leonardo.osnova.io/e9860377-19a6-5924-96b3-6f6de1317ec3/",
+    "title": "Аниме-сериал «Ночь дурака» о людях, которые превращаются в растения, выйдет 26 ноября на Netflix — трейлер",
+    "description": "Шоу основано на одноимённой манге.",
+    "fullText": "Шоу основано на одноимённой манге.",
+    "image": "https://leonardo.osnova.io/3c247dcc-db65-5523-abe4-70cbd462e12e/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5393428-god-of-war-laufey-perenos-reliza?from=rss",
-    "time": "2026-11-04T17:13:01.000Z"
+    "url": "https://dtf.ru/anime/5394867-anime-noch-duraka-netflix?from=rss",
+    "time": "2026-11-05T13:24:08.000Z"
   }
 ]
