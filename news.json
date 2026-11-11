@@ -1,35 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly90YXNzLnJ1",
-    "title": "Посещение памятных мест ВОВ помогает Карпину в работе в сборной",
-    "description": "В прошлом году Российский футбольный союз посвятил матчи сборной России году 80-летия Победы в Великой Отечественной войне",
-    "fullText": "В прошлом году Российский футбольный союз посвятил матчи сборной России году 80-летия Победы в Великой Отечественной войне",
+    "title": "Международные Зимние игры паралимпийцев открылись в Югре",
+    "description": "В них примут участие более 240 спортсменов",
+    "fullText": "В них примут участие более 240 спортсменов",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600",
     "source": "ТАСС Спорт",
     "category": "all",
-    "url": "https://tass.ru/sport/28306227",
-    "time": "2026-11-11T09:33:40.000Z"
+    "url": "https://tass.ru/obschestvo/28308405",
+    "time": "2026-11-11T17:22:49.000Z"
   },
   {
-    "id": "aHR0cHM6Ly93d3cuc3Bv",
-    "title": "«МЮ» убирает Кэррика. Хотя еще в понедельник днем все были уверены, что оставят",
-    "description": "Почеттино – следующий?",
-    "fullText": "Почеттино – следующий?",
-    "image": "https://photobooth.cdn.sports.ru/preset/message/2/a7/a50992d7f4e839538ef471c4f2e6c.jpeg",
+    "id": "aHR0cHM6Ly9zcGVjaWFs",
+    "title": "Напишите игрокам сборной России перед матчем с Узбекистаном и выиграйте iPhone 18 Pro или PS5",
+    "description": "Крутые призы.",
+    "fullText": "Крутые призы.",
+    "image": "https://photobooth.cdn.sports.ru/preset/article/2/02/63bdc76b74e8b9daa02fe4f147b0c.png",
     "source": "Sports.ru",
     "category": "all",
-    "url": "https://www.sports.ru/football/blogs/3619684.html",
-    "time": "2026-11-11T05:15:00.000Z"
+    "url": "https://specials.sports.ru/bb-tur-so-sbornoy/?utm_source=native",
+    "time": "2026-11-11T16:00:00.000Z"
   },
   {
     "id": "aHR0cHM6Ly9kdGYucnUv",
-    "title": "В шестом сезоне Overwatch появится временный режим «шесть на шесть» с разделением по ролям",
-    "description": "Полностью возвращаться к нему не планируют, но авторы осознают важность такого формата.",
-    "fullText": "Полностью возвращаться к нему не планируют, но авторы осознают важность такого формата.",
-    "image": "https://leonardo.osnova.io/7bafb1fe-55f9-5fdf-b0b4-5333b01e9cd4/",
+    "title": "В IGN показали десять минут геймплея Trollheim: Gnomes — сказочного «выживача», вдохновлённого скандинавским фольклором",
+    "description": "Выход в раннем доступе состоится до конца 2026 года.",
+    "fullText": "Выход в раннем доступе состоится до конца 2026 года.",
+    "image": "https://leonardo.osnova.io/34860332-67dc-5ff6-b568-967e250a55ac/-/format/mp4/",
     "source": "DTF Киберспорт",
     "category": "cybersport",
-    "url": "https://dtf.ru/games/5404794-vremennyy-rezhim-shest-na-shest-v-overwatch?from=rss",
-    "time": "2026-11-10T19:50:15.000Z"
+    "url": "https://dtf.ru/games/5406259-geymplej-trollheim-gnomes?from=rss",
+    "time": "2026-11-11T14:56:41.000Z"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cuc3Bv",
+    "title": "Евлоев просто махнул рукой – и стал мемом",
+    "description": "Его жест используют везде.",
+    "fullText": "Его жест используют везде.",
+    "image": "https://photobooth.cdn.sports.ru/preset/message/9/f9/ed38abc1f42db9fcd89bfb79c8a8e.gif",
+    "source": "Sports.ru",
+    "category": "all",
+    "url": "https://www.sports.ru/boxing/blogs/3619672.html",
+    "time": "2026-11-11T13:10:00.000Z"
   }
 ]
